@@ -383,3 +383,21 @@ Template:
   - **Confidence:** `CERTAIN`
   - **Pages:** Pages/cains_jawbone_page_70.md
   - **Notes:** Used as a London reference point; may imply the Regent Street corridor/route (confirm).
+
+- **Dagenham**
+  - **Type:** town/area
+  - **Confidence:** `CERTAIN`
+  - **Pages:** Pages/cains_jawbone_page_84.md
+  - **Notes:** Bus route reference; might help constrain a London/East London cluster.
+
+- **Ghent**
+  - **Type:** city
+  - **Confidence:** `MAYBE`
+  - **Pages:** Pages/cains_jawbone_page_83.md
+  - **Notes:** Appears via “good news from Ghent” (likely Browning poem allusion rather than setting).
+
+- **Aix (Aix-la-Chapelle / Aachen)**
+  - **Type:** city
+  - **Confidence:** `MAYBE`
+  - **Pages:** Pages/cains_jawbone_page_83.md
+  - **Notes:** Paired with Ghent via Browning’s “good news” allusion; likely not literal travel.

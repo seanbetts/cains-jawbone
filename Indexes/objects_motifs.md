@@ -152,9 +152,9 @@ Template:
   - **Notes:** Likely a dated anecdote; may connect to other “to-day” death anchors.
 
 - **Dogs (named)**
-  - **Instances / variants:** Ravager (unclear); Bart chewing moccasins; Sandy (likely dog); red grouse retrieval; Bob Martin medicine
-  - **Pages:** Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_15.md, Pages/cains_jawbone_page_79.md
-  - **Notes:** Strengthens non-human POV thread (hunting/medicine/mating); track if Sandy recurs.
+  - **Instances / variants:** Ravager (unclear); Bart/Bartholomew (dog); Sandy (likely dog); red grouse retrieval; Bob Martin medicine
+  - **Pages:** Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_15.md, Pages/cains_jawbone_page_79.md, Pages/cains_jawbone_page_82.md
+  - **Notes:** Dog companionship appears in both animal-POV and human table scenes; track if the same named dog(s) recur across narrators/locations.
 
 - **Eyebrows / theatrical make-up**
   - **Instances / variants:** false eyebrows “like two fuzzy caterpillars”; applying black to eyebrows
@@ -163,7 +163,7 @@ Template:
 
 - **Tea (Lapsang / “Moning”)**
   - **Instances / variants:** seven pounds of Lapsang; “Moning” tea; Orange Pekoe; “Special Orange Supreme”
-  - **Pages:** Pages/cains_jawbone_page_17.md, Pages/cains_jawbone_page_47.md
+  - **Pages:** Pages/cains_jawbone_page_17.md, Pages/cains_jawbone_page_47.md, Pages/cains_jawbone_page_82.md
   - **Notes:** Potential location/brand clue; may recur with tea-house settings.
 
 - **Car models / driving**
@@ -207,9 +207,14 @@ Template:
   - **Notes:** Brand clue; may cluster with other cigarette brands (e.g., Gourdoulis).
 
 - **Roses / jasmine / hellebore**
-  - **Instances / variants:** wild jasmine; roses; “hellebore” as nuisance term; brimming bowl of yellow jasmine; Gelsemium semper-virens (yellow jasmine)
-  - **Pages:** Pages/cains_jawbone_page_24.md, Pages/cains_jawbone_page_37.md, Pages/cains_jawbone_page_59.md
-  - **Notes:** Plant motif overlaps with poison/gardening narrator threads; gelsemium is a poison plant.
+  - **Instances / variants:** wild jasmine; roses; “hellebore” as nuisance term; brimming bowl of yellow jasmine; Gelsemium semper-virens (yellow jasmine); red/white roses; “red May” scent; dew on a red rose (“sole survivor”); “yellow jasmine” clothing
+  - **Pages:** Pages/cains_jawbone_page_24.md, Pages/cains_jawbone_page_37.md, Pages/cains_jawbone_page_59.md, Pages/cains_jawbone_page_71.md, Pages/cains_jawbone_page_74.md, Pages/cains_jawbone_page_75.md, Pages/cains_jawbone_page_83.md, Pages/cains_jawbone_page_84.md
+  - **Notes:** Plant motif overlaps with poison/gardening narrator threads; repeated rose/jasmine colour cues may also be used as courtship/scene anchors.
+
+- **Drowning / “find the bottom”**
+  - **Instances / variants:** victim heaved from window into water; “Go find the bottom!”
+  - **Pages:** Pages/cains_jawbone_page_81.md
+  - **Notes:** Candidate murder-method marker; track for other water/depth language.
 
 - **Eggs / omelette**
   - **Instances / variants:** gift of eggs; “couldn’t have an omelette without breaking eggs”

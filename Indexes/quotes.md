@@ -446,3 +446,38 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_78.md
   - **Confidence:** `MAYBE`
   - **Research needed:** yes — identify source/context.
+
+- **Snippet:** “a babbled o’ green fields”
+  - **Likely source/author:** Shakespeare, *Henry V* (Falstaff death report)
+  - **Why it matters:** Strong quotation anchor; may tie this narrator to other Shakespeare-heavy pages.
+  - **Pages:** Pages/cains_jawbone_page_81.md
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
+
+- **Snippet:** “carnal, bloody and unnatural acts”
+  - **Likely source/author:** Shakespeare, *Hamlet* (Horatio’s summary)
+  - **Why it matters:** Another Hamlet anchor; may cluster table-scene narrator with other Hamlet quotations.
+  - **Pages:** Pages/cains_jawbone_page_82.md
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
+
+- **Snippet:** “Oh, to be in England”
+  - **Likely source/author:** Robert Browning (“Home-Thoughts, from Abroad”)
+  - **Why it matters:** Strong Browning anchor; may cluster a flower-seller/rose scene and help identify narrator reading set.
+  - **Pages:** Pages/cains_jawbone_page_83.md
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
+
+- **Snippet:** “good news from Ghent”
+  - **Likely source/author:** Robert Browning (“How They Brought the Good News from Ghent to Aix”)
+  - **Why it matters:** Distinctive allusion and title-level anchor.
+  - **Pages:** Pages/cains_jawbone_page_83.md
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
+
+- **Snippet:** “Death’s to fear from flame or steel… but from water—feel”
+  - **Likely source/author:** TBD
+  - **Why it matters:** Possible quoted line tied to a drowning murder; may encode a source text or clue phrase.
+  - **Pages:** Pages/cains_jawbone_page_81.md
+  - **Confidence:** `MAYBE`
+  - **Research needed:** yes — identify source/context.

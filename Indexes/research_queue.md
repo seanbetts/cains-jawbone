@@ -1013,3 +1013,80 @@ Template:
   - **Why it matters:** Strong quote anchor for narrator voice; may connect to other poem fragments.
   - **Status:** `open`
   - **Result:**
+
+- **Item:** Identify the source of “Death’s to fear from flame or steel… but from water—feel” (Page 81)
+  - **Type:** quote
+  - **Pages:** Pages/cains_jawbone_page_81.md
+  - **Why it matters:** Potential strong anchor embedded in an in-world drowning murder; might encode a clue.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Decode “Quails and Arty and Fakes… Band, Speckled” (Page 81)
+  - **Type:** other
+  - **Pages:** Pages/cains_jawbone_page_81.md
+  - **Why it matters:** Presented as misheard last words; may be an anagram/homophone pointer (possibly to Doyle’s “Speckled Band”).
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify “great asses of mice” and “to ladder danger” phrasing (Page 82)
+  - **Type:** quote/term
+  - **Pages:** Pages/cains_jawbone_page_82.md
+  - **Why it matters:** Might be a precise-source anchor or a clue phrase tied to the table/Lapsang/Henry segment.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify the “Poet Laureate” line about “brand o’ Cain” (Page 82)
+  - **Type:** quote
+  - **Pages:** Pages/cains_jawbone_page_82.md
+  - **Why it matters:** Could confirm narrator reading set and disambiguate which Henry segment this is.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify the “slow sweet name” (Spanish) in Page 83
+  - **Type:** other
+  - **Pages:** Pages/cains_jawbone_page_83.md
+  - **Why it matters:** Might be a name/wordplay key for identifying a person or place in this flower/rose scene.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify the metallic object dropped and retrieved in Page 83 (coin/key/other?)
+  - **Type:** other
+  - **Pages:** Pages/cains_jawbone_page_83.md
+  - **Why it matters:** Could be a continuity prop linking scenes (and the “daughterly” companion).
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify the “blind sailor” reference/quote in Page 84
+  - **Type:** quote/other
+  - **Pages:** Pages/cains_jawbone_page_84.md
+  - **Why it matters:** Could be a strong textual anchor for clustering and might encode a known story/line.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify whose arm went off “to-day” and whether it encodes a date (Page 84)
+  - **Type:** date
+  - **Pages:** Pages/cains_jawbone_page_84.md
+  - **Why it matters:** Potential “to-day” calendar key similar to other historical markers.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify “twin mouths of two lions” place reference (Page 85)
+  - **Type:** place/other
+  - **Pages:** Pages/cains_jawbone_page_85.md
+  - **Why it matters:** Could pin a specific street/location (and possibly link to other “lions” references).
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify “pale but multitudinous Blake” and the Kipling name-jibe clue (Page 85)
+  - **Type:** other
+  - **Pages:** Pages/cains_jawbone_page_85.md
+  - **Why it matters:** Could reveal narrator name/identity or a key allusive mapping (Blake vs Kipling).
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify what “the murderer that is to be hung next day” refers to (Page 85)
+  - **Type:** date/other
+  - **Pages:** Pages/cains_jawbone_page_85.md
+  - **Why it matters:** Could be an explicit calendar anchor or an in-world legal event.
+  - **Status:** `open`
+  - **Result:**

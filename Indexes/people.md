@@ -15,7 +15,7 @@ Template:
 - `P01` — Names/aliases: Henry
   - **Tells:** LIKELY actor (played Lesurques); LIKELY serial “intended” (has an “intended fifth”); associated with (possibly toxic) “Emperor’s Peg” at a ruined lighthouse; has a “great voice” linked to a “capstan bar”; appears as a subordinate who stoops/cleans and handles bodies; object of romance (“ready to love”); described as having multiple “killings” and a “latest victim” with blood present; later pursued by police (“flying squad”); linked to burying a corpse with “only the eyes” showing; also appears as a husband/guide in social scenes; linked to a half-burned marriage certificate; seen bending over a corpse of his own making; framed as “doomed to destroy… for family reasons”; explicit “third” (family lawyer) and “fourth” (chardlady) victims; described as an investigator (“peerless investigator”).
   - **Pronouns/relationships:** described as “the angel”; sometimes an absent advisor; sometimes an assistant obeying signals.
-  - **Pages:** Pages/cains_jawbone_page_2.md, Pages/cains_jawbone_page_4.md, Pages/cains_jawbone_page_5.md, Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_16.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_26.md, Pages/cains_jawbone_page_31.md, Pages/cains_jawbone_page_32.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_41.md, Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_44.md, Pages/cains_jawbone_page_45.md, Pages/cains_jawbone_page_47.md, Pages/cains_jawbone_page_49.md, Pages/cains_jawbone_page_58.md, Pages/cains_jawbone_page_60.md, Pages/cains_jawbone_page_63.md, Pages/cains_jawbone_page_68.md, Pages/cains_jawbone_page_71.md, Pages/cains_jawbone_page_76.md, Pages/cains_jawbone_page_77.md, Pages/cains_jawbone_page_78.md, Pages/cains_jawbone_page_80.md
+  - **Pages:** Pages/cains_jawbone_page_2.md, Pages/cains_jawbone_page_4.md, Pages/cains_jawbone_page_5.md, Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_16.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_26.md, Pages/cains_jawbone_page_31.md, Pages/cains_jawbone_page_32.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_41.md, Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_44.md, Pages/cains_jawbone_page_45.md, Pages/cains_jawbone_page_47.md, Pages/cains_jawbone_page_49.md, Pages/cains_jawbone_page_58.md, Pages/cains_jawbone_page_60.md, Pages/cains_jawbone_page_63.md, Pages/cains_jawbone_page_68.md, Pages/cains_jawbone_page_71.md, Pages/cains_jawbone_page_76.md, Pages/cains_jawbone_page_77.md, Pages/cains_jawbone_page_78.md, Pages/cains_jawbone_page_80.md, Pages/cains_jawbone_page_82.md, Pages/cains_jawbone_page_83.md, Pages/cains_jawbone_page_85.md
   - **Notes:** MAYBE multiple different “Henrys” across the book; do not merge/split without stronger anchors (surname, role, setting continuity).
 
 - `P02` — Names/aliases: Casy Ferris
@@ -144,11 +144,11 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_17.md
   - **Notes:** Track if this is a recurring Grace across pages.
 
-- `P23` — Names/aliases: Bart (uncertain; likely a dog)
-  - **Tells:** “chewing at my moccasins”.
+- `P23` — Names/aliases: Bart / Bartholomew (uncertain; likely a dog)
+  - **Tells:** “chewing at my moccasins”; paws narrator’s ankles at table; described as the narrator’s “third dog… in London”.
   - **Pronouns/relationships:** companion animal implied.
-  - **Pages:** Pages/cains_jawbone_page_15.md
-  - **Notes:** If later confirmed animal, consider moving tracking emphasis to motifs instead of people.
+  - **Pages:** Pages/cains_jawbone_page_15.md, Pages/cains_jawbone_page_82.md
+  - **Notes:** Likely the same dog-name form; keep separate from other Barts unless anchored.
 
 - `P24` — Names/aliases: Jasmine (cat)
   - **Tells:** explicitly “that cat Jasmine”.
@@ -455,3 +455,27 @@ Template:
   - **Pronouns/relationships:** companion/friend of an animal narrator.
   - **Pages:** Pages/cains_jawbone_page_79.md
   - **Notes:** Likely a dog; keep separate from other Sandy references unless anchored.
+
+- `P75` — Names/aliases: window victim (unnamed)
+  - **Tells:** thrown outward from a window with intent to drown; last words misheard as “Fakes… Quails… Arty… Band, Speckled.”
+  - **Pronouns/relationships:** none known.
+  - **Pages:** Pages/cains_jawbone_page_81.md
+  - **Notes:** MAYBE the same as another victim in the murder-justification pages; do not merge without stronger anchors.
+
+- `P76` — Names/aliases: Alistair
+  - **Tells:** set on his feet by “auroral imbibitious”; takes the Dagenham bus to his mother’s converted oast-house.
+  - **Pronouns/relationships:** child of an unnamed mother.
+  - **Pages:** Pages/cains_jawbone_page_84.md
+  - **Notes:** Track if his bus/route anchors a setting cluster.
+
+- `P77` — Names/aliases: Barbara
+  - **Tells:** wears a “yellow jasmine” one-piece; waves a towel; described with “tawny curls”.
+  - **Pronouns/relationships:** none known.
+  - **Pages:** Pages/cains_jawbone_page_84.md
+  - **Notes:** Might be a recurring young-woman figure (watch for jasmine/woodcock imagery).
+
+- `P78` — Names/aliases: waspish-eyed woman (unnamed)
+  - **Tells:** “wild gold waspish eyes”; converses with narrator about why “the deceased” wished them to know each other.
+  - **Pronouns/relationships:** conversation partner of narrator.
+  - **Pages:** Pages/cains_jawbone_page_84.md
+  - **Notes:** Keep separate from other unnamed “she” figures unless anchored by setting/voice.
