@@ -13,6 +13,7 @@ This is not a software project; the “code” here exists only to protect text 
 - `Skills/` — modular workflows (authoritative procedures in each `SKILL.md`)
 - `verify_pages.py` — integrity verifier (archive hash + page-body immutability)
 - `Worklog/worklog.csv` — mandatory session log (see `Skills/cjb-time-logging/SKILL.md`)
+- `Worklog/current_run.txt` — active run metadata (empty means no active run)
 
 ## Golden rules
 
@@ -38,6 +39,7 @@ The authoritative procedures/templates live in these files:
 - `Skills/cjb-quote-research/SKILL.md`
 - `Skills/cjb-verification/SKILL.md`
 - `Skills/cjb-time-logging/SKILL.md`
+- `Skills/cjb-run-management/SKILL.md`
 
 ## Integrity checking
 
@@ -58,6 +60,17 @@ It does **not** judge whether notes/hypotheses are correct.
 - Use branches for competing ordering approaches.
 - Tag major milestones (e.g. `milestone-first-clustering-pass`).
 - If a hypothesis collapses, prefer `git revert` over rewriting history.
+
+## Agent runs & branching
+
+- Each AI session runs on its own branch: `run/YYYYMMDD-<agent>-<focus>`.
+- The active run metadata lives in `Worklog/current_run.txt`; leave it empty to signal no active run.
+- During a run:
+  - Stay on the recorded branch (no merging other branches in).
+  - Log start/end times via the time-logging skill.
+  - Commit frequently; final commit should be `Run summary: ...`.
+- After a run:
+  - Run `python3 verify_pages.py`, update `Worklog/worklog.csv`, merge to `main` only if the work is accepted, and clear `Worklog/current_run.txt`.
 
 ## Spoilers policy
 

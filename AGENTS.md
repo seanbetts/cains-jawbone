@@ -6,13 +6,15 @@ This folder is a **literary puzzle workspace**, not a software project. The goal
 
 1. **Log time before/after work.**  
    Follow `Skills/cjb-time-logging/SKILL.md`: capture `start` (UTC) before opening files and append to `Worklog/worklog.csv` with `end`/`minutes` before finishing.
-2. **Never change page body text.**  
+2. **Use the active run branch.**  
+   Follow `Skills/cjb-run-management/SKILL.md`: read `Worklog/current_run.txt`, stay on the recorded branch if present, or create a new `run/YYYYMMDD-agent-focus` branch only when the file is empty. Do not work on `main` directly.
+3. **Never change page body text.**  
    For any file in `Pages/cains_jawbone_page_*.md`, only edit content **under** the `## Notes` heading. Do not alter, reflow, wrap, or “fix” punctuation in the page text above `## Notes`.
-3. **Keep the archive immutable.**  
+4. **Keep the archive immutable.**  
    Do not modify anything in `Archive/` (including `Archive/Cain's Jawbone Unformatted.txt` and `Archive/hash.txt`).
-4. **Verify after edits.**  
+5. **Verify after edits.**  
    After any batch of note edits, run: `python3 verify_pages.py` and ensure it prints `OK` (this checks page-body immutability, not whether notes/hypotheses are correct).
-5. **No brute force.**  
+6. **No brute force.**  
    Do not attempt permutation/brute-force ordering; progress comes from clue extraction, indexing, clustering, and evidence-based hypotheses.
 
 ## Working loop (default)
@@ -31,6 +33,7 @@ Keep all detailed procedures, templates, and rules in the Skill files to avoid d
 - **Quote research:** `Skills/cjb-quote-research/SKILL.md` — use when capturing/identifying allusions and managing the research queue.
 - **Verification:** `Skills/cjb-verification/SKILL.md` — use when running integrity checks and interpreting failures.
 - **Time logging:** `Skills/cjb-time-logging/SKILL.md` — use at the start and end of every working session to keep `Worklog/worklog.csv` accurate.
+- **Run management:** `Skills/cjb-run-management/SKILL.md` — use to create/close run branches and maintain `Worklog/current_run.txt`.
 
 ## Global artefacts (files we maintain)
 
@@ -65,6 +68,37 @@ Before finishing:
 4. Include `branch` and `commit` if available.
 
 See `Skills/cjb-time-logging/SKILL.md` for the full procedure and formatting requirements.
+
+## Agent runs and branching
+
+Discrete AI agent sessions are treated as **runs**. Runs use dedicated git branches and `Worklog/current_run.txt` to keep track of the active branch.
+
+### Creating a run
+- Check `Worklog/current_run.txt`. If it already lists a `branch=…`, continue on that branch.
+- If the file is empty:
+  - Create a new branch: `run/YYYYMMDD-<agent>-<focus>` (e.g. `run/20251215-claude-clustering-pass1`).
+  - Record branch metadata (branch/agent/task/start/notes) in `Worklog/current_run.txt`.
+
+### During a run
+- Commit frequently with small, descriptive commits.
+- Log start/end times using the Time Logging Skill.
+- Do not merge other branches into the run branch.
+- Leave `Worklog/current_run.txt` untouched so restarts pick up the same run.
+
+### Closing a run
+1. Run `python3 verify_pages.py`.
+2. Make a final commit summarising the run: `Run summary: <one sentence>`.
+3. Log the session end time and final commit in `Worklog/worklog.csv`.
+4. Clear `Worklog/current_run.txt` (empty file) once the run is complete.
+
+### After a run
+- Merge into `main` **only if** the run produced coherent progress.
+- If a run is rejected or inconclusive, leave the branch unmerged as a record.
+- Do not delete run branches unless explicitly instructed.
+
+### Source of truth
+- `main` always reflects the best current working state.
+- Experimental, partial, or speculative work lives only in run branches.
 
 ## Git and versioning
 
