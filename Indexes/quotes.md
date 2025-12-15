@@ -75,3 +75,24 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_9.md
   - **Confidence:** `CERTAIN`
   - **Research needed:** no
+
+- **Snippet:** “Ah, are you digging on my grave?”
+  - **Likely source/author:** Thomas Hardy (poem)
+  - **Why it matters:** Quote/allusion anchor in a will/documents scene; may cluster narrator voice.
+  - **Pages:** Pages/cains_jawbone_page_12.md
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
+
+- **Snippet:** “The golden one is gone from the banquets… beloved of Atimetus”
+  - **Likely source/author:** TBD (likely Alcestis/Admetus reference; “Atimetus” may be Admetus)
+  - **Why it matters:** Quote anchor in will/inheritance thread; may encode a date/identity.
+  - **Pages:** Pages/cains_jawbone_page_12.md
+  - **Confidence:** `MAYBE`
+  - **Research needed:** yes — identify exact source and correct name.
+
+- **Snippet:** “Rintrah, where has thou hid thy bride? … Ocalythron.”
+  - **Likely source/author:** William Blake
+  - **Why it matters:** Voice/literary tell; potential cluster for Blake-quoting narrator.
+  - **Pages:** Pages/cains_jawbone_page_13.md
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no

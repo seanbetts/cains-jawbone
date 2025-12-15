@@ -145,3 +145,66 @@ Template:
   - **Why it matters:** Brand/product clues may place time, class, or provide cross-page continuity.
   - **Status:** `open`
   - **Result:**
+
+- **Item:** Identify what “Orchard” and “Ravager” refer to in the Page 11 nautical passage
+  - **Type:** place/name/other
+  - **Pages:** Pages/cains_jawbone_page_11.md
+  - **Why it matters:** Could anchor a specific quotation, ship, or location (supports clustering and ordering).
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** What is “the Grundy Sapphic of yesterday”?
+  - **Type:** other
+  - **Pages:** Pages/cains_jawbone_page_11.md
+  - **Why it matters:** Might identify a publication/poem used as a time/date anchor (“yesterday”).
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify “The golden one is gone from the banquets… beloved of Atimetus” (and correct Atimetus/Admetus)
+  - **Type:** quote
+  - **Pages:** Pages/cains_jawbone_page_12.md
+  - **Why it matters:** Quote anchor in will/inheritance thread; could encode identity/date.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Clarify the Noel Coward “King Charles’s Head” reference on Page 12
+  - **Type:** quote/other
+  - **Pages:** Pages/cains_jawbone_page_12.md
+  - **Why it matters:** May be a precise allusion that clusters narrator voice or anchors a source text.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify which market place has a conduit dated 1597
+  - **Type:** place
+  - **Pages:** Pages/cains_jawbone_page_13.md
+  - **Why it matters:** Strong location anchor for clustering and travel constraints.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** What is meant by “Newdigate fringe” (Page 13)?
+  - **Type:** term/other
+  - **Pages:** Pages/cains_jawbone_page_13.md
+  - **Why it matters:** Could be an identifying class/profession clue or period slang.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify Janetta Sheringham (real-person reference vs in-world character)
+  - **Type:** name/other
+  - **Pages:** Pages/cains_jawbone_page_14.md
+  - **Why it matters:** Recurrence could link narrators/social circles; might be a disguised allusion.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify John Hewit + Sarah Drew lightning incident (date/place) and the letter-writer (narrator’s namesake)
+  - **Type:** date/place/other
+  - **Pages:** Pages/cains_jawbone_page_15.md
+  - **Why it matters:** Likely explicit calendar anchor (“on that very day”) and narrator identity clue (“namesake”).
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** What does “Lyons” refer to on Page 15 (city vs Lyons tea-shop/Corner House)?
+  - **Type:** place
+  - **Pages:** Pages/cains_jawbone_page_15.md
+  - **Why it matters:** Could anchor geography/time zone (or link to other “Lyons”/Lesurques references).
+  - **Status:** `open`
+  - **Result:**

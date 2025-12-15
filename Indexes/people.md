@@ -13,10 +13,10 @@ Template:
 ## Entries
 
 - `P01` — Names/aliases: Henry
-  - **Tells:** LIKELY actor (played Lesurques); LIKELY serial “intended” (has an “intended fifth”); associated with (possibly toxic) “Emperor’s Peg” at a ruined lighthouse.
-  - **Pronouns/relationships:** described as “the angel”; has an “intended fifth” (unnamed).
-  - **Pages:** Pages/cains_jawbone_page_2.md, Pages/cains_jawbone_page_4.md, Pages/cains_jawbone_page_5.md
-  - **Notes:** MAYBE the same Henry across all appearances; watch for surname/occupation confirmation.
+  - **Tells:** LIKELY actor (played Lesurques); LIKELY serial “intended” (has an “intended fifth”); associated with (possibly toxic) “Emperor’s Peg” at a ruined lighthouse; has a “great voice” linked to a “capstan bar”; appears as a subordinate who stoops/cleans and handles bodies.
+  - **Pronouns/relationships:** described as “the angel”; sometimes an absent advisor; sometimes an assistant obeying signals.
+  - **Pages:** Pages/cains_jawbone_page_2.md, Pages/cains_jawbone_page_4.md, Pages/cains_jawbone_page_5.md, Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_14.md
+  - **Notes:** MAYBE multiple different “Henrys” across the book; do not merge/split without stronger anchors (surname, role, setting continuity).
 
 - `P02` — Names/aliases: Casy Ferris
   - **Tells:** down-dropped eyes; “to-day is the day” (event day); father compared to a “valetudinarian walrus”.
@@ -101,3 +101,15 @@ Template:
   - **Pronouns/relationships:** none known.
   - **Pages:** Pages/cains_jawbone_page_7.md
   - **Notes:** MAYBE composite allusive name rather than an in-world character.
+
+- `P16` — Names/aliases: May
+  - **Tells:** addressed directly in will/inheritance talk (“leave everything to me?” / “do just as you think fit, May”).
+  - **Pronouns/relationships:** “she” in overheard dialogue; companion (unnamed).
+  - **Pages:** Pages/cains_jawbone_page_14.md
+  - **Notes:** MAYBE linked to Page 12’s will/documents scene.
+
+- `P17` — Names/aliases: Janetta Sheringham
+  - **Tells:** voice resemblance reference (“like and yet not like”).
+  - **Pronouns/relationships:** none known.
+  - **Pages:** Pages/cains_jawbone_page_14.md
+  - **Notes:** Track for recurrence; could be a real-person allusion or an in-world acquaintance.

@@ -65,3 +65,27 @@ Template:
   - **Confidence:** `MAYBE`
   - **Pages:** Pages/cains_jawbone_page_8.md
   - **Notes:** “Guido… on the sausage place” suggests a Bologna pun (needs confirmation).
+
+- **Orchard (unidentified)**
+  - **Type:** place (unknown)
+  - **Confidence:** `MAYBE`
+  - **Pages:** Pages/cains_jawbone_page_11.md
+  - **Notes:** “waited in Orchard… where he cast up blinded that night”; may be a quoted anchor rather than a literal location.
+
+- **Ireland**
+  - **Type:** country
+  - **Confidence:** `CERTAIN`
+  - **Pages:** Pages/cains_jawbone_page_11.md
+  - **Notes:** Mentioned in context of murders “not count[ing]” (De Quincey reference).
+
+- **Market place conduit (dated 1597)**
+  - **Type:** landmark/infrastructure
+  - **Confidence:** `MAYBE`
+  - **Pages:** Pages/cains_jawbone_page_13.md
+  - **Notes:** Conduit “dating from 1597” in “the market place” suggests a specific town (unidentified).
+
+- **Lyons (unidentified)**
+  - **Type:** city/venue (uncertain)
+  - **Confidence:** `MAYBE`
+  - **Pages:** Pages/cains_jawbone_page_15.md
+  - **Notes:** “my dear Lyons”; could be the city (Lyon) or a Lyons tea-shop/Corner House reference.
