@@ -6,3 +6,4 @@ date,agent,task,start,end,minutes,branch,commit,notes
 ,,,,,,,,
 2025-12-15,codex-cli,extract pages 1-5,2025-12-15T15:15:59Z,2025-12-15T15:24:48Z,9,run/20251215-codex-extract-pages-1-5,b2107c2,"Added notes for pages 1-5 and seeded indices plus initial clusters."
 2025-12-15,codex-cli,docs: clarify run + extraction-first,2025-12-15T15:29:33Z,2025-12-15T15:32:55Z,3,run/20251215-codex-extract-pages-1-5,7480856,"Clarified run scope and extraction-first sequencing in instructions."
+2025-12-15,codex-cli,extract pages 6-10,2025-12-15T15:34:30Z,2025-12-15T15:40:43Z,6,run/20251215-codex-extract-pages-1-5,8e09a9d,"Added notes for pages 6-10 and updated indices plus new clusters."
