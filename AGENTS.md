@@ -136,5 +136,5 @@ If a hypothesis collapses, revert the commit(s) that introduced it rather than e
 ## Safety & scope
 
 - **No spoilers:** do not import or reproduce known solved page orders, murderer/victim lists, or solution summaries from the internet unless the user explicitly requests spoilers.
-- **Allowed research (if enabled by the user):** only historical sources available in or before 1934 relevant to the clues (e.g., Chambers' Book of Days for calendar entries, Highways & Byways guidebooks for locations, pre-1934 dictionaries). Record results in `Indexes/quotes.md`, `Indexes/places.md`, and/or `Indexes/research_queue.md`.
+- **Mandatory research policy:** agents are expected to self-initiate research using only historically appropriate sources (≤1934). In particular, consult Chambers' Book of Days for calendar clues, Highways & Byways guides for geographic clues, and pre-1934 dictionaries/almanacs for terminology. Record all findings in the relevant indices and research queue.
 - Avoid reproducing large verbatim chunks of page text in outputs; quote only the minimum needed for identification.
