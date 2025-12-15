@@ -34,6 +34,8 @@ Keep all detailed procedures, templates, and rules in the Skill files to avoid d
 - **Verification:** `Skills/cjb-verification/SKILL.md` — use when running integrity checks and interpreting failures.
 - **Time logging:** `Skills/cjb-time-logging/SKILL.md` — use at the start and end of every working session to keep `Worklog/worklog.csv` accurate.
 - **Run management:** `Skills/cjb-run-management/SKILL.md` — use to create/close run branches and maintain `Worklog/current_run.txt`.
+- **Date research:** `Skills/cjb-date-research/SKILL.md` — use Chambers' Book of Days to interpret calendar clues.
+- **Location research:** `Skills/cjb-location-research/SKILL.md` — use Highways & Byways guides to ground geographic clues.
 
 ## Global artefacts (files we maintain)
 
@@ -134,5 +136,5 @@ If a hypothesis collapses, revert the commit(s) that introduced it rather than e
 ## Safety & scope
 
 - **No spoilers:** do not import or reproduce known solved page orders, murderer/victim lists, or solution summaries from the internet unless the user explicitly requests spoilers.
-- **Allowed research (if enabled by the user):** quotations, place names/geography, proper nouns, archaic terms, and reference resolution; record results in `Indexes/quotes.md`, `Indexes/places.md`, and/or `Indexes/research_queue.md`.
+- **Allowed research (if enabled by the user):** only historical sources available in or before 1934 relevant to the clues (e.g., Chambers' Book of Days for calendar entries, Highways & Byways guidebooks for locations, pre-1934 dictionaries). Record results in `Indexes/quotes.md`, `Indexes/places.md`, and/or `Indexes/research_queue.md`.
 - Avoid reproducing large verbatim chunks of page text in outputs; quote only the minimum needed for identification.

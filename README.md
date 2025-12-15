@@ -40,6 +40,8 @@ The authoritative procedures/templates live in these files:
 - `Skills/cjb-verification/SKILL.md`
 - `Skills/cjb-time-logging/SKILL.md`
 - `Skills/cjb-run-management/SKILL.md`
+- `Skills/cjb-date-research/SKILL.md`
+- `Skills/cjb-location-research/SKILL.md`
 
 ## Integrity checking
 
@@ -75,4 +77,7 @@ It does **not** judge whether notes/hypotheses are correct.
 ## Spoilers policy
 
 - Do not import solved page orders, murderer/victim lists, or solution summaries.
-- Research is allowed only for quotation/place/reference resolution; record results in the indices.
+- Research is limited to historically appropriate sources (≤1934). In particular:
+  - Use Chambers' Book of Days to interpret date/saint/holiday references.
+  - Use the Highways & Byways series to ground geographic descriptions.
+  - Record findings in the indices/research queue.
