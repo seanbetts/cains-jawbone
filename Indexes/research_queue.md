@@ -621,3 +621,59 @@ Template:
   - **Why it matters:** Headline line may be a quotation or natural-history reference used as an ordering anchor.
   - **Status:** `open`
   - **Result:**
+
+- **Item:** Identify Page 51’s cricket reference (“the eleven that played All England for a thousand guineas… beat them twenty-nine times in ten years”) and “large yets”
+  - **Type:** other
+  - **Pages:** Pages/cains_jawbone_page_51.md
+  - **Why it matters:** Could be a precise place/date/person anchor for “passing through” and may link a narrator/scene.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Confirm the date implied by Page 52’s Diamond Necklace cardinal acquittal reference
+  - **Type:** date
+  - **Pages:** Pages/cains_jawbone_page_52.md
+  - **Why it matters:** Likely a “to-day” calendar key for ordering.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Determine whether Sir Paul Trinder is a real reference or an in-world satirical character (Page 53)
+  - **Type:** name/other
+  - **Pages:** Pages/cains_jawbone_page_53.md
+  - **Why it matters:** Helps interpret the interview scene and potential political/academic satire thread.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify the source (if any) of “To pestle a poisoned poison behind his crimson lights” (Page 54)
+  - **Type:** quote
+  - **Pages:** Pages/cains_jawbone_page_54.md
+  - **Why it matters:** Might be a quoted instruction encoding poison method/victim detail; could link other quoted lines.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Confirm the Waterloo/La Belle Alliance date-anchor implied by Page 54
+  - **Type:** date
+  - **Pages:** Pages/cains_jawbone_page_54.md
+  - **Why it matters:** Could set an exact “to-day” and cluster a narrator timeline.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify the “English holiday… like that other fifth” reference in Page 55 (James; an Earl; brother Alexander)
+  - **Type:** date/other
+  - **Pages:** Pages/cains_jawbone_page_55.md
+  - **Why it matters:** Likely a deliverance/plot holiday (potentially Gowrie day) giving a strong date anchor.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify which “Old Mill at Bramley” is meant on Page 55 (place ID)
+  - **Type:** place
+  - **Pages:** Pages/cains_jawbone_page_55.md
+  - **Why it matters:** Could be a concrete geographic anchor and might connect to other Surrey/Kent pages.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Interpret Page 55’s “hard/gentle” smell-chord sequence (encoding?)
+  - **Type:** other
+  - **Pages:** Pages/cains_jawbone_page_55.md
+  - **Why it matters:** May be an intentional binary/musical/Morse-like code useful for ordering or identification.
+  - **Status:** `open`
+  - **Result:**

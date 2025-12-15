@@ -305,3 +305,15 @@ Template:
   - **Pronouns/relationships:** distinct from the unnamed “she” who “has got” the narrator.
   - **Pages:** Pages/cains_jawbone_page_47.md
   - **Notes:** Track for recurrence; may be an acquaintance vs focal woman.
+
+- `P50` — Names/aliases: Sir Paul Trinder
+  - **Tells:** public talker (“furor loquendi”); loudly attaches to “every ebbing cause” for twenty years; appears drunk and useful to an interviewer; recognisable beard (“white bear”).
+  - **Pronouns/relationships:** introduced to narrator/interviewer.
+  - **Pages:** Pages/cains_jawbone_page_53.md
+  - **Notes:** MAYBE satirical fictional; treat as in-world unless confirmed otherwise.
+
+- `P51` — Names/aliases: Miss Doncaster
+  - **Tells:** writes to narrator advising “the old man” to come; asks for a pestling/poisoning task; stirs narrator.
+  - **Pronouns/relationships:** adviser/letter-writer.
+  - **Pages:** Pages/cains_jawbone_page_54.md
+  - **Notes:** Track if she appears elsewhere in the plant/poison thread.

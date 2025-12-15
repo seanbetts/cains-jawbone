@@ -62,9 +62,14 @@ Template:
   - **Notes:** Product/brand clue; links cigarettes to debt/bill language.
 
 - **Cigarettes (unspecified)**
-  - **Instances / variants:** “She lit a cigarette” (no brand given)
-  - **Pages:** Pages/cains_jawbone_page_42.md
+  - **Instances / variants:** “She lit a cigarette” (no brand given); “first cigarette of the day”
+  - **Pages:** Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_55.md
   - **Notes:** Smoking appears in multiple scenes; connect if setting/character matches brand-specific mentions.
+
+- **Cigarettes (Nestor)**
+  - **Instances / variants:** “lit a Nestor”
+  - **Pages:** Pages/cains_jawbone_page_54.md
+  - **Notes:** Brand/period tell; may cluster with other named cigarette brands (Gianaclis/Gourdoulis).
 
 - **Tobacco (St. Bruno)**
   - **Instances / variants:** “first St. Bruno”

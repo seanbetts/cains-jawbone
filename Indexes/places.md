@@ -251,3 +251,15 @@ Template:
   - **Confidence:** `CERTAIN`
   - **Pages:** Pages/cains_jawbone_page_46.md, Pages/cains_jawbone_page_47.md
   - **Notes:** Mentioned explicitly (“visited England to-day for the first time”; “even in England”).
+
+- **La Belle Alliance**
+  - **Type:** inn/landmark (Waterloo reference)
+  - **Confidence:** `CERTAIN`
+  - **Pages:** Pages/cains_jawbone_page_54.md
+  - **Notes:** “meeting at La Belle Alliance” evokes Waterloo; potential date anchor.
+
+- **Bramley (Old Mill) (uncertain)**
+  - **Type:** village/landmark
+  - **Confidence:** `MAYBE`
+  - **Pages:** Pages/cains_jawbone_page_55.md
+  - **Notes:** “Old Mill at Bramley” picture with medlar tree, dovecot, grape vine; Bramley location needs identification.

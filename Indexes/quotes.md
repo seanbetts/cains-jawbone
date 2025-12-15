@@ -258,6 +258,41 @@ Template:
   - **Confidence:** `MAYBE`
   - **Research needed:** yes — identify source/context.
 
+- **Snippet:** “I dance with the dancers and drink with the drinkers.”
+  - **Likely source/author:** Walt Whitman (likely *Song of Myself*)
+  - **Why it matters:** Strong narrator/allusion-set anchor; links to other Whitman-quoting pages.
+  - **Pages:** Pages/cains_jawbone_page_51.md
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
+
+- **Snippet:** “The cardinal was acquitted to-day of all complicity in the affair of the Queen’s diamond necklace.”
+  - **Likely source/author:** Historical reference (Diamond Necklace affair; cardinal acquittal)
+  - **Why it matters:** Potential precise calendar anchor for “to-day”.
+  - **Pages:** Pages/cains_jawbone_page_52.md
+  - **Confidence:** `LIKELY`
+  - **Research needed:** yes — confirm date used.
+
+- **Snippet:** “To pestle a poisoned poison behind his crimson lights.”
+  - **Likely source/author:** TBD
+  - **Why it matters:** Possibly quoted instruction; may encode method (poison) + victim detail (“crimson lights”).
+  - **Pages:** Pages/cains_jawbone_page_54.md
+  - **Confidence:** `MAYBE`
+  - **Research needed:** yes — identify source/context.
+
+- **Snippet:** “to-day was the day of the meeting at La Belle Alliance.”
+  - **Likely source/author:** Historical reference (Waterloo / La Belle Alliance)
+  - **Why it matters:** Potential calendar anchor for “to-day” (Waterloo day).
+  - **Pages:** Pages/cains_jawbone_page_54.md
+  - **Confidence:** `LIKELY`
+  - **Research needed:** yes — confirm date used.
+
+- **Snippet:** “James had got off, the Earl and his brother Alexander had emphatically not.”
+  - **Likely source/author:** Historical reference (likely Gowrie conspiracy; James deliverance day)
+  - **Why it matters:** Potential “fifth” holiday/calendar anchor for “to-day”.
+  - **Pages:** Pages/cains_jawbone_page_55.md
+  - **Confidence:** `LIKELY`
+  - **Research needed:** yes — confirm event/date and how it’s used.
+
 - **Snippet:** “He was my friend… he was dear to me.”
   - **Likely source/author:** TBD (quoted as from “the murderous doctor”)
   - **Why it matters:** Could identify a specific “murderous doctor” text/trial and link the doctor plotline.
