@@ -15,7 +15,7 @@ Template:
 - `P01` — Names/aliases: Henry
   - **Tells:** LIKELY actor (played Lesurques); LIKELY serial “intended” (has an “intended fifth”); associated with (possibly toxic) “Emperor’s Peg” at a ruined lighthouse; has a “great voice” linked to a “capstan bar”; appears as a subordinate who stoops/cleans and handles bodies; object of romance (“ready to love”); described as having multiple “killings” and a “latest victim” with blood present; later pursued by police (“flying squad”); linked to burying a corpse with “only the eyes” showing; also appears as a husband/guide in social scenes; linked to a half-burned marriage certificate; seen bending over a corpse of his own making; framed as “doomed to destroy… for family reasons”; explicit “third” (family lawyer) and “fourth” (chardlady) victims; described as an investigator (“peerless investigator”).
   - **Pronouns/relationships:** described as “the angel”; sometimes an absent advisor; sometimes an assistant obeying signals.
-  - **Pages:** Pages/cains_jawbone_page_2.md, Pages/cains_jawbone_page_4.md, Pages/cains_jawbone_page_5.md, Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_16.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_26.md, Pages/cains_jawbone_page_31.md, Pages/cains_jawbone_page_32.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_41.md, Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_44.md, Pages/cains_jawbone_page_45.md, Pages/cains_jawbone_page_47.md, Pages/cains_jawbone_page_49.md, Pages/cains_jawbone_page_58.md, Pages/cains_jawbone_page_60.md, Pages/cains_jawbone_page_63.md
+  - **Pages:** Pages/cains_jawbone_page_2.md, Pages/cains_jawbone_page_4.md, Pages/cains_jawbone_page_5.md, Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_16.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_26.md, Pages/cains_jawbone_page_31.md, Pages/cains_jawbone_page_32.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_41.md, Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_44.md, Pages/cains_jawbone_page_45.md, Pages/cains_jawbone_page_47.md, Pages/cains_jawbone_page_49.md, Pages/cains_jawbone_page_58.md, Pages/cains_jawbone_page_60.md, Pages/cains_jawbone_page_63.md, Pages/cains_jawbone_page_68.md
   - **Notes:** MAYBE multiple different “Henrys” across the book; do not merge/split without stronger anchors (surname, role, setting continuity).
 
 - `P02` — Names/aliases: Casy Ferris
@@ -371,3 +371,33 @@ Template:
   - **Pronouns/relationships:** none known.
   - **Pages:** Pages/cains_jawbone_page_65.md
   - **Notes:** Might be in-world rival or a name chosen for biblical wordplay; hold lightly.
+
+- `P61` — Names/aliases: “poor old man” (unnamed)
+  - **Tells:** witnessed being “done slowly to death” by narrator; associated with a “last crucial meeting” and (possibly) an arthritic knee.
+  - **Pronouns/relationships:** old association with narrator (unclear).
+  - **Pages:** Pages/cains_jawbone_page_68.md, Pages/cains_jawbone_page_69.md, Pages/cains_jawbone_page_70.md
+  - **Notes:** Treat as a single provisional ID for the “old man” thread across these pages until contradicted.
+
+- `P62` — Names/aliases: untidy myopic-looking fellow (unnamed)
+  - **Tells:** steps on narrator’s foot; suspected eavesdropper at a “crucial meeting”.
+  - **Pronouns/relationships:** none known.
+  - **Pages:** Pages/cains_jawbone_page_68.md
+  - **Notes:** Track if he reappears as a watcher/agent in the “old man” thread.
+
+- `P63` — Names/aliases: “she” (Renaissance pose; unnamed)
+  - **Tells:** says “I don’t call that very terrible”; irritates/stimulates narrator.
+  - **Pronouns/relationships:** companion in a school-memorial scene.
+  - **Pages:** Pages/cains_jawbone_page_66.md
+  - **Notes:** Track for recurrence across the school/chapel cluster.
+
+- `P64` — Names/aliases: “the Head” (headmaster; unnamed)
+  - **Tells:** quips a colour-meaning triad; hall remembered as echoing his curses; linked to ether use.
+  - **Pronouns/relationships:** headmaster remembered by narrator (“as we called him”).
+  - **Pages:** Pages/cains_jawbone_page_66.md, Pages/cains_jawbone_page_67.md
+  - **Notes:** “Affront the dead” framing may imply he is deceased; do not assume without confirmation.
+
+- `P65` — Names/aliases: “the girl” (unnamed recipient)
+  - **Tells:** will “find it in the morning, franked, and all ready to go upon its way”.
+  - **Pronouns/relationships:** recipient of narrator’s letter/package; role unclear.
+  - **Pages:** Pages/cains_jawbone_page_70.md
+  - **Notes:** Candidate link to blackmail/confession mechanics; track for naming.

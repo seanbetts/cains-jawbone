@@ -376,3 +376,10 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_65.md
   - **Confidence:** `CERTAIN`
   - **Research needed:** no
+
+- **Snippet:** “yon same star, that’s westward from the pole, had made his course…”
+  - **Likely source/author:** Shakespeare, *Hamlet* (Act 1 Scene 1)
+  - **Why it matters:** Explicit time-setting quote; may help align night/morning transitions across pages.
+  - **Pages:** Pages/cains_jawbone_page_69.md
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no

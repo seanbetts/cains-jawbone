@@ -323,3 +323,27 @@ Template:
   - **Confidence:** `CERTAIN`
   - **Pages:** Pages/cains_jawbone_page_62.md
   - **Notes:** Guy Fawkes night anecdote; major-general statue referenced.
+
+- **Latham Chapel (unidentified)**
+  - **Type:** chapel/building
+  - **Confidence:** `CERTAIN`
+  - **Pages:** Pages/cains_jawbone_page_68.md
+  - **Notes:** “Fire… in the Latham Chapel in 1906” implies a specific institution; needs identification.
+
+- **Palos (Palos de la Frontera)**
+  - **Type:** town/port (Spain)
+  - **Confidence:** `CERTAIN`
+  - **Pages:** Pages/cains_jawbone_page_67.md
+  - **Notes:** Referenced via Columbus leaving Palos (likely a date anchor rather than setting).
+
+- **Piccadilly Circus (Eros)**
+  - **Type:** landmark/statue
+  - **Confidence:** `CERTAIN`
+  - **Pages:** Pages/cains_jawbone_page_70.md
+  - **Notes:** Used as a London reference point (“between Eros and the Queen’s Hall”).
+
+- **Queen’s Hall**
+  - **Type:** concert hall/venue (London)
+  - **Confidence:** `CERTAIN`
+  - **Pages:** Pages/cains_jawbone_page_70.md
+  - **Notes:** Used as a London reference point; may imply the Regent Street corridor/route (confirm).

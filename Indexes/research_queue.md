@@ -817,3 +817,52 @@ Template:
   - **Why it matters:** Could be a concrete profession tell and a scene-setting constraint.
   - **Status:** `open`
   - **Result:**
+
+- **Item:** Identify the school/institution implied by Pages 66–68 (fives courts + Hall + “Latham Chapel” fire in 1906)
+  - **Type:** place/other
+  - **Pages:** Pages/cains_jawbone_page_66.md, Pages/cains_jawbone_page_67.md, Pages/cains_jawbone_page_68.md
+  - **Why it matters:** Could lock a real location and strongly cluster the narrator segment; the 1906 fire is a potential date/place anchor.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify the “place of the Whympers” and how Mrs. Allingham’s fishshop + Conan Doyle cricket connect (Page 67)
+  - **Type:** place/name/other
+  - **Pages:** Pages/cains_jawbone_page_67.md
+  - **Why it matters:** Might identify the narrator’s birthplace and social circle; could anchor ordering via geography.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Confirm whether Page 67 is encoding a birthday/date via Columbus leaving Palos (3 Aug 1492)
+  - **Type:** date
+  - **Pages:** Pages/cains_jawbone_page_67.md
+  - **Why it matters:** If intentional, it’s a strong calendar key for ordering.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify the “joy’s crown of sorrow / sorrow’s crown of joy” phrase (Page 66)
+  - **Type:** quote
+  - **Pages:** Pages/cains_jawbone_page_66.md
+  - **Why it matters:** Could be a quotation anchor for narrator voice or a hidden reference.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify what “Alexander’s Ragtime Wedding Feast” refers to (Page 68)
+  - **Type:** quote/other
+  - **Pages:** Pages/cains_jawbone_page_68.md
+  - **Why it matters:** Might be a precise music-hall/song anchor or a deliberate “Alexander’s Ragtime Band” pointer.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify which Orpen painting (1912) is referenced by “the place between Eros and the Queen’s Hall” (Page 70)
+  - **Type:** place/other
+  - **Pages:** Pages/cains_jawbone_page_70.md
+  - **Why it matters:** Could pin a London street/route (likely Regent Street) and constrain ordering by geography.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Interpret the “warnings of the Ming” / “modest Munich” / “Efate” bracket wordplay (Page 70)
+  - **Type:** other
+  - **Pages:** Pages/cains_jawbone_page_70.md
+  - **Why it matters:** Might encode a name/route/instruction that affects ordering or motive.
+  - **Status:** `open`
+  - **Result:**
