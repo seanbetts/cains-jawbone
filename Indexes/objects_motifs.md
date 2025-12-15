@@ -103,7 +103,7 @@ Template:
 
 - **Eyebrows / theatrical make-up**
   - **Instances / variants:** false eyebrows “like two fuzzy caterpillars”; applying black to eyebrows
-  - **Pages:** Pages/cains_jawbone_page_16.md
+  - **Pages:** Pages/cains_jawbone_page_16.md, Pages/cains_jawbone_page_36.md
   - **Notes:** Theatre/cosmetics voice tell; links to other grooming/cosmetic pages.
 
 - **Tea (Lapsang / “Moning”)**
@@ -132,13 +132,13 @@ Template:
   - **Notes:** Strong antiquarian location anchor; pair with River Mole mention.
 
 - **Strong tea + first pill**
-  - **Instances / variants:** “my strong tea, and my first pill”
-  - **Pages:** Pages/cains_jawbone_page_20.md
-  - **Notes:** Potential continuity with other pill/drug narrators (Page 3).
+  - **Instances / variants:** “my strong tea, and my first pill”; “I took a pill… it was worth it”
+  - **Pages:** Pages/cains_jawbone_page_20.md, Pages/cains_jawbone_page_40.md
+  - **Notes:** Potential continuity with Page 3’s pill/poison narrator; unclear if the same substance.
 
 - **Calabar bean**
-  - **Instances / variants:** “Calabar Bean” invoked as “rough old friend”; “West African ordeal beans”; “physostigma”
-  - **Pages:** Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_29.md
+  - **Instances / variants:** “Calabar Bean” invoked as “rough old friend”; “West African ordeal beans”; “physostigma”; “old Calabar… should fail me”
+  - **Pages:** Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_29.md, Pages/cains_jawbone_page_36.md
   - **Notes:** Classic poison/medicine; explicitly connected to a gardening/poisoning experiment thread.
 
 - **Matches / matchboxes**
@@ -152,9 +152,29 @@ Template:
   - **Notes:** Brand clue; may cluster with other cigarette brands (e.g., Gourdoulis).
 
 - **Roses / jasmine / hellebore**
-  - **Instances / variants:** wild jasmine; roses; “hellebore” as nuisance term
-  - **Pages:** Pages/cains_jawbone_page_24.md
+  - **Instances / variants:** wild jasmine; roses; “hellebore” as nuisance term; brimming bowl of yellow jasmine
+  - **Pages:** Pages/cains_jawbone_page_24.md, Pages/cains_jawbone_page_37.md
   - **Notes:** Plant motif overlaps with poison/gardening narrator threads.
+
+- **Eggs / omelette**
+  - **Instances / variants:** gift of eggs; “couldn’t have an omelette without breaking eggs”
+  - **Pages:** Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_38.md
+  - **Notes:** Food motif that may double as a violence/necessity proverb.
+
+- **Burial (eyes showing)**
+  - **Instances / variants:** buried corpse with “only the eyes showed”
+  - **Pages:** Pages/cains_jawbone_page_36.md
+  - **Notes:** Grisly continuity hook for Henry/poison-garden thread.
+
+- **Gun bores / chambers**
+  - **Instances / variants:** “chamber within chamber”; “open the bores”
+  - **Pages:** Pages/cains_jawbone_page_37.md
+  - **Notes:** Suggests a firearm/evidence mechanism; may connect to other “chamber/bores” language.
+
+- **Undercoats / coats**
+  - **Instances / variants:** undercoats “raw liver colour”; only one inherited coat; “passion for getting new things”
+  - **Pages:** Pages/cains_jawbone_page_39.md
+  - **Notes:** Clothing/class motif; MAYBE animal-coded (“coat/undercoat”) given rabbits aside.
 
 - **Accent / heredity**
   - **Instances / variants:** “An accent was a terrible thing”; heredity speculation

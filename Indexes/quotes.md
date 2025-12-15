@@ -201,3 +201,38 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_35.md
   - **Confidence:** `MAYBE`
   - **Research needed:** yes — identify source/context.
+
+- **Snippet:** “Video meliora proboque”
+  - **Likely source/author:** Ovid (Metamorphoses)
+  - **Why it matters:** Classical-literacy voice tell; may cluster narrator.
+  - **Pages:** Pages/cains_jawbone_page_38.md
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
+
+- **Snippet:** “And some to Flecker turn to pray, and I toward thy bed.”
+  - **Likely source/author:** TBD (Flecker reference; likely a reshaped quotation)
+  - **Why it matters:** Could identify a source text and help place the narrator’s reading/allusion set.
+  - **Pages:** Pages/cains_jawbone_page_40.md
+  - **Confidence:** `MAYBE`
+  - **Research needed:** yes — identify the original line and why Flecker is invoked.
+
+- **Snippet:** “the winds are really not infectious”
+  - **Likely source/author:** TBD
+  - **Why it matters:** Could be a scientific/literary quotation used as a chemistry/medicine tell.
+  - **Pages:** Pages/cains_jawbone_page_40.md
+  - **Confidence:** `MAYBE`
+  - **Research needed:** yes — identify source.
+
+- **Snippet:** “The bean bursts noiselessly through the mould in the garden. Out of its little hill faithfully rise the potato’s dark green leaves.”
+  - **Likely source/author:** TBD
+  - **Why it matters:** Distinctive growth imagery; may be a quotation and part of the plant/poison narrator’s allusion set.
+  - **Pages:** Pages/cains_jawbone_page_40.md
+  - **Confidence:** `MAYBE`
+  - **Research needed:** yes — identify source.
+
+- **Snippet:** “Your good uncle, whom you count the father of your fortune, longed for this alliance.”
+  - **Likely source/author:** TBD
+  - **Why it matters:** Distinct phrasing suggests a quotation/embedded voice; could link pages via the same source.
+  - **Pages:** Pages/cains_jawbone_page_36.md
+  - **Confidence:** `MAYBE`
+  - **Research needed:** yes — identify source/context.

@@ -446,3 +446,80 @@ Template:
   - **Why it matters:** Might reveal a specific source text being pastiched (and anchor character identity).
   - **Status:** `open`
   - **Result:**
+
+- **Item:** Identify the “good uncle… father of your fortune… longed for this alliance” line in Page 36
+  - **Type:** quote/other
+  - **Pages:** Pages/cains_jawbone_page_36.md
+  - **Why it matters:** Could identify an embedded source voice and link other pages quoting it.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Confirm whether Page 36’s “old Calabar” failure refers to Calabar bean/physostigma poisoning logistics
+  - **Type:** term/other
+  - **Pages:** Pages/cains_jawbone_page_36.md
+  - **Why it matters:** Strengthens the plant/poison method thread and timing (“give him another day”).
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify the “place of Hotspur’s death” incarceration clue and intended prison/town (Page 37)
+  - **Type:** place/other
+  - **Pages:** Pages/cains_jawbone_page_37.md
+  - **Why it matters:** Potential strong place anchor (likely Shrewsbury area) for ordering.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** What are the “Paulo Post Avorticists” (Page 37) and is “Paulo”/“Avorticists” a clue?
+  - **Type:** other
+  - **Pages:** Pages/cains_jawbone_page_37.md
+  - **Why it matters:** Could identify an art movement/exhibit used as a date or voice marker.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Interpret Page 37’s “open the bores” / “chamber within chamber” (weapon/evidence?) and the narrator’s “one… other” biographical remark
+  - **Type:** other
+  - **Pages:** Pages/cains_jawbone_page_37.md
+  - **Why it matters:** Could identify the murder method or narrator identity tell.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify Sonia Gordon and the Southend “tragic fortnight” story (Page 38)
+  - **Type:** name/place/other
+  - **Pages:** Pages/cains_jawbone_page_38.md
+  - **Why it matters:** Might be a specific anecdote/event used as an anchor; could recur with Sonia/cousin references.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Confirm whether the “Charlotte Brontë with the undulled blade” substitution (Page 38) is a deliberate recurring tell (Corday/Marat)
+  - **Type:** other
+  - **Pages:** Pages/cains_jawbone_page_38.md
+  - **Why it matters:** If consistent, helps identify a narrator/voice pattern.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Confirm the intended “George Combe” / “Free Knowledgist” reference on Page 39 and what “two all for that year” refers to
+  - **Type:** name/other
+  - **Pages:** Pages/cains_jawbone_page_39.md
+  - **Why it matters:** Could link to phrenology/education motifs or a dated sporting reference.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify the Flecker-related line (“some to Flecker turn to pray…”) and the “winds not infectious” quote on Page 40
+  - **Type:** quote
+  - **Pages:** Pages/cains_jawbone_page_40.md
+  - **Why it matters:** Could anchor narrator reading set and strengthen time/place cues.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify the “bean bursts noiselessly…” / potato leaves line on Page 40
+  - **Type:** quote
+  - **Pages:** Pages/cains_jawbone_page_40.md
+  - **Why it matters:** Distinctive growth imagery may be a quotation and could help cluster the plant/poison narrator.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify Eric Parker’s “Thames Ditton’s sister” phrasing and the Irishman’s malapropism (Page 40)
+  - **Type:** quote/other
+  - **Pages:** Pages/cains_jawbone_page_40.md
+  - **Why it matters:** Confirms the Long Ditton place clue and might connect to other Eric Parker/Irish malapropism pages.
+  - **Status:** `open`
+  - **Result:**

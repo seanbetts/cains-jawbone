@@ -185,3 +185,33 @@ Template:
   - **Confidence:** `CERTAIN`
   - **Pages:** Pages/cains_jawbone_page_31.md
   - **Notes:** Recalled as an “awful night” listening for a particular sound.
+
+- **Malta**
+  - **Type:** island/country
+  - **Confidence:** `CERTAIN`
+  - **Pages:** Pages/cains_jawbone_page_37.md
+  - **Notes:** Recalled as a week meeting Ronald Firbank; “jaundiced” aside.
+
+- **Southend (likely Southend-on-Sea)**
+  - **Type:** town/seaside resort
+  - **Confidence:** `LIKELY`
+  - **Pages:** Pages/cains_jawbone_page_38.md
+  - **Notes:** “tragic fortnight” memory; pier with electrical railway.
+
+- **Shrewsbury (Hotspur’s death place, uncertain)**
+  - **Type:** town/city
+  - **Confidence:** `MAYBE`
+  - **Pages:** Pages/cains_jawbone_page_37.md
+  - **Notes:** Hotspur died at/near Shrewsbury; page references a “male incarcerated at the place of Hotspur’s death”.
+
+- **Thames Ditton**
+  - **Type:** village
+  - **Confidence:** `CERTAIN`
+  - **Pages:** Pages/cains_jawbone_page_40.md
+  - **Notes:** Used as a reference point (“Thames Ditton’s sister”).
+
+- **Long Ditton**
+  - **Type:** village
+  - **Confidence:** `LIKELY`
+  - **Pages:** Pages/cains_jawbone_page_40.md
+  - **Notes:** Implied by “Thames Ditton’s sister… Long she was.”

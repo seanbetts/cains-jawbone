@@ -13,9 +13,9 @@ Template:
 ## Entries
 
 - `P01` — Names/aliases: Henry
-  - **Tells:** LIKELY actor (played Lesurques); LIKELY serial “intended” (has an “intended fifth”); associated with (possibly toxic) “Emperor’s Peg” at a ruined lighthouse; has a “great voice” linked to a “capstan bar”; appears as a subordinate who stoops/cleans and handles bodies; object of romance (“ready to love”); described as having multiple “killings” and a “latest victim” with blood present; later pursued by police (“flying squad”).
+  - **Tells:** LIKELY actor (played Lesurques); LIKELY serial “intended” (has an “intended fifth”); associated with (possibly toxic) “Emperor’s Peg” at a ruined lighthouse; has a “great voice” linked to a “capstan bar”; appears as a subordinate who stoops/cleans and handles bodies; object of romance (“ready to love”); described as having multiple “killings” and a “latest victim” with blood present; later pursued by police (“flying squad”); linked to burying a corpse with “only the eyes” showing.
   - **Pronouns/relationships:** described as “the angel”; sometimes an absent advisor; sometimes an assistant obeying signals.
-  - **Pages:** Pages/cains_jawbone_page_2.md, Pages/cains_jawbone_page_4.md, Pages/cains_jawbone_page_5.md, Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_16.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_26.md, Pages/cains_jawbone_page_31.md, Pages/cains_jawbone_page_32.md, Pages/cains_jawbone_page_35.md
+  - **Pages:** Pages/cains_jawbone_page_2.md, Pages/cains_jawbone_page_4.md, Pages/cains_jawbone_page_5.md, Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_16.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_26.md, Pages/cains_jawbone_page_31.md, Pages/cains_jawbone_page_32.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md
   - **Notes:** MAYBE multiple different “Henrys” across the book; do not merge/split without stronger anchors (surname, role, setting continuity).
 
 - `P02` — Names/aliases: Casy Ferris
@@ -245,3 +245,27 @@ Template:
   - **Pronouns/relationships:** has an assistant; has a bulldog.
   - **Pages:** Pages/cains_jawbone_page_35.md
   - **Notes:** MAYBE fictional detective/pastiche; track if he reappears.
+
+- `P40` — Names/aliases: Mavis Kitchener
+  - **Tells:** brings a “gift of eggs” at 11 a.m.; marriage-alliance pressure surrounds her.
+  - **Pronouns/relationships:** courted as a marriage prospect (narrator perspective).
+  - **Pages:** Pages/cains_jawbone_page_36.md
+  - **Notes:** Track whether this is an allusive “Kitchener” name or an in-world character.
+
+- `P41` — Names/aliases: Alexander (young; uncertain)
+  - **Tells:** sends an invitation to a private view; appears in jasmine-bowl scene.
+  - **Pronouns/relationships:** “young”.
+  - **Pages:** Pages/cains_jawbone_page_37.md
+  - **Notes:** Not necessarily the same “Alexander” referenced elsewhere.
+
+- `P42` — Names/aliases: Sonia Gordon
+  - **Tells:** referenced in “tragic fortnight” memory; elbow-dimple comparison.
+  - **Pronouns/relationships:** none known.
+  - **Pages:** Pages/cains_jawbone_page_38.md
+  - **Notes:** Could be in-world acquaintance or allusive name; track recurrence.
+
+- `P43` — Names/aliases: George (Combe?) (uncertain)
+  - **Tells:** “there was a George too”; linked to “Combe” and “Free Knowledgist”.
+  - **Pronouns/relationships:** called “he” by speaker.
+  - **Pages:** Pages/cains_jawbone_page_39.md
+  - **Notes:** MAYBE George Combe reference; do not lock in without confirmation.
