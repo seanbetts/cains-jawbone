@@ -13,7 +13,7 @@ Template:
   - **Disconfirming evidence:** (what would falsify this cluster)  
 
 - **Cluster:** Henry name occurrences (confidence: `MAYBE`)
-  - **Pages:** Pages/cains_jawbone_page_2.md, Pages/cains_jawbone_page_4.md, Pages/cains_jawbone_page_5.md, Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_14.md
+  - **Pages:** Pages/cains_jawbone_page_2.md, Pages/cains_jawbone_page_4.md, Pages/cains_jawbone_page_5.md, Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_16.md
   - **Rationale:** “Henry” appears across multiple scenes with shifting roles; may be one person or multiple people sharing the name.
   - **Key anchors:** “Lesurques” (Courier of Lyons?) role reference; ruined lighthouse + “Emperor’s Peg”; capstan-bar / dog-watch nautical register; Henry stooping/cleaning and handling bodies.
   - **Disconfirming evidence:** later pages give different surnames/biographical details for each “Henry”, or show mutually exclusive locations/timelines.
@@ -36,11 +36,17 @@ Template:
   - **Key anchors:** Speckled Band; Baker Street; “investigator/judge” motif.
   - **Disconfirming evidence:** later pages clearly separate narrators/contexts for these allusions.
 
-- **Cluster:** Mid-August calendar hints (confidence: `MAYBE`)
-  - **Pages:** Pages/cains_jawbone_page_8.md, Pages/cains_jawbone_page_10.md
-  - **Rationale:** “to-day” tied to historical deaths + “Hyacinth’s day / Jasmine’s day” with “went back two days” suggests a calendar-driven micro-sequence.
-  - **Key anchors:** Guido/Kilmarnock/Balmerino “to-day”; Hyacinth/Jasmine day-names + explicit offset.
-  - **Disconfirming evidence:** dates don’t align on verification, or “day” terms are private nicknames rather than calendar anchors.
+- **Cluster:** Mid-August calendar hints (confidence: `LIKELY`)
+  - **Pages:** Pages/cains_jawbone_page_8.md, Pages/cains_jawbone_page_10.md, Pages/cains_jawbone_page_19.md
+  - **Rationale:** Page 19’s “Human Comedy… beyond to-day” strongly suggests Balzac’s death date, aligning with Page 8’s Guido/Kilmarnock/Balmerino “to-day”; Page 10 supplies nearby “Hyacinth’s day / Jasmine’s day” with an explicit 2‑day offset.
+  - **Key anchors:** Guido/Kilmarnock/Balmerino “to-day”; “Human Comedy” “to-day”; Hyacinth/Jasmine day-names + “went back two days”.
+  - **Disconfirming evidence:** dates don’t align when verified, or “day” terms are private nicknames rather than calendar anchors.
+
+- **Cluster:** Mr. Hall + knob mechanism (confidence: `LIKELY`)
+  - **Pages:** Pages/cains_jawbone_page_8.md, Pages/cains_jawbone_page_19.md
+  - **Rationale:** Both pages feature “twiddling” a (black/polished) knob followed by Mr. Hall entering; suggests the same scene/device.
+  - **Key anchors:** repeated Mr. Hall entrances; knob described as black/red vs polished.
+  - **Disconfirming evidence:** later pages show multiple unrelated Mr. Hall contexts or different mechanisms.
 
 - **Cluster:** Wills and inheritance (confidence: `MAYBE`)
   - **Pages:** Pages/cains_jawbone_page_12.md, Pages/cains_jawbone_page_14.md
