@@ -91,3 +91,14 @@ Track *in-world* death/murder hypotheses separately from page-ordering hypothese
   - **Narrative tells:** Self-exculpation (“thank goodness, I was no detective”); black humour (“pulled up his socks… heaved outward”); deliberate death-wish framing (“He was asking for it”).
   - **Evidence summary:** The page narrates a direct killing act with intent and an explicit “victim” label; outcome is treated as likely fatal (“with any luck, was dead”).
   - **Falsifiers:** Later pages show the victim survives, or the whole incident resolves as a quoted story/metaphor rather than an in-world event.
+
+- `E07` (confidence: `0.20`; status: `active`)
+  - **Pages:** Pages/cains_jawbone_page_89.md
+  - **Victim candidate(s):** `P82` (signature-man; identity unknown)
+  - **Murderer candidate(s):** `UNKNOWN` (narrator implies intent)
+  - **Means/method:** `UNKNOWN`
+  - **Motive:** MAYBE fear of exposure/blackmail (“good memory” + “signatures were his business”)
+  - **Opportunity:** Narrator is in conversation immediately after being introduced to the target.
+  - **Narrative tells:** Wordplay that reads like a literal threat (“That signed his death warrant. Well, signatures were his business.”).
+  - **Evidence summary:** The page implies a decision to kill a newly introduced man, but no act or outcome is narrated.
+  - **Falsifiers:** “Death warrant” is purely idiomatic or comic wordplay with no subsequent in-world harm to this person.

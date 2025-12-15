@@ -13,7 +13,7 @@ Template:
   - **Disconfirming evidence:** (what would falsify this cluster)  
 
 - **Cluster:** Henry name occurrences (confidence: `MAYBE`)
-  - **Pages:** Pages/cains_jawbone_page_2.md, Pages/cains_jawbone_page_4.md, Pages/cains_jawbone_page_5.md, Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_16.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_26.md, Pages/cains_jawbone_page_31.md, Pages/cains_jawbone_page_32.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_41.md, Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_44.md, Pages/cains_jawbone_page_45.md, Pages/cains_jawbone_page_47.md, Pages/cains_jawbone_page_49.md, Pages/cains_jawbone_page_58.md, Pages/cains_jawbone_page_60.md, Pages/cains_jawbone_page_63.md, Pages/cains_jawbone_page_68.md, Pages/cains_jawbone_page_71.md, Pages/cains_jawbone_page_76.md, Pages/cains_jawbone_page_77.md, Pages/cains_jawbone_page_78.md, Pages/cains_jawbone_page_80.md, Pages/cains_jawbone_page_82.md, Pages/cains_jawbone_page_83.md, Pages/cains_jawbone_page_85.md
+  - **Pages:** Pages/cains_jawbone_page_2.md, Pages/cains_jawbone_page_4.md, Pages/cains_jawbone_page_5.md, Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_16.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_26.md, Pages/cains_jawbone_page_31.md, Pages/cains_jawbone_page_32.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_41.md, Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_44.md, Pages/cains_jawbone_page_45.md, Pages/cains_jawbone_page_47.md, Pages/cains_jawbone_page_49.md, Pages/cains_jawbone_page_58.md, Pages/cains_jawbone_page_60.md, Pages/cains_jawbone_page_63.md, Pages/cains_jawbone_page_68.md, Pages/cains_jawbone_page_71.md, Pages/cains_jawbone_page_76.md, Pages/cains_jawbone_page_77.md, Pages/cains_jawbone_page_78.md, Pages/cains_jawbone_page_80.md, Pages/cains_jawbone_page_82.md, Pages/cains_jawbone_page_83.md, Pages/cains_jawbone_page_85.md, Pages/cains_jawbone_page_86.md, Pages/cains_jawbone_page_87.md
   - **Rationale:** “Henry” appears across multiple scenes with shifting roles; may be one person or multiple people sharing the name.
   - **Key anchors:** “Lesurques” (Courier of Lyons?) role reference; ruined lighthouse + “Emperor’s Peg”; capstan-bar / dog-watch nautical register; Henry stooping/cleaning and handling bodies; Page 21’s “latest victim” + blood; Page 26’s “first two killings” + companion/rector’s aunt; Page 35’s police manhunt; Page 36’s buried corpse detail + “made up”; Pages 41–45 marriage/murder framing (certificate/corpse); Pages 47/49 attraction + “doomed to destroy… for family reasons”; Page 58’s “third/fourth” victims; Page 60’s “peerless investigator” role.
   - **Disconfirming evidence:** later pages give different surnames/biographical details for each “Henry”, or show mutually exclusive locations/timelines.
@@ -154,6 +154,10 @@ Template:
   - **Why:** Direct sentence continuation across the page break (“hung round with photographs…”).
   - **Disconfirming evidence:** Only if a transcription artifact is discovered (unlikely given page integrity checks).
 
+- **Sequence (confidence: CERTAIN):** `Pages/cains_jawbone_page_86.md → Pages/cains_jawbone_page_87.md`
+  - **Why:** Direct continuation of a quotation split across the page break (“…kissed the quiet feet / Of the old bold mate…”).
+  - **Disconfirming evidence:** Only if the quotation appears elsewhere uninterrupted (making the break coincidental).
+
 - **Sequence (confidence: MAYBE):** `Pages/cains_jawbone_page_74.md → Pages/cains_jawbone_page_75.md`
   - **Why:** Page 74’s secrecy about “them” (bought in Leningrad from an OGPU-linked seller) plausibly links to Page 75’s unreadable “orange tinted documents”.
   - **Disconfirming evidence:** “Them” refers to something other than documents and no shared objects/references recur.
@@ -169,6 +173,10 @@ Template:
 - **Sequence (confidence: MAYBE):** `Pages/cains_jawbone_page_68.md → Pages/cains_jawbone_page_69.md → Pages/cains_jawbone_page_70.md`
   - **Why:** Shared “old man” thread (crucial meeting → slow death witnessed → letter/retaliation fear) suggests narrative continuity.
   - **Disconfirming evidence:** “old man” is generic or the pronoun targets differ across pages.
+
+- **Sequence (confidence: MAYBE):** `Pages/cains_jawbone_page_89.md → Pages/cains_jawbone_page_90.md`
+  - **Why:** Both pages centre an “old gentleman” figure within a hunting/food register (deer/collops; deer-stalker) in a refined venue context.
+  - **Disconfirming evidence:** The two old-gentleman figures are distinct, or the settings differ (moor/outdoors vs indoor soigné venue) with no bridging continuity.
 
 - **Sequence (confidence: MAYBE):** `Pages/cains_jawbone_page_52.md → Pages/cains_jawbone_page_53.md`
   - **Why:** Page 52 sets up an interview-with-papers framed as “commentary… page after page”; Page 53 continues with an “introduced to me” subject (Sir Paul Trinder) in drink, consistent with a run of interview pages.

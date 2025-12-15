@@ -66,3 +66,12 @@ Track people as candidates with evolving roles. This file is deliberately probab
   - **Evidence summary:** Referred to explicitly as “the victim” and then physically “heaved outward” from a window with drowning intent (“Go find the bottom!”).
   - **Falsifiers:** Later pages show the scene is metaphorical/quoted, or the victim is shown alive/otherwise unharmed after the window incident.
   - **Status:** `active`
+
+- `P82`
+  - **Aliases / names used:** signature-man (unnamed “ancient”)
+  - **Role candidate:** `victim`
+  - **Confidence (0.0–1.0):** 0.20
+  - **Supporting pages:** Pages/cains_jawbone_page_89.md
+  - **Evidence summary:** Narrator frames a newly introduced man as doomed (“That signed his death warrant”) with punning emphasis on his signature business.
+  - **Falsifiers:** “Death warrant” resolves as a purely idiomatic joke, or the man is later shown to be unharmed and unrelated to in-world murders.
+  - **Status:** `active`
