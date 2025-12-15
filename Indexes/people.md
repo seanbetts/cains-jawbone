@@ -13,9 +13,9 @@ Template:
 ## Entries
 
 - `P01` — Names/aliases: Henry
-  - **Tells:** LIKELY actor (played Lesurques); LIKELY serial “intended” (has an “intended fifth”); associated with (possibly toxic) “Emperor’s Peg” at a ruined lighthouse; has a “great voice” linked to a “capstan bar”; appears as a subordinate who stoops/cleans and handles bodies; object of romance (“ready to love”).
+  - **Tells:** LIKELY actor (played Lesurques); LIKELY serial “intended” (has an “intended fifth”); associated with (possibly toxic) “Emperor’s Peg” at a ruined lighthouse; has a “great voice” linked to a “capstan bar”; appears as a subordinate who stoops/cleans and handles bodies; object of romance (“ready to love”); described as having a “latest victim” with blood present.
   - **Pronouns/relationships:** described as “the angel”; sometimes an absent advisor; sometimes an assistant obeying signals.
-  - **Pages:** Pages/cains_jawbone_page_2.md, Pages/cains_jawbone_page_4.md, Pages/cains_jawbone_page_5.md, Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_16.md
+  - **Pages:** Pages/cains_jawbone_page_2.md, Pages/cains_jawbone_page_4.md, Pages/cains_jawbone_page_5.md, Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_16.md, Pages/cains_jawbone_page_21.md
   - **Notes:** MAYBE multiple different “Henrys” across the book; do not merge/split without stronger anchors (surname, role, setting continuity).
 
 - `P02` — Names/aliases: Casy Ferris
@@ -25,10 +25,10 @@ Template:
   - **Notes:** MAYBE coastal setting (“Chine”, sea).
 
 - `P03` — Names/aliases: Clement
-  - **Tells:** precise distance figure (“17,600 yards”); involved with “assassin’s wonderful substance”.
+  - **Tells:** precise distance figure (“17,600 yards”); involved with “assassin’s wonderful substance”; strongly associated with “Clement” pope-name clue (14 popes + 2 anti-popes) and Giulio de Medici (Clement VII) reference; roses/jasmine + Gianaclis smoking context.
   - **Pronouns/relationships:** met “yesterday” by narrator on Page 3.
-  - **Pages:** Pages/cains_jawbone_page_3.md
-  - **Notes:** MAYBE reappears in other poison/pill threads.
+  - **Pages:** Pages/cains_jawbone_page_3.md, Pages/cains_jawbone_page_24.md
+  - **Notes:** LIKELY the narrator of Page 24 is named Clement (pope-name clue); Page 22’s “clement to me” may be pun/overlap but is not proof.
 
 - `P04` — Names/aliases: Sir Roland Mowthalorn
   - **Tells:** “crisp” older man; buys the day’s buttonhole behind a church.
@@ -149,3 +149,45 @@ Template:
   - **Pronouns/relationships:** companion animal implied.
   - **Pages:** Pages/cains_jawbone_page_15.md
   - **Notes:** If later confirmed animal, consider moving tracking emphasis to motifs instead of people.
+
+- `P24` — Names/aliases: Jasmine (cat)
+  - **Tells:** explicitly “that cat Jasmine”.
+  - **Pronouns/relationships:** pet in Page 22 household.
+  - **Pages:** Pages/cains_jawbone_page_22.md
+  - **Notes:** Not necessarily the same as `P14` “Jasmine” (day-name marker).
+
+- `P25` — Names/aliases: Tusitala (uncertain)
+  - **Tells:** “Tusitala… come over to our place” (visitor; could be allusion or pet name).
+  - **Pronouns/relationships:** comes over with Flora.
+  - **Pages:** Pages/cains_jawbone_page_22.md
+  - **Notes:** MAYBE a Robert Louis Stevenson allusion (“Tusitala”) vs a named animal/person.
+
+- `P26` — Names/aliases: Flora (uncertain)
+  - **Tells:** object of narrator’s mating/banishment story; “came over to our place”.
+  - **Pronouns/relationships:** linked to Tusitala; returned with “he”.
+  - **Pages:** Pages/cains_jawbone_page_22.md
+  - **Notes:** Not necessarily the same “Flora” element inside “Fidelia Faustina Flora Blackwood” (Page 23).
+
+- `P27` — Names/aliases: Fidelia Faustina Flora Blackwood
+  - **Tells:** described marching by on “muscular pink hocks”.
+  - **Pronouns/relationships:** sister of Ebenezer Blackwood.
+  - **Pages:** Pages/cains_jawbone_page_23.md
+  - **Notes:** Could be a person vs named animal; the “hocks” description suggests animal.
+
+- `P28` — Names/aliases: Ebenezer Blackwood
+  - **Tells:** named as sibling anchor for Fidelia Faustina Flora Blackwood.
+  - **Pronouns/relationships:** brother of Fidelia Faustina Flora Blackwood.
+  - **Pages:** Pages/cains_jawbone_page_23.md
+  - **Notes:** As above.
+
+- `P29` — Names/aliases: Caroline
+  - **Tells:** narrator’s suspicions “well-founded”.
+  - **Pronouns/relationships:** shares a house with narrator; unclear role.
+  - **Pages:** Pages/cains_jawbone_page_24.md
+  - **Notes:** Track for recurrence (could be victim/antagonist).
+
+- `P30` — Names/aliases: Aunt Cynthia
+  - **Tells:** associated with roses; asked Ahkoond of Swat to “share a dream”.
+  - **Pronouns/relationships:** aunt to narrator (implied).
+  - **Pages:** Pages/cains_jawbone_page_24.md
+  - **Notes:** Recurrence may signal this narrator’s family cluster.

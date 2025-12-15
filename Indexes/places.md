@@ -125,3 +125,33 @@ Template:
   - **Confidence:** `LIKELY`
   - **Pages:** Pages/cains_jawbone_page_20.md
   - **Notes:** “by the Mole”; paired with “oldest brass in England” inscription (possible location anchor).
+
+- **Adriatic (warm bay / Illyrian hills)**
+  - **Type:** sea/region
+  - **Confidence:** `CERTAIN`
+  - **Pages:** Pages/cains_jawbone_page_21.md
+  - **Notes:** Geographic allusion (“Adriatic… Illyrian hills”); likely not local setting.
+
+- **Dort (Dordrecht)**
+  - **Type:** city (Netherlands)
+  - **Confidence:** `MAYBE`
+  - **Pages:** Pages/cains_jawbone_page_22.md
+  - **Notes:** “John and Cornelius, the Dort people” (likely De Witt brothers reference).
+
+- **Wimpole Street**
+  - **Type:** street
+  - **Confidence:** `CERTAIN`
+  - **Pages:** Pages/cains_jawbone_page_23.md
+  - **Notes:** “Wimpole Street singer” reference anchor (Elizabeth Barrett Browning).
+
+- **Swat**
+  - **Type:** region/valley
+  - **Confidence:** `CERTAIN`
+  - **Pages:** Pages/cains_jawbone_page_24.md
+  - **Notes:** “Ahkoond of Swat” reference.
+
+- **Didling (uncertain)**
+  - **Type:** village/hamlet (likely)
+  - **Confidence:** `MAYBE`
+  - **Pages:** Pages/cains_jawbone_page_25.md
+  - **Notes:** Appears via Dolittle→Didlittle→Didling wordplay; narrator “woke… at” it.

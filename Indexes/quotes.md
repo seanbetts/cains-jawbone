@@ -131,3 +131,31 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_18.md
   - **Confidence:** `MAYBE`
   - **Research needed:** yes — identify the quotation and implied namesake.
+
+- **Snippet:** “But rum alone’s the tipple, and the heart’s delight / Of Cathleen, the daughter of Houlihan.”
+  - **Likely source/author:** TBD (Irish poem/song; Cathleen ni Houlihan allusion likely)
+  - **Why it matters:** Strong quote anchor spanning pages; may encode date/Irish-national theme.
+  - **Pages:** Pages/cains_jawbone_page_23.md, Pages/cains_jawbone_page_24.md
+  - **Confidence:** `MAYBE`
+  - **Research needed:** yes — identify exact source.
+
+- **Snippet:** “the quality of mercy”
+  - **Likely source/author:** Shakespeare, The Merchant of Venice
+  - **Why it matters:** Voice/literary tell; clusters with other Shakespeare quotations.
+  - **Pages:** Pages/cains_jawbone_page_24.md
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
+
+- **Snippet:** “Far, far from here the Adriatic breaks…”
+  - **Likely source/author:** TBD
+  - **Why it matters:** Possible quotation anchor embedded in a poison/murder scene.
+  - **Pages:** Pages/cains_jawbone_page_21.md
+  - **Confidence:** `MAYBE`
+  - **Research needed:** yes — identify source (and whether it anchors place/date).
+
+- **Snippet:** “gone the same way home”
+  - **Likely source/author:** TBD (old song)
+  - **Why it matters:** Potential date/voice anchor in a time-obsession passage.
+  - **Pages:** Pages/cains_jawbone_page_25.md
+  - **Confidence:** `MAYBE`
+  - **Research needed:** yes — identify song.

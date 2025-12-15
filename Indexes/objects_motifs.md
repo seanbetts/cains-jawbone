@@ -135,3 +135,28 @@ Template:
   - **Instances / variants:** “my strong tea, and my first pill”
   - **Pages:** Pages/cains_jawbone_page_20.md
   - **Notes:** Potential continuity with other pill/drug narrators (Page 3).
+
+- **Calabar bean**
+  - **Instances / variants:** “Calabar Bean” invoked as “rough old friend”
+  - **Pages:** Pages/cains_jawbone_page_21.md
+  - **Notes:** Classic poison/medicine; connects to digitalis/foxglove motif.
+
+- **Foxglove / digitalis (explicit)**
+  - **Instances / variants:** “proved digitalis purpurea”
+  - **Pages:** Pages/cains_jawbone_page_21.md
+  - **Notes:** Reinforces foxgloves/digitalis as an active poison thread (see Page 6).
+
+- **Matches / matchboxes**
+  - **Instances / variants:** matchbox rhythm; “rub gently”; Bryant & May; “ends”/“eyes” not going out
+  - **Pages:** Pages/cains_jawbone_page_23.md
+  - **Notes:** Potential matchgirl-strike/cultural allusion; track recurrence.
+
+- **Cigarettes (Gianaclis)**
+  - **Instances / variants:** “Puffing at Gianaclis”
+  - **Pages:** Pages/cains_jawbone_page_24.md
+  - **Notes:** Brand clue; may cluster with other cigarette brands (e.g., Gourdoulis).
+
+- **Roses / jasmine / hellebore**
+  - **Instances / variants:** wild jasmine; roses; “hellebore” as nuisance term
+  - **Pages:** Pages/cains_jawbone_page_24.md
+  - **Notes:** Plant motif overlaps with poison/gardening narrator threads.

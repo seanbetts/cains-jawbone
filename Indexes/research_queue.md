@@ -264,3 +264,66 @@ Template:
   - **Why it matters:** Could identify a tomb/author and connect to other epitaph allusions.
   - **Status:** `open`
   - **Result:**
+
+- **Item:** Interpret the poison/medical language around “proved digitalis purpurea… a signal wash out” and “Calabar Bean”
+  - **Type:** term/other
+  - **Pages:** Pages/cains_jawbone_page_21.md
+  - **Why it matters:** Could identify a poisoning method and link to other plant/drug narrators.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify the “Adriatic… Illyrian hills” quotation on Page 21
+  - **Type:** quote
+  - **Pages:** Pages/cains_jawbone_page_21.md
+  - **Why it matters:** Quote anchor embedded in a Henry/victim scene; could encode place/date.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify “John and Cornelius, the Dort people” + the “good one in prison” whose birthday is referenced
+  - **Type:** date/name
+  - **Pages:** Pages/cains_jawbone_page_22.md
+  - **Why it matters:** Potential calendar anchor (“that day”) and a murder allusion that may recur.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify the rum/Cathleen lines (“rum alone’s the tipple… Cathleen, the daughter of Houlihan”)
+  - **Type:** quote
+  - **Pages:** Pages/cains_jawbone_page_23.md, Pages/cains_jawbone_page_24.md
+  - **Why it matters:** Spans pages and likely anchors an Irish-themed source.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Clarify the match-related allusions on Page 23 (Bryant & May, Francis Thompson “sold matches”, “under the snow”, “eyes go out”)
+  - **Type:** other
+  - **Pages:** Pages/cains_jawbone_page_23.md
+  - **Why it matters:** Could be a precise literary/historical allusion (matchgirls) used for dating/clustering.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Who are Fidelia Faustina Flora Blackwood and Ebenezer Blackwood, and what is the “Left Luggage Office” reference?
+  - **Type:** name/place/other
+  - **Pages:** Pages/cains_jawbone_page_23.md
+  - **Why it matters:** Names may hide a clue (animal pedigree vs people); Left Luggage Office may be a scene anchor.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Confirm the Clement pope-name clue on Page 24 (14 popes + 2 anti-popes) and whether it identifies the narrator as Clement
+  - **Type:** name/other
+  - **Pages:** Pages/cains_jawbone_page_24.md
+  - **Why it matters:** Could identify a narrator/character and link to other Clement mentions (Page 3).
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify the Ahkoond of Swat reference and whether it links to other pages
+  - **Type:** quote/other
+  - **Pages:** Pages/cains_jawbone_page_24.md
+  - **Why it matters:** Potential shared-allusion anchor for narrator clustering.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify the “gone the same way home” song and why “to-day” is asserted alongside Jeremy Taylor + Eugene Sue
+  - **Type:** quote/date/other
+  - **Pages:** Pages/cains_jawbone_page_25.md
+  - **Why it matters:** Might be a precise date anchor and a place-name hint (Didling).
+  - **Status:** `open`
+  - **Result:**
