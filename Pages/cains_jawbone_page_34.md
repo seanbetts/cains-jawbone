@@ -2,3 +2,18 @@ It was a petty employ for one of my reputation ; you would not hear, I felt, muc
 
 ## Notes
 
+- **Entities:**
+  - MAYBE: “the man” (unnamed; tries to claim “reward for valuable services rendered”).
+- **Motifs/continuity hooks:**
+  - Debts/bills: “Bills should always be met squarely.”
+  - Double life / hypocrisy talk; “valuable services” hinting at blackmail or pay-off.
+  - Tool metaphor: “play one tool against another.”
+- **Voice/tells:**
+  - Confident, coercive social control; reputation-conscious.
+  - Physical tell for the man: “throat… full of jelly” / “quag” speech.
+- **Ordering hypotheses:**
+  - MAYBE: debt/bill motif link to Page 33 (“I always pay my debts”).
+- **Disconfirming evidence:**
+  - If the “bills” language is purely proverbial with no continuity in other pages.
+- **Research needed:**
+  - Identify whether “pretending to be wicked… hypocrisy” is a quotation/allusion.

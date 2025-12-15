@@ -2,3 +2,21 @@ For this time being, Henry was drawing towards a close. I was not sorry. The pol
 
 ## Notes
 
+- **Entities:**
+  - CERTAIN: Henry.
+  - CERTAIN: Wellington Crisp (pursuer); his assistant; his bulldog.
+  - CERTAIN: flying squad (police unit).
+- **Motifs/continuity hooks:**
+  - Police pursuit: surrounded house; underground passage; concealed bathroom panel.
+  - Escape attempt: “limping blimp”.
+  - “Crimson list” (victim count) + “Murders were funny things.”
+- **Quotes & allusions:**
+  - MAYBE: “alas, poor Richard! Alas, poor Thomas!” (source/context TBD; regicide/king-killing allusion).
+- **Voice/tells:**
+  - Darkly comic, thriller-pastiche tone; treats murder as genre mechanics.
+- **Ordering hypotheses:**
+  - LIKELY: Henry narrative escalates from “killings/victim” (Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_26.md) to active manhunt.
+- **Disconfirming evidence:**
+  - If later pages show this is an embedded story/imagined scenario rather than in-world action.
+- **Research needed:**
+  - Identify Wellington Crisp (fictional detective? real reference?) and the “Richard/Thomas” allusion.

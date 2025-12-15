@@ -2,3 +2,23 @@ The others did not seem similarly impressed. Phrases of this and that came to ha
 
 ## Notes
 
+- **Entities:**
+  - CERTAIN: Henry.
+  - CERTAIN: Paris.
+- **Quotes & allusions:**
+  - LIKELY: “nothing lean or hungry” alludes to Cassius (“lean and hungry look”) (Julius Caesar).
+- **Wordplay:**
+  - MAYBE: “Caseus, ah!” (Latin for cheese) as a Cassius-soundalike / nomenclature joke.
+- **Motifs/continuity hooks:**
+  - Threat/weapon: “hand dropped to my hip pocket”.
+  - “Square accounts” / settling scores.
+  - Sound motif: “rill and corncrake” as a duet (water + creaking warning) tied to “speeding”.
+- **Voice/tells:**
+  - Fixation on naming (“nomenclature business”); oscillates between suddenness vs “triturative” slowness (bomb vs “exceeding small”).
+- **Ordering hypotheses:**
+  - MAYBE: connects to other Henry “reckon with Henry” pages (Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_26.md).
+- **Disconfirming evidence:**
+  - If “Caseus”/Cassius reading doesn’t recur and “hip pocket” is purely idiomatic (not weapon).
+- **Research needed:**
+  - What exactly are “rill” and “corncrake” describing here (vehicle/engine sounds vs literal nature)?
+  - Identify the “awful night in Paris” reference if it becomes a repeated anchor.

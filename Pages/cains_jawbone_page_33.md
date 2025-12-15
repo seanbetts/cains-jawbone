@@ -2,3 +2,27 @@ He was picking round among all she had left behind and found a box with his name
 
 ## Notes
 
+- **Entities:**
+  - CERTAIN: Gourdoulis (100 box; cigarette brand).
+  - MAYBE: “he” (recipient; name on box; deeply moved).
+  - MAYBE: “she” (left items behind).
+  - MAYBE: letter-writer (woman; “dead the same day”).
+- **Time markers:**
+  - CERTAIN: letter dated “the third of February”.
+  - CERTAIN: “yesterday” appears inside the quoted letter.
+- **Quotes & allusions:**
+  - MAYBE: “I had yours but yesterday… dated the third of February…” / “departed spirits” line (letter source TBD).
+  - MAYBE: “my gray hairs would go down in sorrow to the grave” (biblical echo).
+- **Motifs/continuity hooks:**
+  - Debts/bills: “I always pay my debts” label.
+  - Tobacco/cigarettes: Gourdoulis + “little bits of stuff like black pineapple”.
+  - Letters + death-status ambiguity (writer “still alive” yet “departed spirits”).
+- **Voice/tells:**
+  - Voyeur/observer behind the armchair; melodramatic biblical phrasing.
+- **Ordering hypotheses:**
+  - LIKELY: links to Page 10’s Gourdoulis and the brand/cigarette motif.
+- **Disconfirming evidence:**
+  - If “Gourdoulis” is later shown to be something other than cigarettes.
+- **Research needed:**
+  - Identify the quoted letter source (who wrote it, and what “dead the same day” refers to).
+  - What are the “black pineapple” bits (tobacco/food/other)?
