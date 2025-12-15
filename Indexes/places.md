@@ -215,3 +215,33 @@ Template:
   - **Confidence:** `LIKELY`
   - **Pages:** Pages/cains_jawbone_page_40.md
   - **Notes:** Implied by “Thames Ditton’s sister… Long she was.”
+
+- **Selfridges**
+  - **Type:** store/landmark
+  - **Confidence:** `CERTAIN`
+  - **Pages:** Pages/cains_jawbone_page_41.md
+  - **Notes:** “Selfridget side” wordplay; implies London shopping geography.
+
+- **Bond Street**
+  - **Type:** street
+  - **Confidence:** `CERTAIN`
+  - **Pages:** Pages/cains_jawbone_page_41.md
+  - **Notes:** Contrasted with “Selfridget side”; London setting anchor.
+
+- **King’s Cross**
+  - **Type:** railway station/area
+  - **Confidence:** `CERTAIN`
+  - **Pages:** Pages/cains_jawbone_page_43.md
+  - **Notes:** Used in a “station between King’s Cross and Edinburgh” clue.
+
+- **Edinburgh**
+  - **Type:** city
+  - **Confidence:** `CERTAIN`
+  - **Pages:** Pages/cains_jawbone_page_43.md
+  - **Notes:** Endpoint of the King’s Cross rail line reference.
+
+- **Vera Cruz (Veracruz)**
+  - **Type:** city/port
+  - **Confidence:** `CERTAIN`
+  - **Pages:** Pages/cains_jawbone_page_44.md
+  - **Notes:** Memory anchored to an “old fonda” and a fruit merchant with a guitar.

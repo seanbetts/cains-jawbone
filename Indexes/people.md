@@ -13,9 +13,9 @@ Template:
 ## Entries
 
 - `P01` — Names/aliases: Henry
-  - **Tells:** LIKELY actor (played Lesurques); LIKELY serial “intended” (has an “intended fifth”); associated with (possibly toxic) “Emperor’s Peg” at a ruined lighthouse; has a “great voice” linked to a “capstan bar”; appears as a subordinate who stoops/cleans and handles bodies; object of romance (“ready to love”); described as having multiple “killings” and a “latest victim” with blood present; later pursued by police (“flying squad”); linked to burying a corpse with “only the eyes” showing.
+  - **Tells:** LIKELY actor (played Lesurques); LIKELY serial “intended” (has an “intended fifth”); associated with (possibly toxic) “Emperor’s Peg” at a ruined lighthouse; has a “great voice” linked to a “capstan bar”; appears as a subordinate who stoops/cleans and handles bodies; object of romance (“ready to love”); described as having multiple “killings” and a “latest victim” with blood present; later pursued by police (“flying squad”); linked to burying a corpse with “only the eyes” showing; also appears as a husband/guide in social scenes; linked to a half-burned marriage certificate; seen bending over a corpse of his own making.
   - **Pronouns/relationships:** described as “the angel”; sometimes an absent advisor; sometimes an assistant obeying signals.
-  - **Pages:** Pages/cains_jawbone_page_2.md, Pages/cains_jawbone_page_4.md, Pages/cains_jawbone_page_5.md, Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_16.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_26.md, Pages/cains_jawbone_page_31.md, Pages/cains_jawbone_page_32.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md
+  - **Pages:** Pages/cains_jawbone_page_2.md, Pages/cains_jawbone_page_4.md, Pages/cains_jawbone_page_5.md, Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_16.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_26.md, Pages/cains_jawbone_page_31.md, Pages/cains_jawbone_page_32.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_41.md, Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_44.md, Pages/cains_jawbone_page_45.md
   - **Notes:** MAYBE multiple different “Henrys” across the book; do not merge/split without stronger anchors (surname, role, setting continuity).
 
 - `P02` — Names/aliases: Casy Ferris
@@ -205,9 +205,9 @@ Template:
   - **Notes:** Likely minor unless reappears.
 
 - `P33` — Names/aliases: Hodge
-  - **Tells:** has a “wen”; scratches “left whisker”; asks about “Ben Wade”.
+  - **Tells:** has a “wen”; scratches “left whisker”; asks about “Ben Wade”; smokes “St. Bruno”; fingers a “sebaceous arrangement”.
   - **Pronouns/relationships:** none known.
-  - **Pages:** Pages/cains_jawbone_page_26.md
+  - **Pages:** Pages/cains_jawbone_page_26.md, Pages/cains_jawbone_page_44.md
   - **Notes:** Could be person or anthropomorphised animal; keep provisional.
 
 - `P34` — Names/aliases: Ben Wade (reference)
@@ -217,10 +217,10 @@ Template:
   - **Notes:** Likely allusion/character; do not treat as confirmed in-world person yet.
 
 - `P35` — Names/aliases: “old mineralogist” (unnamed)
-  - **Tells:** led “up the garden” and introduced to poisonous plants.
+  - **Tells:** led “up the garden” and introduced to poisonous plants; MAYBE the “old man” repeatedly led up the garden on Page 45.
   - **Pronouns/relationships:** guest/victim candidate.
-  - **Pages:** Pages/cains_jawbone_page_29.md
-  - **Notes:** MAYBE connected to Peebles/mineralogy thread (Pages/cains_jawbone_page_9.md).
+  - **Pages:** Pages/cains_jawbone_page_29.md, Pages/cains_jawbone_page_45.md
+  - **Notes:** MAYBE connected to Peebles/mineralogy thread (Pages/cains_jawbone_page_9.md); “led up the garden” phrasing recurs.
 
 - `P36` — Names/aliases: Flora (household staff; uncertain)
   - **Tells:** arranged breakfast (“seven… long stout shapes”).
@@ -252,11 +252,11 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_36.md
   - **Notes:** Track whether this is an allusive “Kitchener” name or an in-world character.
 
-- `P41` — Names/aliases: Alexander (young; uncertain)
-  - **Tells:** sends an invitation to a private view; appears in jasmine-bowl scene.
-  - **Pronouns/relationships:** “young”.
-  - **Pages:** Pages/cains_jawbone_page_37.md
-  - **Notes:** Not necessarily the same “Alexander” referenced elsewhere.
+- `P41` — Names/aliases: Alexander; “Ecky” (nickname; uncertain)
+  - **Tells:** sends an invitation to a private view; appears in jasmine-bowl scene; calls himself Alexander and notes he was called “Ecky” when a boy; worries that “the hard stuff” would ruin his hand/income; Aquarius ↔ Gemini wordplay.
+  - **Pronouns/relationships:** called “young” in one context.
+  - **Pages:** Pages/cains_jawbone_page_37.md, Pages/cains_jawbone_page_43.md
+  - **Notes:** MAYBE multiple different Alexanders; this entry tentatively links Pages 37 and 43 pending stronger anchors.
 
 - `P42` — Names/aliases: Sonia Gordon
   - **Tells:** referenced in “tragic fortnight” memory; elbow-dimple comparison.
@@ -269,3 +269,27 @@ Template:
   - **Pronouns/relationships:** called “he” by speaker.
   - **Pages:** Pages/cains_jawbone_page_39.md
   - **Notes:** MAYBE George Combe reference; do not lock in without confirmation.
+
+- `P44` — Names/aliases: Charles Goodfellow
+  - **Tells:** “old” acquaintance; hints narrator was “going gay” after marriage to Henry.
+  - **Pronouns/relationships:** acquaintance of narrator in a Henry-marriage context.
+  - **Pages:** Pages/cains_jawbone_page_41.md
+  - **Notes:** Track for recurrence; could be an allusive/ironic surname.
+
+- `P45` — Names/aliases: “Bat” (nickname; uncertain)
+  - **Tells:** described as “poor lonely little Bat”.
+  - **Pronouns/relationships:** none known.
+  - **Pages:** Pages/cains_jawbone_page_41.md
+  - **Notes:** Could be a person, pet-name, or stray epithet; track if it reappears.
+
+- `P46` — Names/aliases: Hélène
+  - **Tells:** tells a man of her “attachment”; triggers a switch from brandy to absinthe; present in a Henry/corpse recollection.
+  - **Pronouns/relationships:** attached to an unnamed man (half Pole, half Frenchman).
+  - **Pages:** Pages/cains_jawbone_page_45.md
+  - **Notes:** Track if she reappears in the Henry/doctor thread.
+
+- `P47` — Names/aliases: “Julienne” (name-guess; tall woman; uncertain)
+  - **Tells:** very tall; golden lashes; cigarette + cocktails; described with feline/jaguar imagery.
+  - **Pronouns/relationships:** Henry-guided encounter; narrator envies Henry.
+  - **Pages:** Pages/cains_jawbone_page_42.md
+  - **Notes:** Name is conjectural; may link to Page 43’s unnamed “she”.

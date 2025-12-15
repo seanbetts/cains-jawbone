@@ -236,3 +236,24 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_36.md
   - **Confidence:** `MAYBE`
   - **Research needed:** yes — identify source/context.
+
+- **Snippet:** “But M’Cullough ‘e wanted cabins with marble and maple and all…”
+  - **Likely source/author:** TBD
+  - **Why it matters:** Marked as Henry’s “favourite quotation”; could strongly anchor narrator/allusion set and link other quoted passages.
+  - **Pages:** Pages/cains_jawbone_page_41.md
+  - **Confidence:** `MAYBE`
+  - **Research needed:** yes — identify source.
+
+- **Snippet:** “Just broken to twine round they harp-strings… Were now raging to torture the desert! Then I, as was meet…”
+  - **Likely source/author:** TBD
+  - **Why it matters:** Verse fragment used as a scene header; may connect to the Flecker/allusion thread.
+  - **Pages:** Pages/cains_jawbone_page_42.md
+  - **Confidence:** `MAYBE`
+  - **Research needed:** yes — identify source.
+
+- **Snippet:** “being’s drone pipe, whose nostril turns to blight the strivelled stars and thicks the lusty breathing of the sun.”
+  - **Likely source/author:** TBD
+  - **Why it matters:** Distinctive poetic line; narrator tries to pin it to a “station between King’s Cross and Edinburgh” clue.
+  - **Pages:** Pages/cains_jawbone_page_43.md
+  - **Confidence:** `MAYBE`
+  - **Research needed:** yes — identify source/context.

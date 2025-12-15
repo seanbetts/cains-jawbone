@@ -523,3 +523,66 @@ Template:
   - **Why it matters:** Confirms the Long Ditton place clue and might connect to other Eric Parker/Irish malapropism pages.
   - **Status:** `open`
   - **Result:**
+
+- **Item:** Identify Henry’s “M’Cullough” quotation source (Page 41)
+  - **Type:** quote
+  - **Pages:** Pages/cains_jawbone_page_41.md
+  - **Why it matters:** Marked as Henry’s “favourite quotation”; could strongly anchor narrator/allusion set and link other quoted passages.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Interpret Page 41’s “moled and isled” / “Selfridget side” phrasing (place-wordplay)
+  - **Type:** place/other
+  - **Pages:** Pages/cains_jawbone_page_41.md
+  - **Why it matters:** Might be a cryptic place clue (London/Surrey) useful for ordering and clustering.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify the verse fragment about harp-strings and the desert (Page 42)
+  - **Type:** quote
+  - **Pages:** Pages/cains_jawbone_page_42.md
+  - **Why it matters:** Could connect to the Flecker/allusion thread and anchor narrator reading set.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify the “being’s drone pipe…” quotation (Page 43)
+  - **Type:** quote
+  - **Pages:** Pages/cains_jawbone_page_43.md
+  - **Why it matters:** Might identify a source text and explain the “station between King’s Cross and Edinburgh” clue.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Determine what “Ecky passes over to the Dawn” and the drink/dessert titles refer to (Page 43)
+  - **Type:** other
+  - **Pages:** Pages/cains_jawbone_page_43.md
+  - **Why it matters:** Could identify a specific venue/menu or a coded sequence (and help link Pages 42–43).
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify the “honest station between King’s Cross and Edinburgh” clue (Page 43)
+  - **Type:** place/other
+  - **Pages:** Pages/cains_jawbone_page_43.md
+  - **Why it matters:** Might be a solvable geographic anchor for ordering.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Confirm what “St. Bruno” refers to and whether it recurs (Page 44)
+  - **Type:** other
+  - **Pages:** Pages/cains_jawbone_page_44.md
+  - **Why it matters:** Brand/period/class tell that may help cluster scenes or narrators.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify Epicam / Royans aux Achard / Peter Barleys / Villacabras (Page 45)
+  - **Type:** term/other
+  - **Pages:** Pages/cains_jawbone_page_45.md
+  - **Why it matters:** Food/drink brand list may anchor a venue, region, or coded sequence.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Interpret “half Pole, half Frenchman… usually up the first half” (Page 45)
+  - **Type:** other
+  - **Pages:** Pages/cains_jawbone_page_45.md
+  - **Why it matters:** Could identify a specific person, a nickname, or a repeated wordplay pattern.
+  - **Status:** `open`
+  - **Result:**

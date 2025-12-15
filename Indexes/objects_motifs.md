@@ -12,9 +12,9 @@ Template:
 ## Entries
 
 - **Pen (Aquarius)**
-  - **Instances / variants:** “mottled black and silver Aquarius”, Amsterdam-tempered nib
-  - **Pages:** Pages/cains_jawbone_page_1.md
-  - **Notes:** Potential voice tell (precision about stationery).
+  - **Instances / variants:** “mottled black and silver Aquarius”, Amsterdam-tempered nib; “Where would my income be if Aquarius were to turn Gemini?”
+  - **Pages:** Pages/cains_jawbone_page_1.md, Pages/cains_jawbone_page_43.md
+  - **Notes:** Potential voice tell (stationery) or zodiac wordplay; watch for narrator continuity.
 
 - **Sea / coastal peril**
   - **Instances / variants:** sea-watching; “Chine”; boy tumbling into sea; ruined lighthouse
@@ -36,6 +36,11 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_5.md
   - **Notes:** Track as drink/poison tell; research period recipe.
 
+- **Cocktails / mixed drinks**
+  - **Instances / variants:** “cocktail after cocktail”; “Lover’s Delight”; “the Dawn”; absinthe; brandy
+  - **Pages:** Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_43.md, Pages/cains_jawbone_page_45.md
+  - **Notes:** Bar/club continuity candidate; overlaps with cigarette and seduction motifs.
+
 - **Food brands (Bisto, Cerebos)**
   - **Instances / variants:** used as comic refrain
   - **Pages:** Pages/cains_jawbone_page_5.md
@@ -56,10 +61,25 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_10.md, Pages/cains_jawbone_page_33.md
   - **Notes:** Product/brand clue; links cigarettes to debt/bill language.
 
+- **Cigarettes (unspecified)**
+  - **Instances / variants:** “She lit a cigarette” (no brand given)
+  - **Pages:** Pages/cains_jawbone_page_42.md
+  - **Notes:** Smoking appears in multiple scenes; connect if setting/character matches brand-specific mentions.
+
+- **Tobacco (St. Bruno)**
+  - **Instances / variants:** “first St. Bruno”
+  - **Pages:** Pages/cains_jawbone_page_44.md
+  - **Notes:** Brand could be a period/class tell; may link to pipe/smoking pages.
+
 - **Optics / “powerful glass”**
   - **Instances / variants:** “powerful glass” + measurement obsession
   - **Pages:** Pages/cains_jawbone_page_8.md
   - **Notes:** Possible profession clue (photography/science) or scene-specific prop.
+
+- **Smells / scent memory**
+  - **Instances / variants:** “Smells meant a lot to me” triggering a vivid recall (Vera Cruz fonda + blood on guitar strings)
+  - **Pages:** Pages/cains_jawbone_page_44.md
+  - **Notes:** Strong sensory/animal-coded tell candidate.
 
 - **Aspirin / headache remedies**
   - **Instances / variants:** “two aspirin tablets”
@@ -71,15 +91,25 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_12.md, Pages/cains_jawbone_page_14.md
   - **Notes:** Potential scene/cluster anchor; ties to character “May”.
 
+- **Burned documents / incinerator**
+  - **Instances / variants:** half-burned marriage certificate in an incinerator; “charred lines”
+  - **Pages:** Pages/cains_jawbone_page_44.md
+  - **Notes:** Evidence-destruction motif; may connect to wills/forgery and other paper-burning scenes.
+
 - **Cigarette case (privacy)**
   - **Instances / variants:** “read a private cigarette case”
   - **Pages:** Pages/cains_jawbone_page_12.md
   - **Notes:** Object tied to secrecy/eavesdropping.
 
+- **Stealing at doors (sneaking/eavesdropping)**
+  - **Instances / variants:** “stealing at the doors” in a building of many flats
+  - **Pages:** Pages/cains_jawbone_page_45.md
+  - **Notes:** Continuity hook for thief/nosy narrator; watch for repeated flat/hallway settings.
+
 - **Nautical timekeeping (dog-watch / striking)**
-  - **Instances / variants:** “capstan bar”; “end of the second dog”; “struck”
-  - **Pages:** Pages/cains_jawbone_page_11.md
-  - **Notes:** Strong nautical register; potential time anchor (~8 p.m.).
+  - **Instances / variants:** “capstan bar”; “end of the second dog”; “struck”; “first dog”
+  - **Pages:** Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_41.md
+  - **Notes:** Strong nautical register; “first dog” may be literal or a time anchor (first dog-watch).
 
 - **Wine + flesh remnants**
   - **Instances / variants:** “spilled wine” with “fragments of… flesh”
