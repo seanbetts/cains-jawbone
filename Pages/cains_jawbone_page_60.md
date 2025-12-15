@@ -2,3 +2,31 @@ I had sufficient knowledge to realise that I had succeeded. I ordered Charles to
 
 ## Notes
 
+- **Entities:**
+  - CERTAIN: Henry (called “my peerless investigator”).
+  - CERTAIN: Charles (ordered to make “Lover’s Delight”; role TBD).
+  - MAYBE: parson + “collaborator” (in pulpit; “did the trick”).
+  - MAYBE: “figurehead beard” (target; likely Trinder given pseudo-science/beard cues).
+- **Time markers:**
+  - CERTAIN: “to-day” (includes reference to Francis Ferdinand’s murder; potential date anchor).
+  - CERTAIN: “a couple of hours later”.
+- **Quotes & allusions:**
+  - CERTAIN: “Death closes all… some work of noble note…” (Tennyson, *Ulysses*).
+  - MAYBE: “No more by thee my steps shall be for ever and for ever.” (source TBD).
+  - CERTAIN: Francis Ferdinand (historical assassination reference).
+- **Motifs/continuity hooks:**
+  - Food/menu: “Lover’s Delight” sundae (echoes Pages/cains_jawbone_page_43.md).
+  - Completion/success: narrator declares success; “man more dead”.
+  - Photography: “heliographic record” taken from folding steps.
+  - Henry-as-investigator instructed not to pursue further.
+- **Voice/tells:**
+  - Self-congratulatory “work of noble note” framing; mixes moralising with logistics (dessert order, photo).
+- **Ordering hypotheses:**
+  - LIKELY: links to Trinder thread (Pages/cains_jawbone_page_53.md, Pages/cains_jawbone_page_59.md).
+  - MAYBE: links to Lover’s Delight / bar-menu cluster (Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_43.md).
+- **Disconfirming evidence:**
+  - If “figurehead beard” is shown to be someone other than Trinder and Lover’s Delight is a generic term used widely.
+- **Research needed:**
+  - Identify the “No more by thee…” line source.
+  - Confirm what “to-day” date is implied by the Francis Ferdinand reference (and whether it constrains ordering).
+  - Clarify the parson/collaborator “did the trick” mechanism (sermon? marriage? execution?).

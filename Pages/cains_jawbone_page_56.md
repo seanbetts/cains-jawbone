@@ -2,3 +2,27 @@ It was just when the girl from the Asolo silk mills contended that morning was. 
 
 ## Notes
 
+- **Entities:**
+  - CERTAIN: Mrs. Larkin (school; “mixed infant” term).
+  - MAYBE: “girl from the Asolo silk mills” (reference; identity TBD).
+  - MAYBE: narrator’s “silly girl of mine” (domestic companion; relationship unclear).
+- **Time markers:**
+  - CERTAIN: “that morning”; waiting for breakfast; “those six hours”.
+- **Quotes & allusions:**
+  - MAYBE: Browning/Asolo/Pippa cluster (“Asolo”; “Pippa”).
+- **Wordplay:**
+  - CERTAIN: “Clare… voyant and audient” (clairvoyant/clairaudient pun).
+  - MAYBE: “bursting into pang in the sausage” (distorted “burst into song” phrasing).
+- **Motifs/continuity hooks:**
+  - Insomnia: head “surcharged with… perilous… stuff”.
+  - Precognition/recapitulation: “uncanny powers”; “revisualise”.
+  - Breakfast/satiation used to steady memory.
+- **Voice/tells:**
+  - Self-mocking wordplay + claimed second-sight; breakfast domesticity.
+- **Ordering hypotheses:**
+  - MAYBE: links to other Browning/Pippa references (e.g., Pages/cains_jawbone_page_58.md).
+- **Disconfirming evidence:**
+  - If Asolo/Pippa references resolve to unrelated in-world labels rather than Browning allusion.
+- **Research needed:**
+  - Identify the “Asolo silk mills” reference and the “morning was” phrasing source.
+  - Clarify the “Pippa” comparison (exact allusion).
