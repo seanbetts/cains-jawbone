@@ -96,3 +96,38 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_13.md
   - **Confidence:** `CERTAIN`
   - **Research needed:** no
+
+- **Snippet:** “fondly sae did I o’ mine”
+  - **Likely source/author:** TBD (song/lyric; associated with Wilkie Bard/Lauder music-hall context)
+  - **Why it matters:** Performance/voice anchor; could date/locate the scene.
+  - **Pages:** Pages/cains_jawbone_page_16.md
+  - **Confidence:** `MAYBE`
+  - **Research needed:** yes — identify exact song/lyric source.
+
+- **Snippet:** “the Human Comedy couldn’t possibly have gone on beyond to-day”
+  - **Likely source/author:** likely Balzac (“La Comédie humaine”) allusion
+  - **Why it matters:** Potential date anchor (“to-day”) that corroborates other historical-death markers.
+  - **Pages:** Pages/cains_jawbone_page_19.md
+  - **Confidence:** `MAYBE`
+  - **Research needed:** yes — confirm intended referent and date implication.
+
+- **Snippet:** “Tell me, if she were not design’d th’ eclipse and glory of her kind.”
+  - **Likely source/author:** TBD (attributed to Wotton by an in-scene speaker)
+  - **Why it matters:** Quote anchor tied to a “queen” and “Falkland” reference; could be a strong identifier.
+  - **Pages:** Pages/cains_jawbone_page_19.md
+  - **Confidence:** `MAYBE`
+  - **Research needed:** yes — identify source and the queen referenced.
+
+- **Snippet:** “Underneath this stone… doth lie as much Beauty as could die”
+  - **Likely source/author:** TBD (epitaph)
+  - **Why it matters:** Could identify a tomb/location/quoted author; may anchor ordering by travel.
+  - **Pages:** Pages/cains_jawbone_page_20.md
+  - **Confidence:** `MAYBE`
+  - **Research needed:** yes — identify the epitaph and who “he” is.
+
+- **Snippet:** “a course of soup… and then another of fishes… and another of birds”
+  - **Likely source/author:** TBD (quoted as said by narrator’s “namesake”)
+  - **Why it matters:** Namesake clue for narrator identity; also links to appetite/dinner-course motif.
+  - **Pages:** Pages/cains_jawbone_page_18.md
+  - **Confidence:** `MAYBE`
+  - **Research needed:** yes — identify the quotation and implied namesake.

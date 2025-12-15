@@ -89,3 +89,39 @@ Template:
   - **Confidence:** `MAYBE`
   - **Pages:** Pages/cains_jawbone_page_15.md
   - **Notes:** “my dear Lyons”; could be the city (Lyon) or a Lyons tea-shop/Corner House reference.
+
+- **Highgate Empire**
+  - **Type:** venue (music hall/theatre)
+  - **Confidence:** `CERTAIN`
+  - **Pages:** Pages/cains_jawbone_page_16.md
+  - **Notes:** Referenced with performances and supper.
+
+- **“the Moon” (unidentified)**
+  - **Type:** venue/building (uncertain)
+  - **Confidence:** `MAYBE`
+  - **Pages:** Pages/cains_jawbone_page_17.md
+  - **Notes:** “visiting the Moon… to-day”; paired with “the Dawn”.
+
+- **“the Dawn” (unidentified)**
+  - **Type:** venue/building (uncertain)
+  - **Confidence:** `MAYBE`
+  - **Pages:** Pages/cains_jawbone_page_17.md
+  - **Notes:** “Moon on the one hand and the Dawn on the other” suggests adjacent venues/landmarks.
+
+- **Falkland**
+  - **Type:** place (uncertain which)
+  - **Confidence:** `MAYBE`
+  - **Pages:** Pages/cains_jawbone_page_19.md
+  - **Notes:** “only just come to Falkland” in a queen-reference context.
+
+- **Annandale**
+  - **Type:** region
+  - **Confidence:** `CERTAIN`
+  - **Pages:** Pages/cains_jawbone_page_20.md
+  - **Notes:** Appears in “bricklayer out of Annandale” (likely a Ben Jonson clue).
+
+- **River Mole (implied)**
+  - **Type:** river
+  - **Confidence:** `LIKELY`
+  - **Pages:** Pages/cains_jawbone_page_20.md
+  - **Notes:** “by the Mole”; paired with “oldest brass in England” inscription (possible location anchor).

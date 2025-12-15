@@ -100,3 +100,38 @@ Template:
   - **Instances / variants:** Ravager (unclear); Bart chewing moccasins
   - **Pages:** Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_15.md
   - **Notes:** Track if named animals recur or indicate narrator household.
+
+- **Eyebrows / theatrical make-up**
+  - **Instances / variants:** false eyebrows “like two fuzzy caterpillars”; applying black to eyebrows
+  - **Pages:** Pages/cains_jawbone_page_16.md
+  - **Notes:** Theatre/cosmetics voice tell; links to other grooming/cosmetic pages.
+
+- **Tea (Lapsang / “Moning”)**
+  - **Instances / variants:** seven pounds of Lapsang; “Moning” tea
+  - **Pages:** Pages/cains_jawbone_page_17.md
+  - **Notes:** Potential location/brand clue; may recur with tea-house settings.
+
+- **Car models / driving**
+  - **Instances / variants:** Fordor; lock arrangement
+  - **Pages:** Pages/cains_jawbone_page_17.md
+  - **Notes:** Modernity marker; could constrain timeframe/scene type.
+
+- **Knobs / mechanisms (Mr. Hall entrances)**
+  - **Instances / variants:** twiddled polished/black knob; repeated entrances by Mr. Hall
+  - **Pages:** Pages/cains_jawbone_page_8.md, Pages/cains_jawbone_page_19.md
+  - **Notes:** Likely same scene; track what device/action this describes.
+
+- **Pipes / smoking**
+  - **Instances / variants:** empty pipe waved
+  - **Pages:** Pages/cains_jawbone_page_13.md
+  - **Notes:** Could be character habit or scene prop; watch for recurrence with other pipe mentions.
+
+- **Brasses / inscriptions**
+  - **Instances / variants:** “oldest brass in England” inscription naming “Sire Iohan Daubernoun”
+  - **Pages:** Pages/cains_jawbone_page_20.md
+  - **Notes:** Strong antiquarian location anchor; pair with River Mole mention.
+
+- **Strong tea + first pill**
+  - **Instances / variants:** “my strong tea, and my first pill”
+  - **Pages:** Pages/cains_jawbone_page_20.md
+  - **Notes:** Potential continuity with other pill/drug narrators (Page 3).

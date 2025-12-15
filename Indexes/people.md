@@ -13,9 +13,9 @@ Template:
 ## Entries
 
 - `P01` — Names/aliases: Henry
-  - **Tells:** LIKELY actor (played Lesurques); LIKELY serial “intended” (has an “intended fifth”); associated with (possibly toxic) “Emperor’s Peg” at a ruined lighthouse; has a “great voice” linked to a “capstan bar”; appears as a subordinate who stoops/cleans and handles bodies.
+  - **Tells:** LIKELY actor (played Lesurques); LIKELY serial “intended” (has an “intended fifth”); associated with (possibly toxic) “Emperor’s Peg” at a ruined lighthouse; has a “great voice” linked to a “capstan bar”; appears as a subordinate who stoops/cleans and handles bodies; object of romance (“ready to love”).
   - **Pronouns/relationships:** described as “the angel”; sometimes an absent advisor; sometimes an assistant obeying signals.
-  - **Pages:** Pages/cains_jawbone_page_2.md, Pages/cains_jawbone_page_4.md, Pages/cains_jawbone_page_5.md, Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_14.md
+  - **Pages:** Pages/cains_jawbone_page_2.md, Pages/cains_jawbone_page_4.md, Pages/cains_jawbone_page_5.md, Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_16.md
   - **Notes:** MAYBE multiple different “Henrys” across the book; do not merge/split without stronger anchors (surname, role, setting continuity).
 
 - `P02` — Names/aliases: Casy Ferris
@@ -113,3 +113,39 @@ Template:
   - **Pronouns/relationships:** none known.
   - **Pages:** Pages/cains_jawbone_page_14.md
   - **Notes:** Track for recurrence; could be a real-person allusion or an in-world acquaintance.
+
+- `P18` — Names/aliases: Aunt Mary
+  - **Tells:** lost eyebrows “after the explosion”; later uses made-up eyebrows.
+  - **Pronouns/relationships:** aunt to narrator (implied).
+  - **Pages:** Pages/cains_jawbone_page_16.md
+  - **Notes:** Track if explosion/eyebrow incident recurs.
+
+- `P19` — Names/aliases: Bill
+  - **Tells:** nicknames eyebrows “two dark flapper moons”.
+  - **Pronouns/relationships:** acquaintance/family (unclear).
+  - **Pages:** Pages/cains_jawbone_page_16.md
+  - **Notes:** If “Bill” later appears with a surname, reconcile.
+
+- `P20` — Names/aliases: Sawnie
+  - **Tells:** drives/parks a Fordor; grey-faced; fumbling with lock.
+  - **Pronouns/relationships:** “young”.
+  - **Pages:** Pages/cains_jawbone_page_17.md
+  - **Notes:** Could be courting-party; track if name repeats.
+
+- `P21` — Names/aliases: Kate Somerset
+  - **Tells:** “looking actually proud” at a meeting where marriage seems imminent.
+  - **Pronouns/relationships:** none known.
+  - **Pages:** Pages/cains_jawbone_page_17.md
+  - **Notes:** Could be mother/relative vs participant; track context.
+
+- `P22` — Names/aliases: Grace
+  - **Tells:** sent “seven pounds of Lapsang”.
+  - **Pronouns/relationships:** acquaintance; tea-gifter.
+  - **Pages:** Pages/cains_jawbone_page_17.md
+  - **Notes:** Track if this is a recurring Grace across pages.
+
+- `P23` — Names/aliases: Bart (uncertain; likely a dog)
+  - **Tells:** “chewing at my moccasins”.
+  - **Pronouns/relationships:** companion animal implied.
+  - **Pages:** Pages/cains_jawbone_page_15.md
+  - **Notes:** If later confirmed animal, consider moving tracking emphasis to motifs instead of people.

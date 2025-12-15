@@ -125,10 +125,10 @@ Template:
   - **Status:** `open`
   - **Result:**
 
-- **Item:** Identify the “black knobby thing” (black/red) and the action sequence on Page 8; who is Mr. Hall?
+- **Item:** Identify the knob/mechanism and action sequence (Page 8 “black knobby thing”; Page 19 “polished knob”) and who Mr. Hall is
   - **Type:** other
-  - **Pages:** Pages/cains_jawbone_page_8.md
-  - **Why it matters:** Mechanical/medical clue that could identify setting/profession and connect scenes.
+  - **Pages:** Pages/cains_jawbone_page_8.md, Pages/cains_jawbone_page_19.md
+  - **Why it matters:** Mechanical/scene clue that likely connects pages and may identify setting/profession.
   - **Status:** `open`
   - **Result:**
 
@@ -206,5 +206,61 @@ Template:
   - **Type:** place
   - **Pages:** Pages/cains_jawbone_page_15.md
   - **Why it matters:** Could anchor geography/time zone (or link to other “Lyons”/Lesurques references).
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify the lyric “fondly sae did I o’ mine” (music-hall context)
+  - **Type:** quote
+  - **Pages:** Pages/cains_jawbone_page_16.md
+  - **Why it matters:** Could anchor performer/repertoire and help date or cluster narrator.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** What/where are “the Moon” and “the Dawn” in Page 17 (venues/landmarks)?
+  - **Type:** place
+  - **Pages:** Pages/cains_jawbone_page_17.md
+  - **Why it matters:** Physical setting anchor for the tea/meeting scene.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify “Moning” (tea name/brand?) referenced alongside Lapsang
+  - **Type:** term
+  - **Pages:** Pages/cains_jawbone_page_17.md
+  - **Why it matters:** Product clue that may recur or locate the scene.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify the “namesake” quotation about dinner courses (soup → fish → birds) and the epigram line on Page 18
+  - **Type:** quote/other
+  - **Pages:** Pages/cains_jawbone_page_18.md
+  - **Why it matters:** Namesake identification could pin the narrator; may connect to other epigram references.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Confirm whether “Human Comedy… beyond to-day” is intended as a Balzac death-date anchor
+  - **Type:** date/other
+  - **Pages:** Pages/cains_jawbone_page_19.md
+  - **Why it matters:** Strengthens the mid-August calendar chain with Pages/cains_jawbone_page_8.md and Pages/cains_jawbone_page_10.md.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify the queen quotation (attributed to Wotton) and what “only just come to Falkland” refers to
+  - **Type:** quote/place/other
+  - **Pages:** Pages/cains_jawbone_page_19.md
+  - **Why it matters:** Could uniquely identify a queen/scene and link pages by historical context.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Confirm the “oldest brass in England” inscription (Sir John/Iohan Daubernoun) and its location (by the River Mole)
+  - **Type:** place/other
+  - **Pages:** Pages/cains_jawbone_page_20.md
+  - **Why it matters:** Strong location anchor for ordering/travel constraints.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify the epitaph line “Underneath this stone… as much Beauty as could die”
+  - **Type:** quote
+  - **Pages:** Pages/cains_jawbone_page_20.md
+  - **Why it matters:** Could identify a tomb/author and connect to other epitaph allusions.
   - **Status:** `open`
   - **Result:**
