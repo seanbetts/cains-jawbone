@@ -36,3 +36,14 @@ Track *in-world* death/murder hypotheses separately from page-ordering hypothese
   - **Narrative tells:** Framing stresses deceit (“heart… deceitful”) and a story told by a now-dead speaker; “take him away” hints at custody/institution.
   - **Evidence summary:** IN-WORLD death signal is present but agency/cause is not established on this page.
   - **Falsifiers:** Later pages clarify the “dead man” is a metaphor/allusion, or confirm a non-violent natural death unrelated to the six in-world murders.
+
+- `E02` (confidence: `0.30`; status: `active`)
+  - **Pages:** Pages/cains_jawbone_page_68.md, Pages/cains_jawbone_page_69.md, Pages/cains_jawbone_page_70.md
+  - **Victim candidate(s):** `P61` (poor old man; identity unknown)
+  - **Murderer candidate(s):** `UNKNOWN`
+  - **Means/method:** `UNKNOWN` (described as “done slowly to death”; could imply poisoning/neglect, but not explicit)
+  - **Motive:** `UNKNOWN`
+  - **Opportunity:** Narrator claims direct witnessing; surrounding pages suggest a “crucial meeting” and later fear of retaliation.
+  - **Narrative tells:** Emphasis on time-of-night wakefulness + self-command (“collect myself”) after witnessing the slow death; later page frames a franked warning/blackmail note and the threat of being “done in”.
+  - **Evidence summary:** IN-WORLD death is asserted with slow-killing language, but agent/means are not named.
+  - **Falsifiers:** Later context shows the “old man” survives, the death is metaphorical, or the scene is revealed as purely recollected/hypothetical rather than witnessed.

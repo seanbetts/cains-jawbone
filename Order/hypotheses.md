@@ -13,7 +13,7 @@ Template:
   - **Disconfirming evidence:** (what would falsify this cluster)  
 
 - **Cluster:** Henry name occurrences (confidence: `MAYBE`)
-  - **Pages:** Pages/cains_jawbone_page_2.md, Pages/cains_jawbone_page_4.md, Pages/cains_jawbone_page_5.md, Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_16.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_26.md, Pages/cains_jawbone_page_31.md, Pages/cains_jawbone_page_32.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_41.md, Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_44.md, Pages/cains_jawbone_page_45.md, Pages/cains_jawbone_page_47.md, Pages/cains_jawbone_page_49.md, Pages/cains_jawbone_page_58.md, Pages/cains_jawbone_page_60.md, Pages/cains_jawbone_page_63.md
+  - **Pages:** Pages/cains_jawbone_page_2.md, Pages/cains_jawbone_page_4.md, Pages/cains_jawbone_page_5.md, Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_16.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_26.md, Pages/cains_jawbone_page_31.md, Pages/cains_jawbone_page_32.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_41.md, Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_44.md, Pages/cains_jawbone_page_45.md, Pages/cains_jawbone_page_47.md, Pages/cains_jawbone_page_49.md, Pages/cains_jawbone_page_58.md, Pages/cains_jawbone_page_60.md, Pages/cains_jawbone_page_63.md, Pages/cains_jawbone_page_68.md
   - **Rationale:** “Henry” appears across multiple scenes with shifting roles; may be one person or multiple people sharing the name.
   - **Key anchors:** “Lesurques” (Courier of Lyons?) role reference; ruined lighthouse + “Emperor’s Peg”; capstan-bar / dog-watch nautical register; Henry stooping/cleaning and handling bodies; Page 21’s “latest victim” + blood; Page 26’s “first two killings” + companion/rector’s aunt; Page 35’s police manhunt; Page 36’s buried corpse detail + “made up”; Pages 41–45 marriage/murder framing (certificate/corpse); Pages 47/49 attraction + “doomed to destroy… for family reasons”; Page 58’s “third/fourth” victims; Page 60’s “peerless investigator” role.
   - **Disconfirming evidence:** later pages give different surnames/biographical details for each “Henry”, or show mutually exclusive locations/timelines.
@@ -29,6 +29,18 @@ Template:
   - **Rationale:** Repeated named desserts and talk of sundaes (“Lover’s Delight”, Banana Split, “Rainbow”, Lent rule) suggests venue/menu continuity or a narrator fixation.
   - **Key anchors:** “Lover’s Delight” sundae; Banana Split; “Rainbow”; Lent constraint on sundaes; recurring “Henry” mention in the same cluster.
   - **Disconfirming evidence:** later context shows these are isolated jokes with no shared setting/characters.
+
+- **Cluster:** School nostalgia + chapel (confidence: `LIKELY`)
+  - **Pages:** Pages/cains_jawbone_page_66.md, Pages/cains_jawbone_page_67.md, Pages/cains_jawbone_page_68.md
+  - **Rationale:** Pages 66–67 are continuous text and all three pages share a school/chapel setting with a remembered Head and institutional details.
+  - **Key anchors:** fives courts; old Hall hung with Beardsley/Rops; “the Head”; Latham Chapel fire in 1906; “darling young” leaving.
+  - **Disconfirming evidence:** later evidence shows Latham Chapel refers to a different institution than the Hall/fives-courts memories.
+
+- **Cluster:** Old man slow-death thread (confidence: `MAYBE`)
+  - **Pages:** Pages/cains_jawbone_page_68.md, Pages/cains_jawbone_page_69.md, Pages/cains_jawbone_page_70.md
+  - **Rationale:** “Old man” appears as a key node (crucial meeting → witnessed slow death) followed by letter/retaliation anxiety.
+  - **Key anchors:** “old man”; “done slowly to death”; franked item to “the girl”; threat “do me in”; “old association” (arthritic knee anecdote).
+  - **Disconfirming evidence:** “done slowly to death” is figurative, or the “he” in Page 70 is not the same as the “old man” in Pages 68–69.
 
 - **Cluster:** Coastal imagery (confidence: `MAYBE`)
   - **Pages:** Pages/cains_jawbone_page_1.md, Pages/cains_jawbone_page_4.md, Pages/cains_jawbone_page_5.md
@@ -127,6 +139,14 @@ Template:
 - **Sequence (confidence: CERTAIN/LIKELY/MAYBE):** `Pages/cains_jawbone_page_?.md → …`
   - **Why:**  
   - **Disconfirming evidence:**  
+
+- **Sequence (confidence: CERTAIN):** `Pages/cains_jawbone_page_66.md → Pages/cains_jawbone_page_67.md`
+  - **Why:** Direct sentence continuation across the page break (“hung round with … the darker works…”).
+  - **Disconfirming evidence:** Only if a transcription artifact is discovered (unlikely given page integrity checks).
+
+- **Sequence (confidence: MAYBE):** `Pages/cains_jawbone_page_68.md → Pages/cains_jawbone_page_69.md → Pages/cains_jawbone_page_70.md`
+  - **Why:** Shared “old man” thread (crucial meeting → slow death witnessed → letter/retaliation fear) suggests narrative continuity.
+  - **Disconfirming evidence:** “old man” is generic or the pronoun targets differ across pages.
 
 - **Sequence (confidence: MAYBE):** `Pages/cains_jawbone_page_52.md → Pages/cains_jawbone_page_53.md`
   - **Why:** Page 52 sets up an interview-with-papers framed as “commentary… page after page”; Page 53 continues with an “introduced to me” subject (Sir Paul Trinder) in drink, consistent with a run of interview pages.
