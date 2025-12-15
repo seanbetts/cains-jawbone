@@ -25,6 +25,7 @@ Keep exploratory work isolated per end-to-end workstream (“run”), with clear
 branch=run/20251215-codex-clustering-pass1
 agent=codex-cli
 task=clustering pass 1
+phase=phase-3
 start=2025-12-15T10:05Z
 notes=initial narrator clustering
 ```
@@ -38,7 +39,7 @@ An empty file (or missing `branch=` line) means no active run.
 3. If it is empty:
    - Determine the new branch name: `run/YYYYMMDD-<agent>-<focus>` (lowercase, hyphen-separated).
    - Create and checkout the branch: `git checkout -b <branch>`.
-   - Write run metadata to `Worklog/current_run.txt` (branch, agent, task, start, notes).
+   - Decide the starting phase (usually `phase-1`) and write run metadata to `Worklog/current_run.txt` (branch, agent, task, phase, start, notes).
    - Log start time per `Skills/cjb-time-logging/SKILL.md`.
 
 ## When to start a new run (and when not to)
@@ -50,7 +51,7 @@ An empty file (or missing `branch=` line) means no active run.
 
 - Commit frequently with descriptive messages.
 - Do **not** merge other branches into the run branch.
-- Keep `Worklog/current_run.txt` untouched until the run ends (so restarts continue on the same branch).
+- Keep `Worklog/current_run.txt` stable so restarts continue on the same branch (do not edit `branch=`); update only `phase=` when the active phase changes.
 
 ## End a run
 

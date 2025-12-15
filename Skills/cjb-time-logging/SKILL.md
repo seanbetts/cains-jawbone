@@ -19,6 +19,7 @@ Ensure every session is time-stamped and attributable.
 2. Create an in-progress session note (in working memory for this run) with:
    - date (YYYY-MM-DD)
    - agent name
+   - phase (e.g. `phase-1`)
    - intended task
    - branch (if known)
    - start time (UTC)
@@ -32,16 +33,16 @@ Do not write to the CSV yet unless you are creating a placeholder row.
 4. Append a single row to `Worklog/worklog.csv`:
 
 Columns:
-`date,agent,task,start,end,minutes,branch,commit,notes`
+`date,agent,phase,task,start,end,minutes,branch,commit,notes`
 
 Constraints:
 - `minutes` must be numeric.
 - `notes` must be one sentence.
+- `phase` must be present (use `phase-1` … `phase-6`).
 - Use UTC consistently.
 
 ## Example row
 
 ```csv
-2025-12-14,codex-cli,extract pages 21-30,2025-12-14T20:10Z,2025-12-14T20:37Z,27,cluster-a-ordering-v2,abc1234,"Added notes and updated quotes index."
+2025-12-14,codex-cli,phase-1,extract pages 21-30,2025-12-14T20:10Z,2025-12-14T20:37Z,27,run/20251214-codex-extraction-pass1,abc1234,"Added notes and updated quotes index."
 ```
-

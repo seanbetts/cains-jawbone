@@ -17,6 +17,26 @@ This folder is a **literary puzzle workspace**, not a software project. The goal
 6. **No brute force.**  
    Do not attempt permutation/brute-force ordering; progress comes from clue extraction, indexing, clustering, and evidence-based hypotheses.
 
+## Phase declaration (mandatory)
+
+Agents must explicitly declare the phase they are operating in before starting work.
+
+- Valid phases are:
+  - Phase 1: Page extraction
+  - Phase 2: External research resolution
+  - Phase 3: Pattern detection and clustering
+  - Phase 4: Internal ordering within clusters
+  - Phase 5: Cross-cluster stitching
+  - Phase 6: Convergence and falsification
+
+For phase-specific procedures, required Skills, file updates, forbidden actions, and exit conditions, follow `Skills/cjb-phase-playbook/SKILL.md`.
+
+- The active phase must be recorded:
+  - in `Worklog/current_run.txt`, and
+  - in the `phase` field of `Worklog/worklog.csv` for each session.
+
+Actions outside the declared phase require explicit instruction from the user.
+
 ## Working loop (default)
 
 - Extract clues from a page into `## Notes` (per `Skills/cjb-page-extraction/SKILL.md`).
@@ -25,10 +45,18 @@ This folder is a **literary puzzle workspace**, not a software project. The goal
 - When a page likely involves in-world harm/death, use the murder-analysis skills (below) and keep `Order/cast.md` + `Order/confidence.md` updated.
 - **Default sequencing:** complete a full page-extraction pass (all 100 pages) before doing any external research; capture research needs as `open` items in `Indexes/research_queue.md`.
 
+Phase constraints apply:
+
+- Phase 1: Do not propose ordering, clustering, or murderer/victim conclusions.
+- Phase 2: Do not order pages; research only items recorded in `Indexes/research_queue.md`.
+- Phase 3: Do not impose sequence order; clusters only.
+- Phase 4+: Ordering and murder analysis may proceed, with confidence and falsifiers.
+
 ## Skills (authoritative procedures live here)
 
 Keep all detailed procedures, templates, and rules in the Skill files to avoid drift. If guidance conflicts, treat the relevant `SKILL.md` as authoritative.
 
+- **Phase playbook:** `Skills/cjb-phase-playbook/SKILL.md` — use at the start of a run and whenever the phase changes to determine allowed actions, required Skills, file updates, and exit conditions.
 - **Page extraction:** `Skills/cjb-page-extraction/SKILL.md` — use when reviewing a page and updating `## Notes` + indices.
 - **Index maintenance:** `Skills/cjb-index-maintenance/SKILL.md` — use when curating `Indexes/*` consistency and cross-links.
 - **Order hypotheses:** `Skills/cjb-order-hypotheses/SKILL.md` — use when clustering pages and proposing sequences (with falsifiers).
@@ -81,7 +109,7 @@ Before doing any work:
 Before finishing:
 1. Record `end` time (UTC).
 2. Calculate `minutes` between start and end.
-3. Append a row to `Worklog/worklog.csv` (`date,agent,task,start,end,minutes,branch,commit,notes`).
+3. Append a row to `Worklog/worklog.csv` (`date,agent,phase,task,start,end,minutes,branch,commit,notes`).
 4. Include `branch` and `commit` if available.
 
 See `Skills/cjb-time-logging/SKILL.md` for the full procedure and formatting requirements.
@@ -101,7 +129,7 @@ Runs are **end-to-end workstreams** (e.g., “full extraction pass”, “cluste
 - Log start/end times using the Time Logging Skill.
 - Do not merge other branches into the run branch.
 - Leave `Worklog/current_run.txt` untouched so restarts pick up the same run.
- - Do **not** create new run branches for page “batches”; keep committing batches on the same run branch until the run’s end goal is reached.
+- Do **not** create new run branches for page “batches”; keep committing batches on the same run branch until the run’s end goal is reached.
 
 ### Closing a run
 1. Run `python3 verify_pages.py`.
@@ -148,6 +176,15 @@ Use lightweight milestone tags without punctuation that git disallows, e.g.:
 ### Rollback behaviour
 
 If a hypothesis collapses, revert the commit(s) that introduced it rather than editing history. Record the reason for rollback in a new commit message or in `Order/hypotheses.md`.
+
+## Final solution output
+
+- The final answer must be written only to `FINAL_SOLUTION.md`.
+- Do not create alternative solution files or drafts.
+- Do not include reasoning, commentary, or confidence in the final output.
+- Populate `FINAL_SOLUTION.md` only when the ordering and murders are considered stable.
+- Treat `FINAL_SOLUTION.md` as write-once unless explicitly instructed to revise.
+- Commits that modify `FINAL_SOLUTION.md` must not modify any other files.
 
 ## Safety & scope
 

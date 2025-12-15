@@ -23,6 +23,30 @@ This is not a software project; the “code” here exists only to protect text 
 - Log session start/end (UTC) and append to `Worklog/worklog.csv` per the time-logging skill.
 - Don’t brute-force ordering (100! is not a strategy).
 
+## Master plan
+
+This project follows a phased approach. Phases should be completed in order.
+
+**Phase 1: Page extraction**  
+Read all 100 pages and extract signals without attempting to order them. Capture entities, quotations, objects, motifs, temporal hints, and uncertainties in `## Notes`, keeping global indices up to date. The goal is coverage, not understanding.
+
+**Phase 2: External research resolution**  
+Resolve shared or anchoring references (quotations, dates, places) that recur across pages or appear to structure time or movement. Research is bounded and conservative, aimed at collapsing ambiguity rather than explaining everything.
+
+**Phase 3: Pattern detection and clustering**  
+Identify recurring voices, characters, locations, tones, and motifs. Group pages into provisional narrative clusters without imposing internal order. Clusters are hypotheses and may overlap.
+
+**Phase 4: Internal ordering within clusters**  
+Propose page sequences within individual clusters using continuity cues (time, place, pronouns, quoted material). Test and refine these sequences, recording confidence and explicit falsifiers.
+
+**Phase 5: Cross-cluster stitching**  
+Connect ordered clusters into a single global sequence. Use shared characters, consequences, and deaths as linking constraints. At this stage, candidate murderers and victims begin to stabilise.
+
+**Phase 6: Convergence and falsification**  
+Stress-test the full ordering and murder list by actively seeking contradictions and alternative explanations. Resolve remaining inconsistencies until only local, non-structural uncertainty remains.
+
+Operational procedures for each phase (allowed actions, required Skills, outputs, and exit conditions) are defined in `Skills/cjb-phase-playbook/SKILL.md`.
+
 ## Working loop
 
 1. Extract clues from a page into `## Notes`.
@@ -36,10 +60,21 @@ The default approach is:
 1. Do a complete extraction pass across **all 100 pages** (populate `## Notes` + keep indices current).
 2. Only then start resolving `Indexes/research_queue.md` items (quotes, calendar clues, locations), since later pages often answer earlier uncertainties.
 
+## Final output
+
+The canonical solution is recorded in `FINAL_SOLUTION.md`.
+
+This file contains:
+1) The list of murdered persons and their murderers
+2) The correct page order for all 100 pages
+
+It contains no working or explanation.
+
 ## Skills (how we work)
 
 The authoritative procedures/templates live in these files:
 
+- `Skills/cjb-phase-playbook/SKILL.md`
 - `Skills/cjb-page-extraction/SKILL.md`
 - `Skills/cjb-index-maintenance/SKILL.md`
 - `Skills/cjb-order-hypotheses/SKILL.md`
@@ -69,7 +104,7 @@ It does **not** judge whether notes/hypotheses are correct.
 ## Git workflow
 
 - Commit small, single-purpose changes (avoid mega-commits).
-- Use branches for competing ordering approaches.
+- Use branches for competing ordering approaches or discrete runs.
 - Tag major milestones (e.g. `milestone-first-clustering-pass`).
 - If a hypothesis collapses, prefer `git revert` over rewriting history.
 
