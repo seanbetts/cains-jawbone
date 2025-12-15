@@ -2,3 +2,29 @@ This is good. She accepts Lover’s Delight from me. She has spoken very little 
 
 ## Notes
 
+- **Entities:**
+  - CERTAIN: Alexander (narrator; nickname “Ecky”).
+  - MAYBE: unnamed “she” (bar companion; could match Page 42’s woman).
+  - MAYBE: “doctor friend of hers” (unnamed).
+- **Places:**
+  - CERTAIN: King’s Cross.
+  - CERTAIN: Edinburgh.
+  - MAYBE: “an honest station between King’s Cross and Edinburgh” (clue; exact station TBD).
+- **Quotes & allusions:**
+  - “being’s drone pipe, whose nostril turns to blight the strivelled stars and thicks the lusty breathing of the sun” (source TBD).
+- **Motifs/continuity hooks:**
+  - Drinks/desserts as titles: “Lover’s Delight”, “Banana Split”, “the hard stuff”, “the Dawn”.
+  - Hands/income dependence (“ruin my hand”).
+  - Zodiac/astrology wordplay: Aquarius ↔ Gemini.
+  - Scottish nickname/dialect framing (“Ecky”).
+- **Voice/tells:**
+  - Self-referential wordplay; astrological/handwriting sensitivity (possible link to “Aquarius” pen voice).
+- **Ordering hypotheses:**
+  - MAYBE: links to Pages/cains_jawbone_page_1.md via “Aquarius” motif.
+  - MAYBE: links to Pages/cains_jawbone_page_42.md via cocktail/bar setting and the same woman.
+- **Disconfirming evidence:**
+  - If “Aquarius/Gemini” is shown to be purely menu-wordplay with no pen/astrology continuity elsewhere.
+- **Research needed:**
+  - Identify the “being’s drone pipe…” quotation source.
+  - Determine what “Ecky passes over to the Dawn” refers to (menu/drink/other).
+  - Identify the intended “station between King’s Cross and Edinburgh” (if it is a clue).

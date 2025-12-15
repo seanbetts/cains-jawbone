@@ -8,3 +8,24 @@ I assure you I had not seen her enter  but suddenly I was electrically aware tha
 
 ## Notes
 
+- **Entities:**
+  - CERTAIN: Henry.
+  - MAYBE: tall woman (“Julienne?” as a name-guess).
+- **Quotes & allusions:**
+  - Verse snippet about harp-strings and desert (source TBD).
+  - “mirabile dictu” (Latin aside).
+- **Motifs/continuity hooks:**
+  - Seduction/observation: “electrically aware” of her presence; envy of Henry.
+  - Cigarette + heavy cocktail drinking.
+  - “Surface… clear brown” with white figures (stars/heart) moving inside (eye vs drink detail; unclear).
+  - White lace “butterfly” dabbing.
+- **Voice/tells:**
+  - Sensory, eroticised description; fixates on eyes/surface.
+- **Ordering hypotheses:**
+  - MAYBE: links to Pages/cains_jawbone_page_43.md (same woman/cocktail-bar setting).
+  - MAYBE: links to Flecker/allusion-heavy narrator thread (Pages/cains_jawbone_page_40.md) if the verse is related.
+- **Disconfirming evidence:**
+  - If the “surface” detail is later clearly an object/drink unrelated to gaze/character.
+- **Research needed:**
+  - Identify the verse snippet source.
+  - Clarify what the “surface… clear brown” refers to (eye/cup/drink).

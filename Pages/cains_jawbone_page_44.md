@@ -2,3 +2,26 @@ I sometimes wish, and I wished then, that I had the gift of telling, or at least
 
 ## Notes
 
+- **Entities:**
+  - CERTAIN: Henry.
+  - CERTAIN: Hodge.
+  - MAYBE: second wife (unnamed) and her brother (suspects Henry).
+  - MAYBE: young fruit merchant (memory; unnamed).
+- **Places:**
+  - CERTAIN: Vera Cruz (fonda).
+- **Motifs/continuity hooks:**
+  - Tobacco: “first St. Bruno”.
+  - Smell-triggered memory; sensory emphasis.
+  - Blood + guitar strings + “kenspeckle handkerchief”.
+  - Evidence destruction: half-burned marriage certificate in an incinerator; “charred lines on Henry”.
+  - Suspicion around Henry’s marriage history (second wife’s brother).
+- **Voice/tells:**
+  - Smell-centric perception (MAYBE animal-coded); self-critique about storytelling.
+- **Ordering hypotheses:**
+  - CERTAIN: add to Henry-occurrence cluster.
+  - MAYBE: links to document/will/forgery/burning-evidence motif pages.
+- **Disconfirming evidence:**
+  - If later context shows the “marriage certificate” is metaphorical rather than literal evidence.
+- **Research needed:**
+  - Confirm “St. Bruno” (tobacco) and whether it’s used elsewhere as a tell.
+  - Interpret “charred lines on Henry” and whether it links to other “burned paper” pages.
