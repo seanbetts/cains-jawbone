@@ -12,12 +12,14 @@ This is not a software project; the “code” here exists only to protect text 
 - `Order/` — ordering hypotheses and clusters (`hypotheses.md`)
 - `Skills/` — modular workflows (authoritative procedures in each `SKILL.md`)
 - `verify_pages.py` — integrity verifier (archive hash + page-body immutability)
+- `Worklog/worklog.csv` — mandatory session log (see `Skills/cjb-time-logging/SKILL.md`)
 
 ## Golden rules
 
 - Never edit the page body text in `Pages/*.md` (only write under `## Notes`).
 - Never modify anything in `Archive/`.
 - Run `python3 verify_pages.py` after edits and before commits.
+- Log session start/end (UTC) and append to `Worklog/worklog.csv` per the time-logging skill.
 - Don’t brute-force ordering (100! is not a strategy).
 
 ## Working loop
@@ -35,6 +37,7 @@ The authoritative procedures/templates live in these files:
 - `Skills/cjb-order-hypotheses/SKILL.md`
 - `Skills/cjb-quote-research/SKILL.md`
 - `Skills/cjb-verification/SKILL.md`
+- `Skills/cjb-time-logging/SKILL.md`
 
 ## Integrity checking
 
@@ -60,4 +63,3 @@ It does **not** judge whether notes/hypotheses are correct.
 
 - Do not import solved page orders, murderer/victim lists, or solution summaries.
 - Research is allowed only for quotation/place/reference resolution; record results in the indices.
-
