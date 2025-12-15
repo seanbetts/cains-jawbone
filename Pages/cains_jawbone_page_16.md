@@ -2,3 +2,23 @@ One’s eyebrows were one’s own, I always thought. Though I did remember a cas
 
 ## Notes
 
+- **Entities:**
+  - CERTAIN: Aunt Mary (lost eyebrows “after the explosion”).
+  - CERTAIN: Henry (romantic target; “ready to love”).
+  - MAYBE: Bill (names the eyebrows “two dark flapper moons”).
+  - CERTAIN: Highgate Empire (venue); Russian ballet (reference).
+  - CERTAIN: Wilkie Bard; (Sir Harry) Lauder (music-hall references).
+  - MAYBE: “man who made up for… the Russian ballet” (make-up artist).
+- **Quotes & allusions:**
+  - MAYBE: “sang o’ his love and fondly sae did I o’ mine” (song/lyric; source TBD).
+- **Motifs/continuity hooks:**
+  - Eyebrows/cosmetics: false eyebrows as “fuzzy caterpillars”; applying black.
+  - Theatre/music-hall + supper: eyebrow mishap “into the clear soup”.
+- **Voice/tells:**
+  - Stage/cosmetics knowingness; nostalgic (“The old days”); romantic vacillation about Henry.
+- **Ordering hypotheses:**
+  - MAYBE: cosmetics/social-voice cluster with Pages/cains_jawbone_page_5.md (powdered nose) and Henry-threads.
+- **Disconfirming evidence:**
+  - If later pages show this Henry is clearly different from other Henry scenes.
+- **Research needed:**
+  - Identify the lyric “fondly sae did I o’ mine” and whether it anchors a date/performer.

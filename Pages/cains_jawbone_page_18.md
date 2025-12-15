@@ -2,3 +2,21 @@ I discussed certain passages with the man, and he was too guardedly ignorant in 
 
 ## Notes
 
+- **Entities:**
+  - MAYBE: “the man” (consulted about passages; evasive/ignorant).
+  - MAYBE: narrator’s “namesake” (quoted about dinner courses).
+- **Quotes & allusions:**
+  - MAYBE: “Many a truth had been spoken… as an epigram.” (source TBD).
+  - MAYBE: “a course of soup… fishes… birds, as my namesake said” (source TBD; menu-course allusion).
+- **Motifs/continuity hooks:**
+  - Money as driver (“had it not been for money?”); suspicion + fear of wickedness.
+  - Editing/omission (“fall of the rupee” chapter; “too sensational”).
+  - Appetite metaphor (no single dish would satisfy).
+- **Voice/tells:**
+  - Paranoid self-analysis; heightened moral fear; metaphor-dense interiority.
+- **Ordering hypotheses:**
+  - MAYBE: wills/money cluster with Pages/cains_jawbone_page_12.md and Pages/cains_jawbone_page_14.md (documents + inheritance talk).
+- **Disconfirming evidence:**
+  - If Page 18’s “money” context is later shown to be unrelated to legal documents/inheritance threads.
+- **Research needed:**
+  - Identify the epigram source and the “namesake” quotation about soup/fish/birds.

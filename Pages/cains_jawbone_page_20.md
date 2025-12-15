@@ -2,3 +2,27 @@ The best I had done seemed to me blank and suspicious, my great thoughts as I su
 
 ## Notes
 
+- **Entities:**
+  - MAYBE: Will (likely Shakespeare); Ben (likely Ben Jonson); Will’s wife (likely Anne Hathaway via “second-best bed”).
+  - MAYBE: “bricklayer out of Annandale” (Ben Jonson clue) and “inheritor of the second-best bed” (Anne Hathaway clue).
+  - CERTAIN: Sir Iohan Daubernoun (named on brass inscription).
+- **Time markers:**
+  - CERTAIN: “Next day…”
+  - MAYBE: “my waking… my strong tea, and my first pill” (morning routine).
+- **Quotes & allusions:**
+  - MAYBE: “Underneath this stone… as much Beauty as could die” (epitaph snippet; source TBD).
+- **Motifs/continuity hooks:**
+  - Pills + strong tea (possible continuity with other pill/drug pages).
+  - Antiquarian anchor: “oldest brass in England” inscription (French/Latinized spelling).
+  - Circling/returning (“circled and circled… arrived home again, we two”).
+- **Places:**
+  - CERTAIN: “by the Mole” (River Mole implied).
+- **Voice/tells:**
+  - Antiquarian/inscription interest; literary-name riddling (Will/Ben/bed).
+- **Ordering hypotheses:**
+  - MAYBE: pill thread with Pages/cains_jawbone_page_3.md (pills) and other “first pill” narrators.
+- **Disconfirming evidence:**
+  - If “Mole” later resolves to something non-geographic (pet/name) rather than the river.
+- **Research needed:**
+  - Identify the epitaph line (“Underneath this stone… Beauty…”) and who “he” is.
+  - Confirm the “oldest brass in England” location (Sir John Daubernoun) and whether it anchors a specific place sequence.

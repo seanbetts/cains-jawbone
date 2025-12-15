@@ -2,3 +2,24 @@ I am conveniently situated, with the Moon on the one hand and the Dawn on the ot
 
 ## Notes
 
+- **Entities:**
+  - CERTAIN: Sawnie (young; has a Fordor).
+  - CERTAIN: Kate Somerset.
+  - CERTAIN: Grace (sent “seven pounds of Lapsang”).
+  - MAYBE: “the Moon” and “the Dawn” (places/venues flanking the narrator).
+  - MAYBE: unnamed “he” + “she” (meeting; marriage hinted).
+- **Time markers:**
+  - CERTAIN: “to-day” (repeated; “first time” visiting “the Moon”).
+- **Motifs/continuity hooks:**
+  - Tea: Lapsang; “Moning” (tea name/brand?); anti-pub sentiment.
+  - Courtship/marriage in the air; “sinister” beauty.
+  - Car/lock fumbling (Fordor).
+- **Voice/tells:**
+  - Observant, romantic, faintly suspicious; sensory focus on tea.
+- **Ordering hypotheses:**
+  - MAYBE: tea/meeting-place cluster; compare with Page 15’s “Lyons” (tea-shop possibility).
+- **Disconfirming evidence:**
+  - If “Moon”/“Dawn” are later shown as abstract time-of-day metaphors rather than venues.
+- **Research needed:**
+  - What/where are “the Moon” and “the Dawn” here?
+  - Identify “Moning” (tea/brand) if it recurs.
