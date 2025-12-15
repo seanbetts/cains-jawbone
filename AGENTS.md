@@ -7,7 +7,7 @@ This folder is a **literary puzzle workspace**, not a software project. The goal
 1. **Log time before/after work.**  
    Follow `Skills/cjb-time-logging/SKILL.md`: capture `start` (UTC) before opening files and append to `Worklog/worklog.csv` with `end`/`minutes` before finishing.
 2. **Use the active run branch.**  
-   Follow `Skills/cjb-run-management/SKILL.md`: read `Worklog/current_run.txt`, stay on the recorded branch if present, or create a new `run/YYYYMMDD-agent-focus` branch only when the file is empty. Do not work on `main` directly.
+   Follow `Skills/cjb-run-management/SKILL.md`: read `Worklog/current_run.txt`, stay on the recorded branch if present, or create a new `run/YYYYMMDD-agent-focus` branch only when the file is empty **and** you are starting a new end-to-end run (not a new page batch / session). Do not work on `main` directly.
 3. **Never change page body text.**  
    For any file in `Pages/cains_jawbone_page_*.md`, only edit content **under** the `## Notes` heading. Do not alter, reflow, wrap, or “fix” punctuation in the page text above `## Notes`.
 4. **Keep the archive immutable.**  
@@ -22,6 +22,7 @@ This folder is a **literary puzzle workspace**, not a software project. The goal
 - Extract clues from a page into `## Notes` (per `Skills/cjb-page-extraction/SKILL.md`).
 - Update relevant `Indexes/*` entries (per `Skills/cjb-index-maintenance/SKILL.md`).
 - If proposing a linkage/sequence, record it (plus falsifier) in `Order/hypotheses.md` (per `Skills/cjb-order-hypotheses/SKILL.md`).
+- **Default sequencing:** complete a full page-extraction pass (all 100 pages) before doing any external research; capture research needs as `open` items in `Indexes/research_queue.md`.
 
 ## Skills (authoritative procedures live here)
 
@@ -73,7 +74,7 @@ See `Skills/cjb-time-logging/SKILL.md` for the full procedure and formatting req
 
 ## Agent runs and branching
 
-Discrete AI agent sessions are treated as **runs**. Runs use dedicated git branches and `Worklog/current_run.txt` to keep track of the active branch.
+Runs are **end-to-end workstreams** (e.g., “full extraction pass”, “clustering pass”, “ordering pass”) that may span multiple sessions/days. Runs use dedicated git branches and `Worklog/current_run.txt` to keep track of the active branch.
 
 ### Creating a run
 - Check `Worklog/current_run.txt`. If it already lists a `branch=…`, continue on that branch.
@@ -86,6 +87,7 @@ Discrete AI agent sessions are treated as **runs**. Runs use dedicated git branc
 - Log start/end times using the Time Logging Skill.
 - Do not merge other branches into the run branch.
 - Leave `Worklog/current_run.txt` untouched so restarts pick up the same run.
+ - Do **not** create new run branches for page “batches”; keep committing batches on the same run branch until the run’s end goal is reached.
 
 ### Closing a run
 1. Run `python3 verify_pages.py`.
@@ -136,5 +138,5 @@ If a hypothesis collapses, revert the commit(s) that introduced it rather than e
 ## Safety & scope
 
 - **No spoilers:** do not import or reproduce known solved page orders, murderer/victim lists, or solution summaries from the internet unless the user explicitly requests spoilers.
-- **Mandatory research policy:** agents are expected to self-initiate research using only historically appropriate sources (≤1934). In particular, consult Chambers' Book of Days for calendar clues, Highways & Byways guides for geographic clues, and pre-1934 dictionaries/almanacs for terminology. Record all findings in the relevant indices and research queue.
+- **Mandatory research policy:** when research is needed, use only historically appropriate sources (≤1934). Default sequencing is extraction-first: finish the full page pass before resolving research queue items unless the user explicitly asks to research earlier.
 - Avoid reproducing large verbatim chunks of page text in outputs; quote only the minimum needed for identification.
