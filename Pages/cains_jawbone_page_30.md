@@ -2,3 +2,27 @@ I see that old dandy has purchased Cape Jasmine. Your gardenia is difficult at a
 
 ## Notes
 
+- **Entities:**
+  - MAYBE: “old dandy” (unnamed).
+  - CERTAIN: Mrs. Cave (local; likened to Dame Quickly).
+  - MAYBE: “she” (urges narrator to the “American mess”; possible same as Mrs. Cave).
+  - MAYBE: De Mauves; Gressie (names in a quoted passage?).
+  - CERTAIN: Watson (Sherlock address reference).
+- **Quotes & allusions:**
+  - CERTAIN: “Excellent, my dear Watson.”
+  - MAYBE: “this savours not of death, this hath a relish of eternity” (source TBD).
+  - MAYBE: “Lo, how these fair immaculate women… jocund maker… De Mauves… Gressie…” (source TBD).
+  - CERTAIN: Dame Quickly (Shakespeare character).
+- **Motifs/continuity hooks:**
+  - Plants: Cape Jasmine (gardenia), Gardener’s Garters (Phalaris arundinacea variegata).
+  - Illness: narrator repeatedly “not at all well”.
+  - Food: “American mess”; Quebec association; soup-tasting test; suspicion (“Can she be guilty?”).
+- **Voice/tells:**
+  - Botanical precision; detective/quotational reflex (Watson).
+- **Ordering hypotheses:**
+  - MAYBE: fits the plant-savvy narrator cluster (Pages/cains_jawbone_page_24.md, Pages/cains_jawbone_page_29.md).
+- **Disconfirming evidence:**
+  - If the botanical detail is purely decorative and the voice differs sharply from other plant/poison pages.
+- **Research needed:**
+  - Identify the “relish of eternity” quotation.
+  - Identify the “jocund maker / De Mauves / Gressie” passage and whether it anchors a specific author (“by James!”).

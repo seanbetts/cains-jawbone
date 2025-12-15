@@ -2,3 +2,22 @@ I had seen, day after day, every sunlit or night obscured detail of the funny ol
 
 ## Notes
 
+- **Entities:**
+  - CERTAIN: “tiny Clem” (likely Clement/Clem; childhood memory).
+  - MAYBE: narrator’s “brat” (child; hushed by Clem).
+  - MAYBE: person in the lock-up at a “county town on the Severn” (unidentified).
+- **Time markers:**
+  - CERTAIN: “day after day”; “so many years ago”; “one morning… when he was only six”.
+- **Motifs/continuity hooks:**
+  - Gothic “Death” imagery in an old house; “tapping… at the very walls”.
+  - Confinement: lock-up in county town (Severn).
+  - Coffee + breakfast: Peaberry Mysore + Blue Mountain; “two on toast” with “silver skins” and “golden blood” (food ID unclear).
+- **Voice/tells:**
+  - Lyrical, metaphoric “Death” register mixed with domestic routine (coffee/food).
+- **Ordering hypotheses:**
+  - LIKELY: connects to the Clement/Clem thread (Pages/cains_jawbone_page_3.md, Pages/cains_jawbone_page_24.md) via the nickname “Clem”.
+- **Disconfirming evidence:**
+  - If “Clem” is later clearly a different person than “Clement” on Page 3 (surname/role mismatch).
+- **Research needed:**
+  - Identify the “county town on the Severn” and what case/story is being alluded to (lock-up + tapping).
+  - Identify what “two on toast” refers to (food clue).

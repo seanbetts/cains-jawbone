@@ -2,3 +2,22 @@ I found myself by that one of the windows which overlooked the stone broach spir
 
 ## Notes
 
+- **Entities:**
+  - CERTAIN: Pluckley church (Kent) + its “stone broach spire”.
+  - MAYBE: narrator (reading; planning something “ticklish”).
+  - MAYBE: “the woman” (not yet dead; target of “forging ahead” scheme).
+- **Time markers:**
+  - CERTAIN: “tenth edition, of 1917” (book edition).
+- **Motifs/continuity hooks:**
+  - Forgery/forging: “Forging ahead… since the woman was not yet dead.”
+  - Book as clue: blind-tooled green binding with device “a single star above what was perhaps a sea”.
+  - Church-view window orientation: light over right shoulder (positioning detail).
+- **Voice/tells:**
+  - Dry evasiveness (“No, Sir; it is not a very interesting subject…”); self-contradictory marriage talk may be a quotation/echo.
+- **Ordering hypotheses:**
+  - LIKELY: links to wills/inheritance/document cluster (Pages/cains_jawbone_page_12.md, Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_18.md).
+- **Disconfirming evidence:**
+  - If “forging ahead” later proves to be a non-criminal metaphor unrelated to documents.
+- **Research needed:**
+  - Identify the 1917 tenth-edition book via its device (star above sea) and title/topic.
+  - Confirm what “stone broach spire” rarity implies (place/route constraint).

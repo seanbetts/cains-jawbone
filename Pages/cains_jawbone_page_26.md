@@ -2,3 +2,22 @@ The girl had left Henry by this time, thank God. She was an obvious whey-face. S
 
 ## Notes
 
+- **Entities:**
+  - CERTAIN: Henry.
+  - MAYBE: “the girl” (Henry’s companion; “whey-face”; unnamed).
+  - MAYBE: rector’s aunt (unnamed).
+  - MAYBE: Hodge (asks narrator about “Ben Wade”).
+  - MAYBE: Ben Wade (reference/person/character).
+- **Motifs/continuity hooks:**
+  - Murder fascination: narrator “liked a good murder”.
+  - Accent/heredity: “An accent was a terrible thing”; “something in heredity”.
+  - Physical tell: Hodge has a “wen” and scratches “left whisker”.
+- **Voice/tells:**
+  - Darkly amused, judgemental (“whey-face”); punning on “killing time”.
+- **Ordering hypotheses:**
+  - LIKELY: another Henry-occurrence that intensifies “killings/victim” framing (compare Pages/cains_jawbone_page_21.md).
+- **Disconfirming evidence:**
+  - If later context shows “killings” is figurative (e.g., stage/role talk) rather than literal murder.
+- **Research needed:**
+  - Identify “Ben Wade” and whether it’s meant to be a real person/character/date anchor.
+  - Identify the phrase “like a bee with a sore bonnet” (“foreign touch”) if it recurs.
