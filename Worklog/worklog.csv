@@ -1,6 +1,6 @@
 date,agent,task,start,end,minutes,branch,commit,notes
-2025-12-15,codex-cli,add time logging policy,2025-12-15T09:53Z,2025-12-15T09:54Z,1,feature/citation-role-tagging,d023b92,"Added mandatory time logging guidance and worklog CSV header."
-2025-12-15,codex-cli,document README time logging,2025-12-15T10:38Z,2025-12-15T10:40Z,2,main,05278df,"Documented time logging workflow in README."
-2025-12-15,codex-cli,add run branch policy,2025-12-15T10:40Z,2025-12-15T10:59Z,19,main,21fc8fc,"Added run-tracking skill, tracker file, and docs."
-2025-12-15,codex-cli,add historical research skills,2025-12-15T11:05Z,2025-12-15T11:18Z,13,main,2f2ab1d,"Added date/location research workflows and docs."
-2025-12-15,codex-cli,update research policy,2025-12-15T11:34Z,2025-12-15T11:36Z,2,main,9f6098f,"Made historical research mandatory in AGENTS."
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
