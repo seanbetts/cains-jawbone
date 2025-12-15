@@ -586,3 +586,38 @@ Template:
   - **Why it matters:** Could identify a specific person, a nickname, or a repeated wordplay pattern.
   - **Status:** `open`
   - **Result:**
+
+- **Item:** Identify the “murderous doctor… friend… dear to me” quotation on Page 46
+  - **Type:** quote
+  - **Pages:** Pages/cains_jawbone_page_46.md
+  - **Why it matters:** Could identify the “murderous doctor” and connect doctor-linked plot pages.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Clarify Page 46’s “Hal” naming + “matter of Jasmine” + multiple “Tom” references
+  - **Type:** other
+  - **Pages:** Pages/cains_jawbone_page_46.md
+  - **Why it matters:** May identify the narrator (animal POV?) and connect to the broader jasmine/murder thread.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify whether “Special Orange Supreme” is a specific tea/venue/menu item (Page 47)
+  - **Type:** term/other
+  - **Pages:** Pages/cains_jawbone_page_47.md
+  - **Why it matters:** Could anchor a scene/venue or a coded menu sequence; links to tea motif pages.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Interpret Page 48’s Book of Common Prayer + “wormed his way” clue and the “Crataegus Oxyacantha” joke
+  - **Type:** quote/other
+  - **Pages:** Pages/cains_jawbone_page_48.md
+  - **Why it matters:** Might encode a name (e.g., “May”) or date, and help cluster the dog/cocktail scene.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify the “Homonoea” line (“The swallow, the bright Homonoea.”) on Page 50
+  - **Type:** quote/term
+  - **Pages:** Pages/cains_jawbone_page_50.md
+  - **Why it matters:** Headline line may be a quotation or natural-history reference used as an ordering anchor.
+  - **Status:** `open`
+  - **Result:**

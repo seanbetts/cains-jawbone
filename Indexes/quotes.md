@@ -257,3 +257,38 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_43.md
   - **Confidence:** `MAYBE`
   - **Research needed:** yes — identify source/context.
+
+- **Snippet:** “He was my friend… he was dear to me.”
+  - **Likely source/author:** TBD (quoted as from “the murderous doctor”)
+  - **Why it matters:** Could identify a specific “murderous doctor” text/trial and link the doctor plotline.
+  - **Pages:** Pages/cains_jawbone_page_46.md
+  - **Confidence:** `MAYBE`
+  - **Research needed:** yes — identify source/context.
+
+- **Snippet:** “Bring Palamabron, horned priest… And silent Elynittria, the silver-bowed queen,”
+  - **Likely source/author:** William Blake (likely *Milton*; needs confirmation)
+  - **Why it matters:** Strong allusion anchor for a Henry-introduction scene; may help cluster narrator voice.
+  - **Pages:** Pages/cains_jawbone_page_49.md
+  - **Confidence:** `LIKELY`
+  - **Research needed:** yes — confirm exact source.
+
+- **Snippet:** “I begin at the beginning… and go straight through to the end.”
+  - **Likely source/author:** Lewis Carroll (echoes “Begin at the beginning…”; *Alice* trial scene)
+  - **Why it matters:** Points to a narrator who quotes/parodies famous trial-scene dicta; may connect to other Alice/Wilde allusions.
+  - **Pages:** Pages/cains_jawbone_page_50.md
+  - **Confidence:** `LIKELY`
+  - **Research needed:** no
+
+- **Snippet:** “to be born… bred, in a handbag, whether it had handles or not…”
+  - **Likely source/author:** Oscar Wilde (*The Importance of Being Earnest*)
+  - **Why it matters:** Direct quotation/near-quotation; strong voice/reading anchor.
+  - **Pages:** Pages/cains_jawbone_page_50.md
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
+
+- **Snippet:** “The swallow, the bright Homonoea.”
+  - **Likely source/author:** TBD
+  - **Why it matters:** Headline line; may be a literary/natural-history quotation used as an ordering anchor.
+  - **Pages:** Pages/cains_jawbone_page_50.md
+  - **Confidence:** `MAYBE`
+  - **Research needed:** yes — identify source.

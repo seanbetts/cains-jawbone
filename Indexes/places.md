@@ -245,3 +245,9 @@ Template:
   - **Confidence:** `CERTAIN`
   - **Pages:** Pages/cains_jawbone_page_44.md
   - **Notes:** Memory anchored to an “old fonda” and a fruit merchant with a guitar.
+
+- **England**
+  - **Type:** country
+  - **Confidence:** `CERTAIN`
+  - **Pages:** Pages/cains_jawbone_page_46.md, Pages/cains_jawbone_page_47.md
+  - **Notes:** Mentioned explicitly (“visited England to-day for the first time”; “even in England”).

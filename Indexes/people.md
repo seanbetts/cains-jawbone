@@ -13,9 +13,9 @@ Template:
 ## Entries
 
 - `P01` — Names/aliases: Henry
-  - **Tells:** LIKELY actor (played Lesurques); LIKELY serial “intended” (has an “intended fifth”); associated with (possibly toxic) “Emperor’s Peg” at a ruined lighthouse; has a “great voice” linked to a “capstan bar”; appears as a subordinate who stoops/cleans and handles bodies; object of romance (“ready to love”); described as having multiple “killings” and a “latest victim” with blood present; later pursued by police (“flying squad”); linked to burying a corpse with “only the eyes” showing; also appears as a husband/guide in social scenes; linked to a half-burned marriage certificate; seen bending over a corpse of his own making.
+  - **Tells:** LIKELY actor (played Lesurques); LIKELY serial “intended” (has an “intended fifth”); associated with (possibly toxic) “Emperor’s Peg” at a ruined lighthouse; has a “great voice” linked to a “capstan bar”; appears as a subordinate who stoops/cleans and handles bodies; object of romance (“ready to love”); described as having multiple “killings” and a “latest victim” with blood present; later pursued by police (“flying squad”); linked to burying a corpse with “only the eyes” showing; also appears as a husband/guide in social scenes; linked to a half-burned marriage certificate; seen bending over a corpse of his own making; framed as “doomed to destroy… for family reasons”.
   - **Pronouns/relationships:** described as “the angel”; sometimes an absent advisor; sometimes an assistant obeying signals.
-  - **Pages:** Pages/cains_jawbone_page_2.md, Pages/cains_jawbone_page_4.md, Pages/cains_jawbone_page_5.md, Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_16.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_26.md, Pages/cains_jawbone_page_31.md, Pages/cains_jawbone_page_32.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_41.md, Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_44.md, Pages/cains_jawbone_page_45.md
+  - **Pages:** Pages/cains_jawbone_page_2.md, Pages/cains_jawbone_page_4.md, Pages/cains_jawbone_page_5.md, Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_16.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_26.md, Pages/cains_jawbone_page_31.md, Pages/cains_jawbone_page_32.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_41.md, Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_44.md, Pages/cains_jawbone_page_45.md, Pages/cains_jawbone_page_47.md, Pages/cains_jawbone_page_49.md
   - **Notes:** MAYBE multiple different “Henrys” across the book; do not merge/split without stronger anchors (surname, role, setting continuity).
 
 - `P02` — Names/aliases: Casy Ferris
@@ -253,9 +253,9 @@ Template:
   - **Notes:** Track whether this is an allusive “Kitchener” name or an in-world character.
 
 - `P41` — Names/aliases: Alexander; “Ecky” (nickname; uncertain)
-  - **Tells:** sends an invitation to a private view; appears in jasmine-bowl scene; calls himself Alexander and notes he was called “Ecky” when a boy; worries that “the hard stuff” would ruin his hand/income; Aquarius ↔ Gemini wordplay.
+  - **Tells:** sends an invitation to a private view; appears in jasmine-bowl scene; calls himself Alexander and notes he was called “Ecky” when a boy; worries that “the hard stuff” would ruin his hand/income; Aquarius ↔ Gemini wordplay; met “that evening” and nearly falls on the narrator’s nose.
   - **Pronouns/relationships:** called “young” in one context.
-  - **Pages:** Pages/cains_jawbone_page_37.md, Pages/cains_jawbone_page_43.md
+  - **Pages:** Pages/cains_jawbone_page_37.md, Pages/cains_jawbone_page_43.md, Pages/cains_jawbone_page_48.md
   - **Notes:** MAYBE multiple different Alexanders; this entry tentatively links Pages 37 and 43 pending stronger anchors.
 
 - `P42` — Names/aliases: Sonia Gordon
@@ -293,3 +293,15 @@ Template:
   - **Pronouns/relationships:** Henry-guided encounter; narrator envies Henry.
   - **Pages:** Pages/cains_jawbone_page_42.md
   - **Notes:** Name is conjectural; may link to Page 43’s unnamed “she”.
+
+- `P48` — Names/aliases: Hal (name; uncertain)
+  - **Tells:** detests being called “Hal”; describes being given “a chop”; speaks of killing “Tom… in the matter of Jasmine”.
+  - **Pronouns/relationships:** called “Hal” by an unnamed “she”; reacts to “him”/“her” in a marriage context.
+  - **Pages:** Pages/cains_jawbone_page_46.md
+  - **Notes:** Strong animal/dog POV candidate (chop + naïve register); track if Hal recurs.
+
+- `P49` — Names/aliases: Babs
+  - **Tells:** copper “twin cataracts” hair image; part of a verandah heat → rain scene; contrasted with an unnamed “she”.
+  - **Pronouns/relationships:** distinct from the unnamed “she” who “has got” the narrator.
+  - **Pages:** Pages/cains_jawbone_page_47.md
+  - **Notes:** Track for recurrence; may be an acquaintance vs focal woman.

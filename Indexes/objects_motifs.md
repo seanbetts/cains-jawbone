@@ -12,8 +12,8 @@ Template:
 ## Entries
 
 - **Pen (Aquarius)**
-  - **Instances / variants:** “mottled black and silver Aquarius”, Amsterdam-tempered nib; “Where would my income be if Aquarius were to turn Gemini?”
-  - **Pages:** Pages/cains_jawbone_page_1.md, Pages/cains_jawbone_page_43.md
+  - **Instances / variants:** “mottled black and silver Aquarius”, Amsterdam-tempered nib; “Where would my income be if Aquarius were to turn Gemini?”; “caseful of strange pens”
+  - **Pages:** Pages/cains_jawbone_page_1.md, Pages/cains_jawbone_page_43.md, Pages/cains_jawbone_page_50.md
   - **Notes:** Potential voice tell (stationery) or zodiac wordplay; watch for narrator continuity.
 
 - **Sea / coastal peril**
@@ -37,8 +37,8 @@ Template:
   - **Notes:** Track as drink/poison tell; research period recipe.
 
 - **Cocktails / mixed drinks**
-  - **Instances / variants:** “cocktail after cocktail”; “Lover’s Delight”; “the Dawn”; absinthe; brandy
-  - **Pages:** Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_43.md, Pages/cains_jawbone_page_45.md
+  - **Instances / variants:** “cocktail after cocktail”; “Lover’s Delight”; “the Dawn”; “over the cocktails”; absinthe; brandy
+  - **Pages:** Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_43.md, Pages/cains_jawbone_page_45.md, Pages/cains_jawbone_page_48.md
   - **Notes:** Bar/club continuity candidate; overlaps with cigarette and seduction motifs.
 
 - **Food brands (Bisto, Cerebos)**
@@ -87,9 +87,14 @@ Template:
   - **Notes:** Medical-state tell; might recur with other analgesic/drug references.
 
 - **Wills / inheritance documents**
-  - **Instances / variants:** “documents”; “abstracted will”; “leave everything to me”
-  - **Pages:** Pages/cains_jawbone_page_12.md, Pages/cains_jawbone_page_14.md
+  - **Instances / variants:** “documents”; “abstracted will”; “leave everything to me”; “The will was there all right”
+  - **Pages:** Pages/cains_jawbone_page_12.md, Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_50.md
   - **Notes:** Potential scene/cluster anchor; ties to character “May”.
+
+- **Sugar (Tate)**
+  - **Instances / variants:** “Tate essentially meant sugar”; hidden sugar “under the gas fire”
+  - **Pages:** Pages/cains_jawbone_page_48.md
+  - **Notes:** Brand/wordplay clue (likely Tate & Lyle); may connect to secrecy/hoarding and domestic scenes.
 
 - **Burned documents / incinerator**
   - **Instances / variants:** half-burned marriage certificate in an incinerator; “charred lines”
@@ -137,8 +142,8 @@ Template:
   - **Notes:** Theatre/cosmetics voice tell; links to other grooming/cosmetic pages.
 
 - **Tea (Lapsang / “Moning”)**
-  - **Instances / variants:** seven pounds of Lapsang; “Moning” tea
-  - **Pages:** Pages/cains_jawbone_page_17.md
+  - **Instances / variants:** seven pounds of Lapsang; “Moning” tea; Orange Pekoe; “Special Orange Supreme”
+  - **Pages:** Pages/cains_jawbone_page_17.md, Pages/cains_jawbone_page_47.md
   - **Notes:** Potential location/brand clue; may recur with tea-house settings.
 
 - **Car models / driving**
