@@ -2,3 +2,25 @@ Death’s clumsy fingered, that was the really frightful thing : I had seen them
 
 ## Notes
 
+- **Entities:**
+  - CERTAIN: Alexander (sent invitation).
+  - MAYBE: “male incarcerated at the place of Hotspur’s death” (location pun; likely Shrewsbury).
+  - CERTAIN: Ronald Firbank; Malta.
+  - MAYBE: “Paulo Post Avorticists” (group/exhibit; name unclear).
+- **Time markers:**
+  - CERTAIN: “the night before”.
+- **Motifs/continuity hooks:**
+  - Murder awareness: “to know that murder had been committed.”
+  - Concealment: “intrinsicated and concealed, chamber within chamber”.
+  - Evidence/weapon: “open the bores” (suggests gun barrels/chambers).
+  - Yellow jasmine bowl; rococo mirror.
+- **Voice/tells:**
+  - Forensic anxiety + ornate setting; identity remark (“my parents… I should be one… never… the other”) suggests a personal/biographical tell.
+- **Ordering hypotheses:**
+  - MAYBE: fits the “jasmine” motif thread (Pages/cains_jawbone_page_10.md, Pages/cains_jawbone_page_22.md, Pages/cains_jawbone_page_24.md).
+- **Disconfirming evidence:**
+  - If “bores/chambers” proves unrelated to a weapon/evidence mechanism.
+- **Research needed:**
+  - Identify the “place of Hotspur’s death” clue and the intended prison/town.
+  - What are the “Paulo Post Avorticists” (and is “Paulo” a clue)?
+  - Interpret “open the bores” and the “one… other” biographical remark.

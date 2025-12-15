@@ -2,3 +2,25 @@ Strange that old Calabar, as I called him, should fail me ; yet on the morning a
 
 ## Notes
 
+- **Entities:**
+  - CERTAIN: Calabar (likely Calabar bean/physostigma; “old Calabar”).
+  - CERTAIN: Mavis Kitchener.
+  - CERTAIN: Henry.
+  - MAYBE: “good uncle… father of your fortune” (quoted voice; identity TBD).
+- **Time markers:**
+  - CERTAIN: “morning after”; “at eleven in the forenoon”.
+- **Motifs/continuity hooks:**
+  - Poison failure: Calabar “should fail me”; “give him another day”.
+  - Food exchange: bad eggs ↔ wormy raspberries.
+  - Horticulture: rhododendrons (“abortive Bengal attempts”).
+  - Make-up: “Henry was always made up too.”
+  - Burial detail: buried corpse with only the eyes showing.
+- **Voice/tells:**
+  - Practical poison-garden logistics mixed with social marriage pressure.
+- **Ordering hypotheses:**
+  - LIKELY: strengthens plant/poison thread (Calabar/physostigma) and Henry-as-killer thread.
+- **Disconfirming evidence:**
+  - If “Calabar” and corpse-burial are later shown to be figurative/embedded narrative.
+- **Research needed:**
+  - Identify the “good uncle… father of your fortune” line source/context.
+  - Is Mavis Kitchener an allusive name (Kitchener) or an in-world character?

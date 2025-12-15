@@ -2,3 +2,27 @@ What chemistry! That the winds are really not infectious. Now that I was approac
 
 ## Notes
 
+- **Entities:**
+  - CERTAIN: Flecker (James Elroy Flecker; allusion).
+  - CERTAIN: Eric Parker (reference).
+  - MAYBE: Jack; Jack’s visitor; Thornhill (promised the opera).
+- **Time markers:**
+  - CERTAIN: “approaching journey’s end”.
+- **Quotes & allusions:**
+  - MAYBE: “And some to Flecker turn to pray, and I toward thy bed.” (source/allusion TBD).
+  - MAYBE: “the winds are really not infectious” (source TBD).
+- **Motifs/continuity hooks:**
+  - Pill-taking (“I took a pill… it was worth it”).
+  - Gardening growth imagery: bean bursting; potato leaves.
+  - Place wordplay: “Thames Ditton’s sister… Long she was” implies Long Ditton.
+- **Places:**
+  - CERTAIN: Thames Ditton; LIKELY: Long Ditton.
+- **Voice/tells:**
+  - Dense allusive, punning; uses place-nickname logic.
+- **Ordering hypotheses:**
+  - MAYBE: pill + bean/garden growth links to plant/poison thread pages.
+- **Disconfirming evidence:**
+  - If “Thames Ditton’s sister” is not meant literally (Long Ditton) or doesn’t recur.
+- **Research needed:**
+  - Identify the Flecker line/source and the “Jack’s visitor / Thornhill / opera” reference.
+  - Identify the Eric Parker “Thames Ditton’s sister” tale + the Irishman’s malapropism.

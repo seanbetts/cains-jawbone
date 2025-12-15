@@ -2,3 +2,22 @@ She said it didn’t matter what they had done, because she was still an M.D., a
 
 ## Notes
 
+- **Entities:**
+  - MAYBE: unnamed “she” (claims she is still an M.D. and has “another one”).
+  - MAYBE: unnamed “he” (“That was he.”; says it’s his last day).
+  - CERTAIN: George (surname unclear; “because he said so”).
+  - CERTAIN: Combe (likely George Combe reference; needs confirmation).
+- **Motifs/continuity hooks:**
+  - Credentials: “still an M.D.” + “got another one”.
+  - Clothes: undercoats “raw liver colour”; narrator’s single inherited coat.
+  - Betting + scoring: “two all for that year”; “vicarious” misunderstanding.
+- **Voice/tells:**
+  - Naïve literalism (vicarious → vicar); plain-spoken class contrast on clothing.
+  - MAYBE: animal-coded voice (coat/undercoat language; “pottered after rabbits”).
+- **Ordering hypotheses:**
+  - MAYBE: belongs with other bet/points pages (Pages/cains_jawbone_page_10.md, Pages/cains_jawbone_page_22.md).
+- **Disconfirming evidence:**
+  - If later reveals “M.D.” isn’t an academic degree but another acronym used repeatedly by this narrator.
+- **Research needed:**
+  - Confirm whether “George Combe” (phrenology) is intended and what “Free Knowledgist” means.
+  - What does “two all for that year” refer to (sport/contest/scoreboard)?
