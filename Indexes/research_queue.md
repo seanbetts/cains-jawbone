@@ -740,3 +740,80 @@ Template:
   - **Why it matters:** Potential precise “to-day” calendar key for ordering.
   - **Status:** `open`
   - **Result:**
+
+- **Item:** Identify the French “nénuphars” stanza quoted on Page 61
+  - **Type:** quote
+  - **Pages:** Pages/cains_jawbone_page_61.md
+  - **Why it matters:** Might be a precise-source anchor for voice or an embedded date/place clue.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify what “Rysbrach’s statues of the first Lord King” refers to (and implied location)
+  - **Type:** place/other
+  - **Pages:** Pages/cains_jawbone_page_61.md
+  - **Why it matters:** Could anchor a specific site/visit and connect pages via travel continuity.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify the “Major-General in Trafalgar Square on Guy Fawkes night” anecdote (and which statue is meant)
+  - **Type:** other/place
+  - **Pages:** Pages/cains_jawbone_page_62.md
+  - **Why it matters:** Could anchor a specific year/incident and help cluster the narrator thread.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify whether Darius Brockley / the vicar’s niece are in-world characters or a literary allusion
+  - **Type:** name/other
+  - **Pages:** Pages/cains_jawbone_page_62.md
+  - **Why it matters:** Determines whether these names should drive clustering/cast inference.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify what a “Rainbow” is in the Page 63 sweets scene (drink/dessert/brand)
+  - **Type:** term/other
+  - **Pages:** Pages/cains_jawbone_page_63.md
+  - **Why it matters:** Might identify venue/type of establishment and link other menu-title pages.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify the source of “little springs of a fairy’s sofa” (Page 63)
+  - **Type:** quote
+  - **Pages:** Pages/cains_jawbone_page_63.md
+  - **Why it matters:** Could be a precise-source anchor for narrator voice or a decoding hint.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify the “two things about a man” being read on Page 64 (hook/bait/Bellerophon passage)
+  - **Type:** quote/other
+  - **Pages:** Pages/cains_jawbone_page_64.md
+  - **Why it matters:** Might encode a date (saint/anniversary “to-day”) and link the Great Lexicographer/fealty narrator cluster.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Confirm what “tasted Lotus” refers to in Page 64’s Great Lexicographer + McLeod passage
+  - **Type:** other
+  - **Pages:** Pages/cains_jawbone_page_64.md
+  - **Why it matters:** Could be a specific episode/quotation that anchors identity and ordering.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify which Thomas Hardy work is meant by “Hardy’s exquisite production” on Page 65
+  - **Type:** quote/other
+  - **Pages:** Pages/cains_jawbone_page_65.md
+  - **Why it matters:** Could be a precise author/work anchor and cluster the narrator.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify Monk Arnulphus / “Jim the Penman” references on Page 65
+  - **Type:** name/other
+  - **Pages:** Pages/cains_jawbone_page_65.md
+  - **Why it matters:** Might identify a profession/circle and tie into the paperwork/forgery thread.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Clarify what “pigeon-holing by type” implies on Page 65 (typewriter fonts? librarian systems? police records?)
+  - **Type:** other
+  - **Pages:** Pages/cains_jawbone_page_65.md
+  - **Why it matters:** Could be a concrete profession tell and a scene-setting constraint.
+  - **Status:** `open`
+  - **Result:**

@@ -348,3 +348,31 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_50.md
   - **Confidence:** `MAYBE`
   - **Research needed:** yes — identify source.
+
+- **Snippet:** “Le couchant dardait ses rayons suprêmes…”
+  - **Likely source/author:** TBD (French poem)
+  - **Why it matters:** Distinctive bilingual quote + water-lily imagery; may cluster narrator voice or anchor a known text.
+  - **Pages:** Pages/cains_jawbone_page_61.md
+  - **Confidence:** `MAYBE`
+  - **Research needed:** yes — identify exact source.
+
+- **Snippet:** “the human heart was deceitful and desperately wicked”
+  - **Likely source/author:** Jeremiah 17:9 (Bible)
+  - **Why it matters:** Strong voice/ethics tell; may cluster narrators who quote scripture.
+  - **Pages:** Pages/cains_jawbone_page_62.md
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
+
+- **Snippet:** “Ô toison, moutonnant jusque sur l’encolure! … Ô parfum chargé de nonchaloir!”
+  - **Likely source/author:** Charles Baudelaire, “La Chevelure” (*Les Fleurs du mal*)
+  - **Why it matters:** High-confidence quote anchor; French-literary narrator tell; could link other Baudelaire quotations.
+  - **Pages:** Pages/cains_jawbone_page_63.md
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
+
+- **Snippet:** “All women become like their mothers. That is their tragedy. No man does. That’s his.”
+  - **Likely source/author:** Oscar Wilde, *The Importance of Being Earnest*
+  - **Why it matters:** Strong voice tell and reusable quotation anchor.
+  - **Pages:** Pages/cains_jawbone_page_65.md
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no

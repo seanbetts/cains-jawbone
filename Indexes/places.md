@@ -299,3 +299,27 @@ Template:
   - **Confidence:** `MAYBE`
   - **Pages:** Pages/cains_jawbone_page_57.md
   - **Notes:** Referred to as a “boat” to South Africa but also as an “old” place known by narrator’s people; likely castle vs ship ambiguity.
+
+- **Colney Hatch**
+  - **Type:** institution/asylum
+  - **Confidence:** `CERTAIN`
+  - **Pages:** Pages/cains_jawbone_page_61.md
+  - **Notes:** Referenced as a birthplace; likely also used as shorthand/slang for asylum confinement.
+
+- **Broadmoor**
+  - **Type:** institution/asylum
+  - **Confidence:** `CERTAIN`
+  - **Pages:** Pages/cains_jawbone_page_61.md
+  - **Notes:** Feared “goal of… pilgrimage”; name analysed via Dartmoor/broad-arrow wordplay.
+
+- **Dartmoor**
+  - **Type:** moor/prison (allusive)
+  - **Confidence:** `CERTAIN`
+  - **Pages:** Pages/cains_jawbone_page_61.md
+  - **Notes:** Used in the Broadmoor portmanteau explanation.
+
+- **Trafalgar Square**
+  - **Type:** landmark/square
+  - **Confidence:** `CERTAIN`
+  - **Pages:** Pages/cains_jawbone_page_62.md
+  - **Notes:** Guy Fawkes night anecdote; major-general statue referenced.

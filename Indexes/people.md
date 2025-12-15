@@ -15,7 +15,7 @@ Template:
 - `P01` — Names/aliases: Henry
   - **Tells:** LIKELY actor (played Lesurques); LIKELY serial “intended” (has an “intended fifth”); associated with (possibly toxic) “Emperor’s Peg” at a ruined lighthouse; has a “great voice” linked to a “capstan bar”; appears as a subordinate who stoops/cleans and handles bodies; object of romance (“ready to love”); described as having multiple “killings” and a “latest victim” with blood present; later pursued by police (“flying squad”); linked to burying a corpse with “only the eyes” showing; also appears as a husband/guide in social scenes; linked to a half-burned marriage certificate; seen bending over a corpse of his own making; framed as “doomed to destroy… for family reasons”; explicit “third” (family lawyer) and “fourth” (chardlady) victims; described as an investigator (“peerless investigator”).
   - **Pronouns/relationships:** described as “the angel”; sometimes an absent advisor; sometimes an assistant obeying signals.
-  - **Pages:** Pages/cains_jawbone_page_2.md, Pages/cains_jawbone_page_4.md, Pages/cains_jawbone_page_5.md, Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_16.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_26.md, Pages/cains_jawbone_page_31.md, Pages/cains_jawbone_page_32.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_41.md, Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_44.md, Pages/cains_jawbone_page_45.md, Pages/cains_jawbone_page_47.md, Pages/cains_jawbone_page_49.md, Pages/cains_jawbone_page_58.md, Pages/cains_jawbone_page_60.md
+  - **Pages:** Pages/cains_jawbone_page_2.md, Pages/cains_jawbone_page_4.md, Pages/cains_jawbone_page_5.md, Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_16.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_26.md, Pages/cains_jawbone_page_31.md, Pages/cains_jawbone_page_32.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_41.md, Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_44.md, Pages/cains_jawbone_page_45.md, Pages/cains_jawbone_page_47.md, Pages/cains_jawbone_page_49.md, Pages/cains_jawbone_page_58.md, Pages/cains_jawbone_page_60.md, Pages/cains_jawbone_page_63.md
   - **Notes:** MAYBE multiple different “Henrys” across the book; do not merge/split without stronger anchors (surname, role, setting continuity).
 
 - `P02` — Names/aliases: Casy Ferris
@@ -335,3 +335,39 @@ Template:
   - **Pronouns/relationships:** subordinate/assistant to narrator; not necessarily the same as other Charl(es/ies).
   - **Pages:** Pages/cains_jawbone_page_60.md
   - **Notes:** Distinguish from `P10` Charles Day and `P44` Charles Goodfellow unless anchored.
+
+- `P55` — Names/aliases: Babbie
+  - **Tells:** tiger-coloured hair described with a Baudelaire quotation; present in a sweets/dessert scene with “Rainbow” and Lent talk; shows interest in “Henry”.
+  - **Pronouns/relationships:** beloved/guest of narrator (unclear identity).
+  - **Pages:** Pages/cains_jawbone_page_63.md
+  - **Notes:** MAYBE the same as `P49` Babs (diminutive overlap); do not merge without stronger anchors.
+
+- `P56` — Names/aliases: Darius Brockley
+  - **Tells:** referenced as Jim’s uncle; part of narrator’s suspicion about a vicar’s niece’s “flimsy excuse”.
+  - **Pronouns/relationships:** uncle of Jim.
+  - **Pages:** Pages/cains_jawbone_page_62.md
+  - **Notes:** Confirm whether in-world or a literary reference.
+
+- `P57` — Names/aliases: Jim (uncertain)
+  - **Tells:** referenced via “Jim’s uncle”.
+  - **Pronouns/relationships:** nephew of Darius Brockley.
+  - **Pages:** Pages/cains_jawbone_page_62.md
+  - **Notes:** Many possible “Jim” references across the text; do not merge with “Jim the Penman” without anchors.
+
+- `P58` — Names/aliases: vicar’s niece (unnamed)
+  - **Tells:** returned with a “flimsy excuse” (context suggests concealment).
+  - **Pronouns/relationships:** niece of a vicar.
+  - **Pages:** Pages/cains_jawbone_page_62.md
+  - **Notes:** Track for later naming or repeat mentions.
+
+- `P59` — Names/aliases: “dead man” (unnamed)
+  - **Tells:** told narrator a story about a Trafalgar Square major-general on Guy Fawkes night; was taken away about an hour later; is referred to as dead by the narrator.
+  - **Pronouns/relationships:** acquaintance of narrator (unclear).
+  - **Pages:** Pages/cains_jawbone_page_62.md
+  - **Notes:** IN-WORLD death signal but cause/agency unclear; candidate victim only provisionally.
+
+- `P60` — Names/aliases: Ruth
+  - **Tells:** positioned as a rival for “gleaning” (harvest metaphor); associated with a mother-comparison quip (Wilde quote context).
+  - **Pronouns/relationships:** none known.
+  - **Pages:** Pages/cains_jawbone_page_65.md
+  - **Notes:** Might be in-world rival or a name chosen for biblical wordplay; hold lightly.

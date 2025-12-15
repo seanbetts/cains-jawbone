@@ -37,9 +37,14 @@ Template:
   - **Notes:** Track as drink/poison tell; research period recipe.
 
 - **Cocktails / mixed drinks**
-  - **Instances / variants:** “cocktail after cocktail”; “Lover’s Delight” (also as a sundae); “the Dawn”; “over the cocktails”; absinthe; brandy
-  - **Pages:** Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_43.md, Pages/cains_jawbone_page_45.md, Pages/cains_jawbone_page_48.md, Pages/cains_jawbone_page_60.md
-  - **Notes:** Bar/club continuity candidate; overlaps with cigarette and seduction motifs.
+  - **Instances / variants:** “cocktail after cocktail”; “Lover’s Delight” (also as a sundae); Banana Split; “Rainbow” (drink/dessert?); “the Dawn”; “over the cocktails”; absinthe; brandy
+  - **Pages:** Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_43.md, Pages/cains_jawbone_page_45.md, Pages/cains_jawbone_page_48.md, Pages/cains_jawbone_page_60.md, Pages/cains_jawbone_page_63.md
+  - **Notes:** Bar/club or sweets-menu continuity candidate; overlaps with cigarette and seduction motifs.
+
+- **Cats**
+  - **Instances / variants:** Jasmine (named cat); unnamed sleek cat curled “dime shape”
+  - **Pages:** Pages/cains_jawbone_page_22.md, Pages/cains_jawbone_page_62.md
+  - **Notes:** Household/companionship cue; track if the same domestic setting recurs.
 
 - **Westphalian ham**
   - **Instances / variants:** coffee + Westphalian ham sandwiches; “over the Westphalian ham…”
