@@ -82,3 +82,66 @@ Template:
   - **Why it matters:** Possible monogram/signage/initials clue for identifying a person/place.
   - **Status:** `open`
   - **Result:**
+
+- **Item:** Identify the Troilus & Cressida “winter… lips of Cressida” quotation used on Page 6
+  - **Type:** quote
+  - **Pages:** Pages/cains_jawbone_page_6.md
+  - **Why it matters:** Precise-source anchor and possible encoding of a speaker/scene.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** What is “Electric Febrifuge” and what “active ingredient” is implied?
+  - **Type:** term/other
+  - **Pages:** Pages/cains_jawbone_page_6.md
+  - **Why it matters:** Could identify a drug/poison thread or period product clue.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** What is meant by “a Jew’s lime” (and why it provides relief)?
+  - **Type:** term
+  - **Pages:** Pages/cains_jawbone_page_7.md
+  - **Why it matters:** Odour/remedy motif; could be a specific product or slang.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Is “Charles Victor Hugo Renard-Beinsky” a traceable person/pseudonym or an allusive composite?
+  - **Type:** name/other
+  - **Pages:** Pages/cains_jawbone_page_7.md
+  - **Why it matters:** Might identify narrator/character via initials or literary references.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Confirm what “Guido… on the sausage place” refers to (likely Guido Reni + Bologna) and the intended date
+  - **Type:** date/other
+  - **Pages:** Pages/cains_jawbone_page_8.md
+  - **Why it matters:** Potential explicit calendar anchor for ordering.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Confirm Kilmarnock + Balmerino reference and the intended date (“lost their heads”)
+  - **Type:** date
+  - **Pages:** Pages/cains_jawbone_page_8.md
+  - **Why it matters:** Potential calendar anchor that may pair with “Guido” on the same “to-day”.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify the “black knobby thing” (black/red) and the action sequence on Page 8; who is Mr. Hall?
+  - **Type:** other
+  - **Pages:** Pages/cains_jawbone_page_8.md
+  - **Why it matters:** Mechanical/medical clue that could identify setting/profession and connect scenes.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify which dates “Hyacinth’s day” and “Jasmine’s day” refer to
+  - **Type:** date
+  - **Pages:** Pages/cains_jawbone_page_10.md
+  - **Why it matters:** Explicit calendar offsets (“went back two days”) could support ordering.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify “Gourdoulis” (Egyptian cigarettes) and “Etam dawn mist, ten inches” (product + measure)
+  - **Type:** term/other
+  - **Pages:** Pages/cains_jawbone_page_10.md
+  - **Why it matters:** Brand/product clues may place time, class, or provide cross-page continuity.
+  - **Status:** `open`
+  - **Result:**

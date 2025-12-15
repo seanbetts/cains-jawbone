@@ -40,3 +40,23 @@ Template:
   - **Instances / variants:** used as comic refrain
   - **Pages:** Pages/cains_jawbone_page_5.md
   - **Notes:** Possible voice tell (brand-name riffing).
+
+- **Bells / bell-wire**
+  - **Instances / variants:** dangling bell-wire (nightmares); bell “as of a boding gnat” used to summon help
+  - **Pages:** Pages/cains_jawbone_page_6.md, Pages/cains_jawbone_page_9.md
+  - **Notes:** Potential continuity/voice cluster (household service + anxiety).
+
+- **Gardening poisons (foxgloves/digitalis)**
+  - **Instances / variants:** “started… on the foxgloves”
+  - **Pages:** Pages/cains_jawbone_page_6.md
+  - **Notes:** Candidate poison method; watch for illness/heart symptoms elsewhere.
+
+- **Cigarettes (Egyptian)**
+  - **Instances / variants:** bet stake: “a hundred Egyptian cigarettes—Gourdoulis”
+  - **Pages:** Pages/cains_jawbone_page_10.md
+  - **Notes:** Product/brand clue; may recur with other tobacco references.
+
+- **Optics / “powerful glass”**
+  - **Instances / variants:** “powerful glass” + measurement obsession
+  - **Pages:** Pages/cains_jawbone_page_8.md
+  - **Notes:** Possible profession clue (photography/science) or scene-specific prop.

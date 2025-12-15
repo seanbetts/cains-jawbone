@@ -54,3 +54,24 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_5.md
   - **Confidence:** `CERTAIN`
   - **Research needed:** no
+
+- **Snippet:** “life’s fitful fever”
+  - **Likely source/author:** Shakespeare, Macbeth
+  - **Why it matters:** Voice/literary tell; may cluster narrator with other Shakespeare-heavy pages.
+  - **Pages:** Pages/cains_jawbone_page_6.md
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
+
+- **Snippet:** “winter … from the lips of Cressida”
+  - **Likely source/author:** TBD (Shakespeare, Troilus and Cressida likely)
+  - **Why it matters:** Potential precise-source anchor; also signals smoking/cigar metaphor (“set fire to one end”).
+  - **Pages:** Pages/cains_jawbone_page_6.md
+  - **Confidence:** `MAYBE`
+  - **Research needed:** yes — confirm exact quotation and speaker.
+
+- **Snippet:** “Let us work while it is yet Day; for the Knight cometh when no man can work.”
+  - **Likely source/author:** John 9:4 (biblical) with Day/Night→Day/Knight pun
+  - **Why it matters:** Strong voice tell (academic blackboard joke); possible link to other Day/Knight puns.
+  - **Pages:** Pages/cains_jawbone_page_9.md
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no

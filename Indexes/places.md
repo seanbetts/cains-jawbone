@@ -41,3 +41,27 @@ Template:
   - **Confidence:** `MAYBE`
   - **Pages:** Pages/cains_jawbone_page_4.md
   - **Notes:** Flower-seller “behind the church”; near puddles/sea reference.
+
+- **Baker Street**
+  - **Type:** street/address
+  - **Confidence:** `CERTAIN`
+  - **Pages:** Pages/cains_jawbone_page_7.md
+  - **Notes:** Invoked as a detective anchor (“investigator… had not stirred from Baker Steet”).
+
+- **Firth of Forth**
+  - **Type:** estuary/region
+  - **Confidence:** `CERTAIN`
+  - **Pages:** Pages/cains_jawbone_page_7.md
+  - **Notes:** Cold morning wading imagery; Scotland anchor.
+
+- **Peebles University**
+  - **Type:** university (uncertain)
+  - **Confidence:** `MAYBE`
+  - **Pages:** Pages/cains_jawbone_page_9.md
+  - **Notes:** Mineralogy lectures; may be fictional/joke (Peebles is a Scottish town).
+
+- **Bologna (“sausage place”, uncertain)**
+  - **Type:** city
+  - **Confidence:** `MAYBE`
+  - **Pages:** Pages/cains_jawbone_page_8.md
+  - **Notes:** “Guido… on the sausage place” suggests a Bologna pun (needs confirmation).
