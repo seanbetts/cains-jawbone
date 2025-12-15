@@ -22,6 +22,7 @@ This folder is a **literary puzzle workspace**, not a software project. The goal
 - Extract clues from a page into `## Notes` (per `Skills/cjb-page-extraction/SKILL.md`).
 - Update relevant `Indexes/*` entries (per `Skills/cjb-index-maintenance/SKILL.md`).
 - If proposing a linkage/sequence, record it (plus falsifier) in `Order/hypotheses.md` (per `Skills/cjb-order-hypotheses/SKILL.md`).
+- When a page likely involves in-world harm/death, use the murder-analysis skills (below) and keep `Order/cast.md` + `Order/confidence.md` updated.
 - **Default sequencing:** complete a full page-extraction pass (all 100 pages) before doing any external research; capture research needs as `open` items in `Indexes/research_queue.md`.
 
 ## Skills (authoritative procedures live here)
@@ -31,6 +32,9 @@ Keep all detailed procedures, templates, and rules in the Skill files to avoid d
 - **Page extraction:** `Skills/cjb-page-extraction/SKILL.md` — use when reviewing a page and updating `## Notes` + indices.
 - **Index maintenance:** `Skills/cjb-index-maintenance/SKILL.md` — use when curating `Indexes/*` consistency and cross-links.
 - **Order hypotheses:** `Skills/cjb-order-hypotheses/SKILL.md` — use when clustering pages and proposing sequences (with falsifiers).
+- **Murder analysis:** `Skills/cjb-murder-analysis/SKILL.md` — use when pages imply in-world death/violence; updates cast + murder-confidence ledgers.
+- **Means & methods:** `Skills/cjb-means-and-methods/SKILL.md` — use to catalogue substances/methods conservatively without committing to murder.
+- **Motive & relationships:** `Skills/cjb-motive-and-relationships/SKILL.md` — use to extract relationship/power dynamics that support motive hypotheses.
 - **Quote research:** `Skills/cjb-quote-research/SKILL.md` — use when capturing/identifying allusions and managing the research queue.
 - **Verification:** `Skills/cjb-verification/SKILL.md` — use when running integrity checks and interpreting failures.
 - **Time logging:** `Skills/cjb-time-logging/SKILL.md` — use at the start and end of every working session to keep `Worklog/worklog.csv` accurate.
@@ -48,6 +52,16 @@ Maintain these central files to turn page-by-page extraction into a searchable �
 - `Indexes/objects_motifs.md` (recurring items/injuries/food/drink/animals/weather, pages)
 - `Indexes/research_queue.md` (rolling queue of lookups to do; link items back to pages)
 - `Order/hypotheses.md` (candidate sequences/clusters with reasons, confidence, falsifiers)
+- `Order/cast.md` (people tracked as murderer/victim/witness/unknown candidates)
+- `Order/confidence.md` (in-world death/murder event hypotheses with confidence + falsifiers)
+
+## Murder analysis skills
+
+Use murder-analysis skills conservatively:
+
+- Do not assume murder unless textual evidence supports it.
+- Prefer means/motive extraction before accusation (use `cjb-means-and-methods` and `cjb-motive-and-relationships`).
+- All conclusions must include confidence and falsifiers, and stay reversible (`active`/`downgraded`/`rejected`).
 
 ## Notes quick reference (non-authoritative)
 

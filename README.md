@@ -9,7 +9,7 @@ This is not a software project; the “code” here exists only to protect text 
 - `Pages/` — `cains_jawbone_page_1.md` … `cains_jawbone_page_100.md` (page text + `## Notes`)
 - `Archive/` — immutable source text + hash (`Cain's Jawbone Unformatted.txt`, `hash.txt`)
 - `Indexes/` — global indices (`people.md`, `places.md`, `quotes.md`, `objects_motifs.md`, `research_queue.md`)
-- `Order/` — ordering hypotheses and clusters (`hypotheses.md`)
+- `Order/` — ordering hypotheses and clusters (`hypotheses.md`), plus cast + murder-confidence ledgers (`cast.md`, `confidence.md`)
 - `Skills/` — modular workflows (authoritative procedures in each `SKILL.md`)
 - `verify_pages.py` — integrity verifier (archive hash + page-body immutability)
 - `Worklog/worklog.csv` — mandatory session log (see `Skills/cjb-time-logging/SKILL.md`)
@@ -43,6 +43,9 @@ The authoritative procedures/templates live in these files:
 - `Skills/cjb-page-extraction/SKILL.md`
 - `Skills/cjb-index-maintenance/SKILL.md`
 - `Skills/cjb-order-hypotheses/SKILL.md`
+- `Skills/cjb-murder-analysis/SKILL.md`
+- `Skills/cjb-means-and-methods/SKILL.md`
+- `Skills/cjb-motive-and-relationships/SKILL.md`
 - `Skills/cjb-quote-research/SKILL.md`
 - `Skills/cjb-verification/SKILL.md`
 - `Skills/cjb-time-logging/SKILL.md`

@@ -34,6 +34,7 @@ During the first full extraction pass, do not pause to resolve external research
    - **Quotes & allusions:** minimal snippet + suspected source + why it’s an anchor.
    - **Wordplay:** spoonerisms, cryptic indicators, homophones, hidden names.
    - **Motifs/continuity hooks:** objects, injuries, pills/poisons, animals, weather, letters.
+   - **Harm/death cues (optional):** if the page likely implies in-world violence/death, run `Skills/cjb-means-and-methods/SKILL.md` and/or `Skills/cjb-murder-analysis/SKILL.md` and keep `Order/cast.md` + `Order/confidence.md` updated.
    - **Voice/tells:** diction, punctuation habits, obsessions, professional knowledge.
    - **Ordering hypotheses:** candidate links to other pages with reasons + confidence.
    - **Disconfirming evidence:** what would falsify each linkage/cluster claim.
