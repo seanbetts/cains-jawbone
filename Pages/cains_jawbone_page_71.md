@@ -2,3 +2,29 @@ But next day that religious fellow’s head drapery, if I might thus unscientifi
 
 ## Notes
 
+- **Entities:**
+  - CERTAIN: Henry (behaves physically; “displayed himself all over me”; hit narrator in the eye).
+  - MAYBE: May (person or “May” as a flower/month motif; narrator fears “letting May down”).
+  - CERTAIN: Elsie (recalled; “difficulty” with a young coastguard).
+  - CERTAIN: young coastguard (unnamed; claimed descent from Herebald the Drake).
+  - MAYBE: “religious fellow” (unnamed; has “head drapery” that is failing).
+- **Time markers:**
+  - CERTAIN: “next day”.
+  - CERTAIN: deadline “till midnight”.
+  - CERTAIN: “before our tea” (meal-time anchor).
+- **Quotes & allusions:**
+  - MAYBE: “express my duty in his eye” (quotation; source TBD).
+  - MAYBE: Spartan mother / Lucius Junius Brutus (stoic virtue allusions; tone-setting).
+- **Motifs/continuity hooks:**
+  - Flowers/seasonal scent: “old odour of red May” (links to later “blight on the May” language).
+  - Food: anchovy toast + “various hot dishes”.
+  - Eyes/vision: struck “full in the eye”.
+- **Voice/tells:**
+  - Determined, moralising self-casting (“no intention of letting up”); classical-name register.
+- **Ordering hypotheses:**
+  - LIKELY: clusters with Pages/cains_jawbone_page_75.md (May/blight + plant language) and Pages/cains_jawbone_page_74.md (eyes failing) via eyesight/flower motifs.
+- **Disconfirming evidence:**
+  - If “May” is clearly only the calendar month and has no continuity with later “May” references.
+- **Research needed:**
+  - Identify the source of “express my duty in his eye”.
+  - Identify “Herebald the Drake” and whether it’s genealogical wordplay or a specific reference.

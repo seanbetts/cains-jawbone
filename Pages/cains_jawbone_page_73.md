@@ -2,3 +2,26 @@ All the artist in me flared up. After all, my given name was world-famous as the
 
 ## Notes
 
+- **Entities:**
+  - CERTAIN: narrator claims a “given name” shared with a famous painter’s inherited name (identity clue; painter/source TBD).
+- **Places:**
+  - MAYBE: described “quiet country town” (river + Tudor ruin + deer park + heather commons + immense woods; identity TBD).
+  - CERTAIN: Runymede (allusion).
+  - CERTAIN: Marseille (old Port; “place of my initiation” behind it).
+- **Quotes & allusions:**
+  - MAYBE: “O tristesse, tristesse était mon âme” (French quotation; source TBD).
+  - CERTAIN: E. V. Lucas / “lucus a non lucendo” punning reference.
+- **Motifs/continuity hooks:**
+  - Oratory/voice: “orator’s joys… roll the thunder… a cause d’une femme”.
+  - Appetite vs performance: sandwich enjoyed but “bad for the stuff”.
+  - Initiation in “secret rooms” behind a port (continues into next page).
+- **Voice/tells:**
+  - Performative and educated; toggles between art-identity, rhetoric, and sensual memory.
+- **Ordering hypotheses:**
+  - CERTAIN: continues directly into Pages/cains_jawbone_page_74.md (“hung round with photographs…”), implying adjacency `73 → 74`.
+- **Disconfirming evidence:**
+  - Only if later evidence shows an editorial/transcription artifact (unlikely).
+- **Research needed:**
+  - Identify the painter whose surname matches the narrator’s given name (and why “The Mumpers” matters).
+  - Identify the “quiet country town” described here.
+  - Identify the “O tristesse…” quotation source.

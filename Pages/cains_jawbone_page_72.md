@@ -2,3 +2,22 @@ Of course I was sorry to say good-bye to old Medehamstede ; but it was pleasant 
 
 ## Notes
 
+- **Entities:**
+  - CERTAIN: Pasquier (associated with claret; narrator knows him from Paris).
+- **Places:**
+  - CERTAIN: Paris; Rue de la Harpe.
+  - MAYBE: “old Medehamstede” (place-name; likely historical/monastic; confirm intended referent).
+- **Motifs/continuity hooks:**
+  - Drink: claret as remedy for pallor.
+  - Reading/writing: narrator skims endings of short stories; prefers embrace first, plot after.
+  - Title anchor: “Savage Conqueror” (novel length; potentially a clue text).
+- **Voice/tells:**
+  - Meta-fictional, cynical about romance conventions; self-identifies life as “short stories”.
+- **Ordering hypotheses:**
+  - MAYBE: links to other “papers/magazine/story” narrators; hold until more anchors.
+- **Disconfirming evidence:**
+  - If “Pasquier” is a brand/product rather than an in-world acquaintance.
+- **Research needed:**
+  - Identify what/where “Medehamstede” points to in this context.
+  - Identify “Savage Conqueror” (author/date) and whether it’s being used as an ordering/cipher key.
+  - Identify Pasquier (wine-merchant/brand) if traceable.

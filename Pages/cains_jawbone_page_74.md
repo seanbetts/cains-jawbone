@@ -2,3 +2,30 @@ photographs of young and laughing athletes, lads who had profited and gone on, a
 
 ## Notes
 
+- **Entities:**
+  - CERTAIN: “the Head” (quoted voice from narrator’s past; likely the same “Head” figure seen elsewhere; confirm).
+  - CERTAIN: “that husky… voice” / “her” (unnamed woman).
+  - CERTAIN: “the old man” (unnamed; claims secret purchases in Leningrad; gives “wise old reply”).
+  - CERTAIN: “little humpbacked fellow” (unnamed seller; “double-faced Quasimodo of the Ogpu”).
+- **Places:**
+  - CERTAIN: Leningrad (source of the secret purchases).
+  - CERTAIN: Manchester (referenced via “speech on sane mediocrity”).
+- **Quotes & allusions:**
+  - MAYBE: “one by one the touch of life has turned to truth” (quoted as from “the Head”; source TBD).
+  - CERTAIN: OGPU (Soviet secret police; period anchor).
+  - CERTAIN: Goya reproduction (identity unclear; narrator can’t visually resolve it).
+- **Motifs/continuity hooks:**
+  - Secrecy/blackmail risk: “Will anyone know about them?” / “no danger… bought them secretly”.
+  - Eyes/vision failure: can’t tell “A hanging man? A countess?”
+  - Red rose + white remaining (echoes earlier colour/flower triads).
+- **Voice/tells:**
+  - Sensual + political; charged metaphors (“tense half-crowns… on marble”).
+- **Ordering hypotheses:**
+  - CERTAIN: follows Pages/cains_jawbone_page_73.md (direct continuation).
+  - MAYBE: links to Pages/cains_jawbone_page_75.md (documents/eyes + plant context) and to the “Head”/school-colours cluster (Pages/cains_jawbone_page_66.md–Pages/cains_jawbone_page_68.md).
+- **Disconfirming evidence:**
+  - If “Head” here is a different figure than the earlier headmaster, or if the “them” are not documents/objects that recur.
+- **Research needed:**
+  - Identify the source of “one by one the touch of life has turned to truth”.
+  - Identify which Goya works are being confused (“hanging man” vs “countess”).
+  - Clarify what “them” refers to (documents? art? photographs?) and whether it ties to later pages.

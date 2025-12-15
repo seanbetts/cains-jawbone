@@ -2,3 +2,23 @@ I saw to it that I should be for a moment alone among the marigolds. Thinking ki
 
 ## Notes
 
+- **Entities:**
+  - CERTAIN: “the girl” (unnamed; narrator believes flowers will “win” her).
+  - MAYBE: May (person vs hawthorn/“May” plant; referenced as the site of “blight”).
+- **Quotes & allusions:**
+  - CERTAIN: John Gerard (*Herball*) on calendula/marigold flowering “in the calends of almost everie month” (quoted/paraphrased).
+  - MAYBE: “ephphatha” vs “epea pteroenta” (philological joke; Mark 7:34 vs Homeric “winged words”).
+- **Motifs/continuity hooks:**
+  - Flowers: marigolds / calendula; plus “two other flowers” (implied red/white from adjacent pages).
+  - Documents: “orange tinted documents” (possibly linked to the secret purchases mentioned on Pages/cains_jawbone_page_74.md).
+  - Eyes/vision: cannot read documents; “searchlights of my eyes” fail.
+  - Tobacco/plant remedies: “Indian tobacco” (likely lobelia) doing “excellent work” after ~24 hours; blight being destroyed.
+- **Voice/tells:**
+  - Botanically literate; mixes classical/philological flexing with practical horticulture and courtship strategy.
+- **Ordering hypotheses:**
+  - MAYBE: pairs with Pages/cains_jawbone_page_74.md (eyes + secret “them” + flowers/documents) within a single narrator segment.
+- **Disconfirming evidence:**
+  - If the “documents” are unrelated to Page 74’s “them”, and the blight is purely metaphorical.
+- **Research needed:**
+  - Confirm what “Indian tobacco” refers to here (lobelia vs another product) and whether it’s used as a pesticide/cure.
+  - Clarify whether “May” is a person or the hawthorn/May-blossom plant.
