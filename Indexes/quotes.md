@@ -481,3 +481,31 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_81.md
   - **Confidence:** `MAYBE`
   - **Research needed:** yes — identify source/context.
+
+- **Snippet:** “What is removed drops horribly in a pail.”
+  - **Likely source/author:** TBD
+  - **Why it matters:** Quoted as something a “tool” said; may identify a weapon/implement or anchor a specific source text.
+  - **Pages:** Pages/cains_jawbone_page_86.md
+  - **Confidence:** `MAYBE`
+  - **Research needed:** yes — identify source/context.
+
+- **Snippet:** “But we have all bent low and low and kissed the quiet feet / Of the old bold mate of Henry Morgan.”
+  - **Likely source/author:** TBD (poem)
+  - **Why it matters:** Split across Pages 86–87; provides a strong ordering anchor and may identify the narrator’s reading set.
+  - **Pages:** Pages/cains_jawbone_page_86.md, Pages/cains_jawbone_page_87.md
+  - **Confidence:** `MAYBE`
+  - **Research needed:** yes — identify source/context.
+
+- **Snippet:** “Circumstances alter cases.”
+  - **Likely source/author:** legal maxim / proverb (common law)
+  - **Why it matters:** Legalistic phrasing that may connect to the will/forgery thread or a lawyerly narrator register.
+  - **Pages:** Pages/cains_jawbone_page_89.md
+  - **Confidence:** `LIKELY`
+  - **Research needed:** no
+
+- **Snippet:** “You will, Oscar, you will.”
+  - **Likely source/author:** Whistler/Wilde anecdote (confirm wording/source)
+  - **Why it matters:** Distinctive cultural allusion; may cluster a narrator segment and possibly encode a date/scene-setting.
+  - **Pages:** Pages/cains_jawbone_page_90.md
+  - **Confidence:** `MAYBE`
+  - **Research needed:** yes — confirm wording/context.

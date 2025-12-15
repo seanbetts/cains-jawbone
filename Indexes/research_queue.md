@@ -1090,3 +1090,52 @@ Template:
   - **Why it matters:** Could be an explicit calendar anchor or an in-world legal event.
   - **Status:** `open`
   - **Result:**
+
+- **Item:** Identify the poem/source for “quiet feet… old bold mate of Henry Morgan” (Pages 86–87)
+  - **Type:** quote
+  - **Pages:** Pages/cains_jawbone_page_86.md, Pages/cains_jawbone_page_87.md
+  - **Why it matters:** The quotation is split across pages, giving a strong ordering anchor; the source may also identify a narrator’s reading set.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify “What is removed drops horribly in a pail” and the implied “tool” (Page 86)
+  - **Type:** quote/term
+  - **Pages:** Pages/cains_jawbone_page_86.md
+  - **Why it matters:** Presented as something a “tool” said; may identify a weapon/implement or a precise-source anchor.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Determine the calendar date for St. Wigbert’s day (Page 88)
+  - **Type:** date
+  - **Pages:** Pages/cains_jawbone_page_88.md
+  - **Why it matters:** Potential date anchor for ordering (similar to other saint-day “to-day” cues).
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify “good Tate” and the “new distemper” context (Page 88)
+  - **Type:** other
+  - **Pages:** Pages/cains_jawbone_page_88.md
+  - **Why it matters:** Could be a strong allusive anchor or clarify whether the scene is domestic (paint) vs something else.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Confirm the Whistler/Wilde “You will, Oscar, you will” quotation (Page 90)
+  - **Type:** quote
+  - **Pages:** Pages/cains_jawbone_page_90.md
+  - **Why it matters:** Distinct cultural allusion that may help cluster a narrator segment; confirm exact wording/source.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify the “thousand chariots… gold of course” allusion (Page 90)
+  - **Type:** other
+  - **Pages:** Pages/cains_jawbone_page_90.md
+  - **Why it matters:** Might encode a specific reference (religious/classical/occult) tied to the “hermit” old gentleman.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify what “panache… beneath my lips” refers to (Page 89)
+  - **Type:** term
+  - **Pages:** Pages/cains_jawbone_page_89.md
+  - **Why it matters:** Could be a concrete prop (pipe/feather/food) or a self-description clue (moustache), helpful for voice clustering.
+  - **Status:** `open`
+  - **Result:**

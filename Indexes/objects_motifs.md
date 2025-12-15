@@ -216,6 +216,26 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_81.md
   - **Notes:** Candidate murder-method marker; track for other water/depth language.
 
+- **Mithradates inoculation (poison tolerance)**
+  - **Instances / variants:** “Mithradates inoculation”
+  - **Pages:** Pages/cains_jawbone_page_86.md
+  - **Notes:** Suggests poison-immunity/tolerance logic; could connect to a poisoning-heavy narrator segment.
+
+- **Mice imagery (pressing/dancing)**
+  - **Instances / variants:** “great asses of mice… pressing down on my head”; “mice were dancing on my little slab”
+  - **Pages:** Pages/cains_jawbone_page_82.md, Pages/cains_jawbone_page_88.md
+  - **Notes:** Repeated mouse-pressure imagery may be a voice/mental-state tell across scenes.
+
+- **Distemper (paint) colours**
+  - **Instances / variants:** “new distemper”; Dark French Grey; Egg Shell Green
+  - **Pages:** Pages/cains_jawbone_page_88.md
+  - **Notes:** Could be literal decorating quarrel or a coded colour clue; track for recurrence.
+
+- **Deer-stalker**
+  - **Instances / variants:** “deer-stalker of pinkish tweed” deposited on parquet
+  - **Pages:** Pages/cains_jawbone_page_90.md
+  - **Notes:** Sherlock Holmes iconography; may connect to other detective-allusion pages.
+
 - **Eggs / omelette**
   - **Instances / variants:** gift of eggs; “couldn’t have an omelette without breaking eggs”
   - **Pages:** Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_38.md

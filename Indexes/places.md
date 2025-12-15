@@ -401,3 +401,21 @@ Template:
   - **Confidence:** `MAYBE`
   - **Pages:** Pages/cains_jawbone_page_83.md
   - **Notes:** Paired with Ghent via Browning’s “good news” allusion; likely not literal travel.
+
+- **Woodstock**
+  - **Type:** town/place
+  - **Confidence:** `CERTAIN`
+  - **Pages:** Pages/cains_jawbone_page_87.md
+  - **Notes:** Mentioned as where Henry was “at home in Woodstock”; could be a biographical anchor for a Henry segment.
+
+- **River Spey / Spey region**
+  - **Type:** river/region
+  - **Confidence:** `MAYBE`
+  - **Pages:** Pages/cains_jawbone_page_89.md
+  - **Notes:** Appears via “Spey Royal” (LIKELY whisky branding rather than literal travel).
+
+- **Little bay (unidentified)**
+  - **Type:** bay/shoreline
+  - **Confidence:** `MAYBE`
+  - **Pages:** Pages/cains_jawbone_page_87.md
+  - **Notes:** Described via a northwest gaze over water; no name given.

@@ -15,7 +15,7 @@ Template:
 - `P01` — Names/aliases: Henry
   - **Tells:** LIKELY actor (played Lesurques); LIKELY serial “intended” (has an “intended fifth”); associated with (possibly toxic) “Emperor’s Peg” at a ruined lighthouse; has a “great voice” linked to a “capstan bar”; appears as a subordinate who stoops/cleans and handles bodies; object of romance (“ready to love”); described as having multiple “killings” and a “latest victim” with blood present; later pursued by police (“flying squad”); linked to burying a corpse with “only the eyes” showing; also appears as a husband/guide in social scenes; linked to a half-burned marriage certificate; seen bending over a corpse of his own making; framed as “doomed to destroy… for family reasons”; explicit “third” (family lawyer) and “fourth” (chardlady) victims; described as an investigator (“peerless investigator”).
   - **Pronouns/relationships:** described as “the angel”; sometimes an absent advisor; sometimes an assistant obeying signals.
-  - **Pages:** Pages/cains_jawbone_page_2.md, Pages/cains_jawbone_page_4.md, Pages/cains_jawbone_page_5.md, Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_16.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_26.md, Pages/cains_jawbone_page_31.md, Pages/cains_jawbone_page_32.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_41.md, Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_44.md, Pages/cains_jawbone_page_45.md, Pages/cains_jawbone_page_47.md, Pages/cains_jawbone_page_49.md, Pages/cains_jawbone_page_58.md, Pages/cains_jawbone_page_60.md, Pages/cains_jawbone_page_63.md, Pages/cains_jawbone_page_68.md, Pages/cains_jawbone_page_71.md, Pages/cains_jawbone_page_76.md, Pages/cains_jawbone_page_77.md, Pages/cains_jawbone_page_78.md, Pages/cains_jawbone_page_80.md, Pages/cains_jawbone_page_82.md, Pages/cains_jawbone_page_83.md, Pages/cains_jawbone_page_85.md
+  - **Pages:** Pages/cains_jawbone_page_2.md, Pages/cains_jawbone_page_4.md, Pages/cains_jawbone_page_5.md, Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_16.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_26.md, Pages/cains_jawbone_page_31.md, Pages/cains_jawbone_page_32.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_41.md, Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_44.md, Pages/cains_jawbone_page_45.md, Pages/cains_jawbone_page_47.md, Pages/cains_jawbone_page_49.md, Pages/cains_jawbone_page_58.md, Pages/cains_jawbone_page_60.md, Pages/cains_jawbone_page_63.md, Pages/cains_jawbone_page_68.md, Pages/cains_jawbone_page_71.md, Pages/cains_jawbone_page_76.md, Pages/cains_jawbone_page_77.md, Pages/cains_jawbone_page_78.md, Pages/cains_jawbone_page_80.md, Pages/cains_jawbone_page_82.md, Pages/cains_jawbone_page_83.md, Pages/cains_jawbone_page_85.md, Pages/cains_jawbone_page_86.md, Pages/cains_jawbone_page_87.md
   - **Notes:** MAYBE multiple different “Henrys” across the book; do not merge/split without stronger anchors (surname, role, setting continuity).
 
 - `P02` — Names/aliases: Casy Ferris
@@ -363,8 +363,8 @@ Template:
 - `P59` — Names/aliases: “dead man” (unnamed)
   - **Tells:** told narrator a story about a Trafalgar Square major-general on Guy Fawkes night; was taken away about an hour later; is referred to as dead by the narrator.
   - **Pronouns/relationships:** acquaintance of narrator (unclear).
-  - **Pages:** Pages/cains_jawbone_page_62.md
-  - **Notes:** IN-WORLD death signal but cause/agency unclear; candidate victim only provisionally.
+  - **Pages:** Pages/cains_jawbone_page_62.md, Pages/cains_jawbone_page_87.md
+  - **Notes:** IN-WORLD death signal but cause/agency unclear; Page 87’s “dead man’s letter” MAYBE refers to the same dead man (do not treat as confirmed).
 
 - `P60` — Names/aliases: Ruth
   - **Tells:** positioned as a rival for “gleaning” (harvest metaphor); associated with a mother-comparison quip (Wilde quote context).
@@ -479,3 +479,33 @@ Template:
   - **Pronouns/relationships:** conversation partner of narrator.
   - **Pages:** Pages/cains_jawbone_page_84.md
   - **Notes:** Keep separate from other unnamed “she” figures unless anchored by setting/voice.
+
+- `P79` — Names/aliases: Caroline Jasmine
+  - **Tells:** “do[es] her very damnedest” for narrator’s guest.
+  - **Pronouns/relationships:** likely works for narrator as a helper/nurse/hostess.
+  - **Pages:** Pages/cains_jawbone_page_86.md
+  - **Notes:** Keep separate from `P29` (Caroline) unless later anchored as the same person.
+
+- `P80` — Names/aliases: Sanders
+  - **Tells:** “comes into view again” after a “lunar visit”; gazes NW over a little bay.
+  - **Pronouns/relationships:** present with narrator and narrator’s guest.
+  - **Pages:** Pages/cains_jawbone_page_87.md
+  - **Notes:** Phrase “again” implies prior appearance; search earlier pages for “Sanders”.
+
+- `P81` — Names/aliases: narrator’s guest (unnamed; “Byzantine beauty”)
+  - **Tells:** described as “Byzantine beauty… golden snake”; “a little pale about the Gills”; shows original of a “dead man’s letter”.
+  - **Pronouns/relationships:** guest/patient of the narrator; “she/her”.
+  - **Pages:** Pages/cains_jawbone_page_86.md, Pages/cains_jawbone_page_87.md
+  - **Notes:** Track whether she is linked to the “dead man” thread or to other “guest” scenes.
+
+- `P82` — Names/aliases: signature-man (unnamed “ancient”)
+  - **Tells:** answers “Intermittent but long” about his memory; “signatures were his business”.
+  - **Pronouns/relationships:** newly introduced to narrator; treated as a potential target (“death warrant”).
+  - **Pages:** Pages/cains_jawbone_page_89.md
+  - **Notes:** MAYBE the same figure as the deer-stalker-wearing old gentleman in Page 90; do not merge without clearer continuity.
+
+- `P83` — Names/aliases: grotesque old gentleman (unnamed; deer-stalker)
+  - **Tells:** bat-like arrival; deposits a pinkish tweed deer-stalker on parquet; “learned… distinguished” hermit type.
+  - **Pronouns/relationships:** sits between narrator and another; associated with a sorrowing dog.
+  - **Pages:** Pages/cains_jawbone_page_90.md
+  - **Notes:** MAYBE the same figure as `P82`; keep separate until anchored.
