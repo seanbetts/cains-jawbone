@@ -2,3 +2,31 @@ I had always been proud of my namesake, the Great Lexicographer, as we, not unna
 
 ## Notes
 
+- **Entities:**
+  - CERTAIN: “the Great Lexicographer” (namesake; likely Dr Samuel Johnson, but confirm).
+  - CERTAIN: “William the Schoolman” / “Doctor Invincibilis” / “Bill” (strongly suggests William of Ockham; “razor” = Ockham’s razor).
+  - MAYBE: Rysbrach (sculptor reference; “statues of the first Lord King” needs ID).
+  - CERTAIN: Dickens (allusive reference; “jealousy of chickens” / mistrust of sheep).
+- **Places:**
+  - CERTAIN: Colney Hatch (asylum reference).
+  - CERTAIN: Broadmoor (criminal lunatic asylum; framed as feared destination).
+  - CERTAIN: Dartmoor + “Broad arrows” (wordplay offered for “Broadmoor”).
+- **Time markers:**
+  - MAYBE: evening/sunset (French nénuphars lines).
+- **Quotes & allusions:**
+  - MAYBE: French stanza about sunset + water lilies (“nénuphars”) — source TBD.
+  - CERTAIN: Ockham’s razor embedded as a joke (“no mean psychologist; he had a razor”).
+- **Motifs/continuity hooks:**
+  - Institutions/confinement: “locked in” + asylum/prison anxieties.
+  - Animals: hen + sheep; linked to Dickens allusion.
+  - Water lilies / reed-bed imagery.
+- **Voice/tells:**
+  - Dense learned allusion + bilingual quotation; playful etymology/portmanteau.
+- **Ordering hypotheses:**
+  - LIKELY: same narrator cluster as Pages/cains_jawbone_page_64.md (shared “Great Lexicographer” anchor + learned diction).
+- **Disconfirming evidence:**
+  - If “Great Lexicographer” is shown to be someone other than Johnson, or the “razor” joke points to a different “William”.
+- **Research needed:**
+  - Identify French nénuphars stanza source.
+  - Identify “Rysbrach’s statues of the first Lord King” and implied location.
+  - Confirm which “Great Lexicographer” is intended (and why “born at Colney Hatch”).

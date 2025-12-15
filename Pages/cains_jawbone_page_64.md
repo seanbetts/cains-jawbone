@@ -2,3 +2,29 @@ Needless to say I didn’t know that that was the last day. Afterwards I found i
 
 ## Notes
 
+- **Entities:**
+  - CERTAIN: “the Great Lexicographer” (likely Dr Samuel Johnson; McLeod/Highlands tour resonance).
+  - CERTAIN: McLeod of that ilk (clan-chief reference; Highland allegiance/fealty cue).
+  - CERTAIN: “he” (unnamed; reads aloud; narrator’s loyalty target).
+  - MAYBE: “a man” being read about (described via hook/bait/Bellerophon metaphor; identity unclear).
+- **Time markers:**
+  - CERTAIN: “to-day” (the “man” has “put in his appearance to-day” — suggests calendar/Book-of-Days style framing).
+  - CERTAIN: retrospective “I didn’t know that that was the last day” (last day of what/who is unclear).
+- **Quotes & allusions:**
+  - CERTAIN: “letters of Bellerophon” (fatal message carried unknowingly; used as bait/hook analogy).
+  - MAYBE: “bone of my bone” (biblical phrasing; used for fealty).
+  - MAYBE: “tasted Lotus” (Odyssey lotus-eaters / forgetfulness / drug/drink metaphor; confirm intended meaning).
+- **Motifs/continuity hooks:**
+  - Loyalty/fealty; inheritance of allegiance (“my people had always owned allegiance…”).
+  - Angling/hook/bait metaphor for deceit/entrapment.
+  - Great Lexicographer thread links strongly with Pages/cains_jawbone_page_61.md.
+- **Voice/tells:**
+  - Reverential, clan/fealty language; heavy interleaving of learned allusion with personal devotion.
+- **Ordering hypotheses:**
+  - LIKELY: cluster with Pages/cains_jawbone_page_61.md (shared Great Lexicographer anchor + similar voice).
+- **Disconfirming evidence:**
+  - If McLeod/Lotus references point to a different lexicographer biography than Johnson’s.
+- **Research needed:**
+  - Identify what “two things about a man” are being read (source text and the “man”).
+  - Confirm Johnson/McLeod reference and what “Lotus” denotes here.
+  - Clarify what “last day” refers to (death? separation? last visit?).

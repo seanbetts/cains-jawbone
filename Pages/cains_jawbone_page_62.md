@@ -2,3 +2,29 @@ What should such a man need with such a companion, I asked myself. And then I th
 
 ## Notes
 
+- **Entities:**
+  - CERTAIN: Jim (unnamed; referenced via “Jim’s uncle”).
+  - CERTAIN: Darius Brockley (Jim’s uncle).
+  - CERTAIN: “the Vicar’s niece” (unnamed).
+  - CERTAIN: “the dead man” (unnamed; told narrator a story shortly before being “taken away”).
+  - MAYBE: Major-General statue at Trafalgar Square (likely Havelock/Napier; confirm).
+  - CERTAIN: sleek cat (on chair beside narrator).
+- **Time markers:**
+  - CERTAIN: Guy Fawkes night (Nov 5) at Trafalgar Square (anecdote anchor).
+  - CERTAIN: “just an hour before… they came to take him away” (tight relative timing).
+- **Quotes & allusions:**
+  - CERTAIN: “the human heart was deceitful and desperately wicked” (Jeremiah 17:9).
+- **Motifs/continuity hooks:**
+  - Money/coins: “gold” vs “silver”; “dime shape”.
+  - Deceit/mind vs heart; waiting “upon events”.
+  - Removal/custody implied (“take him away”) + subsequent death.
+- **Voice/tells:**
+  - Self-justifying tone (“warrior… without being a bounder”); suspicion/interpretation of others’ motives.
+- **Ordering hypotheses:**
+  - MAYBE: links to other “removed/arrested/locked in” threads (asylum/police); hold until more anchors.
+- **Disconfirming evidence:**
+  - If “dead man” is metaphorical or purely a quoted/storytold figure rather than an in-world death.
+- **Research needed:**
+  - Identify the “Major-General in Trafalgar Square” story and which statue it points to.
+  - Identify Darius Brockley / Vicar’s niece context (in-world vs allusion).
+  - Clarify what “dissociate the last of the gold from the silver” refers to (coin sorting? figurative?).

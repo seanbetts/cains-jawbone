@@ -2,3 +2,25 @@ I cannot help, even with this supreme distraction, thinking of my Babbie’s---d
 
 ## Notes
 
+- **Entities:**
+  - CERTAIN: Babbie (beloved; narrator fixates on her hair).
+  - MAYBE: Henry (present; has a “cap”; identity unclear vs other Henrys).
+  - CERTAIN: “my dear guest” / “she” (likely Babbie, but confirm).
+- **Time markers:**
+  - CERTAIN: “Lent is over” (post-Lent/Easter framing; could be a date anchor).
+- **Quotes & allusions:**
+  - CERTAIN: “Ô toison… Ô boucles…” (Baudelaire, “La Chevelure”, *Les Fleurs du mal*).
+- **Motifs/continuity hooks:**
+  - Desserts/drinks: “Rainbow”; “Sundae” rule during Lent.
+  - Hair fetishisation + French quotation.
+  - Writer/source obsession: narrator dislikes anonymous writers; insists on naming them.
+- **Voice/tells:**
+  - Infatuated, performatively learned; food-ordering amid literary rapture.
+- **Ordering hypotheses:**
+  - LIKELY: same sweets/“Sundae” cluster as Pages/cains_jawbone_page_60.md (and related bar/menu pages).
+  - MAYBE: Henry here is the same “Henry” as the sundae/investigator thread; do not merge without more anchors.
+- **Disconfirming evidence:**
+  - If “Henry” is clearly a toy/animal/other object here, rather than a person.
+- **Research needed:**
+  - Identify what a “Rainbow” is in this setting (drink/dessert/brand).
+  - Identify “little springs of a fairy’s sofa” source (if quoted).
