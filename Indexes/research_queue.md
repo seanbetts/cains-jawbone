@@ -31,8 +31,8 @@ Template:
   - **Type:** quote/date
   - **Pages:** Pages/cains_jawbone_page_2.md
   - **Why it matters:** Potential explicit calendar anchor.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** Quotes are from Daniel Defoe’s *A Journal of the Plague Year* (1722); “the writer… died to-day” likely points to Defoe’s death date (24 April 1731), making “to-day” ≈ April 24.
 
 - **Item:** Identify “O my mother was loath to have her go away…” / “red squaw never came…” quotation(s)
   - **Type:** quote
@@ -87,8 +87,8 @@ Template:
   - **Type:** quote
   - **Pages:** Pages/cains_jawbone_page_6.md
   - **Why it matters:** Precise-source anchor and possible encoding of a speaker/scene.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** Shakespeare, *Troilus and Cressida* 4.5 — Achilles: “I’ll take what winter from your lips, fair lady: / Achilles bids you welcome.”
 
 - **Item:** What is “Electric Febrifuge” and what “active ingredient” is implied?
   - **Type:** term/other
@@ -115,15 +115,15 @@ Template:
   - **Type:** date/other
   - **Pages:** Pages/cains_jawbone_page_8.md
   - **Why it matters:** Potential explicit calendar anchor for ordering.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** “Guido” is likely Guido Reni (Italian painter) and “sausage place” is a Bologna pun; Guido Reni died in Bologna on 18 August 1642 → “to-day” ≈ Aug 18.
 
 - **Item:** Confirm Kilmarnock + Balmerino reference and the intended date (“lost their heads”)
   - **Type:** date
   - **Pages:** Pages/cains_jawbone_page_8.md
   - **Why it matters:** Potential calendar anchor that may pair with “Guido” on the same “to-day”.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** William Boyd, 4th Earl of Kilmarnock, and Arthur Elphinstone, 6th Lord Balmerino, were executed by beheading on 18 August 1746 → corroborates “to-day” ≈ Aug 18.
 
 - **Item:** Identify the knob/mechanism and action sequence (Page 8 “black knobby thing”; Page 19 “polished knob”) and who Mr. Hall is
   - **Type:** other

@@ -21,18 +21,18 @@ Template:
   - **Research needed:** yes — identify source and whether it encodes a date/place.
 
 - **Snippet:** “Which swept an hundred thousand souls away; yet I alive.”
-  - **Likely source/author:** TBD (plague chronicle/prose; possibly Defoe or another plague writer)
-  - **Why it matters:** Page links “to-day” to the writer’s death → potential calendar anchor.
+  - **Likely source/author:** Daniel Defoe, *A Journal of the Plague Year* (1722)
+  - **Why it matters:** Page links “to-day” to the writer’s death → likely an April 24 anchor (Defoe’s death date).
   - **Pages:** Pages/cains_jawbone_page_2.md
-  - **Confidence:** `MAYBE`
-  - **Research needed:** yes — identify exact source and the referenced author’s death date.
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
 
 - **Snippet:** “carried into the great pit before it was quite filled up.”
-  - **Likely source/author:** TBD (plague chronicle; likely same as previous entry)
-  - **Why it matters:** Reinforces plague-source anchor on Page 2.
+  - **Likely source/author:** Daniel Defoe, *A Journal of the Plague Year* (1722)
+  - **Why it matters:** Reinforces the Defoe plague-source anchor and supports using “to-day” as a calendar hook.
   - **Pages:** Pages/cains_jawbone_page_2.md
-  - **Confidence:** `MAYBE`
-  - **Research needed:** yes — confirm it’s the same source as the “hundred thousand souls” line.
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
 
 - **Snippet:** “O my mother was loath to have her go away…”
   - **Likely source/author:** TBD (poem/ballad)
@@ -63,11 +63,11 @@ Template:
   - **Research needed:** no
 
 - **Snippet:** “winter … from the lips of Cressida”
-  - **Likely source/author:** TBD (Shakespeare, Troilus and Cressida likely)
-  - **Why it matters:** Potential precise-source anchor; also signals smoking/cigar metaphor (“set fire to one end”).
+  - **Likely source/author:** Shakespeare, *Troilus and Cressida* (Act 4, Scene 5) — Achilles: “I’ll take what winter from your lips, fair lady: / Achilles bids you welcome.”
+  - **Why it matters:** Confirms a precise Shakespeare anchor and reinforces the narrator’s smoking/“venerable” cigar/cigarette metaphor.
   - **Pages:** Pages/cains_jawbone_page_6.md
-  - **Confidence:** `MAYBE`
-  - **Research needed:** yes — confirm exact quotation and speaker.
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
 
 - **Snippet:** “Let us work while it is yet Day; for the Knight cometh when no man can work.”
   - **Likely source/author:** John 9:4 (biblical) with Day/Night→Day/Knight pun

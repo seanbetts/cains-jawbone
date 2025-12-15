@@ -60,11 +60,11 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_9.md
   - **Notes:** Mineralogy lectures; may be fictional/joke (Peebles is a Scottish town).
 
-- **Bologna (“sausage place”, uncertain)**
+- **Bologna (“sausage place”)**
   - **Type:** city
-  - **Confidence:** `MAYBE`
+  - **Confidence:** `CERTAIN`
   - **Pages:** Pages/cains_jawbone_page_8.md
-  - **Notes:** “Guido… on the sausage place” suggests a Bologna pun (needs confirmation).
+  - **Notes:** “Guido… on the sausage place” is a Bologna pun; the paired “to-day” likely points to 18 Aug (Guido Reni died in Bologna on 18 Aug 1642).
 
 - **Orchard (unidentified)**
   - **Type:** place (unknown)
