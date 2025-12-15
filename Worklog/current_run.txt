@@ -1,0 +1,5 @@
+branch=run/20251215-codex-extract-pages-1-5
+agent=codex-cli
+task=extract pages 1-5
+start=2025-12-15T15:15:59Z
+notes=initial extraction and index updates
