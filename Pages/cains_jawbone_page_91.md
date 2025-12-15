@@ -2,3 +2,28 @@ In my youth I had been worried that I bore the same name as Newbolt’s admiral 
 
 ## Notes
 
+- **Entities:**
+  - CERTAIN: narrator (“I”; name hinted via Newbolt/Shakespeare references).
+  - CERTAIN: Henry (named; appears to have “been playing about” with an exhibit).
+  - CERTAIN: “him” (unnamed listener/guest shown the narrator’s Black Museum).
+  - CERTAIN: “Cadaver Charlie” (macabre exhibit/figure).
+  - MAYBE: “Chicago sleuth” (unnamed detective in the Cadaver Charlie anecdote).
+  - MAYBE: Newbolt’s admiral + Shakespeare’s sergeant (allusions used to point to narrator’s name).
+  - MAYBE: “The Blue Rocket” (unnamed object/event “going down next day”; narrator won’t let it “go up”).
+- **Time markers:**
+  - CERTAIN: “next day”.
+- **Motifs/continuity hooks:**
+  - Detective-crime collection: “Black Museum” + preserved body part.
+  - “Green” detail embedded in the eyeball story (possible clue-word recurrence).
+  - Name-play: “capitalise my third letter” (identity-cipher style).
+- **Voice/tells:**
+  - Self-mythologising criminal/detective register (“Smiler with the Knife”; “Black Museum”).
+  - Threat of intervention (“I would have to take steps”) toward Henry.
+- **Ordering hypotheses:**
+  - MAYBE: belongs with the detective/self-fashioning cluster (crime-museum + sleuth allusions).
+- **Disconfirming evidence:**
+  - If “Black Museum” and Cadaver Charlie are purely figurative or offhand jokes with no recurrence.
+- **Research needed:**
+  - Identify the narrator’s name from “Newbolt’s admiral” + “Shakespeare’s sergeant” and the “capitalise my third letter” clue.
+  - Identify “The Blue Rocket” reference (“going down next day”; “let it go up”).
+  - Identify the Cadaver Charlie / Chicago sleuth / “see any green” anecdote.

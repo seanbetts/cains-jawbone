@@ -2,3 +2,27 @@ I knew, of course, that if I got there in five minutes I would have double the t
 
 ## Notes
 
+- **Entities:**
+  - CERTAIN: narrator (“I”; time-planning, then letter-writing).
+  - MAYBE: “Holy Mr. Herbert” / “Mr. Haddock” (identity unclear; referenced approvingly).
+  - CERTAIN: “him” (recipient of narrator’s written account).
+  - MAYBE: John Montagu (referenced via “arrangement… at the gaming table”; likely allusive).
+  - MAYBE: “my swan” (LIKELY the pen; “gave my swan a drink”).
+- **Places:**
+  - CERTAIN: Café Royal (explicit; time-hop destination).
+- **Time markers:**
+  - CERTAIN: “in five minutes”.
+  - CERTAIN: “hour by hour, day by day” timeline in the written account.
+- **Death/violence cues:**
+  - MAYBE: “the horrid act” described from inception to culmination (could be crime confession/report; outcome unspecified).
+- **Motifs/continuity hooks:**
+  - Time budgeting (minutes; “double the time”) + gaming-table allusion.
+  - Writing/ink/pen ritual (repeatedly laying pen down; checking ink; “plunged in”).
+- **Voice/tells:**
+  - Decision-point framing (“I had decided what to do”) followed by procedural recounting.
+- **Disconfirming evidence:**
+  - If the “horrid act” is later shown to be non-violent (e.g., fraud/prank) rather than murder.
+- **Research needed:**
+  - Identify “Holy Mr. Herbert” / “Mr. Haddock” and the “Meed kissing laces” reference.
+  - Clarify the Café Royal / John Montagu/gaming-table allusion.
+  - Determine what “Leda and Hebe” and “my swan” refer to (pen brand? mythic wordplay?).

@@ -2,3 +2,25 @@ Naturally I looked up. And I tell you I found it awe-inspiring enough to actuall
 
 ## Notes
 
+- **Entities:**
+  - CERTAIN: narrator (“I”; sees own name on the window).
+  - CERTAIN: Henry (named; narrator returns attention to him; “Henry was waiting for me”).
+  - MAYBE: “the other” (scatters “saintly ashes”).
+  - CERTAIN: Colonel Anthony (commemorated annually).
+  - CERTAIN: two children (unnamed “he” and “she”; gum prunes).
+- **Quotes & allusions:**
+  - CERTAIN: Yeats allusion “we find heartedness among men that ride upon horses” (source to confirm).
+- **Motifs/continuity hooks:**
+  - Name-as-sign: narrator sees their own name printed in a window (strong identity anchor if the name can be read elsewhere).
+  - Ashes/dust/earth: “saintly ashes” + “Agriculture… take back her own”.
+  - Distraction by children (gum prunes) while trying to focus on Henry.
+- **Voice/tells:**
+  - Self-conscious embarrassment (blush at seeing name) + impatience with children.
+- **Ordering hypotheses:**
+  - MAYBE: belongs with Henry segments where the narrator is time-pressured and easily distracted.
+- **Disconfirming evidence:**
+  - If the “name in the window” is not the narrator’s own but a place/sign misread.
+- **Research needed:**
+  - Identify the Yeats line/source and whether it encodes a date/place.
+  - Identify who “Colonel Anthony” is and what annual commemoration this refers to.
+  - Clarify what “the darbs” means here (term/slang).

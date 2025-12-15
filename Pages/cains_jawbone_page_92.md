@@ -8,3 +8,22 @@ My earlier days had been so different. There hadn’t been the comfort, the sens
 
 ## Notes
 
+- **Entities:**
+  - CERTAIN: narrator (“I”).
+  - CERTAIN: Henry (named; narrator anticipates “what Henry would think of next”).
+  - CERTAIN: great aunt (unnamed; childhood lap/stories).
+- **Objects/motifs:**
+  - Food: oysters; “minty humbugs”.
+  - Timepieces: watch vs near-by clock (“my watch must be my mentor”).
+  - Childhood sweets stash (“secret caddis-hoard of Devona”).
+- **Quotes & allusions:**
+  - CERTAIN: quoted lines “Yet now my heart leaps, O beloved! …”
+- **Voice/tells:**
+  - Nostalgic self-comparison (childhood frustration → present indulgence) + heightened anticipatory mood (“cardiac revelation”).
+- **Ordering hypotheses:**
+  - MAYBE: sits near other timepiece-driven planning pages (watch/clock emphasis).
+- **Disconfirming evidence:**
+  - If Henry here is clearly a different “Henry” than adjacent segments (setting/role divergence).
+- **Research needed:**
+  - Identify the source of the quoted stanza (“Yet now my heart leaps, O beloved!”).
+  - Identify what “Devona” refers to in “caddis-hoard of Devona” (place/brand/wordplay).
