@@ -10,3 +10,4 @@ date,agent,task,start,end,minutes,branch,commit,notes
 2025-12-15,codex-cli,rename run branch,2025-12-15T15:44:07Z,2025-12-15T15:45:21Z,1,run/20251215-codex-extraction-pass1,3a8f2b5,"Renamed run branch and updated run metadata references."
 2025-12-15,codex-cli,extract pages 11-15,2025-12-15T17:27:01Z,2025-12-15T17:34:06Z,7,run/20251215-codex-extraction-pass1,43bae20,"Added notes for pages 11-15 and updated indices plus clusters."
 2025-12-15,codex-cli,extract pages 16-20,2025-12-15T17:34:46Z,2025-12-15T17:40:27Z,6,run/20251215-codex-extraction-pass1,6594a75,"Added notes for pages 16-20 and updated indices plus clusters."
+2025-12-15,codex-cli,extract pages 21-25,2025-12-15T17:41:08Z,2025-12-15T17:47:08Z,6,run/20251215-codex-extraction-pass1,17ca280,"Added notes for pages 21-25 and updated indices plus clusters."
