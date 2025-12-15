@@ -13,9 +13,9 @@ Template:
   - **Disconfirming evidence:** (what would falsify this cluster)  
 
 - **Cluster:** Henry name occurrences (confidence: `MAYBE`)
-  - **Pages:** Pages/cains_jawbone_page_2.md, Pages/cains_jawbone_page_4.md, Pages/cains_jawbone_page_5.md, Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_16.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_26.md, Pages/cains_jawbone_page_31.md, Pages/cains_jawbone_page_32.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_41.md, Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_44.md, Pages/cains_jawbone_page_45.md, Pages/cains_jawbone_page_47.md, Pages/cains_jawbone_page_49.md
+  - **Pages:** Pages/cains_jawbone_page_2.md, Pages/cains_jawbone_page_4.md, Pages/cains_jawbone_page_5.md, Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_16.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_26.md, Pages/cains_jawbone_page_31.md, Pages/cains_jawbone_page_32.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_41.md, Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_44.md, Pages/cains_jawbone_page_45.md, Pages/cains_jawbone_page_47.md, Pages/cains_jawbone_page_49.md, Pages/cains_jawbone_page_58.md, Pages/cains_jawbone_page_60.md
   - **Rationale:** “Henry” appears across multiple scenes with shifting roles; may be one person or multiple people sharing the name.
-  - **Key anchors:** “Lesurques” (Courier of Lyons?) role reference; ruined lighthouse + “Emperor’s Peg”; capstan-bar / dog-watch nautical register; Henry stooping/cleaning and handling bodies; Page 21’s “latest victim” + blood; Page 26’s “first two killings” + companion/rector’s aunt; Page 35’s police manhunt; Page 36’s buried corpse detail + “made up”; Pages 41–45 marriage/murder framing (certificate/corpse); Pages 47/49 attraction + “doomed to destroy… for family reasons”.
+  - **Key anchors:** “Lesurques” (Courier of Lyons?) role reference; ruined lighthouse + “Emperor’s Peg”; capstan-bar / dog-watch nautical register; Henry stooping/cleaning and handling bodies; Page 21’s “latest victim” + blood; Page 26’s “first two killings” + companion/rector’s aunt; Page 35’s police manhunt; Page 36’s buried corpse detail + “made up”; Pages 41–45 marriage/murder framing (certificate/corpse); Pages 47/49 attraction + “doomed to destroy… for family reasons”; Page 58’s “third/fourth” victims; Page 60’s “peerless investigator” role.
   - **Disconfirming evidence:** later pages give different surnames/biographical details for each “Henry”, or show mutually exclusive locations/timelines.
 
 - **Cluster:** Coastal imagery (confidence: `MAYBE`)
@@ -61,10 +61,16 @@ Template:
   - **Disconfirming evidence:** “capstan”/“dog” language is shown to be metaphorical/non-nautical.
 
 - **Cluster:** Cocktail-bar seduction (confidence: `MAYBE`)
-  - **Pages:** Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_43.md
-  - **Rationale:** Both pages foreground a woman in a drinking setting (cocktails, cigarette, lace dabbing) and use drink/dessert titles as cues; could be one continuous scene.
-  - **Key anchors:** “cocktail after cocktail”; cigarette; “Lover’s Delight” / “Banana Split” / “the Dawn”; Henry guiding narrator (Page 42); Alexander (“Ecky”) narrator voice (Page 43).
+  - **Pages:** Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_43.md, Pages/cains_jawbone_page_60.md
+  - **Rationale:** Pages 42–43 foreground a woman in a drinking setting with drink/dessert titles; Page 60 orders a “Lover’s Delight” sundae, suggesting the same menu/venue vocabulary may recur.
+  - **Key anchors:** “cocktail after cocktail”; cigarette; “Lover’s Delight” / “Banana Split” / “the Dawn”; Henry guiding narrator (Page 42); Alexander (“Ecky”) narrator voice (Page 43); Page 60’s “Lover’s Delight” sundae.
   - **Disconfirming evidence:** later pages show these are separate narrators/venues and the drink/dessert titles do not recur together.
+
+- **Cluster:** Westphalian ham + paper-reading (confidence: `MAYBE`)
+  - **Pages:** Pages/cains_jawbone_page_52.md, Pages/cains_jawbone_page_57.md
+  - **Rationale:** Both pages use Westphalian ham as a table-setting while someone handles/reads “papers/bits of paper”, suggesting a shared interview or clue-reading scene.
+  - **Key anchors:** Westphalian ham; “papers” / “bits of paper”; shared table/companionship.
+  - **Disconfirming evidence:** Westphalian ham is merely decorative and appears across unrelated scenes with no consistent narrator/setting.
 
 - **Cluster:** Whitman quotations (confidence: `MAYBE`)
   - **Pages:** Pages/cains_jawbone_page_32.md, Pages/cains_jawbone_page_51.md
@@ -73,15 +79,15 @@ Template:
   - **Disconfirming evidence:** Whitman lines appear scattered across many unrelated narrators without other shared tells.
 
 - **Cluster:** Plant/poison thread (confidence: `MAYBE`)
-  - **Pages:** Pages/cains_jawbone_page_6.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_24.md, Pages/cains_jawbone_page_29.md, Pages/cains_jawbone_page_30.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_40.md, Pages/cains_jawbone_page_54.md
+  - **Pages:** Pages/cains_jawbone_page_6.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_24.md, Pages/cains_jawbone_page_29.md, Pages/cains_jawbone_page_30.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_40.md, Pages/cains_jawbone_page_54.md, Pages/cains_jawbone_page_59.md
   - **Rationale:** Repeated botanical poison language (foxgloves/digitalis, calabar/physostigma, hellebore, lobelia, “lords and ladies”, gardenia taxonomy) suggests a shared narrator expertise or method thread.
-  - **Key anchors:** “foxgloves” / “digitalis purpurea”; “Calabar Bean” / “physostigma” / “old Calabar”; “hellebore”; lobelia + “lords and ladies”; Cape Jasmine/gardenia precision; beans/pill + potato leaves; Page 54’s “pestle a poisoned poison” + “green blood” horticulture.
+  - **Key anchors:** “foxgloves” / “digitalis purpurea”; “Calabar Bean” / “physostigma” / “old Calabar”; “hellebore”; lobelia + “lords and ladies”; Cape Jasmine/gardenia precision; beans/pill + potato leaves; Page 54’s “pestle a poisoned poison” + “green blood” horticulture; Page 59’s gelsemium (yellow jasmine).
   - **Disconfirming evidence:** later pages show these are isolated metaphors with no shared voice/continuity.
 
 - **Cluster:** “To-day” as historical date marker (confidence: `MAYBE`)
-  - **Pages:** Pages/cains_jawbone_page_52.md, Pages/cains_jawbone_page_54.md, Pages/cains_jawbone_page_55.md
+  - **Pages:** Pages/cains_jawbone_page_52.md, Pages/cains_jawbone_page_54.md, Pages/cains_jawbone_page_55.md, Pages/cains_jawbone_page_60.md
   - **Rationale:** Each page ties “to-day” to a specific historical event/holiday (diamond necklace acquittal; Waterloo/La Belle Alliance; a “fifth” deliverance holiday), suggesting calendar-key ordering mechanics.
-  - **Key anchors:** Diamond Necklace cardinal acquittal; “meeting at La Belle Alliance”; “James… the Earl and his brother Alexander”.
+  - **Key anchors:** Diamond Necklace cardinal acquittal; “meeting at La Belle Alliance”; “James… the Earl and his brother Alexander”; Francis Ferdinand’s murder reference.
   - **Disconfirming evidence:** “to-day” references are purely decorative and do not resolve to dates or ordering constraints.
 
 - **Cluster:** Animal POV (confidence: `MAYBE`)
@@ -113,3 +119,7 @@ Template:
 - **Sequence (confidence: MAYBE):** `Pages/cains_jawbone_page_52.md → Pages/cains_jawbone_page_53.md`
   - **Why:** Page 52 sets up an interview-with-papers framed as “commentary… page after page”; Page 53 continues with an “introduced to me” subject (Sir Paul Trinder) in drink, consistent with a run of interview pages.
   - **Disconfirming evidence:** the “man who entered” on Page 52 is clearly a different person/context from Sir Paul Trinder, with no sustained interview continuity.
+
+- **Sequence (confidence: MAYBE):** `Pages/cains_jawbone_page_52.md → Pages/cains_jawbone_page_53.md → Pages/cains_jawbone_page_59.md → Pages/cains_jawbone_page_60.md`
+  - **Why:** Trinder appears in the interview sequence (Page 53), is “about” during a gelsemium/poisoning context (Page 59), and a bearded pseudo-scientist target is declared dead after a planned “Lover’s Delight” setup (Page 60).
+  - **Disconfirming evidence:** Page 59’s “Trinder” and Page 60’s “figurehead beard” refer to different people, or the scenes’ settings/mechanics don’t align.
