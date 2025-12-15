@@ -2,3 +2,25 @@ Now I think I will try a cup of what they insolently call Golden Tips, a find yo
 
 ## Notes
 
+- **Entities:**
+  - CERTAIN: narrator (“I”).
+  - MAYBE: “her” (anticipated arrival; “possible her”).
+  - CERTAIN: Catharine (named; “turning a Somerset in front of the altar”).
+  - CERTAIN: the Padre (unnamed; war/expedition anecdote).
+- **Objects/motifs:**
+  - Tea: “Golden Tips” / “Tippy Tea”; “No Tips” gag.
+  - Menu-like phrases: “Loganberry Kiss”; “Plover’s Lunch”.
+  - Castor oil; stew recollection.
+- **Places:**
+  - MAYBE: Jifjaffa (unidentified; sounds like Jaffa/Palestine but unclear).
+- **Quotes & allusions:**
+  - CERTAIN: Wordsworth-parody title “Ode on the Intimations of Immorality in Early Childhood” (Intimations of Immortality echo).
+  - CERTAIN: Scots phrasing “It gars me grue” (source to confirm).
+- **Voice/tells:**
+  - Menu-sleuthing + wartime memory intrusions; frames the meeting as “mysterious”.
+- **Disconfirming evidence:**
+  - If “Catharine” and “Padre” are purely anecdotal/allusive with no recurrence.
+- **Research needed:**
+  - Identify “Jifjaffa” (place or pun) and what “turning a Somerset” is encoding here.
+  - Identify whether “Loganberry Kiss” / “Plover’s Lunch” are specific menu/culture references.
+  - Confirm the source/usage of “It gars me grue”.

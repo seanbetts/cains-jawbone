@@ -2,3 +2,25 @@ He stood and looked down at me ; but I was not to be hurried. The money changed 
 
 ## Notes
 
+- **Entities:**
+  - CERTAIN: narrator (“I”).
+  - CERTAIN: “he” (unnamed; money changes hands; guided by physicians/doctors).
+  - CERTAIN: May (named; invoked as a decision pivot: “May be. May be not.”).
+- **Time markers:**
+  - CERTAIN: sunset (“Sunset was already reddish-purple…”).
+- **Death/violence cues:**
+  - MAYBE: narrator wishes him “positively, finally gone” and considers whom to trust to achieve that (possible murder-hiring intent).
+- **Motifs/continuity hooks:**
+  - Money exchange + desire to later “describe him” (witness/identification register).
+  - Medical framing (“physicians”; “proper medical advice”; “doctors and doctors”).
+  - May-wordplay (person vs month; “May be” pun).
+- **Places:**
+  - MAYBE: Quarry hills (unidentified; could be a setting anchor if matched elsewhere).
+- **Quotes & allusions:**
+  - CERTAIN: “a consummation devoutly to be wished” (Shakespeare, *Hamlet*).
+  - MAYBE: “sedulous ape” phrase (source TBD).
+- **Disconfirming evidence:**
+  - If “gone… finally gone” is purely metaphorical (departure rather than death intent).
+- **Research needed:**
+  - Identify the “sedulous ape” reference and what “Simple faith or Norman bluff? … Douglas” is pointing to.
+  - Identify “Quarry hills” (and whether it anchors a specific locality).
