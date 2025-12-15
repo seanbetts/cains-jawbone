@@ -45,6 +45,8 @@ Connect ordered clusters into a single global sequence. Use shared characters, c
 **Phase 6: Convergence and falsification**  
 Stress-test the full ordering and murder list by actively seeking contradictions and alternative explanations. Resolve remaining inconsistencies until only local, non-structural uncertainty remains.
 
+Operational procedures for each phase (allowed actions, required Skills, outputs, and exit conditions) are defined in `Skills/cjb-phase-playbook/SKILL.md`.
+
 ## Working loop
 
 1. Extract clues from a page into `## Notes`.
@@ -72,6 +74,7 @@ It contains no working or explanation.
 
 The authoritative procedures/templates live in these files:
 
+- `Skills/cjb-phase-playbook/SKILL.md`
 - `Skills/cjb-page-extraction/SKILL.md`
 - `Skills/cjb-index-maintenance/SKILL.md`
 - `Skills/cjb-order-hypotheses/SKILL.md`
