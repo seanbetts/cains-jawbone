@@ -9,7 +9,7 @@ This is not a software project; the “code” here exists only to protect text 
 - `Pages/` — `cains_jawbone_page_1.md` … `cains_jawbone_page_100.md` (page text + `## Notes`)
 - `Archive/` — immutable source text + hash (`Cain's Jawbone Unformatted.txt`, `hash.txt`)
 - `Indexes/` — global indices (`people.md`, `places.md`, `quotes.md`, `objects_motifs.md`, `research_queue.md`)
-- `Order/` — ordering hypotheses and clusters (`hypotheses.md`)
+- `Order/` — ordering hypotheses and clusters (`hypotheses.md`), plus cast + murder-confidence ledgers (`cast.md`, `confidence.md`)
 - `Skills/` — modular workflows (authoritative procedures in each `SKILL.md`)
 - `verify_pages.py` — integrity verifier (archive hash + page-body immutability)
 - `Worklog/worklog.csv` — mandatory session log (see `Skills/cjb-time-logging/SKILL.md`)
@@ -29,6 +29,13 @@ This is not a software project; the “code” here exists only to protect text 
 2. Update the relevant `Indexes/*` entries.
 3. If proposing a linkage/sequence, record it (plus a falsifier) in `Order/hypotheses.md`.
 
+## Default sequencing (extraction-first)
+
+The default approach is:
+
+1. Do a complete extraction pass across **all 100 pages** (populate `## Notes` + keep indices current).
+2. Only then start resolving `Indexes/research_queue.md` items (quotes, calendar clues, locations), since later pages often answer earlier uncertainties.
+
 ## Skills (how we work)
 
 The authoritative procedures/templates live in these files:
@@ -36,6 +43,9 @@ The authoritative procedures/templates live in these files:
 - `Skills/cjb-page-extraction/SKILL.md`
 - `Skills/cjb-index-maintenance/SKILL.md`
 - `Skills/cjb-order-hypotheses/SKILL.md`
+- `Skills/cjb-murder-analysis/SKILL.md`
+- `Skills/cjb-means-and-methods/SKILL.md`
+- `Skills/cjb-motive-and-relationships/SKILL.md`
 - `Skills/cjb-quote-research/SKILL.md`
 - `Skills/cjb-verification/SKILL.md`
 - `Skills/cjb-time-logging/SKILL.md`
@@ -65,7 +75,7 @@ It does **not** judge whether notes/hypotheses are correct.
 
 ## Agent runs & branching
 
-- Each AI session runs on its own branch: `run/YYYYMMDD-<agent>-<focus>`.
+- A run branch represents an end-to-end workstream (e.g. full extraction pass, clustering pass) and may span multiple sessions/days: `run/YYYYMMDD-<agent>-<focus>`.
 - The active run metadata lives in `Worklog/current_run.txt`; leave it empty to signal no active run.
 - During a run:
   - Stay on the recorded branch (no merging other branches in).

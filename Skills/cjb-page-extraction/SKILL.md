@@ -16,6 +16,14 @@ description: Extract actionable clues from a Cain’s Jawbone page and update pe
 
 Turn each page into structured, searchable clues that support clustering and ordering later.
 
+## Default sequencing (extraction-first)
+
+During the first full extraction pass, do not pause to resolve external research questions. Instead:
+
+- Record “source TBD” / uncertainties under the page’s `## Notes`.
+- Add an `open` item to `Indexes/research_queue.md`.
+- Continue to the next page (later pages often supply the missing context).
+
 ## Procedure (per page)
 
 1. Open the page file: `Pages/cains_jawbone_page_N.md`.
@@ -26,6 +34,7 @@ Turn each page into structured, searchable clues that support clustering and ord
    - **Quotes & allusions:** minimal snippet + suspected source + why it’s an anchor.
    - **Wordplay:** spoonerisms, cryptic indicators, homophones, hidden names.
    - **Motifs/continuity hooks:** objects, injuries, pills/poisons, animals, weather, letters.
+   - **Harm/death cues (optional):** if the page likely implies in-world violence/death, run `Skills/cjb-means-and-methods/SKILL.md` and/or `Skills/cjb-murder-analysis/SKILL.md` and keep `Order/cast.md` + `Order/confidence.md` updated.
    - **Voice/tells:** diction, punctuation habits, obsessions, professional knowledge.
    - **Ordering hypotheses:** candidate links to other pages with reasons + confidence.
    - **Disconfirming evidence:** what would falsify each linkage/cluster claim.
@@ -43,4 +52,3 @@ Turn each page into structured, searchable clues that support clustering and ord
 - Notes added under `## Notes` only
 - Any new entities/quotes/motifs reflected in indices
 - `python3 verify_pages.py` passes
-

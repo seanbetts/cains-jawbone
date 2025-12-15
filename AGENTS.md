@@ -7,7 +7,7 @@ This folder is a **literary puzzle workspace**, not a software project. The goal
 1. **Log time before/after work.**  
    Follow `Skills/cjb-time-logging/SKILL.md`: capture `start` (UTC) before opening files and append to `Worklog/worklog.csv` with `end`/`minutes` before finishing.
 2. **Use the active run branch.**  
-   Follow `Skills/cjb-run-management/SKILL.md`: read `Worklog/current_run.txt`, stay on the recorded branch if present, or create a new `run/YYYYMMDD-agent-focus` branch only when the file is empty. Do not work on `main` directly.
+   Follow `Skills/cjb-run-management/SKILL.md`: read `Worklog/current_run.txt`, stay on the recorded branch if present, or create a new `run/YYYYMMDD-agent-focus` branch only when the file is empty **and** you are starting a new end-to-end run (not a new page batch / session). Do not work on `main` directly.
 3. **Never change page body text.**  
    For any file in `Pages/cains_jawbone_page_*.md`, only edit content **under** the `## Notes` heading. Do not alter, reflow, wrap, or “fix” punctuation in the page text above `## Notes`.
 4. **Keep the archive immutable.**  
@@ -22,6 +22,8 @@ This folder is a **literary puzzle workspace**, not a software project. The goal
 - Extract clues from a page into `## Notes` (per `Skills/cjb-page-extraction/SKILL.md`).
 - Update relevant `Indexes/*` entries (per `Skills/cjb-index-maintenance/SKILL.md`).
 - If proposing a linkage/sequence, record it (plus falsifier) in `Order/hypotheses.md` (per `Skills/cjb-order-hypotheses/SKILL.md`).
+- When a page likely involves in-world harm/death, use the murder-analysis skills (below) and keep `Order/cast.md` + `Order/confidence.md` updated.
+- **Default sequencing:** complete a full page-extraction pass (all 100 pages) before doing any external research; capture research needs as `open` items in `Indexes/research_queue.md`.
 
 ## Skills (authoritative procedures live here)
 
@@ -30,6 +32,9 @@ Keep all detailed procedures, templates, and rules in the Skill files to avoid d
 - **Page extraction:** `Skills/cjb-page-extraction/SKILL.md` — use when reviewing a page and updating `## Notes` + indices.
 - **Index maintenance:** `Skills/cjb-index-maintenance/SKILL.md` — use when curating `Indexes/*` consistency and cross-links.
 - **Order hypotheses:** `Skills/cjb-order-hypotheses/SKILL.md` — use when clustering pages and proposing sequences (with falsifiers).
+- **Murder analysis:** `Skills/cjb-murder-analysis/SKILL.md` — use when pages imply in-world death/violence; updates cast + murder-confidence ledgers.
+- **Means & methods:** `Skills/cjb-means-and-methods/SKILL.md` — use to catalogue substances/methods conservatively without committing to murder.
+- **Motive & relationships:** `Skills/cjb-motive-and-relationships/SKILL.md` — use to extract relationship/power dynamics that support motive hypotheses.
 - **Quote research:** `Skills/cjb-quote-research/SKILL.md` — use when capturing/identifying allusions and managing the research queue.
 - **Verification:** `Skills/cjb-verification/SKILL.md` — use when running integrity checks and interpreting failures.
 - **Time logging:** `Skills/cjb-time-logging/SKILL.md` — use at the start and end of every working session to keep `Worklog/worklog.csv` accurate.
@@ -47,6 +52,16 @@ Maintain these central files to turn page-by-page extraction into a searchable �
 - `Indexes/objects_motifs.md` (recurring items/injuries/food/drink/animals/weather, pages)
 - `Indexes/research_queue.md` (rolling queue of lookups to do; link items back to pages)
 - `Order/hypotheses.md` (candidate sequences/clusters with reasons, confidence, falsifiers)
+- `Order/cast.md` (people tracked as murderer/victim/witness/unknown candidates)
+- `Order/confidence.md` (in-world death/murder event hypotheses with confidence + falsifiers)
+
+## Murder analysis skills
+
+Use murder-analysis skills conservatively:
+
+- Do not assume murder unless textual evidence supports it.
+- Prefer means/motive extraction before accusation (use `cjb-means-and-methods` and `cjb-motive-and-relationships`).
+- All conclusions must include confidence and falsifiers, and stay reversible (`active`/`downgraded`/`rejected`).
 
 ## Notes quick reference (non-authoritative)
 
@@ -73,7 +88,7 @@ See `Skills/cjb-time-logging/SKILL.md` for the full procedure and formatting req
 
 ## Agent runs and branching
 
-Discrete AI agent sessions are treated as **runs**. Runs use dedicated git branches and `Worklog/current_run.txt` to keep track of the active branch.
+Runs are **end-to-end workstreams** (e.g., “full extraction pass”, “clustering pass”, “ordering pass”) that may span multiple sessions/days. Runs use dedicated git branches and `Worklog/current_run.txt` to keep track of the active branch.
 
 ### Creating a run
 - Check `Worklog/current_run.txt`. If it already lists a `branch=…`, continue on that branch.
@@ -86,6 +101,7 @@ Discrete AI agent sessions are treated as **runs**. Runs use dedicated git branc
 - Log start/end times using the Time Logging Skill.
 - Do not merge other branches into the run branch.
 - Leave `Worklog/current_run.txt` untouched so restarts pick up the same run.
+ - Do **not** create new run branches for page “batches”; keep committing batches on the same run branch until the run’s end goal is reached.
 
 ### Closing a run
 1. Run `python3 verify_pages.py`.
@@ -136,5 +152,5 @@ If a hypothesis collapses, revert the commit(s) that introduced it rather than e
 ## Safety & scope
 
 - **No spoilers:** do not import or reproduce known solved page orders, murderer/victim lists, or solution summaries from the internet unless the user explicitly requests spoilers.
-- **Mandatory research policy:** agents are expected to self-initiate research using only historically appropriate sources (≤1934). In particular, consult Chambers' Book of Days for calendar clues, Highways & Byways guides for geographic clues, and pre-1934 dictionaries/almanacs for terminology. Record all findings in the relevant indices and research queue.
+- **Mandatory research policy:** when research is needed, use only historically appropriate sources (≤1934). Default sequencing is extraction-first: finish the full page pass before resolving research queue items unless the user explicitly asks to research earlier.
 - Avoid reproducing large verbatim chunks of page text in outputs; quote only the minimum needed for identification.

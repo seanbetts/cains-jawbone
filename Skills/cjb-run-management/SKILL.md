@@ -1,12 +1,17 @@
 ---
 name: cjb-run-management
-description: Manage agent runs via dedicated git branches and Worklog/current_run.txt so each session is isolated, logged, and mergeable.
+description: Manage long-lived run branches via Worklog/current_run.txt so end-to-end workstreams are isolated, logged, and mergeable.
 ---
 
 # Run management
 
 ## Purpose
-Keep exploratory work isolated per session, with clear provenance and easy rollback.
+Keep exploratory work isolated per end-to-end workstream (“run”), with clear provenance and easy rollback.
+
+## Definitions
+
+- **Session:** a single working block that gets a `start/end/minutes` row in `Worklog/worklog.csv`.
+- **Run:** a long-lived branch for a coherent goal (e.g., first full extraction pass) that may span multiple sessions/days.
 
 ## Files/tools
 - `Worklog/current_run.txt` — stores the currently active run metadata (blank means no active run)
@@ -35,6 +40,11 @@ An empty file (or missing `branch=` line) means no active run.
    - Create and checkout the branch: `git checkout -b <branch>`.
    - Write run metadata to `Worklog/current_run.txt` (branch, agent, task, start, notes).
    - Log start time per `Skills/cjb-time-logging/SKILL.md`.
+
+## When to start a new run (and when not to)
+
+- Start a new run only when starting a new end-to-end approach (e.g., “full extraction pass 1”, “clustering pass 1”, “ordering hypothesis pass 2”).
+- Do **not** start a new run for each batch of pages; batches belong to commits within the same run.
 
 ## During a run
 
