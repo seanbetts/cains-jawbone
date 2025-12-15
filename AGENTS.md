@@ -1,4 +1,4 @@
-# Cain’s Jawbone workspace instructions (for the coding agent)
+# Cain’s Jawbone workspace instructions (for the AI agent)
 
 This folder is a **literary puzzle workspace**, not a software project. The goal is to help the user **extract clues, build indices, cluster pages, and iteratively form ordering hypotheses** to identify the **six murderers and six victims**.
 
