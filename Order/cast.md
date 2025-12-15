@@ -39,3 +39,21 @@ Track people as candidates with evolving roles. This file is deliberately probab
   - **Evidence summary:** Narrator claims to have seen him “done slowly to death”; later pages suggest a connected retaliation/blackmail dynamic.
   - **Falsifiers:** “Done slowly to death” resolves as figurative or the “old man” in these pages is shown to be multiple different people.
   - **Status:** `active`
+
+- `P72`
+  - **Aliases / names used:** Green
+  - **Role candidate:** `victim`
+  - **Confidence (0.0–1.0):** 0.45
+  - **Supporting pages:** Pages/cains_jawbone_page_76.md, Pages/cains_jawbone_page_77.md
+  - **Evidence summary:** Explicitly named as “the victim” (Green); adjacent page reflects on a “first” killing, plausibly tied to that victim.
+  - **Falsifiers:** “Green” is revealed as a non-personal epithet/joke, or Page 77’s “my first” is unrelated to the named victim.
+  - **Status:** `active`
+
+- `P50`
+  - **Aliases / names used:** Sir Paul Trinder
+  - **Role candidate:** `victim`
+  - **Confidence (0.0–1.0):** 0.25
+  - **Supporting pages:** Pages/cains_jawbone_page_80.md
+  - **Evidence summary:** Hosted at narrator’s home with aconitum/Fleming’s tincture in play and sherry served; setup reads like a poisoning opportunity.
+  - **Falsifiers:** Aconitum is confirmed to be purely a specimen demonstration with no administration, or Sir Paul is shown to leave unharmed with no illness.
+  - **Status:** `active`

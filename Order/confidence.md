@@ -47,3 +47,36 @@ Track *in-world* death/murder hypotheses separately from page-ordering hypothese
   - **Narrative tells:** Emphasis on time-of-night wakefulness + self-command (“collect myself”) after witnessing the slow death; later page frames a franked warning/blackmail note and the threat of being “done in”.
   - **Evidence summary:** IN-WORLD death is asserted with slow-killing language, but agent/means are not named.
   - **Falsifiers:** Later context shows the “old man” survives, the death is metaphorical, or the scene is revealed as purely recollected/hypothetical rather than witnessed.
+
+- `E03` (confidence: `0.35`; status: `active`)
+  - **Pages:** Pages/cains_jawbone_page_76.md, Pages/cains_jawbone_page_77.md
+  - **Victim candidate(s):** `P72` (Green; named as “the victim”)
+  - **Murderer candidate(s):** `UNKNOWN` (narrator strongly implicated)
+  - **Means/method:** `UNKNOWN` / “Compact” (term for a tool/weapon; needs ID)
+  - **Motive:** `UNKNOWN` (moralising “duty” register; possible personal grievance)
+  - **Opportunity:** Narrator frames the need to “do the thing” personally and then reflects on a first killing.
+  - **Narrative tells:** Heavy self-justification; de Quincey murder-aesthetics reference; tactile aftermath (warm ankles → cold).
+  - **Evidence summary:** An in-world victim is explicitly named (Green) and a first murder is confessed/reflected upon in close proximity.
+  - **Falsifiers:** “Green” is not an in-world person, or Page 77’s “my first” is not a killing connected to the named victim.
+
+- `E04` (confidence: `0.30`; status: `active`)
+  - **Pages:** Pages/cains_jawbone_page_78.md
+  - **Victim candidate(s):** `UNKNOWN` (soon-to-be dead woman; will/document subject)
+  - **Murderer candidate(s):** `UNKNOWN`
+  - **Means/method:** `UNKNOWN` (death is implied/anticipated; not described)
+  - **Motive:** MAYBE inheritance/document control (forgery context)
+  - **Opportunity:** Document is being guided by a “falser hand” before the woman’s death.
+  - **Narrative tells:** “Mimic artistry” + “falser hand” strongly echoes will-forgery framing used elsewhere.
+  - **Evidence summary:** The page explicitly anticipates a woman’s near-future death while describing document manipulation.
+  - **Falsifiers:** The “soon to be dead” phrasing is metaphorical, or the document is unrelated to any death plot.
+
+- `E05` (confidence: `0.30`; status: `active`)
+  - **Pages:** Pages/cains_jawbone_page_80.md
+  - **Victim candidate(s):** `P50` (Sir Paul Trinder)
+  - **Murderer candidate(s):** `UNKNOWN` (host narrator strongly implicated)
+  - **Means/method:** aconite (aconitum) / Fleming’s tincture (as referenced) in the context of sherry
+  - **Motive:** MAYBE connected to May (host wants to “do my best for May”)
+  - **Opportunity:** Visitor arrives before lunch and is served drink while poisonous plant/preparation is foregrounded.
+  - **Narrative tells:** “I am not incautious” + immediate move to exhibit aconitum reads like deliberate staging.
+  - **Evidence summary:** A likely in-world poisoning setup involving a named target (Sir Paul) is described, but the outcome is not yet stated.
+  - **Falsifiers:** Later context shows no administration/ingestion or no subsequent illness/harm to Sir Paul.
