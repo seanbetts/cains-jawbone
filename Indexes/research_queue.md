@@ -950,3 +950,66 @@ Template:
   - **Why it matters:** Could tie into the plant/poison method thread and help interpret “blight on the May”.
   - **Status:** `open`
   - **Result:**
+
+- **Item:** Identify “Lord Pentarry” (Page 76)
+  - **Type:** name/other
+  - **Pages:** Pages/cains_jawbone_page_76.md
+  - **Why it matters:** Could be an in-world murderer exemplar or a literary allusion that anchors narrator reading set.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify the source of “stars upon some gloomy grove” (quoted via Henry on Page 76)
+  - **Type:** quote
+  - **Pages:** Pages/cains_jawbone_page_76.md
+  - **Why it matters:** Potential precise-source anchor for clustering Henry/narrator segments.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify what “Compact” refers to (Page 77)
+  - **Type:** term/other
+  - **Pages:** Pages/cains_jawbone_page_77.md
+  - **Why it matters:** Likely the murder instrument; could materially constrain means/method analysis.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Confirm the date implied by “that day’s killing of Perceval” (Page 77)
+  - **Type:** date
+  - **Pages:** Pages/cains_jawbone_page_77.md
+  - **Why it matters:** Potential explicit calendar anchor (“to-day” mechanism) separate from in-world murders.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify the source of “We that did nothing study but the way to love each other…” (Page 78)
+  - **Type:** quote
+  - **Pages:** Pages/cains_jawbone_page_78.md
+  - **Why it matters:** Could anchor the forgery/will thread to a specific text and link other quotations.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify the source of “learn the hateful art, how to forget” (Page 78)
+  - **Type:** quote
+  - **Pages:** Pages/cains_jawbone_page_78.md
+  - **Why it matters:** May recur as a refrain and help cluster narrator voice.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Confirm what “Bob Martin” denotes in Page 79 (likely a dog medicine brand/product)
+  - **Type:** term/other
+  - **Pages:** Pages/cains_jawbone_page_79.md
+  - **Why it matters:** Supports animal POV identification and might constrain time/setting via product history.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Confirm what “Fleming’s tincture” denotes on Page 80 (aconite preparation vs another tincture)
+  - **Type:** term/other
+  - **Pages:** Pages/cains_jawbone_page_80.md
+  - **Why it matters:** Clarifies whether aconite is being administered (means/method) versus merely shown.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify the source of “He tasted love with half his mind… nor ever drank the inviolate spring where nighest heaven” (Page 80)
+  - **Type:** quote
+  - **Pages:** Pages/cains_jawbone_page_80.md
+  - **Why it matters:** Strong quote anchor for narrator voice; may connect to other poem fragments.
+  - **Status:** `open`
+  - **Result:**

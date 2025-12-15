@@ -411,3 +411,38 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_75.md
   - **Confidence:** `LIKELY`
   - **Research needed:** yes — confirm exact wording/edition used.
+
+- **Snippet:** “Tools must be tooled in the de Quincey sense”
+  - **Likely source/author:** Thomas De Quincey (likely *On Murder Considered as One of the Fine Arts*; confirm)
+  - **Why it matters:** Signals a murder-aesthetics/justification register; may anchor narrator identity or reading set.
+  - **Pages:** Pages/cains_jawbone_page_76.md
+  - **Confidence:** `MAYBE`
+  - **Research needed:** yes — confirm source/wording.
+
+- **Snippet:** “If it be not now… yet it will be.”
+  - **Likely source/author:** Shakespeare, *Hamlet*
+  - **Why it matters:** Distinct “readiness is all” echo; may tie narrator to other Hamlet-quoting segments.
+  - **Pages:** Pages/cains_jawbone_page_80.md
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
+
+- **Snippet:** “He tasted love with half his mind… nor ever drank the inviolate spring where nighest heaven.”
+  - **Likely source/author:** TBD
+  - **Why it matters:** Quotable line used to characterise Sir Paul; may anchor a specific poem/text.
+  - **Pages:** Pages/cains_jawbone_page_80.md
+  - **Confidence:** `MAYBE`
+  - **Research needed:** yes — identify source/context.
+
+- **Snippet:** “We that did nothing study but the way to love each other…”
+  - **Likely source/author:** TBD
+  - **Why it matters:** Quoted in a document/forgery context; may link to other pages quoting the same passage.
+  - **Pages:** Pages/cains_jawbone_page_78.md
+  - **Confidence:** `MAYBE`
+  - **Research needed:** yes — identify source/context.
+
+- **Snippet:** “learn the hateful art, how to forget”
+  - **Likely source/author:** TBD
+  - **Why it matters:** Aphoristic quote used as a closing moral; may cluster narrator voice.
+  - **Pages:** Pages/cains_jawbone_page_78.md
+  - **Confidence:** `MAYBE`
+  - **Research needed:** yes — identify source/context.

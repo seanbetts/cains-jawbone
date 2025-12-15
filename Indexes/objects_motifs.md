@@ -66,6 +66,11 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_6.md, Pages/cains_jawbone_page_21.md
   - **Notes:** Candidate poison method; watch for illness/heart symptoms elsewhere.
 
+- **Aconite (aconitum / Fleming’s tincture)**
+  - **Instances / variants:** aconitum exhibited; Fleming’s tincture mentioned; sherry as immediate context
+  - **Pages:** Pages/cains_jawbone_page_80.md
+  - **Notes:** High-suspicion poison method marker; track for later symptoms or confessions.
+
 - **Cigarettes (Egyptian)**
   - **Instances / variants:** bet stake: “a hundred Egyptian cigarettes—Gourdoulis”; box of Gourdoulis labelled “I always pay my debts”
   - **Pages:** Pages/cains_jawbone_page_10.md, Pages/cains_jawbone_page_33.md
@@ -147,9 +152,9 @@ Template:
   - **Notes:** Likely a dated anecdote; may connect to other “to-day” death anchors.
 
 - **Dogs (named)**
-  - **Instances / variants:** Ravager (unclear); Bart chewing moccasins
-  - **Pages:** Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_15.md
-  - **Notes:** Track if named animals recur or indicate narrator household.
+  - **Instances / variants:** Ravager (unclear); Bart chewing moccasins; Sandy (likely dog); red grouse retrieval; Bob Martin medicine
+  - **Pages:** Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_15.md, Pages/cains_jawbone_page_79.md
+  - **Notes:** Strengthens non-human POV thread (hunting/medicine/mating); track if Sandy recurs.
 
 - **Eyebrows / theatrical make-up**
   - **Instances / variants:** false eyebrows “like two fuzzy caterpillars”; applying black to eyebrows
@@ -252,9 +257,9 @@ Template:
   - **Notes:** Publisher/series identifier; likely an anchor for narrator’s reading.
 
 - **Forgery / “forging ahead”**
-  - **Instances / variants:** “Forging ahead… since the woman was not yet dead.”
-  - **Pages:** Pages/cains_jawbone_page_28.md
-  - **Notes:** Possible will/inheritance plot hook; connect to other document pages.
+  - **Instances / variants:** “Forging ahead… since the woman was not yet dead.”; “mimic artistry”; “falser hand”
+  - **Pages:** Pages/cains_jawbone_page_28.md, Pages/cains_jawbone_page_78.md
+  - **Notes:** Possible will/inheritance plot hook; watch for diary/pen/instrument continuity.
 
 - **Poison plants (lobelia; lords and ladies)**
   - **Instances / variants:** lobelia; “Indian tobacco”; “pretty lords and ladies”

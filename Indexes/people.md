@@ -15,7 +15,7 @@ Template:
 - `P01` — Names/aliases: Henry
   - **Tells:** LIKELY actor (played Lesurques); LIKELY serial “intended” (has an “intended fifth”); associated with (possibly toxic) “Emperor’s Peg” at a ruined lighthouse; has a “great voice” linked to a “capstan bar”; appears as a subordinate who stoops/cleans and handles bodies; object of romance (“ready to love”); described as having multiple “killings” and a “latest victim” with blood present; later pursued by police (“flying squad”); linked to burying a corpse with “only the eyes” showing; also appears as a husband/guide in social scenes; linked to a half-burned marriage certificate; seen bending over a corpse of his own making; framed as “doomed to destroy… for family reasons”; explicit “third” (family lawyer) and “fourth” (chardlady) victims; described as an investigator (“peerless investigator”).
   - **Pronouns/relationships:** described as “the angel”; sometimes an absent advisor; sometimes an assistant obeying signals.
-  - **Pages:** Pages/cains_jawbone_page_2.md, Pages/cains_jawbone_page_4.md, Pages/cains_jawbone_page_5.md, Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_16.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_26.md, Pages/cains_jawbone_page_31.md, Pages/cains_jawbone_page_32.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_41.md, Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_44.md, Pages/cains_jawbone_page_45.md, Pages/cains_jawbone_page_47.md, Pages/cains_jawbone_page_49.md, Pages/cains_jawbone_page_58.md, Pages/cains_jawbone_page_60.md, Pages/cains_jawbone_page_63.md, Pages/cains_jawbone_page_68.md, Pages/cains_jawbone_page_71.md
+  - **Pages:** Pages/cains_jawbone_page_2.md, Pages/cains_jawbone_page_4.md, Pages/cains_jawbone_page_5.md, Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_16.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_26.md, Pages/cains_jawbone_page_31.md, Pages/cains_jawbone_page_32.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_41.md, Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_44.md, Pages/cains_jawbone_page_45.md, Pages/cains_jawbone_page_47.md, Pages/cains_jawbone_page_49.md, Pages/cains_jawbone_page_58.md, Pages/cains_jawbone_page_60.md, Pages/cains_jawbone_page_63.md, Pages/cains_jawbone_page_68.md, Pages/cains_jawbone_page_71.md, Pages/cains_jawbone_page_76.md, Pages/cains_jawbone_page_77.md, Pages/cains_jawbone_page_78.md, Pages/cains_jawbone_page_80.md
   - **Notes:** MAYBE multiple different “Henrys” across the book; do not merge/split without stronger anchors (surname, role, setting continuity).
 
 - `P02` — Names/aliases: Casy Ferris
@@ -105,7 +105,7 @@ Template:
 - `P16` — Names/aliases: May
   - **Tells:** addressed directly in will/inheritance talk (“leave everything to me?” / “do just as you think fit, May”).
   - **Pronouns/relationships:** “she” in overheard dialogue; companion (unnamed).
-  - **Pages:** Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_71.md, Pages/cains_jawbone_page_75.md
+  - **Pages:** Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_71.md, Pages/cains_jawbone_page_75.md, Pages/cains_jawbone_page_80.md
   - **Notes:** MAYBE linked to Page 12’s will/documents scene; Pages 71/75 may also be “May” as month/May-blossom rather than the person (treat cautiously).
 
 - `P17` — Names/aliases: Janetta Sheringham
@@ -165,8 +165,8 @@ Template:
 - `P26` — Names/aliases: Flora (uncertain)
   - **Tells:** object of narrator’s mating/banishment story; “came over to our place”.
   - **Pronouns/relationships:** linked to Tusitala; returned with “he”.
-  - **Pages:** Pages/cains_jawbone_page_22.md
-  - **Notes:** Not necessarily the same “Flora” element inside “Fidelia Faustina Flora Blackwood” (Page 23).
+  - **Pages:** Pages/cains_jawbone_page_22.md, Pages/cains_jawbone_page_79.md
+  - **Notes:** Not necessarily the same “Flora” element inside “Fidelia Faustina Flora Blackwood” (Page 23); Page 79 continues the animal-mating thread.
 
 - `P27` — Names/aliases: Fidelia Faustina Flora Blackwood
   - **Tells:** described marching by on “muscular pink hocks”.
@@ -309,7 +309,7 @@ Template:
 - `P50` — Names/aliases: Sir Paul Trinder
   - **Tells:** public talker (“furor loquendi”); loudly attaches to “every ebbing cause” for twenty years; appears drunk and useful to an interviewer; recognisable beard (“white bear”).
   - **Pronouns/relationships:** introduced to narrator/interviewer.
-  - **Pages:** Pages/cains_jawbone_page_53.md, Pages/cains_jawbone_page_59.md
+  - **Pages:** Pages/cains_jawbone_page_53.md, Pages/cains_jawbone_page_59.md, Pages/cains_jawbone_page_80.md
   - **Notes:** MAYBE satirical fictional; treat as in-world unless confirmed otherwise; Page 60’s “figurehead beard” target may refer to him.
 
 - `P51` — Names/aliases: Miss Doncaster
@@ -437,3 +437,21 @@ Template:
   - **Pronouns/relationships:** seller/source of the “them” items.
   - **Pages:** Pages/cains_jawbone_page_74.md
   - **Notes:** Likely minor unless the OGPU/blackmail thread becomes central.
+
+- `P72` — Names/aliases: Green (victim; surname)
+  - **Tells:** explicitly named as “the victim” in a murder-meditation passage.
+  - **Pronouns/relationships:** none known.
+  - **Pages:** Pages/cains_jawbone_page_76.md
+  - **Notes:** Track whether “Green” is an in-world person vs a coded epithet/wordplay.
+
+- `P73` — Names/aliases: Lord Pentarry
+  - **Tells:** recalled as a brutal exemplar (“Tools must be tooled…”; billhook wiped “over the welter” of a slain lieutenant).
+  - **Pronouns/relationships:** has a “minion” (unnamed).
+  - **Pages:** Pages/cains_jawbone_page_76.md
+  - **Notes:** Unclear if in-world or a literary example; treat as provisional until sourced.
+
+- `P74` — Names/aliases: Sandy
+  - **Tells:** friend in an animal POV passage; anticipates being allowed to retrieve Lagopus scoticus again.
+  - **Pronouns/relationships:** companion/friend of an animal narrator.
+  - **Pages:** Pages/cains_jawbone_page_79.md
+  - **Notes:** Likely a dog; keep separate from other Sandy references unless anchored.
