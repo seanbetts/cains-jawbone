@@ -2,3 +2,28 @@ The victim, for that I must now reluctantly call him, blocked all the sweet air 
 
 ## Notes
 
+- **Entities:**
+  - CERTAIN: unnamed victim (“The victim… blocked… the window”).
+  - CERTAIN: narrator (physically throws victim outward).
+- **Death/violence cues:**
+  - CERTAIN: victim is heaved out of a window (“heaved outward with all my strength”).
+  - LIKELY: drowning/death is intended (“Go find the bottom!”; “with any luck, was dead”).
+- **Means/method:**
+  - LIKELY: drowning after being thrown from a window above water.
+  - MAYBE: staging/neatening (“pulled up his socks for him” before the push).
+- **Quotes & allusions:**
+  - CERTAIN: “a babbled o’ green fields” (Shakespeare, *Henry V*; Falstaff death reported by Mistress Quickly).
+  - MAYBE: “Band, Speckled” (Conan Doyle, *The Adventure of the Speckled Band*).
+  - MAYBE: “Death’s to fear from flame or steel… but from water—feel” (source TBD).
+- **Motifs/continuity hooks:**
+  - Misheard last words (“Quails… Arty… Fakes… Band, Speckled”) as a possible cipher/anagram/homophone clue.
+  - Window/air/light imagery (“window was no more dark”).
+- **Voice/tells:**
+  - Black humour + self-exculpation (“thank goodness, I was no detective”).
+- **Ordering hypotheses:**
+  - MAYBE: pairs with Pages/cains_jawbone_page_76.md and Pages/cains_jawbone_page_77.md (same murder-rationalising narrator register; multiple killings).
+- **Disconfirming evidence:**
+  - If the victim survives (later pages) or the scene is revealed as metaphorical/storytelling.
+- **Research needed:**
+  - Identify the “Death’s to fear…” lines.
+  - Decode/identify “Quails and Arty and Fakes… Band, Speckled.”

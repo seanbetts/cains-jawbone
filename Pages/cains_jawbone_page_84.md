@@ -2,3 +2,27 @@ I wish she would tell me more. I wish she would give me some hint as to why the 
 
 ## Notes
 
+- **Entities:**
+  - CERTAIN: “she” (unnamed; “wild gold waspish eyes”).
+  - CERTAIN: “the deceased” (unnamed; arranged acquaintance; context suggests in-world death).
+  - CERTAIN: Alistair (takes the Dagenham bus to mother’s oast-house).
+  - CERTAIN: Barbara (young; in a yellow-jasmine one-piece; waves a towel).
+  - MAYBE: “the other” (someone who might “lean across and [say] what the blind sailor said”).
+- **Places:**
+  - CERTAIN: Dagenham (bus reference).
+  - MAYBE: converted oast-house (mother’s home; location unspecified).
+- **Time markers:**
+  - CERTAIN: “to-day” (someone’s arm “off… to-day”; likely a calendar anchor).
+  - LIKELY: morning drinking implied (“Auroral imbibitious”).
+- **Motifs/continuity hooks:**
+  - Death-driven introduction (“why the deceased wished us to know each other”).
+  - Bathing/leisure imagery (one-piece; towel).
+  - Fate framing (Kismet) + amputation reference.
+- **Voice/tells:**
+  - Rapturous description of Barbara; anxious curiosity about the deceased’s motive.
+- **Disconfirming evidence:**
+  - If “deceased” is metaphorical (e.g., a dead author) rather than in-world person.
+- **Research needed:**
+  - Identify the “blind sailor” quote being referenced.
+  - Identify whose arm went off “to-day” and whether it encodes a date.
+  - Identify what “Kismet” is pointing to in this context (play/film/allusion vs pure fate word).
