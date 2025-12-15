@@ -2,3 +2,18 @@ So far the mind had been ambling, if I may dare the expression ; moving forward 
 
 ## Notes
 
+- **Entities:**
+  - CERTAIN: Sir Paul Trinder.
+  - MAYBE: narrator/interviewer (same as Page 52).
+- **Motifs/continuity hooks:**
+  - Interview dynamics: “introduced to me”; target is “in drink” and useful for narrator’s purpose.
+  - Public persona: “furor loquendi” and fad-cause attachment “for twenty years”.
+  - Academia satire: “chartered lecturer” at “obscure… stools of learning”.
+- **Voice/tells:**
+  - Contemptuous, ornate metaphor (“white bear” beard; “well-fed swine”).
+- **Ordering hypotheses:**
+  - LIKELY: belongs to the interview sequence foreshadowed on Pages/cains_jawbone_page_52.md.
+- **Disconfirming evidence:**
+  - If Page 52’s “man who entered” is clearly someone else (different age/role) and no interview continuity appears.
+- **Research needed:**
+  - Determine whether Sir Paul Trinder is a real public figure reference or an in-world satirical character.

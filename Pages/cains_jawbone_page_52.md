@@ -2,3 +2,21 @@ The cardinal was acquitted to-day of all complicity in the affair of the Queen�
 
 ## Notes
 
+- **Entities:**
+  - MAYBE: “the cardinal” (likely Cardinal de Rohan; diamond necklace affair reference).
+  - MAYBE: interviewee (“man who entered”; young; papers).
+- **Time markers:**
+  - CERTAIN: “to-day” tied to the cardinal’s acquittal (potential date anchor).
+- **Motifs/continuity hooks:**
+  - Crime/innocence reflection (“quicksands of crime”).
+  - Interview setting: door opens/shuts; “papers”; narrator supplies coffee + sandwiches.
+  - Food tells: Westphalian ham; cucumber sandwiches (extravagance noted).
+  - Meta-structure hint: “words before my eyes… commentary… page after page” (suggests a run of interview-pages).
+- **Voice/tells:**
+  - Moralising, self-analytical; anticipates irony/commentary while questioning someone.
+- **Ordering hypotheses:**
+  - MAYBE: immediately precedes another “introduced to me” interview page (Pages/cains_jawbone_page_53.md).
+- **Disconfirming evidence:**
+  - If later pages clearly show unrelated settings/narrators (no sustained interview context).
+- **Research needed:**
+  - Confirm the exact date of the cardinal’s acquittal in the Diamond Necklace affair and whether it’s used as a calendar key.

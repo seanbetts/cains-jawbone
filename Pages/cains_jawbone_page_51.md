@@ -2,3 +2,22 @@ As I was not staying, but only passing through, I raised my hat to the eleven th
 
 ## Notes
 
+- **Entities:**
+  - MAYBE: “the eleven that played All England for a thousand guineas” (cricket reference; identity TBD).
+  - MAYBE: narrator’s “favourite author” = Whitman (strongly implied by quotations).
+- **Motifs/continuity hooks:**
+  - Physical state: counting “ninety” between heartbeats; resolves to “go slow”.
+  - Movement/travel: “not staying… passing through”.
+  - Modernity image: heartbeat “purple smoke from an exhaust”.
+- **Quotes & allusions:**
+  - CERTAIN: multiple Walt Whitman lines (e.g., “I dance with the dancers and drink with the drinkers…”).
+  - MAYBE: “lovely and soothing… cool-enfolding… a dark mother… vast and well-veil’d” (Whitman description of an unnamed “him”; likely a personified thing such as sea/night).
+- **Voice/tells:**
+  - Whitman-heavy quotation density; bodily self-monitoring.
+- **Ordering hypotheses:**
+  - MAYBE: clusters with other Whitman-quoting page(s) (Pages/cains_jawbone_page_32.md).
+- **Disconfirming evidence:**
+  - If the Whitman snippets are shown to be coincidental and the surrounding narrative voice differs strongly from Page 32.
+- **Research needed:**
+  - Identify the cricket “eleven… thousand guineas… twenty-nine times in ten years” reference.
+  - Identify what Whitman text is being blended here and what the described “him” refers to.

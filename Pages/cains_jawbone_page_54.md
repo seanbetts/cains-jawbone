@@ -2,3 +2,26 @@ I was feeling about as good as man could feel that day. Everything horticultural
 
 ## Notes
 
+- **Entities:**
+  - CERTAIN: Miss Doncaster (letter-writer).
+  - MAYBE: “old man” (coming “to-day”; on her advice).
+- **Time markers:**
+  - CERTAIN: “before breakfast”; “to-day”.
+  - LIKELY: “meeting at La Belle Alliance” implies Waterloo day (date confirmation needed).
+- **Places:**
+  - CERTAIN: La Belle Alliance (Waterloo reference point).
+- **Motifs/continuity hooks:**
+  - Plant/poison work: “everything horticultural… lovely”; “Green blood… conserve”.
+  - Preparation/poisoning: “pestle a poisoned poison behind his crimson lights” (eyes?).
+  - Smoking: “lit a Nestor”.
+  - Scansion habit: “It would have to be scanned.”
+- **Voice/tells:**
+  - Horticultural precision + moral irony; plans violence with literary/metrical framing.
+- **Ordering hypotheses:**
+  - CERTAIN: strengthens plant/poison thread pages.
+- **Disconfirming evidence:**
+  - If “poisoned poison” and “crimson lights” resolve to non-lethal horticulture/wordplay with no victim.
+- **Research needed:**
+  - Identify the “pestle a poisoned poison…” line source (if quoted).
+  - Confirm the Waterloo/La Belle Alliance date-anchor use.
+  - Identify Nestor (cigarette brand) details if it recurs as a tell.
