@@ -5,3 +5,29 @@ Next day I saw that my suspicions of Caroline had been well-founded. This was an
 
 ## Notes
 
+- **Entities:**
+  - CERTAIN: Caroline (suspicions “well-founded”).
+  - MAYBE: “he” (shares the house; reacts to jasmine/roses; “throve on my roses”).
+  - CERTAIN: Gianaclis (cigarettes brand).
+  - CERTAIN: Giulio de Medici (Pope Clement VII) (reference).
+  - CERTAIN: Aunt Cynthia.
+  - CERTAIN: Ahkoond of Swat (reference).
+- **Time markers:**
+  - CERTAIN: “Next day…”
+- **Quotes & allusions:**
+  - CERTAIN: “the quality of mercy” (Shakespeare, Merchant of Venice).
+  - MAYBE: name clue: “fourteen popes and two anti-popes” strongly points to the name Clement.
+- **Motifs/continuity hooks:**
+  - Flowers/plants: wild jasmine, roses, hellebore.
+  - Smoking; self-reproach.
+- **Voice/tells:**
+  - Gardener/plant-person voice; moral hardness (“quality of mercy… little exerted”).
+- **Ordering hypotheses:**
+  - LIKELY: connects to “Clement” thread (Pages/cains_jawbone_page_3.md) via the pope-name clue.
+  - MAYBE: jasmine motif link to Pages/cains_jawbone_page_22.md (cat Jasmine) and Pages/cains_jawbone_page_10.md (Jasmine’s day).
+  - MAYBE: poison/plant cluster with Pages/cains_jawbone_page_6.md and Pages/cains_jawbone_page_21.md.
+- **Disconfirming evidence:**
+  - If later text explicitly gives a different narrator name (not Clement) or shows the pope-count is a red herring.
+- **Research needed:**
+  - Confirm the “Clement” pope/antipope count usage as intentional name clue.
+  - Identify the Ahkoond of Swat reference source and whether it links elsewhere.

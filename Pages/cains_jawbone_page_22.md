@@ -2,3 +2,25 @@ He always talked to me about murder, when we were alone together. And that day h
 
 ## Notes
 
+- **Entities:**
+  - MAYBE: “he” (talks about murder; wears “funny clothes”; returns with Flora).
+  - MAYBE: John and Cornelius “the Dort people” (likely the De Witt brothers reference).
+  - CERTAIN: Jasmine (a cat).
+  - CERTAIN: Tusitala (name; could be Stevenson allusion or a pet with that name).
+  - CERTAIN: Flora (object of narrator’s mating/banishment story).
+- **Time markers:**
+  - CERTAIN: “that day” = “birthday of a good one in prison” (date anchor candidate).
+  - CERTAIN: “quite late when he came back…”
+- **Motifs/continuity hooks:**
+  - Animal-coded narration: “lowered myself” / tail “vibration” absent → likely dog POV.
+  - Jealousy/banishment; house dynamics; murder-talk fixation.
+- **Voice/tells:**
+  - Strong dog POV (tail-vibration cue, mating behaviour, “slept” banished).
+- **Ordering hypotheses:**
+  - LIKELY: dog‑narrator cluster with Pages/cains_jawbone_page_8.md and Pages/cains_jawbone_page_19.md (animal reactions/ears/low noise).
+  - MAYBE: jasmine motif echo with Pages/cains_jawbone_page_24.md (wild jasmine).
+- **Disconfirming evidence:**
+  - If later pages show human POV here (tail “vibration” is a metaphor) or Flora/Jasmine are people.
+- **Research needed:**
+  - Confirm the Dort reference and which “good one in prison” birthday/date is intended.
+  - Clarify whether Tusitala is an allusion (Stevenson) or a named pet/visitor.

@@ -2,3 +2,27 @@ To reckon with Henry! That was never easy. Just beyond the laurels, I turned sha
 
 ## Notes
 
+- **Entities:**
+  - CERTAIN: Henry (caught “bending over the body of his latest victim”).
+  - CERTAIN: Calabar Bean (poison/plant term used as “rough old friend”).
+  - CERTAIN: digitalis purpurea (foxglove; tested/“proved”).
+  - CERTAIN: Ponce de Leon (Fountain of Youth allusion).
+- **Time markers:**
+  - CERTAIN: “on the very day” narrator “proved digitalis purpurea”.
+- **Quotes & allusions:**
+  - MAYBE: “Far, far from here the Adriatic breaks…” (source TBD).
+  - Wordplay: “Matthew, Mark, Luke, and John. Read Mark Twain…”
+- **Motifs/continuity hooks:**
+  - Poisons/heart agents: digitalis + calabar bean.
+  - Blood/victim language around Henry.
+  - Immortality/fountain-of-youth framing (“deathless”).
+- **Voice/tells:**
+  - Botanical/pharmacological diction; clinical aside about “the profession prescribe it”.
+- **Ordering hypotheses:**
+  - LIKELY: poison/gardening thread with Pages/cains_jawbone_page_6.md (foxgloves/digitalis) and other pill/substance pages (Pages/cains_jawbone_page_3.md).
+  - MAYBE: Henry-as-killer thread (compare Henry scenes on Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_14.md).
+- **Disconfirming evidence:**
+  - If “victim” is later clearly metaphorical (surgical patient, etc.) rather than murder.
+- **Research needed:**
+  - What does “proved digitalis purpurea… a signal wash out” mean in this context (experiment/medical test)?
+  - Identify the Adriatic/Illyrian line source.
