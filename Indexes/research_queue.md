@@ -390,3 +390,59 @@ Template:
   - **Why it matters:** Could anchor a specific author (“James”) and provide strong clustering evidence.
   - **Status:** `open`
   - **Result:**
+
+- **Item:** Confirm which “Gainsborough” is meant by “gone out to-day” and what date it implies
+  - **Type:** date/name
+  - **Pages:** Pages/cains_jawbone_page_32.md
+  - **Why it matters:** Potential explicit calendar anchor for ordering.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify the Wodehouse “drooping like a wet sock” Earl quote (and which Earl/scene)
+  - **Type:** quote
+  - **Pages:** Pages/cains_jawbone_page_32.md
+  - **Why it matters:** Could pin the narrator’s reading source and link pages using the same passage.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify Chesterton’s “hemp at both ends” line and what “it” refers to
+  - **Type:** quote/other
+  - **Pages:** Pages/cains_jawbone_page_32.md
+  - **Why it matters:** Might clarify narrator’s “job” implication (hanging/rope/murder).
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify the quoted letter on Page 33 (“I had yours but yesterday… dated the third of February… departed spirits…”) and what “dead the same day” refers to
+  - **Type:** quote/date/other
+  - **Pages:** Pages/cains_jawbone_page_33.md
+  - **Why it matters:** Could be a strong source/date anchor and link to other letter/“alive but dead” motifs.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** What are the “little bits of stuff like black pineapple” on Page 33?
+  - **Type:** term/other
+  - **Pages:** Pages/cains_jawbone_page_33.md
+  - **Why it matters:** Might identify tobacco/food clue tied to Gourdoulis and the debt label.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Interpret Page 31’s “Caseus, ah!” / “nomenclature business” (Cassius pun?) and the “rill and corncrake” sound duet
+  - **Type:** quote/other
+  - **Pages:** Pages/cains_jawbone_page_31.md
+  - **Why it matters:** Might encode a specific source or identify a mechanical/vehicle scene.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify the “awful night in Paris” reference on Page 31 (if it corresponds to a known event/source)
+  - **Type:** other
+  - **Pages:** Pages/cains_jawbone_page_31.md
+  - **Why it matters:** Could be a repeatable historical anchor for ordering.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify Wellington Crisp and the “alas, poor Richard! Alas, poor Thomas!” allusion in the Henry manhunt scene
+  - **Type:** name/quote/other
+  - **Pages:** Pages/cains_jawbone_page_35.md
+  - **Why it matters:** Might reveal a specific source text being pastiched (and anchor character identity).
+  - **Status:** `open`
+  - **Result:**

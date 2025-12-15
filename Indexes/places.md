@@ -179,3 +179,9 @@ Template:
   - **Confidence:** `CERTAIN`
   - **Pages:** Pages/cains_jawbone_page_30.md
   - **Notes:** Recalled while eating “American mess”; likely associative rather than local setting.
+
+- **Paris**
+  - **Type:** city
+  - **Confidence:** `CERTAIN`
+  - **Pages:** Pages/cains_jawbone_page_31.md
+  - **Notes:** Recalled as an “awful night” listening for a particular sound.

@@ -180,3 +180,24 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_30.md
   - **Confidence:** `MAYBE`
   - **Research needed:** yes — identify source and what “James” refers to.
+
+- **Snippet:** “Henceforth I ask not good fortune, I myself am good fortune…”
+  - **Likely source/author:** Walt Whitman (Song of the Open Road)
+  - **Why it matters:** Strong author/voice anchor; narrator explicitly discusses whether it “scans”.
+  - **Pages:** Pages/cains_jawbone_page_32.md
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
+
+- **Snippet:** “I had yours but yesterday… though dated the third of February…”
+  - **Likely source/author:** TBD (letter)
+  - **Why it matters:** Anchors a letter-with-death framing; could identify a writer and date chain.
+  - **Pages:** Pages/cains_jawbone_page_33.md
+  - **Confidence:** `MAYBE`
+  - **Research needed:** yes — identify letter source and what “dead the same day” refers to.
+
+- **Snippet:** “alas, poor Richard! Alas, poor Thomas!”
+  - **Likely source/author:** TBD
+  - **Why it matters:** Regicide/king-killing allusion embedded in a Henry manhunt scene; could identify a source text.
+  - **Pages:** Pages/cains_jawbone_page_35.md
+  - **Confidence:** `MAYBE`
+  - **Research needed:** yes — identify source/context.

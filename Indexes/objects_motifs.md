@@ -52,9 +52,9 @@ Template:
   - **Notes:** Candidate poison method; watch for illness/heart symptoms elsewhere.
 
 - **Cigarettes (Egyptian)**
-  - **Instances / variants:** bet stake: “a hundred Egyptian cigarettes—Gourdoulis”
-  - **Pages:** Pages/cains_jawbone_page_10.md
-  - **Notes:** Product/brand clue; may recur with other tobacco references.
+  - **Instances / variants:** bet stake: “a hundred Egyptian cigarettes—Gourdoulis”; box of Gourdoulis labelled “I always pay my debts”
+  - **Pages:** Pages/cains_jawbone_page_10.md, Pages/cains_jawbone_page_33.md
+  - **Notes:** Product/brand clue; links cigarettes to debt/bill language.
 
 - **Optics / “powerful glass”**
   - **Instances / variants:** “powerful glass” + measurement obsession
@@ -210,3 +210,28 @@ Template:
   - **Instances / variants:** “American mess” eaten at table; “wolf three-quarters”
   - **Pages:** Pages/cains_jawbone_page_30.md
   - **Notes:** Potential regional dish clue; narrator associates it with Quebec.
+
+- **Debts / bills / pay-offs**
+  - **Instances / variants:** “I always pay my debts”; “Bills should always be met squarely”; hints at “perpetual reward for valuable services”
+  - **Pages:** Pages/cains_jawbone_page_33.md, Pages/cains_jawbone_page_34.md
+  - **Notes:** Could connect to will/forgery motifs or a blackmail thread.
+
+- **Letters (death-status ambiguity)**
+  - **Instances / variants:** quoted letter dated “third of February” discussing being “dead and buried” yet “still alive”
+  - **Pages:** Pages/cains_jawbone_page_33.md
+  - **Notes:** Strong continuity hook if letter source recurs.
+
+- **Police pursuit / hidden passages**
+  - **Instances / variants:** flying squad surrounds house; underground passage; concealed bathroom panel; bulldog pursuer; escape by “limping blimp”
+  - **Pages:** Pages/cains_jawbone_page_35.md
+  - **Notes:** Genre-pastiche scene; track if this chase continues or is embedded story.
+
+- **Scansion / “does it scan?”**
+  - **Instances / variants:** narrator tests whether a quoted passage “would be scanned” (then notes it wouldn’t)
+  - **Pages:** Pages/cains_jawbone_page_32.md
+  - **Notes:** Possible narrator-profession tell (poet/teacher/editor).
+
+- **Engine/noise duet (“rill and corncrake”)**
+  - **Instances / variants:** “rill” + “corncrake” duet; “pleasure of speeding” vs warning creak
+  - **Pages:** Pages/cains_jawbone_page_31.md
+  - **Notes:** Could describe vehicle/flight sounds; watch for recurrence with Paris reference.

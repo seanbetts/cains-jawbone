@@ -13,9 +13,9 @@ Template:
 ## Entries
 
 - `P01` — Names/aliases: Henry
-  - **Tells:** LIKELY actor (played Lesurques); LIKELY serial “intended” (has an “intended fifth”); associated with (possibly toxic) “Emperor’s Peg” at a ruined lighthouse; has a “great voice” linked to a “capstan bar”; appears as a subordinate who stoops/cleans and handles bodies; object of romance (“ready to love”); described as having multiple “killings” and a “latest victim” with blood present.
+  - **Tells:** LIKELY actor (played Lesurques); LIKELY serial “intended” (has an “intended fifth”); associated with (possibly toxic) “Emperor’s Peg” at a ruined lighthouse; has a “great voice” linked to a “capstan bar”; appears as a subordinate who stoops/cleans and handles bodies; object of romance (“ready to love”); described as having multiple “killings” and a “latest victim” with blood present; later pursued by police (“flying squad”).
   - **Pronouns/relationships:** described as “the angel”; sometimes an absent advisor; sometimes an assistant obeying signals.
-  - **Pages:** Pages/cains_jawbone_page_2.md, Pages/cains_jawbone_page_4.md, Pages/cains_jawbone_page_5.md, Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_16.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_26.md
+  - **Pages:** Pages/cains_jawbone_page_2.md, Pages/cains_jawbone_page_4.md, Pages/cains_jawbone_page_5.md, Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_16.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_26.md, Pages/cains_jawbone_page_31.md, Pages/cains_jawbone_page_32.md, Pages/cains_jawbone_page_35.md
   - **Notes:** MAYBE multiple different “Henrys” across the book; do not merge/split without stronger anchors (surname, role, setting continuity).
 
 - `P02` — Names/aliases: Casy Ferris
@@ -27,7 +27,7 @@ Template:
 - `P03` — Names/aliases: Clement
   - **Tells:** aliases: Clem; precise distance figure (“17,600 yards”); involved with “assassin’s wonderful substance”; strongly associated with “Clement” pope-name clue (14 popes + 2 anti-popes) and Giulio de Medici (Clement VII) reference; roses/jasmine + Gianaclis smoking context; recalled as a quiet, capable child (hushed narrator’s “brat” at age six).
   - **Pronouns/relationships:** met “yesterday” by narrator on Page 3.
-  - **Pages:** Pages/cains_jawbone_page_3.md, Pages/cains_jawbone_page_24.md, Pages/cains_jawbone_page_27.md
+  - **Pages:** Pages/cains_jawbone_page_3.md, Pages/cains_jawbone_page_24.md, Pages/cains_jawbone_page_27.md, Pages/cains_jawbone_page_32.md
   - **Notes:** LIKELY the narrator of Page 24 is named Clement (pope-name clue); Page 22’s “clement to me” may be pun/overlap but is not proof.
 
 - `P04` — Names/aliases: Sir Roland Mowthalorn
@@ -239,3 +239,9 @@ Template:
   - **Pronouns/relationships:** none known.
   - **Pages:** Pages/cains_jawbone_page_30.md
   - **Notes:** Likely minor unless identified later.
+
+- `P39` — Names/aliases: Wellington Crisp
+  - **Tells:** part of the Henry pursuit; arrives “with his assistant and his bulldog” through a concealed panel.
+  - **Pronouns/relationships:** has an assistant; has a bulldog.
+  - **Pages:** Pages/cains_jawbone_page_35.md
+  - **Notes:** MAYBE fictional detective/pastiche; track if he reappears.
