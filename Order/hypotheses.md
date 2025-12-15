@@ -13,10 +13,22 @@ Template:
   - **Disconfirming evidence:** (what would falsify this cluster)  
 
 - **Cluster:** Henry name occurrences (confidence: `MAYBE`)
-  - **Pages:** Pages/cains_jawbone_page_2.md, Pages/cains_jawbone_page_4.md, Pages/cains_jawbone_page_5.md, Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_16.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_26.md, Pages/cains_jawbone_page_31.md, Pages/cains_jawbone_page_32.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_41.md, Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_44.md, Pages/cains_jawbone_page_45.md, Pages/cains_jawbone_page_47.md, Pages/cains_jawbone_page_49.md, Pages/cains_jawbone_page_58.md, Pages/cains_jawbone_page_60.md
+  - **Pages:** Pages/cains_jawbone_page_2.md, Pages/cains_jawbone_page_4.md, Pages/cains_jawbone_page_5.md, Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_16.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_26.md, Pages/cains_jawbone_page_31.md, Pages/cains_jawbone_page_32.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_41.md, Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_44.md, Pages/cains_jawbone_page_45.md, Pages/cains_jawbone_page_47.md, Pages/cains_jawbone_page_49.md, Pages/cains_jawbone_page_58.md, Pages/cains_jawbone_page_60.md, Pages/cains_jawbone_page_63.md
   - **Rationale:** “Henry” appears across multiple scenes with shifting roles; may be one person or multiple people sharing the name.
   - **Key anchors:** “Lesurques” (Courier of Lyons?) role reference; ruined lighthouse + “Emperor’s Peg”; capstan-bar / dog-watch nautical register; Henry stooping/cleaning and handling bodies; Page 21’s “latest victim” + blood; Page 26’s “first two killings” + companion/rector’s aunt; Page 35’s police manhunt; Page 36’s buried corpse detail + “made up”; Pages 41–45 marriage/murder framing (certificate/corpse); Pages 47/49 attraction + “doomed to destroy… for family reasons”; Page 58’s “third/fourth” victims; Page 60’s “peerless investigator” role.
   - **Disconfirming evidence:** later pages give different surnames/biographical details for each “Henry”, or show mutually exclusive locations/timelines.
+
+- **Cluster:** Great Lexicographer voice (confidence: `MAYBE`)
+  - **Pages:** Pages/cains_jawbone_page_61.md, Pages/cains_jawbone_page_64.md
+  - **Rationale:** Both pages use the distinctive “Great Lexicographer” anchor and similar learned, punning diction; fealty/reading-aloud framing suggests a consistent narrator segment.
+  - **Key anchors:** “Great Lexicographer”; Ockham’s razor joke; McLeod of that ilk; Bellerophon letters / bait/hook metaphor.
+  - **Disconfirming evidence:** later pages show different narrators/settings using “Great Lexicographer” independently, or the McLeod/Johnson linkage is disproved.
+
+- **Cluster:** Sundaes + named sweets (confidence: `MAYBE`)
+  - **Pages:** Pages/cains_jawbone_page_43.md, Pages/cains_jawbone_page_60.md, Pages/cains_jawbone_page_63.md
+  - **Rationale:** Repeated named desserts and talk of sundaes (“Lover’s Delight”, Banana Split, “Rainbow”, Lent rule) suggests venue/menu continuity or a narrator fixation.
+  - **Key anchors:** “Lover’s Delight” sundae; Banana Split; “Rainbow”; Lent constraint on sundaes; recurring “Henry” mention in the same cluster.
+  - **Disconfirming evidence:** later context shows these are isolated jokes with no shared setting/characters.
 
 - **Cluster:** Coastal imagery (confidence: `MAYBE`)
   - **Pages:** Pages/cains_jawbone_page_1.md, Pages/cains_jawbone_page_4.md, Pages/cains_jawbone_page_5.md
