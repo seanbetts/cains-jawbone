@@ -537,3 +537,45 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_94.md
   - **Confidence:** `MAYBE`
   - **Research needed:** yes — confirm wording/source.
+
+- **Snippet:** “It gars me grue”
+  - **Likely source/author:** Scots phrase (confirm; possible Burns/Scott usage)
+  - **Why it matters:** Distinct dialect marker; may cluster narrator voice or point to a specific source text.
+  - **Pages:** Pages/cains_jawbone_page_96.md
+  - **Confidence:** `MAYBE`
+  - **Research needed:** yes — confirm source/usage.
+
+- **Snippet:** “Ellen Brine of Allenburn would never mwore return.”
+  - **Likely source/author:** TBD
+  - **Why it matters:** Looks like a precise quotation (dialect spelling); may anchor a specific novel/poem and help cluster this narrator segment.
+  - **Pages:** Pages/cains_jawbone_page_97.md
+  - **Confidence:** `MAYBE`
+  - **Research needed:** yes — identify source/context.
+
+- **Snippet:** “Oeuvre ton ame et ton oreille au son de ma mandoline…”
+  - **Likely source/author:** TBD (French song/poem)
+  - **Why it matters:** Strong language-anchored allusion; may identify narrator reading set or supply ordering constraints once sourced.
+  - **Pages:** Pages/cains_jawbone_page_97.md
+  - **Confidence:** `MAYBE`
+  - **Research needed:** yes — identify source/context.
+
+- **Snippet:** “a consummation devoutly to be wished”
+  - **Likely source/author:** Shakespeare, *Hamlet*
+  - **Why it matters:** Hamlet anchor in a page about doctors/money and wanting someone “finally gone”.
+  - **Pages:** Pages/cains_jawbone_page_98.md
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
+
+- **Snippet:** “Here I shake off the bur o’ the world, man’s congregation shun.”
+  - **Likely source/author:** TBD
+  - **Why it matters:** Quoted in a collapse/death scene; likely an identity or voice anchor once sourced.
+  - **Pages:** Pages/cains_jawbone_page_100.md
+  - **Confidence:** `MAYBE`
+  - **Research needed:** yes — identify source/context.
+
+- **Snippet:** “You know not how ill’s all here, about my heart; but I know.”
+  - **Likely source/author:** TBD
+  - **Why it matters:** Another quoted fragment in the final collapse scene; may link to other repetitions.
+  - **Pages:** Pages/cains_jawbone_page_100.md
+  - **Confidence:** `MAYBE`
+  - **Research needed:** yes — identify source/context.

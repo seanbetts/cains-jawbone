@@ -449,3 +449,51 @@ Template:
   - **Confidence:** `CERTAIN`
   - **Pages:** Pages/cains_jawbone_page_95.md
   - **Notes:** Explicit destination for the narrator’s “hops”; London venue anchor.
+
+- **Scotland Yard**
+  - **Type:** police institution/place
+  - **Confidence:** `CERTAIN`
+  - **Pages:** Pages/cains_jawbone_page_100.md
+  - **Notes:** Invoked explicitly; likely ties into detective/law enforcement clustering.
+
+- **Potsdam**
+  - **Type:** city
+  - **Confidence:** `CERTAIN`
+  - **Pages:** Pages/cains_jawbone_page_99.md
+  - **Notes:** Used as “closing day in Potsdam” (likely an allusive date/event anchor rather than literal travel).
+
+- **Dorset**
+  - **Type:** county/region
+  - **Confidence:** `MAYBE`
+  - **Pages:** Pages/cains_jawbone_page_97.md
+  - **Notes:** Mentioned as a negation (“I was not in Dorset”); may be purely literary allusion.
+
+- **Somerset**
+  - **Type:** county/region
+  - **Confidence:** `MAYBE`
+  - **Pages:** Pages/cains_jawbone_page_96.md
+  - **Notes:** “Turning a Somerset” may be a somersault/“somerset” pun rather than location; treat cautiously.
+
+- **Jifjaffa (unidentified)**
+  - **Type:** place (uncertain)
+  - **Confidence:** `MAYBE`
+  - **Pages:** Pages/cains_jawbone_page_96.md
+  - **Notes:** Sounds like Jaffa; could be a pun or transliteration.
+
+- **Quarry hills (unidentified)**
+  - **Type:** hills/landscape
+  - **Confidence:** `MAYBE`
+  - **Pages:** Pages/cains_jawbone_page_98.md
+  - **Notes:** Sunset described “above the Quarry hills”; may anchor a local landscape if matched elsewhere.
+
+- **Woolworth’s (storefront; unspecified)**
+  - **Type:** shop/landmark
+  - **Confidence:** `MAYBE`
+  - **Pages:** Pages/cains_jawbone_page_100.md
+  - **Notes:** Used as a routing landmark (“slips down past Woolworth’s”); could help identify the town if paired with “Kursal”.
+
+- **Kursal (Kursaal; unidentified)**
+  - **Type:** venue/building (uncertain)
+  - **Confidence:** `MAYBE`
+  - **Pages:** Pages/cains_jawbone_page_100.md
+  - **Notes:** Likely “Kursaal” (entertainment hall); identify which one to anchor the route with Woolworth’s.

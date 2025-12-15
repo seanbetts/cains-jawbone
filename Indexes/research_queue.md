@@ -1209,3 +1209,73 @@ Template:
   - **Why it matters:** Could anchor the setting and constrain time/route; may connect to other Café/club pages.
   - **Status:** `open`
   - **Result:**
+
+- **Item:** Identify “Golden Tips / Tippy Tea / No Tips” and the menu items “Loganberry Kiss” + “Plover’s Lunch” (Page 96)
+  - **Type:** other
+  - **Pages:** Pages/cains_jawbone_page_96.md
+  - **Why it matters:** May identify a specific venue/menu set and help cluster this narrator’s scene.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify “Jifjaffa” and what “turning a Somerset in front of the altar” encodes (Page 96)
+  - **Type:** place/term
+  - **Pages:** Pages/cains_jawbone_page_96.md
+  - **Why it matters:** Could be a strong place clue (Jaffa?) or a pun; the “Somerset” phrase may resolve to an action vs a location.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify the French mandoline lyric (“Oeuvre ton ame… ma mandoline…”) (Page 97)
+  - **Type:** quote
+  - **Pages:** Pages/cains_jawbone_page_97.md
+  - **Why it matters:** Strong language-anchored quotation that may identify narrator reading set or supply ordering constraints.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify “Ellen Brine of Allenburn would never mwore return” (Page 97)
+  - **Type:** quote
+  - **Pages:** Pages/cains_jawbone_page_97.md
+  - **Why it matters:** Dialect quotation (possibly Dorset-related) may anchor a specific source and narrator segment.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Interpret “despatch of Paris and Leonidas” + Cambridge/Thermopylae contrast (Page 97)
+  - **Type:** date/other
+  - **Pages:** Pages/cains_jawbone_page_97.md
+  - **Why it matters:** Could encode a historical date or set of anniversaries used for ordering.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify “sedulous ape” / “Simple faith or Norman bluff” / “Douglas” references (Page 98)
+  - **Type:** quote/other
+  - **Pages:** Pages/cains_jawbone_page_98.md
+  - **Why it matters:** May clarify whether the page is about a doctor/patient, a hire, or an allusive passage; could also cluster narrator voice.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify the “Quarry hills” setting (Page 98)
+  - **Type:** place
+  - **Pages:** Pages/cains_jawbone_page_98.md
+  - **Why it matters:** Landscape anchor (sunset “above the Quarry hills”) may pin a location cluster if matched elsewhere.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify the eye-description passage, “Father Fred”, and “closing day in Potsdam” (Page 99)
+  - **Type:** quote/date/other
+  - **Pages:** Pages/cains_jawbone_page_99.md
+  - **Why it matters:** Might be a precise-source quotation and/or date anchor; also appears in a page with an explicit killing admission.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify the Kursal + Woolworth’s routing clue (Page 100)
+  - **Type:** place
+  - **Pages:** Pages/cains_jawbone_page_100.md
+  - **Why it matters:** Could identify a specific town/venue pairing and provide hard geographic ordering constraints.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify the two quoted lines in Page 100 (“bur o’ the world…”; “ill’s all here… about my heart”) (Page 100)
+  - **Type:** quote
+  - **Pages:** Pages/cains_jawbone_page_100.md
+  - **Why it matters:** Likely strong voice-identification anchors embedded in a climactic collapse scene.
+  - **Status:** `open`
+  - **Result:**

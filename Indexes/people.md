@@ -15,7 +15,7 @@ Template:
 - `P01` — Names/aliases: Henry
   - **Tells:** LIKELY actor (played Lesurques); LIKELY serial “intended” (has an “intended fifth”); associated with (possibly toxic) “Emperor’s Peg” at a ruined lighthouse; has a “great voice” linked to a “capstan bar”; appears as a subordinate who stoops/cleans and handles bodies; object of romance (“ready to love”); described as having multiple “killings” and a “latest victim” with blood present; later pursued by police (“flying squad”); linked to burying a corpse with “only the eyes” showing; also appears as a husband/guide in social scenes; linked to a half-burned marriage certificate; seen bending over a corpse of his own making; framed as “doomed to destroy… for family reasons”; explicit “third” (family lawyer) and “fourth” (chardlady) victims; described as an investigator (“peerless investigator”).
   - **Pronouns/relationships:** described as “the angel”; sometimes an absent advisor; sometimes an assistant obeying signals.
-  - **Pages:** Pages/cains_jawbone_page_2.md, Pages/cains_jawbone_page_4.md, Pages/cains_jawbone_page_5.md, Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_16.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_26.md, Pages/cains_jawbone_page_31.md, Pages/cains_jawbone_page_32.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_41.md, Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_44.md, Pages/cains_jawbone_page_45.md, Pages/cains_jawbone_page_47.md, Pages/cains_jawbone_page_49.md, Pages/cains_jawbone_page_58.md, Pages/cains_jawbone_page_60.md, Pages/cains_jawbone_page_63.md, Pages/cains_jawbone_page_68.md, Pages/cains_jawbone_page_71.md, Pages/cains_jawbone_page_76.md, Pages/cains_jawbone_page_77.md, Pages/cains_jawbone_page_78.md, Pages/cains_jawbone_page_80.md, Pages/cains_jawbone_page_82.md, Pages/cains_jawbone_page_83.md, Pages/cains_jawbone_page_85.md, Pages/cains_jawbone_page_86.md, Pages/cains_jawbone_page_87.md, Pages/cains_jawbone_page_91.md, Pages/cains_jawbone_page_92.md, Pages/cains_jawbone_page_94.md
+  - **Pages:** Pages/cains_jawbone_page_2.md, Pages/cains_jawbone_page_4.md, Pages/cains_jawbone_page_5.md, Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_16.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_26.md, Pages/cains_jawbone_page_31.md, Pages/cains_jawbone_page_32.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_41.md, Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_44.md, Pages/cains_jawbone_page_45.md, Pages/cains_jawbone_page_47.md, Pages/cains_jawbone_page_49.md, Pages/cains_jawbone_page_58.md, Pages/cains_jawbone_page_60.md, Pages/cains_jawbone_page_63.md, Pages/cains_jawbone_page_68.md, Pages/cains_jawbone_page_71.md, Pages/cains_jawbone_page_76.md, Pages/cains_jawbone_page_77.md, Pages/cains_jawbone_page_78.md, Pages/cains_jawbone_page_80.md, Pages/cains_jawbone_page_82.md, Pages/cains_jawbone_page_83.md, Pages/cains_jawbone_page_85.md, Pages/cains_jawbone_page_86.md, Pages/cains_jawbone_page_87.md, Pages/cains_jawbone_page_91.md, Pages/cains_jawbone_page_92.md, Pages/cains_jawbone_page_94.md, Pages/cains_jawbone_page_97.md, Pages/cains_jawbone_page_100.md
   - **Notes:** MAYBE multiple different “Henrys” across the book; do not merge/split without stronger anchors (surname, role, setting continuity).
 
 - `P02` — Names/aliases: Casy Ferris
@@ -93,8 +93,8 @@ Template:
 - `P14` — Names/aliases: Jasmine (female, uncertain)
   - **Tells:** associated with “Jasmine’s day” (said to be “too late” for it).
   - **Pronouns/relationships:** referenced as “she” in a bet context; not confirmed same as “Jasmine”.
-  - **Pages:** Pages/cains_jawbone_page_10.md
-  - **Notes:** MAYBE person vs day-name marker; keep provisional.
+  - **Pages:** Pages/cains_jawbone_page_10.md, Pages/cains_jawbone_page_99.md
+  - **Notes:** MAYBE person vs day-name marker; Page 99 uses “Jasmine” as a person-reference (do not merge with other Jasmine mentions without anchors).
 
 - `P15` — Names/aliases: Charles Victor Hugo Renard-Beinsky (uncertain)
   - **Tells:** rose “untimely” “for the sake of the investigating judge”.
@@ -105,7 +105,7 @@ Template:
 - `P16` — Names/aliases: May
   - **Tells:** addressed directly in will/inheritance talk (“leave everything to me?” / “do just as you think fit, May”).
   - **Pronouns/relationships:** “she” in overheard dialogue; companion (unnamed).
-  - **Pages:** Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_71.md, Pages/cains_jawbone_page_75.md, Pages/cains_jawbone_page_80.md
+  - **Pages:** Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_71.md, Pages/cains_jawbone_page_75.md, Pages/cains_jawbone_page_80.md, Pages/cains_jawbone_page_98.md, Pages/cains_jawbone_page_100.md
   - **Notes:** MAYBE linked to Page 12’s will/documents scene; Pages 71/75 may also be “May” as month/May-blossom rather than the person (treat cautiously).
 
 - `P17` — Names/aliases: Janetta Sheringham
@@ -533,3 +533,21 @@ Template:
   - **Pronouns/relationships:** none known.
   - **Pages:** Pages/cains_jawbone_page_95.md
   - **Notes:** Identity uncertain; could be a disguised reference (poet/cleric/personality) rather than an in-world character.
+
+- `P88` — Names/aliases: Catharine
+  - **Tells:** “turning a Somerset in front of the altar” (marriage/ceremony framing).
+  - **Pronouns/relationships:** none known.
+  - **Pages:** Pages/cains_jawbone_page_96.md
+  - **Notes:** Track for recurrence and whether “Somerset” is literal place vs a “somersault” pun.
+
+- `P89` — Names/aliases: Father Fred
+  - **Tells:** referenced as the owner of “most excellent… eyes” in a read-out passage; tied to “closing day in Potsdam”.
+  - **Pronouns/relationships:** “Father” title suggests clergy.
+  - **Pages:** Pages/cains_jawbone_page_99.md
+  - **Notes:** Identity unclear; could be an allusive nickname rather than an in-world priest.
+
+- `P90` — Names/aliases: gloating woman (unnamed; “beastly woman”)
+  - **Tells:** “mouth blood-tinted”; “lolls… gloating” over narrator; addressed as “wicked”/“beastly”.
+  - **Pronouns/relationships:** antagonist in narrator’s collapse scene.
+  - **Pages:** Pages/cains_jawbone_page_100.md
+  - **Notes:** Candidate antagonist/murderer figure; track for recurrence and naming.

@@ -27,8 +27,8 @@ Template:
   - **Notes:** Candidate poison/drug thread; connect when substance is identified.
 
 - **Buttonhole flowers**
-  - **Instances / variants:** “day’s buttonhole” bought behind church
-  - **Pages:** Pages/cains_jawbone_page_4.md
+  - **Instances / variants:** “day’s buttonhole” bought behind church; “buttonhole has escaped from the buttonholer”
+  - **Pages:** Pages/cains_jawbone_page_4.md, Pages/cains_jawbone_page_100.md
   - **Notes:** Could recur as a scene-setting motif.
 
 - **Emperor’s Peg (drink)**
@@ -187,9 +187,9 @@ Template:
   - **Notes:** Strong antiquarian location anchor; pair with River Mole mention.
 
 - **Strong tea + first pill**
-  - **Instances / variants:** “my strong tea, and my first pill”; “I took a pill… it was worth it”
-  - **Pages:** Pages/cains_jawbone_page_20.md, Pages/cains_jawbone_page_40.md
-  - **Notes:** Potential continuity with Page 3’s pill/poison narrator; unclear if the same substance.
+  - **Instances / variants:** “my strong tea, and my first pill”; “I took a pill… it was worth it”; “I took two pills”
+  - **Pages:** Pages/cains_jawbone_page_20.md, Pages/cains_jawbone_page_40.md, Pages/cains_jawbone_page_97.md
+  - **Notes:** Pill-taking recurs across narrators/scenes; MAYBE continuity with Page 3’s pill/poison narrator, but do not merge without stronger anchors (substance name/effects).
 
 - **Calabar bean**
   - **Instances / variants:** “Calabar Bean” invoked as “rough old friend”; “West African ordeal beans”; “physostigma”; “old Calabar… should fail me”
