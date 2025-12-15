@@ -2,3 +2,25 @@ It flashed through my mind that the place between Eros and the Queen’s Hall ha
 
 ## Notes
 
+- **Entities:**
+  - CERTAIN: “the girl” (recipient who will find something “franked” in the morning).
+  - MAYBE: “he” (target of narrator’s warning/knowledge; may retaliate; identity unclear).
+  - MAYBE: “he” with arthritic knee who talked of cabbage butterflies as “fragments of a poem God had written” (could be the “old man” from Pages/cains_jawbone_page_68.md / Pages/cains_jawbone_page_69.md; confirm).
+- **Places:**
+  - CERTAIN: “Eros” (Piccadilly Circus statue) + Queen’s Hall (London) corridor/route reference.
+- **Time markers:**
+  - CERTAIN: “in the morning” (letter/package discovered then).
+  - CERTAIN: Orpen “painted it in 1912” (historical anchor for the London place-change observation).
+- **Motifs/continuity hooks:**
+  - Letter/blackmail dynamics: “franked” item; narrator has “told all I knew” and waits for reaction.
+  - Threat escalation: “try to do me in”.
+  - Child-at-knee intimacy used as leverage (“old association”).
+- **Voice/tells:**
+  - Overheated associative leaps; heavy wordplay (“Ming”/Munich/Efate) amid fear and fatigue.
+- **Ordering hypotheses:**
+  - MAYBE: belongs with Pages/cains_jawbone_page_68.md / Pages/cains_jawbone_page_69.md as the continuation of the “old man” + retaliation thread.
+- **Disconfirming evidence:**
+  - If “he” is clearly a different person from the “old man” and the letter is unrelated to the death scene.
+- **Research needed:**
+  - Identify which Orpen painting (1912) corresponds to “the place between Eros and the Queen’s Hall”.
+  - Interpret “warnings of the Ming”, “modest Munich”, and “Efate” bracket wordplay (if enciphering).

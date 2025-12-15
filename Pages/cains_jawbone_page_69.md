@@ -2,3 +2,22 @@ I came out of my waking dream with temples moist and tongue most damnably dry. I
 
 ## Notes
 
+- **Entities:**
+  - CERTAIN: “poor old man” (unnamed; “done slowly to death” before narrator’s eyes).
+- **Time markers:**
+  - CERTAIN: “yon same star… westward from the pole…” (Hamlet time-setting line; indicates late night).
+- **Quotes & allusions:**
+  - CERTAIN: “yon same star, that’s westward from the pole…” (Shakespeare, *Hamlet* Act 1 Scene 1).
+  - MAYBE: “as Dutch as dillwater” (idiom; check if it encodes something).
+- **Motifs/continuity hooks:**
+  - Collecting motif escalated to self-control (“collect myself”).
+  - Physical aftermath: moist temples + dry tongue (stress, drink, illness?).
+  - Explicit slow death witnessed (possible poisoning/neglect; unclear).
+- **Voice/tells:**
+  - Self-assertion (“never previously deceived myself”) + punning wordplay (“ickets”).
+- **Ordering hypotheses:**
+  - LIKELY: links to Pages/cains_jawbone_page_68.md (same “old man” in a “crucial meeting”) and Pages/cains_jawbone_page_70.md (threat of being “done in”).
+- **Disconfirming evidence:**
+  - If “done slowly to death” is later shown to be figurative (bored/exhausted) rather than literal.
+- **Research needed:**
+  - Confirm the Hamlet line’s time implication (and whether it constrains ordering relative to other night/morning markers).
