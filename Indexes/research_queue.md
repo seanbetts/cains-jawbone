@@ -866,3 +866,87 @@ Template:
   - **Why it matters:** Might encode a name/route/instruction that affects ordering or motive.
   - **Status:** `open`
   - **Result:**
+
+- **Item:** Identify the source of “express my duty in his eye” (Page 71)
+  - **Type:** quote
+  - **Pages:** Pages/cains_jawbone_page_71.md
+  - **Why it matters:** Could anchor narrator voice or link to other pages quoting the same source.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify “Herebald the Drake” (Page 71)
+  - **Type:** name/other
+  - **Pages:** Pages/cains_jawbone_page_71.md
+  - **Why it matters:** Might be an allusion, genealogical joke, or hidden-name clue.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Confirm what “Medehamstede” refers to in Page 72
+  - **Type:** place
+  - **Pages:** Pages/cains_jawbone_page_72.md
+  - **Why it matters:** Could lock a real location (likely Peterborough Abbey) and help cluster narrator travel.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify Pasquier (claret) reference (Page 72)
+  - **Type:** name/term
+  - **Pages:** Pages/cains_jawbone_page_72.md
+  - **Why it matters:** Could be a brand/merchant clue that recurs in other food/drink pages.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify “Savage Conqueror” (Page 72)
+  - **Type:** quote/other
+  - **Pages:** Pages/cains_jawbone_page_72.md
+  - **Why it matters:** Might be a specific book used as an ordering/cipher key.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify the painter identity clue + “The Mumpers” (Page 73)
+  - **Type:** name/other
+  - **Pages:** Pages/cains_jawbone_page_73.md
+  - **Why it matters:** Could reveal the narrator’s given name (and thus a stable narrator segment).
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify the “quiet country town” described on Page 73 (river + Tudor ruin + deer park + heather commons + immense woods)
+  - **Type:** place
+  - **Pages:** Pages/cains_jawbone_page_73.md
+  - **Why it matters:** Real geography could constrain ordering and cluster nearby scenes.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify the source of “O tristesse, tristesse était mon âme” (Page 73)
+  - **Type:** quote
+  - **Pages:** Pages/cains_jawbone_page_73.md
+  - **Why it matters:** Strong quote anchor for narrator voice.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify the source of “one by one the touch of life has turned to truth” (Page 74)
+  - **Type:** quote
+  - **Pages:** Pages/cains_jawbone_page_74.md
+  - **Why it matters:** Could be a motto/poem line that identifies a school/institution (or the “Head”).
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify which Goya work is being referenced/confused (Page 74: “hanging man? a countess?”)
+  - **Type:** other
+  - **Pages:** Pages/cains_jawbone_page_74.md
+  - **Why it matters:** Could anchor a specific reproduction/title and link to other art references.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Clarify what “them” refers to in Page 74 (photos, documents, artworks, or something else)
+  - **Type:** other
+  - **Pages:** Pages/cains_jawbone_page_74.md
+  - **Why it matters:** Determines whether this is an OGPU-documents/blackmail thread with cross-page continuity.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Confirm what “Indian tobacco” denotes and how it’s used on Page 75 (blight remedy vs poison)
+  - **Type:** term/other
+  - **Pages:** Pages/cains_jawbone_page_75.md
+  - **Why it matters:** Could tie into the plant/poison method thread and help interpret “blight on the May”.
+  - **Status:** `open`
+  - **Result:**

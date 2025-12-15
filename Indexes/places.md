@@ -324,6 +324,42 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_62.md
   - **Notes:** Guy Fawkes night anecdote; major-general statue referenced.
 
+- **Medehamstede (uncertain)**
+  - **Type:** place/monastery (uncertain)
+  - **Confidence:** `MAYBE`
+  - **Pages:** Pages/cains_jawbone_page_72.md
+  - **Notes:** “Old Medehamstede” is likely the early name for Peterborough Abbey, but confirm intended referent in-text.
+
+- **Rue de la Harpe**
+  - **Type:** street
+  - **Confidence:** `CERTAIN`
+  - **Pages:** Pages/cains_jawbone_page_72.md
+  - **Notes:** Paris street referenced via a small place known to narrator.
+
+- **Runymede**
+  - **Type:** landmark/meadow
+  - **Confidence:** `CERTAIN`
+  - **Pages:** Pages/cains_jawbone_page_73.md
+  - **Notes:** Allusive reference (Magna Carta association); likely not literal travel.
+
+- **Marseille — Old Port (Vieux-Port)**
+  - **Type:** harbour/area
+  - **Confidence:** `CERTAIN`
+  - **Pages:** Pages/cains_jawbone_page_73.md
+  - **Notes:** “Place of my initiation behind the old Port” suggests a specific back-street/brothel/bars setting.
+
+- **Leningrad**
+  - **Type:** city
+  - **Confidence:** `CERTAIN`
+  - **Pages:** Pages/cains_jawbone_page_74.md
+  - **Notes:** Mentioned as the source of secret purchases tied to OGPU.
+
+- **Manchester**
+  - **Type:** city
+  - **Confidence:** `CERTAIN`
+  - **Pages:** Pages/cains_jawbone_page_74.md
+  - **Notes:** Referenced via an “old man” giving a speech on “sane mediocrity”.
+
 - **Latham Chapel (unidentified)**
   - **Type:** chapel/building
   - **Confidence:** `CERTAIN`

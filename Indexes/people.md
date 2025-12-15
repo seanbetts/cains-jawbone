@@ -15,7 +15,7 @@ Template:
 - `P01` — Names/aliases: Henry
   - **Tells:** LIKELY actor (played Lesurques); LIKELY serial “intended” (has an “intended fifth”); associated with (possibly toxic) “Emperor’s Peg” at a ruined lighthouse; has a “great voice” linked to a “capstan bar”; appears as a subordinate who stoops/cleans and handles bodies; object of romance (“ready to love”); described as having multiple “killings” and a “latest victim” with blood present; later pursued by police (“flying squad”); linked to burying a corpse with “only the eyes” showing; also appears as a husband/guide in social scenes; linked to a half-burned marriage certificate; seen bending over a corpse of his own making; framed as “doomed to destroy… for family reasons”; explicit “third” (family lawyer) and “fourth” (chardlady) victims; described as an investigator (“peerless investigator”).
   - **Pronouns/relationships:** described as “the angel”; sometimes an absent advisor; sometimes an assistant obeying signals.
-  - **Pages:** Pages/cains_jawbone_page_2.md, Pages/cains_jawbone_page_4.md, Pages/cains_jawbone_page_5.md, Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_16.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_26.md, Pages/cains_jawbone_page_31.md, Pages/cains_jawbone_page_32.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_41.md, Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_44.md, Pages/cains_jawbone_page_45.md, Pages/cains_jawbone_page_47.md, Pages/cains_jawbone_page_49.md, Pages/cains_jawbone_page_58.md, Pages/cains_jawbone_page_60.md, Pages/cains_jawbone_page_63.md, Pages/cains_jawbone_page_68.md
+  - **Pages:** Pages/cains_jawbone_page_2.md, Pages/cains_jawbone_page_4.md, Pages/cains_jawbone_page_5.md, Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_16.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_26.md, Pages/cains_jawbone_page_31.md, Pages/cains_jawbone_page_32.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_41.md, Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_44.md, Pages/cains_jawbone_page_45.md, Pages/cains_jawbone_page_47.md, Pages/cains_jawbone_page_49.md, Pages/cains_jawbone_page_58.md, Pages/cains_jawbone_page_60.md, Pages/cains_jawbone_page_63.md, Pages/cains_jawbone_page_68.md, Pages/cains_jawbone_page_71.md
   - **Notes:** MAYBE multiple different “Henrys” across the book; do not merge/split without stronger anchors (surname, role, setting continuity).
 
 - `P02` — Names/aliases: Casy Ferris
@@ -105,8 +105,8 @@ Template:
 - `P16` — Names/aliases: May
   - **Tells:** addressed directly in will/inheritance talk (“leave everything to me?” / “do just as you think fit, May”).
   - **Pronouns/relationships:** “she” in overheard dialogue; companion (unnamed).
-  - **Pages:** Pages/cains_jawbone_page_14.md
-  - **Notes:** MAYBE linked to Page 12’s will/documents scene.
+  - **Pages:** Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_71.md, Pages/cains_jawbone_page_75.md
+  - **Notes:** MAYBE linked to Page 12’s will/documents scene; Pages 71/75 may also be “May” as month/May-blossom rather than the person (treat cautiously).
 
 - `P17` — Names/aliases: Janetta Sheringham
   - **Tells:** voice resemblance reference (“like and yet not like”).
@@ -393,11 +393,47 @@ Template:
 - `P64` — Names/aliases: “the Head” (headmaster; unnamed)
   - **Tells:** quips a colour-meaning triad; hall remembered as echoing his curses; linked to ether use.
   - **Pronouns/relationships:** headmaster remembered by narrator (“as we called him”).
-  - **Pages:** Pages/cains_jawbone_page_66.md, Pages/cains_jawbone_page_67.md
-  - **Notes:** “Affront the dead” framing may imply he is deceased; do not assume without confirmation.
+  - **Pages:** Pages/cains_jawbone_page_66.md, Pages/cains_jawbone_page_67.md, Pages/cains_jawbone_page_74.md
+  - **Notes:** “Affront the dead” framing may imply he is deceased; do not assume without confirmation; Page 74’s “Head” quote may or may not be the same figure.
 
 - `P65` — Names/aliases: “the girl” (unnamed recipient)
   - **Tells:** will “find it in the morning, franked, and all ready to go upon its way”.
   - **Pronouns/relationships:** recipient of narrator’s letter/package; role unclear.
-  - **Pages:** Pages/cains_jawbone_page_70.md
-  - **Notes:** Candidate link to blackmail/confession mechanics; track for naming.
+  - **Pages:** Pages/cains_jawbone_page_70.md, Pages/cains_jawbone_page_75.md
+  - **Notes:** Candidate link to blackmail/confession mechanics; Page 75’s “girl” may or may not be the same (no naming anchor yet).
+
+- `P66` — Names/aliases: Elsie
+  - **Tells:** recalled as having a “difficulty” with a young coastguard’s claimed descent.
+  - **Pronouns/relationships:** none known.
+  - **Pages:** Pages/cains_jawbone_page_71.md
+  - **Notes:** Could be a one-off anecdote anchor; track if Elsie reappears.
+
+- `P67` — Names/aliases: young coastguard (unnamed)
+  - **Tells:** tried to prove direct descent from “Herebald the Drake”.
+  - **Pronouns/relationships:** acquaintance of Elsie (context unclear).
+  - **Pages:** Pages/cains_jawbone_page_71.md
+  - **Notes:** “Herebald the Drake” may be a misdirection/allusion; keep the coastguard provisional.
+
+- `P68` — Names/aliases: Pasquier
+  - **Tells:** claret associated with him restores narrator’s colour; narrator met him in Paris (Rue de la Harpe).
+  - **Pronouns/relationships:** acquaintance/supplier (unclear).
+  - **Pages:** Pages/cains_jawbone_page_72.md
+  - **Notes:** Could be a wine-merchant/brand rather than an in-world person.
+
+- `P69` — Names/aliases: “old man” (unnamed; Leningrad purchases)
+  - **Tells:** claims to have bought items “secretly in Leningrad” from an OGPU-linked seller; also gave a “Manchester speech on sane mediocrity”.
+  - **Pronouns/relationships:** interlocutor with narrator and a woman with a husky voice.
+  - **Pages:** Pages/cains_jawbone_page_74.md
+  - **Notes:** MAYBE the same “old man” as `P61`; do not merge without a stronger anchor than age/title.
+
+- `P70` — Names/aliases: husky-voiced woman (unnamed)
+  - **Tells:** asks “Will anyone know about them?”; described as a “husky miracle of a voice”.
+  - **Pronouns/relationships:** “she/her” companion.
+  - **Pages:** Pages/cains_jawbone_page_74.md
+  - **Notes:** Could be a recurring “husky voice” figure; watch for repeat phrasing.
+
+- `P71` — Names/aliases: humpbacked fellow (unnamed seller)
+  - **Tells:** described as a “double-faced Quasimodo of the Ogpu”; sold items in Leningrad.
+  - **Pronouns/relationships:** seller/source of the “them” items.
+  - **Pages:** Pages/cains_jawbone_page_74.md
+  - **Notes:** Likely minor unless the OGPU/blackmail thread becomes central.

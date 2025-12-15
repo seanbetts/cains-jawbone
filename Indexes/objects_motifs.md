@@ -257,9 +257,14 @@ Template:
   - **Notes:** Possible will/inheritance plot hook; connect to other document pages.
 
 - **Poison plants (lobelia; lords and ladies)**
-  - **Instances / variants:** lobelia; “pretty lords and ladies”
-  - **Pages:** Pages/cains_jawbone_page_29.md
-  - **Notes:** Reinforces poison-garden experimentation motif.
+  - **Instances / variants:** lobelia; “Indian tobacco”; “pretty lords and ladies”
+  - **Pages:** Pages/cains_jawbone_page_29.md, Pages/cains_jawbone_page_75.md
+  - **Notes:** Reinforces poison-garden experimentation motif; Page 75 frames “Indian tobacco” as a blight-killing remedy (watch for double-use as poison).
+
+- **Marigolds / calendula**
+  - **Instances / variants:** “marigolds”; “Calendula… calends… almost everie month”
+  - **Pages:** Pages/cains_jawbone_page_75.md
+  - **Notes:** Flower/courtship marker; also a calendar/“calends” wordplay anchor.
 
 - **Sausages / botulism (“botulist”)**
   - **Instances / variants:** “confirmed botulist”; “seven… long stout shapes rosily bursting…” at breakfast

@@ -383,3 +383,31 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_69.md
   - **Confidence:** `CERTAIN`
   - **Research needed:** no
+
+- **Snippet:** “express my duty in his eye”
+  - **Likely source/author:** TBD
+  - **Why it matters:** Distinct quotation embedded in an anecdote about “Elsie” and a coastguard; could cluster narrator voice or encode a source text.
+  - **Pages:** Pages/cains_jawbone_page_71.md
+  - **Confidence:** `MAYBE`
+  - **Research needed:** yes — identify source/context.
+
+- **Snippet:** “O tristesse, tristesse était mon âme”
+  - **Likely source/author:** TBD (French quotation)
+  - **Why it matters:** Strong bilingual quote anchor tied to an oratory/“cause d’une femme” passage.
+  - **Pages:** Pages/cains_jawbone_page_73.md
+  - **Confidence:** `MAYBE`
+  - **Research needed:** yes — identify exact source.
+
+- **Snippet:** “one by one the touch of life has turned to truth”
+  - **Likely source/author:** TBD
+  - **Why it matters:** Quoted as the words of “the Head”; may identify a school/institution voice or a specific text.
+  - **Pages:** Pages/cains_jawbone_page_74.md
+  - **Confidence:** `MAYBE`
+  - **Research needed:** yes — identify source and whether it’s a motto/poem line.
+
+- **Snippet:** “Calendula… to flower in the calends of almost everie month”
+  - **Likely source/author:** John Gerard (*Herball* / *Herbal*)
+  - **Why it matters:** Strong horticultural-literary anchor; ties marigolds/calends to a calendar motif.
+  - **Pages:** Pages/cains_jawbone_page_75.md
+  - **Confidence:** `LIKELY`
+  - **Research needed:** yes — confirm exact wording/edition used.
