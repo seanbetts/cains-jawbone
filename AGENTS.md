@@ -4,13 +4,15 @@ This folder is a **literary puzzle workspace**, not a software project. The goal
 
 ## Golden rules (must-follow)
 
-1. **Never change page body text.**  
+1. **Log time before/after work.**  
+   Follow `Skills/cjb-time-logging/SKILL.md`: capture `start` (UTC) before opening files and append to `Worklog/worklog.csv` with `end`/`minutes` before finishing.
+2. **Never change page body text.**  
    For any file in `Pages/cains_jawbone_page_*.md`, only edit content **under** the `## Notes` heading. Do not alter, reflow, wrap, or “fix” punctuation in the page text above `## Notes`.
-2. **Keep the archive immutable.**  
+3. **Keep the archive immutable.**  
    Do not modify anything in `Archive/` (including `Archive/Cain's Jawbone Unformatted.txt` and `Archive/hash.txt`).
-3. **Verify after edits.**  
+4. **Verify after edits.**  
    After any batch of note edits, run: `python3 verify_pages.py` and ensure it prints `OK` (this checks page-body immutability, not whether notes/hypotheses are correct).
-4. **No brute force.**  
+5. **No brute force.**  
    Do not attempt permutation/brute-force ordering; progress comes from clue extraction, indexing, clustering, and evidence-based hypotheses.
 
 ## Working loop (default)
@@ -28,7 +30,7 @@ Keep all detailed procedures, templates, and rules in the Skill files to avoid d
 - **Order hypotheses:** `Skills/cjb-order-hypotheses/SKILL.md` — use when clustering pages and proposing sequences (with falsifiers).
 - **Quote research:** `Skills/cjb-quote-research/SKILL.md` — use when capturing/identifying allusions and managing the research queue.
 - **Verification:** `Skills/cjb-verification/SKILL.md` — use when running integrity checks and interpreting failures.
-- **Time logging:** `Skills/time-logging/SKILL.md` — use at the start and end of every working session to keep `Worklog/worklog.csv` accurate.
+- **Time logging:** `Skills/cjb-time-logging/SKILL.md` — use at the start and end of every working session to keep `Worklog/worklog.csv` accurate.
 
 ## Global artefacts (files we maintain)
 
@@ -62,7 +64,7 @@ Before finishing:
 3. Append a row to `Worklog/worklog.csv` (`date,agent,task,start,end,minutes,branch,commit,notes`).
 4. Include `branch` and `commit` if available.
 
-See `Skills/time-logging/SKILL.md` for the full procedure and formatting requirements.
+See `Skills/cjb-time-logging/SKILL.md` for the full procedure and formatting requirements.
 
 ## Git and versioning
 
