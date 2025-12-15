@@ -2,3 +2,21 @@ I plunged for the last time. The few remaining figures and letters swam as they 
 
 ## Notes
 
+- **Entities:**
+  - CERTAIN: Henry (present, unnamed surname); London.
+  - MAYBE: woman in “creamy dress” (unnamed).
+- **Time markers:**
+  - CERTAIN: “to-day” = the day “the writer” of the quoted plague phrases died (potential calendar anchor).
+- **Quotes & allusions:**
+  - LIKELY: plague-reporting prose (“Which swept an hundred thousand souls away; yet I alive.” / “carried into the great pit…”) (source/author TBD).
+- **Motifs/continuity hooks:**
+  - Figures/letters “swam” then “There were no more” (reading/decoding finish line?).
+  - London as indifferent homecoming; beauty framed as sepulchral.
+- **Voice/tells:**
+  - Morbid, literary quotation as immediate lens for observation.
+- **Ordering hypotheses:**
+  - MAYBE: same Henry as Pages/cains_jawbone_page_4.md + Pages/cains_jawbone_page_5.md (track Henry’s role/occupation).
+- **Disconfirming evidence:**
+  - If later reveals this “Henry” is a different person in another voice/setting.
+- **Research needed:**
+  - Identify the exact plague-quote source and the referenced author’s death date.

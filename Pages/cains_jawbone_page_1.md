@@ -2,3 +2,22 @@ I sit down alone at the appointed table and take up my pen to give all whom it m
 
 ## Notes
 
+- **Entities:**
+  - CERTAIN: Casy Ferris; Casy’s father (unnamed).
+  - MAYBE: “St. Lazarus-in-the-Chine” (place/institution).
+- **Time markers:**
+  - CERTAIN: “to-day is the day” (event for Casy; likely scheduled/ritual).
+- **Quotes & allusions:**
+  - MAYBE: “Where about the graves of the martyrs the whaups are crying, my heart remembers how.” (source TBD)
+- **Motifs/continuity hooks:**
+  - Pen: “mottled black and silver Aquarius”, nib “tempered… in Amsterdam”.
+  - Sea/birds: “whaups” (curlews), gulls, “sailor”.
+- **Voice/tells:**
+  - Fixation on objects (pen) + lyrical sea/bird imagery; abrupt disgust (“Ugh.”).
+- **Ordering hypotheses:**
+  - MAYBE: coastal-setting cluster (sea + “Chine”); compare with Pages/cains_jawbone_page_4.md and Pages/cains_jawbone_page_5.md (sea/lighthouse motifs).
+- **Disconfirming evidence:**
+  - If “Chine” is metaphorical or later placed away from sea.
+- **Research needed:**
+  - Identify quote about “martyrs” + “whaups”.
+  - Identify/locate “St. Lazarus-in-the-Chine”.

@@ -2,3 +2,24 @@ And I really think I would have preferred the Maestro Jimson’s title, now that
 
 ## Notes
 
+- **Entities:**
+  - CERTAIN: Sir Roland Mowthalorn; gin-faced Annie (sells “day’s buttonhole” behind the church); Sir Weedon (Roland’s father); Henry.
+  - MAYBE: “she” (beautiful; possibly interlocutor); little boy (about to tumble into the sea).
+- **Time markers:**
+  - CERTAIN: rain just ended (“came heavily… drying off lightly”).
+- **Quotes & allusions:**
+  - MAYBE: “Maestro Jimson” + “title” (reference TBD).
+  - LIKELY: Lesurques (role) + Le Cirque d’Hiver (pun/mix-up).
+- **Wordplay:**
+  - “mash… with a spoon” / “mashie” (golf-club pun).
+  - Lesurques / Le Cirque d’Hiver mishearing.
+- **Motifs/continuity hooks:**
+  - Coastal peril (boy tumbling into sea); church + buttonholes; puddles after rain.
+- **Voice/tells:**
+  - Comic, name-heavy, punning narration; suspicion aimed at a “beautiful” woman.
+- **Ordering hypotheses:**
+  - MAYBE: coastal cluster with Pages/cains_jawbone_page_1.md and Pages/cains_jawbone_page_5.md (sea/lighthouse imagery + Henry continuity).
+- **Disconfirming evidence:**
+  - If later identifies this as inland/figurative “sea” or Henry differs.
+- **Research needed:**
+  - Identify “Maestro Jimson” and the “piled abomination” it would title.
