@@ -28,6 +28,7 @@ Keep all detailed procedures, templates, and rules in the Skill files to avoid d
 - **Order hypotheses:** `Skills/cjb-order-hypotheses/SKILL.md` — use when clustering pages and proposing sequences (with falsifiers).
 - **Quote research:** `Skills/cjb-quote-research/SKILL.md` — use when capturing/identifying allusions and managing the research queue.
 - **Verification:** `Skills/cjb-verification/SKILL.md` — use when running integrity checks and interpreting failures.
+- **Time logging:** `Skills/time-logging/SKILL.md` — use at the start and end of every working session to keep `Worklog/worklog.csv` accurate.
 
 ## Global artefacts (files we maintain)
 
@@ -49,6 +50,19 @@ This is a convenience summary only. The authoritative procedure/template is `Ski
 - Common headings to include when relevant: Entities, Time markers, Quotes/allusions, Wordplay, Motifs/continuity hooks, Voice/tells, Ordering hypotheses, Disconfirming evidence, Research needed.
 - Use confidence tags: `CERTAIN:`, `LIKELY:`, `MAYBE:`.
 - Cross-reference with file paths like `Pages/cains_jawbone_page_42.md`.
+
+## Mandatory time logging
+
+Before doing any work:
+1. Record `start` time (UTC) for this session.
+
+Before finishing:
+1. Record `end` time (UTC).
+2. Calculate `minutes` between start and end.
+3. Append a row to `Worklog/worklog.csv` (`date,agent,task,start,end,minutes,branch,commit,notes`).
+4. Include `branch` and `commit` if available.
+
+See `Skills/time-logging/SKILL.md` for the full procedure and formatting requirements.
 
 ## Git and versioning
 
