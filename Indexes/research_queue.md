@@ -327,3 +327,66 @@ Template:
   - **Why it matters:** Might be a precise date anchor and a place-name hint (Didling).
   - **Status:** `open`
   - **Result:**
+
+- **Item:** Identify “Ben Wade” (and why Hodge asks about him) on Page 26
+  - **Type:** name/other
+  - **Pages:** Pages/cains_jawbone_page_26.md
+  - **Why it matters:** Could be a character/allusion used as a recognition test or date anchor.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** What is meant by “like a bee with a sore bonnet” (“foreign touch”) on Page 26?
+  - **Type:** term/quote
+  - **Pages:** Pages/cains_jawbone_page_26.md
+  - **Why it matters:** Might be a specific idiom/source that clusters narrator voice.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify the “county town on the Severn” lock-up allusion on Page 27 (and what “tapping” case/story it is)
+  - **Type:** place/other
+  - **Pages:** Pages/cains_jawbone_page_27.md
+  - **Why it matters:** Could anchor a specific location and link to a known case/story.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify the 1917 “tenth edition” book in Page 28 (device: “single star above what was perhaps a sea”)
+  - **Type:** other
+  - **Pages:** Pages/cains_jawbone_page_28.md
+  - **Why it matters:** Book/publisher device likely identifies narrator reading and may anchor place/time.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify the source of “No, Sir; it is not a very interesting subject. I never think of it myself.” (Page 28)
+  - **Type:** quote
+  - **Pages:** Pages/cains_jawbone_page_28.md
+  - **Why it matters:** Distinctive line might identify a speaker/source text and help cluster pages.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Clarify the poison/plant list on Page 29 (lobelia, “lords and ladies”) and what “the broad ones” are
+  - **Type:** term/other
+  - **Pages:** Pages/cains_jawbone_page_29.md
+  - **Why it matters:** Supports the plant/poison method thread and may identify the narrator’s knowledge.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify the “old mineralogist” on Page 29 (is this a known character elsewhere?)
+  - **Type:** name/other
+  - **Pages:** Pages/cains_jawbone_page_29.md
+  - **Why it matters:** Could connect to the Peebles/mineralogy narrator (Page 9) and support ordering/clustering.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify the source of “this savours not of death, this hath a relish of eternity” (Page 30)
+  - **Type:** quote
+  - **Pages:** Pages/cains_jawbone_page_30.md
+  - **Why it matters:** Quote used as a probe/test; may uniquely identify author and connect scenes.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify the “jocund maker / De Mauves / Gressie” passage flagged “by James!” on Page 30
+  - **Type:** quote/other
+  - **Pages:** Pages/cains_jawbone_page_30.md
+  - **Why it matters:** Could anchor a specific author (“James”) and provide strong clustering evidence.
+  - **Status:** `open`
+  - **Result:**

@@ -13,9 +13,9 @@ Template:
 ## Entries
 
 - `P01` — Names/aliases: Henry
-  - **Tells:** LIKELY actor (played Lesurques); LIKELY serial “intended” (has an “intended fifth”); associated with (possibly toxic) “Emperor’s Peg” at a ruined lighthouse; has a “great voice” linked to a “capstan bar”; appears as a subordinate who stoops/cleans and handles bodies; object of romance (“ready to love”); described as having a “latest victim” with blood present.
+  - **Tells:** LIKELY actor (played Lesurques); LIKELY serial “intended” (has an “intended fifth”); associated with (possibly toxic) “Emperor’s Peg” at a ruined lighthouse; has a “great voice” linked to a “capstan bar”; appears as a subordinate who stoops/cleans and handles bodies; object of romance (“ready to love”); described as having multiple “killings” and a “latest victim” with blood present.
   - **Pronouns/relationships:** described as “the angel”; sometimes an absent advisor; sometimes an assistant obeying signals.
-  - **Pages:** Pages/cains_jawbone_page_2.md, Pages/cains_jawbone_page_4.md, Pages/cains_jawbone_page_5.md, Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_16.md, Pages/cains_jawbone_page_21.md
+  - **Pages:** Pages/cains_jawbone_page_2.md, Pages/cains_jawbone_page_4.md, Pages/cains_jawbone_page_5.md, Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_16.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_26.md
   - **Notes:** MAYBE multiple different “Henrys” across the book; do not merge/split without stronger anchors (surname, role, setting continuity).
 
 - `P02` — Names/aliases: Casy Ferris
@@ -25,9 +25,9 @@ Template:
   - **Notes:** MAYBE coastal setting (“Chine”, sea).
 
 - `P03` — Names/aliases: Clement
-  - **Tells:** precise distance figure (“17,600 yards”); involved with “assassin’s wonderful substance”; strongly associated with “Clement” pope-name clue (14 popes + 2 anti-popes) and Giulio de Medici (Clement VII) reference; roses/jasmine + Gianaclis smoking context.
+  - **Tells:** aliases: Clem; precise distance figure (“17,600 yards”); involved with “assassin’s wonderful substance”; strongly associated with “Clement” pope-name clue (14 popes + 2 anti-popes) and Giulio de Medici (Clement VII) reference; roses/jasmine + Gianaclis smoking context; recalled as a quiet, capable child (hushed narrator’s “brat” at age six).
   - **Pronouns/relationships:** met “yesterday” by narrator on Page 3.
-  - **Pages:** Pages/cains_jawbone_page_3.md, Pages/cains_jawbone_page_24.md
+  - **Pages:** Pages/cains_jawbone_page_3.md, Pages/cains_jawbone_page_24.md, Pages/cains_jawbone_page_27.md
   - **Notes:** LIKELY the narrator of Page 24 is named Clement (pope-name clue); Page 22’s “clement to me” may be pun/overlap but is not proof.
 
 - `P04` — Names/aliases: Sir Roland Mowthalorn
@@ -191,3 +191,51 @@ Template:
   - **Pronouns/relationships:** aunt to narrator (implied).
   - **Pages:** Pages/cains_jawbone_page_24.md
   - **Notes:** Recurrence may signal this narrator’s family cluster.
+
+- `P31` — Names/aliases: Henry’s companion (“whey-face” girl; unnamed)
+  - **Tells:** left Henry; dismissed as a “whey-face”; couldn’t grasp Henry’s first two “killings”.
+  - **Pronouns/relationships:** “the girl” in Page 26.
+  - **Pages:** Pages/cains_jawbone_page_26.md
+  - **Notes:** Track for later naming.
+
+- `P32` — Names/aliases: rector’s aunt (unnamed)
+  - **Tells:** sent away by Henry (“like a bee with a sore bonnet”).
+  - **Pronouns/relationships:** aunt of a rector (unnamed).
+  - **Pages:** Pages/cains_jawbone_page_26.md
+  - **Notes:** Likely minor unless reappears.
+
+- `P33` — Names/aliases: Hodge
+  - **Tells:** has a “wen”; scratches “left whisker”; asks about “Ben Wade”.
+  - **Pronouns/relationships:** none known.
+  - **Pages:** Pages/cains_jawbone_page_26.md
+  - **Notes:** Could be person or anthropomorphised animal; keep provisional.
+
+- `P34` — Names/aliases: Ben Wade (reference)
+  - **Tells:** queried by Hodge; “hitherto merely mutely unemployed” (unclear).
+  - **Pronouns/relationships:** none known.
+  - **Pages:** Pages/cains_jawbone_page_26.md
+  - **Notes:** Likely allusion/character; do not treat as confirmed in-world person yet.
+
+- `P35` — Names/aliases: “old mineralogist” (unnamed)
+  - **Tells:** led “up the garden” and introduced to poisonous plants.
+  - **Pronouns/relationships:** guest/victim candidate.
+  - **Pages:** Pages/cains_jawbone_page_29.md
+  - **Notes:** MAYBE connected to Peebles/mineralogy thread (Pages/cains_jawbone_page_9.md).
+
+- `P36` — Names/aliases: Flora (household staff; uncertain)
+  - **Tells:** arranged breakfast (“seven… long stout shapes”).
+  - **Pronouns/relationships:** household member/servant (implied).
+  - **Pages:** Pages/cains_jawbone_page_29.md
+  - **Notes:** Not the same as `P26` Flora (Page 22).
+
+- `P37` — Names/aliases: Mrs. Cave
+  - **Tells:** local “Dame Quickly” analogue; social greeting scene.
+  - **Pronouns/relationships:** none known.
+  - **Pages:** Pages/cains_jawbone_page_30.md
+  - **Notes:** Track if she appears elsewhere.
+
+- `P38` — Names/aliases: “old dandy” (unnamed)
+  - **Tells:** purchased Cape Jasmine; clutched into greeting Mrs. Cave.
+  - **Pronouns/relationships:** none known.
+  - **Pages:** Pages/cains_jawbone_page_30.md
+  - **Notes:** Likely minor unless identified later.

@@ -155,3 +155,27 @@ Template:
   - **Confidence:** `MAYBE`
   - **Pages:** Pages/cains_jawbone_page_25.md
   - **Notes:** Appears via Dolittle→Didlittle→Didling wordplay; narrator “woke… at” it.
+
+- **Pluckley church**
+  - **Type:** church
+  - **Confidence:** `CERTAIN`
+  - **Pages:** Pages/cains_jawbone_page_28.md
+  - **Notes:** Kent church with “stone broach spire” (noted as rare in Kent).
+
+- **River Severn**
+  - **Type:** river
+  - **Confidence:** `CERTAIN`
+  - **Pages:** Pages/cains_jawbone_page_27.md
+  - **Notes:** Mentioned in connection with a “county town on the Severn” lock-up.
+
+- **County town on the Severn (unidentified)**
+  - **Type:** town/city
+  - **Confidence:** `MAYBE`
+  - **Pages:** Pages/cains_jawbone_page_27.md
+  - **Notes:** Lock-up reference; needs identification.
+
+- **Quebec**
+  - **Type:** city/region
+  - **Confidence:** `CERTAIN`
+  - **Pages:** Pages/cains_jawbone_page_30.md
+  - **Notes:** Recalled while eating “American mess”; likely associative rather than local setting.

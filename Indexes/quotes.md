@@ -159,3 +159,24 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_25.md
   - **Confidence:** `MAYBE`
   - **Research needed:** yes — identify song.
+
+- **Snippet:** “No, Sir; it is not a very interesting subject. I never think of it myself.”
+  - **Likely source/author:** TBD
+  - **Why it matters:** Distinctive evasive line; could identify a source text and cluster the narrator.
+  - **Pages:** Pages/cains_jawbone_page_28.md
+  - **Confidence:** `MAYBE`
+  - **Research needed:** yes — identify source (and whether it’s being quoted verbatim).
+
+- **Snippet:** “this savours not of death, this hath a relish of eternity.”
+  - **Likely source/author:** TBD
+  - **Why it matters:** Quote used as a “test” at table; may identify author and connect scenes.
+  - **Pages:** Pages/cains_jawbone_page_30.md
+  - **Confidence:** `MAYBE`
+  - **Research needed:** yes — identify source.
+
+- **Snippet:** “Lo, how these fair immaculate women walk behind their jocund maker…”
+  - **Likely source/author:** TBD (the passage names “De Mauves” and “Gressie” and is flagged “by James!”)
+  - **Why it matters:** Potentially a strong author anchor (and might identify narrator reading habits).
+  - **Pages:** Pages/cains_jawbone_page_30.md
+  - **Confidence:** `MAYBE`
+  - **Research needed:** yes — identify source and what “James” refers to.
