@@ -2,3 +2,23 @@ It was that day my friend Sandy told me he was sure he wouldn’t sleep all nigh
 
 ## Notes
 
+- **Entities:**
+  - CERTAIN: Sandy (friend; likely another dog/animal in this POV).
+  - CERTAIN: Lagopus scoticus (red grouse; object of retrieval/hunting).
+  - CERTAIN: Flora (recipient of narrator’s mating; likely dog/animal).
+  - CERTAIN: Bob Martin (ingested; likely dog medicine/tonic; confirm).
+  - MAYBE: “she” (unnamed; narrator “loathed her”; blushes; hair in curls).
+  - MAYBE: “he” (unnamed; administers Bob Martin; “always right”).
+- **Time markers:**
+  - CERTAIN: “that day” / “next day” (anticipation of being allowed to retrieve again).
+- **Motifs/continuity hooks:**
+  - Strong animal POV signals: mating described anatomically; hunting/retrieval; medicine ingestion.
+  - May simile: “as flush as May” (could be month/flower or person-name echo).
+- **Voice/tells:**
+  - Non-human register (body-part framing; obedience to administered medicine; hunting anticipation).
+- **Ordering hypotheses:**
+  - LIKELY: adds to the animal POV cluster (cf. Pages/cains_jawbone_page_22.md, Pages/cains_jawbone_page_46.md, Pages/cains_jawbone_page_48.md).
+- **Disconfirming evidence:**
+  - If “Bob Martin” is a human rather than a product, and the mating language is metaphorical (unlikely).
+- **Research needed:**
+  - Confirm what “Bob Martin” denotes in period usage (medicine brand/product).

@@ -2,3 +2,25 @@ Then there disappeared the last rose flivers of the Prussian beast. He had died 
 
 ## Notes
 
+- **Entities:**
+  - CERTAIN: “he” (unnamed; provides a “new instrument” and may fear discovery).
+  - CERTAIN: “soon to be dead woman” (unnamed; her “silly wishes” memorialised in a document).
+  - CERTAIN: Henry (quoted again as a source for aphoristic lines).
+- **Death/violence cues:**
+  - UNCLEAR: “soon to be dead woman” suggests impending death; whether murder is planned is not explicit here.
+- **Motifs/continuity hooks:**
+  - Documents/forgery: “mimic artistry”; “stranger if falser hand” guiding the memorial (will/diary link).
+  - Travel: diary as “sensational” train reading.
+  - Cleaning/alteration: “lips were wiped clean”; “new instrument” suggests rewriting/forgery workflow.
+- **Quotes & allusions:**
+  - MAYBE: “We that did nothing study but the way to love each other…” (source TBD).
+  - MAYBE: “learn the hateful art, how to forget” (source TBD).
+- **Voice/tells:**
+  - Suave self-assurance under threat; explicitly frames the situation as falsifiable (“verify… I never travel without my diary”).
+- **Ordering hypotheses:**
+  - LIKELY: belongs in the will/forgery cluster (Pages/cains_jawbone_page_28.md, Pages/cains_jawbone_page_50.md).
+- **Disconfirming evidence:**
+  - If “instrument” is non-writing (e.g., medical) and “mimic artistry” refers to something other than handwriting/documents.
+- **Research needed:**
+  - Identify the source of the “We that did nothing study…” line.
+  - Clarify what “lips were wiped clean” refers to (seal? mouth? lipstick? metaphor).

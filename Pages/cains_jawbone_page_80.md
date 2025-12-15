@@ -2,3 +2,31 @@ Hospitality, when I came to consider it, was indeed a funny thing. I wanted to d
 
 ## Notes
 
+- **Entities:**
+  - CERTAIN: Sir Paul (likely Sir Paul Trinder; confirm via continuity).
+  - CERTAIN: May (named; narrator wants to “do my best for May”).
+  - CERTAIN: Henry (present but inattentive; “gave a slack ear”).
+  - CERTAIN: narrator/host (keeps a cellar/library/bottled worms collection).
+- **Death/violence cues:**
+  - LIKELY: poisoning setup implied (aconitum exhibited alongside sherry; “I am not incautious”).
+- **Means/method:**
+  - CERTAIN: aconitum (aconite/wolfsbane; deadly).
+  - CERTAIN: Fleming’s tincture (aconite preparation; mention of it being mistaken for something).
+  - CERTAIN: sherry as the immediate drink context.
+- **Opportunity:**
+  - CERTAIN: in narrator’s home; visitor arrived “before lunch”.
+- **Motive (textual):**
+  - MAYBE: tied to May (narrator’s obligation/priority to “do my best for May”).
+- **Quotes & allusions:**
+  - CERTAIN: “If it be not now… yet it will be.” (Hamlet phrasing; confirm exact source).
+  - MAYBE: “He tasted love with half his mind…” (source TBD).
+- **Motifs/continuity hooks:**
+  - Naturalist/collector: “bottled worms” collection.
+  - Hospitality as cover for exposure to poisons.
+- **Ordering hypotheses:**
+  - LIKELY: links Sir Paul to the plant/poison method thread.
+- **Disconfirming evidence:**
+  - If aconitum is only being shown as a specimen with no ingestion/administration implied, or if Fleming’s tincture mention is purely didactic.
+- **Research needed:**
+  - Confirm whether “Fleming’s tincture” is tincture of aconite and what it could be mistaken for in this setting.
+  - Identify the “He tasted love…” quotation source.
