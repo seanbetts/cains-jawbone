@@ -1139,3 +1139,73 @@ Template:
   - **Why it matters:** Could be a concrete prop (pipe/feather/food) or a self-description clue (moustache), helpful for voice clustering.
   - **Status:** `open`
   - **Result:**
+
+- **Item:** Identify the narrator name clue: “Newbolt’s admiral” + “Shakespeare’s sergeant” + “capitalise my third letter” (Page 91)
+  - **Type:** people/other
+  - **Pages:** Pages/cains_jawbone_page_91.md
+  - **Why it matters:** Likely an identity cipher for the narrator; resolving it could collapse a whole voice cluster.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify “The Blue Rocket” reference (Page 91)
+  - **Type:** other
+  - **Pages:** Pages/cains_jawbone_page_91.md
+  - **Why it matters:** Appears as a sabotage/prevention statement (“knew too much to let it go up”); could be a place/vehicle/event anchor.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify the Cadaver Charlie / Chicago sleuth / “see any green” anecdote (Page 91)
+  - **Type:** quote/other
+  - **Pages:** Pages/cains_jawbone_page_91.md
+  - **Why it matters:** Might be a specific detective-story reference and could explain the “green” clue embedded in the eyeball exhibit.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify the source of “Yet now my heart leaps, O beloved! …” (Page 92)
+  - **Type:** quote
+  - **Pages:** Pages/cains_jawbone_page_92.md
+  - **Why it matters:** Strong stanza-level anchor that may identify narrator reading set and aid clustering.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify the “M’Cullough… I’m dying to-night” stanza and related allusions (Page 93)
+  - **Type:** quote
+  - **Pages:** Pages/cains_jawbone_page_93.md
+  - **Why it matters:** Likely a continuation fragment that could become an ordering anchor once the source is known; surrounding references (Tayside Inn; Wimpole Street) may narrow the source set.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify the Yeats quotation and the “Colonel Anthony” commemoration (Page 94)
+  - **Type:** quote/date/place
+  - **Pages:** Pages/cains_jawbone_page_94.md
+  - **Why it matters:** Might anchor a location or annual date; could also identify narrator reading set.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Clarify “the darbs” meaning and usage (Page 94)
+  - **Type:** term
+  - **Pages:** Pages/cains_jawbone_page_94.md
+  - **Why it matters:** Could be a precise slang/period marker or a coded clue-word.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify “Holy Mr. Herbert” / “Mr. Haddock” and “Meed kissing laces” (Page 95)
+  - **Type:** quote/other
+  - **Pages:** Pages/cains_jawbone_page_95.md
+  - **Why it matters:** Likely a layered allusion; resolving it may identify narrator voice and connect to other literary fragments.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify “Leda and Hebe” / “my swan a drink” (pen/ink clue) (Page 95)
+  - **Type:** other
+  - **Pages:** Pages/cains_jawbone_page_95.md
+  - **Why it matters:** Could encode a pen brand/mythic mapping or an object clue used elsewhere (letters/confessions).
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Clarify the Café Royal / John Montagu gaming-table reference (Page 95)
+  - **Type:** place/other
+  - **Pages:** Pages/cains_jawbone_page_95.md
+  - **Why it matters:** Could anchor the setting and constrain time/route; may connect to other Café/club pages.
+  - **Status:** `open`
+  - **Result:**

@@ -236,6 +236,16 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_90.md
   - **Notes:** Sherlock Holmes iconography; may connect to other detective-allusion pages.
 
+- **Black Museum**
+  - **Instances / variants:** “my little Black Museum”; preserved eyeball exhibit
+  - **Pages:** Pages/cains_jawbone_page_91.md
+  - **Notes:** Strong crime/detective anchor (Scotland Yard association); may help cluster a narrator segment.
+
+- **Swan pen / ink ritual**
+  - **Instances / variants:** “I gave my swan a drink”; repeated pen-lifting; checking ink; writing “hour by hour, day by day”
+  - **Pages:** Pages/cains_jawbone_page_95.md
+  - **Notes:** Could be literal pen-brand clue (Swan fountain pen) or a metaphor for drafting a confession/statement.
+
 - **Eggs / omelette**
   - **Instances / variants:** gift of eggs; “couldn’t have an omelette without breaking eggs”
   - **Pages:** Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_38.md

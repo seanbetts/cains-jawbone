@@ -509,3 +509,31 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_90.md
   - **Confidence:** `MAYBE`
   - **Research needed:** yes — confirm wording/context.
+
+- **Snippet:** “Smiler with the Knife”
+  - **Likely source/author:** TBD
+  - **Why it matters:** Looks like a specific epithet (possibly a source-text anchor or identity clue for the narrator).
+  - **Pages:** Pages/cains_jawbone_page_91.md
+  - **Confidence:** `MAYBE`
+  - **Research needed:** yes — identify source/context.
+
+- **Snippet:** “Yet now my heart leaps, O beloved! …”
+  - **Likely source/author:** TBD (poem)
+  - **Why it matters:** Extended quotation embedded in a timepiece/anticipation scene; may anchor narrator reading set or date cluster.
+  - **Pages:** Pages/cains_jawbone_page_92.md
+  - **Confidence:** `MAYBE`
+  - **Research needed:** yes — identify source/context.
+
+- **Snippet:** “But M’Cullough he died in the sixties, and—well, I’m dying to-night…”
+  - **Likely source/author:** TBD (poem/song)
+  - **Why it matters:** Quoted fragment that likely continues from another page; may be an ordering anchor once sourced.
+  - **Pages:** Pages/cains_jawbone_page_93.md
+  - **Confidence:** `MAYBE`
+  - **Research needed:** yes — identify source/context.
+
+- **Snippet:** “we find heartedness among men that ride upon horses”
+  - **Likely source/author:** W. B. Yeats (confirm)
+  - **Why it matters:** Distinctive Yeats allusion; may anchor narrator voice and/or a commemorative location (“Colonel Anthony”).
+  - **Pages:** Pages/cains_jawbone_page_94.md
+  - **Confidence:** `MAYBE`
+  - **Research needed:** yes — confirm wording/source.

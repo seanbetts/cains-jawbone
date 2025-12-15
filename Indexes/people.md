@@ -15,7 +15,7 @@ Template:
 - `P01` — Names/aliases: Henry
   - **Tells:** LIKELY actor (played Lesurques); LIKELY serial “intended” (has an “intended fifth”); associated with (possibly toxic) “Emperor’s Peg” at a ruined lighthouse; has a “great voice” linked to a “capstan bar”; appears as a subordinate who stoops/cleans and handles bodies; object of romance (“ready to love”); described as having multiple “killings” and a “latest victim” with blood present; later pursued by police (“flying squad”); linked to burying a corpse with “only the eyes” showing; also appears as a husband/guide in social scenes; linked to a half-burned marriage certificate; seen bending over a corpse of his own making; framed as “doomed to destroy… for family reasons”; explicit “third” (family lawyer) and “fourth” (chardlady) victims; described as an investigator (“peerless investigator”).
   - **Pronouns/relationships:** described as “the angel”; sometimes an absent advisor; sometimes an assistant obeying signals.
-  - **Pages:** Pages/cains_jawbone_page_2.md, Pages/cains_jawbone_page_4.md, Pages/cains_jawbone_page_5.md, Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_16.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_26.md, Pages/cains_jawbone_page_31.md, Pages/cains_jawbone_page_32.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_41.md, Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_44.md, Pages/cains_jawbone_page_45.md, Pages/cains_jawbone_page_47.md, Pages/cains_jawbone_page_49.md, Pages/cains_jawbone_page_58.md, Pages/cains_jawbone_page_60.md, Pages/cains_jawbone_page_63.md, Pages/cains_jawbone_page_68.md, Pages/cains_jawbone_page_71.md, Pages/cains_jawbone_page_76.md, Pages/cains_jawbone_page_77.md, Pages/cains_jawbone_page_78.md, Pages/cains_jawbone_page_80.md, Pages/cains_jawbone_page_82.md, Pages/cains_jawbone_page_83.md, Pages/cains_jawbone_page_85.md, Pages/cains_jawbone_page_86.md, Pages/cains_jawbone_page_87.md
+  - **Pages:** Pages/cains_jawbone_page_2.md, Pages/cains_jawbone_page_4.md, Pages/cains_jawbone_page_5.md, Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_16.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_26.md, Pages/cains_jawbone_page_31.md, Pages/cains_jawbone_page_32.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_41.md, Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_44.md, Pages/cains_jawbone_page_45.md, Pages/cains_jawbone_page_47.md, Pages/cains_jawbone_page_49.md, Pages/cains_jawbone_page_58.md, Pages/cains_jawbone_page_60.md, Pages/cains_jawbone_page_63.md, Pages/cains_jawbone_page_68.md, Pages/cains_jawbone_page_71.md, Pages/cains_jawbone_page_76.md, Pages/cains_jawbone_page_77.md, Pages/cains_jawbone_page_78.md, Pages/cains_jawbone_page_80.md, Pages/cains_jawbone_page_82.md, Pages/cains_jawbone_page_83.md, Pages/cains_jawbone_page_85.md, Pages/cains_jawbone_page_86.md, Pages/cains_jawbone_page_87.md, Pages/cains_jawbone_page_91.md, Pages/cains_jawbone_page_92.md, Pages/cains_jawbone_page_94.md
   - **Notes:** MAYBE multiple different “Henrys” across the book; do not merge/split without stronger anchors (surname, role, setting continuity).
 
 - `P02` — Names/aliases: Casy Ferris
@@ -509,3 +509,27 @@ Template:
   - **Pronouns/relationships:** sits between narrator and another; associated with a sorrowing dog.
   - **Pages:** Pages/cains_jawbone_page_90.md
   - **Notes:** MAYBE the same figure as `P82`; keep separate until anchored.
+
+- `P84` — Names/aliases: Cadaver Charlie
+  - **Tells:** preserved eyeball exhibit in narrator’s “Black Museum”; associated with a “Chicago sleuth” shooting out the other eye; “see any green” line.
+  - **Pronouns/relationships:** none known.
+  - **Pages:** Pages/cains_jawbone_page_91.md
+  - **Notes:** May be a fictional anecdote/allusion rather than an in-world character; treat as provisional.
+
+- `P85` — Names/aliases: “Chicago sleuth” (unnamed)
+  - **Tells:** shoots out Cadaver Charlie’s other eye (in the anecdote).
+  - **Pronouns/relationships:** opposed to Cadaver Charlie in the story.
+  - **Pages:** Pages/cains_jawbone_page_91.md
+  - **Notes:** Likely an allusion to a specific detective story; identify before treating as in-world.
+
+- `P86` — Names/aliases: Colonel Anthony (surname unknown)
+  - **Tells:** commemorated “every year” at the location of narration.
+  - **Pronouns/relationships:** none known.
+  - **Pages:** Pages/cains_jawbone_page_94.md
+  - **Notes:** Could be a local memorial anchor; identify which Colonel Anthony and what commemoration is meant.
+
+- `P87` — Names/aliases: Holy Mr. Herbert / Mr. Haddock (uncertain)
+  - **Tells:** invoked approvingly about “these hours”; “Meed kissing laces” reference.
+  - **Pronouns/relationships:** none known.
+  - **Pages:** Pages/cains_jawbone_page_95.md
+  - **Notes:** Identity uncertain; could be a disguised reference (poet/cleric/personality) rather than an in-world character.

@@ -419,3 +419,33 @@ Template:
   - **Confidence:** `MAYBE`
   - **Pages:** Pages/cains_jawbone_page_87.md
   - **Notes:** Described via a northwest gaze over water; no name given.
+
+- **Chicago**
+  - **Type:** city
+  - **Confidence:** `CERTAIN`
+  - **Pages:** Pages/cains_jawbone_page_91.md
+  - **Notes:** Appears via a “Chicago sleuth” in a crime anecdote (may be purely allusive).
+
+- **Wimpole Street**
+  - **Type:** street/address
+  - **Confidence:** `CERTAIN`
+  - **Pages:** Pages/cains_jawbone_page_93.md
+  - **Notes:** Invoked via “Wimpole Street” (Elizabeth Barrett Browning association); likely allusive.
+
+- **Tayside**
+  - **Type:** region
+  - **Confidence:** `CERTAIN`
+  - **Pages:** Pages/cains_jawbone_page_93.md
+  - **Notes:** Appears via “Wails of a Tayside Inn” (work/author allusion; likely Scottish).
+
+- **Cambridge**
+  - **Type:** city/university town
+  - **Confidence:** `MAYBE`
+  - **Pages:** Pages/cains_jawbone_page_93.md
+  - **Notes:** “Cambridge week” is used as a phrase (MAYBE “May Week”); unclear if literal location.
+
+- **Café Royal**
+  - **Type:** venue (restaurant/café)
+  - **Confidence:** `CERTAIN`
+  - **Pages:** Pages/cains_jawbone_page_95.md
+  - **Notes:** Explicit destination for the narrator’s “hops”; London venue anchor.
