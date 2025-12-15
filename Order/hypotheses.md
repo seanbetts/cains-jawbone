@@ -13,9 +13,9 @@ Template:
   - **Disconfirming evidence:** (what would falsify this cluster)  
 
 - **Cluster:** Henry name occurrences (confidence: `MAYBE`)
-  - **Pages:** Pages/cains_jawbone_page_2.md, Pages/cains_jawbone_page_4.md, Pages/cains_jawbone_page_5.md, Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_16.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_26.md
+  - **Pages:** Pages/cains_jawbone_page_2.md, Pages/cains_jawbone_page_4.md, Pages/cains_jawbone_page_5.md, Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_16.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_26.md, Pages/cains_jawbone_page_31.md, Pages/cains_jawbone_page_32.md, Pages/cains_jawbone_page_35.md
   - **Rationale:** “Henry” appears across multiple scenes with shifting roles; may be one person or multiple people sharing the name.
-  - **Key anchors:** “Lesurques” (Courier of Lyons?) role reference; ruined lighthouse + “Emperor’s Peg”; capstan-bar / dog-watch nautical register; Henry stooping/cleaning and handling bodies; Page 21’s “latest victim” + blood; Page 26’s “first two killings” + companion/rector’s aunt.
+  - **Key anchors:** “Lesurques” (Courier of Lyons?) role reference; ruined lighthouse + “Emperor’s Peg”; capstan-bar / dog-watch nautical register; Henry stooping/cleaning and handling bodies; Page 21’s “latest victim” + blood; Page 26’s “first two killings” + companion/rector’s aunt; Page 35’s police manhunt.
   - **Disconfirming evidence:** later pages give different surnames/biographical details for each “Henry”, or show mutually exclusive locations/timelines.
 
 - **Cluster:** Coastal imagery (confidence: `MAYBE`)
@@ -73,10 +73,16 @@ Template:
   - **Disconfirming evidence:** later context shows these are human metaphors (or the POV is clearly human).
 
 - **Cluster:** Clement name clue (confidence: `MAYBE`)
-  - **Pages:** Pages/cains_jawbone_page_3.md, Pages/cains_jawbone_page_24.md, Pages/cains_jawbone_page_27.md
-  - **Rationale:** Page 24 explicitly frames a name shared by “fourteen popes and two anti-popes” and mentions Giulio de Medici (Clement VII), aligning with the character name Clement on Page 3; Page 27 recalls “tiny Clem”.
+  - **Pages:** Pages/cains_jawbone_page_3.md, Pages/cains_jawbone_page_24.md, Pages/cains_jawbone_page_27.md, Pages/cains_jawbone_page_32.md
+  - **Rationale:** Page 24 explicitly frames a name shared by “fourteen popes and two anti-popes” and mentions Giulio de Medici (Clement VII), aligning with the character name Clement on Page 3; Page 27 recalls “tiny Clem”; Page 32 has Henry meeting with “Clément” yesterday.
   - **Key anchors:** pope-count clue + Giulio de Medici; Page 3’s “meeting with Clement”; Page 27’s “tiny Clem”.
   - **Disconfirming evidence:** Page 24 narrator is explicitly named something else later, or “Clement” is purely thematic.
+
+- **Cluster:** Debts and bills (confidence: `MAYBE`)
+  - **Pages:** Pages/cains_jawbone_page_33.md, Pages/cains_jawbone_page_34.md
+  - **Rationale:** Repeated debt/bill language suggests a continuity hook or blackmail/payoff thread.
+  - **Key anchors:** “I always pay my debts” label; “Bills should always be met squarely”; “valuable services rendered”.
+  - **Disconfirming evidence:** later pages show the phrasing is purely proverbial and does not recur or connect to the will/forgery thread.
 
 ## Candidate sequences
 
