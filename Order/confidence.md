@@ -102,3 +102,25 @@ Track *in-world* death/murder hypotheses separately from page-ordering hypothese
   - **Narrative tells:** Wordplay that reads like a literal threat (“That signed his death warrant. Well, signatures were his business.”).
   - **Evidence summary:** The page implies a decision to kill a newly introduced man, but no act or outcome is narrated.
   - **Falsifiers:** “Death warrant” is purely idiomatic or comic wordplay with no subsequent in-world harm to this person.
+
+- `E08` (confidence: `0.25`; status: `active`)
+  - **Pages:** Pages/cains_jawbone_page_99.md
+  - **Victim candidate(s):** `UNKNOWN` (woman previously “killed” by the narrator; identity unclear)
+  - **Murderer candidate(s):** `UNKNOWN` (narrator claims responsibility)
+  - **Means/method:** `UNKNOWN`
+  - **Motive:** `UNKNOWN`
+  - **Opportunity:** `UNKNOWN`
+  - **Narrative tells:** Casual aside (“she wasn’t the one I’d killed”) paired with possible non-human POV wordplay (“three more left”).
+  - **Evidence summary:** The page contains an explicit killing admission, but the victim and context are not established (could be literal murder or non-human/hyperbolic usage).
+  - **Falsifiers:** Later context shows “killed” refers to an animal kill/idiom/metaphor rather than an in-world murder victim.
+
+- `E09` (confidence: `0.35`; status: `active`)
+  - **Pages:** Pages/cains_jawbone_page_100.md
+  - **Victim candidate(s):** `UNKNOWN` (narrator collapse/possible death); MAYBE `P01` (Henry)
+  - **Murderer candidate(s):** `UNKNOWN` (woman present; role unclear)
+  - **Means/method:** `UNKNOWN` (MAYBE heart failure; MAYBE poisoning/violence)
+  - **Motive:** `UNKNOWN`
+  - **Opportunity:** Antagonistic woman is physically present and “gloating” as narrator cannot rise; Henry is “getting out of hand.”
+  - **Narrative tells:** Valedictory framing (“Good-bye, Henry”); quoted lines about withdrawing and heart-illness; Scotland Yard invoked.
+  - **Evidence summary:** Strong in-world crisis/death signal at the end of a segment, but agency and the exact victim(s) are not confirmed.
+  - **Falsifiers:** Later pages show the narrator (and Henry) intact and the scene is revealed as rhetorical rather than an in-world death event.
