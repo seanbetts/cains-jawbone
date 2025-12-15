@@ -5,3 +5,28 @@ My guest has, I think, a Byzantine beauty, as of a golden snake. Is she, or is s
 
 ## Notes
 
+- **Entities:**
+  - CERTAIN: guest (unnamed “she”; described as “Byzantine beauty” and “pale about the Gills”).
+  - CERTAIN: Sanders (named; reappears; gazes NW over a bay).
+  - CERTAIN: Henry (referenced as being “at home in Woodstock”).
+  - CERTAIN: narrator (“I”).
+  - MAYBE: “dead man” whose letter is shown (could relate to `P59` on Pages/cains_jawbone_page_62.md).
+- **Places:**
+  - CERTAIN: “little bay” / water view (northwest).
+  - MAYBE: Woodstock (as Henry’s home reference).
+- **Quotes & allusions:**
+  - CERTAIN: “Of the old bold mate of Henry Morgan.” (continuation of the quotation begun on Pages/cains_jawbone_page_86.md).
+  - MAYBE: Henry Morgan (historical pirate; allusive).
+- **Motifs/continuity hooks:**
+  - Coastal/bay imagery (twisted trees, thick-windowed house, hills under cloud).
+  - “dead man’s letter” prop (possible continuity with death/letter threads).
+  - Hand/decomposition imagery (“wet skeleton hand… putrescence”).
+- **Voice/tells:**
+  - Lyrical landscape description abruptly flips into visceral corpse-imagery.
+- **Ordering hypotheses:**
+  - CERTAIN: preceded by Pages/cains_jawbone_page_86.md (quote continuation).
+- **Disconfirming evidence:**
+  - If “Of the old bold mate of Henry Morgan” is a separate allusion rather than the continuation of the prior quotation.
+- **Research needed:**
+  - Identify the poem/source and whether it anchors a date/voice segment.
+  - Identify who Sanders is (and whether he recurs in other “coastal” pages).

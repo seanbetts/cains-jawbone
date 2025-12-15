@@ -6,3 +6,33 @@ Next day I let Caroline Jasmine---what a name!---do her very damnedest for my gu
 
 ## Notes
 
+- **Entities:**
+  - CERTAIN: Caroline Jasmine (named; tends to narrator’s guest/patient).
+  - CERTAIN: Henry (named; “about his business”).
+  - CERTAIN: narrator (“I”).
+  - MAYBE: guest/patient (unnamed; being treated “next day”).
+  - MAYBE: “ravishing correspondent” (unnamed; informs narrator).
+- **Time markers:**
+  - CERTAIN: “Next day”.
+  - CERTAIN: “last week”.
+- **Death/violence cues:**
+  - LIKELY: narrator has used a “tool” before and expects to use it again.
+  - MAYBE: death-wish/intent language (“Perish the thought, and the fellow”; “just as lucky to die”).
+  - MAYBE: poison-immunity tactic mentioned (“Mithradates inoculation”).
+- **Means/method:**
+  - MAYBE: poisoning/antidote logic (Mithradates-style tolerance building).
+  - MAYBE: a physical tool/weapon tied to the line “What is removed drops horribly in a pail.”
+- **Quotes & allusions:**
+  - CERTAIN: quoted lines “But we have all bent low and low and kissed the quiet feet …” (continues on Pages/cains_jawbone_page_87.md).
+- **Motifs/continuity hooks:**
+  - Jasmine name motif (Caroline Jasmine) in a run already heavy with jasmine/flowers.
+  - Host/guest/patient framing echoes other “guest” poisoning setups (compare Pages/cains_jawbone_page_80.md).
+- **Voice/tells:**
+  - Over-precision/insistence about death (“and I know it”) + casual malice.
+- **Ordering hypotheses:**
+  - CERTAIN: Pages/cains_jawbone_page_86.md → Pages/cains_jawbone_page_87.md (direct continuation of the quoted lines).
+- **Disconfirming evidence:**
+  - If the poem quotation is reproduced elsewhere in full (no actual page-break continuity).
+- **Research needed:**
+  - Identify the poem/source for the “quiet feet / old bold mate of Henry Morgan” lines.
+  - Interpret “What is removed drops horribly in a pail” and what “tool” is meant in-world.

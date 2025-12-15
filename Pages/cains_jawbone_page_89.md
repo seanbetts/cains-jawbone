@@ -2,3 +2,24 @@ The ancient had then sat down among the heather to a great dish of brown and swi
 
 ## Notes
 
+- **Entities:**
+  - CERTAIN: “ancient” / “the man” (unnamed; eats collops; answers about memory).
+  - CERTAIN: narrator (“I”).
+- **Death/violence cues:**
+  - MAYBE: narrator intends to kill the man (“That signed his death warrant”) because his memory is “long”.
+- **Means/method:**
+  - MAYBE: alcohol/whisky context is foregrounded (Spey Royal), but no killing method is stated.
+- **Motifs/continuity hooks:**
+  - Food/drink: deer/collops; Spey Royal.
+  - Legal/detective register: “Circumstances alter cases”; “death warrant”.
+  - Signatures/document thread: “signatures were his business” (forgery/will cluster adjacency).
+  - “Panache” beneath the lips (object/appearance prop; unclear).
+- **Voice/tells:**
+  - Threatening punning (signature → death warrant) + self-conscious style commentary.
+- **Ordering hypotheses:**
+  - MAYBE: continues into Pages/cains_jawbone_page_90.md (old gentleman arrives; deer-stalker + fancy parquet setting).
+- **Disconfirming evidence:**
+  - If “death warrant” is purely idiomatic (no in-world death intended).
+- **Research needed:**
+  - Identify what “panache… beneath my lips” refers to (object/appearance).
+  - Determine whether the “signatures” business links to the will/forgery cluster.
