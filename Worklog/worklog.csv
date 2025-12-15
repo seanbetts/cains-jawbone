@@ -18,3 +18,4 @@ date,agent,task,start,end,minutes,branch,commit,notes
 2025-12-15,codex-cli,extract pages 46-50,2025-12-15T18:33:46Z,2025-12-15T18:43:38Z,10,run/20251215-codex-extraction-pass1,41da90a,"Added notes for pages 46-50 and updated indices plus clusters."
 2025-12-15,codex-cli,extract pages 51-55,2025-12-15T18:50:18Z,2025-12-15T18:56:47Z,6,run/20251215-codex-extraction-pass1,12663f7,"Added notes for pages 51-55 and updated indices plus clusters."
 2025-12-15,codex-cli,extract pages 56-60,2025-12-15T18:57:54Z,2025-12-15T19:05:43Z,8,run/20251215-codex-extraction-pass1,7cbbac1,"Added notes for pages 56-60 and updated indices plus clusters."
+2025-12-15,codex-cli,skills: murder analysis + ledgers,2025-12-15T19:22:00Z,2025-12-15T19:26:53Z,5,run/20251215-codex-extraction-pass1,e1851b9,"Added murder-analysis skills and created cast/confidence ledgers."
