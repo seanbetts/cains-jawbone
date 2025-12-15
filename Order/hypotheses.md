@@ -66,11 +66,23 @@ Template:
   - **Key anchors:** “cocktail after cocktail”; cigarette; “Lover’s Delight” / “Banana Split” / “the Dawn”; Henry guiding narrator (Page 42); Alexander (“Ecky”) narrator voice (Page 43).
   - **Disconfirming evidence:** later pages show these are separate narrators/venues and the drink/dessert titles do not recur together.
 
+- **Cluster:** Whitman quotations (confidence: `MAYBE`)
+  - **Pages:** Pages/cains_jawbone_page_32.md, Pages/cains_jawbone_page_51.md
+  - **Rationale:** Multiple explicit Whitman snippets suggest a shared narrator reading set or a deliberate “Whitman voice” cluster.
+  - **Key anchors:** Page 32’s Whitman “good fortune” quote + scansion talk; Page 51’s “I dance with the dancers…” and other Whitman lines.
+  - **Disconfirming evidence:** Whitman lines appear scattered across many unrelated narrators without other shared tells.
+
 - **Cluster:** Plant/poison thread (confidence: `MAYBE`)
-  - **Pages:** Pages/cains_jawbone_page_6.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_24.md, Pages/cains_jawbone_page_29.md, Pages/cains_jawbone_page_30.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_40.md
+  - **Pages:** Pages/cains_jawbone_page_6.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_24.md, Pages/cains_jawbone_page_29.md, Pages/cains_jawbone_page_30.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_40.md, Pages/cains_jawbone_page_54.md
   - **Rationale:** Repeated botanical poison language (foxgloves/digitalis, calabar/physostigma, hellebore, lobelia, “lords and ladies”, gardenia taxonomy) suggests a shared narrator expertise or method thread.
-  - **Key anchors:** “foxgloves” / “digitalis purpurea”; “Calabar Bean” / “physostigma” / “old Calabar”; “hellebore”; lobelia + “lords and ladies”; Cape Jasmine/gardenia precision; beans/pill + potato leaves.
+  - **Key anchors:** “foxgloves” / “digitalis purpurea”; “Calabar Bean” / “physostigma” / “old Calabar”; “hellebore”; lobelia + “lords and ladies”; Cape Jasmine/gardenia precision; beans/pill + potato leaves; Page 54’s “pestle a poisoned poison” + “green blood” horticulture.
   - **Disconfirming evidence:** later pages show these are isolated metaphors with no shared voice/continuity.
+
+- **Cluster:** “To-day” as historical date marker (confidence: `MAYBE`)
+  - **Pages:** Pages/cains_jawbone_page_52.md, Pages/cains_jawbone_page_54.md, Pages/cains_jawbone_page_55.md
+  - **Rationale:** Each page ties “to-day” to a specific historical event/holiday (diamond necklace acquittal; Waterloo/La Belle Alliance; a “fifth” deliverance holiday), suggesting calendar-key ordering mechanics.
+  - **Key anchors:** Diamond Necklace cardinal acquittal; “meeting at La Belle Alliance”; “James… the Earl and his brother Alexander”.
+  - **Disconfirming evidence:** “to-day” references are purely decorative and do not resolve to dates or ordering constraints.
 
 - **Cluster:** Animal POV (confidence: `MAYBE`)
   - **Pages:** Pages/cains_jawbone_page_19.md, Pages/cains_jawbone_page_22.md, Pages/cains_jawbone_page_46.md, Pages/cains_jawbone_page_48.md
@@ -97,3 +109,7 @@ Template:
 - **Sequence (confidence: CERTAIN/LIKELY/MAYBE):** `Pages/cains_jawbone_page_?.md → …`
   - **Why:**  
   - **Disconfirming evidence:**  
+
+- **Sequence (confidence: MAYBE):** `Pages/cains_jawbone_page_52.md → Pages/cains_jawbone_page_53.md`
+  - **Why:** Page 52 sets up an interview-with-papers framed as “commentary… page after page”; Page 53 continues with an “introduced to me” subject (Sir Paul Trinder) in drink, consistent with a run of interview pages.
+  - **Disconfirming evidence:** the “man who entered” on Page 52 is clearly a different person/context from Sir Paul Trinder, with no sustained interview continuity.
