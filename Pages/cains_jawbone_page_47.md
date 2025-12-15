@@ -2,3 +2,27 @@ Babs now moves across the vision, crowned with two straight downfalls, as it wer
 
 ## Notes
 
+- **Entities:**
+  - CERTAIN: Babs.
+  - CERTAIN: Henry.
+  - MAYBE: unnamed “she” (opposite narrator; “has got me”).
+- **Time markers:**
+  - CERTAIN: “first… rain of the week”.
+- **Places:**
+  - CERTAIN: England (memory persists “even in England”).
+  - MAYBE: a hot verandah setting (likely abroad; exact place unknown).
+- **Motifs/continuity hooks:**
+  - Weather shift: drought → first rain; “little silver frogs” on the road.
+  - Hair description: “two… downfalls… of copper… twin cataracts”.
+  - Tea: Orange Pekoe → Special Orange Supreme.
+  - Henry policing diction: dislikes “got me”.
+- **Voice/tells:**
+  - Highly visual, metaphor-heavy; keeps returning to sensory weather memories.
+- **Ordering hypotheses:**
+  - CERTAIN: add to Henry-occurrence cluster.
+  - MAYBE: links to tea pages (e.g., Pages/cains_jawbone_page_17.md) via Orange Pekoe/tea naming.
+- **Disconfirming evidence:**
+  - If “Orange Pekoe / Special Orange Supreme” turns out to be non-tea (menu/code) rather than beverage continuity.
+- **Research needed:**
+  - Identify whether “Special Orange Supreme” is a specific tea brand/venue menu item.
+  - Track whether Babs recurs (and whether Babs vs “she” are distinct).

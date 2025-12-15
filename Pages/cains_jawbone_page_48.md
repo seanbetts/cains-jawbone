@@ -2,3 +2,26 @@ I had always thought that Tate essentially meant sugar. This I liked almost next
 
 ## Notes
 
+- **Entities:**
+  - CERTAIN: Ecky (met “that evening”).
+  - MAYBE: “Tate” (sugar association; likely Tate & Lyle).
+  - MAYBE: unnamed “he” and “her” (a couple; narrator thinks they are together too much).
+- **Time markers:**
+  - CERTAIN: “to-day”; “that evening”.
+- **Quotes & allusions:**
+  - “wormed his way into the Book of Common Prayer” (context unclear; likely a specific phrase/event clue).
+- **Motifs/continuity hooks:**
+  - Sugar hoarding: kept under the gas fire and pulled out secretly.
+  - Dog-coded self-description: “sad dog”; greeted Ecky who nearly fell on narrator’s nose.
+  - Cocktails + botanical joke-name: “Crataegus Oxyacantha”.
+- **Voice/tells:**
+  - Strong animal/dog POV candidate (nose/body perspective); comic literalism.
+- **Ordering hypotheses:**
+  - MAYBE: animal POV cluster.
+  - MAYBE: links to Pages/cains_jawbone_page_43.md via Ecky/Alexander recurrence.
+- **Disconfirming evidence:**
+  - If later context makes the “nose” and “sad dog” language purely idiomatic (human narrator).
+- **Research needed:**
+  - Confirm “Tate” sugar reference and what “the sugar one” implies.
+  - Interpret the Book of Common Prayer + “wormed his way” clue.
+  - Why “Crataegus Oxyacantha” is “his big joke” (does it encode a name like “May”?).

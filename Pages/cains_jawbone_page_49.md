@@ -7,3 +7,21 @@ I always feel a bit dazed on these occasions, and was so then. But it was pleasa
 
 ## Notes
 
+- **Entities:**
+  - CERTAIN: Henry.
+  - MAYBE: Palamabron; Elynittria (quoted mythic figures).
+- **Quotes & allusions:**
+  - “Bring Palamabron, horned priest… And silent Elynittria…” (likely William Blake; needs confirmation).
+- **Motifs/continuity hooks:**
+  - Repeated dazedness (“on these occasions”).
+  - Physical description of Henry (cleft chin; show hairs behind ears).
+  - Henry framed as compelled to “destroy… for family reasons”.
+- **Voice/tells:**
+  - “simple soul” register but highly allusive (poet quotation).
+- **Ordering hypotheses:**
+  - CERTAIN: add to Henry-occurrence cluster.
+  - MAYBE: family-curse/motive thread for Henry’s repeated destruction.
+- **Disconfirming evidence:**
+  - If the quoted lines are later shown to be misremembered/assembled (not a stable allusion anchor).
+- **Research needed:**
+  - Confirm the poet/source of the Palamabron/Elynittria lines.
