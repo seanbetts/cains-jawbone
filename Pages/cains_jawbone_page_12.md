@@ -6,3 +6,26 @@ I rubbed my eyes and massaged my temples with pronated finger-tips. Then I fumbl
 
 ## Notes
 
+- **Entities:**
+  - MAYBE: vis-à-vis (male; reading “documents”; likely connected to a will).
+  - CERTAIN: Noel Coward (reference).
+- **Time markers:**
+  - MAYBE: “bad head” day (medical state; no explicit date).
+- **Quotes & allusions:**
+  - CERTAIN: “Ah, are you digging on my grave?” (Thomas Hardy poem; “man who sang” = setting/performer unknown).
+  - MAYBE: “The golden one is gone from the banquets… beloved of Atimetus” (source TBD; “Atimetus” may be a misspelling of Admetus).
+  - MAYBE: “King Charles’s Head” (obsession reference; Noel Coward framing unclear).
+- **Wordplay:**
+  - LIKELY: “abstracted” → “abstracted will” (legal pun).
+- **Motifs/continuity hooks:**
+  - Documents/wills; privacy (cigarette case); topaz “searchlight” eyes.
+  - Trust test: “velvet” vs “cinders”.
+- **Voice/tells:**
+  - Legal/estate language + social niceties; opportunistic (“get what I wanted”).
+- **Ordering hypotheses:**
+  - MAYBE: will/inheritance cluster with Pages/cains_jawbone_page_14.md (overheard “leave everything to me… May”).
+- **Disconfirming evidence:**
+  - If Page 14’s “leave everything” is unrelated (different people/context).
+- **Research needed:**
+  - Identify “The golden one is gone…” source and correct name (Atimetus/Admetus).
+  - Clarify the Noel Coward / “King Charles’s Head” reference.

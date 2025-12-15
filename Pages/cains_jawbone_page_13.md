@@ -8,3 +8,23 @@ Then against a possible invasion of my privacy, I touched my white cheeks until 
 
 ## Notes
 
+- **Entities:**
+  - MAYBE: farm-labourer (unnamed man; “Newdigate fringe”).
+  - CERTAIN: Henry (present; “stooping over the other body”).
+  - MAYBE: market place conduit (dated 1597; implies specific town).
+- **Time markers:**
+  - MAYBE: implied immediacy (“now”; no explicit date).
+- **Quotes & allusions:**
+  - CERTAIN: William Blake (“Rintrah… Ocalythron”).
+- **Motifs/continuity hooks:**
+  - Bodies/corpses; discomfort about privacy; empty pipe.
+  - Need for water vs fixed infrastructure (historic conduit).
+- **Voice/tells:**
+  - Self-conscious, classed description (“Bloomsbury”); familiarity with grim scenes (“native to me”).
+- **Ordering hypotheses:**
+  - MAYBE: Henry-handling-bodies cluster with Pages/cains_jawbone_page_14.md (Henry cleaning flesh/wine remnants).
+- **Disconfirming evidence:**
+  - If Henry here is later clearly distinct from Henry elsewhere (different role/setting).
+- **Research needed:**
+  - Identify which market place has a conduit dated 1597 (place anchor).
+  - What is meant by “Newdigate fringe” (hair/clue/reference)?

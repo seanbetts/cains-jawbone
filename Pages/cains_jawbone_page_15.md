@@ -2,3 +2,26 @@ Now, I considered, in my dear Lyons it would be coming of age hours, and I wonde
 
 ## Notes
 
+- **Entities:**
+  - MAYBE: “Lyons” (place vs Lyons tea-shop/Corner House; narrator’s “dear Lyons”).
+  - MAYBE: Bart (likely a dog; “chewing… moccasins”).
+  - CERTAIN: B.B.C. (reference).
+  - MAYBE: John Hewit; Sarah Drew (pair killed by lightning; anecdotal anchor).
+  - CERTAIN: Alexander Pope (likely the “only noteworthy Pope” of narrator’s native land).
+  - MAYBE: narrator’s “namesake” (wrote a letter describing the lightning deaths).
+- **Time markers:**
+  - MAYBE: “coming of age hours” (time-of-day phrasing; unclear).
+  - CERTAIN: “On that very day…” introduces a date-anchored anecdote (lightning strike).
+- **Motifs/continuity hooks:**
+  - Broadcasting/England: urge to “broadcast it all” and let “England” deal with it.
+  - Lightning death details (injury descriptions); letters as evidence.
+  - Domestic scene marker: dog chewing footwear.
+- **Voice/tells:**
+  - Reflective, civic-minded (“mighty heart of England”); detail-heavy macabre reportage.
+- **Ordering hypotheses:**
+  - MAYBE: calendar-anchor cluster with other “to-day” historical-death pages (e.g. Pages/cains_jawbone_page_8.md).
+- **Disconfirming evidence:**
+  - If the John Hewit/Sarah Drew event cannot be tied to a specific date (or is fictionalised).
+- **Research needed:**
+  - Identify the John Hewit + Sarah Drew lightning incident (date/place) and the letter-writer (narrator’s namesake).
+  - Clarify what “Lyons” refers to here and what “coming of age hours” means.

@@ -2,3 +2,23 @@ My ears were becoming attuned, and for the first time I heard clearly what the w
 
 ## Notes
 
+- **Entities:**
+  - CERTAIN: May (named; addressed directly).
+  - CERTAIN: Henry (stoops/cleans at narrator’s sign; subordinate role here).
+  - MAYBE: Janetta Sheringham (voice comparison).
+  - MAYBE: John (from pastoral memory; not necessarily the same as “May’s” companion).
+- **Time markers:**
+  - MAYBE: none explicit; conversation pause suggests contemporaneous overhearing.
+- **Motifs/continuity hooks:**
+  - Will/inheritance: “leave everything to me”.
+  - Spilled wine + “fragments of… flesh” (disturbing physical aftermath).
+  - Pastoral nostalgia: hay field; buttered rolls; straw games; cricket-as-war-horse imagery.
+- **Voice/tells:**
+  - Eavesdropping, then retreat (“none of my business”); memory-driven associative leaps.
+- **Ordering hypotheses:**
+  - MAYBE: paired with Pages/cains_jawbone_page_12.md (documents/will framing + poet quote).
+  - MAYBE: Henry-appears-as-assistant cluster with Pages/cains_jawbone_page_13.md (Henry dealing with bodies/cleanup).
+- **Disconfirming evidence:**
+  - If “May” later appears in a clearly different social circle/time than Page 12’s documents scene.
+- **Research needed:**
+  - Identify Janetta Sheringham (character/real reference?) and whether she recurs.
