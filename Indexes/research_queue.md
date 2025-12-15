@@ -677,3 +677,66 @@ Template:
   - **Why it matters:** May be an intentional binary/musical/Morse-like code useful for ordering or identification.
   - **Status:** `open`
   - **Result:**
+
+- **Item:** Identify the “Asolo silk mills” / “Pippa” references in Page 56
+  - **Type:** quote/other
+  - **Pages:** Pages/cains_jawbone_page_56.md
+  - **Why it matters:** Could anchor narrator reading set (likely Browning/Asolo) and link other Browning-heavy pages.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify Brookesley and “Felton’s meat” (Page 57)
+  - **Type:** place/other
+  - **Pages:** Pages/cains_jawbone_page_57.md
+  - **Why it matters:** May be a concrete place/product anchor for the paper-reading/ham scene.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify the “no noise here… cowslips for her covering” quotation (Page 57)
+  - **Type:** quote
+  - **Pages:** Pages/cains_jawbone_page_57.md
+  - **Why it matters:** Could identify a specific poem/source and connect other embedded verse fragments.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Clarify Armadale Castle as castle vs South Africa “boat” (Page 57)
+  - **Type:** place/other
+  - **Pages:** Pages/cains_jawbone_page_57.md
+  - **Why it matters:** May disambiguate geography (Skye vs ship-route) and yield an ordering anchor.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Interpret Page 58’s “name month” and the “Nuts in May” / Freud punning
+  - **Type:** date/other
+  - **Pages:** Pages/cains_jawbone_page_58.md
+  - **Why it matters:** Might identify the narrator’s name/month or a calendar constraint.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify Inspector Barraclough reference (Page 58)
+  - **Type:** name/other
+  - **Pages:** Pages/cains_jawbone_page_58.md
+  - **Why it matters:** Could anchor the police/official-knock sequence and help link Henry pages.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify the cast-iron “kea” object and gelsemium context in Page 59
+  - **Type:** other
+  - **Pages:** Pages/cains_jawbone_page_59.md
+  - **Why it matters:** Could clarify the poison/method and link to other bird/phoenix/match imagery.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify the “No more by thee my steps…” line source (Page 60)
+  - **Type:** quote
+  - **Pages:** Pages/cains_jawbone_page_60.md
+  - **Why it matters:** Could be a strong poem anchor tying to place/name.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Confirm the date implied by Page 60’s “Francis Ferdinand’s” murder reference
+  - **Type:** date
+  - **Pages:** Pages/cains_jawbone_page_60.md
+  - **Why it matters:** Potential precise “to-day” calendar key for ordering.
+  - **Status:** `open`
+  - **Result:**

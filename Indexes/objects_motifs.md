@@ -37,9 +37,14 @@ Template:
   - **Notes:** Track as drink/poison tell; research period recipe.
 
 - **Cocktails / mixed drinks**
-  - **Instances / variants:** “cocktail after cocktail”; “Lover’s Delight”; “the Dawn”; “over the cocktails”; absinthe; brandy
-  - **Pages:** Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_43.md, Pages/cains_jawbone_page_45.md, Pages/cains_jawbone_page_48.md
+  - **Instances / variants:** “cocktail after cocktail”; “Lover’s Delight” (also as a sundae); “the Dawn”; “over the cocktails”; absinthe; brandy
+  - **Pages:** Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_43.md, Pages/cains_jawbone_page_45.md, Pages/cains_jawbone_page_48.md, Pages/cains_jawbone_page_60.md
   - **Notes:** Bar/club continuity candidate; overlaps with cigarette and seduction motifs.
+
+- **Westphalian ham**
+  - **Instances / variants:** coffee + Westphalian ham sandwiches; “over the Westphalian ham…”
+  - **Pages:** Pages/cains_jawbone_page_52.md, Pages/cains_jawbone_page_57.md
+  - **Notes:** Potential continuity hook for the papers/interview scene(s).
 
 - **Food brands (Bisto, Cerebos)**
   - **Instances / variants:** used as comic refrain
@@ -77,9 +82,9 @@ Template:
   - **Notes:** Brand could be a period/class tell; may link to pipe/smoking pages.
 
 - **Optics / “powerful glass”**
-  - **Instances / variants:** “powerful glass” + measurement obsession
-  - **Pages:** Pages/cains_jawbone_page_8.md
-  - **Notes:** Possible profession clue (photography/science) or scene-specific prop.
+  - **Instances / variants:** “powerful glass” + measurement obsession; “heliographic record” taken from folding steps
+  - **Pages:** Pages/cains_jawbone_page_8.md, Pages/cains_jawbone_page_60.md
+  - **Notes:** Possible profession clue (photography/science) or scene-specific prop; heliography implies photography.
 
 - **Smells / scent memory**
   - **Instances / variants:** “Smells meant a lot to me” triggering a vivid recall (Vera Cruz fonda + blood on guitar strings)
@@ -192,9 +197,9 @@ Template:
   - **Notes:** Brand clue; may cluster with other cigarette brands (e.g., Gourdoulis).
 
 - **Roses / jasmine / hellebore**
-  - **Instances / variants:** wild jasmine; roses; “hellebore” as nuisance term; brimming bowl of yellow jasmine
-  - **Pages:** Pages/cains_jawbone_page_24.md, Pages/cains_jawbone_page_37.md
-  - **Notes:** Plant motif overlaps with poison/gardening narrator threads.
+  - **Instances / variants:** wild jasmine; roses; “hellebore” as nuisance term; brimming bowl of yellow jasmine; Gelsemium semper-virens (yellow jasmine)
+  - **Pages:** Pages/cains_jawbone_page_24.md, Pages/cains_jawbone_page_37.md, Pages/cains_jawbone_page_59.md
+  - **Notes:** Plant motif overlaps with poison/gardening narrator threads; gelsemium is a poison plant.
 
 - **Eggs / omelette**
   - **Instances / variants:** gift of eggs; “couldn’t have an omelette without breaking eggs”

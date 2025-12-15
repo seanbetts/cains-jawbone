@@ -13,9 +13,9 @@ Template:
 ## Entries
 
 - `P01` — Names/aliases: Henry
-  - **Tells:** LIKELY actor (played Lesurques); LIKELY serial “intended” (has an “intended fifth”); associated with (possibly toxic) “Emperor’s Peg” at a ruined lighthouse; has a “great voice” linked to a “capstan bar”; appears as a subordinate who stoops/cleans and handles bodies; object of romance (“ready to love”); described as having multiple “killings” and a “latest victim” with blood present; later pursued by police (“flying squad”); linked to burying a corpse with “only the eyes” showing; also appears as a husband/guide in social scenes; linked to a half-burned marriage certificate; seen bending over a corpse of his own making; framed as “doomed to destroy… for family reasons”.
+  - **Tells:** LIKELY actor (played Lesurques); LIKELY serial “intended” (has an “intended fifth”); associated with (possibly toxic) “Emperor’s Peg” at a ruined lighthouse; has a “great voice” linked to a “capstan bar”; appears as a subordinate who stoops/cleans and handles bodies; object of romance (“ready to love”); described as having multiple “killings” and a “latest victim” with blood present; later pursued by police (“flying squad”); linked to burying a corpse with “only the eyes” showing; also appears as a husband/guide in social scenes; linked to a half-burned marriage certificate; seen bending over a corpse of his own making; framed as “doomed to destroy… for family reasons”; explicit “third” (family lawyer) and “fourth” (chardlady) victims; described as an investigator (“peerless investigator”).
   - **Pronouns/relationships:** described as “the angel”; sometimes an absent advisor; sometimes an assistant obeying signals.
-  - **Pages:** Pages/cains_jawbone_page_2.md, Pages/cains_jawbone_page_4.md, Pages/cains_jawbone_page_5.md, Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_16.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_26.md, Pages/cains_jawbone_page_31.md, Pages/cains_jawbone_page_32.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_41.md, Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_44.md, Pages/cains_jawbone_page_45.md, Pages/cains_jawbone_page_47.md, Pages/cains_jawbone_page_49.md
+  - **Pages:** Pages/cains_jawbone_page_2.md, Pages/cains_jawbone_page_4.md, Pages/cains_jawbone_page_5.md, Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_16.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_26.md, Pages/cains_jawbone_page_31.md, Pages/cains_jawbone_page_32.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_41.md, Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_44.md, Pages/cains_jawbone_page_45.md, Pages/cains_jawbone_page_47.md, Pages/cains_jawbone_page_49.md, Pages/cains_jawbone_page_58.md, Pages/cains_jawbone_page_60.md
   - **Notes:** MAYBE multiple different “Henrys” across the book; do not merge/split without stronger anchors (surname, role, setting continuity).
 
 - `P02` — Names/aliases: Casy Ferris
@@ -309,11 +309,29 @@ Template:
 - `P50` — Names/aliases: Sir Paul Trinder
   - **Tells:** public talker (“furor loquendi”); loudly attaches to “every ebbing cause” for twenty years; appears drunk and useful to an interviewer; recognisable beard (“white bear”).
   - **Pronouns/relationships:** introduced to narrator/interviewer.
-  - **Pages:** Pages/cains_jawbone_page_53.md
-  - **Notes:** MAYBE satirical fictional; treat as in-world unless confirmed otherwise.
+  - **Pages:** Pages/cains_jawbone_page_53.md, Pages/cains_jawbone_page_59.md
+  - **Notes:** MAYBE satirical fictional; treat as in-world unless confirmed otherwise; Page 60’s “figurehead beard” target may refer to him.
 
 - `P51` — Names/aliases: Miss Doncaster
   - **Tells:** writes to narrator advising “the old man” to come; asks for a pestling/poisoning task; stirs narrator.
   - **Pronouns/relationships:** adviser/letter-writer.
   - **Pages:** Pages/cains_jawbone_page_54.md
   - **Notes:** Track if she appears elsewhere in the plant/poison thread.
+
+- `P52` — Names/aliases: Mrs. Larkin
+  - **Tells:** runs a school (mixed infants); narrator recalls early “uncanny powers” there.
+  - **Pronouns/relationships:** teacher/schoolmistress (recollected).
+  - **Pages:** Pages/cains_jawbone_page_56.md
+  - **Notes:** Likely minor unless the school/childhood thread recurs.
+
+- `P53` — Names/aliases: Inspector Barraclough
+  - **Tells:** possible identity behind an “official knock” at a “little blue door”.
+  - **Pronouns/relationships:** police inspector (uncertain).
+  - **Pages:** Pages/cains_jawbone_page_58.md
+  - **Notes:** Not confirmed present; name appears as a guess.
+
+- `P54` — Names/aliases: Charles (sundae maker; uncertain)
+  - **Tells:** ordered to prepare “Lover’s Delight” sundae “spar[ing] no expense”.
+  - **Pronouns/relationships:** subordinate/assistant to narrator; not necessarily the same as other Charl(es/ies).
+  - **Pages:** Pages/cains_jawbone_page_60.md
+  - **Notes:** Distinguish from `P10` Charles Day and `P44` Charles Goodfellow unless anchored.

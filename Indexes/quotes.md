@@ -293,6 +293,27 @@ Template:
   - **Confidence:** `LIKELY`
   - **Research needed:** yes — confirm event/date and how it’s used.
 
+- **Snippet:** “no noise here, but the toning of a tear, or a sigh of such as bring cowslips for her covering”
+  - **Likely source/author:** TBD
+  - **Why it matters:** Poetic quotation embedded in a paper-reading/ham scene; may identify narrator reading set and link other quoted fragments.
+  - **Pages:** Pages/cains_jawbone_page_57.md
+  - **Confidence:** `MAYBE`
+  - **Research needed:** yes — identify source/context.
+
+- **Snippet:** “Death closes all : but something ere the end, some work of noble note, may yet be done.”
+  - **Likely source/author:** Alfred, Lord Tennyson (*Ulysses*)
+  - **Why it matters:** Strong allusion anchor in a declared-success murder scene; may cluster narrator voice.
+  - **Pages:** Pages/cains_jawbone_page_60.md
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
+
+- **Snippet:** “No more by thee my steps shall be for ever and for ever.”
+  - **Likely source/author:** TBD
+  - **Why it matters:** Distinct farewell line; could identify a specific poem and tie to a place/name.
+  - **Pages:** Pages/cains_jawbone_page_60.md
+  - **Confidence:** `MAYBE`
+  - **Research needed:** yes — identify source/context.
+
 - **Snippet:** “He was my friend… he was dear to me.”
   - **Likely source/author:** TBD (quoted as from “the murderous doctor”)
   - **Why it matters:** Could identify a specific “murderous doctor” text/trial and link the doctor plotline.

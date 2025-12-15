@@ -263,3 +263,39 @@ Template:
   - **Confidence:** `MAYBE`
   - **Pages:** Pages/cains_jawbone_page_55.md
   - **Notes:** “Old Mill at Bramley” picture with medlar tree, dovecot, grape vine; Bramley location needs identification.
+
+- **Asolo**
+  - **Type:** town
+  - **Confidence:** `CERTAIN`
+  - **Pages:** Pages/cains_jawbone_page_56.md
+  - **Notes:** Referenced via “Asolo silk mills” and Pippa; likely Browning/Asolo allusion cluster.
+
+- **Brookesley (uncertain)**
+  - **Type:** town/village
+  - **Confidence:** `MAYBE`
+  - **Pages:** Pages/cains_jawbone_page_57.md
+  - **Notes:** Delivery location for “Felton’s meat”; identification needed.
+
+- **Nagpur**
+  - **Type:** city
+  - **Confidence:** `CERTAIN`
+  - **Pages:** Pages/cains_jawbone_page_57.md
+  - **Notes:** Appears in “bits of paper” list; could be reference rather than setting.
+
+- **Amazon**
+  - **Type:** river/region
+  - **Confidence:** `CERTAIN`
+  - **Pages:** Pages/cains_jawbone_page_57.md
+  - **Notes:** Appears in “bits of paper” list; could be reference rather than setting.
+
+- **South Africa**
+  - **Type:** region/country
+  - **Confidence:** `CERTAIN`
+  - **Pages:** Pages/cains_jawbone_page_57.md
+  - **Notes:** Mentioned as a boat route destination.
+
+- **Armadale Castle**
+  - **Type:** castle/ship (ambiguous)
+  - **Confidence:** `MAYBE`
+  - **Pages:** Pages/cains_jawbone_page_57.md
+  - **Notes:** Referred to as a “boat” to South Africa but also as an “old” place known by narrator’s people; likely castle vs ship ambiguity.
