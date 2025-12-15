@@ -8,3 +8,4 @@ date,agent,task,start,end,minutes,branch,commit,notes
 2025-12-15,codex-cli,docs: clarify run + extraction-first,2025-12-15T15:29:33Z,2025-12-15T15:32:55Z,3,run/20251215-codex-extraction-pass1,7480856,"Clarified run scope and extraction-first sequencing in instructions."
 2025-12-15,codex-cli,extract pages 6-10,2025-12-15T15:34:30Z,2025-12-15T15:40:43Z,6,run/20251215-codex-extraction-pass1,8e09a9d,"Added notes for pages 6-10 and updated indices plus new clusters."
 2025-12-15,codex-cli,rename run branch,2025-12-15T15:44:07Z,2025-12-15T15:45:21Z,1,run/20251215-codex-extraction-pass1,3a8f2b5,"Renamed run branch and updated run metadata references."
+2025-12-15,codex-cli,extract pages 11-15,2025-12-15T17:27:01Z,2025-12-15T17:34:06Z,7,run/20251215-codex-extraction-pass1,43bae20,"Added notes for pages 11-15 and updated indices plus clusters."
