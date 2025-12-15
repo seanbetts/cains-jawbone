@@ -22,6 +22,51 @@ Track people as candidates with evolving roles. This file is deliberately probab
 
 ## Entries
 
+- `P01`
+  - **Aliases / names used:** Henry
+  - **Role candidate:** `murderer`
+  - **Confidence (0.0–1.0):** 0.60
+  - **Supporting pages:** Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_45.md, Pages/cains_jawbone_page_58.md
+  - **Evidence summary:** Repeatedly framed with victims/corpses and a numbered victim list: seen over “the body of his latest victim” with blood; linked to corpse-burial; described with an ongoing “crimson list”; explicitly tallied “third” and “fourth” victims.
+  - **Falsifiers:** “Victim/corpse” language resolves as non-lethal (e.g., stage/medical metaphor), or `P01` conflates multiple distinct “Henrys” and the murderous Henry is a different person from other Henry appearances.
+  - **Status:** `active`
+
+- `P92`
+  - **Aliases / names used:** “old family lawyer” (unnamed)
+  - **Role candidate:** `victim`
+  - **Confidence (0.0–1.0):** 0.90
+  - **Supporting pages:** Pages/cains_jawbone_page_58.md
+  - **Evidence summary:** Referred to as Henry’s “third” victim with explicit bodily aftermath (“viscera”).
+  - **Falsifiers:** The passage is revealed as metaphor/genre exaggeration, or “third… victim” is shown to refer to something other than an in-world death.
+  - **Status:** `active`
+
+- `P93`
+  - **Aliases / names used:** “rash intruding charlady” (unnamed)
+  - **Role candidate:** `victim`
+  - **Confidence (0.0–1.0):** 0.90
+  - **Supporting pages:** Pages/cains_jawbone_page_58.md
+  - **Evidence summary:** Referred to as Henry’s “fourth” victim with “cooling remains” immediately present.
+  - **Falsifiers:** The “fourth… victim” framing is metaphorical/embedded-fiction, or later pages show the charlady is alive and the scene is non-literal.
+  - **Status:** `active`
+
+- `P91`
+  - **Aliases / names used:** “dead old man”
+  - **Role candidate:** `victim`
+  - **Confidence (0.0–1.0):** 0.15
+  - **Supporting pages:** Pages/cains_jawbone_page_1.md
+  - **Evidence summary:** Mentioned as already dead (“the dead old man”) in a context implying prior narrative work done for him.
+  - **Falsifiers:** Later context shows this is a purely allusive/quoted “dead old man” rather than an in-world person, or the death is unrelated to the book’s six in-world murders.
+  - **Status:** `active`
+
+- `P48`
+  - **Aliases / names used:** Hal
+  - **Role candidate:** `murderer`
+  - **Confidence (0.0–1.0):** 0.10
+  - **Supporting pages:** Pages/cains_jawbone_page_46.md
+  - **Evidence summary:** States “not the one I killed in the matter of Jasmine”, implying a prior killing of “Tom” connected to “Jasmine”.
+  - **Falsifiers:** The passage is confirmed as animal POV and “Tom” is an animal (or the line is idiomatic/metaphorical), making it irrelevant to the six human murders.
+  - **Status:** `active`
+
 - `P59`
   - **Aliases / names used:** “dead man”
   - **Role candidate:** `victim`
@@ -52,10 +97,10 @@ Track people as candidates with evolving roles. This file is deliberately probab
 - `P50`
   - **Aliases / names used:** Sir Paul Trinder
   - **Role candidate:** `victim`
-  - **Confidence (0.0–1.0):** 0.25
-  - **Supporting pages:** Pages/cains_jawbone_page_80.md
-  - **Evidence summary:** Hosted at narrator’s home with aconitum/Fleming’s tincture in play and sherry served; setup reads like a poisoning opportunity.
-  - **Falsifiers:** Aconitum is confirmed to be purely a specimen demonstration with no administration, or Sir Paul is shown to leave unharmed with no illness.
+  - **Confidence (0.0–1.0):** 0.40
+  - **Supporting pages:** Pages/cains_jawbone_page_53.md, Pages/cains_jawbone_page_59.md, Pages/cains_jawbone_page_60.md, Pages/cains_jawbone_page_80.md
+  - **Evidence summary:** Introduced with a distinctive beard; later a detective-sergeant is investigating a strange death while Trinder is “about”; a subsequent “success” claim suggests a “figurehead beard” will “plough… no more” (possibly Trinder); separately, aconitum/Fleming’s tincture is foregrounded in a hosted sherry scene.
+  - **Falsifiers:** “Figurehead beard” is confirmed as someone else, or Trinder is later shown alive/unharmed and the poison framing resolves as non-lethal or unrelated.
   - **Status:** `active`
 
 - `P75`

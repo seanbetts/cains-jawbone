@@ -124,3 +124,91 @@ Track *in-world* death/murder hypotheses separately from page-ordering hypothese
   - **Narrative tells:** Valedictory framing (“Good-bye, Henry”); quoted lines about withdrawing and heart-illness; Scotland Yard invoked.
   - **Evidence summary:** Strong in-world crisis/death signal at the end of a segment, but agency and the exact victim(s) are not confirmed.
   - **Falsifiers:** Later pages show the narrator (and Henry) intact and the scene is revealed as rhetorical rather than an in-world death event.
+
+- `E10` (confidence: `0.85`; status: `active`)
+  - **Pages:** Pages/cains_jawbone_page_58.md
+  - **Victim candidate(s):** `P92` (old family lawyer; Henry’s “third”)
+  - **Murderer candidate(s):** `P01` (Henry)
+  - **Means/method:** `UNKNOWN` (graphic bodily aftermath implies physical violence, but no method named)
+  - **Motive:** `UNKNOWN`
+  - **Opportunity:** Henry is described in direct proximity to the aftermath and is framed as the agent by the “third… victim” tally.
+  - **Narrative tells:** Explicit victim counting (“his third”) + grotesque detail (“viscera”) suggest an in-world killing rather than a mere threat.
+  - **Evidence summary:** Page 58 asserts a specific in-world victim as Henry’s “third” with physical remains described.
+  - **Falsifiers:** The “third… victim” and “viscera” are shown to be metaphor/genre exaggeration, or refer to non-lethal “victim” usage (stage/medical/etc.).
+
+- `E11` (confidence: `0.85`; status: `active`)
+  - **Pages:** Pages/cains_jawbone_page_58.md
+  - **Victim candidate(s):** `P93` (intruding charlady; Henry’s “fourth”)
+  - **Murderer candidate(s):** `P01` (Henry)
+  - **Means/method:** `UNKNOWN`
+  - **Motive:** `UNKNOWN`
+  - **Opportunity:** Henry is described stooping over “cooling remains” and is framed as the agent by the “fourth… victim” tally.
+  - **Narrative tells:** Immediate physical proximity to a body (“cooling remains”) makes a non-literal reading harder, though still possible.
+  - **Evidence summary:** Page 58 asserts a second specific in-world victim as Henry’s “fourth,” with the body still present.
+  - **Falsifiers:** The scene is revealed as embedded fiction/metaphor, or later pages show the “chardlady” alive/unrelated.
+
+- `E12` (confidence: `0.45`; status: `active`)
+  - **Pages:** Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_45.md
+  - **Victim candidate(s):** `UNKNOWN` (Henry’s “latest victim” / “corpse of his own making”)
+  - **Murderer candidate(s):** `P01` (Henry)
+  - **Means/method:** `UNKNOWN`
+  - **Motive:** `UNKNOWN`
+  - **Opportunity:** Henry is seen directly over a body, with blood present, and later again over a corpse framed as his own doing.
+  - **Narrative tells:** Repeated corpse/victim framing across pages suggests continuity in Henry’s role as killer (even if the specific victim is not named).
+  - **Evidence summary:** Multiple pages depict Henry in immediate contact with a corpse/victim with blood, supporting an in-world death event tied to him.
+  - **Falsifiers:** “Victim/corpse” language is consistently metaphorical (medical/stage), or these pages are shown to belong to different “Henry” identities.
+
+- `E13` (confidence: `0.35`; status: `active`)
+  - **Pages:** Pages/cains_jawbone_page_26.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md
+  - **Victim candidate(s):** `UNKNOWN` (at least two prior “killings” implied)
+  - **Murderer candidate(s):** `P01` (Henry)
+  - **Means/method:** `UNKNOWN`
+  - **Motive:** `UNKNOWN`
+  - **Opportunity:** The narration treats Henry’s killings as established history and links them to active pursuit (police “flying squad”) and corpse disposal (“buried the corpse; only the eyes showed”).
+  - **Narrative tells:** “First two killings” + “crimson list” + police manhunt reads like serial killing rather than idle metaphor, but remains unconfirmed without named victims.
+  - **Evidence summary:** These pages collectively strengthen the hypothesis that Henry has multiple in-world victims beyond those explicitly named on Page 58.
+  - **Falsifiers:** The “killings” are shown to refer to performances/figures of speech, or the pages are not in the same narrative strand/“Henry”.
+
+- `E14` (confidence: `0.45`; status: `active`)
+  - **Pages:** Pages/cains_jawbone_page_59.md, Pages/cains_jawbone_page_60.md
+  - **Victim candidate(s):** `UNKNOWN` (poor fellow who “died strangely”); MAYBE `P50` (Sir Paul Trinder; “figurehead beard”)
+  - **Murderer candidate(s):** `UNKNOWN` (narrator implies success; “parson… with his collaborator… did the trick”)
+  - **Means/method:** `UNKNOWN`
+  - **Motive:** `UNKNOWN`
+  - **Opportunity:** Narrator is positioned to recount/influence events around a strange death investigation; later frames a specific “success” and a man “more dead”.
+  - **Narrative tells:** Self-congratulatory “I had succeeded” + explicit death outcome language; suspicious pulpit “did the trick” phrasing.
+  - **Evidence summary:** The pair of pages contains an in-world “died strangely” report and a claimed successful operation resulting in a man’s death, with Trinder a plausible (but unproven) target.
+  - **Falsifiers:** The “poor fellow” death is unrelated to the “figurehead beard” claim, Trinder is clearly not the target, or the language is revealed as allusive/figurative rather than in-world killing.
+
+- `E15` (confidence: `0.20`; status: `active`)
+  - **Pages:** Pages/cains_jawbone_page_1.md
+  - **Victim candidate(s):** `P91` (dead old man; identity unknown)
+  - **Murderer candidate(s):** `UNKNOWN`
+  - **Means/method:** `UNKNOWN` (death pre-dates the narrated “to-day” scene)
+  - **Motive:** `UNKNOWN`
+  - **Opportunity:** `UNKNOWN`
+  - **Narrative tells:** Offhand reference to prior work done “for the dead old man” suggests a real past death rather than a hypothetical.
+  - **Evidence summary:** Page 1 establishes an in-world dead man in the narrator’s recent past, but gives no cause or agency.
+  - **Falsifiers:** Later context shows the “dead old man” is purely allusive/quoted, or is explicitly unrelated to the in-world murders.
+
+- `E16` (confidence: `0.10`; status: `active`)
+  - **Pages:** Pages/cains_jawbone_page_33.md
+  - **Victim candidate(s):** `UNKNOWN` (woman; “dead the same day”)
+  - **Murderer candidate(s):** `UNKNOWN`
+  - **Means/method:** `UNKNOWN`
+  - **Motive:** `UNKNOWN`
+  - **Opportunity:** `UNKNOWN`
+  - **Narrative tells:** The page treats the woman as dead while the letter text plays with “dead and buried… still alive,” raising the chance of quotation/allusion rather than in-world fact.
+  - **Evidence summary:** A death is asserted (“a woman, dead the same day”) but the surrounding epistolary material is ambiguous about whether this is in-world or quoted.
+  - **Falsifiers:** The “dead the same day” framing is identified as an external quotation/citation rather than an in-world death.
+
+- `E17` (confidence: `0.10`; status: `active`)
+  - **Pages:** Pages/cains_jawbone_page_46.md
+  - **Victim candidate(s):** `UNKNOWN` (“Tom… in the matter of Jasmine”)
+  - **Murderer candidate(s):** `P48` (Hal, if this is literal)
+  - **Means/method:** `UNKNOWN`
+  - **Motive:** `UNKNOWN`
+  - **Opportunity:** `UNKNOWN`
+  - **Narrative tells:** The voice strongly reads as non-human/naïve (chop reward), which may reduce this to an animal-kill/idiom rather than a human murder.
+  - **Evidence summary:** The page contains an explicit “I killed” admission tied to “Tom” and “Jasmine”, but context makes literal human murder uncertain.
+  - **Falsifiers:** Later context confirms this is animal POV and “Tom” is a cat/animal (or the line is purely idiomatic/metaphorical).

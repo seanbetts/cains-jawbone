@@ -551,3 +551,21 @@ Template:
   - **Pronouns/relationships:** antagonist in narrator’s collapse scene.
   - **Pages:** Pages/cains_jawbone_page_100.md
   - **Notes:** Candidate antagonist/murderer figure; track for recurrence and naming.
+
+- `P91` — Names/aliases: dead old man (unnamed)
+  - **Tells:** referred to as “the dead old man” for whom the narrator’s pen previously “flew so nimbly”.
+  - **Pronouns/relationships:** “he”; relationship to narrator unclear (client? family?).
+  - **Pages:** Pages/cains_jawbone_page_1.md
+  - **Notes:** Candidate prior in-world death; do not merge with other “old man” figures without stronger anchors.
+
+- `P92` — Names/aliases: old family lawyer (Henry’s “third” victim; unnamed)
+  - **Tells:** described as Henry’s third victim; “fly the viscera… at his small flagstaff”.
+  - **Pronouns/relationships:** victim of `P01` (Henry), if literal.
+  - **Pages:** Pages/cains_jawbone_page_58.md
+  - **Notes:** Identity unknown; could be literal in-world death or genre/metaphorical language.
+
+- `P93` — Names/aliases: rash intruding charlady (Henry’s “fourth” victim; unnamed)
+  - **Tells:** described as Henry’s fourth victim; Henry stoops over “cooling remains”.
+  - **Pronouns/relationships:** victim of `P01` (Henry), if literal.
+  - **Pages:** Pages/cains_jawbone_page_58.md
+  - **Notes:** Identity unknown; could be literal in-world death or genre/metaphorical language.
