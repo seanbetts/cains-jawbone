@@ -13,7 +13,7 @@ Template:
   - **Disconfirming evidence:** (what would falsify this cluster)  
 
 - **Cluster:** Henry name occurrences (confidence: `MAYBE`)
-  - **Pages:** Pages/cains_jawbone_page_2.md, Pages/cains_jawbone_page_4.md, Pages/cains_jawbone_page_5.md, Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_16.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_26.md, Pages/cains_jawbone_page_31.md, Pages/cains_jawbone_page_32.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_41.md, Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_44.md, Pages/cains_jawbone_page_45.md, Pages/cains_jawbone_page_47.md, Pages/cains_jawbone_page_49.md, Pages/cains_jawbone_page_58.md, Pages/cains_jawbone_page_60.md, Pages/cains_jawbone_page_63.md, Pages/cains_jawbone_page_68.md
+  - **Pages:** Pages/cains_jawbone_page_2.md, Pages/cains_jawbone_page_4.md, Pages/cains_jawbone_page_5.md, Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_16.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_26.md, Pages/cains_jawbone_page_31.md, Pages/cains_jawbone_page_32.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_41.md, Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_44.md, Pages/cains_jawbone_page_45.md, Pages/cains_jawbone_page_47.md, Pages/cains_jawbone_page_49.md, Pages/cains_jawbone_page_58.md, Pages/cains_jawbone_page_60.md, Pages/cains_jawbone_page_63.md, Pages/cains_jawbone_page_68.md, Pages/cains_jawbone_page_71.md
   - **Rationale:** “Henry” appears across multiple scenes with shifting roles; may be one person or multiple people sharing the name.
   - **Key anchors:** “Lesurques” (Courier of Lyons?) role reference; ruined lighthouse + “Emperor’s Peg”; capstan-bar / dog-watch nautical register; Henry stooping/cleaning and handling bodies; Page 21’s “latest victim” + blood; Page 26’s “first two killings” + companion/rector’s aunt; Page 35’s police manhunt; Page 36’s buried corpse detail + “made up”; Pages 41–45 marriage/murder framing (certificate/corpse); Pages 47/49 attraction + “doomed to destroy… for family reasons”; Page 58’s “third/fourth” victims; Page 60’s “peerless investigator” role.
   - **Disconfirming evidence:** later pages give different surnames/biographical details for each “Henry”, or show mutually exclusive locations/timelines.
@@ -41,6 +41,12 @@ Template:
   - **Rationale:** “Old man” appears as a key node (crucial meeting → witnessed slow death) followed by letter/retaliation anxiety.
   - **Key anchors:** “old man”; “done slowly to death”; franked item to “the girl”; threat “do me in”; “old association” (arthritic knee anecdote).
   - **Disconfirming evidence:** “done slowly to death” is figurative, or the “he” in Page 70 is not the same as the “old man” in Pages 68–69.
+
+- **Cluster:** Flowers + documents + failing eyesight (confidence: `MAYBE`)
+  - **Pages:** Pages/cains_jawbone_page_71.md, Pages/cains_jawbone_page_74.md, Pages/cains_jawbone_page_75.md
+  - **Rationale:** Multiple pages combine courtship-by-flowers, secrecy around “them”/documents, and vision failure (blurred art; inability to read).
+  - **Key anchors:** May/red-May scent; red/white roses + marigolds/calendula; “orange tinted documents”; Goya reproduction confusion; “Will anyone know about them?”; Leningrad/OGPU mention.
+  - **Disconfirming evidence:** “May” resolves purely as the month/plant with no person continuity, or “them/documents” do not recur across pages.
 
 - **Cluster:** Coastal imagery (confidence: `MAYBE`)
   - **Pages:** Pages/cains_jawbone_page_1.md, Pages/cains_jawbone_page_4.md, Pages/cains_jawbone_page_5.md
@@ -103,7 +109,7 @@ Template:
   - **Disconfirming evidence:** Whitman lines appear scattered across many unrelated narrators without other shared tells.
 
 - **Cluster:** Plant/poison thread (confidence: `MAYBE`)
-  - **Pages:** Pages/cains_jawbone_page_6.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_24.md, Pages/cains_jawbone_page_29.md, Pages/cains_jawbone_page_30.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_40.md, Pages/cains_jawbone_page_54.md, Pages/cains_jawbone_page_59.md
+  - **Pages:** Pages/cains_jawbone_page_6.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_24.md, Pages/cains_jawbone_page_29.md, Pages/cains_jawbone_page_30.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_40.md, Pages/cains_jawbone_page_54.md, Pages/cains_jawbone_page_59.md, Pages/cains_jawbone_page_75.md
   - **Rationale:** Repeated botanical poison language (foxgloves/digitalis, calabar/physostigma, hellebore, lobelia, “lords and ladies”, gardenia taxonomy) suggests a shared narrator expertise or method thread.
   - **Key anchors:** “foxgloves” / “digitalis purpurea”; “Calabar Bean” / “physostigma” / “old Calabar”; “hellebore”; lobelia + “lords and ladies”; Cape Jasmine/gardenia precision; beans/pill + potato leaves; Page 54’s “pestle a poisoned poison” + “green blood” horticulture; Page 59’s gelsemium (yellow jasmine).
   - **Disconfirming evidence:** later pages show these are isolated metaphors with no shared voice/continuity.
@@ -143,6 +149,14 @@ Template:
 - **Sequence (confidence: CERTAIN):** `Pages/cains_jawbone_page_66.md → Pages/cains_jawbone_page_67.md`
   - **Why:** Direct sentence continuation across the page break (“hung round with … the darker works…”).
   - **Disconfirming evidence:** Only if a transcription artifact is discovered (unlikely given page integrity checks).
+
+- **Sequence (confidence: CERTAIN):** `Pages/cains_jawbone_page_73.md → Pages/cains_jawbone_page_74.md`
+  - **Why:** Direct sentence continuation across the page break (“hung round with photographs…”).
+  - **Disconfirming evidence:** Only if a transcription artifact is discovered (unlikely given page integrity checks).
+
+- **Sequence (confidence: MAYBE):** `Pages/cains_jawbone_page_74.md → Pages/cains_jawbone_page_75.md`
+  - **Why:** Page 74’s secrecy about “them” (bought in Leningrad from an OGPU-linked seller) plausibly links to Page 75’s unreadable “orange tinted documents”.
+  - **Disconfirming evidence:** “Them” refers to something other than documents and no shared objects/references recur.
 
 - **Sequence (confidence: MAYBE):** `Pages/cains_jawbone_page_68.md → Pages/cains_jawbone_page_69.md → Pages/cains_jawbone_page_70.md`
   - **Why:** Shared “old man” thread (crucial meeting → slow death witnessed → letter/retaliation fear) suggests narrative continuity.
