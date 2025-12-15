@@ -2,3 +2,24 @@ The sound of the bell, as of a boding gnat, just came to me. The finger causing 
 
 ## Notes
 
+- **Entities:**
+  - CERTAIN: Charles Day (assistant; deputised in lectures).
+  - CERTAIN: Peebles University (mineralogy lectures).
+  - MAYBE: “the man” (summoned by bell; lower-orders hand/finger).
+- **Time markers:**
+  - CERTAIN: “a fortnight’s absence”; “time was not unlimited”.
+- **Quotes & allusions:**
+  - CERTAIN: “Let us work while it is yet Day; for the Knight cometh when no man can work.” (pun on John 9:4 “day/night”).
+- **Wordplay:**
+  - CERTAIN: Day/Knight substitution in the biblical line.
+- **Motifs/continuity hooks:**
+  - Bells/summoning; class hierarchy (“lower orders”).
+  - Academia/professional identity (mineralogy lecturer).
+- **Voice/tells:**
+  - Snobbish, managerial; expects obedience; distrusts but relies on skilled subordinate.
+- **Ordering hypotheses:**
+  - MAYBE: bell motif cluster with Pages/cains_jawbone_page_6.md (bell-wire + bell focus).
+- **Disconfirming evidence:**
+  - If bell references resolve to unrelated settings/narrators with no continuity.
+- **Research needed:**
+  - Is “Peebles University” a real/period reference or a joke? Track if Charles Day reappears.

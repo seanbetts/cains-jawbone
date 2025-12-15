@@ -2,3 +2,27 @@ Then came Hyacinth’s day. He laughed when he remembered that, as we were walki
 
 ## Notes
 
+- **Entities:**
+  - MAYBE: Hyacinth (male; “He laughed…”; name tied to something “Boots didn’t understand”).
+  - MAYBE: Jasmine (female; referenced via “Jasmine’s day”).
+  - CERTAIN: Boots (servant/“man Boots”).
+  - MAYBE: narrator’s mistress (unnamed; wears seed-pearl ear-drops).
+- **Time markers:**
+  - CERTAIN: “Hyacinth’s day” / “Jasmine’s day” (calendar markers; likely saints’/named days).
+  - CERTAIN: “They went back two days…” (explicit offset).
+- **Motifs/continuity hooks:**
+  - Gardens/flowers (hyacinth/jasmine); betting/gifts.
+  - Cigarettes: “a hundred Egyptian cigarettes—Gourdoulis”.
+  - Hosiery/lingerie: “Etam dawn mist, ten inches” (product clue).
+  - Jewellery/ears: seed-pearl “ear-drops”.
+- **Voice/tells:**
+  - Social observation + mild contempt (Boots’ speech; “childish”); sexual/romantic weariness (“tire of her already”).
+- **Ordering hypotheses:**
+  - MAYBE: calendar cluster with Pages/cains_jawbone_page_8.md (Hyacinth’s day + “to-day” deaths).
+  - MAYBE: garden/flower motif echo with Pages/cains_jawbone_page_6.md (foxgloves).
+- **Disconfirming evidence:**
+  - If “Hyacinth’s day/Jasmine’s day” are shown to be private nicknames rather than public calendar anchors.
+- **Research needed:**
+  - Identify which dates “Hyacinth’s day” and “Jasmine’s day” refer to (likely saints/feast days).
+  - Identify “Gourdoulis” (Egyptian cigarettes) and “Etam dawn mist, ten inches” (what item/measure).
+  - Interpret the singular/plural reversal complaint (dialect/wordplay?).

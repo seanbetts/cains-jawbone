@@ -2,3 +2,27 @@ Could I be developing a green-eyed streak? I investigated the body before me wit
 
 ## Notes
 
+- **Entities:**
+  - MAYBE: Mr. Hall (bursts in at the end of the scene).
+  - MAYBE: Guido / Kilmarnock / Belmerino (calendar-history references rather than in-scene people).
+- **Time markers:**
+  - CERTAIN: “to-day” (paired with Guido + Kilmarnock + Belmerino; likely a date anchor).
+- **Quotes & allusions:**
+  - MAYBE: “green-eyed” jealousy phrase (source TBD).
+  - LIKELY: “Guido” = Guido Reni; “sausage place” = Bologna (pun) (needs confirmation).
+  - LIKELY: Kilmarnock + Balmerino beheaded on the same date (needs confirmation).
+- **Wordplay:**
+  - LIKELY: “sausage place” as Bologna/Baloney pun.
+- **Motifs/continuity hooks:**
+  - Measuring/optics: “powerful glass”; careful measuring; “forty inches”.
+  - Bows; trimming/piercing; “black knobby thing… black and red” (mechanical detail).
+- **Voice/tells:**
+  - Naïve about optics (“never could quite understand how it worked”); self-deprecating (“better brain”).
+- **Ordering hypotheses:**
+  - MAYBE: date adjacency with Pages/cains_jawbone_page_10.md if “Hyacinth’s day” is Aug 17 and this “to-day” is Aug 18.
+- **Disconfirming evidence:**
+  - If Guido/Kilmarnock/Belmerino are later tied to a different date or not intended as calendar anchors.
+- **Research needed:**
+  - Confirm the intended “Guido” identification + the date (and what “sausage place” points to).
+  - Confirm the Kilmarnock/Balmerino reference and its date.
+  - Identify the “black knobby thing” + the action sequence (trim/turn/push through) and who “Mr. Hall” is.
