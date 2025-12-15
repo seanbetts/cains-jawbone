@@ -57,3 +57,12 @@ Track people as candidates with evolving roles. This file is deliberately probab
   - **Evidence summary:** Hosted at narrator’s home with aconitum/Fleming’s tincture in play and sherry served; setup reads like a poisoning opportunity.
   - **Falsifiers:** Aconitum is confirmed to be purely a specimen demonstration with no administration, or Sir Paul is shown to leave unharmed with no illness.
   - **Status:** `active`
+
+- `P75`
+  - **Aliases / names used:** window victim (unnamed)
+  - **Role candidate:** `victim`
+  - **Confidence (0.0–1.0):** 0.85
+  - **Supporting pages:** Pages/cains_jawbone_page_81.md
+  - **Evidence summary:** Referred to explicitly as “the victim” and then physically “heaved outward” from a window with drowning intent (“Go find the bottom!”).
+  - **Falsifiers:** Later pages show the scene is metaphorical/quoted, or the victim is shown alive/otherwise unharmed after the window incident.
+  - **Status:** `active`

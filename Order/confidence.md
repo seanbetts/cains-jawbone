@@ -80,3 +80,14 @@ Track *in-world* death/murder hypotheses separately from page-ordering hypothese
   - **Narrative tells:** “I am not incautious” + immediate move to exhibit aconitum reads like deliberate staging.
   - **Evidence summary:** A likely in-world poisoning setup involving a named target (Sir Paul) is described, but the outcome is not yet stated.
   - **Falsifiers:** Later context shows no administration/ingestion or no subsequent illness/harm to Sir Paul.
+
+- `E06` (confidence: `0.85`; status: `active`)
+  - **Pages:** Pages/cains_jawbone_page_81.md
+  - **Victim candidate(s):** `P75` (window victim; identity unknown)
+  - **Murderer candidate(s):** `UNKNOWN` (narrator performs the act)
+  - **Means/method:** thrown from a window into water; LIKELY drowning
+  - **Motive:** `UNKNOWN`
+  - **Opportunity:** Victim blocks the open window and is within physical reach; narrator has immediate means to push/heave the victim outward.
+  - **Narrative tells:** Self-exculpation (“thank goodness, I was no detective”); black humour (“pulled up his socks… heaved outward”); deliberate death-wish framing (“He was asking for it”).
+  - **Evidence summary:** The page narrates a direct killing act with intent and an explicit “victim” label; outcome is treated as likely fatal (“with any luck, was dead”).
+  - **Falsifiers:** Later pages show the victim survives, or the whole incident resolves as a quoted story/metaphor rather than an in-world event.

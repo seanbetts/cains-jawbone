@@ -13,7 +13,7 @@ Template:
   - **Disconfirming evidence:** (what would falsify this cluster)  
 
 - **Cluster:** Henry name occurrences (confidence: `MAYBE`)
-  - **Pages:** Pages/cains_jawbone_page_2.md, Pages/cains_jawbone_page_4.md, Pages/cains_jawbone_page_5.md, Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_16.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_26.md, Pages/cains_jawbone_page_31.md, Pages/cains_jawbone_page_32.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_41.md, Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_44.md, Pages/cains_jawbone_page_45.md, Pages/cains_jawbone_page_47.md, Pages/cains_jawbone_page_49.md, Pages/cains_jawbone_page_58.md, Pages/cains_jawbone_page_60.md, Pages/cains_jawbone_page_63.md, Pages/cains_jawbone_page_68.md, Pages/cains_jawbone_page_71.md, Pages/cains_jawbone_page_76.md, Pages/cains_jawbone_page_77.md, Pages/cains_jawbone_page_78.md, Pages/cains_jawbone_page_80.md
+  - **Pages:** Pages/cains_jawbone_page_2.md, Pages/cains_jawbone_page_4.md, Pages/cains_jawbone_page_5.md, Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_16.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_26.md, Pages/cains_jawbone_page_31.md, Pages/cains_jawbone_page_32.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_41.md, Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_44.md, Pages/cains_jawbone_page_45.md, Pages/cains_jawbone_page_47.md, Pages/cains_jawbone_page_49.md, Pages/cains_jawbone_page_58.md, Pages/cains_jawbone_page_60.md, Pages/cains_jawbone_page_63.md, Pages/cains_jawbone_page_68.md, Pages/cains_jawbone_page_71.md, Pages/cains_jawbone_page_76.md, Pages/cains_jawbone_page_77.md, Pages/cains_jawbone_page_78.md, Pages/cains_jawbone_page_80.md, Pages/cains_jawbone_page_82.md, Pages/cains_jawbone_page_83.md, Pages/cains_jawbone_page_85.md
   - **Rationale:** “Henry” appears across multiple scenes with shifting roles; may be one person or multiple people sharing the name.
   - **Key anchors:** “Lesurques” (Courier of Lyons?) role reference; ruined lighthouse + “Emperor’s Peg”; capstan-bar / dog-watch nautical register; Henry stooping/cleaning and handling bodies; Page 21’s “latest victim” + blood; Page 26’s “first two killings” + companion/rector’s aunt; Page 35’s police manhunt; Page 36’s buried corpse detail + “made up”; Pages 41–45 marriage/murder framing (certificate/corpse); Pages 47/49 attraction + “doomed to destroy… for family reasons”; Page 58’s “third/fourth” victims; Page 60’s “peerless investigator” role.
   - **Disconfirming evidence:** later pages give different surnames/biographical details for each “Henry”, or show mutually exclusive locations/timelines.
@@ -43,9 +43,9 @@ Template:
   - **Disconfirming evidence:** “done slowly to death” is figurative, or the “he” in Page 70 is not the same as the “old man” in Pages 68–69.
 
 - **Cluster:** Flowers + documents + failing eyesight (confidence: `MAYBE`)
-  - **Pages:** Pages/cains_jawbone_page_71.md, Pages/cains_jawbone_page_74.md, Pages/cains_jawbone_page_75.md
-  - **Rationale:** Multiple pages combine courtship-by-flowers, secrecy around “them”/documents, and vision failure (blurred art; inability to read).
-  - **Key anchors:** May/red-May scent; red/white roses + marigolds/calendula; “orange tinted documents”; Goya reproduction confusion; “Will anyone know about them?”; Leningrad/OGPU mention.
+  - **Pages:** Pages/cains_jawbone_page_71.md, Pages/cains_jawbone_page_74.md, Pages/cains_jawbone_page_75.md, Pages/cains_jawbone_page_83.md
+  - **Rationale:** Multiple pages combine courtship-by-flowers and a recurring red-rose thread, with secrecy around “them”/documents and impaired vision in the core subset (Pages 74–75).
+  - **Key anchors:** May/red-May scent; red/white roses + marigolds/calendula; red rose “sole survivor”; “orange tinted documents”; Goya reproduction confusion; “Will anyone know about them?”; Leningrad/OGPU mention; flower-seller interruption.
   - **Disconfirming evidence:** “May” resolves purely as the month/plant with no person continuity, or “them/documents” do not recur across pages.
 
 - **Cluster:** Coastal imagery (confidence: `MAYBE`)
@@ -61,9 +61,9 @@ Template:
   - **Disconfirming evidence:** bell references resolve to unrelated settings with no shared voice/tells.
 
 - **Cluster:** Detective/legal self-fashioning (confidence: `MAYBE`)
-  - **Pages:** Pages/cains_jawbone_page_6.md, Pages/cains_jawbone_page_7.md
+  - **Pages:** Pages/cains_jawbone_page_6.md, Pages/cains_jawbone_page_7.md, Pages/cains_jawbone_page_81.md
   - **Rationale:** Sherlock/detective framing + investigation/judgement language + literary allusion density.
-  - **Key anchors:** Speckled Band; Baker Street; “investigator/judge” motif.
+  - **Key anchors:** Speckled Band; Baker Street; “investigator/judge” motif; “thank goodness, I was no detective”.
   - **Disconfirming evidence:** later pages clearly separate narrators/contexts for these allusions.
 
 - **Cluster:** Mid-August calendar hints (confidence: `LIKELY`)
@@ -115,7 +115,7 @@ Template:
   - **Disconfirming evidence:** later pages show these are isolated metaphors with no shared voice/continuity.
 
 - **Cluster:** “To-day” as historical date marker (confidence: `MAYBE`)
-  - **Pages:** Pages/cains_jawbone_page_52.md, Pages/cains_jawbone_page_54.md, Pages/cains_jawbone_page_55.md, Pages/cains_jawbone_page_60.md, Pages/cains_jawbone_page_77.md
+  - **Pages:** Pages/cains_jawbone_page_52.md, Pages/cains_jawbone_page_54.md, Pages/cains_jawbone_page_55.md, Pages/cains_jawbone_page_60.md, Pages/cains_jawbone_page_77.md, Pages/cains_jawbone_page_84.md
   - **Rationale:** Each page ties “to-day” to a specific historical event/holiday (diamond necklace acquittal; Waterloo/La Belle Alliance; a “fifth” deliverance holiday), suggesting calendar-key ordering mechanics.
   - **Key anchors:** Diamond Necklace cardinal acquittal; “meeting at La Belle Alliance”; “James… the Earl and his brother Alexander”; Francis Ferdinand’s murder reference.
   - **Disconfirming evidence:** “to-day” references are purely decorative and do not resolve to dates or ordering constraints.
@@ -161,6 +161,10 @@ Template:
 - **Sequence (confidence: MAYBE):** `Pages/cains_jawbone_page_76.md → Pages/cains_jawbone_page_77.md`
   - **Why:** Page 76 frames a named victim (“Green”) and the need to “do the thing” personally; Page 77 immediately reflects on committing a first killing.
   - **Disconfirming evidence:** “Green” is not an in-world victim, or Page 77’s “my first” refers to something non-lethal/unrelated.
+
+- **Sequence (confidence: MAYBE):** `Pages/cains_jawbone_page_82.md → Pages/cains_jawbone_page_85.md`
+  - **Why:** Both are table scenes with Henry present and a nearby dog; Page 82’s disorientation could precede Page 85’s “weary business… ended” closure.
+  - **Disconfirming evidence:** settings or Henry’s role clearly diverge, or another page bridges the continuity.
 
 - **Sequence (confidence: MAYBE):** `Pages/cains_jawbone_page_68.md → Pages/cains_jawbone_page_69.md → Pages/cains_jawbone_page_70.md`
   - **Why:** Shared “old man” thread (crucial meeting → slow death witnessed → letter/retaliation fear) suggests narrative continuity.
