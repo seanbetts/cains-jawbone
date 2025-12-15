@@ -13,9 +13,9 @@ Template:
   - **Disconfirming evidence:** (what would falsify this cluster)  
 
 - **Cluster:** Henry name occurrences (confidence: `MAYBE`)
-  - **Pages:** Pages/cains_jawbone_page_2.md, Pages/cains_jawbone_page_4.md, Pages/cains_jawbone_page_5.md, Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_16.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_26.md, Pages/cains_jawbone_page_31.md, Pages/cains_jawbone_page_32.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md
+  - **Pages:** Pages/cains_jawbone_page_2.md, Pages/cains_jawbone_page_4.md, Pages/cains_jawbone_page_5.md, Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_16.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_26.md, Pages/cains_jawbone_page_31.md, Pages/cains_jawbone_page_32.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_41.md, Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_44.md, Pages/cains_jawbone_page_45.md
   - **Rationale:** “Henry” appears across multiple scenes with shifting roles; may be one person or multiple people sharing the name.
-  - **Key anchors:** “Lesurques” (Courier of Lyons?) role reference; ruined lighthouse + “Emperor’s Peg”; capstan-bar / dog-watch nautical register; Henry stooping/cleaning and handling bodies; Page 21’s “latest victim” + blood; Page 26’s “first two killings” + companion/rector’s aunt; Page 35’s police manhunt; Page 36’s buried corpse detail + “made up”.
+  - **Key anchors:** “Lesurques” (Courier of Lyons?) role reference; ruined lighthouse + “Emperor’s Peg”; capstan-bar / dog-watch nautical register; Henry stooping/cleaning and handling bodies; Page 21’s “latest victim” + blood; Page 26’s “first two killings” + companion/rector’s aunt; Page 35’s police manhunt; Page 36’s buried corpse detail + “made up”; Pages 41–45 marriage/murder framing (certificate/corpse).
   - **Disconfirming evidence:** later pages give different surnames/biographical details for each “Henry”, or show mutually exclusive locations/timelines.
 
 - **Cluster:** Coastal imagery (confidence: `MAYBE`)
@@ -55,10 +55,16 @@ Template:
   - **Disconfirming evidence:** later pages show these are unrelated conversations (different May/setting).
 
 - **Cluster:** Nautical timekeeping register (confidence: `MAYBE`)
-  - **Pages:** Pages/cains_jawbone_page_1.md, Pages/cains_jawbone_page_11.md
-  - **Rationale:** Sea setting + sailor diction; Page 11 has capstan + dog-watch time marker.
-  - **Key anchors:** sea/gulls/“sailor” cues; capstan bar; “second dog” watch.
+  - **Pages:** Pages/cains_jawbone_page_1.md, Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_41.md
+  - **Rationale:** Sea setting + sailor diction; Page 11 has capstan + dog-watch time marker; Page 41 mentions “first dog” (possibly dog-watch).
+  - **Key anchors:** sea/gulls/“sailor” cues; capstan bar; “second dog” watch; “first dog”.
   - **Disconfirming evidence:** “capstan”/“dog” language is shown to be metaphorical/non-nautical.
+
+- **Cluster:** Cocktail-bar seduction (confidence: `MAYBE`)
+  - **Pages:** Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_43.md
+  - **Rationale:** Both pages foreground a woman in a drinking setting (cocktails, cigarette, lace dabbing) and use drink/dessert titles as cues; could be one continuous scene.
+  - **Key anchors:** “cocktail after cocktail”; cigarette; “Lover’s Delight” / “Banana Split” / “the Dawn”; Henry guiding narrator (Page 42); Alexander (“Ecky”) narrator voice (Page 43).
+  - **Disconfirming evidence:** later pages show these are separate narrators/venues and the drink/dessert titles do not recur together.
 
 - **Cluster:** Plant/poison thread (confidence: `MAYBE`)
   - **Pages:** Pages/cains_jawbone_page_6.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_24.md, Pages/cains_jawbone_page_29.md, Pages/cains_jawbone_page_30.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_40.md
