@@ -609,10 +609,10 @@ Template:
   - **Research needed:** no
 
 - **Snippet:** “Holy Mr. Herbert”
-  - **Likely source/author:** LIKELY an allusion to George Herbert (1593–1633), poet and Anglican priest (Bemerton), per EB1911: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Herbert,_George; also echoed as the title of Marjorie Bowen’s short story “Holy Mr. Herbert” (*Harper’s Magazine*, May 1910): https://en.wikisource.org/wiki/Harper%27s_Magazine/%22Holy_Mr._Herbert%22
+  - **Likely source/author:** Izaak Walton’s epithet for George Herbert in *The Complete Angler* (5th ed.), Chapter V (“Come let me tell you what holy Mr. Herbert says of such days and flowers as these”), quoting Herbert’s “Vertue” (“Sweet day, so cool, so calm, so bright…”): https://en.wikisource.org/wiki/The_Complete_Angler,_5th_edition/Chapter_V
   - **Why it matters:** Possible narrator reading-set/voice tell (clerical/Herbert allusion); “Mr. Haddock” + “Meed kissing laces” may sharpen the exact source.
   - **Pages:** Pages/cains_jawbone_page_95.md
-  - **Confidence:** `LIKELY`
+  - **Confidence:** `CERTAIN`
   - **Research needed:** yes — identify “Mr. Haddock” and “Meed kissing laces”.
 
 - **Snippet:** “Leda and Hebe”

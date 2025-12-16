@@ -11,6 +11,8 @@ Now I think I will try a cup of what they insolently call Golden Tips, a find yo
   - Tea: “Golden Tips” / “Tippy Tea”; “No Tips” gag.
   - LIKELY: “Golden Tips” refers to the tea “tips” (buds) — “the essence of the leaf” — sometimes separated and sold as pure “golden tips” (Henry W. Cave, *Golden Tips: A Description of Ceylon and its Great Tea Industry*, 1905: https://archive.org/stream/cu31924023639119/cu31924023639119_djvu.txt).
   - Menu-like phrases: “Loganberry Kiss”; “Plover’s Lunch”.
+  - LIKELY: “Loganberry” = Logan Berry (hybrid fruit named after Judge J. H. Logan; “from him it derives its name”), per “Logan Berry: One of the Greatest Novelties of the Season” (1895): https://archive.org/stream/loganberryoneof1895paja_0/loganberryoneof1895paja_0_djvu.txt (so “Loganberry Kiss” may be a berry-flavoured menu name, not a coded phrase).
+  - MAYBE: “Plover’s Lunch” gestures at plover eggs as a (somewhat showy) food item (e.g., *The Green Carnation*, ch. 7: “No plover’s eggs, thank you”): https://en.wikisource.org/wiki/The_Green_Carnation/Chapter_7 (but the exact named dish “Plover’s Lunch” remains unidentified).
   - Castor oil; stew recollection.
 - **Places:**
   - MAYBE: Jifjaffa (unidentified; sounds like Jaffa/Palestine but unclear).

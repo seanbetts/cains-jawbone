@@ -13,7 +13,7 @@ I knew, of course, that if I got there in five minutes I would have double the t
   - CERTAIN: “in five minutes”.
   - CERTAIN: “hour by hour, day by day” timeline in the written account.
 - **Quotes & allusions:**
-  - LIKELY: “Holy Mr. Herbert” refers to George Herbert (1593–1633), poet and Anglican priest (Bemerton), per EB1911 (https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Herbert,_George); also echoed by Marjorie Bowen’s short story “Holy Mr. Herbert” (*Harper’s Magazine*, May 1910): https://en.wikisource.org/wiki/Harper%27s_Magazine/%22Holy_Mr._Herbert%22. (“Mr. Haddock” / “Meed kissing laces” remain unresolved.)
+  - CERTAIN: “Holy Mr. Herbert” is Izaak Walton’s epithet for George Herbert in *The Complete Angler* (5th ed.), Chapter V (“Come let me tell you what holy Mr. Herbert says of such days and flowers as these”), quoting Herbert’s “Vertue” (“Sweet day, so cool, so calm, so bright…”): https://en.wikisource.org/wiki/The_Complete_Angler,_5th_edition/Chapter_V. (“Mr. Haddock” / “Meed kissing laces” remain unresolved.)
   - LIKELY: “Leda and Hebe” are mythic wordplay for “swan + drink”: Leda is visited by Zeus “in the form of a swan” (EB1911 “Leda”: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Leda) and Hebe “acts as cupbearer to the gods” (EB1911 “Hebe”: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Hebe) → fits “gave my swan a drink” (inking the pen). Cf. “Swan” used as a fountain-pen ink name in *The Loudwater Mystery* (Chapter 16): https://en.wikisource.org/wiki/The_Loudwater_Mystery/Chapter_16.
 - **Death/violence cues:**
   - MAYBE: “the horrid act” described from inception to culmination (could be crime confession/report; outcome unspecified).

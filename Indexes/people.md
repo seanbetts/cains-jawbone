@@ -532,7 +532,7 @@ Template:
   - **Tells:** invoked approvingly about “these hours”; “Meed kissing laces” reference.
   - **Pronouns/relationships:** none known.
   - **Pages:** Pages/cains_jawbone_page_95.md
-  - **Notes:** “Holy Mr. Herbert” is LIKELY an allusion to George Herbert (1593–1633), poet and Anglican priest (Bemerton), per EB1911 (https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Herbert,_George) and/or Marjorie Bowen’s short story “Holy Mr. Herbert” (*Harper’s Magazine*, May 1910): https://en.wikisource.org/wiki/Harper%27s_Magazine/%22Holy_Mr._Herbert%22. “Mr. Haddock” and “Meed kissing laces” still unresolved.
+  - **Notes:** “Holy Mr. Herbert” is CERTAIN Walton’s epithet for George Herbert in *The Complete Angler* (5th ed.), Chapter V (“Come let me tell you what holy Mr. Herbert says of such days and flowers as these”), quoting Herbert’s “Vertue” (“Sweet day, so cool, so calm, so bright…”): https://en.wikisource.org/wiki/The_Complete_Angler,_5th_edition/Chapter_V. “Mr. Haddock” and “Meed kissing laces” still unresolved.
 
 - `P88` — Names/aliases: Catharine
   - **Tells:** “turning a Somerset in front of the altar” (marriage/ceremony framing).

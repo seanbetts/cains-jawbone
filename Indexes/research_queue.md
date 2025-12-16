@@ -1229,14 +1229,14 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_95.md
   - **Why it matters:** Allusion anchor that may identify narrator reading set/voice.
   - **Status:** `resolved`
-  - **Result:** LIKELY refers to George Herbert (1593–1633), poet and Anglican priest (Bemerton), per EB1911: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Herbert,_George. Also appears as the title of Marjorie Bowen’s short story “Holy Mr. Herbert” (*Harper’s Magazine*, May 1910): https://en.wikisource.org/wiki/Harper%27s_Magazine/%22Holy_Mr._Herbert%22.
+  - **Result:** “Holy Mr. Herbert” is Izaak Walton’s epithet for George Herbert in *The Complete Angler* (5th ed.), Chapter V (“Come let me tell you what holy Mr. Herbert says of such days and flowers as these”), quoting Herbert’s “Vertue” (“Sweet day, so cool, so calm, so bright…”): https://en.wikisource.org/wiki/The_Complete_Angler,_5th_edition/Chapter_V. (EB1911 and Marjorie Bowen’s 1910 story echo the epithet, but Walton is the most direct match to “these hours/days”.)
 
 - **Item:** Identify “Mr. Haddock” and “Meed kissing laces” reference (Page 95)
   - **Type:** quote/other
   - **Pages:** Pages/cains_jawbone_page_95.md
   - **Why it matters:** Likely a layered allusion; resolving it may identify narrator voice and connect to other literary fragments.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `in-progress`
+  - **Result:** Context now suggests the surrounding “Holy Mr. Herbert… right about these hours” is via Walton’s *Complete Angler* (Chapter V, quoting Herbert’s “Vertue”): https://en.wikisource.org/wiki/The_Complete_Angler,_5th_edition/Chapter_V. Next: locate the exact source of the “Meed kissing laces” phrase and why “Mr. Haddock” is given as the self-name (possibly a fishy pun, but unconfirmed).
 
 - **Item:** Identify “Leda and Hebe” / “my swan a drink” (pen/ink clue) (Page 95)
   - **Type:** other
@@ -1263,8 +1263,8 @@ Template:
   - **Type:** other
   - **Pages:** Pages/cains_jawbone_page_96.md
   - **Why it matters:** May identify a specific venue/menu set and help cluster this narrator’s scene.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `in-progress`
+  - **Result:** No exact period match yet for the named menu items. Partial grounding: “Loganberry” = Logan Berry (hybrid fruit named after Judge J. H. Logan; “from him it derives its name”), per “Logan Berry: One of the Greatest Novelties of the Season” (1895): https://archive.org/stream/loganberryoneof1895paja_0/loganberryoneof1895paja_0_djvu.txt (so “Loganberry Kiss” may be a berry-flavoured menu name). Plover eggs appear as a food item in period literature (e.g., *The Green Carnation*, ch. 7: “No plover’s eggs, thank you”): https://en.wikisource.org/wiki/The_Green_Carnation/Chapter_7; “Plover’s Lunch” may allude to such a dish but remains unconfirmed.
 
 - **Item:** Confirm the source/usage of “It gars me grue” (Page 96)
   - **Type:** term
