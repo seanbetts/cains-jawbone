@@ -553,11 +553,11 @@ Template:
   - **Research needed:** no
 
 - **Snippet:** “You will, Oscar, you will.”
-  - **Likely source/author:** Whistler/Wilde anecdote (confirm wording/source)
+  - **Likely source/author:** Frank Harris, *Oscar Wilde, His Life and Confessions* (1916), Chapter 4 (recounting Whistler’s reply to Wilde)
   - **Why it matters:** Distinctive cultural allusion; may cluster a narrator segment and possibly encode a date/scene-setting.
   - **Pages:** Pages/cains_jawbone_page_90.md
-  - **Confidence:** `MAYBE`
-  - **Research needed:** yes — confirm wording/context.
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
 
 - **Snippet:** “Smiler with the Knife”
   - **Likely source/author:** TBD

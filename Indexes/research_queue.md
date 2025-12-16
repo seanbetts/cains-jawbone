@@ -1130,8 +1130,8 @@ Template:
   - **Type:** quote
   - **Pages:** Pages/cains_jawbone_page_90.md
   - **Why it matters:** Distinct cultural allusion that may help cluster a narrator segment; confirm exact wording/source.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** Frank Harris, *Oscar Wilde, His Life and Confessions* (1916), Chapter 4: Wilde says “I wish I had said that.” Whistler replies: “You will, Oscar, you will.”
 
 - **Item:** Identify the “thousand chariots… gold of course” allusion (Page 90)
   - **Type:** other
