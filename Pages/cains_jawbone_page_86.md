@@ -21,9 +21,10 @@ Next day I let Caroline Jasmine---what a name!---do her very damnedest for my gu
   - MAYBE: poison-immunity tactic mentioned (“Mithradates inoculation”).
 - **Means/method:**
   - MAYBE: poisoning/antidote logic (Mithradates-style tolerance building).
-  - MAYBE: a physical tool/weapon tied to the line “What is removed drops horribly in a pail.”
+  - MAYBE: the “tool” echoes Whitman’s surgical image (anatomist’s/surgeon’s knife/saw) in “What is removed drops horribly in a pail.”
 - **Quotes & allusions:**
-  - CERTAIN: quoted lines “But we have all bent low and low and kissed the quiet feet …” (continues on Pages/cains_jawbone_page_87.md).
+  - CERTAIN: “What is removed drops horribly in a pail.” — Walt Whitman, *Leaves of Grass* (“Song of Myself”), Page:Leaves_of_Grass_(1882).djvu/45.
+  - CERTAIN: “But we have all bent low and low and kissed the quiet feet …” — W. B. Yeats, “The Song of Red Hanrahan” (*In the Seven Woods*, 1903), Page:In_the_Seven_Woods,_Yeats,_1903.djvu/32 (continues on Pages/cains_jawbone_page_87.md with altered wording).
 - **Motifs/continuity hooks:**
   - Jasmine name motif (Caroline Jasmine) in a run already heavy with jasmine/flowers.
   - Host/guest/patient framing echoes other “guest” poisoning setups (compare Pages/cains_jawbone_page_80.md).
@@ -33,6 +34,3 @@ Next day I let Caroline Jasmine---what a name!---do her very damnedest for my gu
   - CERTAIN: Pages/cains_jawbone_page_86.md → Pages/cains_jawbone_page_87.md (direct continuation of the quoted lines).
 - **Disconfirming evidence:**
   - If the poem quotation is reproduced elsewhere in full (no actual page-break continuity).
-- **Research needed:**
-  - Identify the poem/source for the “quiet feet / old bold mate of Henry Morgan” lines.
-  - Interpret “What is removed drops horribly in a pail” and what “tool” is meant in-world.

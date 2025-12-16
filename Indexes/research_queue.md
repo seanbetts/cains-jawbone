@@ -1102,15 +1102,15 @@ Template:
   - **Type:** quote
   - **Pages:** Pages/cains_jawbone_page_86.md, Pages/cains_jawbone_page_87.md
   - **Why it matters:** The quotation is split across pages, giving a strong ordering anchor; the source may also identify a narrator’s reading set.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** Yeats, “The Song of Red Hanrahan” in *In the Seven Woods* (1903): “But we have all bent low and low and kissed the quiet feet / Of Cathleen the daughter of Houlihan” (Page:In_the_Seven_Woods,_Yeats,_1903.djvu/32); CJ substitutes “Of the old bold mate of Henry Morgan.”
 
 - **Item:** Identify “What is removed drops horribly in a pail” and the implied “tool” (Page 86)
   - **Type:** quote/term
   - **Pages:** Pages/cains_jawbone_page_86.md
   - **Why it matters:** Presented as something a “tool” said; may identify a weapon/implement or a precise-source anchor.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** Walt Whitman, *Leaves of Grass* (“Song of Myself”): “The malformed limbs are tied to the surgeon’s table, / What is removed drops horribly in a pail” (Page:Leaves_of_Grass_(1882).djvu/45) → “tool” likely echoes surgeon/anatomist instruments (knife/saw).
 
 - **Item:** Determine the calendar date for St. Wigbert’s day (Page 88)
   - **Type:** date

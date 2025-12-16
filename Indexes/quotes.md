@@ -532,18 +532,18 @@ Template:
   - **Research needed:** yes — identify source/context.
 
 - **Snippet:** “What is removed drops horribly in a pail.”
-  - **Likely source/author:** TBD
-  - **Why it matters:** Quoted as something a “tool” said; may identify a weapon/implement or anchor a specific source text.
+  - **Likely source/author:** Walt Whitman, *Leaves of Grass* (“Song of Myself”; 1882 ed.)
+  - **Why it matters:** Confirms this as a Whitman line about a surgeon/anatomist’s table; informs what “tool” imagery the narrator is invoking.
   - **Pages:** Pages/cains_jawbone_page_86.md
-  - **Confidence:** `MAYBE`
-  - **Research needed:** yes — identify source/context.
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
 
 - **Snippet:** “But we have all bent low and low and kissed the quiet feet / Of the old bold mate of Henry Morgan.”
-  - **Likely source/author:** TBD (poem)
-  - **Why it matters:** Split across Pages 86–87; provides a strong ordering anchor and may identify the narrator’s reading set.
+  - **Likely source/author:** W. B. Yeats, “The Song of Red Hanrahan” (*In the Seven Woods*, 1903) — original: “Of Cathleen the daughter of Houlihan.”
+  - **Why it matters:** Split across Pages 86–87; strong ordering anchor and confirms a Yeats allusion (with deliberate line substitution).
   - **Pages:** Pages/cains_jawbone_page_86.md, Pages/cains_jawbone_page_87.md
-  - **Confidence:** `MAYBE`
-  - **Research needed:** yes — identify source/context.
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
 
 - **Snippet:** “Circumstances alter cases.”
   - **Likely source/author:** legal maxim / proverb (common law)

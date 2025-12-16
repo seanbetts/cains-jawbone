@@ -15,8 +15,8 @@ My guest has, I think, a Byzantine beauty, as of a golden snake. Is she, or is s
   - CERTAIN: “little bay” / water view (northwest).
   - MAYBE: Woodstock (as Henry’s home reference).
 - **Quotes & allusions:**
-  - CERTAIN: “Of the old bold mate of Henry Morgan.” (continuation of the quotation begun on Pages/cains_jawbone_page_86.md).
-  - MAYBE: Henry Morgan (historical pirate; allusive).
+  - CERTAIN: Yeats continuation: “But we have all bent low and low and kissed the quiet feet / Of Cathleen the daughter of Houlihan” — “The Song of Red Hanrahan” (*In the Seven Woods*, 1903), Page:In_the_Seven_Woods,_Yeats,_1903.djvu/32; CJ substitutes “Of the old bold mate of Henry Morgan.”
+  - MAYBE: Henry Morgan (historical privateer/pirate) invoked via the CJ substitution.
 - **Motifs/continuity hooks:**
   - Coastal/bay imagery (twisted trees, thick-windowed house, hills under cloud).
   - “dead man’s letter” prop (possible continuity with death/letter threads).
@@ -28,5 +28,4 @@ My guest has, I think, a Byzantine beauty, as of a golden snake. Is she, or is s
 - **Disconfirming evidence:**
   - If “Of the old bold mate of Henry Morgan” is a separate allusion rather than the continuation of the prior quotation.
 - **Research needed:**
-  - Identify the poem/source and whether it anchors a date/voice segment.
   - Identify who Sanders is (and whether he recurs in other “coastal” pages).
