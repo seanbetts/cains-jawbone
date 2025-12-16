@@ -661,15 +661,15 @@ Template:
   - **Type:** date
   - **Pages:** Pages/cains_jawbone_page_54.md
   - **Why it matters:** Could set an exact “to-day” and cluster a narrator timeline.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** Waterloo (the “meeting at La Belle Alliance”) was fought on **June 18, 1815** (Nuttall Encyclopaedia, “Waterloo”).
 
 - **Item:** Identify the “English holiday… like that other fifth” reference in Page 55 (James; an Earl; brother Alexander)
   - **Type:** date/other
   - **Pages:** Pages/cains_jawbone_page_55.md
   - **Why it matters:** Likely a deliverance/plot holiday (potentially Gowrie day) giving a strong date anchor.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** Gowrie Conspiracy: James VI lured to Gowrie House, Perth; Alexander Ruthven + Earl of Gowrie killed on **5 Aug 1600** (Nuttall Encyclopaedia, “Gowrie Conspiracy”).
 
 - **Item:** Identify which “Old Mill at Bramley” is meant on Page 55 (place ID)
   - **Type:** place
@@ -745,8 +745,8 @@ Template:
   - **Type:** date
   - **Pages:** Pages/cains_jawbone_page_60.md
   - **Why it matters:** Potential precise “to-day” calendar key for ordering.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** Archduke Francis Ferdinand and the Duchess of Hohenberg were murdered at Sarajevo on **June 28, 1914** (1922 *Encyclopaedia Britannica*, “Yugoslavia”).
 
 - **Item:** Identify the French “nénuphars” stanza quoted on Page 61
   - **Type:** quote
@@ -843,8 +843,8 @@ Template:
   - **Type:** date
   - **Pages:** Pages/cains_jawbone_page_67.md
   - **Why it matters:** If intentional, it’s a strong calendar key for ordering.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** Columbus departed Palos on **3 Aug 1492** (“On 3 August, 1492, the people of Palos… saw them depart” — *Catholic Encyclopedia*, “Christopher Columbus”).
 
 - **Item:** Identify the “joy’s crown of sorrow / sorrow’s crown of joy” phrase (Page 66)
   - **Type:** quote
@@ -1116,8 +1116,8 @@ Template:
   - **Type:** date
   - **Pages:** Pages/cains_jawbone_page_88.md
   - **Why it matters:** Potential date anchor for ordering (similar to other saint-day “to-day” cues).
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** *Catholic Encyclopedia* (“St. Wigbert”) records him in the *Martyrologium Romanum* under **13 August** → St. Wigbert’s day = **Aug 13**.
 
 - **Item:** Identify “good Tate” and the “new distemper” context (Page 88)
   - **Type:** other

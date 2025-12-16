@@ -9,7 +9,7 @@ I always liked to listen to him. It was St. Wigbert’s day, I was told, and Aug
   - MAYBE: stepson / third son (offstage family references).
   - MAYBE: Tom and Flora (as referenced in “Tom and Flora’s Jasmine”).
 - **Time markers:**
-  - CERTAIN: St. Wigbert’s day (calendar anchor candidate).
+  - CERTAIN: St. Wigbert’s day = Aug 13 (*Catholic Encyclopedia*, “St. Wigbert”: recorded in the *Martyrologium Romanum* under 13 August).
   - CERTAIN: “to-day”.
   - CERTAIN: “so late in the year”.
 - **Quotes & allusions:**
@@ -24,5 +24,4 @@ I always liked to listen to him. It was St. Wigbert’s day, I was told, and Aug
 - **Disconfirming evidence:**
   - If St. Wigbert’s day is shown to be an in-world nickname rather than a calendar marker.
 - **Research needed:**
-  - Determine the calendar date for St. Wigbert’s day (for ordering constraints).
   - Identify the “good Tate” reference and the “new distemper” context.

@@ -11,7 +11,7 @@ the darker works of Beardsley and Felicien Rops, and ringing with the gloat curs
   - CERTAIN: author of *The Land of Mist* (Conan Doyle; cricket reference).
   - CERTAIN: “old Chris” (Christopher Columbus).
 - **Time markers:**
-  - CERTAIN: “old Chris left Palos” → 3 Aug 1492 (strong calendar anchor for “that… day”; likely narrator birthday).
+  - CERTAIN: “old Chris left Palos” → 3 Aug 1492 (cf. *Catholic Encyclopedia*, “Christopher Columbus”: “On 3 August, 1492, the people of Palos… saw them depart”).
 - **Quotes & allusions:**
   - MAYBE: “herb of grace” (rue; Hamlet/Ophelia phrase; confirm intent).
   - MAYBE: “Helen and crooning? Poe and Prohibition? … Menkin?” (dense allusive menu of celebration options; sources TBD).

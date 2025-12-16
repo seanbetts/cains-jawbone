@@ -7,7 +7,7 @@ I was feeling about as good as man could feel that day. Everything horticultural
   - MAYBE: “old man” (coming “to-day”; on her advice).
 - **Time markers:**
   - CERTAIN: “before breakfast”; “to-day”.
-  - LIKELY: “meeting at La Belle Alliance” implies Waterloo day (date confirmation needed).
+  - CERTAIN: “to-day… meeting at La Belle Alliance” → Waterloo day = June 18, 1815 (Nuttall Encyclopaedia, “Waterloo”).
 - **Places:**
   - CERTAIN: La Belle Alliance (Waterloo reference point).
 - **Motifs/continuity hooks:**
@@ -23,5 +23,4 @@ I was feeling about as good as man could feel that day. Everything horticultural
   - If “poisoned poison” and “crimson lights” resolve to non-lethal horticulture/wordplay with no victim.
 - **Research needed:**
   - Identify the “pestle a poisoned poison…” line source (if quoted).
-  - Confirm the Waterloo/La Belle Alliance date-anchor use.
   - Identify Nestor (cigarette brand) details if it recurs as a tell.

@@ -9,6 +9,7 @@ I had sufficient knowledge to realise that I had succeeded. I ordered Charles to
   - MAYBE: “figurehead beard” (target; likely Trinder given pseudo-science/beard cues).
 - **Time markers:**
   - CERTAIN: “to-day” (includes reference to Francis Ferdinand’s murder; potential date anchor).
+  - CERTAIN: Francis Ferdinand reference → June 28, 1914 (Sarajevo assassination; 1922 *Encyclopaedia Britannica*, “Yugoslavia”).
   - CERTAIN: “a couple of hours later”.
 - **Quotes & allusions:**
   - CERTAIN: “Death closes all… some work of noble note…” (Tennyson, *Ulysses*).
@@ -28,5 +29,4 @@ I had sufficient knowledge to realise that I had succeeded. I ordered Charles to
   - If “figurehead beard” is shown to be someone other than Trinder and Lover’s Delight is a generic term used widely.
 - **Research needed:**
   - Identify the “No more by thee…” line source.
-  - Confirm what “to-day” date is implied by the Francis Ferdinand reference (and whether it constrains ordering).
   - Clarify the parson/collaborator “did the trick” mechanism (sermon? marriage? execution?).

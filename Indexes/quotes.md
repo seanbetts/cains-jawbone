@@ -301,18 +301,18 @@ Template:
   - **Research needed:** yes — identify source/context.
 
 - **Snippet:** “to-day was the day of the meeting at La Belle Alliance.”
-  - **Likely source/author:** Historical reference (Waterloo / La Belle Alliance)
-  - **Why it matters:** Potential calendar anchor for “to-day” (Waterloo day).
+  - **Likely source/author:** Nuttall Encyclopaedia (“Waterloo”: battle on June 18, 1815)
+  - **Why it matters:** Sets “to-day” as **June 18** (Waterloo day).
   - **Pages:** Pages/cains_jawbone_page_54.md
-  - **Confidence:** `LIKELY`
-  - **Research needed:** yes — confirm date used.
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
 
 - **Snippet:** “James had got off, the Earl and his brother Alexander had emphatically not.”
-  - **Likely source/author:** Historical reference (likely Gowrie conspiracy; James deliverance day)
-  - **Why it matters:** Potential “fifth” holiday/calendar anchor for “to-day”.
+  - **Likely source/author:** Nuttall Encyclopaedia (“Gowrie Conspiracy”: 5 Aug 1600; James VI; Earl of Gowrie + brother Alexander Ruthven)
+  - **Why it matters:** Sets “to-day” as **Aug 5** (Gowrie conspiracy / James deliverance-day reference).
   - **Pages:** Pages/cains_jawbone_page_55.md
-  - **Confidence:** `LIKELY`
-  - **Research needed:** yes — confirm event/date and how it’s used.
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
 
 - **Snippet:** “no noise here, but the toning of a tear, or a sigh of such as bring cowslips for her covering”
   - **Likely source/author:** TBD
@@ -328,12 +328,33 @@ Template:
   - **Confidence:** `CERTAIN`
   - **Research needed:** no
 
+- **Snippet:** “Francis Ferdinand’s”
+  - **Likely source/author:** 1922 *Encyclopaedia Britannica* (“Yugoslavia”: Sarajevo murders on June 28, 1914)
+  - **Why it matters:** Sets “to-day” as **June 28** (1914) via the Sarajevo assassination reference.
+  - **Pages:** Pages/cains_jawbone_page_60.md
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
+
 - **Snippet:** “No more by thee my steps shall be for ever and for ever.”
   - **Likely source/author:** TBD
   - **Why it matters:** Distinct farewell line; could identify a specific poem and tie to a place/name.
   - **Pages:** Pages/cains_jawbone_page_60.md
   - **Confidence:** `MAYBE`
   - **Research needed:** yes — identify source/context.
+
+- **Snippet:** “old Chris left Palos”
+  - **Likely source/author:** *Catholic Encyclopedia* (“Christopher Columbus”: departure from Palos on 3 Aug 1492)
+  - **Why it matters:** Sets “that… day” as **Aug 3** (1492) via Columbus’s departure date.
+  - **Pages:** Pages/cains_jawbone_page_67.md
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
+
+- **Snippet:** “It was St. Wigbert’s day”
+  - **Likely source/author:** *Catholic Encyclopedia* (“St. Wigbert”: recorded in the *Martyrologium Romanum* under 13 August)
+  - **Why it matters:** Sets “to-day” as **Aug 13** via a saint-day reference.
+  - **Pages:** Pages/cains_jawbone_page_88.md
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
 
 - **Snippet:** “He was my friend… he was dear to me.”
   - **Likely source/author:** TBD (quoted as from “the murderous doctor”)

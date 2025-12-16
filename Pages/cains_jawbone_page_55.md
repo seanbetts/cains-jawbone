@@ -6,7 +6,7 @@ The picture of the Old Mill at Bramley, with its medlar tree overhanging the wat
   - CERTAIN: Bramley (Old Mill picture; exact Bramley uncertain).
 - **Time markers:**
   - CERTAIN: “the day before”; “to-day”.
-  - MAYBE: “English holiday… like that other fifth… James… the Earl and his brother Alexander” (likely a specific historical “deliverance” date; could be a calendar anchor).
+  - CERTAIN: “English holiday… like that other fifth… James… the Earl and his brother Alexander” → Gowrie Conspiracy (James VI; Earl of Gowrie + brother Alexander Ruthven) = Aug 5, 1600 (Nuttall Encyclopaedia, “Gowrie Conspiracy”).
 - **Entities:**
   - MAYBE: James (likely King James VI/I reference).
   - MAYBE: “the Earl and his brother Alexander” (likely Gowrie conspiracy reference; needs confirmation).
@@ -22,6 +22,5 @@ The picture of the Old Mill at Bramley, with its medlar tree overhanging the wat
 - **Disconfirming evidence:**
   - If the “holiday” reference is merely associative and the hard/gentle pattern never reappears or yields structure.
 - **Research needed:**
-  - Identify the referenced “English holiday” and confirm whether it’s the Gowrie/James deliverance day (and what date “to-day” implies).
   - Identify the specific “Old Mill at Bramley” (Surrey vs Hampshire; details).
   - Determine whether the hard/gentle sequence encodes something (music/Morse/etc.) and whether it recurs.
