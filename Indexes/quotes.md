@@ -608,6 +608,13 @@ Template:
   - **Confidence:** `CERTAIN`
   - **Research needed:** no
 
+- **Snippet:** “Holy Mr. Herbert”
+  - **Likely source/author:** LIKELY an allusion to George Herbert (1593–1633), poet and Anglican priest (Bemerton), per EB1911: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Herbert,_George; also echoed as the title of Marjorie Bowen’s short story “Holy Mr. Herbert” (*Harper’s Magazine*, May 1910): https://en.wikisource.org/wiki/Harper%27s_Magazine/%22Holy_Mr._Herbert%22
+  - **Why it matters:** Possible narrator reading-set/voice tell (clerical/Herbert allusion); “Mr. Haddock” + “Meed kissing laces” may sharpen the exact source.
+  - **Pages:** Pages/cains_jawbone_page_95.md
+  - **Confidence:** `LIKELY`
+  - **Research needed:** yes — identify “Mr. Haddock” and “Meed kissing laces”.
+
 - **Snippet:** “It gars me grue”
   - **Likely source/author:** Scots phrase (“it makes me shudder”): “Gar… To cause; to make. [Obs. or Scot.]” (Webster 1913, https://www.websters1913.com/words/Gar) + “Grue… to shudder” (Chambers’s Twentieth Century Dictionary, 1908: https://en.wikisource.org/wiki/Chambers%27s_Twentieth_Century_Dictionary_1908/Grope_Gyve)
   - **Why it matters:** Distinct dialect marker; may cluster narrator voice and indicates deliberate Scots-register phrasing rather than an invented idiolect.

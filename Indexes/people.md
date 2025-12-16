@@ -528,11 +528,11 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_94.md
   - **Notes:** Could be a local memorial anchor; identify which Colonel Anthony and what commemoration is meant.
 
-- `P87` — Names/aliases: Holy Mr. Herbert / Mr. Haddock (uncertain)
+- `P87` — Names/aliases: Holy Mr. Herbert (LIKELY George Herbert) / Mr. Haddock (uncertain)
   - **Tells:** invoked approvingly about “these hours”; “Meed kissing laces” reference.
   - **Pronouns/relationships:** none known.
   - **Pages:** Pages/cains_jawbone_page_95.md
-  - **Notes:** Identity uncertain; could be a disguised reference (poet/cleric/personality) rather than an in-world character.
+  - **Notes:** “Holy Mr. Herbert” is LIKELY an allusion to George Herbert (1593–1633), poet and Anglican priest (Bemerton), per EB1911 (https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Herbert,_George) and/or Marjorie Bowen’s short story “Holy Mr. Herbert” (*Harper’s Magazine*, May 1910): https://en.wikisource.org/wiki/Harper%27s_Magazine/%22Holy_Mr._Herbert%22. “Mr. Haddock” and “Meed kissing laces” still unresolved.
 
 - `P88` — Names/aliases: Catharine
   - **Tells:** “turning a Somerset in front of the altar” (marriage/ceremony framing).

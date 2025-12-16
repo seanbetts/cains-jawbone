@@ -4,7 +4,6 @@ I knew, of course, that if I got there in five minutes I would have double the t
 
 - **Entities:**
   - CERTAIN: narrator (“I”; time-planning, then letter-writing).
-  - MAYBE: “Holy Mr. Herbert” / “Mr. Haddock” (identity unclear; referenced approvingly).
   - CERTAIN: “him” (recipient of narrator’s written account).
   - CERTAIN: John Montagu (Earl of Sandwich; allusion to the “sandwich” origin story).
   - MAYBE: “my swan” (LIKELY the pen; “gave my swan a drink”).
@@ -13,6 +12,8 @@ I knew, of course, that if I got there in five minutes I would have double the t
 - **Time markers:**
   - CERTAIN: “in five minutes”.
   - CERTAIN: “hour by hour, day by day” timeline in the written account.
+- **Quotes & allusions:**
+  - LIKELY: “Holy Mr. Herbert” refers to George Herbert (1593–1633), poet and Anglican priest (Bemerton), per EB1911 (https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Herbert,_George); also echoed by Marjorie Bowen’s short story “Holy Mr. Herbert” (*Harper’s Magazine*, May 1910): https://en.wikisource.org/wiki/Harper%27s_Magazine/%22Holy_Mr._Herbert%22. (“Mr. Haddock” / “Meed kissing laces” remain unresolved.)
 - **Death/violence cues:**
   - MAYBE: “the horrid act” described from inception to culmination (could be crime confession/report; outcome unspecified).
 - **Motifs/continuity hooks:**
@@ -24,5 +25,5 @@ I knew, of course, that if I got there in five minutes I would have double the t
 - **Disconfirming evidence:**
   - If the “horrid act” is later shown to be non-violent (e.g., fraud/prank) rather than murder.
 - **Research needed:**
-  - Identify “Holy Mr. Herbert” / “Mr. Haddock” and the “Meed kissing laces” reference.
+  - Identify “Mr. Haddock” and the “Meed kissing laces” reference.
   - Determine what “Leda and Hebe” and “my swan” refer to (pen brand? mythic wordplay?).

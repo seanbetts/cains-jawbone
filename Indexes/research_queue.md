@@ -1224,7 +1224,14 @@ Template:
   - **Status:** `open`
   - **Result:**
 
-- **Item:** Identify “Holy Mr. Herbert” / “Mr. Haddock” and “Meed kissing laces” (Page 95)
+- **Item:** Identify “Holy Mr. Herbert” reference (Page 95)
+  - **Type:** people/other
+  - **Pages:** Pages/cains_jawbone_page_95.md
+  - **Why it matters:** Allusion anchor that may identify narrator reading set/voice.
+  - **Status:** `resolved`
+  - **Result:** LIKELY refers to George Herbert (1593–1633), poet and Anglican priest (Bemerton), per EB1911: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Herbert,_George. Also appears as the title of Marjorie Bowen’s short story “Holy Mr. Herbert” (*Harper’s Magazine*, May 1910): https://en.wikisource.org/wiki/Harper%27s_Magazine/%22Holy_Mr._Herbert%22.
+
+- **Item:** Identify “Mr. Haddock” and “Meed kissing laces” reference (Page 95)
   - **Type:** quote/other
   - **Pages:** Pages/cains_jawbone_page_95.md
   - **Why it matters:** Likely a layered allusion; resolving it may identify narrator voice and connect to other literary fragments.
