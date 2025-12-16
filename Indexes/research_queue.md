@@ -297,8 +297,8 @@ Template:
   - **Type:** quote
   - **Pages:** Pages/cains_jawbone_page_23.md, Pages/cains_jawbone_page_24.md
   - **Why it matters:** Spans pages and likely anchors an Irish-themed source.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** John Masefield, “Captain Stratton’s Fancy”: “But rum alone’s the tipple, and the heart’s delight / … Says the old bold mate of Henry Morgan.” https://en.wikisource.org/wiki/Captain_Stratton%27s_Fancy. *Cain’s Jawbone* continues with “Of Cathleen, the daughter of Houlihan” (cf. Yeats’s “Cathleen ni Houlihan”), apparently substituting the original line.
 
 - **Item:** Clarify the match-related allusions on Page 23 (Bryant & May, Francis Thompson “sold matches”, “under the snow”, “eyes go out”)
   - **Type:** other
@@ -829,8 +829,8 @@ Template:
   - **Type:** place/other
   - **Pages:** Pages/cains_jawbone_page_66.md, Pages/cains_jawbone_page_67.md, Pages/cains_jawbone_page_68.md
   - **Why it matters:** Could lock a real location and strongly cluster the narrator segment; the 1906 fire is a potential date/place anchor.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** “Latham chapel” is a chapel within Selby Abbey (church of St Mary and St German), Selby, Yorkshire; EB1911 records a major fire on 19–20 Oct 1906 starting “in the Latham chapel adjoining the north choir aisle.” https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Selby.
 
 - **Item:** Identify the “place of the Whympers” and how Mrs. Allingham’s fishshop + Conan Doyle cricket connect (Page 67)
   - **Type:** place/name/other

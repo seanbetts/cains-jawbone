@@ -15,6 +15,7 @@ Next day I saw that my suspicions of Caroline had been well-founded. This was an
 - **Time markers:**
   - CERTAIN: “Next day…”
 - **Quotes & allusions:**
+  - CERTAIN: “Of Cathleen, the daughter of Houlihan” appears to be a deliberate substitution for Masefield’s “Says the old bold mate of Henry Morgan” (*Captain Stratton’s Fancy*): https://en.wikisource.org/wiki/Captain_Stratton%27s_Fancy.
   - CERTAIN: “the quality of mercy” (Shakespeare, Merchant of Venice).
   - MAYBE: name clue: “fourteen popes and two anti-popes” strongly points to the name Clement.
 - **Motifs/continuity hooks:**

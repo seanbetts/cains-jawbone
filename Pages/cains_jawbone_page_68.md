@@ -8,6 +8,7 @@ Out cascaded the darling young. It was no tragedy ; that was, no tragedy compara
   - CERTAIN: untidy myopic-looking fellow (unnamed; steps on narrator’s foot; possible eavesdropper).
 - **Places:**
   - CERTAIN: Latham Chapel (location “here”; site of a 1906 fire).
+  - CERTAIN: Selby Abbey (church of St Mary and St German), Selby, Yorkshire — 19–20 Oct 1906 fire began “in the Latham chapel adjoining the north choir aisle” (EB1911): https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Selby.
 - **Time markers:**
   - CERTAIN: reference to Latham Chapel fire in 1906 (historical anchor for this place).
 - **Quotes & allusions:**
@@ -23,4 +24,4 @@ Out cascaded the darling young. It was no tragedy ; that was, no tragedy compara
 - **Disconfirming evidence:**
   - If the “old man” is unrelated (generic) and no shared unique details emerge.
 - **Research needed:**
-  - Identify the institution/building that has a “Latham Chapel” and the 1906 fire.
+  - Resolved: “Latham chapel” is within Selby Abbey (Selby, Yorkshire); fire 19–20 Oct 1906 (EB1911).

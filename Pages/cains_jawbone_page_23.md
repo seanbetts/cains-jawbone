@@ -15,7 +15,7 @@ I hate seeing things like this in the paper. Bill to Solve the Traffic Problem. 
 - **Quotes & allusions:**
   - CERTAIN: “Bryant and… May” (match brand).
   - MAYBE: “Toll slowly… match box rhythm” / “Rub gently…” (match-lighting imagery; matchgirls context?).
-  - MAYBE: “But rum alone’s the tipple, and the heart’s delight” (continues on Page 24; source TBD).
+  - CERTAIN: John Masefield, “Captain Stratton’s Fancy” — “But rum alone’s the tipple, and the heart’s delight …” (continues on Page 24 with a substituted next line): https://en.wikisource.org/wiki/Captain_Stratton%27s_Fancy.
 - **Motifs/continuity hooks:**
   - Matches: matchbox rhythm; “ends” not dropping; “eyes” not going out; “under the snow” (match head imagery).
   - Rail/travel: Left Luggage Office.
@@ -27,6 +27,6 @@ I hate seeing things like this in the paper. Bill to Solve the Traffic Problem. 
 - **Disconfirming evidence:**
   - If Bryant & May is later shown to be a person-pair rather than the match company.
 - **Research needed:**
-  - Identify the rum/Cathleen lines source (poem/song) and whether it encodes an Irish/date anchor.
+  - Resolved: rum/Cathleen lines trace to Masefield, “Captain Stratton’s Fancy” (see Indexes/quotes.md).
   - Clarify the Blackwood names (people, animals, or coded reference) and the Left Luggage Office “first/second”.
   - Identify which Duchess shares a name with the narrator’s “guest”.

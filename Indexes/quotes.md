@@ -133,11 +133,11 @@ Template:
   - **Research needed:** yes — identify the quotation and implied namesake.
 
 - **Snippet:** “But rum alone’s the tipple, and the heart’s delight / Of Cathleen, the daughter of Houlihan.”
-  - **Likely source/author:** TBD (Irish poem/song; Cathleen ni Houlihan allusion likely)
-  - **Why it matters:** Strong quote anchor spanning pages; may encode date/Irish-national theme.
+  - **Likely source/author:** John Masefield, “Captain Stratton’s Fancy” (1902): https://en.wikisource.org/wiki/Captain_Stratton%27s_Fancy. The original next line is “Says the old bold mate of Henry Morgan”; *Cain’s Jawbone* appears to substitute “Cathleen, the daughter of Houlihan” (cf. Yeats’s “Cathleen ni Houlihan”).
+  - **Why it matters:** Confirms a Masefield anchor spanning pages and highlights a deliberate Irish allusion/substitution.
   - **Pages:** Pages/cains_jawbone_page_23.md, Pages/cains_jawbone_page_24.md
-  - **Confidence:** `MAYBE`
-  - **Research needed:** yes — identify exact source.
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
 
 - **Snippet:** “the quality of mercy”
   - **Likely source/author:** Shakespeare, The Merchant of Venice

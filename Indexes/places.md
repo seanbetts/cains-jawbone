@@ -372,11 +372,23 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_74.md
   - **Notes:** Referenced via an “old man” giving a speech on “sane mediocrity”.
 
-- **Latham Chapel (unidentified)**
-  - **Type:** chapel/building
+- **Selby (Yorkshire)**
+  - **Type:** town
   - **Confidence:** `CERTAIN`
   - **Pages:** Pages/cains_jawbone_page_68.md
-  - **Notes:** “Fire… in the Latham Chapel in 1906” implies a specific institution; needs identification.
+  - **Notes:** Inferred via “Latham chapel” reference; see Selby Abbey entry.
+
+- **Selby Abbey (Church of St Mary and St German)**
+  - **Type:** abbey church
+  - **Confidence:** `CERTAIN`
+  - **Pages:** Pages/cains_jawbone_page_68.md
+  - **Notes:** EB1911 records a major fire on 19–20 Oct 1906 starting “in the Latham chapel adjoining the north choir aisle.” https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Selby.
+
+- **Latham Chapel (Selby Abbey)**
+  - **Type:** chapel
+  - **Confidence:** `CERTAIN`
+  - **Pages:** Pages/cains_jawbone_page_68.md
+  - **Notes:** Chapel within Selby Abbey; fire began here on 19–20 Oct 1906 (EB1911). https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Selby.
 
 - **Palos (Palos de la Frontera)**
   - **Type:** town/port (Spain)

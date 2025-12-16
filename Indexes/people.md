@@ -73,9 +73,9 @@ Template:
   - **Notes:** Track for reappearance; name enables Day/Knight pun.
 
 - `P11` — Names/aliases: Mr. Hall
-  - **Tells:** “burst in upon us” during a scene involving a “black knobby thing”.
+  - **Tells:** Enters after a “black knobby thing”/“polished knob” is twiddled (“burst in upon us”; later “came into the room again”).
   - **Pronouns/relationships:** none known.
-  - **Pages:** Pages/cains_jawbone_page_8.md
+  - **Pages:** Pages/cains_jawbone_page_8.md, Pages/cains_jawbone_page_19.md
   - **Notes:** MAYBE authority/interruptor figure; unknown role.
 
 - `P12` — Names/aliases: Boots (servant)
