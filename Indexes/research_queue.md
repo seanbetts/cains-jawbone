@@ -1151,15 +1151,15 @@ Template:
   - **Type:** people/other
   - **Pages:** Pages/cains_jawbone_page_91.md
   - **Why it matters:** Likely an identity cipher for the narrator; resolving it could collapse a whole voice cluster.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** Newbolt’s “Admiral Death” (Page:Poems,_new_and_old_(IA_poemsnewold00newb).pdf/68) + Shakespeare’s “fell Sergeant death” (*Hamlet* V.2; Page:Shakespeare_-_First_Folio_Faithfully_Reproduced,_Methuen,_1910.djvu/797) → narrator name = DEATH; “capitalise my third letter” suggests styling it as De’Ath (DeAth).
 
 - **Item:** Identify “The Blue Rocket” reference (Page 91)
   - **Type:** other
   - **Pages:** Pages/cains_jawbone_page_91.md
   - **Why it matters:** Appears as a sabotage/prevention statement (“knew too much to let it go up”); could be a place/vehicle/event anchor.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** “Blue rocket” is a common name for aconite / wolfsbane / monkshood (*Aconitum napellus*): EB1911 “Poison” (Aconite Poisoning), Page:EB1911_-_Volume_21.djvu/928.
 
 - **Item:** Identify the Cadaver Charlie / Chicago sleuth / “see any green” anecdote (Page 91)
   - **Type:** quote/other
@@ -1172,6 +1172,13 @@ Template:
   - **Type:** quote
   - **Pages:** Pages/cains_jawbone_page_92.md
   - **Why it matters:** Strong stanza-level anchor that may identify narrator reading set and aid clustering.
+  - **Status:** `resolved`
+  - **Result:** Robert Browning, “Saul” (*Men and Women*, 1855), stanza 2: “Yet now my heart leaps, O beloved! …” (Page:Men_and_Women,_Volume_2_-_Browning_(1855).djvu/120).
+
+- **Item:** Identify what “Devona” refers to (Page 92)
+  - **Type:** term/other
+  - **Pages:** Pages/cains_jawbone_page_92.md
+  - **Why it matters:** Could be a brand/place/wordplay clue (childhood sweet “caddis-hoard of Devona”) and may recur across pages.
   - **Status:** `open`
   - **Result:**
 

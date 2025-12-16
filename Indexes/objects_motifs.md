@@ -67,9 +67,9 @@ Template:
   - **Notes:** Candidate poison method; watch for illness/heart symptoms elsewhere.
 
 - **Aconite (aconitum / Fleming’s tincture)**
-  - **Instances / variants:** aconitum exhibited; Fleming’s tincture mentioned; sherry as immediate context
-  - **Pages:** Pages/cains_jawbone_page_80.md
-  - **Notes:** High-suspicion poison method marker; track for later symptoms or confessions.
+  - **Instances / variants:** aconitum exhibited; Fleming’s tincture mentioned; “Blue Rocket” (blue rocket/wolfsbane/monkshood = *Aconitum napellus*; EB1911 “Poison”, Page:EB1911_-_Volume_21.djvu/928)
+  - **Pages:** Pages/cains_jawbone_page_80.md, Pages/cains_jawbone_page_91.md
+  - **Notes:** High-suspicion poison method marker; Page 91 “Blue Rocket” LIKELY invokes the plant/poison common-name.
 
 - **Cigarettes (Egyptian)**
   - **Instances / variants:** bet stake: “a hundred Egyptian cigarettes—Gourdoulis”; box of Gourdoulis labelled “I always pay my debts”

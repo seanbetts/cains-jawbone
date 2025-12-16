@@ -3,18 +3,19 @@ In my youth I had been worried that I bore the same name as Newbolt’s admiral 
 ## Notes
 
 - **Entities:**
-  - CERTAIN: narrator (“I”; name hinted via Newbolt/Shakespeare references).
+  - CERTAIN: narrator (“I”; name clue points to DEATH / De’Ath).
   - CERTAIN: Henry (named; appears to have “been playing about” with an exhibit).
   - CERTAIN: “him” (unnamed listener/guest shown the narrator’s Black Museum).
   - CERTAIN: “Cadaver Charlie” (macabre exhibit/figure).
   - MAYBE: “Chicago sleuth” (unnamed detective in the Cadaver Charlie anecdote).
-  - MAYBE: Newbolt’s admiral + Shakespeare’s sergeant (allusions used to point to narrator’s name).
-  - MAYBE: “The Blue Rocket” (unnamed object/event “going down next day”; narrator won’t let it “go up”).
+  - CERTAIN: Newbolt’s “Admiral Death” + Shakespeare’s “fell Sergeant death” (Hamlet V.2) → name = DEATH (Newbolt: Page:Poems,_new_and_old_(IA_poemsnewold00newb).pdf/68; Shakespeare: Page:Shakespeare_-_First_Folio_Faithfully_Reproduced,_Methuen,_1910.djvu/797).
+  - LIKELY: “The Blue Rocket” = aconite (blue rocket / wolfsbane / monkshood; EB1911 “Poison”, Page:EB1911_-_Volume_21.djvu/928).
 - **Time markers:**
   - CERTAIN: “next day”.
 - **Motifs/continuity hooks:**
   - Detective-crime collection: “Black Museum” + preserved body part.
   - “Green” detail embedded in the eyeball story (possible clue-word recurrence).
+  - CERTAIN: “Smiler with the Knife” is Chaucer’s phrase in *The Knight’s Tale* (Temple of Mars description): “the smiler with the knife under the mantle” (Page:The_Canterbury_tales_of_Geoffrey_Chaucer.djvu/67).
   - Name-play: “capitalise my third letter” (identity-cipher style).
 - **Voice/tells:**
   - Self-mythologising criminal/detective register (“Smiler with the Knife”; “Black Museum”).
@@ -24,6 +25,4 @@ In my youth I had been worried that I bore the same name as Newbolt’s admiral 
 - **Disconfirming evidence:**
   - If “Black Museum” and Cadaver Charlie are purely figurative or offhand jokes with no recurrence.
 - **Research needed:**
-  - Identify the narrator’s name from “Newbolt’s admiral” + “Shakespeare’s sergeant” and the “capitalise my third letter” clue.
-  - Identify “The Blue Rocket” reference (“going down next day”; “let it go up”).
   - Identify the Cadaver Charlie / Chicago sleuth / “see any green” anecdote.

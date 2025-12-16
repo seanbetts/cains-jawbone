@@ -567,18 +567,18 @@ Template:
   - **Research needed:** no
 
 - **Snippet:** “Smiler with the Knife”
-  - **Likely source/author:** TBD
-  - **Why it matters:** Looks like a specific epithet (possibly a source-text anchor or identity clue for the narrator).
+  - **Likely source/author:** Geoffrey Chaucer, *The Canterbury Tales* (“The Knight’s Tale” — Temple of Mars description: “the smiler with the knife under the mantle”)
+  - **Why it matters:** Confirms a Chaucer allusion; reinforces the narrator’s self-fashioning as a concealed killer (“smiler… with the knife”).
   - **Pages:** Pages/cains_jawbone_page_91.md
-  - **Confidence:** `MAYBE`
-  - **Research needed:** yes — identify source/context.
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
 
 - **Snippet:** “Yet now my heart leaps, O beloved! …”
-  - **Likely source/author:** TBD (poem)
-  - **Why it matters:** Extended quotation embedded in a timepiece/anticipation scene; may anchor narrator reading set or date cluster.
+  - **Likely source/author:** Robert Browning, “Saul” (*Men and Women*, 1855)
+  - **Why it matters:** Confirms a Browning stanza; may help cluster a narrator segment that leans on Browning and timepiece “mentor” imagery.
   - **Pages:** Pages/cains_jawbone_page_92.md
-  - **Confidence:** `MAYBE`
-  - **Research needed:** yes — identify source/context.
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
 
 - **Snippet:** “But M’Cullough he died in the sixties, and—well, I’m dying to-night…”
   - **Likely source/author:** TBD (poem/song)

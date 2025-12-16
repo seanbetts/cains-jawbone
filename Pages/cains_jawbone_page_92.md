@@ -17,7 +17,7 @@ My earlier days had been so different. There hadn’t been the comfort, the sens
   - Timepieces: watch vs near-by clock (“my watch must be my mentor”).
   - Childhood sweets stash (“secret caddis-hoard of Devona”).
 - **Quotes & allusions:**
-  - CERTAIN: quoted lines “Yet now my heart leaps, O beloved! …”
+  - CERTAIN: quoted lines “Yet now my heart leaps, O beloved! …” — Robert Browning, “Saul” (*Men and Women*, 1855), Page:Men_and_Women,_Volume_2_-_Browning_(1855).djvu/120.
 - **Voice/tells:**
   - Nostalgic self-comparison (childhood frustration → present indulgence) + heightened anticipatory mood (“cardiac revelation”).
 - **Ordering hypotheses:**
@@ -25,5 +25,4 @@ My earlier days had been so different. There hadn’t been the comfort, the sens
 - **Disconfirming evidence:**
   - If Henry here is clearly a different “Henry” than adjacent segments (setting/role divergence).
 - **Research needed:**
-  - Identify the source of the quoted stanza (“Yet now my heart leaps, O beloved!”).
   - Identify what “Devona” refers to in “caddis-hoard of Devona” (place/brand/wordplay).
