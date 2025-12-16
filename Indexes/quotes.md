@@ -636,6 +636,13 @@ Template:
   - **Confidence:** `CERTAIN`
   - **Research needed:** no
 
+- **Snippet:** “Golden Tips”
+  - **Likely source/author:** Tea-industry usage: “Golden tips” are tea “tips” (buds) — “the essence of the leaf” — sometimes separated and sold as pure “golden tips” (Henry W. Cave, *Golden Tips: A Description of Ceylon and its Great Tea Industry*, 1905: https://archive.org/stream/cu31924023639119/cu31924023639119_djvu.txt).
+  - **Why it matters:** Explains the “tips” wordplay cluster on Page 96 (“Golden Tips” / “Tippy Tea” / “No Tips”) as tea-grade language plus a gratuities pun.
+  - **Pages:** Pages/cains_jawbone_page_96.md
+  - **Confidence:** `LIKELY`
+  - **Research needed:** no
+
 - **Snippet:** “Ellen Brine of Allenburn would never mwore return.”
   - **Likely source/author:** William Barnes, “Ellen Brine ov Allenburn” (*Poems of Rural Life in the Dorset Dialect*, 1879)
   - **Why it matters:** Dorset dialect quotation anchor; may help cluster a narrator segment that invokes Dorset/West Country voice.

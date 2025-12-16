@@ -9,6 +9,7 @@ Now I think I will try a cup of what they insolently call Golden Tips, a find yo
   - CERTAIN: the Padre (unnamed; war/expedition anecdote).
 - **Objects/motifs:**
   - Tea: “Golden Tips” / “Tippy Tea”; “No Tips” gag.
+  - LIKELY: “Golden Tips” refers to the tea “tips” (buds) — “the essence of the leaf” — sometimes separated and sold as pure “golden tips” (Henry W. Cave, *Golden Tips: A Description of Ceylon and its Great Tea Industry*, 1905: https://archive.org/stream/cu31924023639119/cu31924023639119_djvu.txt).
   - Menu-like phrases: “Loganberry Kiss”; “Plover’s Lunch”.
   - Castor oil; stew recollection.
 - **Places:**
