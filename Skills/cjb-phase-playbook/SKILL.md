@@ -121,6 +121,7 @@ Identify groups before order.
   - stylistic voice tells
   - recurring people
   - recurring locations
+  - same dates
   - repeated objects/substances
   - similar emotional tone
 - Propose clusters as narrative strands (not sequences).
