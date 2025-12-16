@@ -12,7 +12,7 @@ I was feeling about as good as man could feel that day. Everything horticultural
   - CERTAIN: La Belle Alliance (Waterloo reference point).
 - **Motifs/continuity hooks:**
   - Plant/poison work: “everything horticultural… lovely”; “Green blood… conserve”.
-  - Preparation/poisoning: “pestle a poisoned poison behind his crimson lights” (eyes?).
+  - Preparation/poisoning: “To pestle a poison’d poison behind his crimson lights.” (Tennyson, *Maud*).
   - Smoking: “lit a Nestor”.
   - Scansion habit: “It would have to be scanned.”
 - **Voice/tells:**
@@ -22,5 +22,4 @@ I was feeling about as good as man could feel that day. Everything horticultural
 - **Disconfirming evidence:**
   - If “poisoned poison” and “crimson lights” resolve to non-lethal horticulture/wordplay with no victim.
 - **Research needed:**
-  - Identify the “pestle a poisoned poison…” line source (if quoted).
   - Identify Nestor (cigarette brand) details if it recurs as a tell.

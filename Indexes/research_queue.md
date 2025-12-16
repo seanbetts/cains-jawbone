@@ -654,8 +654,8 @@ Template:
   - **Type:** quote
   - **Pages:** Pages/cains_jawbone_page_54.md
   - **Why it matters:** Might be a quoted instruction encoding poison method/victim detail; could link other quoted lines.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** Alfred, Lord Tennyson, *Maud* — “To pestle a poison’d poison behind his crimson lights.” (Wikisource scan: *Maud, and other poems*).
 
 - **Item:** Confirm the Waterloo/La Belle Alliance date-anchor implied by Page 54
   - **Type:** date
@@ -703,8 +703,8 @@ Template:
   - **Type:** quote
   - **Pages:** Pages/cains_jawbone_page_57.md
   - **Why it matters:** Could identify a specific poem/source and connect other embedded verse fragments.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** Robert Herrick, “An Epitaph upon a Virgin” (line includes “Hush’d be all things, no noise here… Cowslips for her covering.”; Project Gutenberg “From the Lyrical Poems of Robert Herrick”).
 
 - **Item:** Clarify Armadale Castle as castle vs South Africa “boat” (Page 57)
   - **Type:** place/other
@@ -738,8 +738,8 @@ Template:
   - **Type:** quote
   - **Pages:** Pages/cains_jawbone_page_60.md
   - **Why it matters:** Could be a strong poem anchor tying to place/name.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** Alfred, Lord Tennyson, “A Farewell” (aka “Flow down, cold rivulet, to the sea”) — “No more by thee my steps shall be, / For ever and for ever.” (Wikisource: *Poems* (1843)).
 
 - **Item:** Confirm the date implied by Page 60’s “Francis Ferdinand’s” murder reference
   - **Type:** date

@@ -294,11 +294,11 @@ Template:
   - **Research needed:** no
 
 - **Snippet:** “To pestle a poisoned poison behind his crimson lights.”
-  - **Likely source/author:** TBD
-  - **Why it matters:** Possibly quoted instruction; may encode method (poison) + victim detail (“crimson lights”).
+  - **Likely source/author:** Alfred, Lord Tennyson, *Maud* (“To pestle a poison’d poison behind his crimson lights.”)
+  - **Why it matters:** Confirms the narrator’s Tennyson-allusion set (and frames poison as metrical/literary quotation).
   - **Pages:** Pages/cains_jawbone_page_54.md
-  - **Confidence:** `MAYBE`
-  - **Research needed:** yes — identify source/context.
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
 
 - **Snippet:** “to-day was the day of the meeting at La Belle Alliance.”
   - **Likely source/author:** Nuttall Encyclopaedia (“Waterloo”: battle on June 18, 1815)
@@ -315,11 +315,11 @@ Template:
   - **Research needed:** no
 
 - **Snippet:** “no noise here, but the toning of a tear, or a sigh of such as bring cowslips for her covering”
-  - **Likely source/author:** TBD
-  - **Why it matters:** Poetic quotation embedded in a paper-reading/ham scene; may identify narrator reading set and link other quoted fragments.
+  - **Likely source/author:** Robert Herrick, “An Epitaph upon a Virgin”
+  - **Why it matters:** Distinct quotation anchor; may link narrators who quote Herrick/epitaph verse.
   - **Pages:** Pages/cains_jawbone_page_57.md
-  - **Confidence:** `MAYBE`
-  - **Research needed:** yes — identify source/context.
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
 
 - **Snippet:** “Death closes all : but something ere the end, some work of noble note, may yet be done.”
   - **Likely source/author:** Alfred, Lord Tennyson (*Ulysses*)
@@ -336,11 +336,11 @@ Template:
   - **Research needed:** no
 
 - **Snippet:** “No more by thee my steps shall be for ever and for ever.”
-  - **Likely source/author:** TBD
-  - **Why it matters:** Distinct farewell line; could identify a specific poem and tie to a place/name.
+  - **Likely source/author:** Alfred, Lord Tennyson, “A Farewell” (aka “Flow down, cold rivulet, to the sea”)
+  - **Why it matters:** Confirms the farewell line as Tennyson; strengthens the Page 60 narrator’s Tennyson-allusion set.
   - **Pages:** Pages/cains_jawbone_page_60.md
-  - **Confidence:** `MAYBE`
-  - **Research needed:** yes — identify source/context.
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
 
 - **Snippet:** “old Chris left Palos”
   - **Likely source/author:** *Catholic Encyclopedia* (“Christopher Columbus”: departure from Palos on 3 Aug 1492)

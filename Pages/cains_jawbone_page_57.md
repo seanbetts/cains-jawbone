@@ -13,7 +13,7 @@ It seemed from what I heard that Felton’s meat had been delivered at Brookesle
   - CERTAIN: South Africa (as destination of a “boat”).
   - MAYBE: Amazon; Nagpur; Armadale Castle (castle vs ship ambiguity).
 - **Quotes & allusions:**
-  - MAYBE: “no noise here, but the toning of a tear… cowslips for her covering” (poetic quotation; source TBD).
+  - CERTAIN: “Hush’d be all things, no noise here… Cowslips for her covering.” (Robert Herrick, “An Epitaph upon a Virgin”).
   - Reference list: Hilary; Voltaire; Vandyck; Stella Polaris (as “bits of paper” topics).
 - **Motifs/continuity hooks:**
   - Westphalian ham shared (echoes Pages/cains_jawbone_page_52.md).
@@ -27,5 +27,4 @@ It seemed from what I heard that Felton’s meat had been delivered at Brookesle
   - If the Westphalian ham and paper-reading are shown to be unrelated, common details across multiple narrators.
 - **Research needed:**
   - Identify Brookesley and “Felton’s meat” reference.
-  - Identify the quoted line about “toning of a tear” and “cowslips”.
   - Clarify Armadale Castle (castle vs ship) and the South Africa route reference.

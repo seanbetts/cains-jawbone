@@ -13,7 +13,7 @@ I had sufficient knowledge to realise that I had succeeded. I ordered Charles to
   - CERTAIN: “a couple of hours later”.
 - **Quotes & allusions:**
   - CERTAIN: “Death closes all… some work of noble note…” (Tennyson, *Ulysses*).
-  - MAYBE: “No more by thee my steps shall be for ever and for ever.” (source TBD).
+  - CERTAIN: “No more by thee my steps shall be, / For ever and for ever.” (Tennyson, “A Farewell” / “Flow down, cold rivulet, to the sea”).
   - CERTAIN: Francis Ferdinand (historical assassination reference).
 - **Motifs/continuity hooks:**
   - Food/menu: “Lover’s Delight” sundae (echoes Pages/cains_jawbone_page_43.md).
@@ -28,5 +28,4 @@ I had sufficient knowledge to realise that I had succeeded. I ordered Charles to
 - **Disconfirming evidence:**
   - If “figurehead beard” is shown to be someone other than Trinder and Lover’s Delight is a generic term used widely.
 - **Research needed:**
-  - Identify the “No more by thee…” line source.
   - Clarify the parson/collaborator “did the trick” mechanism (sermon? marriage? execution?).
