@@ -15,7 +15,7 @@ Now I think I will try a cup of what they insolently call Golden Tips, a find yo
   - MAYBE: “Plover’s Lunch” gestures at plover eggs as a (somewhat showy) food item (e.g., *The Green Carnation*, ch. 7: “No plover’s eggs, thank you”): https://en.wikisource.org/wiki/The_Green_Carnation/Chapter_7 (but the exact named dish “Plover’s Lunch” remains unidentified).
   - Castor oil; stew recollection.
 - **Places:**
-  - MAYBE: Jifjaffa (unidentified; sounds like Jaffa/Palestine but unclear).
+  - LIKELY: “Jifjaffa” = Jifjafa, a post in the central Sinai Range (described as “some fifty-two miles east of the Canal”), appearing in accounts of the April 1916 “Jifjafa raid”; e.g., G. H. Gullett, *The Australian Imperial Force in Sinai and Palestine, 1914–1918* (1923): https://archive.org/stream/australianimperi07gulluoft/australianimperi07gulluoft_djvu.txt (search “Jifjafa”).
 - **Quotes & allusions:**
   - CERTAIN: Wordsworth-parody title “Ode on the Intimations of Immorality in Early Childhood” (Intimations of Immortality echo).
   - CERTAIN: Scots phrasing “It gars me grue” = “it makes me shudder”: “Gar… To cause; to make. [Obs. or Scot.]” (Webster 1913, https://www.websters1913.com/words/Gar) + “Grue… to shudder” (Chambers’s Twentieth Century Dictionary, 1908: https://en.wikisource.org/wiki/Chambers%27s_Twentieth_Century_Dictionary_1908/Grope_Gyve).
@@ -25,5 +25,4 @@ Now I think I will try a cup of what they insolently call Golden Tips, a find yo
 - **Disconfirming evidence:**
   - If “Catharine” and “Padre” are purely anecdotal/allusive with no recurrence.
 - **Research needed:**
-  - Identify “Jifjaffa” (place or pun).
   - Identify whether “Loganberry Kiss” / “Plover’s Lunch” are specific menu/culture references.

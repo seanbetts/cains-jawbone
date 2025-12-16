@@ -573,6 +573,20 @@ Template:
   - **Confidence:** `CERTAIN`
   - **Research needed:** no
 
+- **Snippet:** “Do you see any green in my eye?” / “see any green”
+  - **Likely source/author:** Colloquial scepticism (“do you take me for a greenhorn/fool?”), attested in Sabine Baring-Gould, *The Frobishers* (1901), Chapter 20: https://en.wikisource.org/wiki/The_Frobishers/Chapter_20 and Theodore Goodridge Roberts, “The Red Pirogue” (*Popular* magazine, 1922), Chapter 4: https://en.wikisource.org/wiki/The_Red_Pirogue/Chapter_4.
+  - **Why it matters:** Anchors the “green” clue-word in the Cadaver Charlie eyeball anecdote and provides a period source for the phrasing.
+  - **Pages:** Pages/cains_jawbone_page_91.md
+  - **Confidence:** `LIKELY`
+  - **Research needed:** yes — confirm whether the Cadaver Charlie / “Chicago sleuth” framing is itself a specific source.
+
+- **Snippet:** “caddis-hoard”
+  - **Likely source/author:** Rudyard Kipling, “Tomlinson” (*Ballads and Barrack-Room Ballads*, 1892): “As children rifle a caddis-case or the raven’s foolish hoard.” https://en.wikisource.org/wiki/Ballads_and_Barrack-Room_Ballads/Tomlinson.
+  - **Why it matters:** Confirms a Kipling allusion embedded in childhood-memory framing (“secret… hoard”); could cluster narrators/pages that use Kipling imagery.
+  - **Pages:** Pages/cains_jawbone_page_92.md
+  - **Confidence:** `LIKELY`
+  - **Research needed:** no
+
 - **Snippet:** “Yet now my heart leaps, O beloved! …”
   - **Likely source/author:** Robert Browning, “Saul” (*Men and Women*, 1855)
   - **Why it matters:** Confirms a Browning stanza; may help cluster a narrator segment that leans on Browning and timepiece “mentor” imagery.

@@ -18,6 +18,7 @@ My earlier days had been so different. There hadn’t been the comfort, the sens
   - Childhood sweets stash (“secret caddis-hoard of Devona”).
 - **Quotes & allusions:**
   - CERTAIN: quoted lines “Yet now my heart leaps, O beloved! …” — Robert Browning, “Saul” (*Men and Women*, 1855), Page:Men_and_Women,_Volume_2_-_Browning_(1855).djvu/120.
+  - LIKELY: “caddis-hoard” echoes Kipling’s “Tomlinson” (1892): “As children rifle a caddis-case or the raven’s foolish hoard.” https://en.wikisource.org/wiki/Ballads_and_Barrack-Room_Ballads/Tomlinson.
 - **Voice/tells:**
   - Nostalgic self-comparison (childhood frustration → present indulgence) + heightened anticipatory mood (“cardiac revelation”).
 - **Ordering hypotheses:**

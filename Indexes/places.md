@@ -486,11 +486,11 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_96.md
   - **Notes:** “Turning a Somerset” may be a somersault/“somerset” pun rather than location; treat cautiously.
 
-- **Jifjaffa (unidentified)**
-  - **Type:** place (uncertain)
-  - **Confidence:** `MAYBE`
+- **Jifjaffa (Jifjafa, Sinai Range)**
+  - **Type:** post/locality
+  - **Confidence:** `LIKELY`
   - **Pages:** Pages/cains_jawbone_page_96.md
-  - **Notes:** Sounds like Jaffa; could be a pun or transliteration.
+  - **Notes:** Spelling likely reflects transliteration/variant (“Jifjaffa”); G. H. Gullett (1923) describes Jifjafa as “a post situated in the Sinai Range… some fifty-two miles east of the Canal” and narrates the April 1916 “Jifjafa raid”: https://archive.org/stream/australianimperi07gulluoft/australianimperi07gulluoft_djvu.txt.
 
 - **Quarry hills (unidentified)**
   - **Type:** hills/landscape

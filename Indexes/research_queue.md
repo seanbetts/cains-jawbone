@@ -1165,8 +1165,8 @@ Template:
   - **Type:** quote/other
   - **Pages:** Pages/cains_jawbone_page_91.md
   - **Why it matters:** Might be a specific detective-story reference and could explain the “green” clue embedded in the eyeball exhibit.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `in-progress`
+  - **Result:** The key phrase reads like the colloquial scepticism “Do you see any green in my eye?” (≈ “do you take me for a greenhorn/fool?”), attested in Sabine Baring-Gould, *The Frobishers* (1901), Chapter 20 (“…do you see any green in my eye?”): https://en.wikisource.org/wiki/The_Frobishers/Chapter_20 and Theodore Goodridge Roberts, “The Red Pirogue” (*Popular* magazine, 1922), Chapter 4 (“Say, d’ye see any green in my eye?”): https://en.wikisource.org/wiki/The_Red_Pirogue/Chapter_4. Still no direct match found yet for the “Cadaver Charlie” / “Chicago sleuth” framing.
 
 - **Item:** Identify the source of “Yet now my heart leaps, O beloved! …” (Page 92)
   - **Type:** quote
@@ -1179,8 +1179,8 @@ Template:
   - **Type:** term/other
   - **Pages:** Pages/cains_jawbone_page_92.md
   - **Why it matters:** Could be a brand/place/wordplay clue (childhood sweet “caddis-hoard of Devona”) and may recur across pages.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `in-progress`
+  - **Result:** The surrounding phrasing “caddis-hoard” echoes Kipling’s “Tomlinson” (1892): “As children rifle a caddis-case or the raven’s foolish hoard.” https://en.wikisource.org/wiki/Ballads_and_Barrack-Room_Ballads/Tomlinson. Still no confirmed pre-1934 source found for “Devona” itself as a sweet/brand/place in this context.
 
 - **Item:** Identify the “M’Cullough… I’m dying to-night” stanza source (Page 93)
   - **Type:** quote
@@ -1277,8 +1277,8 @@ Template:
   - **Type:** place/term
   - **Pages:** Pages/cains_jawbone_page_96.md
   - **Why it matters:** Could be a strong place clue (Jaffa/Palestine?) or a pun; may recur across the narrator’s war/Padre reminiscence.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** “Jifjaffa” matches Jifjafa, a Turkish post in the central Sinai Range and a recurring place-name in Sinai/Palestine campaign accounts. G. H. Gullett, *The Australian Imperial Force in Sinai and Palestine, 1914–1918* (1923) describes it as “a post situated in the Sinai Range… some fifty-two miles east of the Canal” and narrates the April 1916 “Jifjafa raid”: https://archive.org/stream/australianimperi07gulluoft/australianimperi07gulluoft_djvu.txt (search “Jifjafa”).
 
 - **Item:** Clarify “turning a Somerset” meaning (Page 96)
   - **Type:** term

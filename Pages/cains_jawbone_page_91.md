@@ -15,6 +15,7 @@ In my youth I had been worried that I bore the same name as Newbolt’s admiral 
 - **Motifs/continuity hooks:**
   - Detective-crime collection: “Black Museum” + preserved body part.
   - “Green” detail embedded in the eyeball story (possible clue-word recurrence).
+  - LIKELY: “see any green (in my eye)” is a sceptical idiom (“do you take me for a greenhorn/fool?”), attested in Sabine Baring-Gould, *The Frobishers* (1901), Chapter 20: https://en.wikisource.org/wiki/The_Frobishers/Chapter_20 and Theodore Goodridge Roberts, “The Red Pirogue” (*Popular* magazine, 1922), Chapter 4: https://en.wikisource.org/wiki/The_Red_Pirogue/Chapter_4.
   - CERTAIN: “Smiler with the Knife” is Chaucer’s phrase in *The Knight’s Tale* (Temple of Mars description): “the smiler with the knife under the mantle” (Page:The_Canterbury_tales_of_Geoffrey_Chaucer.djvu/67).
   - Name-play: “capitalise my third letter” (identity-cipher style).
 - **Voice/tells:**
