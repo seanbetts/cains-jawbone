@@ -25,5 +25,4 @@ I knew, of course, that if I got there in five minutes I would have double the t
   - If the “horrid act” is later shown to be non-violent (e.g., fraud/prank) rather than murder.
 - **Research needed:**
   - Identify “Holy Mr. Herbert” / “Mr. Haddock” and the “Meed kissing laces” reference.
-  - Clarify the Café Royal / John Montagu/gaming-table allusion.
   - Determine what “Leda and Hebe” and “my swan” refer to (pen brand? mythic wordplay?).
