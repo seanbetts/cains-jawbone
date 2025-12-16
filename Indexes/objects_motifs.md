@@ -74,7 +74,7 @@ Template:
 - **Gardening poisons (foxgloves/digitalis)**
   - **Instances / variants:** “started… on the foxgloves”; “proved digitalis purpurea”
   - **Pages:** Pages/cains_jawbone_page_6.md, Pages/cains_jawbone_page_21.md
-  - **Notes:** Candidate poison method; watch for illness/heart symptoms elsewhere.
+  - **Notes:** Digitalis (foxglove) is described as a cardiac drug and a “powerful diuretic” in small/moderate doses (EB1911 “Digitalis”), which may explain the Page 21 “signal wash out” phrasing; also described as a cumulative poison. https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Digitalis
 
 - **Aconite (aconitum / Fleming’s tincture)**
   - **Instances / variants:** aconitum exhibited; Fleming’s tincture mentioned; “Blue Rocket” (blue rocket/wolfsbane/monkshood = *Aconitum napellus*; EB1911 “Poison”, Page:EB1911_-_Volume_21.djvu/928)
@@ -204,7 +204,7 @@ Template:
 - **Calabar bean**
   - **Instances / variants:** “Calabar Bean” invoked as “rough old friend”; “West African ordeal beans”; “physostigma”; “old Calabar… should fail me”
   - **Pages:** Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_29.md, Pages/cains_jawbone_page_36.md
-  - **Notes:** Classic poison/medicine; explicitly connected to a gardening/poisoning experiment thread.
+  - **Notes:** Calabar bean is *Physostigma venenosum* (“ordeal bean” of Old Calabar); source of physostigmine (eserine), a potent/poisonous drug with marked antagonism to atropine (EB1911 “Calabar Bean”). https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Calabar_Bean
 
 - **Matches / matchboxes**
   - **Instances / variants:** matchbox rhythm; “rub gently”; Bryant & May; “ends”/“eyes” not going out

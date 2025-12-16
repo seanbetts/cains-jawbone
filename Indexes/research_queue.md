@@ -276,8 +276,8 @@ Template:
   - **Type:** term/other
   - **Pages:** Pages/cains_jawbone_page_21.md
   - **Why it matters:** Could identify a poisoning method and link to other plant/drug narrators.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** EB1911 confirms digitalis (foxglove leaves; *Digitalis purpurea*) as a cardiac drug and a “powerful diuretic” in small/moderate doses, which fits “signal wash out”; it is also described as a cumulative poison. Calabar bean is the seed of *Physostigma venenosum* (“ordeal bean” of Old Calabar), containing the alkaloid physostigmine (eserine), a potent and poisonous drug with marked antagonism to atropine. EB1911: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Digitalis ; https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Calabar_Bean
 
 - **Item:** Identify the “Adriatic… Illyrian hills” quotation on Page 21
   - **Type:** quote

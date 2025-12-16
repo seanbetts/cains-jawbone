@@ -4,8 +4,8 @@ To reckon with Henry! That was never easy. Just beyond the laurels, I turned sha
 
 - **Entities:**
   - CERTAIN: Henry (caught “bending over the body of his latest victim”).
-  - CERTAIN: Calabar Bean (poison/plant term used as “rough old friend”).
-  - CERTAIN: digitalis purpurea (foxglove; tested/“proved”).
+  - CERTAIN: Calabar Bean = *Physostigma venenosum* seed (“ordeal bean” of Old Calabar); source of physostigmine (eserine); poisonous. (EB1911: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Calabar_Bean)
+  - CERTAIN: digitalis purpurea (foxglove/digitalis leaves; cardiac drug, cumulative poison; also described as a “powerful diuretic” in small/moderate doses → likely “signal wash out”). (EB1911: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Digitalis)
   - CERTAIN: Ponce de Leon (Fountain of Youth allusion).
 - **Time markers:**
   - CERTAIN: “on the very day” narrator “proved digitalis purpurea”.
@@ -24,5 +24,5 @@ To reckon with Henry! That was never easy. Just beyond the laurels, I turned sha
 - **Disconfirming evidence:**
   - If “victim” is later clearly metaphorical (surgical patient, etc.) rather than murder.
 - **Research needed:**
-  - What does “proved digitalis purpurea… a signal wash out” mean in this context (experiment/medical test)?
+  - (Resolved) EB1911 describes digitalis as a “powerful diuretic” in small/moderate doses → “signal wash out” likely diuresis/flush.
   - Identify the Adriatic/Illyrian line source.
