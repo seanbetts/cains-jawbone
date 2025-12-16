@@ -1242,8 +1242,8 @@ Template:
   - **Type:** other
   - **Pages:** Pages/cains_jawbone_page_95.md
   - **Why it matters:** Could encode a pen brand/mythic mapping or an object clue used elsewhere (letters/confessions).
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** Mythic wordplay for “swan + drink”: EB1911 “Leda” says Zeus visited Leda “in the form of a swan” (https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Leda) and EB1911 “Hebe” notes she “acts as cupbearer to the gods” (https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Hebe) → “gave my swan a drink” reads as inking/filling a “Swan” fountain pen/ink. Supporting period usage: “Swan” appears as a fountain-pen ink name in *The Loudwater Mystery* (Chapter 16): https://en.wikisource.org/wiki/The_Loudwater_Mystery/Chapter_16.
 
 - **Item:** Clarify the Café Royal / John Montagu gaming-table reference (Page 95)
   - **Type:** place/other

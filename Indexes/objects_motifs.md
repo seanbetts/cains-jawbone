@@ -16,6 +16,11 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_1.md, Pages/cains_jawbone_page_43.md, Pages/cains_jawbone_page_50.md
   - **Notes:** Potential voice tell (stationery) or zodiac wordplay; watch for narrator continuity.
 
+- **Pen/ink (Swan)**
+  - **Instances / variants:** “gave my swan a drink” (inking/filling pen); Leda/Hebe wordplay (swan + cupbearer)
+  - **Pages:** Pages/cains_jawbone_page_95.md
+  - **Notes:** LIKELY Swan-branded fountain pen/ink; track for recurrence as a stationery voice tell.
+
 - **Sea / coastal peril**
   - **Instances / variants:** sea-watching; “Chine”; boy tumbling into sea; ruined lighthouse
   - **Pages:** Pages/cains_jawbone_page_1.md, Pages/cains_jawbone_page_4.md, Pages/cains_jawbone_page_5.md

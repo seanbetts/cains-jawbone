@@ -615,6 +615,13 @@ Template:
   - **Confidence:** `LIKELY`
   - **Research needed:** yes — identify “Mr. Haddock” and “Meed kissing laces”.
 
+- **Snippet:** “Leda and Hebe”
+  - **Likely source/author:** Greek myth wordplay: EB1911 “Leda” (Zeus visits her “in the form of a swan”): https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Leda; EB1911 “Hebe” (acts as “cupbearer to the gods”): https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Hebe; likely used to frame “gave my swan a drink” as inking/filling a “Swan” fountain pen/ink (cf. “Swan” as fountain-pen ink name in *The Loudwater Mystery*, Chapter 16: https://en.wikisource.org/wiki/The_Loudwater_Mystery/Chapter_16).
+  - **Why it matters:** Stationery/inking allusion; may be a narrator voice tell and ties to the confession-writing action on the page.
+  - **Pages:** Pages/cains_jawbone_page_95.md
+  - **Confidence:** `LIKELY`
+  - **Research needed:** no
+
 - **Snippet:** “It gars me grue”
   - **Likely source/author:** Scots phrase (“it makes me shudder”): “Gar… To cause; to make. [Obs. or Scot.]” (Webster 1913, https://www.websters1913.com/words/Gar) + “Grue… to shudder” (Chambers’s Twentieth Century Dictionary, 1908: https://en.wikisource.org/wiki/Chambers%27s_Twentieth_Century_Dictionary_1908/Grope_Gyve)
   - **Why it matters:** Distinct dialect marker; may cluster narrator voice and indicates deliberate Scots-register phrasing rather than an invented idiolect.
