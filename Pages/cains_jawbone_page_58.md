@@ -7,7 +7,7 @@ Considering it was my name month, I wasn’t having too much luck. Henry, though
   - MAYBE: “old family lawyer” (Henry’s third victim; unnamed).
   - MAYBE: “rash intruding charlady” (Henry’s fourth victim; unnamed).
   - MAYBE: “this stranger” (talkative; short-sighted).
-  - MAYBE: Inspector Barraclough (named as possible visitor).
+  - MAYBE: Inspector Barraclough (named as possible visitor; likely a literary nod to W. Pett Ridge’s *A Breaker of Laws* (1900), with “Mr. Arthur Barraclough” introduced by an Inspector).
 - **Time markers:**
   - MAYBE: “my name month” (month-name clue; possibly May implied).
 - **Motifs/continuity hooks:**
@@ -24,4 +24,3 @@ Considering it was my name month, I wasn’t having too much luck. Henry, though
   - If later pages show this Henry is distinct (different setting/timeline) from other Henry clusters.
 - **Research needed:**
   - Interpret “name month” (does it imply narrator named May/June/etc?).
-  - Identify whether Inspector Barraclough is a real or fictional detective reference.

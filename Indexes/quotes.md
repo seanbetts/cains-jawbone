@@ -300,6 +300,13 @@ Template:
   - **Confidence:** `CERTAIN`
   - **Research needed:** no
 
+- **Snippet:** “The year’s at the spring… Morning’s at seven…”
+  - **Likely source/author:** Robert Browning, *Pippa Passes* (Pippa’s song; 1841)
+  - **Why it matters:** Confirms the Asolo/Pippa reference and supports a Browning-heavy allusion set for this narrator segment.
+  - **Pages:** Pages/cains_jawbone_page_56.md
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
+
 - **Snippet:** “to-day was the day of the meeting at La Belle Alliance.”
   - **Likely source/author:** Nuttall Encyclopaedia (“Waterloo”: battle on June 18, 1815)
   - **Why it matters:** Sets “to-day” as **June 18** (Waterloo day).

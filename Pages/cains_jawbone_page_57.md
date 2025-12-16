@@ -11,7 +11,8 @@ It seemed from what I heard that Felton’s meat had been delivered at Brookesle
   - CERTAIN: “for the first time that day”; “just then”.
 - **Places:**
   - CERTAIN: South Africa (as destination of a “boat”).
-  - MAYBE: Amazon; Nagpur; Armadale Castle (castle vs ship ambiguity).
+  - MAYBE: Amazon; Nagpur.
+  - CERTAIN: Armadale Castle (Skye) vs “Armadale Castle” (Union-Castle mail steamer) explains the castle/boat ambiguity (EB1911 “Skye”; EB1911 “Steamship Lines”).
 - **Quotes & allusions:**
   - CERTAIN: “Hush’d be all things, no noise here… Cowslips for her covering.” (Robert Herrick, “An Epitaph upon a Virgin”).
   - Reference list: Hilary; Voltaire; Vandyck; Stella Polaris (as “bits of paper” topics).
@@ -27,4 +28,4 @@ It seemed from what I heard that Felton’s meat had been delivered at Brookesle
   - If the Westphalian ham and paper-reading are shown to be unrelated, common details across multiple narrators.
 - **Research needed:**
   - Identify Brookesley and “Felton’s meat” reference.
-  - Clarify Armadale Castle (castle vs ship) and the South Africa route reference.
+  - Clarify the South Africa route reference (if more specific than Union-Castle mail steamers).

@@ -328,7 +328,7 @@ Template:
   - **Tells:** possible identity behind an “official knock” at a “little blue door”.
   - **Pronouns/relationships:** police inspector (uncertain).
   - **Pages:** Pages/cains_jawbone_page_58.md
-  - **Notes:** Not confirmed present; name appears as a guess.
+  - **Notes:** Not confirmed present; likely a literary nod to W. Pett Ridge’s *A Breaker of Laws* (1900), where an Inspector introduces “Mr. Arthur Barraclough” (Chapter 1).
 
 - `P54` — Names/aliases: Charles (sundae maker; uncertain)
   - **Tells:** ordered to prepare “Lover’s Delight” sundae “spar[ing] no expense”.

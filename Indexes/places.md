@@ -192,6 +192,12 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_31.md
   - **Notes:** Recalled as an “awful night” listening for a particular sound.
 
+- **Armadale Castle (Skye)**
+  - **Type:** landmark/estate
+  - **Confidence:** `CERTAIN`
+  - **Pages:** Pages/cains_jawbone_page_57.md
+  - **Notes:** EB1911 (“Skye”) calls it the modern seat of Lord Macdonald on the Sound of Sleat; contrasted on Page 57 with “the boat that went to South Africa” (cf. EB1911 “Steamship Lines” on the Union-Castle mail steamer “Armadale Castle”).
+
 - **Malta**
   - **Type:** island/country
   - **Confidence:** `CERTAIN`

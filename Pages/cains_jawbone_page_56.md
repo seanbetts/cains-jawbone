@@ -9,7 +9,7 @@ It was just when the girl from the Asolo silk mills contended that morning was. 
 - **Time markers:**
   - CERTAIN: “that morning”; waiting for breakfast; “those six hours”.
 - **Quotes & allusions:**
-  - MAYBE: Browning/Asolo/Pippa cluster (“Asolo”; “Pippa”).
+  - CERTAIN: Robert Browning, *Pippa Passes* (1841): Pippa is a “girl from the Asolo silk mills” and sings “The year’s at the spring… Morning’s at seven…”.
 - **Wordplay:**
   - CERTAIN: “Clare… voyant and audient” (clairvoyant/clairaudient pun).
   - MAYBE: “bursting into pang in the sausage” (distorted “burst into song” phrasing).
@@ -24,5 +24,4 @@ It was just when the girl from the Asolo silk mills contended that morning was. 
 - **Disconfirming evidence:**
   - If Asolo/Pippa references resolve to unrelated in-world labels rather than Browning allusion.
 - **Research needed:**
-  - Identify the “Asolo silk mills” reference and the “morning was” phrasing source.
-  - Clarify the “Pippa” comparison (exact allusion).
+  - None (Pippa/Asolo allusion resolved).

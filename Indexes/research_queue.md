@@ -689,8 +689,8 @@ Template:
   - **Type:** quote/other
   - **Pages:** Pages/cains_jawbone_page_56.md
   - **Why it matters:** Could anchor narrator reading set (likely Browning/Asolo) and link other Browning-heavy pages.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** Robert Browning, *Pippa Passes* (1841): Pippa is a “girl from the Asolo silk mills” and sings “The year’s at the spring… Morning’s at seven…”.
 
 - **Item:** Identify Brookesley and “Felton’s meat” (Page 57)
   - **Type:** place/other
@@ -710,8 +710,8 @@ Template:
   - **Type:** place/other
   - **Pages:** Pages/cains_jawbone_page_57.md
   - **Why it matters:** May disambiguate geography (Skye vs ship-route) and yield an ordering anchor.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** Two referents: Armadale Castle on Skye (seat of Lord Macdonald; EB1911 “Skye”) vs the mail steamer “Armadale Castle” in the Union-Castle mail fleet (EB1911 “Steamship Lines”)—hence “not the boat”.
 
 - **Item:** Interpret Page 58’s “name month” and the “Nuts in May” / Freud punning
   - **Type:** date/other
@@ -724,8 +724,8 @@ Template:
   - **Type:** name/other
   - **Pages:** Pages/cains_jawbone_page_58.md
   - **Why it matters:** Could anchor the police/official-knock sequence and help link Henry pages.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** Likely a literary nod to W. Pett Ridge’s *A Breaker of Laws* (1900): a visiting Inspector introduces “Mr. Arthur Barraclough” as his companion (Chapter 1).
 
 - **Item:** Identify the cast-iron “kea” object and gelsemium context in Page 59
   - **Type:** other
