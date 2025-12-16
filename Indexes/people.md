@@ -74,9 +74,9 @@ Template:
 
 - `P11` — Names/aliases: Mr. Hall
   - **Tells:** Enters after a “black knobby thing”/“polished knob” is twiddled (“burst in upon us”; later “came into the room again”).
-  - **Pronouns/relationships:** none known.
+  - **Pronouns/relationships:** likely a household servant/subordinate responding to a call-bell.
   - **Pages:** Pages/cains_jawbone_page_8.md, Pages/cains_jawbone_page_19.md
-  - **Notes:** MAYBE authority/interruptor figure; unknown role.
+  - **Notes:** LIKELY the manservant/butler (or similar) summoned by a bell-push/knob.
 
 - `P12` — Names/aliases: Boots (servant)
   - **Tells:** referenced as “the man Boots”; doesn’t understand a term/name the narrator finds obvious.

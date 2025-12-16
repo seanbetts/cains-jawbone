@@ -3,7 +3,7 @@ Yesterday he got in another of his own kind, who agreed she’d done it all hers
 ## Notes
 
 - **Entities:**
-  - CERTAIN: Mr. Hall (reappears; same “came into the room again” framing as Page 8).
+  - CERTAIN: Mr. Hall (reappears; likely a servant responding to a call-bell/bell-push).
   - CERTAIN: McCrimmons (hereditary music-makers; Skye association).
   - MAYBE: “he” (handler/owner; pulls narrator’s ears; sleeve pulled).
   - MAYBE: “she” (queen reference; “only just come to Falkland”).
@@ -16,7 +16,7 @@ Yesterday he got in another of his own kind, who agreed she’d done it all hers
   - LIKELY: “Human Comedy” = Balzac.
   - MAYBE: “by virtue first, then choice, a queen” / “design’d th’ eclipse and glory of her kind” (source TBD; attributed to Wotton by “he”).
 - **Motifs/continuity hooks:**
-  - Polished knob / repeated Mr. Hall entrances (mechanism/ritual).
+  - Polished knob / repeated Mr. Hall entrances: LIKELY a call-bell/bell-push being rung to summon him.
   - Animal-coded behaviour: ear pulling; “low noise” reaction.
 - **Voice/tells:**
   - Outsider/naïve social position (ears pulled); unexpected love of music with “my people” origin clue.
@@ -26,4 +26,4 @@ Yesterday he got in another of his own kind, who agreed she’d done it all hers
   - If later pages show two different “Mr. Hall” contexts or incompatible settings.
 - **Research needed:**
   - Identify the queen quotation and what “only just come to Falkland” refers to.
-  - Clarify what the knob/mechanism is (and why Mr. Hall is repeatedly summoned).
+  - Resolved: the knob is a call-bell/bell-push; Mr. Hall is the summoned servant (see Indexes/research_queue.md).

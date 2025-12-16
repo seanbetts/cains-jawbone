@@ -67,8 +67,8 @@ Template:
   - **Notes:** Possible voice tell (brand-name riffing).
 
 - **Bells / bell-wire**
-  - **Instances / variants:** dangling bell-wire (nightmares); bell “as of a boding gnat” used to summon help
-  - **Pages:** Pages/cains_jawbone_page_6.md, Pages/cains_jawbone_page_9.md
+  - **Instances / variants:** dangling bell-wire (nightmares); bell “as of a boding gnat”; call-bell/bell-push “knob” (black/red; “polished”) used to summon a servant (Mr. Hall)
+  - **Pages:** Pages/cains_jawbone_page_6.md, Pages/cains_jawbone_page_8.md, Pages/cains_jawbone_page_9.md, Pages/cains_jawbone_page_19.md
   - **Notes:** Potential continuity/voice cluster (household service + anxiety).
 
 - **Gardening poisons (foxgloves/digitalis)**

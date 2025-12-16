@@ -129,8 +129,8 @@ Template:
   - **Type:** other
   - **Pages:** Pages/cains_jawbone_page_8.md, Pages/cains_jawbone_page_19.md
   - **Why it matters:** Mechanical/scene clue that likely connects pages and may identify setting/profession.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** A household/service call-bell (bell-push/knob): it’s “twiddled” to ring and summon a servant; Mr. Hall is the responding “lower orders” man/servant who enters when the bell is rung (cf. Pages/cains_jawbone_page_9.md opening: “The sound of the bell…”).
 
 - **Item:** Identify which date “Hyacinth’s day” refers to (St. Hyacinth)
   - **Type:** date

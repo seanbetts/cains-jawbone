@@ -3,19 +3,20 @@ Could I be developing a green-eyed streak? I investigated the body before me wit
 ## Notes
 
 - **Entities:**
-  - MAYBE: Mr. Hall (bursts in at the end of the scene).
+  - LIKELY: Mr. Hall (a servant/household subordinate who enters when the call-bell is rung).
   - MAYBE: Guido / Kilmarnock / Belmerino (calendar-history references rather than in-scene people).
 - **Time markers:**
-  - CERTAIN: “to-day” (paired with Guido + Kilmarnock + Belmerino; likely a date anchor).
+  - CERTAIN: “to-day” (Guido Reni died in Bologna on 18 Aug 1642; Kilmarnock + Balmerino were beheaded on 18 Aug 1746 → “to-day” ≈ Aug 18).
 - **Quotes & allusions:**
   - MAYBE: “green-eyed” jealousy phrase (source TBD).
-  - LIKELY: “Guido” = Guido Reni; “sausage place” = Bologna (pun) (needs confirmation).
-  - LIKELY: Kilmarnock + Balmerino beheaded on the same date (needs confirmation).
+  - CERTAIN: “Guido” = Guido Reni; “sausage place” = Bologna (pun).
+  - CERTAIN: Kilmarnock + Balmerino were beheaded on the same date as Guido Reni’s death (18 Aug).
 - **Wordplay:**
   - LIKELY: “sausage place” as Bologna/Baloney pun.
 - **Motifs/continuity hooks:**
   - Measuring/optics: “powerful glass”; careful measuring; “forty inches”.
   - Bows; trimming/piercing; “black knobby thing… black and red” (mechanical detail).
+  - Bells/summoning: “black knobby thing” is LIKELY a call-bell/bell-push used to summon Mr. Hall (cf. Pages/cains_jawbone_page_9.md bell opening).
 - **Voice/tells:**
   - Naïve about optics (“never could quite understand how it worked”); self-deprecating (“better brain”).
 - **Ordering hypotheses:**
@@ -23,6 +24,5 @@ Could I be developing a green-eyed streak? I investigated the body before me wit
 - **Disconfirming evidence:**
   - If Guido/Kilmarnock/Belmerino are later tied to a different date or not intended as calendar anchors.
 - **Research needed:**
-  - Confirm the intended “Guido” identification + the date (and what “sausage place” points to).
-  - Confirm the Kilmarnock/Balmerino reference and its date.
-  - Identify the “black knobby thing” + the action sequence (trim/turn/push through) and who “Mr. Hall” is.
+  - Resolved: Guido/Bologna + Kilmarnock/Balmerino both point to Aug 18 (see Indexes/research_queue.md).
+  - Resolved: “black knobby thing” is a call-bell/bell-push; Mr. Hall is the summoned servant (see Indexes/research_queue.md).
