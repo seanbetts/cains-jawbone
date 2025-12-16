@@ -402,22 +402,22 @@ Template:
   - **Type:** date/name
   - **Pages:** Pages/cains_jawbone_page_32.md
   - **Why it matters:** Potential explicit calendar anchor for ordering.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** Thomas Gainsborough (1727–1788); EB1911 notes his cancer “proved fatal on the 2nd of August” (1788) → “to-day” is likely **Aug 2**.
 
 - **Item:** Identify the Wodehouse “drooping like a wet sock” Earl quote (and which Earl/scene)
   - **Type:** quote
   - **Pages:** Pages/cains_jawbone_page_32.md
   - **Why it matters:** Could pin the narrator’s reading source and link pages using the same passage.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** P. G. Wodehouse, *Leave It to Psmith* (1923), “Dark Plottings at Blandings Castle” (opening) — Earl of Emsworth “drooping like a wet sock…”.
 
 - **Item:** Identify Chesterton’s “hemp at both ends” line and what “it” refers to
   - **Type:** quote/other
   - **Pages:** Pages/cains_jawbone_page_32.md
   - **Why it matters:** Might clarify narrator’s “job” implication (hanging/rope/murder).
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** G. K. Chesterton, *The Flying Inn* (1914), Chapter XXII — in a discussion of hashish: “I think it’s hemp at both ends” (hempen drink → murder → hempen rope).
 
 - **Item:** Identify the quoted letter on Page 33 (“I had yours but yesterday… dated the third of February… departed spirits…”) and what “dead the same day” refers to
   - **Type:** quote/date/other
@@ -640,8 +640,8 @@ Template:
   - **Type:** date
   - **Pages:** Pages/cains_jawbone_page_52.md
   - **Why it matters:** Likely a “to-day” calendar key for ordering.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** EB1911 (“Diamond Necklace, The Affair of the”) states the sensational trial resulted (**May 31, 1786**) in acquittal of Cardinal de Rohan → “to-day” is **May 31**.
 
 - **Item:** Determine whether Sir Paul Trinder is a real reference or an in-world satirical character (Page 53)
   - **Type:** name/other

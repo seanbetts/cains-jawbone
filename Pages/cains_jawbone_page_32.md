@@ -3,7 +3,7 @@ I was a little consoled for the weeping weather by the fact that Gainsborough ha
 ## Notes
 
 - **Entities:**
-  - CERTAIN: Gainsborough (likely Thomas Gainsborough; used as “gone out to-day” anchor).
+  - CERTAIN: Gainsborough (Thomas Gainsborough; used as “gone out to-day” death-date anchor).
   - CERTAIN: Henry.
   - CERTAIN: Clément (named; Henry met him “yesterday”).
   - CERTAIN: Walt Whitman (quote).
@@ -11,10 +11,11 @@ I was a little consoled for the weeping weather by the fact that Gainsborough ha
 - **Time markers:**
   - CERTAIN: “to-day” (Gainsborough + Henry “gone”).
   - CERTAIN: “yesterday” (Henry met Clément; sea-side appointment).
+  - LIKELY: “Gainsborough had gone out to-day” → Aug 2 (Gainsborough’s death date; EB1911).
 - **Quotes & allusions:**
   - CERTAIN: “Henceforth I ask not good fortune, I myself am good fortune…” (Whitman, free verse; “wouldn’t scan” comment).
-  - MAYBE: Wodehouse “drooping like a wet sock” Earl quote (source TBD).
-  - MAYBE: Chesterton “hemp at both ends” line (source TBD).
+  - CERTAIN: Wodehouse: “drooping like a wet sock… nothing to prop his spine against” (Earl of Emsworth; *Leave It to Psmith*, “Dark Plottings at Blandings Castle”).
+  - CERTAIN: Chesterton: “hemp at both ends” (in a hashish discussion; *The Flying Inn*, Ch. XXII).
 - **Motifs/continuity hooks:**
   - Near-sea appointment with “the man who gave me my instructions” (mission/job framing).
   - Poetry-scansion awareness (uses “scanned” as a test).
@@ -25,5 +26,4 @@ I was a little consoled for the weeping weather by the fact that Gainsborough ha
 - **Disconfirming evidence:**
   - If “Gainsborough gone out” is later shown to mean travel/departure rather than a death-date anchor.
 - **Research needed:**
-  - Confirm which Gainsborough is meant and the implied date.
-  - Identify the Wodehouse wet-sock Earl passage and the Chesterton “hemp” line.
+  - None (resolved Gainsborough/Wodehouse/Chesterton allusions).

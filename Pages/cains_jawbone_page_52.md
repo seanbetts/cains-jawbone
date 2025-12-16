@@ -3,10 +3,11 @@ The cardinal was acquitted to-day of all complicity in the affair of the Queen�
 ## Notes
 
 - **Entities:**
-  - MAYBE: “the cardinal” (likely Cardinal de Rohan; diamond necklace affair reference).
+  - CERTAIN: “the cardinal” (Cardinal Louis de Rohan; Diamond Necklace affair).
   - MAYBE: interviewee (“man who entered”; young; papers).
 - **Time markers:**
   - CERTAIN: “to-day” tied to the cardinal’s acquittal (potential date anchor).
+  - CERTAIN: “to-day” → May 31, 1786 (trial acquittal of Cardinal de Rohan; EB1911 “Diamond Necklace, The Affair of the”).
 - **Motifs/continuity hooks:**
   - Crime/innocence reflection (“quicksands of crime”).
   - Interview setting: door opens/shuts; “papers”; narrator supplies coffee + sandwiches.
@@ -19,4 +20,4 @@ The cardinal was acquitted to-day of all complicity in the affair of the Queen�
 - **Disconfirming evidence:**
   - If later pages clearly show unrelated settings/narrators (no sustained interview context).
 - **Research needed:**
-  - Confirm the exact date of the cardinal’s acquittal in the Diamond Necklace affair and whether it’s used as a calendar key.
+  - None (date anchor resolved).

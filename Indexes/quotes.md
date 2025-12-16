@@ -188,6 +188,27 @@ Template:
   - **Confidence:** `CERTAIN`
   - **Research needed:** no
 
+- **Snippet:** “Gainsborough had gone out to-day.”
+  - **Likely source/author:** Thomas Gainsborough (death-date allusion; EB1911 notes he died 2 Aug 1788)
+  - **Why it matters:** Provides a likely calendar anchor for “to-day” on Page 32 (Aug 2).
+  - **Pages:** Pages/cains_jawbone_page_32.md
+  - **Confidence:** `LIKELY`
+  - **Research needed:** no
+
+- **Snippet:** “drooping like a wet sock”
+  - **Likely source/author:** P. G. Wodehouse, *Leave It to Psmith* (1923), “Dark Plottings at Blandings Castle”
+  - **Why it matters:** Confirms the narrator’s reading reference and strengthens voice clustering via Wodehouse allusions.
+  - **Pages:** Pages/cains_jawbone_page_32.md
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
+
+- **Snippet:** “hemp at both ends”
+  - **Likely source/author:** G. K. Chesterton, *The Flying Inn* (1914), Chapter XXII
+  - **Why it matters:** Clarifies the “hemp” remark as a hashish→murder→rope quip; supports the narrator’s ominous “job” framing.
+  - **Pages:** Pages/cains_jawbone_page_32.md
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
+
 - **Snippet:** “I had yours but yesterday… though dated the third of February…”
   - **Likely source/author:** TBD (letter)
   - **Why it matters:** Anchors a letter-with-death framing; could identify a writer and date chain.
@@ -266,11 +287,11 @@ Template:
   - **Research needed:** no
 
 - **Snippet:** “The cardinal was acquitted to-day of all complicity in the affair of the Queen’s diamond necklace.”
-  - **Likely source/author:** Historical reference (Diamond Necklace affair; cardinal acquittal)
-  - **Why it matters:** Potential precise calendar anchor for “to-day”.
+  - **Likely source/author:** EB1911, “Diamond Necklace, The Affair of the” (trial result: May 31, 1786)
+  - **Why it matters:** Sets “to-day” as **May 31** (1786) via Cardinal de Rohan’s acquittal.
   - **Pages:** Pages/cains_jawbone_page_52.md
-  - **Confidence:** `LIKELY`
-  - **Research needed:** yes — confirm date used.
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
 
 - **Snippet:** “To pestle a poisoned poison behind his crimson lights.”
   - **Likely source/author:** TBD
