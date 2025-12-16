@@ -45,6 +45,8 @@ Connect ordered clusters into a single global sequence. Use shared characters, c
 **Phase 6: Convergence and falsification**  
 Stress-test the full ordering and murder list by actively seeking contradictions and alternative explanations. Resolve remaining inconsistencies until only local, non-structural uncertainty remains.
 
+Historically appropriate reference material for research is listed in `Indexes/reference_sources.md`.
+
 Operational procedures for each phase (allowed actions, required Skills, outputs, and exit conditions) are defined in `Skills/cjb-phase-playbook/SKILL.md`.
 
 ## Working loop
@@ -123,6 +125,6 @@ It does **not** judge whether notes/hypotheses are correct.
 
 - Do not import solved page orders, murderer/victim lists, or solution summaries.
 - Research is limited to historically appropriate sources (≤1934). In particular:
-  - Use Chambers' Book of Days to interpret date/saint/holiday references.
-  - Use the Highways & Byways series to ground geographic descriptions.
-  - Record findings in the indices/research queue.
+- Use Chambers' Book of Days to interpret date/saint/holiday references.
+- Use the Highways & Byways series to ground geographic descriptions.
+- Record findings in the indices/research queue.

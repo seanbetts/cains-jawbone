@@ -190,4 +190,5 @@ If a hypothesis collapses, revert the commit(s) that introduced it rather than e
 
 - **No spoilers:** do not import or reproduce known solved page orders, murderer/victim lists, or solution summaries from the internet unless the user explicitly requests spoilers.
 - **Mandatory research policy:** when research is needed, use only historically appropriate sources (≤1934). Default sequencing is extraction-first: finish the full page pass before resolving research queue items unless the user explicitly asks to research earlier.
+- When conducting research, use only sources listed in `Indexes/reference_sources.md` unless explicitly instructed otherwise.
 - Avoid reproducing large verbatim chunks of page text in outputs; quote only the minimum needed for identification.
