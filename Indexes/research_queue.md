@@ -1182,10 +1182,24 @@ Template:
   - **Status:** `open`
   - **Result:**
 
-- **Item:** Identify the “M’Cullough… I’m dying to-night” stanza and related allusions (Page 93)
+- **Item:** Identify the “M’Cullough… I’m dying to-night” stanza source (Page 93)
   - **Type:** quote
   - **Pages:** Pages/cains_jawbone_page_93.md
   - **Why it matters:** Likely a continuation fragment that could become an ordering anchor once the source is known; surrounding references (Tayside Inn; Wimpole Street) may narrow the source set.
+  - **Status:** `resolved`
+  - **Result:** Rudyard Kipling, “The Mary Gloster” (*The Seven Seas*, 1896): “And pipes for closets all over… But M’Cullough he died in the Sixties, and Well, I’m dying to-night …” (Page:The_Seven_Seas_(Kipling,_1896).djvu/168).
+
+- **Item:** Identify “Wails of a Tayside Inn” and the “living poems” claim (Page 93)
+  - **Type:** quote/other
+  - **Pages:** Pages/cains_jawbone_page_93.md
+  - **Why it matters:** Could identify a named author/source and anchor narrator reading set.
+  - **Status:** `open`
+  - **Result:**
+
+- **Item:** Identify the “Wimpole Street” quotation about “binding up their hearts… cerement of the grave” (Page 93)
+  - **Type:** quote
+  - **Pages:** Pages/cains_jawbone_page_93.md
+  - **Why it matters:** Could confirm an Elizabeth Barrett Browning (Wimpole Street) source/allusion and provide a precise quotation anchor.
   - **Status:** `open`
   - **Result:**
 
@@ -1193,13 +1207,20 @@ Template:
   - **Type:** quote/date/place
   - **Pages:** Pages/cains_jawbone_page_94.md
   - **Why it matters:** Might anchor a location or annual date; could also identify narrator reading set.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** Yeats: “At Galway Races” (*Responsibilities*, 1916): “And we find hearteners among men / That ride upon horses.” (Page:Yeats_Responsibilities_1916.djvu/128). “Colonel Anthony” is LIKELY (Lt-)Col. Anthony St. Leger: Doncaster is famous for the annual St. Leger (“called after Colonel St. Leger… instituted them in 1776”; The_Nuttall_Encyclopædia/D) and *Alumni Oxonienses* notes “his brother, Anthony, founded the St. Leger Stakes in 1776” (Page:Alumni_Oxoniensis_(1715-1886)_volume_4.djvu/12).
 
 - **Item:** Clarify “the darbs” meaning and usage (Page 94)
   - **Type:** term
   - **Pages:** Pages/cains_jawbone_page_94.md
   - **Why it matters:** Could be a precise slang/period marker or a coded clue-word.
+  - **Status:** `resolved`
+  - **Result:** Early 20th-c. slang “a darb” = something/someone excellent or notable (used as praise): “You’re a darb” (Hammett, *The Dain Curse*, Page:Dashiell_Hammett_-_The_Dain_Curse.pdf/241); plural used for “characters” (“I’ve got some darbs”) in Hemingway, *The Sun Also Rises* (Page:The_sun_also_rises_-_Hemingway,_Ernest,_1899-1961.pdf/111).
+
+- **Item:** Identify the narrator name printed in the window-sign (Page 94)
+  - **Type:** people/other
+  - **Pages:** Pages/cains_jawbone_page_94.md
+  - **Why it matters:** The narrator seeing their own name “printed… in great letters” is a strong identity anchor if the exact wording can be matched elsewhere.
   - **Status:** `open`
   - **Result:**
 

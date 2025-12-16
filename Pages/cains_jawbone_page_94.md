@@ -9,11 +9,13 @@ Naturally I looked up. And I tell you I found it awe-inspiring enough to actuall
   - CERTAIN: Colonel Anthony (commemorated annually).
   - CERTAIN: two children (unnamed “he” and “she”; gum prunes).
 - **Quotes & allusions:**
-  - CERTAIN: Yeats allusion “we find heartedness among men that ride upon horses” (source to confirm).
+  - CERTAIN: Yeats, “At Galway Races” (*Responsibilities*, 1916): “And we find hearteners among men / That ride upon horses.” (Page:Yeats_Responsibilities_1916.djvu/128) — CJ paraphrases “hearteners” as “heartedness”.
 - **Motifs/continuity hooks:**
   - Name-as-sign: narrator sees their own name printed in a window (strong identity anchor if the name can be read elsewhere).
+  - LIKELY: Colonel Anthony refers to (Lt-)Col. Anthony St. Leger (Doncaster’s annual St. Leger Stakes, instituted 1776): Nuttall “Doncaster” (“called after Colonel St. Leger… instituted them in 1776”) + *Alumni Oxonienses* notes his brother Anthony founded the St. Leger Stakes in 1776 (The_Nuttall_Encyclopædia/D; Page:Alumni_Oxoniensis_(1715-1886)_volume_4.djvu/12).
   - Ashes/dust/earth: “saintly ashes” + “Agriculture… take back her own”.
   - Distraction by children (gum prunes) while trying to focus on Henry.
+  - LIKELY: “the darbs” = slang “a darb” (“a fine thing/person”): cf. “You’re a darb” (Hammett, *The Dain Curse*, Page:Dashiell_Hammett_-_The_Dain_Curse.pdf/241) and “I’ve got some darbs” (Hemingway, *The Sun Also Rises*, Page:The_sun_also_rises_-_Hemingway,_Ernest,_1899-1961.pdf/111).
 - **Voice/tells:**
   - Self-conscious embarrassment (blush at seeing name) + impatience with children.
 - **Ordering hypotheses:**
@@ -21,6 +23,4 @@ Naturally I looked up. And I tell you I found it awe-inspiring enough to actuall
 - **Disconfirming evidence:**
   - If the “name in the window” is not the narrator’s own but a place/sign misread.
 - **Research needed:**
-  - Identify the Yeats line/source and whether it encodes a date/place.
-  - Identify who “Colonel Anthony” is and what annual commemoration this refers to.
-  - Clarify what “the darbs” means here (term/slang).
+  - Identify the narrator name that appears in the window-sign (what exact wording is printed).

@@ -581,18 +581,18 @@ Template:
   - **Research needed:** no
 
 - **Snippet:** “But M’Cullough he died in the sixties, and—well, I’m dying to-night…”
-  - **Likely source/author:** TBD (poem/song)
-  - **Why it matters:** Quoted fragment that likely continues from another page; may be an ordering anchor once sourced.
+  - **Likely source/author:** Rudyard Kipling, “The Mary Gloster” (*The Seven Seas*, 1896)
+  - **Why it matters:** Confirms a Kipling source; may help cluster this narrator segment and link other Kipling-heavy pages.
   - **Pages:** Pages/cains_jawbone_page_93.md
-  - **Confidence:** `MAYBE`
-  - **Research needed:** yes — identify source/context.
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
 
 - **Snippet:** “we find heartedness among men that ride upon horses”
-  - **Likely source/author:** W. B. Yeats (confirm)
-  - **Why it matters:** Distinctive Yeats allusion; may anchor narrator voice and/or a commemorative location (“Colonel Anthony”).
+  - **Likely source/author:** W. B. Yeats, “At Galway Races” (*Responsibilities*, 1916) — original: “And we find hearteners among men / That ride upon horses.”
+  - **Why it matters:** Distinctive Yeats allusion (with deliberate paraphrase); may anchor narrator voice and/or horse-racing commemoration clues (“Colonel Anthony”).
   - **Pages:** Pages/cains_jawbone_page_94.md
-  - **Confidence:** `MAYBE`
-  - **Research needed:** yes — confirm wording/source.
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
 
 - **Snippet:** “It gars me grue”
   - **Likely source/author:** Scots phrase (confirm; possible Burns/Scott usage)

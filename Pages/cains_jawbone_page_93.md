@@ -15,7 +15,7 @@ Had not the author of Wails of a Tayside Inn said of them that they were the liv
 - **Death/violence cues:**
   - MAYBE (quoted): “I’m dying to-night” appears in the opening stanza; unclear if purely quoted vs in-world.
 - **Quotes & allusions:**
-  - CERTAIN: quoted stanza fragment about “M’Cullough… I’m dying to-night” (source TBD; likely continuation from another page).
+  - CERTAIN: quoted stanza is Kipling, “The Mary Gloster” (*The Seven Seas*, 1896): “And pipes for closets all over… But M’Cullough he died in the Sixties, and Well, I’m dying to-night …” (Page:The_Seven_Seas_(Kipling,_1896).djvu/168).
   - MAYBE: “Wails of a Tayside Inn” (work/author reference).
   - MAYBE: “winger of Wimpole Street” (Elizabeth Barrett Browning reference; quotation about “binding up their hearts…”).
 - **Motifs/continuity hooks:**
@@ -27,7 +27,6 @@ Had not the author of Wails of a Tayside Inn said of them that they were the liv
 - **Disconfirming evidence:**
   - If the “hat-cleaner” and “other” resolve as purely metaphorical (not actual suspects).
 - **Research needed:**
-  - Identify the source of the opening stanza (M’Cullough / “I’m dying to-night”).
   - Identify “Wails of a Tayside Inn” and the quoted/near-quoted claims about “living poems”.
   - Identify the “Wimpole Street” (EBB) quotation about “binding up their hearts… cerement of the grave”.
   - Interpret “Cambridge week” and whether it points to a person named May.
