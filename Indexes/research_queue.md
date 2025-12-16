@@ -1252,6 +1252,13 @@ Template:
   - **Status:** `open`
   - **Result:**
 
+- **Item:** Confirm the source/usage of “It gars me grue” (Page 96)
+  - **Type:** term
+  - **Pages:** Pages/cains_jawbone_page_96.md
+  - **Why it matters:** Dialect marker; clarifies that the narrator is using a Scots idiom meaning “it makes me shudder.”
+  - **Status:** `resolved`
+  - **Result:** Scots phrasing built from “Gar… To cause; to make. [Obs. or Scot.]” (Webster 1913, https://www.websters1913.com/words/Gar) + “Grue… to shudder” (Chambers’s Twentieth Century Dictionary, 1908: https://en.wikisource.org/wiki/Chambers%27s_Twentieth_Century_Dictionary_1908/Grope_Gyve).
+
 - **Item:** Identify “Jifjaffa” and what “turning a Somerset in front of the altar” encodes (Page 96)
   - **Type:** place/term
   - **Pages:** Pages/cains_jawbone_page_96.md

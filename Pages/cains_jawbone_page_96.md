@@ -15,7 +15,7 @@ Now I think I will try a cup of what they insolently call Golden Tips, a find yo
   - MAYBE: Jifjaffa (unidentified; sounds like Jaffa/Palestine but unclear).
 - **Quotes & allusions:**
   - CERTAIN: Wordsworth-parody title “Ode on the Intimations of Immorality in Early Childhood” (Intimations of Immortality echo).
-  - CERTAIN: Scots phrasing “It gars me grue” (source to confirm).
+  - CERTAIN: Scots phrasing “It gars me grue” = “it makes me shudder”: “Gar… To cause; to make. [Obs. or Scot.]” (Webster 1913, https://www.websters1913.com/words/Gar) + “Grue… to shudder” (Chambers’s Twentieth Century Dictionary, 1908: https://en.wikisource.org/wiki/Chambers%27s_Twentieth_Century_Dictionary_1908/Grope_Gyve).
 - **Voice/tells:**
   - Menu-sleuthing + wartime memory intrusions; frames the meeting as “mysterious”.
 - **Disconfirming evidence:**
@@ -23,4 +23,3 @@ Now I think I will try a cup of what they insolently call Golden Tips, a find yo
 - **Research needed:**
   - Identify “Jifjaffa” (place or pun) and what “turning a Somerset” is encoding here.
   - Identify whether “Loganberry Kiss” / “Plover’s Lunch” are specific menu/culture references.
-  - Confirm the source/usage of “It gars me grue”.

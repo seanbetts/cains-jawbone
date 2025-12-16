@@ -609,11 +609,11 @@ Template:
   - **Research needed:** no
 
 - **Snippet:** “It gars me grue”
-  - **Likely source/author:** Scots phrase (confirm; possible Burns/Scott usage)
-  - **Why it matters:** Distinct dialect marker; may cluster narrator voice or point to a specific source text.
+  - **Likely source/author:** Scots phrase (“it makes me shudder”): “Gar… To cause; to make. [Obs. or Scot.]” (Webster 1913, https://www.websters1913.com/words/Gar) + “Grue… to shudder” (Chambers’s Twentieth Century Dictionary, 1908: https://en.wikisource.org/wiki/Chambers%27s_Twentieth_Century_Dictionary_1908/Grope_Gyve)
+  - **Why it matters:** Distinct dialect marker; may cluster narrator voice and indicates deliberate Scots-register phrasing rather than an invented idiolect.
   - **Pages:** Pages/cains_jawbone_page_96.md
-  - **Confidence:** `MAYBE`
-  - **Research needed:** yes — confirm source/usage.
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
 
 - **Snippet:** “Ellen Brine of Allenburn would never mwore return.”
   - **Likely source/author:** William Barnes, “Ellen Brine ov Allenburn” (*Poems of Rural Life in the Dorset Dialect*, 1879)
