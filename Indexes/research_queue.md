@@ -290,8 +290,8 @@ Template:
   - **Type:** date/name
   - **Pages:** Pages/cains_jawbone_page_22.md
   - **Why it matters:** Potential calendar anchor (“that day”) and a murder allusion that may recur.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** John and Cornelius “the Dort people” are Johan (John) de Witt (born at Dort on 24 Sept 1625) and his elder brother Cornelius de Witt (born at Dort in 1623); Cornelius is the one “in prison” (Gevangenpoort, Aug 1672) in the account of their lynching. EB1911: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/De_Witt,_John ; https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/De_Witt,_Cornelius
 
 - **Item:** Identify the rum/Cathleen lines (“rum alone’s the tipple… Cathleen, the daughter of Houlihan”)
   - **Type:** quote

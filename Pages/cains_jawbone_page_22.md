@@ -4,12 +4,12 @@ He always talked to me about murder, when we were alone together. And that day h
 
 - **Entities:**
   - MAYBE: “he” (talks about murder; wears “funny clothes”; returns with Flora).
-  - MAYBE: John and Cornelius “the Dort people” (likely the De Witt brothers reference).
+  - CERTAIN: John and Cornelius “the Dort people” = Johan (John) de Witt + Cornelius de Witt (Dutch statesmen; born at Dort/Dordrecht). (EB1911: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/De_Witt,_John ; https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/De_Witt,_Cornelius)
   - CERTAIN: Jasmine (a cat).
   - CERTAIN: Tusitala (name; could be Stevenson allusion or a pet with that name).
   - CERTAIN: Flora (object of narrator’s mating/banishment story).
 - **Time markers:**
-  - CERTAIN: “that day” = “birthday of a good one in prison” (date anchor candidate).
+  - LIKELY: “that day” = John de Witt’s birthday (born at Dort on 24 Sept 1625); Cornelius’s imprisonment in the Gevangenpoort precedes the brothers’ murder. (EB1911: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/De_Witt,_John)
   - CERTAIN: “quite late when he came back…”
 - **Motifs/continuity hooks:**
   - Animal-coded narration: “lowered myself” / tail “vibration” absent → likely dog POV.
@@ -22,5 +22,5 @@ He always talked to me about murder, when we were alone together. And that day h
 - **Disconfirming evidence:**
   - If later pages show human POV here (tail “vibration” is a metaphor) or Flora/Jasmine are people.
 - **Research needed:**
-  - Confirm the Dort reference and which “good one in prison” birthday/date is intended.
+  - (Resolved) John/Cornelius “Dort people” = De Witt brothers; date likely points to John de Witt’s birthday (24 Sept).
   - Clarify whether Tusitala is an allusion (Stevenson) or a named pet/visitor.

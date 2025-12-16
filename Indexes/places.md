@@ -140,9 +140,9 @@ Template:
 
 - **Dort (Dordrecht)**
   - **Type:** city (Netherlands)
-  - **Confidence:** `MAYBE`
+  - **Confidence:** `CERTAIN`
   - **Pages:** Pages/cains_jawbone_page_22.md
-  - **Notes:** “John and Cornelius, the Dort people” (likely De Witt brothers reference).
+  - **Notes:** “John and Cornelius, the Dort people” = Johan (John) de Witt + Cornelius de Witt (both born at Dort). John de Witt’s birthdate is given as 24 Sept 1625. (EB1911: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/De_Witt,_John ; https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/De_Witt,_Cornelius)
 
 - **Wimpole Street**
   - **Type:** street
