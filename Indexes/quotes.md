@@ -559,6 +559,13 @@ Template:
   - **Confidence:** `CERTAIN`
   - **Research needed:** no
 
+- **Snippet:** “a thousand chariots in full force, gold of course”
+  - **Likely source/author:** Robert Browning, “Love Among the Ruins” (*Men and Women*, 1855)
+  - **Why it matters:** Confirms a Browning allusion; the “ruins” imagery may be intentionally echoed by “golden ruin.”
+  - **Pages:** Pages/cains_jawbone_page_90.md
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
+
 - **Snippet:** “Smiler with the Knife”
   - **Likely source/author:** TBD
   - **Why it matters:** Looks like a specific epithet (possibly a source-text anchor or identity clue for the narrator).

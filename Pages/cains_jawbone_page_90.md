@@ -12,7 +12,7 @@ While my mind had been thus far away, a grotesque looking old gentleman had flut
   - CERTAIN: a “notoriously soigné” venue with “glacial parquet” (restaurant/club vibe).
 - **Quotes & allusions:**
   - CERTAIN: “You will, Oscar, you will.” (Whistler to Wilde; Frank Harris, *Oscar Wilde, His Life and Confessions* (1916), Ch. 4).
-  - MAYBE: “a thousand chariots… gold of course” (allusive; unclear referent).
+  - CERTAIN: “a thousand chariots… gold of course” — Robert Browning, “Love Among the Ruins” (*Men and Women*, 1855), stanza 13 (Page:Men_and_Women,_Volume_1_-_Browning_(1855).djvu/16).
 - **Motifs/continuity hooks:**
   - Deer-stalker + fungus + parquet suggests a high-society dining scene.
   - Dog sorrow/howling as an auditory scene anchor.
@@ -22,4 +22,4 @@ While my mind had been thus far away, a grotesque looking old gentleman had flut
 - **Disconfirming evidence:**
   - If the “ancient” on Page 89 is clearly not the same figure as this old gentleman.
 - **Research needed:**
-  - Identify the “thousand chariots” allusion and the “other golden ruin” metaphor.
+  - Interpret the “other golden ruin” metaphor (fungus + “golden ruin”).

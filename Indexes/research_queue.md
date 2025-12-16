@@ -1134,11 +1134,11 @@ Template:
   - **Result:** Frank Harris, *Oscar Wilde, His Life and Confessions* (1916), Chapter 4: Wilde says “I wish I had said that.” Whistler replies: “You will, Oscar, you will.”
 
 - **Item:** Identify the “thousand chariots… gold of course” allusion (Page 90)
-  - **Type:** other
+  - **Type:** quote
   - **Pages:** Pages/cains_jawbone_page_90.md
   - **Why it matters:** Might encode a specific reference (religious/classical/occult) tied to the “hermit” old gentleman.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** Robert Browning, “Love Among the Ruins” (*Men and Women*, 1855): “Yet reserved a thousand chariots in full force— / Gold, of course.” (Page:Men_and_Women,_Volume_1_-_Browning_(1855).djvu/16).
 
 - **Item:** Identify what “panache… beneath my lips” refers to (Page 89)
   - **Type:** term
