@@ -17,8 +17,8 @@ Template:
   - **Type:** quote
   - **Pages:** Pages/cains_jawbone_page_1.md
   - **Why it matters:** Could anchor narrator voice + setting; may encode date/place.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** Robert Louis Stevenson, “To S. R. Crockett” (*Songs of Travel and Other Verses*, 1896): “Where about the graves of the martyrs the whaups are crying, my heart remembers how.” https://en.wikisource.org/wiki/Songs_of_Travel_and_Other_Verses/To_S._R._Crockett.
 
 - **Item:** Identify/locate “St. Lazarus-in-the-Chine”
   - **Type:** place
@@ -38,15 +38,15 @@ Template:
   - **Type:** quote
   - **Pages:** Pages/cains_jawbone_page_3.md
   - **Why it matters:** Quote anchor that may link multiple pages.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** Walt Whitman, “The Sleepers” (*Leaves of Grass*, 1882): “O my mother was loth to have her go away… All the week she thought of her, she watched for her many a month… But the red squaw never came nor was heard of there again.” https://en.wikisource.org/wiki/Leaves_of_Grass_(1882)/The_Sleepers.
 
 - **Item:** Which publishing firm is implied by “Austin Freeman, Oppenheim, and Mary Roberts Rinehart” (and how “Hodder” fits)?
   - **Type:** name/other
   - **Pages:** Pages/cains_jawbone_page_3.md
   - **Why it matters:** Could identify a character (publisher) or place clue.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** Hodder & Stoughton (publisher). The narrator has “come upon the major half” (= Stoughton) and remarks that “Hodder” was not there. All three named authors have editions published by Hodder & Stoughton (e.g., Oppenheim, *The Falling Star* (1911): https://archive.org/stream/fallingstar00oppegoog/fallingstar00oppegoog_djvu.txt; Austin Freeman, *The Famous Cases of Dr. Thorndyke* (1929): https://archive.org/stream/famouscasesofdrt0000raus/famouscasesofdrt0000raus_djvu.txt; Mary Roberts Rinehart, *The Amazing Adventures of Letitia Carberry* (1919): https://archive.org/stream/amazingadventure00rine/amazingadventure00rine_djvu.txt).
 
 - **Item:** What is the “assassin’s wonderful substance” (period usage; hashish/other?) and why is “17,600 yards” relevant?
   - **Type:** term/other

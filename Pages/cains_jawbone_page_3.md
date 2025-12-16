@@ -5,11 +5,11 @@ At my meeting with Clement yesterday, he had been quite specific : less than twe
 - **Entities:**
   - CERTAIN: Clement (met “yesterday”); narrator taking pills; “major half” of a publishing firm.
   - CERTAIN: Austin Freeman; E. Phillips Oppenheim; Mary Roberts Rinehart (authors referenced).
-  - MAYBE: “Hodder” = person at the publishing firm vs place-name noted as “a village”.
+  - CERTAIN: “major half of a publishing firm” points to Stoughton (as in Hodder & Stoughton); “Hodder” is the missing other half (publisher clue).
 - **Time markers:**
   - CERTAIN: met Clement yesterday; “end of less than a week”.
 - **Quotes & allusions:**
-  - MAYBE: “O my mother was loath to have her go away…” / “the red squaw never came…” (source TBD).
+  - CERTAIN: “O my mother was loth to have her go away… / …But the red squaw never came nor was heard of there again.” — Walt Whitman, “The Sleepers” (*Leaves of Grass*, 1882): https://en.wikisource.org/wiki/Leaves_of_Grass_(1882)/The_Sleepers.
 - **Wordplay:**
   - LIKELY: “seventeen thousand six hundred yards” = 10 miles exactly (1760 yd/mile) — intentional precision.
 - **Motifs/continuity hooks:**
@@ -22,6 +22,4 @@ At my meeting with Clement yesterday, he had been quite specific : less than twe
 - **Disconfirming evidence:**
   - If later context shows “pills” are benign/medical and “assassin” is figurative.
 - **Research needed:**
-  - Identify the “red squaw” quotation.
-  - Identify the publishing firm implied by the author list (and whether “Hodder” is the clue).
   - Identify “assassin’s wonderful substance” (hashish/other?) in period usage.

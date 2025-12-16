@@ -14,11 +14,11 @@ Template:
 ## Entries
 
 - **Snippet:** “Where about the graves of the martyrs the whaups are crying, my heart remembers how.”
-  - **Likely source/author:** TBD (poem/song; “whaup” = curlew suggests Scots/Irish register)
-  - **Why it matters:** Voice/setting anchor; could cluster coastal/nature pages.
+  - **Likely source/author:** Robert Louis Stevenson, “To S. R. Crockett” (*Songs of Travel and Other Verses*, 1896): https://en.wikisource.org/wiki/Songs_of_Travel_and_Other_Verses/To_S._R._Crockett.
+  - **Why it matters:** Voice/setting anchor (Scots “whaup” = curlew; moor/martyrs imagery); could cluster coastal/nature pages.
   - **Pages:** Pages/cains_jawbone_page_1.md
-  - **Confidence:** `MAYBE`
-  - **Research needed:** yes — identify source and whether it encodes a date/place.
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
 
 - **Snippet:** “Which swept an hundred thousand souls away; yet I alive.”
   - **Likely source/author:** Daniel Defoe, *A Journal of the Plague Year* (1722)
@@ -35,18 +35,18 @@ Template:
   - **Research needed:** no
 
 - **Snippet:** “O my mother was loath to have her go away…”
-  - **Likely source/author:** TBD (poem/ballad)
-  - **Why it matters:** Quote anchor on Page 3; may connect to other pages quoting the same source.
+  - **Likely source/author:** Walt Whitman, “The Sleepers” (*Leaves of Grass*, 1882): https://en.wikisource.org/wiki/Leaves_of_Grass_(1882)/The_Sleepers.
+  - **Why it matters:** Quote anchor on Page 3; confirms a Whitman allusion and may cluster narrators/pages drawing on Whitman.
   - **Pages:** Pages/cains_jawbone_page_3.md
-  - **Confidence:** `MAYBE`
-  - **Research needed:** yes — identify source.
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
 
 - **Snippet:** “the red squaw never came nor was heard of there again.”
-  - **Likely source/author:** TBD
-  - **Why it matters:** Same-page quotation set on Page 3; may be a second anchor or continuation.
+  - **Likely source/author:** Walt Whitman, “The Sleepers” (*Leaves of Grass*, 1882): https://en.wikisource.org/wiki/Leaves_of_Grass_(1882)/The_Sleepers.
+  - **Why it matters:** Same-page quotation set on Page 3 (contiguous with the prior Whitman line); strengthens the Page 3 allusion anchor.
   - **Pages:** Pages/cains_jawbone_page_3.md
-  - **Confidence:** `MAYBE`
-  - **Research needed:** yes — identify source and whether it’s contiguous with the previous quote.
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
 
 - **Snippet:** “Evelyn Hope”
   - **Likely source/author:** Robert Browning (poem)

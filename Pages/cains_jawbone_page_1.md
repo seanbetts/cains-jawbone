@@ -8,7 +8,7 @@ I sit down alone at the appointed table and take up my pen to give all whom it m
 - **Time markers:**
   - CERTAIN: “to-day is the day” (event for Casy; likely scheduled/ritual).
 - **Quotes & allusions:**
-  - MAYBE: “Where about the graves of the martyrs the whaups are crying, my heart remembers how.” (source TBD)
+  - CERTAIN: “Where about the graves of the martyrs the whaups are crying, my heart remembers how.” — Robert Louis Stevenson, “To S. R. Crockett” (*Songs of Travel and Other Verses*, 1896): https://en.wikisource.org/wiki/Songs_of_Travel_and_Other_Verses/To_S._R._Crockett.
 - **Motifs/continuity hooks:**
   - Pen: “mottled black and silver Aquarius”, nib “tempered… in Amsterdam”.
   - Sea/birds: “whaups” (curlews), gulls, “sailor”.
@@ -19,5 +19,4 @@ I sit down alone at the appointed table and take up my pen to give all whom it m
 - **Disconfirming evidence:**
   - If “Chine” is metaphorical or later placed away from sea.
 - **Research needed:**
-  - Identify quote about “martyrs” + “whaups”.
   - Identify/locate “St. Lazarus-in-the-Chine”.
