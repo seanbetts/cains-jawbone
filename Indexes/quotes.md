@@ -587,6 +587,20 @@ Template:
   - **Confidence:** `CERTAIN`
   - **Research needed:** no
 
+- **Snippet:** “For ye are living poems, / And all the rest are dead.”
+  - **Likely source/author:** Henry Wadsworth Longfellow, “Children” (Birds of Passage)
+  - **Why it matters:** Strong Longfellow anchor; reinforces the children/“living poems” motif invoked on Page 93.
+  - **Pages:** Pages/cains_jawbone_page_93.md
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
+
+- **Snippet:** “binding up their hearts away from breaking… With a cerement from the grave.”
+  - **Likely source/author:** Elizabeth Barrett Browning, “The Cry of the Children” (1843)
+  - **Why it matters:** Confirms an EBB/Wimpole Street allusion; the “cerement” line may recur as a child-labour/innocence motif.
+  - **Pages:** Pages/cains_jawbone_page_93.md
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
+
 - **Snippet:** “we find heartedness among men that ride upon horses”
   - **Likely source/author:** W. B. Yeats, “At Galway Races” (*Responsibilities*, 1916) — original: “And we find hearteners among men / That ride upon horses.”
   - **Why it matters:** Distinctive Yeats allusion (with deliberate paraphrase); may anchor narrator voice and/or horse-racing commemoration clues (“Colonel Anthony”).

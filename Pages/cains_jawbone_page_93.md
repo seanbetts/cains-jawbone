@@ -16,8 +16,8 @@ Had not the author of Wails of a Tayside Inn said of them that they were the liv
   - MAYBE (quoted): “I’m dying to-night” appears in the opening stanza; unclear if purely quoted vs in-world.
 - **Quotes & allusions:**
   - CERTAIN: quoted stanza is Kipling, “The Mary Gloster” (*The Seven Seas*, 1896): “And pipes for closets all over… But M’Cullough he died in the Sixties, and Well, I’m dying to-night …” (Page:The_Seven_Seas_(Kipling,_1896).djvu/168).
-  - MAYBE: “Wails of a Tayside Inn” (work/author reference).
-  - MAYBE: “winger of Wimpole Street” (Elizabeth Barrett Browning reference; quotation about “binding up their hearts…”).
+  - CERTAIN: “Wails of a Tayside Inn” is a title-pun pointing to Longfellow (author of *Tales of a Wayside Inn*); the “living poems… all the rest were dead” line is from Longfellow’s “Children” (Birds of Passage): “For ye are living poems, / And all the rest are dead.” (https://en.wikisource.org/wiki/Birds_of_Passage_(Collection)/Children)
+  - CERTAIN: “winger of Wimpole Street” points to Elizabeth Barrett Browning; the line is from “The Cry of the Children”: “They are binding up their hearts away from breaking, / With a cerement from the grave.” (Page:Poems_Barrett.djvu/241).
 - **Motifs/continuity hooks:**
   - Evidence/conviction language (“tangible proof”; “semi-conviction”).
   - Surveillance register (“tapped its wire”).
@@ -27,6 +27,4 @@ Had not the author of Wails of a Tayside Inn said of them that they were the liv
 - **Disconfirming evidence:**
   - If the “hat-cleaner” and “other” resolve as purely metaphorical (not actual suspects).
 - **Research needed:**
-  - Identify “Wails of a Tayside Inn” and the quoted/near-quoted claims about “living poems”.
-  - Identify the “Wimpole Street” (EBB) quotation about “binding up their hearts… cerement of the grave”.
   - Interpret “Cambridge week” and whether it points to a person named May.

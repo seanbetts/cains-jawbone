@@ -1193,15 +1193,15 @@ Template:
   - **Type:** quote/other
   - **Pages:** Pages/cains_jawbone_page_93.md
   - **Why it matters:** Could identify a named author/source and anchor narrator reading set.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** The “living poems… all the rest were dead” line is Henry Wadsworth Longfellow, “Children” (Birds of Passage): “For ye are living poems, / And all the rest are dead.” (https://en.wikisource.org/wiki/Birds_of_Passage_(Collection)/Children). “Wails of a Tayside Inn” reads as a title-pun pointing to Longfellow via *Tales of a Wayside Inn*.
 
 - **Item:** Identify the “Wimpole Street” quotation about “binding up their hearts… cerement of the grave” (Page 93)
   - **Type:** quote
   - **Pages:** Pages/cains_jawbone_page_93.md
   - **Why it matters:** Could confirm an Elizabeth Barrett Browning (Wimpole Street) source/allusion and provide a precise quotation anchor.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** Elizabeth Barrett Browning, “The Cry of the Children”: “They are binding up their hearts away from breaking, / With a cerement from the grave.” (Page:Poems_Barrett.djvu/241).
 
 - **Item:** Identify the Yeats quotation and the “Colonel Anthony” commemoration (Page 94)
   - **Type:** quote/date/place
