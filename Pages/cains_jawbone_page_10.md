@@ -8,7 +8,8 @@ Then came Hyacinth’s day. He laughed when he remembered that, as we were walki
   - CERTAIN: Boots (servant/“man Boots”).
   - MAYBE: narrator’s mistress (unnamed; wears seed-pearl ear-drops).
 - **Time markers:**
-  - CERTAIN: “Hyacinth’s day” / “Jasmine’s day” (calendar markers; likely saints’/named days).
+  - CERTAIN: “Hyacinth’s day” likely St Hyacinth’s feast day = Aug 16 (Chambers’ *Book of Days*; *Catholic Encyclopedia* 1913).
+  - MAYBE: “Jasmine’s day” remains unidentified (not found in Chambers; may not be a public calendar marker).
   - CERTAIN: “They went back two days…” (explicit offset).
 - **Motifs/continuity hooks:**
   - Gardens/flowers (hyacinth/jasmine); betting/gifts.
@@ -23,6 +24,6 @@ Then came Hyacinth’s day. He laughed when he remembered that, as we were walki
 - **Disconfirming evidence:**
   - If “Hyacinth’s day/Jasmine’s day” are shown to be private nicknames rather than public calendar anchors.
 - **Research needed:**
-  - Identify which dates “Hyacinth’s day” and “Jasmine’s day” refer to (likely saints/feast days).
+  - Identify what “Jasmine’s day” refers to (and whether it’s a public calendar anchor).
   - Identify “Gourdoulis” (Egyptian cigarettes) and “Etam dawn mist, ten inches” (what item/measure).
   - Interpret the singular/plural reversal complaint (dialect/wordplay?).

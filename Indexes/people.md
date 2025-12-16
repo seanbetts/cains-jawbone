@@ -85,16 +85,16 @@ Template:
   - **Notes:** “Boots” may be role-title rather than personal name; keep as alias until clarified.
 
 - `P13` — Names/aliases: Hyacinth (male, uncertain)
-  - **Tells:** associated with “Hyacinth’s day”; laughs while walking round the garden.
+  - **Tells:** associated with “Hyacinth’s day” (if saint-day: Aug 16); laughs while walking round the garden.
   - **Pronouns/relationships:** “he”; connected to Boots’ misunderstanding.
   - **Pages:** Pages/cains_jawbone_page_10.md
-  - **Notes:** MAYBE person vs saint-day marker; do not lock in.
+  - **Notes:** MAYBE person vs saint-day marker; if it’s St Hyacinth’s day, Chambers’ *Book of Days* and the *Catholic Encyclopedia* (1913) place it on Aug 16.
 
 - `P14` — Names/aliases: Jasmine (female, uncertain)
   - **Tells:** associated with “Jasmine’s day” (said to be “too late” for it).
   - **Pronouns/relationships:** referenced as “she” in a bet context; not confirmed same as “Jasmine”.
   - **Pages:** Pages/cains_jawbone_page_10.md, Pages/cains_jawbone_page_99.md
-  - **Notes:** MAYBE person vs day-name marker; Page 99 uses “Jasmine” as a person-reference (do not merge with other Jasmine mentions without anchors).
+  - **Notes:** MAYBE person vs day-name marker; “Jasmine’s day” not yet mapped to a known calendar anchor (not in Chambers); Page 99 uses “Jasmine” as a person-reference (do not merge with other Jasmine mentions without anchors).
 
 - `P15` — Names/aliases: Charles Victor Hugo Renard-Beinsky (uncertain)
   - **Tells:** rose “untimely” “for the sake of the investigating judge”.

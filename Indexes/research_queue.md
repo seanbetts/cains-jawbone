@@ -24,8 +24,8 @@ Template:
   - **Type:** place
   - **Pages:** Pages/cains_jawbone_page_1.md
   - **Why it matters:** Setting anchor for clustering.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `in-progress`
+  - **Result:** Not yet pinned to a specific real place; “chine” is a coastal ravine/gorge to the sea (term used on the Hampshire/Dorset and Isle of Wight coasts, e.g. “Boscombe Chine”), so this reads like a (possibly fictional) venue/church/institution situated in such a ravine. “St. Lazarus” in a place-name may also hint at a lazar-house/lazaretto (hospital for plague/leprosy/contagious disease per EB1911 “Lazar”), which fits the “is full… already” wording and the valetudinarian father nearby.
 
 - **Item:** Identify plague-quote source on Page 2 + the “writer” who “died to-day” (and death date)
   - **Type:** quote/date
@@ -132,12 +132,19 @@ Template:
   - **Status:** `open`
   - **Result:**
 
-- **Item:** Identify which dates “Hyacinth’s day” and “Jasmine’s day” refer to
+- **Item:** Identify which date “Hyacinth’s day” refers to (St. Hyacinth)
   - **Type:** date
   - **Pages:** Pages/cains_jawbone_page_10.md
   - **Why it matters:** Explicit calendar offsets (“went back two days”) could support ordering.
+  - **Status:** `resolved`
+  - **Result:** Chambers’ *Book of Days* lists “St Hyacinth, confessor, 1257” under **August 16** → likely “Hyacinth’s day” = **Aug 16**. Corroboration: *Catholic Encyclopedia* (1913), “St. Hyacinth” gives “Feast, 16 Aug.”
+
+- **Item:** Identify what “Jasmine’s day” refers to (and whether it’s a calendar anchor)
+  - **Type:** date/other
+  - **Pages:** Pages/cains_jawbone_page_10.md
+  - **Why it matters:** The text contrasts it with “Hyacinth’s day” (“too late for Jasmine’s day”) and includes an explicit “went back two days” offset.
   - **Status:** `open`
-  - **Result:**
+  - **Result:** Not found as a named day/feast in Chambers’ *Book of Days*; may be an in-world/personal “day”, a name-day not covered by Chambers, or a different day-name system. Keep unresolved until a ≤1934 source is identified.
 
 - **Item:** Identify “Gourdoulis” (Egyptian cigarettes) and “Etam dawn mist, ten inches” (product + measure)
   - **Type:** term/other
@@ -241,8 +248,8 @@ Template:
   - **Type:** date/other
   - **Pages:** Pages/cains_jawbone_page_19.md
   - **Why it matters:** Strengthens the mid-August calendar chain with Pages/cains_jawbone_page_8.md and Pages/cains_jawbone_page_10.md.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** Yes — “Human Comedy” points to Balzac’s *La Comédie humaine*; Balzac died 18 August 1850, so “to-day” is likely Aug 18 and corroborates the Aug 18 chain.
 
 - **Item:** Identify the queen quotation (attributed to Wotton) and what “only just come to Falkland” refers to
   - **Type:** quote/place/other

@@ -28,7 +28,13 @@ Template:
   - **Type:** venue/institution (unknown)
   - **Confidence:** `MAYBE`
   - **Pages:** Pages/cains_jawbone_page_1.md
-  - **Notes:** “is full… already”; “Chine” suggests a coastal ravine/place-name (needs ID).
+  - **Notes:** “is full… already”; “chine” is a coastal ravine/gorge to the sea (term used on the Hampshire/Dorset and Isle of Wight coasts, e.g. Boscombe Chine), so this reads like a venue/church/institution situated in such a ravine; “St. Lazarus” may also imply a lazar-house/lazaretto (hospital for plague/leprosy/contagious disease per EB1911 “Lazar”); still not identified.
+
+- **Chine (coastal ravine)**
+  - **Type:** landform
+  - **Confidence:** `CERTAIN`
+  - **Pages:** Pages/cains_jawbone_page_1.md
+  - **Notes:** Used for narrow gorges down which streams reach the sea (e.g., Boscombe Chine on the south coast); helps interpret “St. Lazarus-in-the-Chine” as a coastal setting marker.
 
 - **Ruined lighthouse**
   - **Type:** landmark

@@ -4,7 +4,7 @@ I sit down alone at the appointed table and take up my pen to give all whom it m
 
 - **Entities:**
   - CERTAIN: Casy Ferris; Casy’s father (unnamed).
-  - MAYBE: “St. Lazarus-in-the-Chine” (place/institution).
+  - MAYBE: “St. Lazarus-in-the-Chine” (place/institution; reads like a church/venue in a coastal chine, or a “lazar-house”/infirmary by name).
 - **Time markers:**
   - CERTAIN: “to-day is the day” (event for Casy; likely scheduled/ritual).
 - **Quotes & allusions:**

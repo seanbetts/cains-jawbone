@@ -105,11 +105,11 @@ Template:
   - **Research needed:** yes — identify exact song/lyric source.
 
 - **Snippet:** “the Human Comedy couldn’t possibly have gone on beyond to-day”
-  - **Likely source/author:** likely Balzac (“La Comédie humaine”) allusion
-  - **Why it matters:** Potential date anchor (“to-day”) that corroborates other historical-death markers.
+  - **Likely source/author:** Honoré de Balzac — *La Comédie humaine* (“The Human Comedy”) allusion
+  - **Why it matters:** Date anchor: Balzac died 18 August 1850, matching the Aug 18 “to-day” chain (e.g., Page 8).
   - **Pages:** Pages/cains_jawbone_page_19.md
-  - **Confidence:** `MAYBE`
-  - **Research needed:** yes — confirm intended referent and date implication.
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
 
 - **Snippet:** “Tell me, if she were not design’d th’ eclipse and glory of her kind.”
   - **Likely source/author:** TBD (attributed to Wotton by an in-scene speaker)
