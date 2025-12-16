@@ -114,11 +114,11 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_17.md
   - **Notes:** “Moon on the one hand and the Dawn on the other” suggests adjacent venues/landmarks.
 
-- **Falkland**
-  - **Type:** place (uncertain which)
-  - **Confidence:** `MAYBE`
+- **Falkland (Fife) / Falkland Castle (Palace)**
+  - **Type:** town/castle (Scotland)
+  - **Confidence:** `LIKELY`
   - **Pages:** Pages/cains_jawbone_page_19.md
-  - **Notes:** “only just come to Falkland” in a queen-reference context.
+  - **Notes:** In a Wotton “Queen of Bohemia” context, “only just come to Falkland” likely points to Elizabeth Stuart (Queen of Bohemia) being born at Falkland Castle, Fifeshire, 19 Aug 1596 (DNB): https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Elizabeth_(1596-1662).
 
 - **Annandale**
   - **Type:** region

@@ -6,15 +6,16 @@ Yesterday he got in another of his own kind, who agreed she’d done it all hers
   - CERTAIN: Mr. Hall (reappears; likely a servant responding to a call-bell/bell-push).
   - CERTAIN: McCrimmons (hereditary music-makers; Skye association).
   - MAYBE: “he” (handler/owner; pulls narrator’s ears; sleeve pulled).
-  - MAYBE: “she” (queen reference; “only just come to Falkland”).
+  - LIKELY: “she” = Elizabeth Stuart (Queen of Bohemia) (per Wotton quotation + “Falkland” birthplace hint).
   - CERTAIN: William Sydney Porter (O. Henry) (reference).
   - MAYBE: Wotton (attribution disputed by narrator).
 - **Time markers:**
   - CERTAIN: “Yesterday…”
   - LIKELY: “to-day” is a historical-death anchor; “Human Comedy couldn’t… beyond to-day” suggests Balzac’s death date (ties to Page 8’s Guido/Kilmarnock/Balmerino “to-day”).
+  - LIKELY: “only just come to Falkland” points to Falkland Castle (Fife) and Elizabeth Stuart’s birth there (19 Aug 1596 per DNB), reinforcing a calendar/day anchor.
 - **Quotes & allusions:**
   - LIKELY: “Human Comedy” = Balzac.
-  - MAYBE: “by virtue first, then choice, a queen” / “design’d th’ eclipse and glory of her kind” (source TBD; attributed to Wotton by “he”).
+  - CERTAIN: Sir Henry Wotton, “You meaner Beauties of the Night” (“On his Mistris, the Queen of Bohemia”) — “By Vertue first, then Choyce a Queen… Tell me… Th’ Eclypse and Glory of her kind” (text reproduced in E. R. Eddison, *The Worm Ouroboros* (1922), ch. 30): https://en.wikisource.org/wiki/The_Worm_Ouroboros/Chapter_30.
 - **Motifs/continuity hooks:**
   - Polished knob / repeated Mr. Hall entrances: LIKELY a call-bell/bell-push being rung to summon him.
   - Animal-coded behaviour: ear pulling; “low noise” reaction.
@@ -25,5 +26,5 @@ Yesterday he got in another of his own kind, who agreed she’d done it all hers
 - **Disconfirming evidence:**
   - If later pages show two different “Mr. Hall” contexts or incompatible settings.
 - **Research needed:**
-  - Identify the queen quotation and what “only just come to Falkland” refers to.
+  - Resolved: Wotton “You meaner Beauties of the Night” (Queen of Bohemia/Elizabeth Stuart) + Falkland Castle birthplace hint (see Indexes/quotes.md and Indexes/places.md).
   - Resolved: the knob is a call-bell/bell-push; Mr. Hall is the summoned servant (see Indexes/research_queue.md).

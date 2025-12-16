@@ -255,8 +255,8 @@ Template:
   - **Type:** quote/place/other
   - **Pages:** Pages/cains_jawbone_page_19.md
   - **Why it matters:** Could uniquely identify a queen/scene and link pages by historical context.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** Quote is Sir Henry Wotton, “You meaner Beauties of the Night” (“On his Mistris, the Queen of Bohemia”): “By Vertue first, then Choyce a Queen… Th’ Eclypse and Glory of her kind.” (text reproduced in E. R. Eddison, *The Worm Ouroboros* (1922), ch. 30): https://en.wikisource.org/wiki/The_Worm_Ouroboros/Chapter_30. The “queen” is Elizabeth Stuart (Queen of Bohemia); “only just come to Falkland” likely alludes to her being born at Falkland Castle (Fifeshire/Fife) on 19 Aug 1596 (DNB): https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Elizabeth_(1596-1662).
 
 - **Item:** Confirm the “oldest brass in England” inscription (Sir John/Iohan Daubernoun) and its location (by the River Mole)
   - **Type:** place/other

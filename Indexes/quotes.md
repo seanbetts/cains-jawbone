@@ -112,11 +112,11 @@ Template:
   - **Research needed:** no
 
 - **Snippet:** “Tell me, if she were not design’d th’ eclipse and glory of her kind.”
-  - **Likely source/author:** TBD (attributed to Wotton by an in-scene speaker)
-  - **Why it matters:** Quote anchor tied to a “queen” and “Falkland” reference; could be a strong identifier.
+  - **Likely source/author:** Sir Henry Wotton, “You meaner Beauties of the Night” (aka “On his Mistris, the Queen of Bohemia”); stanza reproduced in E. R. Eddison, *The Worm Ouroboros* (1922), ch. 30: https://en.wikisource.org/wiki/The_Worm_Ouroboros/Chapter_30.
+  - **Why it matters:** Identifies the “queen” as Elizabeth Stuart (Queen of Bohemia) and makes “Falkland” likely refer to her birthplace (Falkland Castle, Fife) → potential Aug 1596 date anchor.
   - **Pages:** Pages/cains_jawbone_page_19.md
-  - **Confidence:** `MAYBE`
-  - **Research needed:** yes — identify source and the queen referenced.
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
 
 - **Snippet:** “Underneath this stone… doth lie as much Beauty as could die”
   - **Likely source/author:** TBD (epitaph)
