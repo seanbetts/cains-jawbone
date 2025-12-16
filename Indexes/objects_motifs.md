@@ -112,9 +112,9 @@ Template:
   - **Notes:** Potential scene/cluster anchor; ties to character “May”.
 
 - **Sugar (Tate)**
-  - **Instances / variants:** “Tate essentially meant sugar”; hidden sugar “under the gas fire”
-  - **Pages:** Pages/cains_jawbone_page_48.md
-  - **Notes:** Brand/wordplay clue (likely Tate & Lyle); may connect to secrecy/hoarding and domestic scenes.
+  - **Instances / variants:** “Tate essentially meant sugar”; hidden sugar “under the gas fire”; “good Tate”
+  - **Pages:** Pages/cains_jawbone_page_48.md, Pages/cains_jawbone_page_88.md
+  - **Notes:** “Tate” reads as a sugar brand (Henry Tate made “Tate’s Cube Sugar” famous; *Encyclopaedia Britannica* 1911, “TATE, SIR HENRY”, Page:EB1911_-_Volume_26.djvu/478); may connect to secrecy/hoarding and domestic scenes.
 
 - **Burned documents / incinerator**
   - **Instances / variants:** half-burned marriage certificate in an incinerator; “charred lines”
@@ -229,7 +229,7 @@ Template:
 - **Distemper (paint) colours**
   - **Instances / variants:** “new distemper”; Dark French Grey; Egg Shell Green
   - **Pages:** Pages/cains_jawbone_page_88.md
-  - **Notes:** Could be literal decorating quarrel or a coded colour clue; track for recurrence.
+  - **Notes:** Distemper is water-based paint (“for distemper water is employed”; *Encyclopaedia Britannica* 1911, “PAINTER-WORK”, Page:EB1911_-_Volume_20.djvu/496); could also be a coded colour clue if repeated.
 
 - **Deer-stalker**
   - **Instances / variants:** “deer-stalker of pinkish tweed” deposited on parquet

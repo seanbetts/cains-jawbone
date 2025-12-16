@@ -14,14 +14,13 @@ I always liked to listen to him. It was St. Wigbert’s day, I was told, and Aug
   - CERTAIN: “so late in the year”.
 - **Quotes & allusions:**
   - MAYBE: Augustus (allusive; could be month/emperor/saint-day adjacency).
-  - MAYBE: “good Tate” (source/meaning unclear; person, gallery, or proverb).
 - **Motifs/continuity hooks:**
-  - Distemper colour debate (Dark French Grey vs Egg Shell Green) suggests paint/decor (or coded colour clue).
+  - CERTAIN: “Tate” = sugar brand (Henry Tate made “Tate’s Cube Sugar” famous; *Encyclopaedia Britannica* 1911, “TATE, SIR HENRY”, Page:EB1911_-_Volume_26.djvu/478).
+  - CERTAIN: distemper = water-based paint (“for distemper water is employed”; *Encyclopaedia Britannica* 1911, “PAINTER-WORK”, Page:EB1911_-_Volume_20.djvu/496).
+  - Distemper colour debate (Dark French Grey vs Egg Shell Green) suggests decorating quarrel (or a coded colour clue).
   - Mice imagery (“mice were dancing on my little slab”) echoes other pages’ mouse-pressure imagery (Pages/cains_jawbone_page_82.md).
   - Jasmine reference (“Tom and Flora’s Jasmine”) continues the jasmine motif.
 - **Voice/tells:**
   - Social-observer stance: repetitive “He said… She said…” with narrator not fully understanding.
 - **Disconfirming evidence:**
   - If St. Wigbert’s day is shown to be an in-world nickname rather than a calendar marker.
-- **Research needed:**
-  - Identify the “good Tate” reference and the “new distemper” context.

@@ -13,7 +13,7 @@ The ancient had then sat down among the heather to a great dish of brown and swi
   - Food/drink: deer/collops; Spey Royal.
   - Legal/detective register: “Circumstances alter cases”; “death warrant”.
   - Signatures/document thread: “signatures were his business” (forgery/will cluster adjacency).
-  - “Panache” beneath the lips (object/appearance prop; unclear).
+  - LIKELY: “panache” used as “plume” metaphor for facial hair (moustache/goatee) beneath the lips (Webster 1913: panache = “a plume or bunch of feathers”).
 - **Voice/tells:**
   - Threatening punning (signature → death warrant) + self-conscious style commentary.
 - **Ordering hypotheses:**
@@ -21,5 +21,4 @@ The ancient had then sat down among the heather to a great dish of brown and swi
 - **Disconfirming evidence:**
   - If “death warrant” is purely idiomatic (no in-world death intended).
 - **Research needed:**
-  - Identify what “panache… beneath my lips” refers to (object/appearance).
   - Determine whether the “signatures” business links to the will/forgery cluster.

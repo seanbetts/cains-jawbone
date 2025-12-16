@@ -1121,10 +1121,10 @@ Template:
 
 - **Item:** Identify “good Tate” and the “new distemper” context (Page 88)
   - **Type:** other
-  - **Pages:** Pages/cains_jawbone_page_88.md
+  - **Pages:** Pages/cains_jawbone_page_48.md, Pages/cains_jawbone_page_88.md
   - **Why it matters:** Could be a strong allusive anchor or clarify whether the scene is domestic (paint) vs something else.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** “Tate” reads as a sugar brand: EB1911 “TATE, SIR HENRY” says he made “Tate’s Cube Sugar” famous (Page:EB1911_-_Volume_26.djvu/478). “Distemper” is paint: EB1911 “PAINTER-WORK” notes “for distemper water is employed” (Page:EB1911_-_Volume_20.djvu/496).
 
 - **Item:** Confirm the Whistler/Wilde “You will, Oscar, you will” quotation (Page 90)
   - **Type:** quote
@@ -1144,8 +1144,8 @@ Template:
   - **Type:** term
   - **Pages:** Pages/cains_jawbone_page_89.md
   - **Why it matters:** Could be a concrete prop (pipe/feather/food) or a self-description clue (moustache), helpful for voice clustering.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** Webster (1913) defines “panache” as “a plume or bunch of feathers” (https://www.websters1913.com/words/Panache); in this context (“beneath my lips”) it’s LIKELY a plume-metaphor for facial hair (moustache/goatee).
 
 - **Item:** Identify the narrator name clue: “Newbolt’s admiral” + “Shakespeare’s sergeant” + “capitalise my third letter” (Page 91)
   - **Type:** people/other

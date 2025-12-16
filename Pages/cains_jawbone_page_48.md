@@ -4,7 +4,7 @@ I had always thought that Tate essentially meant sugar. This I liked almost next
 
 - **Entities:**
   - CERTAIN: Ecky (met “that evening”).
-  - MAYBE: “Tate” (sugar association; likely Tate & Lyle).
+  - CERTAIN: “Tate” = sugar brand (Henry Tate made “Tate’s Cube Sugar” famous; *Encyclopaedia Britannica* 1911, “TATE, SIR HENRY”, Page:EB1911_-_Volume_26.djvu/478).
   - MAYBE: unnamed “he” and “her” (a couple; narrator thinks they are together too much).
 - **Time markers:**
   - CERTAIN: “to-day”; “that evening”.
@@ -22,6 +22,5 @@ I had always thought that Tate essentially meant sugar. This I liked almost next
 - **Disconfirming evidence:**
   - If later context makes the “nose” and “sad dog” language purely idiomatic (human narrator).
 - **Research needed:**
-  - Confirm “Tate” sugar reference and what “the sugar one” implies.
   - Interpret the Book of Common Prayer + “wormed his way” clue.
   - Why “Crataegus Oxyacantha” is “his big joke” (does it encode a name like “May”?).
