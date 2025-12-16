@@ -1266,12 +1266,19 @@ Template:
   - **Status:** `resolved`
   - **Result:** Scots phrasing built from “Gar… To cause; to make. [Obs. or Scot.]” (Webster 1913, https://www.websters1913.com/words/Gar) + “Grue… to shudder” (Chambers’s Twentieth Century Dictionary, 1908: https://en.wikisource.org/wiki/Chambers%27s_Twentieth_Century_Dictionary_1908/Grope_Gyve).
 
-- **Item:** Identify “Jifjaffa” and what “turning a Somerset in front of the altar” encodes (Page 96)
+- **Item:** Identify “Jifjaffa” (place or pun) (Page 96)
   - **Type:** place/term
   - **Pages:** Pages/cains_jawbone_page_96.md
-  - **Why it matters:** Could be a strong place clue (Jaffa?) or a pun; the “Somerset” phrase may resolve to an action vs a location.
+  - **Why it matters:** Could be a strong place clue (Jaffa/Palestine?) or a pun; may recur across the narrator’s war/Padre reminiscence.
   - **Status:** `open`
   - **Result:**
+
+- **Item:** Clarify “turning a Somerset” meaning (Page 96)
+  - **Type:** term
+  - **Pages:** Pages/cains_jawbone_page_96.md
+  - **Why it matters:** Clarifies that this is a “somersault” reference, not a county/place reference.
+  - **Status:** `resolved`
+  - **Result:** Webster 1913 defines “Somerset” (variant of “somersault”) as “a leap in which a person turns his heels over his head and lights upon his feet; a turning end over end” (https://www.websters1913.com/words/Somerset).
 
 - **Item:** Identify the French mandoline lyric (“Oeuvre ton ame… ma mandoline…”) (Page 97)
   - **Type:** quote

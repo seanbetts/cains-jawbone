@@ -629,6 +629,13 @@ Template:
   - **Confidence:** `CERTAIN`
   - **Research needed:** no
 
+- **Snippet:** “turning a Somerset”
+  - **Likely source/author:** “Somerset” is a variant spelling of “somersault”: Webster 1913 “Somerset” defines it as “a leap in which a person turns his heels over his head and lights upon his feet; a turning end over end” (https://www.websters1913.com/words/Somerset).
+  - **Why it matters:** Clarifies the literal action implied by “Catharine… turning a Somerset in front of the altar.”
+  - **Pages:** Pages/cains_jawbone_page_96.md
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
+
 - **Snippet:** “Ellen Brine of Allenburn would never mwore return.”
   - **Likely source/author:** William Barnes, “Ellen Brine ov Allenburn” (*Poems of Rural Life in the Dorset Dialect*, 1879)
   - **Why it matters:** Dorset dialect quotation anchor; may help cluster a narrator segment that invokes Dorset/West Country voice.
