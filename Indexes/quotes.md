@@ -602,18 +602,18 @@ Template:
   - **Research needed:** yes — confirm source/usage.
 
 - **Snippet:** “Ellen Brine of Allenburn would never mwore return.”
-  - **Likely source/author:** TBD
-  - **Why it matters:** Looks like a precise quotation (dialect spelling); may anchor a specific novel/poem and help cluster this narrator segment.
+  - **Likely source/author:** William Barnes, “Ellen Brine ov Allenburn” (*Poems of Rural Life in the Dorset Dialect*, 1879)
+  - **Why it matters:** Dorset dialect quotation anchor; may help cluster a narrator segment that invokes Dorset/West Country voice.
   - **Pages:** Pages/cains_jawbone_page_97.md
-  - **Confidence:** `MAYBE`
-  - **Research needed:** yes — identify source/context.
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
 
 - **Snippet:** “Oeuvre ton ame et ton oreille au son de ma mandoline…”
-  - **Likely source/author:** TBD (French song/poem)
-  - **Why it matters:** Strong language-anchored allusion; may identify narrator reading set or supply ordering constraints once sourced.
+  - **Likely source/author:** Paul Verlaine, “Sérénade” (*Poèmes saturniens*, 1866) — original “Ouvre ton âme…”
+  - **Why it matters:** Strong language-anchored quotation; confirms a Verlaine source and may help cluster narrator reading set.
   - **Pages:** Pages/cains_jawbone_page_97.md
-  - **Confidence:** `MAYBE`
-  - **Research needed:** yes — identify source/context.
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
 
 - **Snippet:** “a consummation devoutly to be wished”
   - **Likely source/author:** Shakespeare, *Hamlet*

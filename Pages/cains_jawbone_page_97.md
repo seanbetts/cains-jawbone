@@ -17,14 +17,12 @@ To have slept and to wake right up surrounded by an atmosphere in which Bunny an
   - Tennis → rowing venue shift (scene transition marker).
   - Repeats the “Bunny and Perry… hammer and tongs” phrasing also used in Pages/cains_jawbone_page_93.md.
 - **Quotes & allusions:**
-  - MAYBE: “Ellen Brine of Allenburn would never mwore return” (source TBD; narrator notes Dorset but says he is not there).
-  - CERTAIN: French lyric “Oeuvre ton ame… ma mandoline… cette chanson cruelle et caline.” (source TBD).
+  - CERTAIN: “Ellen Brine ov Allenburn / Would never mwore return” — William Barnes, “Ellen Brine ov Allenburn” (*Poems of Rural Life in the Dorset Dialect*, 1879), Page:Barnes_(1879)_Poems_of_rural_life_in_the_Dorset_dialect_(combined).djvu/219.
+  - CERTAIN: French lyric is Paul Verlaine, “Sérénade” (*Poèmes saturniens*, 1866): “Ouvre ton âme… De ma mandoline… Cruelle et câline.” (Page:Verlaine_-_Poèmes_saturniens,_Lemerre,_1866.djvu/112); CJ spells “Oeuvre” for “Ouvre”.
   - MAYBE: Cambridge/Thermopylae/Leonidas references as date or education anchors.
 - **Ordering hypotheses:**
   - LIKELY: clusters with Pages/cains_jawbone_page_93.md via the distinctive Bunny-and-Perry phrasing.
 - **Disconfirming evidence:**
   - If “Bunny and Perry” is shown to be a generic metaphor independently reused by multiple narrators.
 - **Research needed:**
-  - Identify the French lyric (mandoline) source.
-  - Identify “Ellen Brine of Allenburn…” and why Dorset is mentioned.
   - Interpret “Paris and Leonidas” and the Cambridge/Thermopylae contrast (date clue vs pure rhetoric).

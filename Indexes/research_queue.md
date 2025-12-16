@@ -1263,15 +1263,15 @@ Template:
   - **Type:** quote
   - **Pages:** Pages/cains_jawbone_page_97.md
   - **Why it matters:** Strong language-anchored quotation that may identify narrator reading set or supply ordering constraints.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** Paul Verlaine, “Sérénade” (*Poèmes saturniens*, 1866): “Ouvre ton âme… De ma mandoline… Cruelle et câline.” (Page:Verlaine_-_Poèmes_saturniens,_Lemerre,_1866.djvu/112).
 
 - **Item:** Identify “Ellen Brine of Allenburn would never mwore return” (Page 97)
   - **Type:** quote
   - **Pages:** Pages/cains_jawbone_page_97.md
   - **Why it matters:** Dialect quotation (possibly Dorset-related) may anchor a specific source and narrator segment.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** William Barnes, “Ellen Brine ov Allenburn” (*Poems of Rural Life in the Dorset Dialect*, 1879): “… Ellen Brine ov Allenburn / Would never mwore return.” (Page:Barnes_(1879)_Poems_of_rural_life_in_the_Dorset_dialect_(combined).djvu/219).
 
 - **Item:** Interpret “despatch of Paris and Leonidas” + Cambridge/Thermopylae contrast (Page 97)
   - **Type:** date/other
