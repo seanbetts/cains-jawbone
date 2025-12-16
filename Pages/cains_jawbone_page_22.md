@@ -9,7 +9,7 @@ He always talked to me about murder, when we were alone together. And that day h
   - CERTAIN: Tusitala (name; could be Stevenson allusion or a pet with that name).
   - CERTAIN: Flora (object of narrator’s mating/banishment story).
 - **Time markers:**
-  - LIKELY: “that day” = John de Witt’s birthday (born at Dort on 24 Sept 1625); Cornelius’s imprisonment in the Gevangenpoort precedes the brothers’ murder. (EB1911: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/De_Witt,_John)
+  - LIKELY: “birthday of a good one in prison” points to Cornelius de Witt (the brother actually confined in the Gevangenpoort); Cornelius’s birthdate is given as 15 June 1623 (Parieu, *John de Witt; or, twenty years’ interregnum…* 1858, Google Books: https://books.google.co.uk/books?id=PnlZAAAAcAAJ&pg=PA7). EB1911 records John de Witt’s birthdate (24 Sept 1625) but he is not the imprisoned brother. (EB1911: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/De_Witt,_John)
   - CERTAIN: “quite late when he came back…”
 - **Motifs/continuity hooks:**
   - Animal-coded narration: “lowered myself” / tail “vibration” absent → likely dog POV.

@@ -142,7 +142,7 @@ Template:
   - **Type:** city (Netherlands)
   - **Confidence:** `CERTAIN`
   - **Pages:** Pages/cains_jawbone_page_22.md
-  - **Notes:** “John and Cornelius, the Dort people” = Johan (John) de Witt + Cornelius de Witt (both born at Dort). John de Witt’s birthdate is given as 24 Sept 1625. (EB1911: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/De_Witt,_John ; https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/De_Witt,_Cornelius)
+  - **Notes:** “John and Cornelius, the Dort people” = Johan (John) de Witt + Cornelius de Witt (both born at Dort). John de Witt’s birthdate is given as 24 Sept 1625 (EB1911); Cornelius’s birthdate is given as 15 June 1623 in Parieu (1858). https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/De_Witt,_John ; https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/De_Witt,_Cornelius ; https://books.google.co.uk/books?id=PnlZAAAAcAAJ&pg=PA7
 
 - **Wimpole Street**
   - **Type:** street
