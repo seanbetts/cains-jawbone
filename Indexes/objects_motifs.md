@@ -51,6 +51,11 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_52.md, Pages/cains_jawbone_page_57.md
   - **Notes:** Potential continuity hook for the papers/interview scene(s).
 
+- **Sandwiches**
+  - **Instances / variants:** coffee + Westphalian ham sandwiches; cucumber sandwiches; “I rather relished my sandwich”; John Montagu “gaming table” sandwich allusion
+  - **Pages:** Pages/cains_jawbone_page_52.md, Pages/cains_jawbone_page_73.md, Pages/cains_jawbone_page_95.md
+  - **Notes:** Food/time-saving motif; the Page 95 Montagu reference is a “sandwich” origin-story allusion.
+
 - **Food brands (Bisto, Cerebos)**
   - **Instances / variants:** used as comic refrain
   - **Pages:** Pages/cains_jawbone_page_5.md

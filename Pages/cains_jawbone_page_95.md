@@ -6,7 +6,7 @@ I knew, of course, that if I got there in five minutes I would have double the t
   - CERTAIN: narrator (“I”; time-planning, then letter-writing).
   - MAYBE: “Holy Mr. Herbert” / “Mr. Haddock” (identity unclear; referenced approvingly).
   - CERTAIN: “him” (recipient of narrator’s written account).
-  - MAYBE: John Montagu (referenced via “arrangement… at the gaming table”; likely allusive).
+  - CERTAIN: John Montagu (Earl of Sandwich; allusion to the “sandwich” origin story).
   - MAYBE: “my swan” (LIKELY the pen; “gave my swan a drink”).
 - **Places:**
   - CERTAIN: Café Royal (explicit; time-hop destination).
@@ -17,6 +17,7 @@ I knew, of course, that if I got there in five minutes I would have double the t
   - MAYBE: “the horrid act” described from inception to culmination (could be crime confession/report; outcome unspecified).
 - **Motifs/continuity hooks:**
   - Time budgeting (minutes; “double the time”) + gaming-table allusion.
+  - CERTAIN: “John Montagu’s arrangement for an uninterrupted session at the gaming table” = the sandwich (named from the Earl of Sandwich; origin-story: invented so he could remain at the gaming table): Webster 1913 “Sandwich” (https://www.websters1913.com/words/Sandwich); *The Past at Our Doors* (1911), “The Story of Our Food” (https://ia601501.us.archive.org/33/items/in.ernet.dli.2015.84533/2015.84533.The-Past-At-Our-Doors-Or-The-Old-In-The-New-Around-Us_djvu.txt).
   - Writing/ink/pen ritual (repeatedly laying pen down; checking ink; “plunged in”).
 - **Voice/tells:**
   - Decision-point framing (“I had decided what to do”) followed by procedural recounting.

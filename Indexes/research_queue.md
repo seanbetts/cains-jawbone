@@ -1242,8 +1242,8 @@ Template:
   - **Type:** place/other
   - **Pages:** Pages/cains_jawbone_page_95.md
   - **Why it matters:** Could anchor the setting and constrain time/route; may connect to other Café/club pages.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** John Montagu (Earl of Sandwich) allusion: the “arrangement” for staying at the gaming table refers to the sandwich origin story (invented so he could remain gambling without interruption). Source: *The Past at Our Doors Or The Old in the New Around Us* (1911), “The Story of Our Food”: “the now familiar ‘sandwich’… gets its name from the fourth Earl of Sandwich… invented it in order to remain at the gaming table without interruption” (https://ia601501.us.archive.org/33/items/in.ernet.dli.2015.84533/2015.84533.The-Past-At-Our-Doors-Or-The-Old-In-The-New-Around-Us_djvu.txt). Webster (1913) defines “Sandwich” as “[Named from the Earl of Sandwich]” (https://www.websters1913.com/words/Sandwich).
 
 - **Item:** Identify “Golden Tips / Tippy Tea / No Tips” and the menu items “Loganberry Kiss” + “Plover’s Lunch” (Page 96)
   - **Type:** other
