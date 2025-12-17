@@ -388,15 +388,15 @@ Template:
   - **Type:** quote
   - **Pages:** Pages/cains_jawbone_page_30.md
   - **Why it matters:** Quote used as a probe/test; may uniquely identify author and connect scenes.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** William Watson, “The Sovereign Poet” (in *The Collected Poems of William Watson*, 1899): the poem includes “This savours not of death, / This hath a relish of eternity.” (Google Books scan: https://books.google.co.uk/books?id=vidXAAAAYAAJ&pg=PA166&dq=%22savours+not+of+death%22)
 
 - **Item:** Identify the “jocund maker / De Mauves / Gressie” passage flagged “by James!” on Page 30
   - **Type:** quote/other
   - **Pages:** Pages/cains_jawbone_page_30.md
   - **Why it matters:** Could anchor a specific author (“James”) and provide strong clustering evidence.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** Robert Louis Stevenson, *Underwoods* (1887), poem “Henry James”: “Lo, how these fair immaculate women walk / Behind their jocund maker… Slighted De Mauves… Gressie…” (Wikisource: https://en.wikisource.org/wiki/Underwoods/Henry_James). The “by James!” probe likely points to the poem’s title.
 
 - **Item:** Confirm which “Gainsborough” is meant by “gone out to-day” and what date it implies
   - **Type:** date/name

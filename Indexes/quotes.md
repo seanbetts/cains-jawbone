@@ -189,18 +189,18 @@ Template:
   - **Research needed:** no
 
 - **Snippet:** “this savours not of death, this hath a relish of eternity.”
-  - **Likely source/author:** TBD
-  - **Why it matters:** Quote used as a “test” at table; may identify author and connect scenes.
+  - **Likely source/author:** William Watson, “The Sovereign Poet” (in *The Collected Poems of William Watson*, 1899): https://books.google.co.uk/books?id=vidXAAAAYAAJ&pg=PA166&dq=%22savours+not+of+death%22
+  - **Why it matters:** Quote used as a “test” at table; Watson-allusion can help cluster narrator reading habits.
   - **Pages:** Pages/cains_jawbone_page_30.md
-  - **Confidence:** `MAYBE`
-  - **Research needed:** yes — identify source.
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
 
 - **Snippet:** “Lo, how these fair immaculate women walk behind their jocund maker…”
-  - **Likely source/author:** TBD (the passage names “De Mauves” and “Gressie” and is flagged “by James!”)
-  - **Why it matters:** Potentially a strong author anchor (and might identify narrator reading habits).
+  - **Likely source/author:** Robert Louis Stevenson, *Underwoods* (1887), poem “Henry James”: https://en.wikisource.org/wiki/Underwoods/Henry_James
+  - **Why it matters:** Strong author anchor; clarifies the “by James!” prompt (the poem title is “Henry James” and name-drops James’s characters/works).
   - **Pages:** Pages/cains_jawbone_page_30.md
-  - **Confidence:** `MAYBE`
-  - **Research needed:** yes — identify source and what “James” refers to.
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
 
 - **Snippet:** “Henceforth I ask not good fortune, I myself am good fortune…”
   - **Likely source/author:** Walt Whitman (Song of the Open Road)
