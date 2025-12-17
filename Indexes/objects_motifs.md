@@ -364,4 +364,4 @@ Template:
 - **Engine/noise duet (“rill and corncrake”)**
   - **Instances / variants:** “rill” + “corncrake” duet; “pleasure of speeding” vs warning creak
   - **Pages:** Pages/cains_jawbone_page_31.md
-  - **Notes:** Could describe vehicle/flight sounds; watch for recurrence with Paris reference.
+  - **Notes:** Likely metaphor for speeding: smooth running (“rill”) vs warning “crake/creak” (over-driven oak about to fall) → vehicle/engine/chassis sounds; watch for recurrence with Paris reference.

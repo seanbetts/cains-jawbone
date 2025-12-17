@@ -8,11 +8,11 @@ The others did not seem similarly impressed. Phrases of this and that came to ha
 - **Quotes & allusions:**
   - LIKELY: “nothing lean or hungry” alludes to Cassius (“lean and hungry look”) (Julius Caesar).
 - **Wordplay:**
-  - MAYBE: “Caseus, ah!” (Latin for cheese) as a Cassius-soundalike / nomenclature joke.
+  - LIKELY: “Caseus, ah!” (Latin *caseus* = cheese) as a Cassius soundalike / nomenclature joke (reinforced by the nearby Julius Caesar “lean and hungry” hint).
 - **Motifs/continuity hooks:**
   - Threat/weapon: “hand dropped to my hip pocket”.
   - “Square accounts” / settling scores.
-  - Sound motif: “rill and corncrake” as a duet (water + creaking warning) tied to “speeding”.
+  - Sound motif: “rill and corncrake” as a duet (smooth running vs warning “crake/creak”) tied to “speeding” → likely vehicle/engine/chassis sounds.
 - **Voice/tells:**
   - Fixation on naming (“nomenclature business”); oscillates between suddenness vs “triturative” slowness (bomb vs “exceeding small”).
 - **Ordering hypotheses:**
@@ -20,5 +20,5 @@ The others did not seem similarly impressed. Phrases of this and that came to ha
 - **Disconfirming evidence:**
   - If “Caseus”/Cassius reading doesn’t recur and “hip pocket” is purely idiomatic (not weapon).
 - **Research needed:**
-  - What exactly are “rill” and “corncrake” describing here (vehicle/engine sounds vs literal nature)?
-  - Identify the “awful night in Paris” reference if it becomes a repeated anchor.
+  - (Resolved) “rill and corncrake” reads as a metaphor for speeding: smooth-running sound vs warning “crake/creak” (vehicle/engine/chassis rather than literal nature).
+  - (Resolved) No unique external event/source match identified for “that awful night in Paris” from the wording alone; treat as narrator backstory unless later tied to a specific date/name.

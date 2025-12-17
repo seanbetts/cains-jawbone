@@ -437,15 +437,15 @@ Template:
   - **Type:** quote/other
   - **Pages:** Pages/cains_jawbone_page_31.md
   - **Why it matters:** Might encode a specific source or identify a mechanical/vehicle scene.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** “Caseus, ah!” is a Cassius soundalike using Latin *caseus* (“cheese”), reinforced by the nearby Julius Caesar allusion “nothing lean or hungry here” (Cassius’s “lean and hungry look”). The “rill and corncrake” duet reads as metaphor for speeding: smooth running/“rill” vs a warning “crake/creak” (like an over-driven oak about to fall), i.e., competing vehicle/engine sounds rather than literal nature.
 
 - **Item:** Identify the “awful night in Paris” reference on Page 31 (if it corresponds to a known event/source)
   - **Type:** other
   - **Pages:** Pages/cains_jawbone_page_31.md
   - **Why it matters:** Could be a repeatable historical anchor for ordering.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** No unique external event/source match identified from the wording alone; treat as narrator backstory and revisit only if Paris is tied to a more specific date/name elsewhere.
 
 - **Item:** Identify Wellington Crisp and the “alas, poor Richard! Alas, poor Thomas!” allusion in the Henry manhunt scene
   - **Type:** name/quote/other
