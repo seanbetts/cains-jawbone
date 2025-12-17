@@ -187,9 +187,9 @@ Template:
   - **Notes:** Likely same scene; track what device/action this describes.
 
 - **Pipes / smoking**
-  - **Instances / variants:** empty pipe waved
-  - **Pages:** Pages/cains_jawbone_page_13.md
-  - **Notes:** Could be character habit or scene prop; watch for recurrence with other pipe mentions.
+  - **Instances / variants:** empty pipe waved; Ben Wade pipe (brand)
+  - **Pages:** Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_26.md
+  - **Notes:** Could be character habit or scene prop; Ben Wade is a pipe brand (see *Life*, 1912 advert: https://books.google.co.uk/books?id=oE6vVC1I8TYC&pg=PA1&vq=%22Ben+Wade%22); watch for recurrence with other named tobacco/pipe mentions.
 
 - **Brasses / inscriptions**
   - **Instances / variants:** “oldest brass in England” inscription naming “Sire Iohan Daubernoun”

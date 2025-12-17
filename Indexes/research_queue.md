@@ -339,15 +339,15 @@ Template:
   - **Type:** name/other
   - **Pages:** Pages/cains_jawbone_page_26.md
   - **Why it matters:** Could be a character/allusion used as a recognition test or date anchor.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** Likely refers to a Ben Wade tobacco pipe (brand) rather than a person; e.g., *Life* (1912) runs an advert: “What could be sweeter than a Ben Wade pipe?” https://books.google.co.uk/books?id=oE6vVC1I8TYC&pg=PA1&vq=%22Ben+Wade%22
 
 - **Item:** What is meant by “like a bee with a sore bonnet” (“foreign touch”) on Page 26?
   - **Type:** term/quote
   - **Pages:** Pages/cains_jawbone_page_26.md
   - **Why it matters:** Might be a specific idiom/source that clusters narrator voice.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** Likely a “foreign touch”/malapropism of the idiom “bear with a sore head” (e.g., Kipling, *The Light That Failed*, Ch. 12: “cheerful as a bear with a sore head”: https://en.wikisource.org/wiki/The_Light_That_Failed/Chapter_12).
 
 - **Item:** Identify the “county town on the Severn” lock-up allusion on Page 27 (and what “tapping” case/story it is)
   - **Type:** place/other

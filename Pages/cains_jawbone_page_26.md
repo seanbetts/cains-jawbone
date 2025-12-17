@@ -7,17 +7,18 @@ The girl had left Henry by this time, thank God. She was an obvious whey-face. S
   - MAYBE: “the girl” (Henry’s companion; “whey-face”; unnamed).
   - MAYBE: rector’s aunt (unnamed).
   - MAYBE: Hodge (asks narrator about “Ben Wade”).
-  - MAYBE: Ben Wade (reference/person/character).
+  - LIKELY: Ben Wade (pipe brand; see *Life*, 1912: “What could be sweeter than a Ben Wade pipe?” https://books.google.co.uk/books?id=oE6vVC1I8TYC&pg=PA1&vq=%22Ben+Wade%22).
 - **Motifs/continuity hooks:**
   - Murder fascination: narrator “liked a good murder”.
   - Accent/heredity: “An accent was a terrible thing”; “something in heredity”.
   - Physical tell: Hodge has a “wen” and scratches “left whisker”.
 - **Voice/tells:**
   - Darkly amused, judgemental (“whey-face”); punning on “killing time”.
+  - “bee with a sore bonnet” reads like a “foreign touch”/malapropism of the idiom “bear with a sore head” (Kipling, *The Light That Failed*, Ch. 12: https://en.wikisource.org/wiki/The_Light_That_Failed/Chapter_12).
 - **Ordering hypotheses:**
   - LIKELY: another Henry-occurrence that intensifies “killings/victim” framing (compare Pages/cains_jawbone_page_21.md).
 - **Disconfirming evidence:**
   - If later context shows “killings” is figurative (e.g., stage/role talk) rather than literal murder.
 - **Research needed:**
-  - Identify “Ben Wade” and whether it’s meant to be a real person/character/date anchor.
-  - Identify the phrase “like a bee with a sore bonnet” (“foreign touch”) if it recurs.
+  - (Resolved) “Ben Wade” likely refers to a Ben Wade pipe (brand) (e.g., *Life*, 1912: https://books.google.co.uk/books?id=oE6vVC1I8TYC&pg=PA1&vq=%22Ben+Wade%22).
+  - (Resolved) “bee with a sore bonnet” likely riffs on “bear with a sore head” (Kipling, *The Light That Failed*, Ch. 12: https://en.wikisource.org/wiki/The_Light_That_Failed/Chapter_12).
