@@ -142,7 +142,7 @@ Template:
   - **Type:** sea/region
   - **Confidence:** `CERTAIN`
   - **Pages:** Pages/cains_jawbone_page_21.md
-  - **Notes:** Geographic allusion (“Adriatic… Illyrian hills”); likely not local setting.
+  - **Notes:** Geographic allusion (“Adriatic… Illyrian hills”), quoted from Matthew Arnold, “Empedocles on Etna” (Callicles’s song); likely not local setting. https://en.wikisource.org/wiki/The_poetical_works_of_Matthew_Arnold/Empedocles_on_Etna
 
 - **Dort (Dordrecht)**
   - **Type:** city (Netherlands)

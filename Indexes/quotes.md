@@ -154,11 +154,11 @@ Template:
   - **Research needed:** no
 
 - **Snippet:** “Far, far from here the Adriatic breaks…”
-  - **Likely source/author:** TBD
-  - **Why it matters:** Possible quotation anchor embedded in a poison/murder scene.
+  - **Likely source/author:** Matthew Arnold, “Empedocles on Etna” (Callicles’s song): https://en.wikisource.org/wiki/The_poetical_works_of_Matthew_Arnold/Empedocles_on_Etna
+  - **Why it matters:** Quote anchor embedded in a poison/murder scene; nearby “Matthew, Mark, Luke, and John” may intentionally echo the author-name (Matthew Arnold).
   - **Pages:** Pages/cains_jawbone_page_21.md
-  - **Confidence:** `MAYBE`
-  - **Research needed:** yes — identify source (and whether it anchors place/date).
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
 
 - **Snippet:** “gone the same way home”
   - **Likely source/author:** TBD (old song)

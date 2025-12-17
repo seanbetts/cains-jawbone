@@ -283,8 +283,8 @@ Template:
   - **Type:** quote
   - **Pages:** Pages/cains_jawbone_page_21.md
   - **Why it matters:** Quote anchor embedded in a Henry/victim scene; could encode place/date.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** Matthew Arnold, “Empedocles on Etna”: “Far, far from here, / The Adriatic breaks in a warm bay / Among the green Illyrian hills…” https://en.wikisource.org/wiki/The_poetical_works_of_Matthew_Arnold/Empedocles_on_Etna
 
 - **Item:** Identify “John and Cornelius, the Dort people” + the “good one in prison” whose birthday is referenced
   - **Type:** date/name

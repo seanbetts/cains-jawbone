@@ -10,7 +10,8 @@ To reckon with Henry! That was never easy. Just beyond the laurels, I turned sha
 - **Time markers:**
   - CERTAIN: “on the very day” narrator “proved digitalis purpurea”.
 - **Quotes & allusions:**
-  - MAYBE: “Far, far from here the Adriatic breaks…” (source TBD).
+  - CERTAIN: “Far, far from here, / The Adriatic breaks…” is Matthew Arnold, “Empedocles on Etna” (lines sung by Callicles). https://en.wikisource.org/wiki/The_poetical_works_of_Matthew_Arnold/Empedocles_on_Etna
+  - MAYBE: The immediate “Matthew, Mark, Luke, and John” may be a wink at the author-name (Matthew Arnold) alongside the gospel set + Mark Twain.
   - Wordplay: “Matthew, Mark, Luke, and John. Read Mark Twain…”
 - **Motifs/continuity hooks:**
   - Poisons/heart agents: digitalis + calabar bean.
@@ -25,4 +26,4 @@ To reckon with Henry! That was never easy. Just beyond the laurels, I turned sha
   - If “victim” is later clearly metaphorical (surgical patient, etc.) rather than murder.
 - **Research needed:**
   - (Resolved) EB1911 describes digitalis as a “powerful diuretic” in small/moderate doses → “signal wash out” likely diuresis/flush.
-  - Identify the Adriatic/Illyrian line source.
+  - (Resolved) Adriatic/Illyrian line is Matthew Arnold, “Empedocles on Etna”.
