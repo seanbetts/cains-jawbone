@@ -360,15 +360,15 @@ Template:
   - **Type:** other
   - **Pages:** Pages/cains_jawbone_page_28.md
   - **Why it matters:** Book/publisher device likely identifies narrator reading and may anchor place/time.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** The passage quotes Oscar Wilde’s *The Importance of Being Earnest* (Act I, Lane: “I have only been married once… misunderstanding… No, sir; it is not a very interesting subject…”) https://en.wikisource.org/wiki/The_Importance_of_Being_Earnest/Act_I. The “single star above… sea” device is likely the publisher’s imprint/series mark but is not yet independently corroborated.
 
 - **Item:** Identify the source of “No, Sir; it is not a very interesting subject. I never think of it myself.” (Page 28)
   - **Type:** quote
   - **Pages:** Pages/cains_jawbone_page_28.md
   - **Why it matters:** Distinctive line might identify a speaker/source text and help cluster pages.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** Oscar Wilde, *The Importance of Being Earnest*, Act I (spoken by Lane): https://en.wikisource.org/wiki/The_Importance_of_Being_Earnest/Act_I
 
 - **Item:** Clarify the poison/plant list on Page 29 (lobelia, “lords and ladies”) and what “the broad ones” are
   - **Type:** term/other

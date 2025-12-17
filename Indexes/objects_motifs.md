@@ -304,7 +304,7 @@ Template:
 - **Book device (star above sea)**
   - **Instances / variants:** blind-tooled green binding with “single star above what was perhaps a sea”; “tenth edition (1917)”
   - **Pages:** Pages/cains_jawbone_page_28.md
-  - **Notes:** Publisher/series identifier; likely an anchor for narrator’s reading.
+  - **Notes:** Likely *The Importance of Being Earnest* (Oscar Wilde): the page quotes Act I verbatim (Lane) and states “tenth edition, of 1917” (Wilde text: https://en.wikisource.org/wiki/The_Importance_of_Being_Earnest/Act_I). The “single star above… sea” device is likely the publisher/series mark.
 
 - **Forgery / “forging ahead”**
   - **Instances / variants:** “Forging ahead… since the woman was not yet dead.”; “mimic artistry”; “falser hand”

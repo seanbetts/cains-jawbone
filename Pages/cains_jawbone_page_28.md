@@ -6,6 +6,7 @@ I found myself by that one of the windows which overlooked the stone broach spir
   - CERTAIN: Pluckley church (Kent) + its “stone broach spire”.
   - MAYBE: narrator (reading; planning something “ticklish”).
   - MAYBE: “the woman” (not yet dead; target of “forging ahead” scheme).
+  - CERTAIN: the quoted “married once… misunderstanding… No, sir…” lines are from Oscar Wilde, *The Importance of Being Earnest*, Act I (Lane): https://en.wikisource.org/wiki/The_Importance_of_Being_Earnest/Act_I.
 - **Time markers:**
   - CERTAIN: “tenth edition, of 1917” (book edition).
 - **Motifs/continuity hooks:**
@@ -19,5 +20,5 @@ I found myself by that one of the windows which overlooked the stone broach spir
 - **Disconfirming evidence:**
   - If “forging ahead” later proves to be a non-criminal metaphor unrelated to documents.
 - **Research needed:**
-  - Identify the 1917 tenth-edition book via its device (star above sea) and title/topic.
+  - (Resolved) 1917 tenth-edition book: Oscar Wilde, *The Importance of Being Earnest* (the page quotes Act I verbatim): https://en.wikisource.org/wiki/The_Importance_of_Being_Earnest/Act_I. (Device likely a publisher’s mark; not yet corroborated.)
   - Confirm what “stone broach spire” rarity implies (place/route constraint).

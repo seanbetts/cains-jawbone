@@ -182,11 +182,11 @@ Template:
   - **Research needed:** no
 
 - **Snippet:** “No, Sir; it is not a very interesting subject. I never think of it myself.”
-  - **Likely source/author:** TBD
-  - **Why it matters:** Distinctive evasive line; could identify a source text and cluster the narrator.
+  - **Likely source/author:** Oscar Wilde, *The Importance of Being Earnest*, Act I (Lane): https://en.wikisource.org/wiki/The_Importance_of_Being_Earnest/Act_I.
+  - **Why it matters:** Confirms Wilde dialogue embedded verbatim; supports identifying the Page 28 pocket volume as *The Importance of Being Earnest* (tenth edition, 1917 per page text).
   - **Pages:** Pages/cains_jawbone_page_28.md
-  - **Confidence:** `MAYBE`
-  - **Research needed:** yes — identify source (and whether it’s being quoted verbatim).
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
 
 - **Snippet:** “this savours not of death, this hath a relish of eternity.”
   - **Likely source/author:** TBD
