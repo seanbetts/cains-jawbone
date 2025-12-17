@@ -22,5 +22,5 @@ He always talked to me about murder, when we were alone together. And that day h
 - **Disconfirming evidence:**
   - If later pages show human POV here (tail “vibration” is a metaphor) or Flora/Jasmine are people.
 - **Research needed:**
-  - (Resolved) John/Cornelius “Dort people” = De Witt brothers; date likely points to John de Witt’s birthday (24 Sept).
+  - (Resolved) John/Cornelius “Dort people” = De Witt brothers; “birthday of a good one in prison” most likely points to Cornelius de Witt’s birthday (15 June 1623).
   - Clarify whether Tusitala is an allusion (Stevenson) or a named pet/visitor.

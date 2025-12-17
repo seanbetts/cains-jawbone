@@ -175,11 +175,11 @@ Template:
   - **Research needed:** no
 
 - **Snippet:** “gone the same way home”
-  - **Likely source/author:** TBD (old song)
-  - **Why it matters:** Potential date/voice anchor in a time-obsession passage.
+  - **Likely source/author:** “All Go the Same Way Home” (old song; title referenced in *The Literary Digest*, 1914: https://books.google.co.uk/books?id=GFENffy9hgwC&pg=PA890&vq=%22All+Go+the%22).
+  - **Why it matters:** Paired with Jeremy Taylor + Eugène Sue and “to-day,” suggesting a possible calendar hook (3 Aug via Sue’s death date + Taylor’s fever onset).
   - **Pages:** Pages/cains_jawbone_page_25.md
-  - **Confidence:** `MAYBE`
-  - **Research needed:** yes — identify song.
+  - **Confidence:** `LIKELY`
+  - **Research needed:** no
 
 - **Snippet:** “No, Sir; it is not a very interesting subject. I never think of it myself.”
   - **Likely source/author:** TBD

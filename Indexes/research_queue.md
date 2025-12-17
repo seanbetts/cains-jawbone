@@ -332,8 +332,8 @@ Template:
   - **Type:** quote/date/other
   - **Pages:** Pages/cains_jawbone_page_25.md
   - **Why it matters:** Might be a precise date anchor and a place-name hint (Didling).
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** Likely refers to the old song “All Go the Same Way Home” (song-title discussed in *The Literary Digest*, 1914: https://books.google.co.uk/books?id=GFENffy9hgwC&pg=PA890&vq=%22All+Go+the%22). “to-day” may be intended as a 3 Aug calendar hook via Eugène Sue’s death date (3 Aug 1857, EB1911: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Sue,_Eug%C3%A8ne) and Jeremy Taylor’s fever onset on 3 Aug 1667 (*The Living Age*, 1871: https://books.google.co.uk/books?id=FaRIAQAAMAAJ&pg=PA8), though Taylor’s death date is 13 Aug 1667 (EB1911: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Taylor,_Jeremy). Didling is a real Sussex place (e.g., “Didling Hill, above Didling” in *Highways and Byways in Sussex*, Chapter 2: https://en.wikisource.org/wiki/Highways_and_Byways_in_Sussex/Chapter_2).
 
 - **Item:** Identify “Ben Wade” (and why Hodge asks about him) on Page 26
   - **Type:** name/other

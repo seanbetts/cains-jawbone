@@ -162,11 +162,11 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_24.md
   - **Notes:** “Ahkoond/Akhund of Swat” refers to the Akhund of Swat, Abdul Ghafur (1794–1877), religious leader in Swat. (EB1911 “Swat”: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Swat)
 
-- **Didling (uncertain)**
-  - **Type:** village/hamlet (likely)
-  - **Confidence:** `MAYBE`
+- **Didling**
+  - **Type:** village/hamlet
+  - **Confidence:** `CERTAIN`
   - **Pages:** Pages/cains_jawbone_page_25.md
-  - **Notes:** Appears via Dolittle→Didlittle→Didling wordplay; narrator “woke… at” it.
+  - **Notes:** Real Sussex place (“Didling Hill, above Didling” in *Highways and Byways in Sussex*, Chapter 2: https://en.wikisource.org/wiki/Highways_and_Byways_in_Sussex/Chapter_2); appears via Dolittle→Didlittle→Didling wordplay and narrator says they “woke… at” it.
 
 - **Pluckley church**
   - **Type:** church

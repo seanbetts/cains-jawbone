@@ -3,13 +3,13 @@ After I might just as easily have been a literary bloke, like Jeremy Taylor or E
 ## Notes
 
 - **Entities:**
-  - CERTAIN: Jeremy Taylor (reference).
-  - CERTAIN: Eugene Sue (reference).
+  - CERTAIN: Jeremy Taylor (1613–1667); died 13 Aug 1667 (EB1911: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Taylor,_Jeremy).
+  - CERTAIN: Eugène Sue (1804–1857); died 3 Aug 1857 (EB1911: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Sue,_Eug%C3%A8ne).
 - **Time markers:**
-  - CERTAIN: “to-day” (date anchor candidate tied to the old song / named references).
+  - LIKELY: “to-day” may be 3 Aug (Sue’s death date; Taylor “attacked by fever” on 3 Aug 1667 per *The Living Age* (1871): https://books.google.co.uk/books?id=FaRIAQAAMAAJ&pg=PA8), though Taylor’s death was 13 Aug 1667 (EB1911).
   - CERTAIN: “that morning” and waking “at the former” (= Didling, via wordplay).
 - **Quotes & allusions:**
-  - MAYBE: “gone the same way home” (old song; source TBD).
+  - LIKELY: “gone the same way home” echoes the old song “All Go the Same Way Home” (title referenced as a song in *The Literary Digest*, 1914: https://books.google.co.uk/books?id=GFENffy9hgwC&pg=PA890&vq=%22All+Go+the%22).
 - **Wordplay:**
   - Dolittle → Didlittle → Didling / didlet (place-name hint).
 - **Motifs/continuity hooks:**
@@ -21,5 +21,5 @@ After I might just as easily have been a literary bloke, like Jeremy Taylor or E
 - **Disconfirming evidence:**
   - If “Didling” is not meant as a place-name but purely a wordplay dead-end.
 - **Research needed:**
-  - Identify the “gone the same way home” song.
-  - Determine why “to-day” is asserted (shared death date for Taylor/Sue? another anchor?).
+  - (Resolved) Identify the “gone the same way home” song: “All Go the Same Way Home” (*The Literary Digest*, 1914): https://books.google.co.uk/books?id=GFENffy9hgwC&pg=PA890&vq=%22All+Go+the%22.
+  - (Resolved/ambiguous) Why “to-day”: likely a 3 Aug anchor via Sue (death) + Taylor (fever onset), but Taylor’s actual death date is 13 Aug (EB1911).
