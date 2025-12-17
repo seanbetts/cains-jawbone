@@ -220,7 +220,7 @@ Template:
   - **Tells:** led “up the garden” and introduced to poisonous plants; MAYBE the “old man” repeatedly led up the garden on Page 45.
   - **Pronouns/relationships:** guest/victim candidate.
   - **Pages:** Pages/cains_jawbone_page_29.md, Pages/cains_jawbone_page_45.md
-  - **Notes:** MAYBE connected to Peebles/mineralogy thread (Pages/cains_jawbone_page_9.md); “led up the garden” phrasing recurs.
+  - **Notes:** Not externally identifiable yet; treat as in-world placeholder. MAYBE connected to Peebles/mineralogy thread (Pages/cains_jawbone_page_9.md); “led up the garden” phrasing recurs.
 
 - `P36` — Names/aliases: Flora (household staff; uncertain)
   - **Tells:** arranged breakfast (“seven… long stout shapes”).

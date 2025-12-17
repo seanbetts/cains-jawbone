@@ -374,15 +374,15 @@ Template:
   - **Type:** term/other
   - **Pages:** Pages/cains_jawbone_page_29.md
   - **Why it matters:** Supports the plant/poison method thread and may identify the narrator’s knowledge.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** “Lobelia” likely refers to *Lobelia inflata* (“Indian tobacco”); EB1911 describes lobelia as “a typical respiratory poison” (https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Lobelia). “Lords and ladies” is a common name for *Arum maculatum* (cuckoo-pint / wake robin); EB1911 notes aroids contain an “acrid poisonous juice” (https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Aroideae). “The broad ones” are most likely broad beans (*Vicia faba*), contrasted with West African ordeal beans/physostigma (EB1911 “Bean”: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Bean).
 
 - **Item:** Identify the “old mineralogist” on Page 29 (is this a known character elsewhere?)
   - **Type:** name/other
   - **Pages:** Pages/cains_jawbone_page_29.md
   - **Why it matters:** Could connect to the Peebles/mineralogy narrator (Page 9) and support ordering/clustering.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** No unique external identification found from the term alone; treat as an in-world, unnamed person (`P35`) and track for naming/recurrence. Possible continuity hook: “led… up the garden” phrasing also appears on Pages/cains_jawbone_page_45.md; mineralogy is a strong profession-tell on Pages/cains_jawbone_page_9.md.
 
 - **Item:** Identify the source of “this savours not of death, this hath a relish of eternity” (Page 30)
   - **Type:** quote

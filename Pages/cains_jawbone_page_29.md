@@ -11,7 +11,7 @@ It had always been my habit to rise with the lark, if there was one going up at 
   - LIKELY: “botulist” (botulism/sausages) as a poison-tinged twist on “botanist”.
   - LIKELY: “led… up the garden” (echoes “up the garden path”).
 - **Motifs/continuity hooks:**
-  - Poisons/plants: West African ordeal beans (physostigma/calabar bean), lobelia, “lords and ladies” (Arum).
+  - Poisons/plants: West African ordeal beans (physostigma/Calabar bean) vs “the broad ones” (broad beans); lobelia (“Indian tobacco”) and “lords and ladies” (*Arum maculatum*).
   - Food/sausages: “seven… long stout shapes rosily bursting…” (breakfast item; botulism tie).
   - Gardening stroll + “drawing towards a close” suggests a planned end.
 - **Voice/tells:**
@@ -22,5 +22,5 @@ It had always been my habit to rise with the lark, if there was one going up at 
 - **Disconfirming evidence:**
   - If the plant list is later shown to be harmless gardening chatter with no victimization.
 - **Research needed:**
-  - What are “the broad ones” giving “satisfaction” (broad beans vs another “bean” clue)?
-  - Is the “old mineralogist” identifiable (name/title elsewhere)?
+  - (Resolved) “the broad ones” are most likely broad beans (*Vicia faba*) (EB1911 “Bean”: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Bean). Lobelia is likely *Lobelia inflata* (“Indian tobacco”), described as “a typical respiratory poison” (EB1911 “Lobelia”: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Lobelia). “Lords and ladies” is *Arum maculatum* (cuckoo-pint / wake robin); aroids contain an “acrid poisonous juice” (EB1911 “Aroideae”: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Aroideae).
+  - (Unresolved) The “old mineralogist” is not named here; track as `P35` and watch for recurrence/naming (Pages/cains_jawbone_page_45.md repeats “leading the old man up the garden”).

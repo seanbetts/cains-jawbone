@@ -312,9 +312,9 @@ Template:
   - **Notes:** Possible will/inheritance plot hook; watch for diary/pen/instrument continuity.
 
 - **Poison plants (lobelia; lords and ladies)**
-  - **Instances / variants:** lobelia; “Indian tobacco”; “pretty lords and ladies”
+  - **Instances / variants:** lobelia; “Indian tobacco” (*Lobelia inflata*); “pretty lords and ladies” (*Arum maculatum*; cuckoo-pint / wake robin)
   - **Pages:** Pages/cains_jawbone_page_29.md, Pages/cains_jawbone_page_75.md
-  - **Notes:** Reinforces poison-garden experimentation motif; Page 75 frames “Indian tobacco” as a blight-killing remedy (watch for double-use as poison).
+  - **Notes:** Lobelia (“Indian tobacco”) is *Lobelia inflata*; EB1911 describes lobelia as “a typical respiratory poison” (https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Lobelia). “Lords and ladies” is *Arum maculatum* (cuckoo-pint / wake robin); EB1911 notes aroids contain an “acrid poisonous juice” (https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Aroideae). Reinforces poison-garden experimentation motif; Page 75 frames “Indian tobacco” as a blight-killing remedy (watch for double-use as poison).
 
 - **Marigolds / calendula**
   - **Instances / variants:** “marigolds”; “Calendula… calends… almost everie month”
