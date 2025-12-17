@@ -211,6 +211,11 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_23.md
   - **Notes:** Page 23 mixes match imagery with Oscar Wilde’s “Requiescat” (“Tread lightly… / Under the snow” → “Rub gently… under the snow”) and Francis Thompson’s “Dream-Tryst” (“Nor can her eyes go out”), plus a nod to Thompson selling matches (Catholic Encyclopedia, 1913). https://en.wikisource.org/wiki/The_Writings_of_Oscar_Wilde/Volume_1/Requiescat ; https://en.wikisource.org/wiki/Poems_(Thompson)/Dream-Tryst ; https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Francis_Thompson
 
+- **Rail travel / left-luggage office**
+  - **Instances / variants:** “Left Luggage Office”
+  - **Pages:** Pages/cains_jawbone_page_23.md
+  - **Notes:** Railway-station luggage office/storage (e.g., *When William Came*, Chapter II lists “booking office, left-luggage office…” as station signage). https://en.wikisource.org/wiki/When_William_Came/Chapter_II
+
 - **Cigarettes (Gianaclis)**
   - **Instances / variants:** “Puffing at Gianaclis”
   - **Pages:** Pages/cains_jawbone_page_24.md

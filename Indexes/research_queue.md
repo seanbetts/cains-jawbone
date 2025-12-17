@@ -311,8 +311,8 @@ Template:
   - **Type:** name/place/other
   - **Pages:** Pages/cains_jawbone_page_23.md
   - **Why it matters:** Names may hide a clue (animal pedigree vs people); Left Luggage Office may be a scene anchor.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** No clear pre-1934 external “Blackwood siblings” reference found; the given names do have explicit meanings in Chambers (1908) “Christian Names” (Fidelia = faithful; Faustina = fortunate; Flora = flowers; Ebenezer = “stone of help”), suggesting deliberate name-choice/wordplay. “Hocks” supports an animal reading (Chambers 1908: hough/hock = hind-leg joint of a quadruped). “Left Luggage Office” is railway-station luggage storage/office (e.g., *When William Came*, Chapter II: “booking office, left-luggage office…”). Sources: https://en.wikisource.org/wiki/Chambers%27s_Twentieth_Century_Dictionary_1908/The_More_Common_English_Christian_Names ; https://en.wikisource.org/wiki/Chambers%27s_Twentieth_Century_Dictionary_1908/Holywell_Hurry ; https://en.wikisource.org/wiki/When_William_Came/Chapter_II
 
 - **Item:** Confirm the Clement pope-name clue on Page 24 (14 popes + 2 anti-popes) and whether it identifies the narrator as Clement
   - **Type:** name/other

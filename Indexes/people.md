@@ -172,13 +172,13 @@ Template:
   - **Tells:** described marching by on “muscular pink hocks”.
   - **Pronouns/relationships:** sister of Ebenezer Blackwood.
   - **Pages:** Pages/cains_jawbone_page_23.md
-  - **Notes:** Could be a person vs named animal; the “hocks” description suggests animal.
+  - **Notes:** Could be a person vs named animal; “hocks” suggests animal anatomy (Chambers 1908: hough/hock = hind-leg joint of a quadruped). https://en.wikisource.org/wiki/Chambers%27s_Twentieth_Century_Dictionary_1908/Holywell_Hurry. Chambers (1908) also lists the given names as meaningful Christian names: Fidelia = faithful; Faustina = fortunate; Flora = flowers. https://en.wikisource.org/wiki/Chambers%27s_Twentieth_Century_Dictionary_1908/The_More_Common_English_Christian_Names
 
 - `P28` — Names/aliases: Ebenezer Blackwood
   - **Tells:** named as sibling anchor for Fidelia Faustina Flora Blackwood.
   - **Pronouns/relationships:** brother of Fidelia Faustina Flora Blackwood.
   - **Pages:** Pages/cains_jawbone_page_23.md
-  - **Notes:** As above.
+  - **Notes:** Chambers (1908) gives Ebenezer as a Christian name meaning “the stone of help”. https://en.wikisource.org/wiki/Chambers%27s_Twentieth_Century_Dictionary_1908/The_More_Common_English_Christian_Names
 
 - `P29` — Names/aliases: Caroline
   - **Tells:** narrator’s suspicions “well-founded”.

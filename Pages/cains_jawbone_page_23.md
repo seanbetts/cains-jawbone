@@ -11,6 +11,7 @@ I hate seeing things like this in the paper. Bill to Solve the Traffic Problem. 
   - MAYBE: “Wimpole Street singer” (Elizabeth Barrett Browning reference).
   - MAYBE: “my guest” (shares a name with a Duchess; unclear which).
   - CERTAIN: Fidelia Faustina Flora Blackwood; Ebenezer Blackwood (named as siblings).
+  - CERTAIN: Name meanings (Chambers 1908 “Christian Names”): Fidelia = “faithful”; Faustina = “fortunate”; Flora = “flowers”; Ebenezer = “stone of help”. https://en.wikisource.org/wiki/Chambers%27s_Twentieth_Century_Dictionary_1908/The_More_Common_English_Christian_Names
   - MAYBE: Alexander (has “first” and “second” in the Left Luggage Office).
 - **Quotes & allusions:**
   - CERTAIN: “Bryant and… May” (match brand).
@@ -21,6 +22,7 @@ I hate seeing things like this in the paper. Bill to Solve the Traffic Problem. 
 - **Motifs/continuity hooks:**
   - Matches: matchbox rhythm; “ends” not dropping; “eyes” not going out; “under the snow” (match head imagery).
   - Rail/travel: Left Luggage Office.
+  - “Hocks” suggests an animal/quadrupled anatomy (Chambers 1908: hough/hock = hind-leg joint of a quadruped). https://en.wikisource.org/wiki/Chambers%27s_Twentieth_Century_Dictionary_1908/Holywell_Hurry
   - Alcohol: rum line.
 - **Voice/tells:**
   - Rapid associative allusion; self-reproach about “letting the dear girl down”.
@@ -30,5 +32,5 @@ I hate seeing things like this in the paper. Bill to Solve the Traffic Problem. 
   - If Bryant & May is later shown to be a person-pair rather than the match company.
 - **Research needed:**
   - Resolved: rum/Cathleen lines trace to Masefield, “Captain Stratton’s Fancy” (see Indexes/quotes.md).
-  - Clarify the Blackwood names (people, animals, or coded reference) and the Left Luggage Office “first/second”.
+  - Resolved (partial): “Left Luggage Office” is the railway-station luggage office for deposited baggage (e.g., “booking office, left-luggage office…” in *When William Came*, Chapter II). https://en.wikisource.org/wiki/When_William_Came/Chapter_II. “First/second” remains ambiguous.
   - Identify which Duchess shares a name with the narrator’s “guest”.
