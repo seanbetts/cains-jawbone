@@ -139,6 +139,20 @@ Template:
   - **Confidence:** `CERTAIN`
   - **Research needed:** no
 
+- **Snippet:** “Tread lightly, she is near / Under the snow”
+  - **Likely source/author:** Oscar Wilde, “Requiescat”: https://en.wikisource.org/wiki/The_Writings_of_Oscar_Wilde/Volume_1/Requiescat
+  - **Why it matters:** Page 23 adapts it into match imagery (“Rub gently…”) alongside Bryant & May.
+  - **Pages:** Pages/cains_jawbone_page_23.md
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
+
+- **Snippet:** “Nor can her eyes go out.”
+  - **Likely source/author:** Francis Thompson, “Dream-Tryst”: https://en.wikisource.org/wiki/Poems_(Thompson)/Dream-Tryst
+  - **Why it matters:** Page 23 quote anchor embedded in match imagery; paired with a biographical nod that Thompson sold matches.
+  - **Pages:** Pages/cains_jawbone_page_23.md
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
+
 - **Snippet:** “Underneath this stone doth lie / As much Beauty as could die…”
   - **Likely source/author:** Ben Jonson, epitaph “On Elizabeth L. H.” (printed in *Oxford Book of English Verse 1250–1900*, ed. Quiller-Couch, 1931): https://en.wikisource.org/wiki/Oxford_Book_of_English_Verse_1250-1900/On_Elizabeth_L._H.
   - **Why it matters:** Quote anchor on Page 20; reinforces the Will/Ben (Shakespeare/Jonson) allusion chain.

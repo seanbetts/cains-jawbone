@@ -304,8 +304,8 @@ Template:
   - **Type:** other
   - **Pages:** Pages/cains_jawbone_page_23.md
   - **Why it matters:** Could be a precise literary/historical allusion (matchgirls) used for dating/clustering.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** Page 23 blends match imagery with Oscar Wilde’s “Requiescat” (“Tread lightly, she is near / Under the snow” → “Rub gently, she is here, under the snow”) and Francis Thompson’s “Dream-Tryst” (“Nor can her eyes go out”), plus a biographical nod that Thompson “earn[ed] a few pence by selling matches” (Catholic Encyclopedia, 1913). Sources: Wilde “Requiescat”: https://en.wikisource.org/wiki/The_Writings_of_Oscar_Wilde/Volume_1/Requiescat ; Thompson “Dream-Tryst”: https://en.wikisource.org/wiki/Poems_(Thompson)/Dream-Tryst ; Catholic Encyclopedia (1913) “Francis Thompson”: https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Francis_Thompson
 
 - **Item:** Who are Fidelia Faustina Flora Blackwood and Ebenezer Blackwood, and what is the “Left Luggage Office” reference?
   - **Type:** name/place/other

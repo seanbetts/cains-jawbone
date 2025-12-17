@@ -7,14 +7,16 @@ I hate seeing things like this in the paper. Bill to Solve the Traffic Problem. 
 - **Entities:**
   - CERTAIN: Bryant & May (match company reference).
   - CERTAIN: Francis Thompson (poet; “sold matches” claim).
-  - MAYBE: Oscar (likely Oscar Wilde reference).
+  - CERTAIN: Oscar = Oscar Wilde (“Requiescat” allusion).
   - MAYBE: “Wimpole Street singer” (Elizabeth Barrett Browning reference).
   - MAYBE: “my guest” (shares a name with a Duchess; unclear which).
   - CERTAIN: Fidelia Faustina Flora Blackwood; Ebenezer Blackwood (named as siblings).
   - MAYBE: Alexander (has “first” and “second” in the Left Luggage Office).
 - **Quotes & allusions:**
   - CERTAIN: “Bryant and… May” (match brand).
-  - MAYBE: “Toll slowly… match box rhythm” / “Rub gently…” (match-lighting imagery; matchgirls context?).
+  - CERTAIN: Oscar Wilde, “Requiescat”: “Tread lightly, she is near / Under the snow” → here adapted as “Rub gently, she is here, under the snow” (match-striking cue). https://en.wikisource.org/wiki/The_Writings_of_Oscar_Wilde/Volume_1/Requiescat
+  - CERTAIN: Francis Thompson, “Dream-Tryst”: “Nor can her eyes go out.” https://en.wikisource.org/wiki/Poems_(Thompson)/Dream-Tryst
+  - CERTAIN: Francis Thompson biographical detail: he “earn[ed] a few pence by selling matches” (Catholic Encyclopedia, 1913): https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Francis_Thompson
   - CERTAIN: John Masefield, “Captain Stratton’s Fancy” — “But rum alone’s the tipple, and the heart’s delight …” (continues on Page 24 with a substituted next line): https://en.wikisource.org/wiki/Captain_Stratton%27s_Fancy.
 - **Motifs/continuity hooks:**
   - Matches: matchbox rhythm; “ends” not dropping; “eyes” not going out; “under the snow” (match head imagery).

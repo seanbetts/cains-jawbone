@@ -209,7 +209,7 @@ Template:
 - **Matches / matchboxes**
   - **Instances / variants:** matchbox rhythm; “rub gently”; Bryant & May; “ends”/“eyes” not going out
   - **Pages:** Pages/cains_jawbone_page_23.md
-  - **Notes:** Potential matchgirl-strike/cultural allusion; track recurrence.
+  - **Notes:** Page 23 mixes match imagery with Oscar Wilde’s “Requiescat” (“Tread lightly… / Under the snow” → “Rub gently… under the snow”) and Francis Thompson’s “Dream-Tryst” (“Nor can her eyes go out”), plus a nod to Thompson selling matches (Catholic Encyclopedia, 1913). https://en.wikisource.org/wiki/The_Writings_of_Oscar_Wilde/Volume_1/Requiescat ; https://en.wikisource.org/wiki/Poems_(Thompson)/Dream-Tryst ; https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Francis_Thompson
 
 - **Cigarettes (Gianaclis)**
   - **Instances / variants:** “Puffing at Gianaclis”
