@@ -128,9 +128,15 @@ Template:
 
 - **River Mole (implied)**
   - **Type:** river
-  - **Confidence:** `LIKELY`
+  - **Confidence:** `CERTAIN`
   - **Pages:** Pages/cains_jawbone_page_20.md
-  - **Notes:** “by the Mole”; paired with “oldest brass in England” inscription (possible location anchor).
+  - **Notes:** “by the Mole”; EB1911 lists the Mole as a chief Surrey river (reaching the Thames at East Molesey), and Page 20’s “oldest brass in England” points to Stoke d’Abernon church in Surrey. https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Surrey
+
+- **Stoke d’Abernon (Surrey)**
+  - **Type:** village/church
+  - **Confidence:** `CERTAIN`
+  - **Pages:** Pages/cains_jawbone_page_20.md
+  - **Notes:** Page 20’s “oldest brass in England” inscription matches the brass of Sir John d’Aubernoun (c. 1277) at Stoke d’Abernon church, Surrey (earliest extant English brass). https://en.wikisource.org/wiki/A_Complete_Guide_to_Heraldry/Chapter_4 ; https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Brasses,_Monumental ; https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Surrey
 
 - **Adriatic (warm bay / Illyrian hills)**
   - **Type:** sea/region

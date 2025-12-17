@@ -194,7 +194,7 @@ Template:
 - **Brasses / inscriptions**
   - **Instances / variants:** “oldest brass in England” inscription naming “Sire Iohan Daubernoun”
   - **Pages:** Pages/cains_jawbone_page_20.md
-  - **Notes:** Strong antiquarian location anchor; pair with River Mole mention.
+  - **Notes:** Strong antiquarian location anchor: the “Sire Iohan Daubernoun” inscription matches the brass of Sir John d’Aubernoun (c. 1277) at Stoke d’Abernon church, Surrey (described as the earliest extant English brass). https://en.wikisource.org/wiki/A_Complete_Guide_to_Heraldry/Chapter_4 ; https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Brasses,_Monumental
 
 - **Strong tea + first pill**
   - **Instances / variants:** “my strong tea, and my first pill”; “I took a pill… it was worth it”; “I took two pills”

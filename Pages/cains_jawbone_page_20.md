@@ -5,7 +5,7 @@ The best I had done seemed to me blank and suspicious, my great thoughts as I su
 - **Entities:**
   - MAYBE: Will (likely Shakespeare); Ben (likely Ben Jonson); Will’s wife (likely Anne Hathaway via “second-best bed”).
   - MAYBE: “bricklayer out of Annandale” (Ben Jonson clue) and “inheritor of the second-best bed” (Anne Hathaway clue).
-  - CERTAIN: Sir Iohan Daubernoun (named on brass inscription).
+  - CERTAIN: Sir John d’Aubernoun (D’Abernon), knight (c. 1277), named on the “oldest brass in England” inscription at Stoke d’Abernon, Surrey. (Fox-Davies, 1909: https://en.wikisource.org/wiki/A_Complete_Guide_to_Heraldry/Chapter_4 ; EB1911: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Brasses,_Monumental)
 - **Time markers:**
   - CERTAIN: “Next day…”
   - MAYBE: “my waking… my strong tea, and my first pill” (morning routine).
@@ -16,7 +16,8 @@ The best I had done seemed to me blank and suspicious, my great thoughts as I su
   - Antiquarian anchor: “oldest brass in England” inscription (French/Latinized spelling).
   - Circling/returning (“circled and circled… arrived home again, we two”).
 - **Places:**
-  - CERTAIN: “by the Mole” (River Mole implied).
+  - CERTAIN: “by the Mole” (River Mole, Surrey; the “oldest brass” points to Stoke d’Abernon church). (EB1911 “Surrey”: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Surrey)
+  - CERTAIN: Stoke d’Abernon (Surrey) church (earliest extant English brass: Sir John d’Aubernoun). (Fox-Davies, 1909: https://en.wikisource.org/wiki/A_Complete_Guide_to_Heraldry/Chapter_4)
 - **Voice/tells:**
   - Antiquarian/inscription interest; literary-name riddling (Will/Ben/bed).
 - **Ordering hypotheses:**
@@ -25,4 +26,4 @@ The best I had done seemed to me blank and suspicious, my great thoughts as I su
   - If “Mole” later resolves to something non-geographic (pet/name) rather than the river.
 - **Research needed:**
   - Identify the epitaph line (“Underneath this stone… Beauty…”) and who “he” is.
-  - Confirm the “oldest brass in England” location (Sir John Daubernoun) and whether it anchors a specific place sequence.
+  - (Resolved) “oldest brass in England” = Sir John d’Aubernoun at Stoke d’Abernon church, Surrey.

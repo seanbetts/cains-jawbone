@@ -262,8 +262,8 @@ Template:
   - **Type:** place/other
   - **Pages:** Pages/cains_jawbone_page_20.md
   - **Why it matters:** Strong location anchor for ordering/travel constraints.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** The inscription matches the marginal Norman‑French text on the brass of Sir John d’Aubernoun (c. 1277) at Stoke d’Abernon church, Surrey, described as the earliest extant English brass. Sources: Fox-Davies, *A Complete Guide to Heraldry* (1909), ch. 4: https://en.wikisource.org/wiki/A_Complete_Guide_to_Heraldry/Chapter_4 ; EB1911 “Brasses, Monumental”: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Brasses,_Monumental ; EB1911 “Surrey”: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Surrey (also notes the River Mole as a chief Surrey river, consistent with “by the Mole”).
 
 - **Item:** Identify the epitaph line “Underneath this stone… as much Beauty as could die”
   - **Type:** quote
