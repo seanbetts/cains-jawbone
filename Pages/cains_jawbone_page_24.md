@@ -11,7 +11,7 @@ Next day I saw that my suspicions of Caroline had been well-founded. This was an
   - CERTAIN: Gianaclis (cigarettes brand).
   - CERTAIN: Giulio de Medici (Pope Clement VII) (reference).
   - CERTAIN: Aunt Cynthia.
-  - CERTAIN: Ahkoond of Swat (reference).
+  - CERTAIN: Ahkoond (Akhund) of Swat = Abdul Ghafur (1794–1877), religious leader who dominated Swat; “Ahkoond” is a variant spelling. (EB1911 “Swat”: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Swat)
 - **Time markers:**
   - CERTAIN: “Next day…”
 - **Quotes & allusions:**
@@ -31,4 +31,4 @@ Next day I saw that my suspicions of Caroline had been well-founded. This was an
   - If later text explicitly gives a different narrator name (not Clement) or shows the pope-count is a red herring.
 - **Research needed:**
   - (Resolved) EB1911 “Clement” matches the “fourteen popes and two anti-popes” formulation.
-  - Identify the Ahkoond of Swat reference source and whether it links elsewhere.
+  - (Resolved) Ahkoond of Swat = Abdul Ghafur (1794–1877) per EB1911 “Swat”.

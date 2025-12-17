@@ -325,8 +325,8 @@ Template:
   - **Type:** quote/other
   - **Pages:** Pages/cains_jawbone_page_24.md
   - **Why it matters:** Potential shared-allusion anchor for narrator clustering.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** “Ahkoond/Akhund of Swat” refers to the Akhund of Swat, Abdul Ghafur (1794–1877), a religious leader who held long “religious dominance” in Swat. EB1911 “Swat”: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Swat
 
 - **Item:** Identify the “gone the same way home” song and why “to-day” is asserted alongside Jeremy Taylor + Eugene Sue
   - **Type:** quote/date/other

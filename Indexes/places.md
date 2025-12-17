@@ -160,7 +160,7 @@ Template:
   - **Type:** region/valley
   - **Confidence:** `CERTAIN`
   - **Pages:** Pages/cains_jawbone_page_24.md
-  - **Notes:** “Ahkoond of Swat” reference.
+  - **Notes:** “Ahkoond/Akhund of Swat” refers to the Akhund of Swat, Abdul Ghafur (1794–1877), religious leader in Swat. (EB1911 “Swat”: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Swat)
 
 - **Didling (uncertain)**
   - **Type:** village/hamlet (likely)
