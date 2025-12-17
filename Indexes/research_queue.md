@@ -318,8 +318,8 @@ Template:
   - **Type:** name/other
   - **Pages:** Pages/cains_jawbone_page_24.md
   - **Why it matters:** Could identify a narrator/character and link to other Clement mentions (Page 3).
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** EB1911 “Clement” opens “the name of fourteen popes and two anti-popes,” matching the Page 24 formulation and supporting “Clement” as a deliberate name clue. https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Clement
 
 - **Item:** Identify the Ahkoond of Swat reference and whether it links to other pages
   - **Type:** quote/other

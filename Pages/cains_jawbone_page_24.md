@@ -17,7 +17,7 @@ Next day I saw that my suspicions of Caroline had been well-founded. This was an
 - **Quotes & allusions:**
   - CERTAIN: “Of Cathleen, the daughter of Houlihan” appears to be a deliberate substitution for Masefield’s “Says the old bold mate of Henry Morgan” (*Captain Stratton’s Fancy*): https://en.wikisource.org/wiki/Captain_Stratton%27s_Fancy.
   - CERTAIN: “the quality of mercy” (Shakespeare, Merchant of Venice).
-  - MAYBE: name clue: “fourteen popes and two anti-popes” strongly points to the name Clement.
+  - CERTAIN: name clue: “fourteen popes and two anti-popes” → “Clement” (EB1911 “Clement” opens “the name of fourteen popes and two anti-popes”). https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Clement
 - **Motifs/continuity hooks:**
   - Flowers/plants: wild jasmine, roses, hellebore.
   - Smoking; self-reproach.
@@ -30,5 +30,5 @@ Next day I saw that my suspicions of Caroline had been well-founded. This was an
 - **Disconfirming evidence:**
   - If later text explicitly gives a different narrator name (not Clement) or shows the pope-count is a red herring.
 - **Research needed:**
-  - Confirm the “Clement” pope/antipope count usage as intentional name clue.
+  - (Resolved) EB1911 “Clement” matches the “fourteen popes and two anti-popes” formulation.
   - Identify the Ahkoond of Swat reference source and whether it links elsewhere.

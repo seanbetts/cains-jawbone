@@ -25,7 +25,7 @@ Template:
   - **Notes:** MAYBE coastal setting (“Chine”, sea).
 
 - `P03` — Names/aliases: Clement
-  - **Tells:** aliases: Clem; precise distance figure (“17,600 yards”); involved with “assassin’s wonderful substance”; strongly associated with “Clement” pope-name clue (14 popes + 2 anti-popes) and Giulio de Medici (Clement VII) reference; roses/jasmine + Gianaclis smoking context; recalled as a quiet, capable child (hushed narrator’s “brat” at age six).
+  - **Tells:** aliases: Clem; precise distance figure (“17,600 yards”); involved with “assassin’s wonderful substance”; strongly associated with “Clement” pope-name clue (“the name of fourteen popes and two anti-popes” per EB1911 “Clement”: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Clement) and Giulio de Medici (Clement VII) reference; roses/jasmine + Gianaclis smoking context; recalled as a quiet, capable child (hushed narrator’s “brat” at age six).
   - **Pronouns/relationships:** met “yesterday” by narrator on Page 3.
   - **Pages:** Pages/cains_jawbone_page_3.md, Pages/cains_jawbone_page_24.md, Pages/cains_jawbone_page_27.md, Pages/cains_jawbone_page_32.md
   - **Notes:** LIKELY the narrator of Page 24 is named Clement (pope-name clue); Page 22’s “clement to me” may be pun/overlap but is not proof.
