@@ -269,8 +269,8 @@ Template:
   - **Type:** quote
   - **Pages:** Pages/cains_jawbone_page_20.md
   - **Why it matters:** Could identify a tomb/author and connect to other epitaph allusions.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** Ben Jonson, epitaph “On Elizabeth L. H.” (“Underneath this stone doth lie / As much Beauty as could die…”), as printed in *Oxford Book of English Verse 1250–1900* (ed. Quiller-Couch, 1931): https://en.wikisource.org/wiki/Oxford_Book_of_English_Verse_1250-1900/On_Elizabeth_L._H.
 
 - **Item:** Interpret the poison/medical language around “proved digitalis purpurea… a signal wash out” and “Calabar Bean”
   - **Type:** term/other

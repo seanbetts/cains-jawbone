@@ -10,7 +10,7 @@ The best I had done seemed to me blank and suspicious, my great thoughts as I su
   - CERTAIN: “Next day…”
   - MAYBE: “my waking… my strong tea, and my first pill” (morning routine).
 - **Quotes & allusions:**
-  - MAYBE: “Underneath this stone… as much Beauty as could die” (epitaph snippet; source TBD).
+  - CERTAIN: “Underneath this stone doth lie / As much Beauty as could die…” is Ben Jonson’s epitaph “On Elizabeth L. H.” https://en.wikisource.org/wiki/Oxford_Book_of_English_Verse_1250-1900/On_Elizabeth_L._H.
 - **Motifs/continuity hooks:**
   - Pills + strong tea (possible continuity with other pill/drug pages).
   - Antiquarian anchor: “oldest brass in England” inscription (French/Latinized spelling).
@@ -25,5 +25,5 @@ The best I had done seemed to me blank and suspicious, my great thoughts as I su
 - **Disconfirming evidence:**
   - If “Mole” later resolves to something non-geographic (pet/name) rather than the river.
 - **Research needed:**
-  - Identify the epitaph line (“Underneath this stone… Beauty…”) and who “he” is.
+  - (Resolved) Epitaph line is Ben Jonson, “On Elizabeth L. H.”
   - (Resolved) “oldest brass in England” = Sir John d’Aubernoun at Stoke d’Abernon church, Surrey.

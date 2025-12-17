@@ -139,6 +139,13 @@ Template:
   - **Confidence:** `CERTAIN`
   - **Research needed:** no
 
+- **Snippet:** “Underneath this stone doth lie / As much Beauty as could die…”
+  - **Likely source/author:** Ben Jonson, epitaph “On Elizabeth L. H.” (printed in *Oxford Book of English Verse 1250–1900*, ed. Quiller-Couch, 1931): https://en.wikisource.org/wiki/Oxford_Book_of_English_Verse_1250-1900/On_Elizabeth_L._H.
+  - **Why it matters:** Quote anchor on Page 20; reinforces the Will/Ben (Shakespeare/Jonson) allusion chain.
+  - **Pages:** Pages/cains_jawbone_page_20.md
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
+
 - **Snippet:** “the quality of mercy”
   - **Likely source/author:** Shakespeare, The Merchant of Venice
   - **Why it matters:** Voice/literary tell; clusters with other Shakespeare quotations.
