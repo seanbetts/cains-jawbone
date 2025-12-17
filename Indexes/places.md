@@ -182,9 +182,9 @@ Template:
 
 - **County town on the Severn (unidentified)**
   - **Type:** town/city
-  - **Confidence:** `MAYBE`
+  - **Confidence:** `LIKELY`
   - **Pages:** Pages/cains_jawbone_page_27.md
-  - **Notes:** Lock-up reference; needs identification.
+  - **Notes:** Lock-up reference; LIKELY Shrewsbury (county town of Shropshire on the river Severn) (EB1911 “Shrewsbury”: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Shrewsbury). (Other possible county-town-on-Severn candidates include Worcester and Gloucester.)
 
 - **Quebec**
   - **Type:** city/region

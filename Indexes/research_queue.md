@@ -353,8 +353,8 @@ Template:
   - **Type:** place/other
   - **Pages:** Pages/cains_jawbone_page_27.md
   - **Why it matters:** Could anchor a specific location and link to a known case/story.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** “County town on the Severn” most likely points to Shrewsbury (county town of Shropshire; situated on the river Severn) (EB1911 “Shrewsbury”: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Shrewsbury). The “tapping… at the very walls… sign of a breach” reads as Death-as-burglar metaphor; no specific named “tapping case” source identified.
 
 - **Item:** Identify the 1917 “tenth edition” book in Page 28 (device: “single star above what was perhaps a sea”)
   - **Type:** other

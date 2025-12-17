@@ -19,5 +19,5 @@ I had seen, day after day, every sunlit or night obscured detail of the funny ol
 - **Disconfirming evidence:**
   - If “Clem” is later clearly a different person than “Clement” on Page 3 (surname/role mismatch).
 - **Research needed:**
-  - Identify the “county town on the Severn” and what case/story is being alluded to (lock-up + tapping).
+  - (Resolved/LIKELY) “county town on the Severn” likely refers to Shrewsbury (county town of Shropshire; situated on the river Severn) (EB1911 “Shrewsbury”: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Shrewsbury). “tapping… at the very walls” reads as Death-as-burglar metaphor rather than a specific named case (no clear external source yet).
   - Identify what “two on toast” refers to (food clue).

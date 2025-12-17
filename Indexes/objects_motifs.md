@@ -299,7 +299,7 @@ Template:
 - **Lock-up / tapping**
   - **Instances / variants:** “lock-up” in a county town on the Severn; “tapping” at walls/breach
   - **Pages:** Pages/cains_jawbone_page_27.md
-  - **Notes:** Suggests a specific case/story allusion; potential setting anchor.
+  - **Notes:** “County town on the Severn” is LIKELY Shrewsbury (county town of Shropshire; on the river Severn) (EB1911 “Shrewsbury”: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Shrewsbury). “tapping… sign of a breach” reads as Death-as-burglar metaphor; no specific named “tapping case” source identified.
 
 - **Book device (star above sea)**
   - **Instances / variants:** blind-tooled green binding with “single star above what was perhaps a sea”; “tenth edition (1917)”
