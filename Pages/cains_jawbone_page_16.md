@@ -10,7 +10,7 @@ One’s eyebrows were one’s own, I always thought. Though I did remember a cas
   - CERTAIN: Wilkie Bard; (Sir Harry) Lauder (music-hall references).
   - MAYBE: “man who made up for… the Russian ballet” (make-up artist).
 - **Quotes & allusions:**
-  - MAYBE: “sang o’ his love and fondly sae did I o’ mine” (song/lyric; source TBD).
+  - CERTAIN: Robert Burns, “The Banks o’ Doon” — “And ilka bird sang o’ its luve, / And fondly sae did I o’ mine.” https://en.wikisource.org/wiki/Burns%27_Popular_Songs/The_Banks_o%27_Doon
 - **Motifs/continuity hooks:**
   - Eyebrows/cosmetics: false eyebrows as “fuzzy caterpillars”; applying black.
   - Theatre/music-hall + supper: eyebrow mishap “into the clear soup”.
@@ -21,4 +21,4 @@ One’s eyebrows were one’s own, I always thought. Though I did remember a cas
 - **Disconfirming evidence:**
   - If later pages show this Henry is clearly different from other Henry scenes.
 - **Research needed:**
-  - Identify the lyric “fondly sae did I o’ mine” and whether it anchors a date/performer.
+  - None.

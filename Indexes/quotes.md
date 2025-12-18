@@ -119,11 +119,11 @@ Template:
   - **Research needed:** no
 
 - **Snippet:** “fondly sae did I o’ mine”
-  - **Likely source/author:** TBD (song/lyric; associated with Wilkie Bard/Lauder music-hall context)
-  - **Why it matters:** Performance/voice anchor; could date/locate the scene.
+  - **Likely source/author:** Robert Burns, “The Banks o’ Doon” — “And ilka bird sang o’ its luve, / And fondly sae did I o’ mine.” https://en.wikisource.org/wiki/Burns%27_Popular_Songs/The_Banks_o%27_Doon
+  - **Why it matters:** Music-hall/scots-song anchor for the Highgate Empire memory; may cluster narrator voice and repertoire references.
   - **Pages:** Pages/cains_jawbone_page_16.md
-  - **Confidence:** `MAYBE`
-  - **Research needed:** yes — identify exact song/lyric source.
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
 
 - **Snippet:** “the Human Comedy couldn’t possibly have gone on beyond to-day”
   - **Likely source/author:** Honoré de Balzac — *La Comédie humaine* (“The Human Comedy”) allusion

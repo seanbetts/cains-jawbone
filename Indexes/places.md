@@ -96,11 +96,11 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_13.md
   - **Notes:** EB1911 “Grantham” states: “A conduit dating from 1597 stands in the wide market-place.” https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Grantham
 
-- **Lyons (unidentified)**
-  - **Type:** city/venue (uncertain)
-  - **Confidence:** `MAYBE`
+- **Lyons (Lyon, France)**
+  - **Type:** city
+  - **Confidence:** `LIKELY`
   - **Pages:** Pages/cains_jawbone_page_15.md
-  - **Notes:** “my dear Lyons”; could be the city (Lyon) or a Lyons tea-shop/Corner House reference.
+  - **Notes:** “my dear Lyons” + “coming of age hours” (21:00 pun) points to Lyon, France (English “Lyons”); EB1911: “LYONS (Fr. Lyon), a city of eastern France…” https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Lyons
 
 - **Steeple Ashton**
   - **Type:** village/parish

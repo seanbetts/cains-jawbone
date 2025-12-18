@@ -35,6 +35,18 @@ Template:
     - “stops” is later used strictly in a musical/organ sense for this voice
     - no other initialism/abbreviation wordplay recurs on adjacent pages
 
+- `Pages/cains_jawbone_page_15.md`
+
+  LIKELY WORDPLAY
+  - mechanism(s): double definition
+  - span: "coming of age hours"
+  - best reading: "coming of age (21) -> “twenty-one hours” (21:00; 24-hour clock), framed via “Lyons” (Lyon, France)"
+  - confidence: high
+  - why it matters: place -> supports “Lyons” as Lyon (France) and encodes a time-of-day marker.
+  - falsifiers:
+    - “Lyons” is later clearly a J. Lyons & Co. venue in this narrator’s context (no time-zone contrast)
+    - “coming of age hours” is used literally elsewhere (not as a 21→21:00 pun)
+
 - `Pages/cains_jawbone_page_91.md`
 
   LIKELY WORDPLAY

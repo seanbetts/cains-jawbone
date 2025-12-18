@@ -219,15 +219,15 @@ Template:
   - **Type:** place
   - **Pages:** Pages/cains_jawbone_page_15.md
   - **Why it matters:** Could anchor geography/time zone (or link to other “Lyons”/Lesurques references).
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** LIKELY Lyon, France (English “Lyons”), supported by the adjacent “coming of age hours” = 21:00 (24-hour clock pun: “coming of age” = 21) and EB1911 “Lyons (Fr. Lyon), a city of eastern France…” https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Lyons
 
 - **Item:** Identify the lyric “fondly sae did I o’ mine” (music-hall context)
   - **Type:** quote
   - **Pages:** Pages/cains_jawbone_page_16.md
   - **Why it matters:** Could anchor performer/repertoire and help date or cluster narrator.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** Robert Burns, “The Banks o’ Doon” — “And ilka bird sang o’ its luve, / And fondly sae did I o’ mine.” https://en.wikisource.org/wiki/Burns%27_Popular_Songs/The_Banks_o%27_Doon
 
 - **Item:** What/where are “the Moon” and “the Dawn” in Page 17 (venues/landmarks)?
   - **Type:** place
