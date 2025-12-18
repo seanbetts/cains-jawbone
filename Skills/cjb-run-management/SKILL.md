@@ -1,5 +1,6 @@
 ---
 name: cjb-run-management
+version: 1.0
 description: Manage long-lived run branches via Worklog/current_run.txt so end-to-end workstreams are isolated, logged, and mergeable.
 ---
 
@@ -7,6 +8,9 @@ description: Manage long-lived run branches via Worklog/current_run.txt so end-t
 
 ## Purpose
 Keep exploratory work isolated per end-to-end workstream (“run”), with clear provenance and easy rollback.
+
+## Phase gating
+- **Allowed phases:** `phase-1` … `phase-6`
 
 ## Definitions
 
@@ -26,11 +30,19 @@ branch=run/20251215-codex-clustering-pass1
 agent=codex-cli
 task=clustering pass 1
 phase=phase-3
-start=2025-12-15T10:05Z
+start=2025-12-15T10:05:00Z
 notes=initial narrator clustering
 ```
 
 An empty file (or missing `branch=` line) means no active run.
+
+## Preflight (always)
+
+1. Read `Worklog/current_run.txt`.
+2. If it contains a `branch=...` entry, ensure it matches your current git branch:
+   - `git rev-parse --abbrev-ref HEAD`
+3. If you are not on the run branch, switch to it before doing any work:
+   - `git checkout <branch>`
 
 ## Start a run
 
@@ -53,9 +65,16 @@ An empty file (or missing `branch=` line) means no active run.
 - Do **not** merge other branches into the run branch.
 - Keep `Worklog/current_run.txt` stable so restarts continue on the same branch (do not edit `branch=`); update only `phase=` when the active phase changes.
 
+## Change phase during a run
+
+1. Decide the new phase (`phase-1` … `phase-6`) based on `Skills/cjb-phase-playbook/SKILL.md`.
+2. Update only the `phase=` line in `Worklog/current_run.txt`.
+3. Commit the phase change (single-purpose), e.g. `Worklog: update current run to phase-3`.
+4. Continue logging each session in `Worklog/worklog.csv` per `Skills/cjb-time-logging/SKILL.md`.
+
 ## End a run
 
-1. Ensure `python3 verify_pages.py` passes.
+1. Ensure `python3 Scripts/verify_pages.py` passes.
 2. Make a final commit summarising the run: `Run summary: <one sentence>`.
 3. Log the session end time (with final commit hash) in `Worklog/worklog.csv`.
 4. If merging to `main`, do so after the summary commit; otherwise leave the branch as-is for review.

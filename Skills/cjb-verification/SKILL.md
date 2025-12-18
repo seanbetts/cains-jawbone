@@ -1,5 +1,6 @@
 ---
 name: cjb-verification
+version: 1.0
 description: Verify Cain’s Jawbone integrity: archive hash check + ensure page body text is unchanged (Notes ignored) using the local verify script.
 ---
 
@@ -14,16 +15,18 @@ description: Verify Cain’s Jawbone integrity: archive hash check + ensure page
 
 Run:
 
-- `python3 verify_pages.py`
+- `python3 Scripts/verify_pages.py`
 
 Useful flags:
 
 - `--show-diff` to print unified diffs for mismatches
 - `--strict-whitespace` to also treat trailing whitespace as changes
 
-## When to run
+## Phase gating
+- **Allowed phases:** `phase-1` … `phase-6`
+
+## When to use
 
 - After any edits to page notes
 - After bulk refactors of index/hypothesis files (sanity check)
 - Before sharing/exporting pages
-

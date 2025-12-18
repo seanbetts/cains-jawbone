@@ -1,5 +1,6 @@
 ---
 name: cjb-phase-playbook
+version: 1.0
 description: Phase-by-phase playbook for Cain’s Jawbone. Use at the start of a run and whenever the phase changes to decide allowed actions, required Skills, required outputs, and exit conditions.
 ---
 
@@ -22,9 +23,26 @@ Provide a single authoritative, phase-specific guide for what to do next, what n
 ## Global rules (apply in all phases)
 - Never edit page body text in `Pages/cains_jawbone_page_*.md` (only under `## Notes`).
 - Never modify anything in `Archive/`.
-- Run `python3 verify_pages.py` after edits and before commits (integrity only).
+- Run `python3 Scripts/verify_pages.py` after edits and before commits (integrity only).
 - Log start/end (UTC) for every session per `Skills/cjb-time-logging/SKILL.md`.
 - Do not brute force ordering.
+
+## Skill priority (when multiple apply)
+1. `Skills/cjb-time-logging/SKILL.md` (always first/last)
+2. `Skills/cjb-verification/SKILL.md` (before commits; after any page-note edits)
+3. `Skills/cjb-index-maintenance/SKILL.md` (after any extraction/research writes)
+4. Phase-specific skill(s) for the current work
+
+## Confidence conventions (shared)
+- Use tags `MAYBE`, `LIKELY`, `CERTAIN` in indices/hypotheses.
+- When using numeric confidence (`0.0–1.0`) in ledgers:
+  - `0.00–0.19` = weak signal only
+  - `0.20–0.49` ≈ `MAYBE`
+  - `0.50–0.79` ≈ `LIKELY`
+  - `0.80–1.00` ≈ `CERTAIN`
+
+## Progress checks (optional)
+- During Phase 2, run `python3 Scripts/calculate_research_progress.py` to summarise research-queue status and index confidence distribution.
 
 ---
 
@@ -37,6 +55,8 @@ Extract signals, not meaning.
 - `Skills/cjb-page-extraction/SKILL.md`
 - `Skills/cjb-index-maintenance/SKILL.md`
 - `Skills/cjb-verification/SKILL.md`
+Optional (only when relevant):
+- `Skills/cjb-means-and-methods/SKILL.md`
 
 ### Allowed actions
 - Read each page once and populate `## Notes` only.
@@ -77,6 +97,8 @@ Collapse ambiguity caused by external references while keeping scope bounded.
 - `Skills/cjb-date-research/SKILL.md`
 - `Skills/cjb-location-research/SKILL.md`
 - `Skills/cjb-index-maintenance/SKILL.md`
+Optional:
+- `Skills/cjb-verification/SKILL.md`
 
 ### Allowed actions
 Research only items that meet at least one criterion:
@@ -93,16 +115,17 @@ Resolve by:
 ### Update files
 - `Indexes/quotes.md` (source + why it matters + page refs)
 - `Indexes/places.md`
-- `Indexes/research_queue.md` (close items or mark unresolved with reason)
+- `Indexes/research_queue.md` (close items or mark `stalled` with reason)
 - `Indexes/people.md` (only if research clarifies identity/alias)
 
 ### Forbidden actions
 - Do not order pages.
 - Do not build sequences.
+- Do not cluster pages/narrators yet (keep this for Phase 3).
 - Avoid deep research on one-off metaphors or isolated symbolism.
 
 ### Exit condition
-- Most recurring/anchoring references are resolved, or explicitly marked unresolved with a reason and confidence.
+- Most recurring/anchoring references are resolved, or explicitly marked `stalled` with a reason and confidence.
 - `Indexes/research_queue.md` is materially smaller and higher-signal.
 
 ---
@@ -115,6 +138,7 @@ Identify groups before order.
 ### Use
 - `Skills/cjb-order-hypotheses/SKILL.md` (clusters-only mode)
 - `Skills/cjb-index-maintenance/SKILL.md`
+- `Skills/cjb-narrator-profiling/SKILL.md`
 
 ### Allowed actions
 - Identify patterns across pages:
@@ -130,6 +154,7 @@ Identify groups before order.
 ### Update files
 - `Order/hypotheses.md` (clusters only; reasons + falsifiers)
 - Optional: add “cluster candidates” notes on pages under `## Notes`
+- `Indexes/narrators.md` (narrator signatures + page lists)
 - Keep indices consistent as clusters reveal duplicates/aliases
 
 ### Forbidden actions
@@ -151,6 +176,8 @@ Turn clusters into sequences.
 ### Use
 - `Skills/cjb-order-hypotheses/SKILL.md`
 - `Skills/cjb-verification/SKILL.md`
+Optional:
+- `Skills/cjb-narrator-profiling/SKILL.md`
 
 ### Allowed actions
 Within a single cluster at a time, propose internal page sequences using:
@@ -188,6 +215,8 @@ Build the full 100-page sequence.
 - `Skills/cjb-murder-analysis/SKILL.md`
 - `Skills/cjb-means-and-methods/SKILL.md`
 - `Skills/cjb-motive-and-relationships/SKILL.md`
+Optional:
+- `Skills/cjb-narrator-profiling/SKILL.md`
 
 ### Allowed actions
 - Align cluster endings to other cluster beginnings.
@@ -220,6 +249,7 @@ Break the solution, then earn confidence back.
 - `Skills/cjb-verification/SKILL.md`
 - `Skills/cjb-order-hypotheses/SKILL.md`
 - `Skills/cjb-murder-analysis/SKILL.md`
+- `Skills/cjb-falsification/SKILL.md`
 
 ### Allowed actions
 - Actively falsify:
