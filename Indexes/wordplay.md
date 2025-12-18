@@ -22,3 +22,27 @@ Template:
     - "<optional second>"
 
 ## Entries
+
+- `Pages/cains_jawbone_page_91.md`
+
+  LIKELY WORDPLAY
+  - mechanism(s): orthography
+  - span: "capitalise my third letter"
+  - best reading: "DEATH -> De’Ath (capitalise 3rd letter)"
+  - confidence: high
+  - why it matters: narrator -> self-identification marker (stylised name) for this voice segment
+  - falsifiers:
+    - "third letter" points to a different formatting system on other pages
+    - later text explicitly gives a different name for this narrator
+
+- `Pages/cains_jawbone_page_95.md`
+
+  LIKELY WORDPLAY
+  - mechanism(s): allusion + charade
+  - span: "Leda and Hebe, I gave my swan a drink"
+  - best reading: "Leda (swan) + Hebe (cupbearer) -> “swan a drink” = inking/filling a Swan fountain pen"
+  - confidence: high
+  - why it matters: motif -> writing/pen/ink ritual marker for this narrator segment
+  - falsifiers:
+    - “my swan” is later clearly literal (bird), not a writing tool
+    - “Swan” never recurs as a pen/ink brand/motif elsewhere

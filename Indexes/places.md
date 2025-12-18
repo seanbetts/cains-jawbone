@@ -28,13 +28,13 @@ Template:
   - **Type:** venue/institution (unknown)
   - **Confidence:** `MAYBE`
   - **Pages:** Pages/cains_jawbone_page_1.md
-  - **Notes:** “is full… already”; “chine” is a coastal ravine/gorge to the sea (term used on the Hampshire/Dorset and Isle of Wight coasts, e.g. Boscombe Chine), so this reads like a venue/church/institution situated in such a ravine; “St. Lazarus” may also imply a lazar-house/lazaretto (hospital for plague/leprosy/contagious disease per EB1911 “Lazar”); still not identified.
+  - **Notes:** “is full… already”; Chambers (1908) defines “chine” as “a ravine” (https://en.wikisource.org/wiki/Chambers%27s_Twentieth_Century_Dictionary_1908/Chapman_Chrysoprase) and “Lazar-house” as “a lazaretto” (https://en.wikisource.org/wiki/Chambers%27s_Twentieth_Century_Dictionary_1908/Lawk_Liebig), so this reads like a (possibly in-world) lazaretto/infirmary in a coastal ravine; no specific real-world institution pinned.
 
 - **Chine (coastal ravine)**
   - **Type:** landform
   - **Confidence:** `CERTAIN`
   - **Pages:** Pages/cains_jawbone_page_1.md
-  - **Notes:** Used for narrow gorges down which streams reach the sea (e.g., Boscombe Chine on the south coast); helps interpret “St. Lazarus-in-the-Chine” as a coastal setting marker.
+  - **Notes:** Chambers (1908) defines “chine” as “a ravine” (https://en.wikisource.org/wiki/Chambers%27s_Twentieth_Century_Dictionary_1908/Chapman_Chrysoprase); helps interpret “St. Lazarus-in-the-Chine” as a coastal setting marker.
 
 - **Ruined lighthouse**
   - **Type:** landmark

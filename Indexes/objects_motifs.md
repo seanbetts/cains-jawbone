@@ -46,6 +46,11 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_43.md, Pages/cains_jawbone_page_45.md, Pages/cains_jawbone_page_48.md, Pages/cains_jawbone_page_60.md, Pages/cains_jawbone_page_63.md
   - **Notes:** Bar/club or sweets-menu continuity candidate; overlaps with cigarette and seduction motifs.
 
+- **Devona (sweetmeat)**
+  - **Instances / variants:** “Devona” (sweetmeat); “minty humbugs”
+  - **Pages:** Pages/cains_jawbone_page_92.md
+  - **Notes:** Advertised as a sweetmeat made from Devonshire/clotted cream and sold in 1d/3d packets (E. Skuse, *Skuse’s Complete Confectioner* (1894): https://books.google.co.uk/books?id=jdFH7L3xLjwC&pg=PT9; *Home Notes* (1895): https://books.google.co.uk/books?id=FVC2AAAAMAAJ&pg=PA233).
+
 - **Cats**
   - **Instances / variants:** Jasmine (named cat); unnamed sleek cat curled “dime shape”
   - **Pages:** Pages/cains_jawbone_page_22.md, Pages/cains_jawbone_page_62.md

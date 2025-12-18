@@ -30,8 +30,8 @@ Template:
   - **Type:** place
   - **Pages:** Pages/cains_jawbone_page_1.md
   - **Why it matters:** Setting anchor for clustering.
-  - **Status:** `in-progress`
-  - **Result:** Not yet pinned to a specific real place; “chine” is a coastal ravine/gorge to the sea (term used on the Hampshire/Dorset and Isle of Wight coasts, e.g. “Boscombe Chine”), so this reads like a (possibly fictional) venue/church/institution situated in such a ravine. “St. Lazarus” in a place-name may also hint at a lazar-house/lazaretto (hospital for plague/leprosy/contagious disease per EB1911 “Lazar”), which fits the “is full… already” wording and the valetudinarian father nearby.
+  - **Status:** `resolved`
+  - **Result:** LIKELY a constructed/in-world institution name built from Chambers (1908) definitions: “chine” = “a ravine” (https://en.wikisource.org/wiki/Chambers%27s_Twentieth_Century_Dictionary_1908/Chapman_Chrysoprase) and “Lazar-house” = “a lazaretto” (https://en.wikisource.org/wiki/Chambers%27s_Twentieth_Century_Dictionary_1908/Lawk_Liebig). No specific real-world “St. Lazarus-in-the-Chine” found; treat as a coastal-setting marker + institutional hint rather than a precise map-pin.
 
 - **Item:** Identify plague-quote source on Page 2 + the “writer” who “died to-day” (and death date)
   - **Type:** quote/date
@@ -1171,8 +1171,8 @@ Template:
   - **Type:** quote/other
   - **Pages:** Pages/cains_jawbone_page_91.md
   - **Why it matters:** Might be a specific detective-story reference and could explain the “green” clue embedded in the eyeball exhibit.
-  - **Status:** `in-progress`
-  - **Result:** The key phrase reads like the colloquial scepticism “Do you see any green in my eye?” (≈ “do you take me for a greenhorn/fool?”), attested in Sabine Baring-Gould, *The Frobishers* (1901), Chapter 20 (“…do you see any green in my eye?”): https://en.wikisource.org/wiki/The_Frobishers/Chapter_20 and Theodore Goodridge Roberts, “The Red Pirogue” (*Popular* magazine, 1922), Chapter 4 (“Say, d’ye see any green in my eye?”): https://en.wikisource.org/wiki/The_Red_Pirogue/Chapter_4. Still no direct match found yet for the “Cadaver Charlie” / “Chicago sleuth” framing.
+  - **Status:** `stalled`
+  - **Result:** The key phrase reads like the colloquial scepticism “Do you see any green in my eye?” (≈ “do you take me for a greenhorn/fool?”), attested in Sabine Baring-Gould, *The Frobishers* (1901), Chapter 20 (“…do you see any green in my eye?”): https://en.wikisource.org/wiki/The_Frobishers/Chapter_20 and Theodore Goodridge Roberts, “The Red Pirogue” (*Popular* magazine, 1922), Chapter 4 (“Say, d’ye see any green in my eye?”): https://en.wikisource.org/wiki/The_Red_Pirogue/Chapter_4. No direct pre-1934 match found yet for the “Cadaver Charlie” / “Chicago sleuth” framing.
 
 - **Item:** Identify the source of “Yet now my heart leaps, O beloved! …” (Page 92)
   - **Type:** quote
@@ -1185,8 +1185,8 @@ Template:
   - **Type:** term/other
   - **Pages:** Pages/cains_jawbone_page_92.md
   - **Why it matters:** Could be a brand/place/wordplay clue (childhood sweet “caddis-hoard of Devona”) and may recur across pages.
-  - **Status:** `in-progress`
-  - **Result:** The surrounding phrasing “caddis-hoard” echoes Kipling’s “Tomlinson” (1892): “As children rifle a caddis-case or the raven’s foolish hoard.” https://en.wikisource.org/wiki/Ballads_and_Barrack-Room_Ballads/Tomlinson. Still no confirmed pre-1934 source found for “Devona” itself as a sweet/brand/place in this context.
+  - **Status:** `resolved`
+  - **Result:** Devona appears as a branded sweetmeat made from Devonshire/clotted cream, sold in small packets: E. Skuse, *Skuse’s Complete Confectioner* (1894) advertises “DEVONA… The most Delicious Sweetmeat… Prepared from Fresh Devonshire Cream” (https://books.google.co.uk/books?id=jdFH7L3xLjwC&pg=PT9) and *Home Notes* (1895) advertises “DEVONA… The most exquisite Sweetmeat. Made from fresh Clotted Cream” (+ “CHOCOLATE DEVONA”) (https://books.google.co.uk/books?id=FVC2AAAAMAAJ&pg=PA233). “caddis-hoard” still LIKELY echoes Kipling’s “Tomlinson” (1892): https://en.wikisource.org/wiki/Ballads_and_Barrack-Room_Ballads/Tomlinson.
 
 - **Item:** Identify the “M’Cullough… I’m dying to-night” stanza source (Page 93)
   - **Type:** quote
@@ -1241,8 +1241,8 @@ Template:
   - **Type:** quote/other
   - **Pages:** Pages/cains_jawbone_page_95.md
   - **Why it matters:** Likely a layered allusion; resolving it may identify narrator voice and connect to other literary fragments.
-  - **Status:** `in-progress`
-  - **Result:** Context now suggests the surrounding “Holy Mr. Herbert… right about these hours” is via Walton’s *Complete Angler* (Chapter V, quoting Herbert’s “Vertue”): https://en.wikisource.org/wiki/The_Complete_Angler,_5th_edition/Chapter_V. Next: locate the exact source of the “Meed kissing laces” phrase and why “Mr. Haddock” is given as the self-name (possibly a fishy pun, but unconfirmed).
+  - **Status:** `stalled`
+  - **Result:** Context suggests the surrounding “Holy Mr. Herbert… right about these hours” is via Walton’s *Complete Angler* (Chapter V, quoting Herbert’s “Vertue”): https://en.wikisource.org/wiki/The_Complete_Angler,_5th_edition/Chapter_V. No direct pre-1934 match found yet for the exact “Meed kissing laces” phrase or a “Mr. Haddock” self-name in this context; keep open for a later pass (and treat “Mr. Haddock” as possibly fish/angler wordplay unless a textual source turns up).
 
 - **Item:** Identify “Leda and Hebe” / “my swan a drink” (pen/ink clue) (Page 95)
   - **Type:** other
@@ -1269,8 +1269,8 @@ Template:
   - **Type:** other
   - **Pages:** Pages/cains_jawbone_page_96.md
   - **Why it matters:** May identify a specific venue/menu set and help cluster this narrator’s scene.
-  - **Status:** `in-progress`
-  - **Result:** No exact period match yet for the named menu items. Partial grounding: “Loganberry” = Logan Berry (hybrid fruit named after Judge J. H. Logan; “from him it derives its name”), per “Logan Berry: One of the Greatest Novelties of the Season” (1895): https://archive.org/stream/loganberryoneof1895paja_0/loganberryoneof1895paja_0_djvu.txt (so “Loganberry Kiss” may be a berry-flavoured menu name). Plover eggs appear as a food item in period literature (e.g., *The Green Carnation*, ch. 7: “No plover’s eggs, thank you”): https://en.wikisource.org/wiki/The_Green_Carnation/Chapter_7; “Plover’s Lunch” may allude to such a dish but remains unconfirmed.
+  - **Status:** `stalled`
+  - **Result:** No exact pre-1934 match found yet for the named menu items; treat as likely in-world menu naming and keep open. Partial grounding: plover eggs are referenced as a food item in period literature (e.g., *The Green Carnation*, ch. 7: “No plover’s eggs, thank you”): https://en.wikisource.org/wiki/The_Green_Carnation/Chapter_7, but “Plover’s Lunch” remains unconfirmed.
 
 - **Item:** Confirm the source/usage of “It gars me grue” (Page 96)
   - **Type:** term

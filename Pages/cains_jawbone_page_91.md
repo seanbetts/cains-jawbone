@@ -18,6 +18,25 @@ In my youth I had been worried that I bore the same name as Newbolt’s admiral 
   - LIKELY: “see any green (in my eye)” is a sceptical idiom (“do you take me for a greenhorn/fool?”), attested in Sabine Baring-Gould, *The Frobishers* (1901), Chapter 20: https://en.wikisource.org/wiki/The_Frobishers/Chapter_20 and Theodore Goodridge Roberts, “The Red Pirogue” (*Popular* magazine, 1922), Chapter 4: https://en.wikisource.org/wiki/The_Red_Pirogue/Chapter_4.
   - CERTAIN: “Smiler with the Knife” is Chaucer’s phrase in *The Knight’s Tale* (Temple of Mars description): “the smiler with the knife under the mantle” (Page:The_Canterbury_tales_of_Geoffrey_Chaucer.djvu/67).
   - Name-play: “capitalise my third letter” (identity-cipher style).
+- **Wordplay (synthesis):**
+
+CANDIDATE
+- mechanism: orthography
+- span: "capitalise my third letter"
+- reading: "DEATH -> De’Ath"
+- confidence: high
+- rationale: “capitalise my third letter” matches the name-play of stylising DEATH as De’Ath/DeAth; supported by the preceding Newbolt/Shakespeare “Death” allusion.
+- falsifier: If another in-text name-cipher fits the “third letter” instruction better than De’Ath/DeAth.
+
+LIKELY WORDPLAY
+- mechanism(s): orthography
+- span: "capitalise my third letter"
+- best reading: "DEATH -> De’Ath (capitalise 3rd letter)"
+- confidence: high
+- why it matters: narrator -> self-identification marker (stylised name) for this voice segment
+- falsifiers:
+  - "third letter" points to a different formatting system on other pages
+  - later text explicitly gives a different name for this narrator
 - **Voice/tells:**
   - Self-mythologising criminal/detective register (“Smiler with the Knife”; “Black Museum”).
   - Threat of intervention (“I would have to take steps”) toward Henry.
@@ -26,4 +45,4 @@ In my youth I had been worried that I bore the same name as Newbolt’s admiral 
 - **Disconfirming evidence:**
   - If “Black Museum” and Cadaver Charlie are purely figurative or offhand jokes with no recurrence.
 - **Research needed:**
-  - Identify the Cadaver Charlie / Chicago sleuth / “see any green” anecdote.
+  - STALLED: No direct match found yet for the “Cadaver Charlie” / Chicago sleuth anecdote beyond the “green in my eye” idiom sources (see `Indexes/research_queue.md`).

@@ -4,7 +4,7 @@ I sit down alone at the appointed table and take up my pen to give all whom it m
 
 - **Entities:**
   - CERTAIN: Casy Ferris; Casy’s father (unnamed).
-  - MAYBE: “St. Lazarus-in-the-Chine” (place/institution; reads like a church/venue in a coastal chine, or a “lazar-house”/infirmary by name).
+  - MAYBE: “St. Lazarus-in-the-Chine” (place/institution; Chambers defines “chine” as “a ravine” (https://en.wikisource.org/wiki/Chambers%27s_Twentieth_Century_Dictionary_1908/Chapman_Chrysoprase) and “Lazar-house” as “a lazaretto” (https://en.wikisource.org/wiki/Chambers%27s_Twentieth_Century_Dictionary_1908/Lawk_Liebig), so this reads like a (possibly in-world) lazaretto/infirmary in a coastal ravine; no specific real-world institution pinned).
 - **Time markers:**
   - CERTAIN: “to-day is the day” (event for Casy; likely scheduled/ritual).
 - **Quotes & allusions:**
@@ -19,4 +19,4 @@ I sit down alone at the appointed table and take up my pen to give all whom it m
 - **Disconfirming evidence:**
   - If “Chine” is metaphorical or later placed away from sea.
 - **Research needed:**
-  - Identify/locate “St. Lazarus-in-the-Chine”.
+  - RESOLVED: “St. Lazarus-in-the-Chine” read as a lazaretto/infirmary in a chine (see `Indexes/research_queue.md`).

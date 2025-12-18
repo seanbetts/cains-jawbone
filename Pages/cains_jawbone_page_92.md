@@ -15,7 +15,7 @@ My earlier days had been so different. There hadn’t been the comfort, the sens
 - **Objects/motifs:**
   - Food: oysters; “minty humbugs”.
   - Timepieces: watch vs near-by clock (“my watch must be my mentor”).
-  - Childhood sweets stash (“secret caddis-hoard of Devona”).
+  - Childhood sweets stash: “Devona” (a branded sweetmeat made from Devonshire/clotted cream; sold in 1d/3d packets — E. Skuse, *Skuse’s Complete Confectioner* (1894): https://books.google.co.uk/books?id=jdFH7L3xLjwC&pg=PT9; *Home Notes* (1895): https://books.google.co.uk/books?id=FVC2AAAAMAAJ&pg=PA233) and “minty humbugs”.
 - **Quotes & allusions:**
   - CERTAIN: quoted lines “Yet now my heart leaps, O beloved! …” — Robert Browning, “Saul” (*Men and Women*, 1855), Page:Men_and_Women,_Volume_2_-_Browning_(1855).djvu/120.
   - LIKELY: “caddis-hoard” echoes Kipling’s “Tomlinson” (1892): “As children rifle a caddis-case or the raven’s foolish hoard.” https://en.wikisource.org/wiki/Ballads_and_Barrack-Room_Ballads/Tomlinson.
@@ -26,4 +26,4 @@ My earlier days had been so different. There hadn’t been the comfort, the sens
 - **Disconfirming evidence:**
   - If Henry here is clearly a different “Henry” than adjacent segments (setting/role divergence).
 - **Research needed:**
-  - Identify what “Devona” refers to in “caddis-hoard of Devona” (place/brand/wordplay).
+  - RESOLVED: “Devona” is a branded sweetmeat (see `Indexes/research_queue.md`).
