@@ -9,6 +9,7 @@ This is not a software project; the “code” here exists only to protect text 
 - `Pages/` — `cains_jawbone_page_1.md` … `cains_jawbone_page_100.md` (page text + `## Notes`)
 - `Archive/` — immutable source text + hash (`Cain's Jawbone Unformatted.txt`, `hash.txt`)
 - `Indexes/` — global indices (`people.md`, `places.md`, `quotes.md`, `objects_motifs.md`, `narrators.md`, `wordplay.md`, `research_queue.md`)
+  - `Indexes/SCHEMA.md` — minimal schema for index file structure
 - `Order/` — ordering hypotheses and clusters (`hypotheses.md`), plus cast + murder-confidence ledgers (`cast.md`, `confidence.md`)
 - `Skills/` — modular workflows (authoritative procedures in each `SKILL.md`)
 - `Scripts/` — helper scripts (integrity + lightweight progress metrics)
@@ -118,6 +119,7 @@ The authoritative procedures/templates live in these files:
 - `Skills/cjb-date-research/SKILL.md`
 - `Skills/cjb-location-research/SKILL.md`
 - `Skills/cjb-falsification/SKILL.md`
+- `Skills/cjb-progress-check/SKILL.md`
 - Wordplay detectors live under `Skills/cjb-wordplay-*-detect/SKILL.md`.
 
 ## Integrity checking

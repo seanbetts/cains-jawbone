@@ -15,6 +15,12 @@ description: Keep Cain’s Jawbone global indices consistent (people, places, qu
 ## Phase gating
 - **Allowed phases:** `phase-1` … `phase-6`
 
+## When to use (triggers)
+- After extracting notes from any page (Phase 1).
+- After resolving a research item and writing results back into notes (Phase 2).
+- When you notice duplicate IDs, inconsistent spellings, or stale/conflicting entries.
+- Before phase changes and before merging a run branch to `main`.
+
 ## Files covered
 
 - `Indexes/people.md`

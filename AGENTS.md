@@ -66,6 +66,7 @@ Keep all detailed procedures, templates, and rules in the Skill files to avoid d
 - **Narrator profiling:** `Skills/cjb-narrator-profiling/SKILL.md` — use in Phase 3+ to catalogue narrator “signatures” (voice tells) without imposing page order.
 - **Quote research:** `Skills/cjb-quote-research/SKILL.md` — use when capturing/identifying allusions and managing the research queue.
 - **Falsification:** `Skills/cjb-falsification/SKILL.md` — use in Phase 6 to systematically try to break ordering/murder hypotheses and record outcomes.
+- **Progress check:** `Skills/cjb-progress-check/SKILL.md` — use to decide “what next” and whether phase exit conditions are met.
 - **Verification:** `Skills/cjb-verification/SKILL.md` — use when running integrity checks and interpreting failures.
 - **Time logging:** `Skills/cjb-time-logging/SKILL.md` — use at the start and end of every working session to keep `Worklog/worklog.csv` accurate.
 - **Run management:** `Skills/cjb-run-management/SKILL.md` — use to create/close run branches and maintain `Worklog/current_run.txt`.
@@ -90,6 +91,7 @@ Maintain these central files to turn page-by-page extraction into a searchable �
 - `Indexes/objects_motifs.md` (recurring items/injuries/food/drink/animals/weather, pages)
 - `Indexes/narrators.md` (narrator “signatures” / voice tells, pages, confidence)
 - `Indexes/wordplay.md` (synthesised wordplay findings, pages, why-it-matters tag, falsifiers)
+- `Indexes/SCHEMA.md` (schemas/templates for all `Indexes/*`)
 - `Indexes/research_queue.md` (rolling queue of lookups to do; link items back to pages)
 - `Order/hypotheses.md` (candidate sequences/clusters with reasons, confidence, falsifiers)
 - `Order/cast.md` (people tracked as murderer/victim/witness/unknown candidates)

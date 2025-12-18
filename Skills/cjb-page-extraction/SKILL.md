@@ -21,6 +21,11 @@ description: Extract actionable clues from a Cain’s Jawbone page and update pe
 
 Turn each page into structured, searchable clues that support clustering and ordering later.
 
+## When to use (triggers)
+- When you are reading a page for the first time in Phase 1.
+- When Phase 2 research resolves an open item and you need to write the result back into the page’s notes.
+- When later phases require a targeted reread to confirm/deny a specific hypothesis.
+
 ## Default sequencing (extraction-first)
 
 During the first full extraction pass, do not pause to resolve external research questions. Instead:
@@ -65,3 +70,24 @@ During the first full extraction pass, do not pause to resolve external research
 - Notes added under `## Notes` only
 - Any new entities/quotes/motifs reflected in indices
 - `python3 Scripts/verify_pages.py` passes
+
+## Recommended batching
+- Extract **5–10 pages** per session for focus.
+- Commit after each batch (not each page).
+- Avoid pushing past ~30 pages in one sitting; quality tends to drop.
+
+## Example extraction (style, not a real page)
+
+Before (page snippet):
+> “He thought of Johnson, dead these many years…”
+
+After (notes):
+- **Entities:** Johnson (P??) — unclear if in-world or historical.
+- **Harm/death cues:** “dead these many years” — MAYBE allusion/idiom; do not record as in-world death without more.
+- **Research needed:** Identify “Johnson” if the surrounding context suggests a specific historical/literary reference → add to `Indexes/research_queue.md`.
+
+## Common mistakes (pitfalls)
+- Copying long chunks of page text into indices (keep snippets minimal).
+- Treating allusive/historical deaths as in-world murders.
+- Recording wordplay without falsifiers (every block needs a way to be wrong).
+- Merging people IDs too early (prefer “possible same as Pxx” + a falsifier).

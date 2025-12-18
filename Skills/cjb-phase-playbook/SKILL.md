@@ -33,6 +33,13 @@ Provide a single authoritative, phase-specific guide for what to do next, what n
 3. `Skills/cjb-index-maintenance/SKILL.md` (after any extraction/research writes)
 4. Phase-specific skill(s) for the current work
 
+## Skill conflicts (tie-breaker rules)
+When two Skills appear to give conflicting guidance:
+
+1. The phase-specific guidance in this file takes precedence.
+2. `cjb-time-logging` and `cjb-verification` are always mandatory regardless of phase.
+3. If still unclear, pause and record the conflict as a note (and ask the user before proceeding).
+
 ## Confidence conventions (shared)
 - Use tags `MAYBE`, `LIKELY`, `CERTAIN` in indices/hypotheses.
 - When using numeric confidence (`0.0–1.0`) in ledgers:
@@ -43,6 +50,7 @@ Provide a single authoritative, phase-specific guide for what to do next, what n
 
 ## Progress checks (optional)
 - During Phase 2, run `python3 Scripts/calculate_research_progress.py` to summarise research-queue status and index confidence distribution.
+- Use `Skills/cjb-progress-check/SKILL.md` when deciding whether to advance phases.
 
 ## Wordplay policy (detectors + synthesis)
 
@@ -185,6 +193,7 @@ Collapse ambiguity caused by external references while keeping scope bounded.
 - `Skills/cjb-wordplay-synthesis/SKILL.md`
 Optional:
 - `Skills/cjb-verification/SKILL.md`
+- `Skills/cjb-progress-check/SKILL.md`
 
 ### Allowed actions
 Research only items that meet at least one criterion:
@@ -227,6 +236,8 @@ Identify groups before order.
 - `Skills/cjb-index-maintenance/SKILL.md`
 - `Skills/cjb-wordplay-synthesis/SKILL.md`
 - `Skills/cjb-narrator-profiling/SKILL.md`
+Optional:
+- `Skills/cjb-progress-check/SKILL.md`
 
 ### Allowed actions
 - Identify patterns across pages:
