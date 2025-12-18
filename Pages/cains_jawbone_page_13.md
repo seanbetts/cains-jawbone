@@ -9,7 +9,7 @@ Then against a possible invasion of my privacy, I touched my white cheeks until 
 ## Notes
 
 - **Entities:**
-  - MAYBE: farm-labourer (unnamed man; “Newdigate fringe”).
+  - LIKELY: farm-labourer (unnamed man; “Newdigate fringe” = poet/undergrad verse-prize stereotype: the “Newdigate” prize is for English verse at Oxford). https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Newdigate,_Sir_Roger
   - CERTAIN: Henry (present; “stooping over the other body”).
 - **Places:**
   - CERTAIN: Grantham (Lincolnshire) — EB1911 notes “A conduit dating from 1597 stands in the wide market-place.” https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Grantham
@@ -27,4 +27,4 @@ Then against a possible invasion of my privacy, I touched my white cheeks until 
 - **Disconfirming evidence:**
   - If Henry here is later clearly distinct from Henry elsewhere (different role/setting).
 - **Research needed:**
-  - What is meant by “Newdigate fringe” (hair/clue/reference)?
+  - None.

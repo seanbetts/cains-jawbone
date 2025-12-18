@@ -198,8 +198,8 @@ Template:
   - **Type:** term/other
   - **Pages:** Pages/cains_jawbone_page_13.md
   - **Why it matters:** Could be an identifying class/profession clue or period slang.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** “Newdigate” refers to the Oxford University “Newdigate” prize for English verse; “Newdigate fringe” reads as a Bloomsbury/poet stereotype label for the man’s hairstyle/appearance. EB1911 “Newdigate, Sir Roger”: “The ‘Newdigate’ prize … for English verse … at Oxford University.” https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Newdigate,_Sir_Roger
 
 - **Item:** Identify Janetta Sheringham (real-person reference vs in-world character)
   - **Type:** name/other
