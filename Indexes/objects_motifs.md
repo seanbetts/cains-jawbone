@@ -39,7 +39,7 @@ Template:
 - **Emperor’s Peg (drink)**
   - **Instances / variants:** described as “vitriol and applejack” (toxic variant)
   - **Pages:** Pages/cains_jawbone_page_5.md
-  - **Notes:** Track as drink/poison tell; research period recipe.
+  - **Notes:** “Peg” is a term for “a drink of spirits” (Webster 1913: https://www.websters1913.com/words/Peg). “Applejack” is cider brandy (New International Encyclopædia, 1905, “Cider”: https://en.wikisource.org/wiki/The_New_International_Encyclop%C3%A6dia/Cider). “Vitriol” can mean sulphuric acid (“oil of vitriol”) or a metal sulphate (Webster 1913: https://www.websters1913.com/words/Vitriol). No independent recipe found for “Emperor’s Peg”; treat the name as in-world, with Henry’s “equal parts” variant functioning as a poison-delivery motif.
 
 - **Cocktails / mixed drinks**
   - **Instances / variants:** “cocktail after cocktail”; “Lover’s Delight” (also as a sundae); Banana Split; “Rainbow” (drink/dessert?); “the Dawn”; “over the cocktails”; absinthe; brandy

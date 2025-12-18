@@ -29,7 +29,7 @@ LIKELY WORDPLAY
   - “stops” is later used strictly in a musical/organ sense in the same narrator’s pages
   - no other initialism/abbreviation wordplay recurs for this voice
 - **Motifs/continuity hooks:**
-  - Drink/poison register: “Emperor’s Peg” described as “equal parts of vitriol and applejack” (narrator implies toxic variant).
+  - Drink/poison register: “Emperor’s Peg” is a “peg” (drink of spirits; Webster 1913: https://www.websters1913.com/words/Peg) and Henry’s variant is “equal parts” vitriol (sulphuric acid / “oil of vitriol”, or a metal sulphate; Webster 1913: https://www.websters1913.com/words/Vitriol) + applejack (cider brandy; New International Encyclopædia, 1905, “Cider”: https://en.wikisource.org/wiki/The_New_International_Encyclop%C3%A6dia/Cider).
   - Lighthouse as rendezvous; cosmetics (“powdered my nose”).
 - **Voice/tells:**
   - Social irritation; fast associative brand-name riffs; possibly feminine-coded gesture (“powdered my nose”).
@@ -37,5 +37,4 @@ LIKELY WORDPLAY
   - MAYBE: same Henry as Pages/cains_jawbone_page_2.md and Pages/cains_jawbone_page_4.md; track Henry’s serial “intended” count.
 - **Disconfirming evidence:**
   - If “Henry” becomes clearly distinct by surname/setting later.
-- **Research needed:**
   - Identify “Emperor’s Peg” (period recipe/associations).

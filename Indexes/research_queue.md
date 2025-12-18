@@ -72,8 +72,8 @@ Template:
   - **Type:** term
   - **Pages:** Pages/cains_jawbone_page_5.md
   - **Why it matters:** Drink/poison motif; could recur as continuity hook.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** “Peg” is a period term meaning “a drink of spirits” (Webster 1913: https://www.websters1913.com/words/Peg). “Applejack” is “cider brandy… derived by distillation from fermented cider” (New International Encyclopædia, 1905, “Cider”: https://en.wikisource.org/wiki/The_New_International_Encyclop%C3%A6dia/Cider). “Vitriol” can mean sulphuric acid (“oil of vitriol”) or a metal sulphate (Webster 1913: https://www.websters1913.com/words/Vitriol). No independent pre-1934 recipe found for the named drink; treat “Emperor’s Peg” as an in-world “peg” being used as a poison delivery vehicle in Henry’s “equal parts” variant.
 
 - **Item:** Interpret “cut out the stops” + “vaguely Buddhistic”
   - **Type:** term/quote
