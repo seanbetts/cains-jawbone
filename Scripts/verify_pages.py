@@ -12,6 +12,7 @@ from pathlib import Path
 
 SEP_RE = re.compile(r"^_{4,}\s*$")
 NOTES_RE = re.compile(r"(?m)^##\s+Notes\s*$")
+REPO_ROOT = Path(__file__).resolve().parents[1]
 
 
 def _normalize_newlines(text: str) -> str:
@@ -73,19 +74,19 @@ def main() -> int:
     parser.add_argument(
         "--archive",
         type=Path,
-        default=Path("Archive") / "Cain's Jawbone Unformatted.txt",
+        default=REPO_ROOT / "Archive" / "Cain's Jawbone Unformatted.txt",
         help="Path to the archived source .txt file",
     )
     parser.add_argument(
         "--pages-dir",
         type=Path,
-        default=Path("Pages"),
+        default=REPO_ROOT / "Pages",
         help="Directory containing cains_jawbone_page_*.md files",
     )
     parser.add_argument(
         "--hash-file",
         type=Path,
-        default=Path("Archive") / "hash.txt",
+        default=REPO_ROOT / "Archive" / "hash.txt",
         help="File containing the expected hash of the archive (default: Archive/hash.txt)",
     )
     parser.add_argument(

@@ -7,6 +7,9 @@ import re
 from pathlib import Path
 
 
+REPO_ROOT = Path(__file__).resolve().parents[1]
+
+
 def analyze_research_queue(file_path):
     """Calculate the percentage of resolved research items."""
     with open(file_path, 'r', encoding='utf-8') as f:
@@ -22,12 +25,14 @@ def analyze_research_queue(file_path):
     total_items = len(statuses)
     resolved_items = sum(1 for status in statuses if status == 'resolved')
     in_progress_items = sum(1 for status in statuses if status == 'in-progress')
+    stalled_items = sum(1 for status in statuses if status == 'stalled')
     open_items = sum(1 for status in statuses if status == 'open')
 
     return {
         'total': total_items,
         'resolved': resolved_items,
         'in_progress': in_progress_items,
+        'stalled': stalled_items,
         'open': open_items,
     }
 
@@ -76,7 +81,7 @@ def print_summary(title, data, primary_metric, primary_label):
 
 
 if __name__ == '__main__':
-    indexes_dir = Path(__file__).parent / 'Indexes'
+    indexes_dir = REPO_ROOT / 'Indexes'
 
     # Analyze research queue
     research_queue_path = indexes_dir / 'research_queue.md'
@@ -87,6 +92,7 @@ if __name__ == '__main__':
         print(f"=" * 50)
         print(f"Open:          {queue_data['open']:>3}/{total} ({queue_data['open']/total*100:>5.1f}%)")
         print(f"In progress:   {queue_data['in_progress']:>3}/{total} ({queue_data['in_progress']/total*100:>5.1f}%)")
+        print(f"Stalled:       {queue_data['stalled']:>3}/{total} ({queue_data['stalled']/total*100:>5.1f}%)")
         print(f"Resolved:      {queue_data['resolved']:>3}/{total} ({queue_data['resolved']/total*100:>5.1f}%)")
 
     # Analyze places
