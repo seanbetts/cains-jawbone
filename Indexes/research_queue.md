@@ -1,6 +1,12 @@
 # Research queue
 
-Rolling list of open questions to look up (quotes, names, places, archaic terms). Keep items short and actionable; link back to pages.
+Rolling list of research questions to look up (quotes, names, places, archaic terms). Keep items short and actionable; link back to pages.
+
+Status meanings:
+- `open` — not started
+- `in-progress` — actively researching
+- `stalled` — tried, but no match yet (or conflicting sources)
+- `resolved` — answer recorded with citation
 
 Template:
 
@@ -8,7 +14,7 @@ Template:
   - **Type:** (quote/name/place/term/other)  
   - **Pages:**  
   - **Why it matters:**  
-  - **Status:** `open` / `in-progress` / `resolved`  
+  - **Status:** `open` / `in-progress` / `stalled` / `resolved`  
   - **Result:** (fill in when resolved)  
 
 ## Open items

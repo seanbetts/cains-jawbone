@@ -13,7 +13,7 @@ This folder is a **literary puzzle workspace**, not a software project. The goal
 4. **Keep the archive immutable.**  
    Do not modify anything in `Archive/` (including `Archive/Cain's Jawbone Unformatted.txt` and `Archive/hash.txt`).
 5. **Verify after edits.**  
-   After any batch of note edits, run: `python3 verify_pages.py` and ensure it prints `OK` (this checks page-body immutability, not whether notes/hypotheses are correct).
+   After any batch of note edits, run: `python3 Scripts/verify_pages.py` and ensure it prints `OK` (this checks page-body immutability, not whether notes/hypotheses are correct).
 6. **No brute force.**  
    Do not attempt permutation/brute-force ordering; progress comes from clue extraction, indexing, clustering, and evidence-based hypotheses.
 
@@ -63,7 +63,9 @@ Keep all detailed procedures, templates, and rules in the Skill files to avoid d
 - **Murder analysis:** `Skills/cjb-murder-analysis/SKILL.md` — use when pages imply in-world death/violence; updates cast + murder-confidence ledgers.
 - **Means & methods:** `Skills/cjb-means-and-methods/SKILL.md` — use to catalogue substances/methods conservatively without committing to murder.
 - **Motive & relationships:** `Skills/cjb-motive-and-relationships/SKILL.md` — use to extract relationship/power dynamics that support motive hypotheses.
+- **Narrator profiling:** `Skills/cjb-narrator-profiling/SKILL.md` — use in Phase 3+ to catalogue narrator “signatures” (voice tells) without imposing page order.
 - **Quote research:** `Skills/cjb-quote-research/SKILL.md` — use when capturing/identifying allusions and managing the research queue.
+- **Falsification:** `Skills/cjb-falsification/SKILL.md` — use in Phase 6 to systematically try to break ordering/murder hypotheses and record outcomes.
 - **Verification:** `Skills/cjb-verification/SKILL.md` — use when running integrity checks and interpreting failures.
 - **Time logging:** `Skills/cjb-time-logging/SKILL.md` — use at the start and end of every working session to keep `Worklog/worklog.csv` accurate.
 - **Run management:** `Skills/cjb-run-management/SKILL.md` — use to create/close run branches and maintain `Worklog/current_run.txt`.
@@ -78,6 +80,7 @@ Maintain these central files to turn page-by-page extraction into a searchable �
 - `Indexes/places.md` (place names, implied geography, pages, confidence)
 - `Indexes/quotes.md` (exact snippet, likely source/author, why it matters, pages)
 - `Indexes/objects_motifs.md` (recurring items/injuries/food/drink/animals/weather, pages)
+- `Indexes/narrators.md` (narrator “signatures” / voice tells, pages, confidence)
 - `Indexes/research_queue.md` (rolling queue of lookups to do; link items back to pages)
 - `Order/hypotheses.md` (candidate sequences/clusters with reasons, confidence, falsifiers)
 - `Order/cast.md` (people tracked as murderer/victim/witness/unknown candidates)
@@ -132,7 +135,7 @@ Runs are **end-to-end workstreams** (e.g., “full extraction pass”, “cluste
 - Do **not** create new run branches for page “batches”; keep committing batches on the same run branch until the run’s end goal is reached.
 
 ### Closing a run
-1. Run `python3 verify_pages.py`.
+1. Run `python3 Scripts/verify_pages.py`.
 2. Make a final commit summarising the run: `Run summary: <one sentence>`.
 3. Log the session end time and final commit in `Worklog/worklog.csv`.
 4. Clear `Worklog/current_run.txt` (empty file) once the run is complete.
@@ -153,7 +156,7 @@ This repo uses git for versioning. Keep a clean history so we can roll back hypo
 ### Rules
 
 - Never commit changes to any page-body text in `Pages/*.md`. Only edit metadata and `## Notes`.
-- Run `python3 verify_pages.py` before committing. If it fails, fix and re-run. (`OK` means page-body integrity only, not that notes/hypotheses are correct.)
+- Run `python3 Scripts/verify_pages.py` before committing. If it fails, fix and re-run. (`OK` means page-body integrity only, not that notes/hypotheses are correct.)
 - Commit small, single-purpose changes. Avoid “mega commits”.
 - Use branches for competing ordering approaches (clusters, narrator splits, alternative sequences). Prefer merge commits that explain what won.
 

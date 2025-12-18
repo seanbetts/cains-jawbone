@@ -9,6 +9,11 @@ Track people as candidates with evolving roles. This file is deliberately probab
 - Always include falsifiers (what would disprove the role claim).
 - Prefer **downgrading** over deleting so we keep an audit trail.
 
+## Confidence conventions
+
+- Confidence is numeric `0.0–1.0`; use `Skills/cjb-phase-playbook/SKILL.md` for shared mapping to `MAYBE/LIKELY/CERTAIN`.
+- Adjust conservatively (usually ±0.05 per new anchor) unless the text is explicit.
+
 ## Template
 
 - `Pxx`

@@ -8,10 +8,12 @@ This is not a software project; the “code” here exists only to protect text 
 
 - `Pages/` — `cains_jawbone_page_1.md` … `cains_jawbone_page_100.md` (page text + `## Notes`)
 - `Archive/` — immutable source text + hash (`Cain's Jawbone Unformatted.txt`, `hash.txt`)
-- `Indexes/` — global indices (`people.md`, `places.md`, `quotes.md`, `objects_motifs.md`, `research_queue.md`)
+- `Indexes/` — global indices (`people.md`, `places.md`, `quotes.md`, `objects_motifs.md`, `narrators.md`, `research_queue.md`)
 - `Order/` — ordering hypotheses and clusters (`hypotheses.md`), plus cast + murder-confidence ledgers (`cast.md`, `confidence.md`)
 - `Skills/` — modular workflows (authoritative procedures in each `SKILL.md`)
-- `verify_pages.py` — integrity verifier (archive hash + page-body immutability)
+- `Scripts/` — helper scripts (integrity + lightweight progress metrics)
+  - `Scripts/verify_pages.py` — integrity verifier (archive hash + page-body immutability)
+  - `Scripts/calculate_research_progress.py` — research/index progress summary
 - `Worklog/worklog.csv` — mandatory session log (see `Skills/cjb-time-logging/SKILL.md`)
 - `Worklog/current_run.txt` — active run metadata (empty means no active run)
 
@@ -19,7 +21,7 @@ This is not a software project; the “code” here exists only to protect text 
 
 - Never edit the page body text in `Pages/*.md` (only write under `## Notes`).
 - Never modify anything in `Archive/`.
-- Run `python3 verify_pages.py` after edits and before commits.
+- Run `python3 Scripts/verify_pages.py` after edits and before commits.
 - Log session start/end (UTC) and append to `Worklog/worklog.csv` per the time-logging skill.
 - Don’t brute-force ordering (100! is not a strategy).
 
@@ -83,18 +85,20 @@ The authoritative procedures/templates live in these files:
 - `Skills/cjb-murder-analysis/SKILL.md`
 - `Skills/cjb-means-and-methods/SKILL.md`
 - `Skills/cjb-motive-and-relationships/SKILL.md`
+- `Skills/cjb-narrator-profiling/SKILL.md`
 - `Skills/cjb-quote-research/SKILL.md`
 - `Skills/cjb-verification/SKILL.md`
 - `Skills/cjb-time-logging/SKILL.md`
 - `Skills/cjb-run-management/SKILL.md`
 - `Skills/cjb-date-research/SKILL.md`
 - `Skills/cjb-location-research/SKILL.md`
+- `Skills/cjb-falsification/SKILL.md`
 
 ## Integrity checking
 
 Run:
 
-- `python3 verify_pages.py`
+- `python3 Scripts/verify_pages.py`
 
 What “OK” means:
 
@@ -119,7 +123,7 @@ It does **not** judge whether notes/hypotheses are correct.
   - Log start/end times via the time-logging skill.
   - Commit frequently; final commit should be `Run summary: ...`.
 - After a run:
-  - Run `python3 verify_pages.py`, update `Worklog/worklog.csv`, merge to `main` only if the work is accepted, and clear `Worklog/current_run.txt`.
+  - Run `python3 Scripts/verify_pages.py`, update `Worklog/worklog.csv`, merge to `main` only if the work is accepted, and clear `Worklog/current_run.txt`.
 
 ## Spoilers policy
 

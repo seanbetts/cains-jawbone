@@ -11,6 +11,7 @@ Template:
   - **Rationale:**  
   - **Key anchors:** (quotes, motifs, time/place)  
   - **Disconfirming evidence:** (what would falsify this cluster)  
+  - **Next falsification check:** (next concrete test to run)  
 
 - **Cluster:** Henry name occurrences (confidence: `MAYBE`)
   - **Pages:** Pages/cains_jawbone_page_2.md, Pages/cains_jawbone_page_4.md, Pages/cains_jawbone_page_5.md, Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_16.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_26.md, Pages/cains_jawbone_page_31.md, Pages/cains_jawbone_page_32.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_41.md, Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_44.md, Pages/cains_jawbone_page_45.md, Pages/cains_jawbone_page_47.md, Pages/cains_jawbone_page_49.md, Pages/cains_jawbone_page_58.md, Pages/cains_jawbone_page_60.md, Pages/cains_jawbone_page_63.md, Pages/cains_jawbone_page_68.md, Pages/cains_jawbone_page_71.md, Pages/cains_jawbone_page_76.md, Pages/cains_jawbone_page_77.md, Pages/cains_jawbone_page_78.md, Pages/cains_jawbone_page_80.md, Pages/cains_jawbone_page_82.md, Pages/cains_jawbone_page_83.md, Pages/cains_jawbone_page_85.md, Pages/cains_jawbone_page_86.md, Pages/cains_jawbone_page_87.md, Pages/cains_jawbone_page_91.md, Pages/cains_jawbone_page_92.md, Pages/cains_jawbone_page_94.md, Pages/cains_jawbone_page_97.md, Pages/cains_jawbone_page_100.md
@@ -151,6 +152,7 @@ Template:
 - **Sequence (confidence: CERTAIN/LIKELY/MAYBE):** `Pages/cains_jawbone_page_?.md → …`
   - **Why:**  
   - **Disconfirming evidence:**  
+  - **Next falsification check:**  
 
 - **Sequence (confidence: CERTAIN):** `Pages/cains_jawbone_page_66.md → Pages/cains_jawbone_page_67.md`
   - **Why:** Direct sentence continuation across the page break (“hung round with … the darker works…”).

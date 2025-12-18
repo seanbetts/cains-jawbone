@@ -11,6 +11,11 @@ Track *in-world* death/murder hypotheses separately from page-ordering hypothese
 - Use `Pxx` IDs when possible; otherwise use `UNKNOWN` plus a short descriptor.
 - Keep claims reversible: include confidence + falsifiers + status.
 
+## Confidence conventions
+
+- Confidence is numeric `0.0–1.0`; use `Skills/cjb-phase-playbook/SKILL.md` for shared mapping to `MAYBE/LIKELY/CERTAIN`.
+- Adjust conservatively (usually ±0.05 per new anchor) unless the text is explicit.
+
 ## Event template
 
 - `E01` (confidence: `0.0–1.0`; status: `active` / `downgraded` / `rejected`)
