@@ -8,7 +8,7 @@ And I really think I would have preferred the Maestro Jimson’s title, now that
 - **Time markers:**
   - CERTAIN: rain just ended (“came heavily… drying off lightly”).
 - **Quotes & allusions:**
-  - MAYBE: “Maestro Jimson” + “title” (reference TBD).
+  - CERTAIN: “The Maestro Jimson” is Chapter XI in Robert Louis Stevenson & Lloyd Osbourne’s *The Wrong Box* (1889): https://www.gutenberg.org/cache/epub/1585/pg1585.txt.
   - LIKELY: Lesurques (role) + Le Cirque d’Hiver (pun/mix-up).
 - **Wordplay:**
   - “mash… with a spoon” / “mashie” (golf-club pun).
@@ -22,4 +22,4 @@ And I really think I would have preferred the Maestro Jimson’s title, now that
 - **Disconfirming evidence:**
   - If later identifies this as inland/figurative “sea” or Henry differs.
 - **Research needed:**
-  - Identify “Maestro Jimson” and the “piled abomination” it would title.
+  - RESOLVED: “Maestro Jimson” reference is *The Wrong Box* (see `Indexes/research_queue.md`).

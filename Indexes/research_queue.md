@@ -65,8 +65,8 @@ Template:
   - **Type:** other
   - **Pages:** Pages/cains_jawbone_page_4.md
   - **Why it matters:** Cultural reference might place the scene/time and cluster narrators.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** “The Maestro Jimson” is Chapter XI in Robert Louis Stevenson & Lloyd Osbourne’s *The Wrong Box* (1889): https://www.gutenberg.org/cache/epub/1585/pg1585.txt. In that chapter, “Jimson” is a composer persona involved with a decayed, “weedy” houseboat/hulk used as a hiding place while awaiting a corpse, which fits the narrator’s “piled abomination” framing.
 
 - **Item:** Identify “Emperor’s Peg” (period recipe/associations)
   - **Type:** term

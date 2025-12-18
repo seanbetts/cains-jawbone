@@ -55,6 +55,13 @@ Template:
   - **Confidence:** `CERTAIN`
   - **Research needed:** no
 
+- **Snippet:** “Maestro Jimson”
+  - **Likely source/author:** Robert Louis Stevenson & Lloyd Osbourne, *The Wrong Box* (1889), Chapter XI “The Maestro Jimson”: https://www.gutenberg.org/cache/epub/1585/pg1585.txt
+  - **Why it matters:** Allusion anchor on Page 4; may be part of a Stevenson-reading set (also see Page 1’s Stevenson quotation).
+  - **Pages:** Pages/cains_jawbone_page_4.md
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
+
 - **Snippet:** “life’s fitful fever”
   - **Likely source/author:** Shakespeare, Macbeth
   - **Why it matters:** Voice/literary tell; may cluster narrator with other Shakespeare-heavy pages.
