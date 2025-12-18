@@ -274,7 +274,7 @@ Template:
 - **Gun bores / chambers**
   - **Instances / variants:** “chamber within chamber”; “open the bores”
   - **Pages:** Pages/cains_jawbone_page_37.md
-  - **Notes:** Suggests a firearm/evidence mechanism; may connect to other “chamber/bores” language.
+  - **Notes:** Suggests a firearm/evidence mechanism; Chambers (1908) defines *bore* as “the size of the cavity of a gun” (supports the gun-barrel reading). https://en.wikisource.org/wiki/Chambers%27s_Twentieth_Century_Dictionary_1908/Boomerang_Brine
 
 - **Undercoats / coats**
   - **Instances / variants:** undercoats “raw liver colour”; only one inherited coat; “passion for getting new things”

@@ -472,22 +472,22 @@ Template:
   - **Type:** place/other
   - **Pages:** Pages/cains_jawbone_page_37.md
   - **Why it matters:** Potential strong place anchor (likely Shrewsbury area) for ordering.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** Hotspur (Henry Percy) was defeated and killed at Shrewsbury in 1403; EB1911: “In 1403 Henry Percy… was defeated and killed at Shrewsbury by Henry IV.” This strongly suggests the “place of Hotspur’s death” pun points to Shrewsbury (and thus Shrewsbury prison/gaol as the incarceration locale). https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Shrewsbury
 
 - **Item:** What are the “Paulo Post Avorticists” (Page 37) and is “Paulo”/“Avorticists” a clue?
   - **Type:** other
   - **Pages:** Pages/cains_jawbone_page_37.md
   - **Why it matters:** Could identify an art movement/exhibit used as a date or voice marker.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** Reads as wordplay: Latin “paulo post” (“after a little while”) + “a Vorticists” → “post-Vorticists” (i.e., “a little after the Vorticists,” framed as a private view/exhibition). Source for “paulo post”: “Thus we say, I will see thee ‘paulo post,’ i.e. after a little while.” https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_I/Volume_VII/First_Epistle_of_John/Part_8
 
 - **Item:** Interpret Page 37’s “open the bores” / “chamber within chamber” (weapon/evidence?) and the narrator’s “one… other” biographical remark
   - **Type:** other
   - **Pages:** Pages/cains_jawbone_page_37.md
   - **Why it matters:** Could identify the murder method or narrator identity tell.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** “open the bores” reads as firearm language: Chambers (1908) defines *bore* as “the size of the cavity of a gun” (supporting the gun-barrels/chambers reading alongside “chamber within chamber”). https://en.wikisource.org/wiki/Chambers%27s_Twentieth_Century_Dictionary_1908/Boomerang_Brine. “intrinsicated” appears to echo Shakespeare’s “knot intrinsicate” (*Antony and Cleopatra*, Act V), reinforcing the “concealed/entangled” sense. https://en.wikisource.org/wiki/Antony_and_Cleopatra_(1921)_Yale/Text/Act_V. No unique external source identified for the “one… other” biographical aside from this wording alone; treat as a narrator/voice tell and revisit if repeated.
 
 - **Item:** Identify Sonia Gordon and the Southend “tragic fortnight” story (Page 38)
   - **Type:** name/place/other

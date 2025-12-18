@@ -4,15 +4,16 @@ Death’s clumsy fingered, that was the really frightful thing : I had seen them
 
 - **Entities:**
   - CERTAIN: Alexander (sent invitation).
-  - MAYBE: “male incarcerated at the place of Hotspur’s death” (location pun; likely Shrewsbury).
+  - CERTAIN: “male incarcerated at the place of Hotspur’s death” points to Shrewsbury (Hotspur/Henry Percy killed there in 1403); likely Shrewsbury prison/gaol as the “place” of incarceration.
   - CERTAIN: Ronald Firbank; Malta.
-  - MAYBE: “Paulo Post Avorticists” (group/exhibit; name unclear).
+  - LIKELY: “Paulo Post Avorticists” is wordplay: “paulo post” (“after a little while”) + “a Vorticists” → “post-Vorticists” (an “after the Vorticists” private view).
 - **Time markers:**
   - CERTAIN: “the night before”.
 - **Motifs/continuity hooks:**
   - Murder awareness: “to know that murder had been committed.”
   - Concealment: “intrinsicated and concealed, chamber within chamber”.
-  - Evidence/weapon: “open the bores” (suggests gun barrels/chambers).
+  - LIKELY: “intrinsicated” echoes Shakespeare’s “knot intrinsicate” (Cleopatra to the asp): https://en.wikisource.org/wiki/Antony_and_Cleopatra_(1921)_Yale/Text/Act_V
+  - Evidence/weapon: “open the bores” reads as firearm language (Chambers 1908 defines *bore* as “the size of the cavity of a gun”): https://en.wikisource.org/wiki/Chambers%27s_Twentieth_Century_Dictionary_1908/Boomerang_Brine
   - Yellow jasmine bowl; rococo mirror.
 - **Voice/tells:**
   - Forensic anxiety + ornate setting; identity remark (“my parents… I should be one… never… the other”) suggests a personal/biographical tell.
@@ -21,6 +22,6 @@ Death’s clumsy fingered, that was the really frightful thing : I had seen them
 - **Disconfirming evidence:**
   - If “bores/chambers” proves unrelated to a weapon/evidence mechanism.
 - **Research needed:**
-  - Identify the “place of Hotspur’s death” clue and the intended prison/town.
-  - What are the “Paulo Post Avorticists” (and is “Paulo” a clue)?
-  - Interpret “open the bores” and the “one… other” biographical remark.
+  - (Resolved) “the place of Hotspur’s death” points to Shrewsbury: EB1911 notes “In 1403 Henry Percy… was defeated and killed at Shrewsbury by Henry IV.” https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Shrewsbury
+  - (Resolved) “Paulo Post Avorticists” reads as “paulo post” (“after a little while”) + “a Vorticists” → “post-Vorticists”: “Thus we say, I will see thee ‘paulo post,’ i.e. after a little while.” https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_I/Volume_VII/First_Epistle_of_John/Part_8
+  - (Resolved) “open the bores” / “chamber within chamber” plausibly points to a firearm/evidence mechanism (Chambers: *bore* = “the size of the cavity of a gun”), and “intrinsicated” appears to echo Shakespeare’s “knot intrinsicate” (*Antony and Cleopatra*). No unique external source identified for the “one… other” biographical aside from this wording alone; treat as a narrator tell and revisit if repeated. https://en.wikisource.org/wiki/Chambers%27s_Twentieth_Century_Dictionary_1908/Boomerang_Brine ; https://en.wikisource.org/wiki/Antony_and_Cleopatra_(1921)_Yale/Text/Act_V

@@ -216,11 +216,11 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_38.md
   - **Notes:** “tragic fortnight” memory; pier with electrical railway.
 
-- **Shrewsbury (Hotspur’s death place, uncertain)**
+- **Shrewsbury (Hotspur’s death place)**
   - **Type:** town/city
-  - **Confidence:** `MAYBE`
+  - **Confidence:** `CERTAIN`
   - **Pages:** Pages/cains_jawbone_page_37.md
-  - **Notes:** Hotspur died at/near Shrewsbury; page references a “male incarcerated at the place of Hotspur’s death”.
+  - **Notes:** EB1911 notes “In 1403 Henry Percy… was defeated and killed at Shrewsbury by Henry IV”; Page 37’s “place of Hotspur’s death” incarceration pun likely points to Shrewsbury (and thus Shrewsbury prison/gaol). https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Shrewsbury
 
 - **Thames Ditton**
   - **Type:** village
