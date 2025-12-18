@@ -29,7 +29,7 @@ Template:
 - **Pills / “assassin’s wonderful substance”**
   - **Instances / variants:** “second pill”; promised “full ration” + “act of justice”
   - **Pages:** Pages/cains_jawbone_page_3.md
-  - **Notes:** Candidate poison/drug thread; connect when substance is identified.
+  - **Notes:** LIKELY hashish/hasheesh (EB1911 “Assassin” derives assassin from Hashīshīn “from Hashish” and notes fedais “were intoxicated with the hashīsh”: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Assassin). Track Clement + pill dosing language for recurrence.
 
 - **Buttonhole flowers**
   - **Instances / variants:** “day’s buttonhole” bought behind church; “buttonhole has escaped from the buttonholer”

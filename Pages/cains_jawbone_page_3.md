@@ -13,7 +13,7 @@ At my meeting with Clement yesterday, he had been quite specific : less than twe
 - **Wordplay:**
   - LIKELY: “seventeen thousand six hundred yards” = 10 miles exactly (1760 yd/mile) — intentional precision.
 - **Motifs/continuity hooks:**
-  - Pills / “assassin’s wonderful substance” (poison/drug?); promised “stuff… for ever”.
+  - Pills / “assassin’s wonderful substance”: LIKELY hashish/hasheesh, per EB1911’s etymology of “assassin” as “Hashīshīn, from Hashish” (and note that fedais “were intoxicated with the hashīsh”): https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Assassin.
   - Publishing-world references; travel readiness (“rain-proof coat, good shoes”); “I have no chair.”
 - **Voice/tells:**
   - Transactional, self-satisfied tone; mixes commerce (publishers) with menace (assassin substance).
@@ -22,4 +22,4 @@ At my meeting with Clement yesterday, he had been quite specific : less than twe
 - **Disconfirming evidence:**
   - If later context shows “pills” are benign/medical and “assassin” is figurative.
 - **Research needed:**
-  - Identify “assassin’s wonderful substance” (hashish/other?) in period usage.
+  - RESOLVED: “assassin’s wonderful substance” is LIKELY hashish; 17,600 yards = 10 miles (see `Indexes/research_queue.md`).

@@ -58,8 +58,8 @@ Template:
   - **Type:** term/other
   - **Pages:** Pages/cains_jawbone_page_3.md
   - **Why it matters:** Connects pill/poison thread and a precise numeric clue.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** “Assassin” is “properly Hashīshīn, from Hashish” and the “fedais… were intoxicated with the hashīsh” (EB1911 “Assassin”: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Assassin), so the “assassin’s wonderful substance” is LIKELY hashish/hasheesh. “17,600 yards” is exactly 10 miles (1760 yd/mile), suggesting an intentional “10 miles” distance marker.
 
 - **Item:** Identify “Maestro Jimson” and the “piled abomination” whose title is referenced
   - **Type:** other
