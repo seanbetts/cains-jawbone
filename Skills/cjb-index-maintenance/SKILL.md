@@ -22,6 +22,7 @@ description: Keep Cain’s Jawbone global indices consistent (people, places, qu
 - `Indexes/quotes.md`
 - `Indexes/objects_motifs.md`
 - `Indexes/narrators.md`
+- `Indexes/wordplay.md`
 - `Indexes/research_queue.md`
 
 ## Rules
@@ -51,6 +52,14 @@ description: Keep Cain’s Jawbone global indices consistent (people, places, qu
 
 - Track recurring items (foods, drinks, injuries, pills/poisons, animals, weather, tools).
 - Note variants and pages; suggest clustering implications if any.
+
+### Wordplay (`Indexes/wordplay.md`)
+
+- This is a cross-page catalogue of **synthesis outputs** only:
+  - include only `LIKELY WORDPLAY` blocks (do not copy raw detector `CANDIDATE` blocks here).
+- Always include the page path and keep entries in page-number order.
+- Keep `span` exact and short; do not paste long page text.
+- Every entry must include `confidence` and `falsifiers` (per `Skills/cjb-wordplay-synthesis/SKILL.md`).
 
 ### Research queue (`Indexes/research_queue.md`)
 

@@ -72,6 +72,14 @@ Keep all detailed procedures, templates, and rules in the Skill files to avoid d
 - **Date research:** `Skills/cjb-date-research/SKILL.md` — use Chambers' Book of Days to interpret calendar clues.
 - **Location research:** `Skills/cjb-location-research/SKILL.md` — use Highways & Byways guides to ground geographic clues.
 
+## Wordplay skills
+
+- **Detectors:** `Skills/cjb-wordplay-*-detect/SKILL.md` (anagram, hidden-word, homophone, spoonerism, reversal, deletion, charade, double-definition, orthography, allusion)
+- **Synthesis:** `Skills/cjb-wordplay-synthesis/SKILL.md`
+- **Phase policy:** Phase 1 detectors only; Phase 2–3 synthesis; Phase 4+ rerun only to verify disputes/constraints.
+- **Hard rule:** detectors never order pages; synthesis may say “useful for ordering” but must not claim final ordering.
+- **Output contract:** every block includes `confidence` + `falsifier(s)` and uses exact short spans; synthesis outputs are copied to `Indexes/wordplay.md`.
+
 ## Global artefacts (files we maintain)
 
 Maintain these central files to turn page-by-page extraction into a searchable “index of clues”:
@@ -81,6 +89,7 @@ Maintain these central files to turn page-by-page extraction into a searchable �
 - `Indexes/quotes.md` (exact snippet, likely source/author, why it matters, pages)
 - `Indexes/objects_motifs.md` (recurring items/injuries/food/drink/animals/weather, pages)
 - `Indexes/narrators.md` (narrator “signatures” / voice tells, pages, confidence)
+- `Indexes/wordplay.md` (synthesised wordplay findings, pages, why-it-matters tag, falsifiers)
 - `Indexes/research_queue.md` (rolling queue of lookups to do; link items back to pages)
 - `Order/hypotheses.md` (candidate sequences/clusters with reasons, confidence, falsifiers)
 - `Order/cast.md` (people tracked as murderer/victim/witness/unknown candidates)

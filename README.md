@@ -8,7 +8,7 @@ This is not a software project; the “code” here exists only to protect text 
 
 - `Pages/` — `cains_jawbone_page_1.md` … `cains_jawbone_page_100.md` (page text + `## Notes`)
 - `Archive/` — immutable source text + hash (`Cain's Jawbone Unformatted.txt`, `hash.txt`)
-- `Indexes/` — global indices (`people.md`, `places.md`, `quotes.md`, `objects_motifs.md`, `narrators.md`, `research_queue.md`)
+- `Indexes/` — global indices (`people.md`, `places.md`, `quotes.md`, `objects_motifs.md`, `narrators.md`, `wordplay.md`, `research_queue.md`)
 - `Order/` — ordering hypotheses and clusters (`hypotheses.md`), plus cast + murder-confidence ledgers (`cast.md`, `confidence.md`)
 - `Skills/` — modular workflows (authoritative procedures in each `SKILL.md`)
 - `Scripts/` — helper scripts (integrity + lightweight progress metrics)
@@ -57,6 +57,30 @@ Operational procedures for each phase (allowed actions, required Skills, outputs
 2. Update the relevant `Indexes/*` entries.
 3. If proposing a linkage/sequence, record it (plus a falsifier) in `Order/hypotheses.md`.
 
+## How wordplay is handled
+
+Wordplay is handled in two layers: **detectors** flag mechanism-specific candidates (high recall), then **synthesis** selects the best 1–3 candidates in context and labels why they matter. Detector `CANDIDATE` blocks live on-page; synthesis `LIKELY WORDPLAY` blocks live on-page and are also copied into `Indexes/wordplay.md` for cross-page scanning.
+
+Mechanisms supported:
+- Anagram
+- Hidden word
+- Homophone
+- Spoonerism
+- Reversal
+- Deletion/subtraction
+- Charade/segmentation
+- Double definition
+- Orthography/typography
+- Allusion/quotation candidate detection
+
+Phase usage (high level):
+- Phase 1: run all detectors; capture candidates only.
+- Phase 2: run synthesis; convert quote/place/date candidates into targeted research tasks.
+- Phase 3: run synthesis; use wordplay as a clustering/linkage feature (low noise).
+- Phase 4+: rerun only to confirm or resolve disputes.
+
+Outputs always include confidence and falsifiers.
+
 ## Default sequencing (extraction-first)
 
 The default approach is:
@@ -87,12 +111,14 @@ The authoritative procedures/templates live in these files:
 - `Skills/cjb-motive-and-relationships/SKILL.md`
 - `Skills/cjb-narrator-profiling/SKILL.md`
 - `Skills/cjb-quote-research/SKILL.md`
+- `Skills/cjb-wordplay-synthesis/SKILL.md`
 - `Skills/cjb-verification/SKILL.md`
 - `Skills/cjb-time-logging/SKILL.md`
 - `Skills/cjb-run-management/SKILL.md`
 - `Skills/cjb-date-research/SKILL.md`
 - `Skills/cjb-location-research/SKILL.md`
 - `Skills/cjb-falsification/SKILL.md`
+- Wordplay detectors live under `Skills/cjb-wordplay-*-detect/SKILL.md`.
 
 ## Integrity checking
 
