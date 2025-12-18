@@ -423,15 +423,15 @@ Template:
   - **Type:** quote/date/other
   - **Pages:** Pages/cains_jawbone_page_33.md
   - **Why it matters:** Could be a strong source/date anchor and link to other letter/“alive but dead” motifs.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** Lady Mary Wortley Montagu (published letters from the Constantinople period): “I had yours but yesterday, though dated the third of February, in which you suppose me to be dead and buried… I look upon my present circumstances to be exactly the same with those of departed spirits…” https://books.google.co.uk/books?id=SYktgDb_eXQC&pg=PA100&dq=%22I+had+yours+but+yesterday%22. The Page 33 framing “a letter from a woman, dead the same day” most likely refers to the in-world woman whose effects include the letter, creating irony against the excerpt’s “still alive” claim (not a distinct external death-date anchor from this snippet alone).
 
 - **Item:** What are the “little bits of stuff like black pineapple” on Page 33?
   - **Type:** term/other
   - **Pages:** Pages/cains_jawbone_page_33.md
   - **Why it matters:** Might identify tobacco/food clue tied to Gourdoulis and the debt label.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** LIKELY loose dark tobacco spilled from the opened/handled cigarette box (Gourdoulis); “pine-apple” can be used for “fir-cone” in older English, which fits the cone-like comparison (EB1911 “Heraldry”: “armorists have not surrendered this, our ancient word for the ‘fir-cone,’ to the foreign ananas”: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Heraldry).
 
 - **Item:** Interpret Page 31’s “Caseus, ah!” / “nomenclature business” (Cassius pun?) and the “rill and corncrake” sound duet
   - **Type:** quote/other

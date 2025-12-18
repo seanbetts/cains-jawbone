@@ -84,7 +84,7 @@ Template:
 - **Cigarettes (Egyptian)**
   - **Instances / variants:** bet stake: “a hundred Egyptian cigarettes—Gourdoulis”; box of Gourdoulis labelled “I always pay my debts”
   - **Pages:** Pages/cains_jawbone_page_10.md, Pages/cains_jawbone_page_33.md
-  - **Notes:** Product/brand clue; links cigarettes to debt/bill language.
+  - **Notes:** Product/brand clue; links cigarettes to debt/bill language. Page 33’s “little bits of stuff like black pineapple” is LIKELY loose dark tobacco spilled from the box; “pine-apple” can be used for “fir-cone” in older English (EB1911 “Heraldry”: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Heraldry).
 
 - **Cigarettes (unspecified)**
   - **Instances / variants:** “She lit a cigarette” (no brand given); “first cigarette of the day”

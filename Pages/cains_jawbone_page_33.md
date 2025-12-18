@@ -11,11 +11,11 @@ He was picking round among all she had left behind and found a box with his name
   - CERTAIN: letter dated “the third of February”.
   - CERTAIN: “yesterday” appears inside the quoted letter.
 - **Quotes & allusions:**
-  - MAYBE: “I had yours but yesterday… dated the third of February…” / “departed spirits” line (letter source TBD).
+  - CERTAIN: “I had yours but yesterday… dated the third of February…” / “departed spirits” — Lady Mary Wortley Montagu (published letters from the Constantinople period): https://books.google.co.uk/books?id=SYktgDb_eXQC&pg=PA100&dq=%22I+had+yours+but+yesterday%22
   - MAYBE: “my gray hairs would go down in sorrow to the grave” (biblical echo).
 - **Motifs/continuity hooks:**
   - Debts/bills: “I always pay my debts” label.
-  - Tobacco/cigarettes: Gourdoulis + “little bits of stuff like black pineapple”.
+  - Tobacco/cigarettes: Gourdoulis + “little bits of stuff like black pineapple” (LIKELY loose tobacco from opened/handled cigarettes; “pine-apple” can mean “fir-cone”).
   - Letters + death-status ambiguity (writer “still alive” yet “departed spirits”).
 - **Voice/tells:**
   - Voyeur/observer behind the armchair; melodramatic biblical phrasing.
@@ -24,5 +24,5 @@ He was picking round among all she had left behind and found a box with his name
 - **Disconfirming evidence:**
   - If “Gourdoulis” is later shown to be something other than cigarettes.
 - **Research needed:**
-  - Identify the quoted letter source (who wrote it, and what “dead the same day” refers to).
-  - What are the “black pineapple” bits (tobacco/food/other)?
+  - (Resolved) The quoted letter is Lady Mary Wortley Montagu (published letters from the Constantinople period): “I had yours but yesterday… dated the third of February… I look upon my present circumstances to be exactly the same with those of departed spirits…” https://books.google.co.uk/books?id=SYktgDb_eXQC&pg=PA100&dq=%22I+had+yours+but+yesterday%22. In Page 33’s framing, “dead the same day” most likely refers to the in-world woman whose effects include the letter (ironic against the letter’s “still alive” claim).
+  - (Resolved) “black pineapple” is LIKELY loose dark tobacco spilled from the cigarette box; “pine-apple” is noted as an old English term for “fir-cone” (EB1911 “Heraldry”: “armorists have not surrendered this, our ancient word for the ‘fir-cone,’ to the foreign ananas”: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Heraldry).

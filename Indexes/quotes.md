@@ -231,11 +231,11 @@ Template:
   - **Research needed:** no
 
 - **Snippet:** “I had yours but yesterday… though dated the third of February…”
-  - **Likely source/author:** TBD (letter)
-  - **Why it matters:** Anchors a letter-with-death framing; could identify a writer and date chain.
+  - **Likely source/author:** Lady Mary Wortley Montagu (letter; published in her letters from the Constantinople period): https://books.google.co.uk/books?id=SYktgDb_eXQC&pg=PA100&dq=%22I+had+yours+but+yesterday%22
+  - **Why it matters:** Anchors a letter-with-death framing; the excerpt is about being supposed “dead and buried” while still alive (“departed spirits”), which matches Page 33’s irony.
   - **Pages:** Pages/cains_jawbone_page_33.md
-  - **Confidence:** `MAYBE`
-  - **Research needed:** yes — identify letter source and what “dead the same day” refers to.
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
 
 - **Snippet:** “alas, poor Richard! Alas, poor Thomas!”
   - **Likely source/author:** TBD
