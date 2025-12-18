@@ -152,12 +152,19 @@ Template:
   - **Status:** `open`
   - **Result:** Not found as a named day/feast in Chambers’ *Book of Days*; may be an in-world/personal “day”, a name-day not covered by Chambers, or a different day-name system. Keep unresolved until a ≤1934 source is identified.
 
-- **Item:** Identify “Gourdoulis” (Egyptian cigarettes) and “Etam dawn mist, ten inches” (product + measure)
-  - **Type:** term/other
+- **Item:** Identify “Gourdoulis” (Egyptian cigarettes)
+  - **Type:** term
+  - **Pages:** Pages/cains_jawbone_page_10.md, Pages/cains_jawbone_page_33.md
+  - **Why it matters:** Brand/product clue that recurs and may link scenes (class/period tell).
+  - **Status:** `resolved`
+  - **Result:** A branded line of “Egyptian Cigarettes,” advertised as manufactured in **Alexandria, Egypt** (e.g., advert in *To-day* (1897) p. 86: “Gourdoulis’ Egyptian Cigarettes… (Factory: Alexandria, Egypt)”: http://books.google.co.uk/books?id=unhNAAAAYAAJ&pg=PA86&dq=Gourdoulis+Egyptian+cigarettes&hl=&cd=1&source=gbs_api). Also appears in UK retail price lists (e.g., Whiteley, *General Price List* (1913) p. 1201 lists “Gourdoulis & Co. (Alexandria)” Egyptian cigarettes): http://books.google.co.uk/books?id=IyJFAQAAMAAJ&pg=PA1201&dq=Gourdoulis+Egyptian+cigarettes&hl=&cd=4&source=gbs_api.
+
+- **Item:** Identify “Etam dawn mist, ten inches” (product + measure)
+  - **Type:** other
   - **Pages:** Pages/cains_jawbone_page_10.md
-  - **Why it matters:** Brand/product clues may place time, class, or provide cross-page continuity.
-  - **Status:** `open`
-  - **Result:**
+  - **Why it matters:** Gift/retail clue; shade/size language may recur or locate a shopping context.
+  - **Status:** `stalled`
+  - **Result:** Etam is associated with stockings/hosiery (e.g., *The British Market for Hosiery* (1927) p. 8 discusses a French hosiery firm trading as “Etam”: http://books.google.co.uk/books?id=h8-YuNzprAIC&pg=PA8&dq=Etam+stockings&hl=&cd=11&source=gbs_api). “dawn mist” reads like a shade/colour name; “ten inches” likely a sizing/measurement spec, but the exact product description/sizing scheme has not yet been pinned to a ≤1934 catalogue.
 
 - **Item:** Identify what “Orchard” and “Ravager” refer to in the Page 11 nautical passage
   - **Type:** place/name/other
@@ -233,15 +240,15 @@ Template:
   - **Type:** place
   - **Pages:** Pages/cains_jawbone_page_17.md
   - **Why it matters:** Physical setting anchor for the tea/meeting scene.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `stalled`
+  - **Result:** Text strongly suggests **named venues/buildings** (“visiting the Moon… to-day”; “Why go to pubs?”), but no specific real-world location has been identified yet. Note: “the Dawn” also appears on Pages/cains_jawbone_page_43.md in a list of titled items (“Lover’s Delight”, “Banana Split”, “the Dawn”), so “Dawn” may be a venue name in some contexts and a menu/drink title in others; keep ambiguous until more anchors recur.
 
 - **Item:** Identify “Moning” (tea name/brand?) referenced alongside Lapsang
   - **Type:** term
   - **Pages:** Pages/cains_jawbone_page_17.md
   - **Why it matters:** Product clue that may recur or locate the scene.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** “Moning” is an attested tea type in 19th-century tea-trade literature (often discussed as a blending tea for hard water and described as having a “tarry flavour”). See *Catalogue of Teas…* (1852) p. 79: http://books.google.co.uk/books?id=gnUoM7KV1LsC&pg=PA79&dq=Moning+tea&hl=&cd=1&source=gbs_api; also discussed as “Moning or Ningchow tea” in *A Short Account of Tea and the Tea Trade* (1878) p. 83: http://books.google.co.uk/books?id=V4ZPAQAAMAAJ&pg=PA83&dq=Moning+tea&hl=&cd=4&source=gbs_api.
 
 - **Item:** Identify the “namesake” quotation about dinner courses (soup → fish → birds) and the epigram line on Page 18
   - **Type:** quote/other

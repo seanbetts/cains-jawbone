@@ -6,20 +6,18 @@ I am conveniently situated, with the Moon on the one hand and the Dawn on the ot
   - CERTAIN: Sawnie (young; has a Fordor).
   - CERTAIN: Kate Somerset.
   - CERTAIN: Grace (sent “seven pounds of Lapsang”).
-  - MAYBE: “the Moon” and “the Dawn” (places/venues flanking the narrator).
+  - MAYBE: “the Moon” and “the Dawn” (LIKELY named venues/buildings flanking the narrator; exact IDs TBD).
   - MAYBE: unnamed “he” + “she” (meeting; marriage hinted).
 - **Time markers:**
   - CERTAIN: “to-day” (repeated; “first time” visiting “the Moon”).
 - **Motifs/continuity hooks:**
-  - Tea: Lapsang; “Moning” (tea name/brand?); anti-pub sentiment.
+  - Tea: Lapsang; “Moning” tea (attested tea type; described as “tarry flavour” in tea trade literature) — e.g., *Catalogue of Teas…* (1852) p. 79: http://books.google.co.uk/books?id=gnUoM7KV1LsC&pg=PA79&dq=Moning+tea&hl=&cd=1&source=gbs_api.
   - Courtship/marriage in the air; “sinister” beauty.
   - Car/lock fumbling (Fordor).
+  - Pubs vs tea-room stance (“Why go to pubs?”) may be a setting/voice marker.
 - **Voice/tells:**
   - Observant, romantic, faintly suspicious; sensory focus on tea.
-- **Ordering hypotheses:**
-  - MAYBE: tea/meeting-place cluster; compare with Page 15’s “Lyons” (tea-shop possibility).
 - **Disconfirming evidence:**
   - If “Moon”/“Dawn” are later shown as abstract time-of-day metaphors rather than venues.
 - **Research needed:**
-  - What/where are “the Moon” and “the Dawn” here?
-  - Identify “Moning” (tea/brand) if it recurs.
+  - Identify what/where “the Moon” and “the Dawn” are (venue names vs other referents).

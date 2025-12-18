@@ -118,13 +118,13 @@ Template:
   - **Type:** venue/building (uncertain)
   - **Confidence:** `MAYBE`
   - **Pages:** Pages/cains_jawbone_page_17.md
-  - **Notes:** “visiting the Moon… to-day”; paired with “the Dawn”.
+  - **Notes:** “visiting the Moon… to-day”; paired with “the Dawn”; LIKELY a named venue/building (possibly a pub), but not pinned to a specific real-world location yet.
 
 - **“the Dawn” (unidentified)**
   - **Type:** venue/building (uncertain)
   - **Confidence:** `MAYBE`
   - **Pages:** Pages/cains_jawbone_page_17.md
-  - **Notes:** “Moon on the one hand and the Dawn on the other” suggests adjacent venues/landmarks.
+  - **Notes:** “Moon on the one hand and the Dawn on the other” suggests adjacent venues/landmarks (possibly pubs). Note: “the Dawn” also appears on Pages/cains_jawbone_page_43.md among titled items (“Lover’s Delight”, “Banana Split”, “the Dawn”), so treat as ambiguous until better anchored.
 
 - **Falkland (Fife) / Falkland Castle (Palace)**
   - **Type:** town/castle (Scotland)

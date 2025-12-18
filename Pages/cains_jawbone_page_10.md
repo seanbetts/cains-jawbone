@@ -13,17 +13,15 @@ Then came Hyacinth’s day. He laughed when he remembered that, as we were walki
   - CERTAIN: “They went back two days…” (explicit offset).
 - **Motifs/continuity hooks:**
   - Gardens/flowers (hyacinth/jasmine); betting/gifts.
-  - Cigarettes: “a hundred Egyptian cigarettes—Gourdoulis”.
-  - Hosiery/lingerie: “Etam dawn mist, ten inches” (product clue).
+  - Cigarettes: “a hundred Egyptian cigarettes—Gourdoulis” (advertised as “Gourdoulis’ Egyptian Cigarettes”, factory Alexandria) — *To-day* (1897) p. 86: http://books.google.co.uk/books?id=unhNAAAAYAAJ&pg=PA86&dq=Gourdoulis+Egyptian+cigarettes&hl=&cd=1&source=gbs_api.
+  - Hosiery/lingerie: “Etam dawn mist, ten inches” — Etam is associated with stockings/hosiery (e.g., *The British Market for Hosiery* (1927) p. 8 mentions “Etam” as a French hosiery firm): http://books.google.co.uk/books?id=h8-YuNzprAIC&pg=PA8&dq=Etam+stockings&hl=&cd=11&source=gbs_api. (“dawn mist” likely a shade name; “ten inches” likely a size measure, but exact product spec TBD.)
   - Jewellery/ears: seed-pearl “ear-drops”.
+  - Cross-page: calendar/offset language may recur with other “to-day”/feast-day anchors (keep as a continuity cue, not an ordering claim).
 - **Voice/tells:**
   - Social observation + mild contempt (Boots’ speech; “childish”); sexual/romantic weariness (“tire of her already”).
-- **Ordering hypotheses:**
-  - MAYBE: calendar cluster with Pages/cains_jawbone_page_8.md (Hyacinth’s day + “to-day” deaths).
-  - MAYBE: garden/flower motif echo with Pages/cains_jawbone_page_6.md (foxgloves).
 - **Disconfirming evidence:**
   - If “Hyacinth’s day/Jasmine’s day” are shown to be private nicknames rather than public calendar anchors.
 - **Research needed:**
   - Identify what “Jasmine’s day” refers to (and whether it’s a public calendar anchor).
-  - Identify “Gourdoulis” (Egyptian cigarettes) and “Etam dawn mist, ten inches” (what item/measure).
+  - Confirm what “Etam dawn mist, ten inches” encodes (shade + the intended sizing/measurement system).
   - Interpret the singular/plural reversal complaint (dialect/wordplay?).

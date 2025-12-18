@@ -89,7 +89,12 @@ Template:
 - **Cigarettes (Egyptian)**
   - **Instances / variants:** bet stake: “a hundred Egyptian cigarettes—Gourdoulis”; box of Gourdoulis labelled “I always pay my debts”
   - **Pages:** Pages/cains_jawbone_page_10.md, Pages/cains_jawbone_page_33.md
-  - **Notes:** Product/brand clue; links cigarettes to debt/bill language. Page 33’s “little bits of stuff like black pineapple” is LIKELY loose dark tobacco spilled from the box; “pine-apple” can be used for “fir-cone” in older English (EB1911 “Heraldry”: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Heraldry).
+  - **Notes:** Product/brand clue; links cigarettes to debt/bill language. “Gourdoulis’ Egyptian Cigarettes” are advertised as manufactured in Alexandria (*To-day* (1897) p. 86): http://books.google.co.uk/books?id=unhNAAAAYAAJ&pg=PA86&dq=Gourdoulis+Egyptian+cigarettes&hl=&cd=1&source=gbs_api. Page 33’s “little bits of stuff like black pineapple” is LIKELY loose dark tobacco spilled from the box; “pine-apple” can be used for “fir-cone” in older English (EB1911 “Heraldry”: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Heraldry).
+
+- **Stockings / hosiery (Etam)**
+  - **Instances / variants:** “three pairs of Etam dawn mist, ten inches”
+  - **Pages:** Pages/cains_jawbone_page_10.md
+  - **Notes:** Etam is associated with hosiery/stockings (e.g., *The British Market for Hosiery* (1927) p. 8 discusses a French hosiery firm trading as “Etam”): http://books.google.co.uk/books?id=h8-YuNzprAIC&pg=PA8&dq=Etam+stockings&hl=&cd=11&source=gbs_api. “dawn mist” likely a shade name; “ten inches” likely a sizing spec, but exact product description still unresolved.
 
 - **Cigarettes (unspecified)**
   - **Instances / variants:** “She lit a cigarette” (no brand given); “first cigarette of the day”
@@ -179,7 +184,7 @@ Template:
 - **Tea (Lapsang / “Moning”)**
   - **Instances / variants:** seven pounds of Lapsang; “Moning” tea; Orange Pekoe; “Special Orange Supreme”
   - **Pages:** Pages/cains_jawbone_page_17.md, Pages/cains_jawbone_page_47.md, Pages/cains_jawbone_page_82.md
-  - **Notes:** Potential location/brand clue; may recur with tea-house settings.
+  - **Notes:** “Moning” is an attested tea type in tea-trade literature (often described as having a “tarry flavour” and used in blends for hard water). See *Catalogue of Teas…* (1852) p. 79: http://books.google.co.uk/books?id=gnUoM7KV1LsC&pg=PA79&dq=Moning+tea&hl=&cd=1&source=gbs_api; and *A Short Account of Tea and the Tea Trade* (1878) p. 83 (“Moning or Ningchow tea”): http://books.google.co.uk/books?id=V4ZPAQAAMAAJ&pg=PA83&dq=Moning+tea&hl=&cd=4&source=gbs_api.
 
 - **Car models / driving**
   - **Instances / variants:** Fordor; lock arrangement
