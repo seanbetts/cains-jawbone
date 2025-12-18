@@ -23,6 +23,18 @@ Template:
 
 ## Entries
 
+- `Pages/cains_jawbone_page_5.md`
+
+  LIKELY WORDPLAY
+  - mechanism(s): orthography + reversal
+  - span: "cut out the stops"
+  - best reading: "O.M. (Order of Merit) ↔ M.O. (Medical Officer); remove stops from O.M. -> OM (Buddhist sacred syllable/formula)"
+  - confidence: high
+  - why it matters: motif -> “initialism + punctuation” decoding style that may recur as an instruction
+  - falsifiers:
+    - “stops” is later used strictly in a musical/organ sense for this voice
+    - no other initialism/abbreviation wordplay recurs on adjacent pages
+
 - `Pages/cains_jawbone_page_91.md`
 
   LIKELY WORDPLAY

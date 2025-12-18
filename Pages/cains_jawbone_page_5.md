@@ -7,8 +7,27 @@ I hated my eye for being caught by what didn’t concern me : the powerful grip 
   - MAYBE: Henry’s “intended fifth” (unnamed woman); narrator has a “doctor uncle… in the war”.
 - **Quotes & allusions:**
   - CERTAIN: Browning’s “Evelyn Hope” (treated as a “good-looking” person, then “dead”).
-  - MAYBE: Thomas Hardy reference (context unclear); “cut out the stops” for something “vaguely Buddhistic” (remove punctuation?).
+  - CERTAIN: O.M./M.O./OM wordplay: “couple of letters” = O.M. (Order of Merit; cf. *The New International Encyclopædia* (1905) on the Order of Merit: https://en.wikisource.org/wiki/The_New_International_Encyclop%C3%A6dia/Merit,_Order_of); “my doctor uncle in the war had been just the reverse” = M.O. (Medical Officer); “cut out the stops” (remove periods) gives OM, “vaguely Buddhistic” (cf. “Om mani padme hum” as a Buddhist sacred formula: https://en.wikisource.org/wiki/The_New_International_Encyclop%C3%A6dia/Om_Mani_Padme_Hum).
   - LIKELY: Cerebos (salt brand) + Bisto (gravy) used as comic “talking about X and X and X” filler.
+- **Wordplay (synthesis):**
+
+CANDIDATE
+- mechanism: orthography
+- span: "cut out the stops"
+- reading: "O.M. -> OM"
+- confidence: high
+- rationale: “stops” = punctuation dots; removing them from O.M. yields OM, matching the “vaguely Buddhistic” cue in the same sentence.
+- falsifier: If another dotted initialism is present and is the intended transform target instead of O.M.
+
+LIKELY WORDPLAY
+- mechanism(s): orthography + reversal
+- span: "cut out the stops"
+- best reading: "O.M. (Order of Merit) ↔ M.O. (Medical Officer); remove stops from O.M. -> OM (Buddhist sacred syllable/formula)"
+- confidence: high
+- why it matters: motif -> shows this narrator’s “initialism + punctuation” decoding style, which may recur as an instruction
+- falsifiers:
+  - “stops” is later used strictly in a musical/organ sense in the same narrator’s pages
+  - no other initialism/abbreviation wordplay recurs for this voice
 - **Motifs/continuity hooks:**
   - Drink/poison register: “Emperor’s Peg” described as “equal parts of vitriol and applejack” (narrator implies toxic variant).
   - Lighthouse as rendezvous; cosmetics (“powdered my nose”).
@@ -20,5 +39,3 @@ I hated my eye for being caught by what didn’t concern me : the powerful grip 
   - If “Henry” becomes clearly distinct by surname/setting later.
 - **Research needed:**
   - Identify “Emperor’s Peg” (period recipe/associations).
-  - Interpret “cut out the stops” + “Buddhistic” (which text/phrase?).
-  - What are the “couple of letters” being “paraded” (initials? signage?).

@@ -79,15 +79,15 @@ Template:
   - **Type:** term/quote
   - **Pages:** Pages/cains_jawbone_page_5.md
   - **Why it matters:** Likely points to a specific text/phrase or decoding instruction.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** The “stops” are the periods in “O.M.”; cutting them out yields “OM”, matching “vaguely Buddhistic” (cf. “Om mani padme hum” described as “a sacred formula in Buddhism” in *The New International Encyclopædia* (1905): https://en.wikisource.org/wiki/The_New_International_Encyclop%C3%A6dia/Om_Mani_Padme_Hum). The nearby “couple of letters” and Thomas Hardy/doctor-uncle reversal support O.M. ↔ M.O.
 
 - **Item:** What are the “couple of letters” being “paraded… for all to see”?
   - **Type:** other
   - **Pages:** Pages/cains_jawbone_page_5.md
   - **Why it matters:** Possible monogram/signage/initials clue for identifying a person/place.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** “O.M.” (Order of Merit), explicitly framed via “Thomas Hardy had been” (Order of Merit described in *The New International Encyclopædia* (1905): https://en.wikisource.org/wiki/The_New_International_Encyclop%C3%A6dia/Merit,_Order_of). “my doctor uncle in the war had been just the reverse” reads as M.O. (Medical Officer), reinforcing the O.M./M.O. reversal and setting up OM once the “stops” are removed.
 
 - **Item:** Identify the Troilus & Cressida “winter… lips of Cressida” quotation used on Page 6
   - **Type:** quote
