@@ -205,15 +205,15 @@ Template:
   - **Type:** name/other
   - **Pages:** Pages/cains_jawbone_page_14.md
   - **Why it matters:** Recurrence could link narrators/social circles; might be a disguised allusion.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `stalled`
+  - **Result:** No clear pre-1934 external match found yet for the exact name “Janetta Sheringham” (checked Wikisource search + Google Books keyword search). Treat as an in-world acquaintance until recurrence provides more anchors.
 
 - **Item:** Identify John Hewit + Sarah Drew lightning incident (date/place) and the letter-writer (narrator’s namesake)
   - **Type:** date/place/other
   - **Pages:** Pages/cains_jawbone_page_15.md
   - **Why it matters:** Likely explicit calendar anchor (“on that very day”) and narrator identity clue (“namesake”).
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** John Hewit and Sarah Drew were killed by lightning at harvest-work in a barley field on **the last day of July 1718** (July 31), commemorated at **Steeple Ashton**; Alexander Pope wrote an epitaph for them, and the event is described in a **letter by John Gay** (injury details match Page 15). Sources: Chambers, *The Book of Days* (July 31 “Lightning” entry) (Google Books full view: https://books.google.com/books?id=VEcJAAAAIAAJ); *The Gentleman’s Magazine* (1820) note on Steeple Ashton: https://books.google.com/books?id=mQaXYqwaZxgC
 
 - **Item:** What does “Lyons” refer to on Page 15 (city vs Lyons tea-shop/Corner House)?
   - **Type:** place

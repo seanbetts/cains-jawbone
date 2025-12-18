@@ -111,6 +111,13 @@ Template:
   - **Confidence:** `CERTAIN`
   - **Research needed:** no
 
+- **Snippet:** “Sarah’s left eye was injured… black spot on her breast.”
+  - **Likely source/author:** John Gay letter describing the lightning deaths of John Hewit and Sarah Drew (Steeple Ashton; last day of July 1718), retold in Chambers, *The Book of Days* (July 31 “Lightning” entry): https://books.google.com/books?id=VEcJAAAAIAAJ and referenced in *The Beauties of England and Wales* (1813): https://books.google.com/books?id=nJFCAAAAYAAJ
+  - **Why it matters:** Date anchor (July 31) + narrator “namesake wrote a letter” clue (namesake likely John Gay).
+  - **Pages:** Pages/cains_jawbone_page_15.md
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
+
 - **Snippet:** “fondly sae did I o’ mine”
   - **Likely source/author:** TBD (song/lyric; associated with Wilkie Bard/Lauder music-hall context)
   - **Why it matters:** Performance/voice anchor; could date/locate the scene.

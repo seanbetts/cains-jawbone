@@ -112,7 +112,7 @@ Template:
   - **Tells:** voice resemblance reference (“like and yet not like”).
   - **Pronouns/relationships:** none known.
   - **Pages:** Pages/cains_jawbone_page_14.md
-  - **Notes:** Track for recurrence; could be a real-person allusion or an in-world acquaintance.
+  - **Notes:** Track for recurrence; no clear pre-1934 external match found yet for the exact name (treat as in-world until anchored).
 
 - `P18` — Names/aliases: Aunt Mary
   - **Tells:** lost eyebrows “after the explosion”; later uses made-up eyebrows.
@@ -569,3 +569,27 @@ Template:
   - **Pronouns/relationships:** victim of `P01` (Henry), if literal.
   - **Pages:** Pages/cains_jawbone_page_58.md
   - **Notes:** Identity unknown; could be literal in-world death or genre/metaphorical language.
+
+- `P94` — Names/aliases: John Gay (reference)
+  - **Tells:** “my namesake wrote a letter” describing the lightning deaths of John Hewit and Sarah Drew.
+  - **Pronouns/relationships:** none known (historical reference).
+  - **Pages:** Pages/cains_jawbone_page_15.md
+  - **Notes:** The incident is described in a letter by John Gay (injury details match Page 15); keep distinct from `P09` “Mrs. Gay” (likely an in-world visitor).
+
+- `P95` — Names/aliases: Alexander Pope (reference)
+  - **Tells:** “the only noteworthy Pope of my native land”; wrote an epitaph for John Hewit and Sarah Drew.
+  - **Pronouns/relationships:** none known (historical reference).
+  - **Pages:** Pages/cains_jawbone_page_15.md
+  - **Notes:** Page 15’s “affected” likely means moved to write the epitaph; do not confuse with other Popes (e.g., Clement VII on Page 24).
+
+- `P96` — Names/aliases: John Hewit (reference)
+  - **Tells:** killed by lightning at harvest-work (barley field) with Sarah Drew.
+  - **Pronouns/relationships:** engaged to Sarah Drew.
+  - **Pages:** Pages/cains_jawbone_page_15.md
+  - **Notes:** Historical/date anchor: last day of July 1718 (July 31), associated with Steeple Ashton.
+
+- `P97` — Names/aliases: Sarah Drew (reference)
+  - **Tells:** killed by lightning at harvest-work (barley field) with John Hewit; injury details recorded in a letter.
+  - **Pronouns/relationships:** engaged to John Hewit.
+  - **Pages:** Pages/cains_jawbone_page_15.md
+  - **Notes:** Historical/date anchor: last day of July 1718 (July 31), associated with Steeple Ashton.

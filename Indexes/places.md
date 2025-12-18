@@ -102,6 +102,12 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_15.md
   - **Notes:** “my dear Lyons”; could be the city (Lyon) or a Lyons tea-shop/Corner House reference.
 
+- **Steeple Ashton**
+  - **Type:** village/parish
+  - **Confidence:** `CERTAIN`
+  - **Pages:** Pages/cains_jawbone_page_15.md
+  - **Notes:** John Hewit and Sarah Drew lightning-death memorial is noted in connection with Steeple Ashton; used as a date/place anchor (July 31, 1718) via *The Gentleman’s Magazine* (1820): https://books.google.com/books?id=mQaXYqwaZxgC
+
 - **Highgate Empire**
   - **Type:** venue (music hall/theatre)
   - **Confidence:** `CERTAIN`

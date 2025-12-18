@@ -21,4 +21,4 @@ My ears were becoming attuned, and for the first time I heard clearly what the w
 - **Disconfirming evidence:**
   - If “May” later appears in a clearly different social circle/time than Page 12’s documents scene.
 - **Research needed:**
-  - Identify Janetta Sheringham (character/real reference?) and whether she recurs.
+  - None (Janetta Sheringham not yet identifiable in external sources; keep tracking for recurrence).
