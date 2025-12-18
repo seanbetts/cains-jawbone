@@ -451,8 +451,8 @@ Template:
   - **Type:** name/quote/other
   - **Pages:** Pages/cains_jawbone_page_35.md
   - **Why it matters:** Might reveal a specific source text being pastiched (and anchor character identity).
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** No external identification found for Wellington Crisp from the name alone; treat as an in-world detective/pastiche figure unless later anchored elsewhere. The “alas, poor Richard! Alas, poor Thomas!” line is a mixed quotation: Shakespeare, *Richard II* (York: “Alas, poor Richard! where rode he the whilst?”) + Dryden, *The Mistaken Husband* (“Alas poor Thomas, we must all die!”): https://books.google.co.uk/books?id=9kVwN_5fp_wC&pg=RA1-PA131&dq=%22alas,+poor+Richard%22 ; https://books.google.co.uk/books?id=SxAcGP1I6TkC&pg=PA610&dq=%22alas,+poor+Thomas%22
 
 - **Item:** Identify the “good uncle… father of your fortune… longed for this alliance” line in Page 36
   - **Type:** quote/other

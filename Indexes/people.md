@@ -244,7 +244,7 @@ Template:
   - **Tells:** part of the Henry pursuit; arrives “with his assistant and his bulldog” through a concealed panel.
   - **Pronouns/relationships:** has an assistant; has a bulldog.
   - **Pages:** Pages/cains_jawbone_page_35.md
-  - **Notes:** MAYBE fictional detective/pastiche; track if he reappears.
+  - **Notes:** No external identification found yet; MAYBE fictional detective/pastiche; track if he reappears.
 
 - `P40` — Names/aliases: Mavis Kitchener
   - **Tells:** brings a “gift of eggs” at 11 a.m.; marriage-alliance pressure surrounds her.

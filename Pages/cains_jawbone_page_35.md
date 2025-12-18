@@ -11,7 +11,7 @@ For this time being, Henry was drawing towards a close. I was not sorry. The pol
   - Escape attempt: “limping blimp”.
   - “Crimson list” (victim count) + “Murders were funny things.”
 - **Quotes & allusions:**
-  - MAYBE: “alas, poor Richard! Alas, poor Thomas!” (source/context TBD; regicide/king-killing allusion).
+  - CERTAIN: “alas, poor Richard! Alas, poor Thomas!” riffs on Shakespeare’s *Richard II* (York: “Alas, poor Richard! where rode he the whilst?”) and Dryden’s *The Mistaken Husband* (“Alas poor Thomas, we must all die!”): https://books.google.co.uk/books?id=9kVwN_5fp_wC&pg=RA1-PA131&dq=%22alas,+poor+Richard%22 ; https://books.google.co.uk/books?id=SxAcGP1I6TkC&pg=PA610&dq=%22alas,+poor+Thomas%22
 - **Voice/tells:**
   - Darkly comic, thriller-pastiche tone; treats murder as genre mechanics.
 - **Ordering hypotheses:**
@@ -19,4 +19,4 @@ For this time being, Henry was drawing towards a close. I was not sorry. The pol
 - **Disconfirming evidence:**
   - If later pages show this is an embedded story/imagined scenario rather than in-world action.
 - **Research needed:**
-  - Identify Wellington Crisp (fictional detective? real reference?) and the “Richard/Thomas” allusion.
+  - (Resolved) No external identification found for Wellington Crisp; treat as an in-world detective/pastiche figure unless he is later anchored elsewhere. The “Richard/Thomas” allusion mixes Shakespeare’s “Alas, poor Richard!” (*Richard II*) and Dryden’s “Alas poor Thomas…” (*The Mistaken Husband*) (see citations above).

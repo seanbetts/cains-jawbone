@@ -238,11 +238,11 @@ Template:
   - **Research needed:** no
 
 - **Snippet:** “alas, poor Richard! Alas, poor Thomas!”
-  - **Likely source/author:** TBD
-  - **Why it matters:** Regicide/king-killing allusion embedded in a Henry manhunt scene; could identify a source text.
+  - **Likely source/author:** Mixed quotation: Shakespeare, *Richard II* (York: “Alas, poor Richard! where rode he the whilst?”) + John Dryden, *The Mistaken Husband* (“Alas poor Thomas, we must all die!”): https://books.google.co.uk/books?id=9kVwN_5fp_wC&pg=RA1-PA131&dq=%22alas,+poor+Richard%22 ; https://books.google.co.uk/books?id=SxAcGP1I6TkC&pg=PA610&dq=%22alas,+poor+Thomas%22
+  - **Why it matters:** Quote anchor embedded in the Henry manhunt pastiche; suggests deliberate quote-mashing as a voice tell.
   - **Pages:** Pages/cains_jawbone_page_35.md
-  - **Confidence:** `MAYBE`
-  - **Research needed:** yes — identify source/context.
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
 
 - **Snippet:** “Video meliora proboque”
   - **Likely source/author:** Ovid (Metamorphoses)
