@@ -17,7 +17,7 @@ I wondered if I should succeed in hurting the girl. But think of her no more. Th
 - **Quotes & allusions:**
   - “I begin at the beginning… go straight through to the end” (echoes Alice-in-Wonderland trial phrasing; likely deliberate).
   - “to be born… in a handbag… whether it had handles or not…” (strongly echoes Wilde’s *Importance of Being Earnest*).
-  - “The swallow, the bright Homonoea.” (source unclear).
+  - CERTAIN: “The swallow, the bright Homonoea.” — Greek Anthology epigram “On Claudia Homonoea” (author unknown); cf. J.W. Mackail, *Select Epigrams from the Greek Anthology* (1890), Epigram XLIII: https://www.gutenberg.org/ebooks/2378
 - **Voice/tells:**
   - Pedantic insistence on order (“begin at the beginning”); admiration of writerly facility.
 - **Ordering hypotheses:**
@@ -25,5 +25,3 @@ I wondered if I should succeed in hurting the girl. But think of her no more. Th
   - MAYBE: links to pens/handwriting pages (Pages/cains_jawbone_page_1.md, Pages/cains_jawbone_page_43.md).
 - **Disconfirming evidence:**
   - If the “will” and pen-work are later revealed to be unrelated (metaphorical) rather than document-writing/forgery.
-- **Research needed:**
-  - Identify the “Homonoea” line source and why it heads the passage.

@@ -177,8 +177,8 @@ Template:
   - **Type:** quote
   - **Pages:** Pages/cains_jawbone_page_12.md
   - **Why it matters:** Quote anchor in will/inheritance thread; could encode identity/date.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** Greek Anthology epigram “On Claudia Homonoea” (author unknown): Homonoea is described as “more golden than the Cyprian… at revellings and feasts” and she leaves tears to **Atimetus** (a distinct name, not Admetus). See J.W. Mackail, *Select Epigrams from the Greek Anthology* (1890), Epigram XLIII: https://www.gutenberg.org/ebooks/2378
 
 - **Item:** Clarify the Noel Coward “King Charles’s Head” reference on Page 12
   - **Type:** quote/other
@@ -632,8 +632,8 @@ Template:
   - **Type:** quote/term
   - **Pages:** Pages/cains_jawbone_page_50.md
   - **Why it matters:** Headline line may be a quotation or natural-history reference used as an ordering anchor.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** Greek Anthology epigram “On Claudia Homonoea” (author unknown): Homonoea is explicitly identified with swallow imagery and linked to **Atimetus**. See J.W. Mackail, *Select Epigrams from the Greek Anthology* (1890), Epigram XLIII: https://www.gutenberg.org/ebooks/2378
 
 - **Item:** Identify Page 51’s cricket reference (“the eleven that played All England for a thousand guineas… beat them twenty-nine times in ten years”) and “large yets”
   - **Type:** other

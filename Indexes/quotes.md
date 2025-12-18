@@ -91,11 +91,11 @@ Template:
   - **Research needed:** no
 
 - **Snippet:** “The golden one is gone from the banquets… beloved of Atimetus”
-  - **Likely source/author:** TBD (likely Alcestis/Admetus reference; “Atimetus” may be Admetus)
-  - **Why it matters:** Quote anchor in will/inheritance thread; may encode a date/identity.
+  - **Likely source/author:** Greek Anthology epigram “On Claudia Homonoea” (author unknown), via J.W. Mackail, *Select Epigrams from the Greek Anthology* (1890), Epigram XLIII: https://www.gutenberg.org/ebooks/2378
+  - **Why it matters:** Confirms **Atimetus** is not Admetus; the “golden”/banquet phrasing points to the Homonoea epitaph.
   - **Pages:** Pages/cains_jawbone_page_12.md
-  - **Confidence:** `MAYBE`
-  - **Research needed:** yes — identify exact source and correct name.
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
 
 - **Snippet:** “Rintrah, where has thou hid thy bride? … Ocalythron.”
   - **Likely source/author:** William Blake
@@ -420,11 +420,11 @@ Template:
   - **Research needed:** no
 
 - **Snippet:** “The swallow, the bright Homonoea.”
-  - **Likely source/author:** TBD
-  - **Why it matters:** Headline line; may be a literary/natural-history quotation used as an ordering anchor.
+  - **Likely source/author:** Greek Anthology epigram “On Claudia Homonoea” (author unknown), via J.W. Mackail, *Select Epigrams from the Greek Anthology* (1890), Epigram XLIII: https://www.gutenberg.org/ebooks/2378
+  - **Why it matters:** Obscure-name quotation anchor; ties to the same Homonoea/Atimetus epitaph referenced elsewhere.
   - **Pages:** Pages/cains_jawbone_page_50.md
-  - **Confidence:** `MAYBE`
-  - **Research needed:** yes — identify source.
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
 
 - **Snippet:** “Le couchant dardait ses rayons suprêmes…”
   - **Likely source/author:** TBD (French poem)

@@ -13,7 +13,7 @@ I rubbed my eyes and massaged my temples with pronated finger-tips. Then I fumbl
   - MAYBE: “bad head” day (medical state; no explicit date).
 - **Quotes & allusions:**
   - CERTAIN: “Ah, are you digging on my grave?” (Thomas Hardy poem; “man who sang” = setting/performer unknown).
-  - MAYBE: “The golden one is gone from the banquets… beloved of Atimetus” (source TBD; “Atimetus” may be a misspelling of Admetus).
+  - CERTAIN: “The golden one is gone from the banquets… beloved of Atimetus” — Greek Anthology epigram “On Claudia Homonoea” (author unknown); Atimetus is correct (not Admetus). Cf. J.W. Mackail, *Select Epigrams from the Greek Anthology* (1890), Epigram XLIII: https://www.gutenberg.org/ebooks/2378
   - MAYBE: “King Charles’s Head” (obsession reference; Noel Coward framing unclear).
 - **Wordplay:**
   - LIKELY: “abstracted” → “abstracted will” (legal pun).
@@ -27,5 +27,4 @@ I rubbed my eyes and massaged my temples with pronated finger-tips. Then I fumbl
 - **Disconfirming evidence:**
   - If Page 14’s “leave everything” is unrelated (different people/context).
 - **Research needed:**
-  - Identify “The golden one is gone…” source and correct name (Atimetus/Admetus).
   - Clarify the Noel Coward / “King Charles’s Head” reference.
