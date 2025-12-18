@@ -6,7 +6,7 @@ Strange that old Calabar, as I called him, should fail me ; yet on the morning a
   - CERTAIN: Calabar (likely Calabar bean/physostigma; “old Calabar”).
   - CERTAIN: Mavis Kitchener.
   - CERTAIN: Henry.
-  - MAYBE: “good uncle… father of your fortune” (quoted voice; identity TBD).
+  - MAYBE: “good uncle… father of your fortune” (quotation; not necessarily an in-world uncle).
 - **Time markers:**
   - CERTAIN: “morning after”; “at eleven in the forenoon”.
 - **Motifs/continuity hooks:**
@@ -22,5 +22,6 @@ Strange that old Calabar, as I called him, should fail me ; yet on the morning a
 - **Disconfirming evidence:**
   - If “Calabar” and corpse-burial are later shown to be figurative/embedded narrative.
 - **Research needed:**
-  - Identify the “good uncle… father of your fortune” line source/context.
+  - (Resolved) “Your good uncle, whom you count the father of your fortune, [longs/longed] for this alliance” is from Alfred, Lord Tennyson, “The Sisters” (tense-shifted in *Cain’s Jawbone*): https://books.google.co.uk/books?id=O539WMK95hsC&pg=PA461&dq=%22father%20of%20your%20fortune%22
+  - (Resolved) “old Calabar” fits Calabar bean (*Physostigma venenosum*), the “ordeal bean” of Old Calabar; EB1911 notes the poisonous dose may be rejected by the stomach (relevant to “should fail me”): https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Calabar_Bean
   - Is Mavis Kitchener an allusive name (Kitchener) or an in-world character?

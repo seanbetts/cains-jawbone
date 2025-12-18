@@ -273,11 +273,11 @@ Template:
   - **Research needed:** yes — identify source.
 
 - **Snippet:** “Your good uncle, whom you count the father of your fortune, longed for this alliance.”
-  - **Likely source/author:** TBD
+  - **Likely source/author:** Alfred, Lord Tennyson, “The Sisters” (in collected works): https://books.google.co.uk/books?id=O539WMK95hsC&pg=PA461&dq=%22father%20of%20your%20fortune%22
   - **Why it matters:** Distinct phrasing suggests a quotation/embedded voice; could link pages via the same source.
   - **Pages:** Pages/cains_jawbone_page_36.md
-  - **Confidence:** `MAYBE`
-  - **Research needed:** yes — identify source/context.
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
 
 - **Snippet:** “But M’Cullough ‘e wanted cabins with marble and maple and all…”
   - **Likely source/author:** TBD

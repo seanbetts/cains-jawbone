@@ -458,15 +458,15 @@ Template:
   - **Type:** quote/other
   - **Pages:** Pages/cains_jawbone_page_36.md
   - **Why it matters:** Could identify an embedded source voice and link other pages quoting it.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** The line is from Alfred, Lord Tennyson, “The Sisters” (“Your good uncle, whom you count the father of your fortune, longs for this alliance…”). *Cain’s Jawbone* shifts the tense (“longed”). https://books.google.co.uk/books?id=O539WMK95hsC&pg=PA461&dq=%22father%20of%20your%20fortune%22
 
 - **Item:** Confirm whether Page 36’s “old Calabar” failure refers to Calabar bean/physostigma poisoning logistics
   - **Type:** term/other
   - **Pages:** Pages/cains_jawbone_page_36.md
   - **Why it matters:** Strengthens the plant/poison method thread and timing (“give him another day”).
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** “Old Calabar” plausibly points to Calabar bean (*Physostigma venenosum*), a West African ordeal poison and source of physostigmine (eserine); EB1911 notes the poisonous dose may be rejected by the stomach, which fits the narrator’s worry that “old Calabar… should fail me.” https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Calabar_Bean
 
 - **Item:** Identify the “place of Hotspur’s death” incarceration clue and intended prison/town (Page 37)
   - **Type:** place/other
