@@ -184,8 +184,8 @@ Template:
   - **Type:** quote/other
   - **Pages:** Pages/cains_jawbone_page_12.md
   - **Why it matters:** May be a precise allusion that clusters narrator voice or anchors a source text.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** “King Charles’s head” is a Dickens allusion/idiom for a fixed idea/obsession (Mr. Dick in *David Copperfield* repeatedly returns to King Charles I’s head); Page 12 uses it as a pun on having “a very bad head” and taking aspirin. https://www.gutenberg.org/ebooks/766
 
 - **Item:** Identify which market place has a conduit dated 1597
   - **Type:** place

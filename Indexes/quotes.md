@@ -97,6 +97,13 @@ Template:
   - **Confidence:** `CERTAIN`
   - **Research needed:** no
 
+- **Snippet:** “Noel Coward’s King Charles’s Head”
+  - **Likely source/author:** Charles Dickens, *David Copperfield* — “King Charles’s head” is Mr. Dick’s recurring obsession and a stock phrase for a fixed idea/obsession: https://www.gutenberg.org/ebooks/766
+  - **Why it matters:** Puns on the narrator’s headache/aspirin while flagging a Dickens/theatre-literate voice in a will/documents scene.
+  - **Pages:** Pages/cains_jawbone_page_12.md
+  - **Confidence:** `LIKELY`
+  - **Research needed:** no
+
 - **Snippet:** “Rintrah, where has thou hid thy bride? … Ocalythron.”
   - **Likely source/author:** William Blake
   - **Why it matters:** Voice/literary tell; potential cluster for Blake-quoting narrator.

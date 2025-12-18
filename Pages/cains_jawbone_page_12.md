@@ -14,7 +14,7 @@ I rubbed my eyes and massaged my temples with pronated finger-tips. Then I fumbl
 - **Quotes & allusions:**
   - CERTAIN: “Ah, are you digging on my grave?” (Thomas Hardy poem; “man who sang” = setting/performer unknown).
   - CERTAIN: “The golden one is gone from the banquets… beloved of Atimetus” — Greek Anthology epigram “On Claudia Homonoea” (author unknown); Atimetus is correct (not Admetus). Cf. J.W. Mackail, *Select Epigrams from the Greek Anthology* (1890), Epigram XLIII: https://www.gutenberg.org/ebooks/2378
-  - MAYBE: “King Charles’s Head” (obsession reference; Noel Coward framing unclear).
+  - LIKELY: “Noel Coward’s King Charles’s Head” — “King Charles’s head” is a Dickens allusion/idiom for a fixed idea/obsession (Mr. Dick in *David Copperfield*); used here as a pun on “bad head” + aspirin. https://www.gutenberg.org/ebooks/766
 - **Wordplay:**
   - LIKELY: “abstracted” → “abstracted will” (legal pun).
 - **Motifs/continuity hooks:**
@@ -27,4 +27,4 @@ I rubbed my eyes and massaged my temples with pronated finger-tips. Then I fumbl
 - **Disconfirming evidence:**
   - If Page 14’s “leave everything” is unrelated (different people/context).
 - **Research needed:**
-  - Clarify the Noel Coward / “King Charles’s Head” reference.
+  - None.
