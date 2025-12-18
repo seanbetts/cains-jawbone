@@ -191,8 +191,8 @@ Template:
   - **Type:** place
   - **Pages:** Pages/cains_jawbone_page_13.md
   - **Why it matters:** Strong location anchor for clustering and travel constraints.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** Grantham, Lincolnshire — EB1911 “Grantham” states: “A conduit dating from 1597 stands in the wide market-place.” https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Grantham
 
 - **Item:** What is meant by “Newdigate fringe” (Page 13)?
   - **Type:** term/other

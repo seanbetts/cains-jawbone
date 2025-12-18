@@ -78,17 +78,23 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_11.md
   - **Notes:** “waited in Orchard… where he cast up blinded that night”; may be a quoted anchor rather than a literal location.
 
+- **Grantham**
+  - **Type:** town/city
+  - **Confidence:** `CERTAIN`
+  - **Pages:** Pages/cains_jawbone_page_13.md
+  - **Notes:** EB1911 notes “A conduit dating from 1597 stands in the wide market-place.” https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Grantham
+
 - **Ireland**
   - **Type:** country
   - **Confidence:** `CERTAIN`
   - **Pages:** Pages/cains_jawbone_page_11.md
   - **Notes:** Mentioned in context of murders “not count[ing]” (De Quincey reference).
 
-- **Market place conduit (dated 1597)**
+- **Conduit (Grantham Market Place; dated 1597)**
   - **Type:** landmark/infrastructure
-  - **Confidence:** `MAYBE`
+  - **Confidence:** `CERTAIN`
   - **Pages:** Pages/cains_jawbone_page_13.md
-  - **Notes:** Conduit “dating from 1597” in “the market place” suggests a specific town (unidentified).
+  - **Notes:** EB1911 “Grantham” states: “A conduit dating from 1597 stands in the wide market-place.” https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Grantham
 
 - **Lyons (unidentified)**
   - **Type:** city/venue (uncertain)

@@ -11,7 +11,8 @@ Then against a possible invasion of my privacy, I touched my white cheeks until 
 - **Entities:**
   - MAYBE: farm-labourer (unnamed man; “Newdigate fringe”).
   - CERTAIN: Henry (present; “stooping over the other body”).
-  - MAYBE: market place conduit (dated 1597; implies specific town).
+- **Places:**
+  - CERTAIN: Grantham (Lincolnshire) — EB1911 notes “A conduit dating from 1597 stands in the wide market-place.” https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Grantham
 - **Time markers:**
   - MAYBE: implied immediacy (“now”; no explicit date).
 - **Quotes & allusions:**
@@ -26,5 +27,4 @@ Then against a possible invasion of my privacy, I touched my white cheeks until 
 - **Disconfirming evidence:**
   - If Henry here is later clearly distinct from Henry elsewhere (different role/setting).
 - **Research needed:**
-  - Identify which market place has a conduit dated 1597 (place anchor).
   - What is meant by “Newdigate fringe” (hair/clue/reference)?
