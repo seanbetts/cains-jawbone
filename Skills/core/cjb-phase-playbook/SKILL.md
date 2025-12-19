@@ -24,13 +24,13 @@ Provide a single authoritative, phase-specific guide for what to do next, what n
 - Never edit page body text in `Pages/cains_jawbone_page_*.md` (only under `## Notes`).
 - Never modify anything in `Archive/`.
 - Run `python3 Scripts/verify_pages.py` after edits and before commits (integrity only).
-- Log start/end (UTC) for every session per `Skills/cjb-time-logging/SKILL.md`.
+- Log start/end (UTC) for every session per `Skills/core/cjb-time-logging/SKILL.md`.
 - Do not brute force ordering.
 
 ## Skill priority (when multiple apply)
-1. `Skills/cjb-time-logging/SKILL.md` (always first/last)
-2. `Skills/cjb-verification/SKILL.md` (before commits; after any page-note edits)
-3. `Skills/cjb-index-maintenance/SKILL.md` (after any extraction/research writes)
+1. `Skills/core/cjb-time-logging/SKILL.md` (always first/last)
+2. `Skills/core/cjb-verification/SKILL.md` (before commits; after any page-note edits)
+3. `Skills/extraction/cjb-index-maintenance/SKILL.md` (after any extraction/research writes)
 4. Phase-specific skill(s) for the current work
 
 ## Skill conflicts (tie-breaker rules)
@@ -50,7 +50,7 @@ When two Skills appear to give conflicting guidance:
 
 ## Progress checks (optional)
 - During Phase 2, run `python3 Scripts/calculate_research_progress.py` to summarise research-queue status and index confidence distribution.
-- Use `Skills/cjb-progress-check/SKILL.md` when deciding whether to advance phases.
+- Use `Skills/core/cjb-progress-check/SKILL.md` when deciding whether to advance phases.
 
 ## Wordplay policy (detectors + synthesis)
 
@@ -92,19 +92,19 @@ LIKELY WORDPLAY
 ### Wordplay skills
 
 Detectors:
-- `Skills/cjb-wordplay-anagram-detect/SKILL.md`
-- `Skills/cjb-wordplay-hidden-word-detect/SKILL.md`
-- `Skills/cjb-wordplay-homophone-detect/SKILL.md`
-- `Skills/cjb-wordplay-spoonerism-detect/SKILL.md`
-- `Skills/cjb-wordplay-reversal-detect/SKILL.md`
-- `Skills/cjb-wordplay-deletion-detect/SKILL.md`
-- `Skills/cjb-wordplay-charade-detect/SKILL.md`
-- `Skills/cjb-wordplay-double-definition-detect/SKILL.md`
-- `Skills/cjb-wordplay-orthography-detect/SKILL.md`
-- `Skills/cjb-wordplay-allusion-detect/SKILL.md`
+- `Skills/wordplay/cjb-wordplay-anagram-detect/SKILL.md`
+- `Skills/wordplay/cjb-wordplay-hidden-word-detect/SKILL.md`
+- `Skills/wordplay/cjb-wordplay-homophone-detect/SKILL.md`
+- `Skills/wordplay/cjb-wordplay-spoonerism-detect/SKILL.md`
+- `Skills/wordplay/cjb-wordplay-reversal-detect/SKILL.md`
+- `Skills/wordplay/cjb-wordplay-deletion-detect/SKILL.md`
+- `Skills/wordplay/cjb-wordplay-charade-detect/SKILL.md`
+- `Skills/wordplay/cjb-wordplay-double-definition-detect/SKILL.md`
+- `Skills/wordplay/cjb-wordplay-orthography-detect/SKILL.md`
+- `Skills/wordplay/cjb-wordplay-allusion-detect/SKILL.md`
 
 Synthesis:
-- `Skills/cjb-wordplay-synthesis/SKILL.md`
+- `Skills/wordplay/cjb-wordplay-synthesis/SKILL.md`
 
 ### Phase-to-skill mapping
 
@@ -133,22 +133,22 @@ Synthesis:
 Extract signals, not meaning.
 
 ### Use
-- `Skills/cjb-page-extraction/SKILL.md`
-- `Skills/cjb-index-maintenance/SKILL.md`
-- `Skills/cjb-verification/SKILL.md`
+- `Skills/extraction/cjb-page-extraction/SKILL.md`
+- `Skills/extraction/cjb-index-maintenance/SKILL.md`
+- `Skills/core/cjb-verification/SKILL.md`
 Wordplay detectors (see Wordplay policy):
-- `Skills/cjb-wordplay-anagram-detect/SKILL.md`
-- `Skills/cjb-wordplay-hidden-word-detect/SKILL.md`
-- `Skills/cjb-wordplay-homophone-detect/SKILL.md`
-- `Skills/cjb-wordplay-spoonerism-detect/SKILL.md`
-- `Skills/cjb-wordplay-reversal-detect/SKILL.md`
-- `Skills/cjb-wordplay-deletion-detect/SKILL.md`
-- `Skills/cjb-wordplay-charade-detect/SKILL.md`
-- `Skills/cjb-wordplay-double-definition-detect/SKILL.md`
-- `Skills/cjb-wordplay-orthography-detect/SKILL.md`
-- `Skills/cjb-wordplay-allusion-detect/SKILL.md`
+- `Skills/wordplay/cjb-wordplay-anagram-detect/SKILL.md`
+- `Skills/wordplay/cjb-wordplay-hidden-word-detect/SKILL.md`
+- `Skills/wordplay/cjb-wordplay-homophone-detect/SKILL.md`
+- `Skills/wordplay/cjb-wordplay-spoonerism-detect/SKILL.md`
+- `Skills/wordplay/cjb-wordplay-reversal-detect/SKILL.md`
+- `Skills/wordplay/cjb-wordplay-deletion-detect/SKILL.md`
+- `Skills/wordplay/cjb-wordplay-charade-detect/SKILL.md`
+- `Skills/wordplay/cjb-wordplay-double-definition-detect/SKILL.md`
+- `Skills/wordplay/cjb-wordplay-orthography-detect/SKILL.md`
+- `Skills/wordplay/cjb-wordplay-allusion-detect/SKILL.md`
 Optional (only when relevant):
-- `Skills/cjb-means-and-methods/SKILL.md`
+- `Skills/analysis/cjb-means-and-methods/SKILL.md`
 
 ### Allowed actions
 - Read each page once and populate `## Notes` only.
@@ -186,14 +186,14 @@ Optional (only when relevant):
 Collapse ambiguity caused by external references while keeping scope bounded.
 
 ### Use
-- `Skills/cjb-quote-research/SKILL.md`
-- `Skills/cjb-date-research/SKILL.md`
-- `Skills/cjb-location-research/SKILL.md`
-- `Skills/cjb-index-maintenance/SKILL.md`
-- `Skills/cjb-wordplay-synthesis/SKILL.md`
+- `Skills/research/cjb-quote-research/SKILL.md`
+- `Skills/research/cjb-date-research/SKILL.md`
+- `Skills/research/cjb-location-research/SKILL.md`
+- `Skills/extraction/cjb-index-maintenance/SKILL.md`
+- `Skills/wordplay/cjb-wordplay-synthesis/SKILL.md`
 Optional:
-- `Skills/cjb-verification/SKILL.md`
-- `Skills/cjb-progress-check/SKILL.md`
+- `Skills/core/cjb-verification/SKILL.md`
+- `Skills/core/cjb-progress-check/SKILL.md`
 
 ### Allowed actions
 Research only items that meet at least one criterion:
@@ -232,12 +232,12 @@ Resolve by:
 Identify groups before order.
 
 ### Use
-- `Skills/cjb-order-hypotheses/SKILL.md` (clusters-only mode)
-- `Skills/cjb-index-maintenance/SKILL.md`
-- `Skills/cjb-wordplay-synthesis/SKILL.md`
-- `Skills/cjb-narrator-profiling/SKILL.md`
+- `Skills/analysis/cjb-order-hypotheses/SKILL.md` (clusters-only mode)
+- `Skills/extraction/cjb-index-maintenance/SKILL.md`
+- `Skills/wordplay/cjb-wordplay-synthesis/SKILL.md`
+- `Skills/analysis/cjb-narrator-profiling/SKILL.md`
 Optional:
-- `Skills/cjb-progress-check/SKILL.md`
+- `Skills/core/cjb-progress-check/SKILL.md`
 
 ### Allowed actions
 - Identify patterns across pages:
@@ -274,11 +274,11 @@ Optional:
 Turn clusters into sequences.
 
 ### Use
-- `Skills/cjb-order-hypotheses/SKILL.md`
-- `Skills/cjb-verification/SKILL.md`
+- `Skills/analysis/cjb-order-hypotheses/SKILL.md`
+- `Skills/core/cjb-verification/SKILL.md`
 Optional:
-- `Skills/cjb-wordplay-synthesis/SKILL.md`
-- `Skills/cjb-narrator-profiling/SKILL.md`
+- `Skills/wordplay/cjb-wordplay-synthesis/SKILL.md`
+- `Skills/analysis/cjb-narrator-profiling/SKILL.md`
 
 ### Allowed actions
 Within a single cluster at a time, propose internal page sequences using:
@@ -312,13 +312,13 @@ Record:
 Build the full 100-page sequence.
 
 ### Use
-- `Skills/cjb-order-hypotheses/SKILL.md`
-- `Skills/cjb-murder-analysis/SKILL.md`
-- `Skills/cjb-means-and-methods/SKILL.md`
-- `Skills/cjb-motive-and-relationships/SKILL.md`
+- `Skills/analysis/cjb-order-hypotheses/SKILL.md`
+- `Skills/analysis/cjb-murder-analysis/SKILL.md`
+- `Skills/analysis/cjb-means-and-methods/SKILL.md`
+- `Skills/analysis/cjb-motive-and-relationships/SKILL.md`
 Optional:
-- `Skills/cjb-wordplay-synthesis/SKILL.md`
-- `Skills/cjb-narrator-profiling/SKILL.md`
+- `Skills/wordplay/cjb-wordplay-synthesis/SKILL.md`
+- `Skills/analysis/cjb-narrator-profiling/SKILL.md`
 
 ### Allowed actions
 - Align cluster endings to other cluster beginnings.
@@ -348,12 +348,12 @@ Optional:
 Break the solution, then earn confidence back.
 
 ### Use
-- `Skills/cjb-verification/SKILL.md`
-- `Skills/cjb-order-hypotheses/SKILL.md`
-- `Skills/cjb-murder-analysis/SKILL.md`
-- `Skills/cjb-falsification/SKILL.md`
+- `Skills/core/cjb-verification/SKILL.md`
+- `Skills/analysis/cjb-order-hypotheses/SKILL.md`
+- `Skills/analysis/cjb-murder-analysis/SKILL.md`
+- `Skills/analysis/cjb-falsification/SKILL.md`
 Optional:
-- `Skills/cjb-wordplay-synthesis/SKILL.md`
+- `Skills/wordplay/cjb-wordplay-synthesis/SKILL.md`
 
 ### Allowed actions
 - Actively falsify:

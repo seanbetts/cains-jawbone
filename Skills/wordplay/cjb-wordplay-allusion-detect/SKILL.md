@@ -7,7 +7,7 @@ description: Detect candidate allusions/quotations (quote-like spans) and emit C
 # Cain’s Jawbone — Wordplay Detector: Allusion / Quotation Candidate
 
 ## Purpose
-Flag short spans that look like **candidate quotations/allusions** for later verification via `Skills/cjb-quote-research/SKILL.md`.
+Flag short spans that look like **candidate quotations/allusions** for later verification via `Skills/research/cjb-quote-research/SKILL.md`.
 
 ## Inputs
 - A sentence/clause (default), or a user-specified short span.
@@ -33,7 +33,7 @@ CANDIDATE
 
 ## Phase usage
 - **Phase 1:** run broadly (high recall) to capture candidates.
-- **Phase 2:** optional targeted rerun on a specified span; then hand off to `Skills/cjb-quote-research/SKILL.md`.
+- **Phase 2:** optional targeted rerun on a specified span; then hand off to `Skills/research/cjb-quote-research/SKILL.md`.
 - **Phase 3:** do not run by default.
 - **Phase 4+:** rerun only when verifying a dispute/constraint.
 

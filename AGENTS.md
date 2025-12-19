@@ -5,9 +5,9 @@ This folder is a **literary puzzle workspace**, not a software project. The goal
 ## Golden rules (must-follow)
 
 1. **Log time before/after work.**  
-   Follow `Skills/cjb-time-logging/SKILL.md`: capture `start` (UTC) before opening files and append to `Worklog/worklog.csv` with `end`/`minutes` before finishing.
+   Follow `Skills/core/cjb-time-logging/SKILL.md`: capture `start` (UTC) before opening files and append to `Worklog/worklog.csv` with `end`/`minutes` before finishing.
 2. **Use the active run branch.**  
-   Follow `Skills/cjb-run-management/SKILL.md`: read `Worklog/current_run.txt`, stay on the recorded branch if present, or create a new `run/YYYYMMDD-agent-focus` branch only when the file is empty **and** you are starting a new end-to-end run (not a new page batch / session). Do not work on `main` directly.
+   Follow `Skills/core/cjb-run-management/SKILL.md`: read `Worklog/current_run.txt`, stay on the recorded branch if present, or create a new `run/YYYYMMDD-agent-focus` branch only when the file is empty **and** you are starting a new end-to-end run (not a new page batch / session). Do not work on `main` directly.
 3. **Never change page body text.**  
    For any file in `Pages/cains_jawbone_page_*.md`, only edit content **under** the `## Notes` heading. Do not alter, reflow, wrap, or “fix” punctuation in the page text above `## Notes`.
 4. **Keep the archive immutable.**  
@@ -29,7 +29,7 @@ Agents must explicitly declare the phase they are operating in before starting w
   - Phase 5: Cross-cluster stitching
   - Phase 6: Convergence and falsification
 
-For phase-specific procedures, required Skills, file updates, forbidden actions, and exit conditions, follow `Skills/cjb-phase-playbook/SKILL.md`.
+For phase-specific procedures, required Skills, file updates, forbidden actions, and exit conditions, follow `Skills/core/cjb-phase-playbook/SKILL.md`.
 
 - The active phase must be recorded:
   - in `Worklog/current_run.txt`, and
@@ -39,9 +39,9 @@ Actions outside the declared phase require explicit instruction from the user.
 
 ## Working loop (default)
 
-- Extract clues from a page into `## Notes` (per `Skills/cjb-page-extraction/SKILL.md`).
-- Update relevant `Indexes/*` entries (per `Skills/cjb-index-maintenance/SKILL.md`).
-- If proposing a linkage/sequence, record it (plus falsifier) in `Order/hypotheses.md` (per `Skills/cjb-order-hypotheses/SKILL.md`).
+- Extract clues from a page into `## Notes` (per `Skills/extraction/cjb-page-extraction/SKILL.md`).
+- Update relevant `Indexes/*` entries (per `Skills/extraction/cjb-index-maintenance/SKILL.md`).
+- If proposing a linkage/sequence, record it (plus falsifier) in `Order/hypotheses.md` (per `Skills/analysis/cjb-order-hypotheses/SKILL.md`).
 - When a page likely involves in-world harm/death, use the murder-analysis skills (below) and keep `Order/cast.md` + `Order/confidence.md` updated.
 - **Default sequencing:** complete a full page-extraction pass (all 100 pages) before doing any external research; capture research needs as `open` items in `Indexes/research_queue.md`.
 
@@ -56,28 +56,28 @@ Phase constraints apply:
 
 Keep all detailed procedures, templates, and rules in the Skill files to avoid drift. If guidance conflicts, treat the relevant `SKILL.md` as authoritative.
 
-- **Phase playbook:** `Skills/cjb-phase-playbook/SKILL.md` — use at the start of a run and whenever the phase changes to determine allowed actions, required Skills, file updates, and exit conditions.
-- **Page extraction:** `Skills/cjb-page-extraction/SKILL.md` — use when reviewing a page and updating `## Notes` + indices.
-- **Index maintenance:** `Skills/cjb-index-maintenance/SKILL.md` — use when curating `Indexes/*` consistency and cross-links.
-- **Order hypotheses:** `Skills/cjb-order-hypotheses/SKILL.md` — use when clustering pages and proposing sequences (with falsifiers).
-- **Murder analysis:** `Skills/cjb-murder-analysis/SKILL.md` — use when pages imply in-world death/violence; updates cast + murder-confidence ledgers.
-- **Means & methods:** `Skills/cjb-means-and-methods/SKILL.md` — use to catalogue substances/methods conservatively without committing to murder.
-- **Motive & relationships:** `Skills/cjb-motive-and-relationships/SKILL.md` — use to extract relationship/power dynamics that support motive hypotheses.
-- **Narrator profiling:** `Skills/cjb-narrator-profiling/SKILL.md` — use in Phase 3+ to catalogue narrator “signatures” (voice tells) without imposing page order.
-- **Quote research:** `Skills/cjb-quote-research/SKILL.md` — use when capturing/identifying allusions and managing the research queue.
-- **Falsification:** `Skills/cjb-falsification/SKILL.md` — use in Phase 6 to systematically try to break ordering/murder hypotheses and record outcomes.
-- **Progress check:** `Skills/cjb-progress-check/SKILL.md` — use to decide “what next” and whether phase exit conditions are met.
-- **Verification:** `Skills/cjb-verification/SKILL.md` — use when running integrity checks and interpreting failures.
-- **Time logging:** `Skills/cjb-time-logging/SKILL.md` — use at the start and end of every working session to keep `Worklog/worklog.csv` accurate.
-- **Run management:** `Skills/cjb-run-management/SKILL.md` — use to create/close run branches and maintain `Worklog/current_run.txt`.
-- **Merge to main:** `Skills/cjb-merge-to-main/SKILL.md` — use to selectively merge infrastructure (Skills, Scripts, docs) to `main` without merging puzzle state.
-- **Date research:** `Skills/cjb-date-research/SKILL.md` — use Chambers' Book of Days to interpret calendar clues.
-- **Location research:** `Skills/cjb-location-research/SKILL.md` — use Highways & Byways guides to ground geographic clues.
+- **Phase playbook:** `Skills/core/cjb-phase-playbook/SKILL.md` — use at the start of a run and whenever the phase changes to determine allowed actions, required Skills, file updates, and exit conditions.
+- **Page extraction:** `Skills/extraction/cjb-page-extraction/SKILL.md` — use when reviewing a page and updating `## Notes` + indices.
+- **Index maintenance:** `Skills/extraction/cjb-index-maintenance/SKILL.md` — use when curating `Indexes/*` consistency and cross-links.
+- **Order hypotheses:** `Skills/analysis/cjb-order-hypotheses/SKILL.md` — use when clustering pages and proposing sequences (with falsifiers).
+- **Murder analysis:** `Skills/analysis/cjb-murder-analysis/SKILL.md` — use when pages imply in-world death/violence; updates cast + murder-confidence ledgers.
+- **Means & methods:** `Skills/analysis/cjb-means-and-methods/SKILL.md` — use to catalogue substances/methods conservatively without committing to murder.
+- **Motive & relationships:** `Skills/analysis/cjb-motive-and-relationships/SKILL.md` — use to extract relationship/power dynamics that support motive hypotheses.
+- **Narrator profiling:** `Skills/analysis/cjb-narrator-profiling/SKILL.md` — use in Phase 3+ to catalogue narrator “signatures” (voice tells) without imposing page order.
+- **Quote research:** `Skills/research/cjb-quote-research/SKILL.md` — use when capturing/identifying allusions and managing the research queue.
+- **Falsification:** `Skills/analysis/cjb-falsification/SKILL.md` — use in Phase 6 to systematically try to break ordering/murder hypotheses and record outcomes.
+- **Progress check:** `Skills/core/cjb-progress-check/SKILL.md` — use to decide “what next” and whether phase exit conditions are met.
+- **Verification:** `Skills/core/cjb-verification/SKILL.md` — use when running integrity checks and interpreting failures.
+- **Time logging:** `Skills/core/cjb-time-logging/SKILL.md` — use at the start and end of every working session to keep `Worklog/worklog.csv` accurate.
+- **Run management:** `Skills/core/cjb-run-management/SKILL.md` — use to create/close run branches and maintain `Worklog/current_run.txt`.
+- **Merge to main:** `Skills/core/cjb-merge-to-main/SKILL.md` — use to selectively merge infrastructure (Skills, Scripts, docs) to `main` without merging puzzle state.
+- **Date research:** `Skills/research/cjb-date-research/SKILL.md` — use Chambers' Book of Days to interpret calendar clues.
+- **Location research:** `Skills/research/cjb-location-research/SKILL.md` — use Highways & Byways guides to ground geographic clues.
 
 ## Wordplay skills
 
-- **Detectors:** `Skills/cjb-wordplay-*-detect/SKILL.md` (anagram, hidden-word, homophone, spoonerism, reversal, deletion, charade, double-definition, orthography, allusion)
-- **Synthesis:** `Skills/cjb-wordplay-synthesis/SKILL.md`
+- **Detectors:** `Skills/wordplay/cjb-wordplay-*-detect/SKILL.md` (anagram, hidden-word, homophone, spoonerism, reversal, deletion, charade, double-definition, orthography, allusion)
+- **Synthesis:** `Skills/wordplay/cjb-wordplay-synthesis/SKILL.md`
 - **Phase policy:** Phase 1 detectors only; Phase 2–3 synthesis; Phase 4+ rerun only to verify disputes/constraints.
 - **Hard rule:** detectors never order pages; synthesis may say “useful for ordering” but must not claim final ordering.
 - **Output contract:** every block includes `confidence` + `falsifier(s)` and uses exact short spans; synthesis outputs are copied to `Indexes/wordplay.md`.
@@ -108,7 +108,7 @@ Use murder-analysis skills conservatively:
 
 ## Notes quick reference (non-authoritative)
 
-This is a convenience summary only. The authoritative procedure/template is `Skills/cjb-page-extraction/SKILL.md`.
+This is a convenience summary only. The authoritative procedure/template is `Skills/extraction/cjb-page-extraction/SKILL.md`.
 
 - Add notes only under `## Notes` in `Pages/cains_jawbone_page_*.md`.
 - Prefer clue extraction over plot summary; keep quotes minimal.
@@ -127,7 +127,7 @@ Before finishing:
 3. Append a row to `Worklog/worklog.csv` (`date,agent,phase,task,start,end,minutes,branch,commit,notes`).
 4. Include `branch` and `commit` if available.
 
-See `Skills/cjb-time-logging/SKILL.md` for the full procedure and formatting requirements.
+See `Skills/core/cjb-time-logging/SKILL.md` for the full procedure and formatting requirements.
 
 ## Agent runs and branching
 

@@ -13,7 +13,7 @@ Track *in-world* death/murder hypotheses separately from page-ordering hypothese
 
 ## Confidence conventions
 
-- Confidence is numeric `0.0–1.0`; use `Skills/cjb-phase-playbook/SKILL.md` for shared mapping to `MAYBE/LIKELY/CERTAIN`.
+- Confidence is numeric `0.0–1.0`; use `Skills/core/cjb-phase-playbook/SKILL.md` for shared mapping to `MAYBE/LIKELY/CERTAIN`.
 - Adjust conservatively (usually ±0.05 per new anchor) unless the text is explicit.
 
 ## Event template

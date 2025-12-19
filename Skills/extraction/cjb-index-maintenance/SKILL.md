@@ -65,7 +65,7 @@ description: Keep Cain’s Jawbone global indices consistent (people, places, qu
   - include only `LIKELY WORDPLAY` blocks (do not copy raw detector `CANDIDATE` blocks here).
 - Always include the page path and keep entries in page-number order.
 - Keep `span` exact and short; do not paste long page text.
-- Every entry must include `confidence` and `falsifiers` (per `Skills/cjb-wordplay-synthesis/SKILL.md`).
+- Every entry must include `confidence` and `falsifiers` (per `Skills/wordplay/cjb-wordplay-synthesis/SKILL.md`).
 
 ### Research queue (`Indexes/research_queue.md`)
 
@@ -80,7 +80,7 @@ description: Keep Cain’s Jawbone global indices consistent (people, places, qu
 ## Formatting conventions
 
 - **Page references:** always use full paths like `Pages/cains_jawbone_page_42.md` and keep page lists in numeric order.
-- **Confidence tags:** use only `CERTAIN`, `LIKELY`, `MAYBE` (see `Skills/cjb-phase-playbook/SKILL.md` for shared conventions).
+- **Confidence tags:** use only `CERTAIN`, `LIKELY`, `MAYBE` (see `Skills/core/cjb-phase-playbook/SKILL.md` for shared conventions).
 
 ## After any batch update
 

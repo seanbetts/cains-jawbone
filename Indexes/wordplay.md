@@ -3,7 +3,7 @@
 Cross-page catalogue of **synthesised** wordplay findings for quick scanning.
 
 Rules:
-- Only copy `LIKELY WORDPLAY` blocks here (from `Skills/cjb-wordplay-synthesis/SKILL.md`).
+- Only copy `LIKELY WORDPLAY` blocks here (from `Skills/wordplay/cjb-wordplay-synthesis/SKILL.md`).
 - Keep `span` exact and short; do not paste long page text.
 - Always include the page path and keep entries in page-number order.
 

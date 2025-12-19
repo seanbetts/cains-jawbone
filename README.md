@@ -11,11 +11,16 @@ This is not a software project; the “code” here exists only to protect text 
 - `Indexes/` — global indices (`people.md`, `places.md`, `quotes.md`, `objects_motifs.md`, `narrators.md`, `wordplay.md`, `research_queue.md`)
   - `Indexes/SCHEMA.md` — minimal schema for index file structure
 - `Order/` — ordering hypotheses and clusters (`hypotheses.md`), plus cast + murder-confidence ledgers (`cast.md`, `confidence.md`)
-- `Skills/` — modular workflows (authoritative procedures in each `SKILL.md`)
+- `Skills/` — modular workflows organized by category:
+  - `Skills/core/` — phase playbook, time logging, run management, verification, progress check, merge-to-main
+  - `Skills/extraction/` — page extraction, index maintenance
+  - `Skills/research/` — quote, date, and location research
+  - `Skills/analysis/` — order hypotheses, murder analysis, narrator profiling, falsification
+  - `Skills/wordplay/` — synthesis + 10 mechanism-specific detectors
 - `Scripts/` — helper scripts (integrity + lightweight progress metrics)
   - `Scripts/verify_pages.py` — integrity verifier (archive hash + page-body immutability)
   - `Scripts/calculate_research_progress.py` — research/index progress summary
-- `Worklog/worklog.csv` — mandatory session log (see `Skills/cjb-time-logging/SKILL.md`)
+- `Worklog/worklog.csv` — mandatory session log (see `Skills/core/cjb-time-logging/SKILL.md`)
 - `Worklog/current_run.txt` — active run metadata (empty means no active run)
 
 ## Golden rules
@@ -50,7 +55,7 @@ Stress-test the full ordering and murder list by actively seeking contradictions
 
 Historically appropriate reference material for research is listed in `Indexes/reference_sources.md`.
 
-Operational procedures for each phase (allowed actions, required Skills, outputs, and exit conditions) are defined in `Skills/cjb-phase-playbook/SKILL.md`.
+Operational procedures for each phase (allowed actions, required Skills, outputs, and exit conditions) are defined in `Skills/core/cjb-phase-playbook/SKILL.md`.
 
 ## Working loop
 
@@ -103,25 +108,25 @@ It contains no working or explanation.
 
 The authoritative procedures/templates live in these files:
 
-- `Skills/cjb-phase-playbook/SKILL.md`
-- `Skills/cjb-page-extraction/SKILL.md`
-- `Skills/cjb-index-maintenance/SKILL.md`
-- `Skills/cjb-order-hypotheses/SKILL.md`
-- `Skills/cjb-murder-analysis/SKILL.md`
-- `Skills/cjb-means-and-methods/SKILL.md`
-- `Skills/cjb-motive-and-relationships/SKILL.md`
-- `Skills/cjb-narrator-profiling/SKILL.md`
-- `Skills/cjb-quote-research/SKILL.md`
-- `Skills/cjb-wordplay-synthesis/SKILL.md`
-- `Skills/cjb-verification/SKILL.md`
-- `Skills/cjb-time-logging/SKILL.md`
-- `Skills/cjb-run-management/SKILL.md`
-- `Skills/cjb-merge-to-main/SKILL.md`
-- `Skills/cjb-date-research/SKILL.md`
-- `Skills/cjb-location-research/SKILL.md`
-- `Skills/cjb-falsification/SKILL.md`
-- `Skills/cjb-progress-check/SKILL.md`
-- Wordplay detectors live under `Skills/cjb-wordplay-*-detect/SKILL.md`.
+- `Skills/core/cjb-phase-playbook/SKILL.md`
+- `Skills/extraction/cjb-page-extraction/SKILL.md`
+- `Skills/extraction/cjb-index-maintenance/SKILL.md`
+- `Skills/analysis/cjb-order-hypotheses/SKILL.md`
+- `Skills/analysis/cjb-murder-analysis/SKILL.md`
+- `Skills/analysis/cjb-means-and-methods/SKILL.md`
+- `Skills/analysis/cjb-motive-and-relationships/SKILL.md`
+- `Skills/analysis/cjb-narrator-profiling/SKILL.md`
+- `Skills/research/cjb-quote-research/SKILL.md`
+- `Skills/wordplay/cjb-wordplay-synthesis/SKILL.md`
+- `Skills/core/cjb-verification/SKILL.md`
+- `Skills/core/cjb-time-logging/SKILL.md`
+- `Skills/core/cjb-run-management/SKILL.md`
+- `Skills/core/cjb-merge-to-main/SKILL.md`
+- `Skills/research/cjb-date-research/SKILL.md`
+- `Skills/research/cjb-location-research/SKILL.md`
+- `Skills/analysis/cjb-falsification/SKILL.md`
+- `Skills/core/cjb-progress-check/SKILL.md`
+- Wordplay detectors live under `Skills/wordplay/cjb-wordplay-*-detect/SKILL.md`.
 
 ## Integrity checking
 

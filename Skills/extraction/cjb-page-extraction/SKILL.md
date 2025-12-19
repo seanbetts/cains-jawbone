@@ -47,7 +47,7 @@ During the first full extraction pass, do not pause to resolve external research
    - **Voice/tells:** diction, punctuation habits, obsessions, professional knowledge.
    - **Research needed:** items to add to the global research queue.
 4. Use confidence tags: `CERTAIN:`, `LIKELY:`, `MAYBE:`.
-   - Wordplay outputs use `low|med|high` per `Skills/cjb-wordplay-synthesis/SKILL.md` and the Wordplay policy in `Skills/cjb-phase-playbook/SKILL.md`.
+   - Wordplay outputs use `low|med|high` per `Skills/wordplay/cjb-wordplay-synthesis/SKILL.md` and the Wordplay policy in `Skills/core/cjb-phase-playbook/SKILL.md`.
 5. If you discover index-worthy items, update:
    - `Indexes/people.md`
    - `Indexes/places.md`
@@ -60,10 +60,10 @@ During the first full extraction pass, do not pause to resolve external research
 
 - **Phase 1:** do not add clustering/ordering hypotheses. If harm/death is not unmistakable, add a single `Murder analysis flag` bullet and defer ledger updates.
 - **Phase 1 (wordplay):** run all wordplay detectors (high recall) and record `CANDIDATE` blocks; do not interpret beyond `rationale` + `falsifier`.
-- **Phase 2 (wordplay):** run `Skills/cjb-wordplay-synthesis/SKILL.md` to select 1–3 `LIKELY WORDPLAY` blocks and convert quote/place/date candidates into targeted research queue items.
+- **Phase 2 (wordplay):** run `Skills/wordplay/cjb-wordplay-synthesis/SKILL.md` to select 1–3 `LIKELY WORDPLAY` blocks and convert quote/place/date candidates into targeted research queue items.
 - **Phase 3:** optionally add `Cluster candidates` notes on pages (no sequences).
 - **Phase 4+:** optionally add `Ordering hypotheses` + `Disconfirming evidence` bullets (with falsifiers).
-- **Phase 5+:** if an in-world death/attempt is supported by text, use `Skills/cjb-means-and-methods/SKILL.md` and `Skills/cjb-murder-analysis/SKILL.md`, and keep `Order/cast.md` + `Order/confidence.md` updated.
+- **Phase 5+:** if an in-world death/attempt is supported by text, use `Skills/analysis/cjb-means-and-methods/SKILL.md` and `Skills/analysis/cjb-murder-analysis/SKILL.md`, and keep `Order/cast.md` + `Order/confidence.md` updated.
 
 ## Output checklist
 

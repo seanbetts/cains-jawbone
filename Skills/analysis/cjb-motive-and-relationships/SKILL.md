@@ -34,7 +34,7 @@ Trigger this skill when:
 3. Update `Indexes/people.md`:
    - add relationships under the relevant `Pxx` entries (pronouns/relationships)
    - update tells that support motive (habits, dependencies, threats)
-4. If the relationship evidence meaningfully changes a death/violence hypothesis, run `Skills/cjb-murder-analysis/SKILL.md` (so cast/confidence stay in sync).
+4. If the relationship evidence meaningfully changes a death/violence hypothesis, run `Skills/analysis/cjb-murder-analysis/SKILL.md` (so cast/confidence stay in sync).
 5. If narrator psychology/voice is revealing, record it under the page’s `## Notes` (**Voice/tells**) and, if it clusters, in `Order/hypotheses.md`.
 
 ## Output checklist

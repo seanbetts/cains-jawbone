@@ -61,7 +61,7 @@ Fill what you can; leave unknowns explicit.
 - **Narrative tells:** self-incrimination, irony, over-precision, slips, misdirection.
 - **Confidence + falsifiers:** numeric `0.0–1.0` plus what would disprove it.
 
-If substances/food/drink/medicine are central, run `Skills/cjb-means-and-methods/SKILL.md` first, then return here.
+If substances/food/drink/medicine are central, run `Skills/analysis/cjb-means-and-methods/SKILL.md` first, then return here.
 
 ### 3) Update ledgers (required for `IN-WORLD` or `UNCLEAR`)
 
