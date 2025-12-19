@@ -598,14 +598,14 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_45.md
   - **Why it matters:** Food/drink brand list may anchor a venue, region, or coded sequence.
   - **Status:** `open`
-  - **Result:**
+  - **Result:** Epicam is advertised as “EPICAM… the Worcestershire Ham” in *Country Life* (1934): https://books.google.co.uk/books?id=rRYiAQAAMAAJ&dq=Epicam&jscmd=SearchWithinVolume2, and is associated with “EPICURE HAM CO. LTD., Pershore, Worcs.” in *Country Life Illustrated* (1934): https://books.google.co.uk/books?id=OBYiAQAAMAAJ&dq=%22EPICURE%20HAM%22&jscmd=SearchWithinVolume2. Villacabras is advertised as Spanish “Natural Mineral Purgative Water” in *Occidental Medical Times* (1892): https://books.google.co.uk/books?id=WagRAAAAYAAJ&dq=VILLACABRAS&jscmd=SearchWithinVolume2. “Peter Barleys” is LIKELY a pun on “Peter Parley” (Samuel Griswold Goodrich): https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Goodrich,_Samuel_Griswold. “Royans aux Achard” remains unresolved.
 
 - **Item:** Interpret “half Pole, half Frenchman… usually up the first half” (Page 45)
   - **Type:** other
   - **Pages:** Pages/cains_jawbone_page_45.md
   - **Why it matters:** Could identify a specific person, a nickname, or a repeated wordplay pattern.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** The phrasing “half Pole, half Frenchman… drunken mongrel… lazy waster…” appears in Menyhért Lengyel, *Typhoon* (Methuen, 1913), p. 110 (tr. Laurence Irving): https://books.google.co.uk/books?id=fvY1AQAAIAAJ&dq=%22half%20Pole%22&jscmd=SearchWithinVolume2. The CJ insertion “usually up the first half” remains unresolved.
 
 - **Item:** Identify the “murderous doctor… friend… dear to me” quotation on Page 46
   - **Type:** quote

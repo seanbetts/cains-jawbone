@@ -59,6 +59,18 @@ Template:
     - “Lyons” is later clearly a J. Lyons & Co. venue in this narrator’s context (no time-zone contrast)
     - “coming of age hours” is used literally elsewhere (not as a 21→21:00 pun)
 
+- `Pages/cains_jawbone_page_45.md`
+
+  LIKELY WORDPLAY
+  - mechanism(s): allusion + homophone
+  - span: "Peter Barleys"
+  - best reading: "Peter Parley (Samuel Griswold Goodrich pseudonym)"
+  - confidence: med
+  - why it matters: narrator -> indicates a literary-allusion/pun style embedded in the “menu list”.
+  - falsifiers:
+    - “Peter Barleys” is later confirmed as a literal food/drink brand name in a period source
+    - the surrounding list items are all literal brands with no punning intent
+
 - `Pages/cains_jawbone_page_91.md`
 
   LIKELY WORDPLAY

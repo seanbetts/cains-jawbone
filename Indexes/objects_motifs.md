@@ -46,6 +46,16 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_43.md, Pages/cains_jawbone_page_45.md, Pages/cains_jawbone_page_48.md, Pages/cains_jawbone_page_60.md, Pages/cains_jawbone_page_63.md
   - **Notes:** Bar/club or sweets-menu continuity candidate; overlaps with cigarette and seduction motifs. “Lover’s Delight” is attested as an ice-cream-parlour specialty (three cones of ice cream on a sundae dish): *The Spatula* (1922) p. 23: https://books.google.com/books?id=_hZOAAAAMAAJ&pg=PA23&dq=%22Lover%27s+Delight%22. “Rainbow” on Page 63 is LIKELY a Rainbow Sundae (layered ice-cream sundae): *Bakers Review* (Apr 1913) “RAINBOW SUNDAE” recipe: http://books.google.co.uk/books?id=MKYTAAAAYAAJ&pg=PA72&dq=%22Rainbow+Sundae%22+%22cocktail+glass%22&hl=&as_pt=BOOKS&cd=4&source=gbs_api.
 
+- **Epicam (Worcestershire ham)**
+  - **Instances / variants:** “devilled Epicam”
+  - **Pages:** Pages/cains_jawbone_page_45.md
+  - **Notes:** “EPICAM” is advertised as “the Worcestershire Ham” in *Country Life* (1934): https://books.google.co.uk/books?id=rRYiAQAAMAAJ&dq=Epicam&jscmd=SearchWithinVolume2, and associated with “EPICURE HAM CO. LTD., Pershore, Worcs.” in *Country Life Illustrated* (1934): https://books.google.co.uk/books?id=OBYiAQAAMAAJ&dq=%22EPICURE%20HAM%22&jscmd=SearchWithinVolume2.
+
+- **Villacabras (mineral purgative water)**
+  - **Instances / variants:** “washed down and out… with Villacabras”
+  - **Pages:** Pages/cains_jawbone_page_45.md
+  - **Notes:** Advertised as “Natural Mineral Purgative Water” from springs in Spain (*Occidental Medical Times*, 1892): https://books.google.co.uk/books?id=WagRAAAAYAAJ&dq=VILLACABRAS&jscmd=SearchWithinVolume2.
+
 - **Devona (sweetmeat)**
   - **Instances / variants:** “Devona” (sweetmeat); “minty humbugs”
   - **Pages:** Pages/cains_jawbone_page_92.md

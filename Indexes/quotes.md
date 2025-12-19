@@ -335,6 +335,13 @@ Template:
   - **Confidence:** `CERTAIN`
   - **Research needed:** no
 
+- **Snippet:** “half Pole, half Frenchman… drunken mongrel… lazy waster…”
+  - **Likely source/author:** Menyhért Lengyel, *Typhoon* (Methuen, 1913), p. 110 (tr. Laurence Irving): https://books.google.co.uk/books?id=fvY1AQAAIAAJ&dq=%22half%20Pole%22&jscmd=SearchWithinVolume2
+  - **Why it matters:** External allusion anchor for Page 45’s character-description cluster; reinforces this narrator’s habit of lifting distinctive phrasing.
+  - **Pages:** Pages/cains_jawbone_page_45.md
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
+
 - **Snippet:** “I dance with the dancers and drink with the drinkers.”
   - **Likely source/author:** Walt Whitman (likely *Song of Myself*)
   - **Why it matters:** Strong narrator/allusion-set anchor; links to other Whitman-quoting pages.
