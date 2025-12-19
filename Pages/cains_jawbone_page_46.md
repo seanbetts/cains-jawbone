@@ -13,7 +13,7 @@ In one way, of course, I was glad they were married. I had always been rather a 
   - CERTAIN: England (visited “to-day for the first time” by an unnamed “he”).
   - MAYBE: Malta/Maltese (rumour of a “Maltese landing on our island”).
 - **Quotes & allusions:**
-  - “the original ground of the transaction appears to have been sentimental… ‘He was my friend,’ says the murderous doctor; ‘he was dear to me.’”
+  - CERTAIN: Thomas De Quincey, “Second Paper on Murder Considered as One of the Fine Arts” (contains “The original ground of the transaction appears to have been sentimental: ‘He was my friend,’ says the murderous doctor; ‘he was dear to me.’”): https://en.wikisource.org/wiki/Second_Paper_on_Murder_considered_as_One_of_the_Fine_Arts
 - **Motifs/continuity hooks:**
   - Family/purity obsession.
   - Food: “provided a chop for me” (strong animal/dog POV cue).
@@ -26,5 +26,4 @@ In one way, of course, I was glad they were married. I had always been rather a 
 - **Disconfirming evidence:**
   - If “chop” and “Hal” prove metaphorical and the narrator is clearly human in later linked pages.
 - **Research needed:**
-  - Identify the source of the “murderous doctor… friend… dear to me” quotation.
   - Clarify what “the matter of Jasmine” and the two “Tom” references point to.

@@ -590,8 +590,8 @@ Template:
   - **Type:** other
   - **Pages:** Pages/cains_jawbone_page_44.md
   - **Why it matters:** Brand/period/class tell that may help cluster scenes or narrators.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** “St. Bruno” is a tobacco brand name: *Tobacco* (1896) p. 65 lists “ST. BRUNO” in a tobacco/trademark context: https://books.google.com/books?id=M4VNAQAAMAAJ&pg=PA65&dq=ST.+BRUNO. No other occurrences of “St. Bruno” found in the current page set beyond Page 44.
 
 - **Item:** Identify Epicam / Royans aux Achard / Peter Barleys / Villacabras (Page 45)
   - **Type:** term/other
@@ -611,8 +611,8 @@ Template:
   - **Type:** quote
   - **Pages:** Pages/cains_jawbone_page_46.md
   - **Why it matters:** Could identify the “murderous doctor” and connect doctor-linked plot pages.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** Thomas De Quincey, “Second Paper on Murder Considered as One of the Fine Arts”: https://en.wikisource.org/wiki/Second_Paper_on_Murder_considered_as_One_of_the_Fine_Arts (“The original ground of the transaction appears to have been sentimental: ‘He was my friend,’ says the murderous doctor; ‘he was dear to me’…”).
 
 - **Item:** Clarify Page 46’s “Hal” naming + “matter of Jasmine” + multiple “Tom” references
   - **Type:** other

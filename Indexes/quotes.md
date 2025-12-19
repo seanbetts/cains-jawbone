@@ -420,11 +420,11 @@ Template:
   - **Research needed:** no
 
 - **Snippet:** “He was my friend… he was dear to me.”
-  - **Likely source/author:** TBD (quoted as from “the murderous doctor”)
-  - **Why it matters:** Could identify a specific “murderous doctor” text/trial and link the doctor plotline.
+  - **Likely source/author:** Thomas De Quincey, “Second Paper on Murder Considered as One of the Fine Arts”: https://en.wikisource.org/wiki/Second_Paper_on_Murder_considered_as_One_of_the_Fine_Arts
+  - **Why it matters:** Quote anchor for the “murderous doctor” passage; confirms De Quincey murder-aesthetics reading set.
   - **Pages:** Pages/cains_jawbone_page_46.md
-  - **Confidence:** `MAYBE`
-  - **Research needed:** yes — identify source/context.
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
 
 - **Snippet:** “Bring Palamabron, horned priest… And silent Elynittria, the silver-bowed queen,”
   - **Likely source/author:** William Blake (likely *Milton*; needs confirmation)
