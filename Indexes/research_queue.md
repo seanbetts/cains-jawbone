@@ -527,8 +527,8 @@ Template:
   - **Type:** quote
   - **Pages:** Pages/cains_jawbone_page_40.md
   - **Why it matters:** Could anchor narrator reading set and strengthen time/place cues.
-  - **Status:** `open`
-  - **Result:** Walt Whitman, “This Compost” (*Leaves of Grass*, “Autumn Rivulets”): https://en.wikisource.org/wiki/Leaves_of_Grass_(1882)/Autumn_Rivulets/This_Compost contains “What chemistry! That the winds are really not infectious…” and the bean/potato lines quoted on Page 40. The Flecker-related line (“And some to Flecker turn to pray…”) remains unresolved.
+  - **Status:** `resolved`
+  - **Result:** (1) Walt Whitman, “This Compost” (*Leaves of Grass*, “Autumn Rivulets”): https://en.wikisource.org/wiki/Leaves_of_Grass_(1882)/Autumn_Rivulets/This_Compost contains “What chemistry! That the winds are really not infectious…” and the bean/potato lines quoted on Page 40. (2) James Elroy Flecker, “Yasmin” (a ghazel): https://books.google.com/books?id=-zVv2KCl7h0C&pg=PA333&dq=Some+to (source line: “some to Meccah turn to pray, and I towards thy bed, Yasmin”; Page 40 substitutes “Flecker” for “Meccah” and drops “Yasmin”.)
 
 - **Item:** Identify the “bean bursts noiselessly…” / potato leaves line on Page 40
   - **Type:** quote
@@ -542,7 +542,7 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_40.md
   - **Why it matters:** Confirms the Long Ditton place clue and might connect to other Eric Parker/Irish malapropism pages.
   - **Status:** `open`
-  - **Result:**
+  - **Result:** Eric Parker, *Highways and Byways in Surrey* (1908), Ch. XXIII “The Dittons and Walton”: “Thames Ditton’s sister, Long Ditton…” https://www.gutenberg.org/ebooks/28057.txt.utf-8. No clear match yet for the “Irishman’s malapropism” allusion in/near this Ditton passage; keep open.
 
 - **Item:** Identify Henry’s “M’Cullough” quotation source (Page 41)
   - **Type:** quote
@@ -577,7 +577,7 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_43.md
   - **Why it matters:** Could identify a specific venue/menu or a coded sequence (and help link Pages 42–43).
   - **Status:** `open`
-  - **Result:** The “Alexander’s my name. They ca’d me Ecky when I was a boy…” passage is quoted from Robert Louis Stevenson & Lloyd Osbourne, *The Wrecker* (1892), Chapter 6: https://en.wikisource.org/wiki/The_Wrecker_(Stevenson)/Chapter_6. The “passes over to the Dawn” phrasing and the menu titles (“Lover’s Delight”, “Banana Split”, “the Dawn”) remain unresolved.
+  - **Result:** The “Alexander’s my name. They ca’d me Ecky when I was a boy…” passage is quoted from Robert Louis Stevenson & Lloyd Osbourne, *The Wrecker* (1892), Chapter 6: https://en.wikisource.org/wiki/The_Wrecker_(Stevenson)/Chapter_6. “Lover’s Delight” is attested as an ice-cream-parlour specialty (three small cones of ice cream on a sundae dish) in *The Spatula* (1922), p. 23: https://books.google.com/books?id=_hZOAAAAMAAJ&pg=PA23&dq=%22Lover%27s+Delight%22. The “passes over to the Dawn” phrasing and “the Dawn” title remain unresolved.
 
 - **Item:** Identify the “honest station between King’s Cross and Edinburgh” clue (Page 43)
   - **Type:** place/other

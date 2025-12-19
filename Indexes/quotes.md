@@ -280,11 +280,11 @@ Template:
   - **Research needed:** no
 
 - **Snippet:** “And some to Flecker turn to pray, and I toward thy bed.”
-  - **Likely source/author:** TBD (Flecker reference; likely a reshaped quotation)
-  - **Why it matters:** Could identify a source text and help place the narrator’s reading/allusion set.
+  - **Likely source/author:** James Elroy Flecker, “Yasmin” (a ghazel): https://books.google.com/books?id=-zVv2KCl7h0C&pg=PA333&dq=Some+to (source line: “some to Meccah turn to pray, and I towards thy bed, Yasmin”).
+  - **Why it matters:** Confirms Flecker reading/quotation set for this narrator; the CJ line is a deliberate substitution (“Flecker” for “Meccah”) and omission (“Yasmin”).
   - **Pages:** Pages/cains_jawbone_page_40.md
-  - **Confidence:** `MAYBE`
-  - **Research needed:** yes — identify the original line and why Flecker is invoked.
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
 
 - **Snippet:** “the winds are really not infectious”
   - **Likely source/author:** Walt Whitman, “This Compost” (*Leaves of Grass*, “Autumn Rivulets”): https://en.wikisource.org/wiki/Leaves_of_Grass_(1882)/Autumn_Rivulets/This_Compost

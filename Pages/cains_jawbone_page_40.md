@@ -9,12 +9,12 @@ What chemistry! That the winds are really not infectious. Now that I was approac
 - **Time markers:**
   - CERTAIN: “approaching journey’s end”.
 - **Quotes & allusions:**
-  - MAYBE: “And some to Flecker turn to pray, and I toward thy bed.” (source/allusion TBD).
+  - CERTAIN: James Elroy Flecker, “Yasmin” (a ghazel): https://books.google.com/books?id=-zVv2KCl7h0C&pg=PA333&dq=Some+to (source line: “some to Meccah turn to pray, and I towards thy bed, Yasmin”; Page 40 substitutes “Flecker” for “Meccah” and drops “Yasmin”.)
   - CERTAIN: Walt Whitman, “This Compost” (*Leaves of Grass*, “Autumn Rivulets”): https://en.wikisource.org/wiki/Leaves_of_Grass_(1882)/Autumn_Rivulets/This_Compost (includes “What chemistry! That the winds are really not infectious” + the bean/potato growth lines quoted here).
 - **Motifs/continuity hooks:**
   - Pill-taking (“I took a pill… it was worth it”).
   - Gardening growth imagery: bean bursting; potato leaves.
-  - Place wordplay: “Thames Ditton’s sister… Long she was” implies Long Ditton.
+  - Place wordplay: “Thames Ditton’s sister… Long she was” implies Long Ditton (cf. Eric Parker, *Highways and Byways in Surrey*, Ch. XXIII: “Thames Ditton’s sister, Long Ditton…” https://www.gutenberg.org/ebooks/28057.txt.utf-8).
 - **Places:**
   - CERTAIN: Thames Ditton; LIKELY: Long Ditton.
 - **Voice/tells:**
@@ -24,5 +24,5 @@ What chemistry! That the winds are really not infectious. Now that I was approac
 - **Disconfirming evidence:**
   - If “Thames Ditton’s sister” is not meant literally (Long Ditton) or doesn’t recur.
 - **Research needed:**
-  - Identify the Flecker line/source and the “Jack’s visitor / Thornhill / opera” reference.
-  - Identify the Eric Parker “Thames Ditton’s sister” tale + the Irishman’s malapropism.
+  - Identify the “Jack’s visitor / Thornhill / opera” reference.
+  - Identify the Irishman’s malapropism alluded to alongside Eric Parker’s Ditton phrasing.

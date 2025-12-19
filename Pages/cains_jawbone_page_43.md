@@ -15,6 +15,7 @@ This is good. She accepts Lover’s Delight from me. She has spoken very little 
   - CERTAIN: Robert Louis Stevenson & Lloyd Osbourne, *The Wrecker* (1892), Chapter 6: https://en.wikisource.org/wiki/The_Wrecker_(Stevenson)/Chapter_6 (includes “Alexander’s my name. They ca’d me Ecky when I was a boy…”).
 - **Motifs/continuity hooks:**
   - Drinks/desserts as titles: “Lover’s Delight”, “Banana Split”, “the hard stuff”, “the Dawn”.
+  - LIKELY: “Lover’s Delight” is a named ice-cream-parlour specialty (three cones on a sundae dish): *The Spatula* (1922) p. 23: https://books.google.com/books?id=_hZOAAAAMAAJ&pg=PA23&dq=%22Lover%27s+Delight%22.
   - Hands/income dependence (“ruin my hand”).
   - Zodiac/astrology wordplay: Aquarius ↔ Gemini.
   - Scottish nickname/dialect framing (“Ecky”).

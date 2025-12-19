@@ -44,7 +44,7 @@ Template:
 - **Cocktails / mixed drinks**
   - **Instances / variants:** “cocktail after cocktail”; “Lover’s Delight” (also as a sundae); Banana Split; “Rainbow” (drink/dessert?); “the Dawn”; “over the cocktails”; absinthe; brandy
   - **Pages:** Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_43.md, Pages/cains_jawbone_page_45.md, Pages/cains_jawbone_page_48.md, Pages/cains_jawbone_page_60.md, Pages/cains_jawbone_page_63.md
-  - **Notes:** Bar/club or sweets-menu continuity candidate; overlaps with cigarette and seduction motifs. “Rainbow” on Page 63 is LIKELY a Rainbow Sundae (layered ice-cream sundae): *Bakers Review* (Apr 1913) “RAINBOW SUNDAE” recipe: http://books.google.co.uk/books?id=MKYTAAAAYAAJ&pg=PA72&dq=%22Rainbow+Sundae%22+%22cocktail+glass%22&hl=&as_pt=BOOKS&cd=4&source=gbs_api.
+  - **Notes:** Bar/club or sweets-menu continuity candidate; overlaps with cigarette and seduction motifs. “Lover’s Delight” is attested as an ice-cream-parlour specialty (three cones of ice cream on a sundae dish): *The Spatula* (1922) p. 23: https://books.google.com/books?id=_hZOAAAAMAAJ&pg=PA23&dq=%22Lover%27s+Delight%22. “Rainbow” on Page 63 is LIKELY a Rainbow Sundae (layered ice-cream sundae): *Bakers Review* (Apr 1913) “RAINBOW SUNDAE” recipe: http://books.google.co.uk/books?id=MKYTAAAAYAAJ&pg=PA72&dq=%22Rainbow+Sundae%22+%22cocktail+glass%22&hl=&as_pt=BOOKS&cd=4&source=gbs_api.
 
 - **Devona (sweetmeat)**
   - **Instances / variants:** “Devona” (sweetmeat); “minty humbugs”
