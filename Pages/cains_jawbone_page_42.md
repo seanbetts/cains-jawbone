@@ -12,7 +12,7 @@ I assure you I had not seen her enter  but suddenly I was electrically aware tha
   - CERTAIN: Henry.
   - MAYBE: tall woman (“Julienne?” as a name-guess).
 - **Quotes & allusions:**
-  - Verse snippet about harp-strings and desert (source TBD).
+  - CERTAIN: Robert Browning, “Saul” (*Men and Women*, 1855): https://en.wikisource.org/wiki/Men_and_Women_(Browning)/Volume_2/Saul (includes “Just broken to twine round thy harp-strings… Were now raging to torture the desert!”).
   - “mirabile dictu” (Latin aside).
 - **Motifs/continuity hooks:**
   - Seduction/observation: “electrically aware” of her presence; envy of Henry.
@@ -27,5 +27,4 @@ I assure you I had not seen her enter  but suddenly I was electrically aware tha
 - **Disconfirming evidence:**
   - If the “surface” detail is later clearly an object/drink unrelated to gaze/character.
 - **Research needed:**
-  - Identify the verse snippet source.
   - Clarify what the “surface… clear brown” refers to (eye/cup/drink).

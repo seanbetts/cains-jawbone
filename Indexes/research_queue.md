@@ -528,14 +528,14 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_40.md
   - **Why it matters:** Could anchor narrator reading set and strengthen time/place cues.
   - **Status:** `open`
-  - **Result:**
+  - **Result:** Walt Whitman, “This Compost” (*Leaves of Grass*, “Autumn Rivulets”): https://en.wikisource.org/wiki/Leaves_of_Grass_(1882)/Autumn_Rivulets/This_Compost contains “What chemistry! That the winds are really not infectious…” and the bean/potato lines quoted on Page 40. The Flecker-related line (“And some to Flecker turn to pray…”) remains unresolved.
 
 - **Item:** Identify the “bean bursts noiselessly…” / potato leaves line on Page 40
   - **Type:** quote
   - **Pages:** Pages/cains_jawbone_page_40.md
   - **Why it matters:** Distinctive growth imagery may be a quotation and could help cluster the plant/poison narrator.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** Walt Whitman, “This Compost” (*Leaves of Grass*, “Autumn Rivulets”): https://en.wikisource.org/wiki/Leaves_of_Grass_(1882)/Autumn_Rivulets/This_Compost (contains “The bean bursts noiselessly…” and “Out of its little hill faithfully rise the potato’s dark green leaves.”).
 
 - **Item:** Identify Eric Parker’s “Thames Ditton’s sister” phrasing and the Irishman’s malapropism (Page 40)
   - **Type:** quote/other
@@ -562,22 +562,22 @@ Template:
   - **Type:** quote
   - **Pages:** Pages/cains_jawbone_page_42.md
   - **Why it matters:** Could connect to the Flecker/allusion thread and anchor narrator reading set.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** Robert Browning, “Saul” (*Men and Women*, 1855): https://en.wikisource.org/wiki/Men_and_Women_(Browning)/Volume_2/Saul (“Just broken to twine round thy harp-strings… Were now raging to torture the desert!”).
 
 - **Item:** Identify the “being’s drone pipe…” quotation (Page 43)
   - **Type:** quote
   - **Pages:** Pages/cains_jawbone_page_43.md
   - **Why it matters:** Might identify a source text and explain the “station between King’s Cross and Edinburgh” clue.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** Francis Thompson, *New Poems* (1897), p. 93: https://books.google.co.uk/books?id=SZo-AAAAYAAJ&pg=PA93&dq=%22being%27s+drone+pipe%22 (source reads “being’s drone-pipe… blight the shrivelled stars… thicks the lusty breathing of the sun”).
 
 - **Item:** Determine what “Ecky passes over to the Dawn” and the drink/dessert titles refer to (Page 43)
   - **Type:** other
   - **Pages:** Pages/cains_jawbone_page_43.md
   - **Why it matters:** Could identify a specific venue/menu or a coded sequence (and help link Pages 42–43).
   - **Status:** `open`
-  - **Result:**
+  - **Result:** The “Alexander’s my name. They ca’d me Ecky when I was a boy…” passage is quoted from Robert Louis Stevenson & Lloyd Osbourne, *The Wrecker* (1892), Chapter 6: https://en.wikisource.org/wiki/The_Wrecker_(Stevenson)/Chapter_6. The “passes over to the Dawn” phrasing and the menu titles (“Lover’s Delight”, “Banana Split”, “the Dawn”) remain unresolved.
 
 - **Item:** Identify the “honest station between King’s Cross and Edinburgh” clue (Page 43)
   - **Type:** place/other

@@ -10,7 +10,7 @@ What chemistry! That the winds are really not infectious. Now that I was approac
   - CERTAIN: “approaching journey’s end”.
 - **Quotes & allusions:**
   - MAYBE: “And some to Flecker turn to pray, and I toward thy bed.” (source/allusion TBD).
-  - MAYBE: “the winds are really not infectious” (source TBD).
+  - CERTAIN: Walt Whitman, “This Compost” (*Leaves of Grass*, “Autumn Rivulets”): https://en.wikisource.org/wiki/Leaves_of_Grass_(1882)/Autumn_Rivulets/This_Compost (includes “What chemistry! That the winds are really not infectious” + the bean/potato growth lines quoted here).
 - **Motifs/continuity hooks:**
   - Pill-taking (“I took a pill… it was worth it”).
   - Gardening growth imagery: bean bursting; potato leaves.

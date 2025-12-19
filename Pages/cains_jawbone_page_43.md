@@ -11,7 +11,8 @@ This is good. She accepts Lover’s Delight from me. She has spoken very little 
   - CERTAIN: Edinburgh.
   - MAYBE: “an honest station between King’s Cross and Edinburgh” (clue; exact station TBD).
 - **Quotes & allusions:**
-  - “being’s drone pipe, whose nostril turns to blight the strivelled stars and thicks the lusty breathing of the sun” (source TBD).
+  - CERTAIN: Francis Thompson, *New Poems* (1897), p. 93: https://books.google.co.uk/books?id=SZo-AAAAYAAJ&pg=PA93&dq=%22being%27s+drone+pipe%22 (source reads “being’s drone-pipe… blight the **shrivelled** stars…”).
+  - CERTAIN: Robert Louis Stevenson & Lloyd Osbourne, *The Wrecker* (1892), Chapter 6: https://en.wikisource.org/wiki/The_Wrecker_(Stevenson)/Chapter_6 (includes “Alexander’s my name. They ca’d me Ecky when I was a boy…”).
 - **Motifs/continuity hooks:**
   - Drinks/desserts as titles: “Lover’s Delight”, “Banana Split”, “the hard stuff”, “the Dawn”.
   - Hands/income dependence (“ruin my hand”).
@@ -25,6 +26,5 @@ This is good. She accepts Lover’s Delight from me. She has spoken very little 
 - **Disconfirming evidence:**
   - If “Aquarius/Gemini” is shown to be purely menu-wordplay with no pen/astrology continuity elsewhere.
 - **Research needed:**
-  - Identify the “being’s drone pipe…” quotation source.
   - Determine what “Ecky passes over to the Dawn” refers to (menu/drink/other).
   - Identify the intended “station between King’s Cross and Edinburgh” (if it is a clue).

@@ -287,18 +287,18 @@ Template:
   - **Research needed:** yes — identify the original line and why Flecker is invoked.
 
 - **Snippet:** “the winds are really not infectious”
-  - **Likely source/author:** TBD
-  - **Why it matters:** Could be a scientific/literary quotation used as a chemistry/medicine tell.
+  - **Likely source/author:** Walt Whitman, “This Compost” (*Leaves of Grass*, “Autumn Rivulets”): https://en.wikisource.org/wiki/Leaves_of_Grass_(1882)/Autumn_Rivulets/This_Compost
+  - **Why it matters:** Confirms Whitman reading/quotation set for this narrator segment; links to other Whitman-quoting pages.
   - **Pages:** Pages/cains_jawbone_page_40.md
-  - **Confidence:** `MAYBE`
-  - **Research needed:** yes — identify source.
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
 
 - **Snippet:** “The bean bursts noiselessly through the mould in the garden. Out of its little hill faithfully rise the potato’s dark green leaves.”
-  - **Likely source/author:** TBD
-  - **Why it matters:** Distinctive growth imagery; may be a quotation and part of the plant/poison narrator’s allusion set.
+  - **Likely source/author:** Walt Whitman, “This Compost” (*Leaves of Grass*, “Autumn Rivulets”): https://en.wikisource.org/wiki/Leaves_of_Grass_(1882)/Autumn_Rivulets/This_Compost
+  - **Why it matters:** Confirms the Page 40 cluster is directly quoting Whitman’s compost/growth passage (and reframes “dear old bean” as an aside about Whitman).
   - **Pages:** Pages/cains_jawbone_page_40.md
-  - **Confidence:** `MAYBE`
-  - **Research needed:** yes — identify source.
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
 
 - **Snippet:** “Your good uncle, whom you count the father of your fortune, longed for this alliance.”
   - **Likely source/author:** Alfred, Lord Tennyson, “The Sisters” (in collected works): https://books.google.co.uk/books?id=O539WMK95hsC&pg=PA461&dq=%22father%20of%20your%20fortune%22
@@ -315,18 +315,25 @@ Template:
   - **Research needed:** no
 
 - **Snippet:** “Just broken to twine round they harp-strings… Were now raging to torture the desert! Then I, as was meet…”
-  - **Likely source/author:** TBD
-  - **Why it matters:** Verse fragment used as a scene header; may connect to the Flecker/allusion thread.
+  - **Likely source/author:** Robert Browning, “Saul” (*Men and Women*, 1855): https://en.wikisource.org/wiki/Men_and_Women_(Browning)/Volume_2/Saul (source reads “twine round **thy** harp-strings…”).
+  - **Why it matters:** Browning anchor used as a scene header; may connect to other Browning-heavy narrator segments.
   - **Pages:** Pages/cains_jawbone_page_42.md
-  - **Confidence:** `MAYBE`
-  - **Research needed:** yes — identify source.
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
 
 - **Snippet:** “being’s drone pipe, whose nostril turns to blight the strivelled stars and thicks the lusty breathing of the sun.”
-  - **Likely source/author:** TBD
-  - **Why it matters:** Distinctive poetic line; narrator tries to pin it to a “station between King’s Cross and Edinburgh” clue.
+  - **Likely source/author:** Francis Thompson, *New Poems* (1897), p. 93 (source reads “drone-pipe… blight the **shrivelled** stars…”): https://books.google.co.uk/books?id=SZo-AAAAYAAJ&pg=PA93&dq=%22being%27s+drone+pipe%22
+  - **Why it matters:** Strong Thompson-poetry anchor; narrator’s “honest station…” aside likely keys to nearby wording in the source.
   - **Pages:** Pages/cains_jawbone_page_43.md
-  - **Confidence:** `MAYBE`
-  - **Research needed:** yes — identify source/context.
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
+
+- **Snippet:** “Alexander’s my name. They ca’d me Ecky when I was a boy. Eh, Ecky! ye’re an awfu’ auld man!”
+  - **Likely source/author:** Robert Louis Stevenson & Lloyd Osbourne, *The Wrecker* (1892), Chapter 6: https://en.wikisource.org/wiki/The_Wrecker_(Stevenson)/Chapter_6
+  - **Why it matters:** Another anchor for Page 43’s quote-mashing voice; confirms the “Ecky/Alexander” passage is a Stevenson lift.
+  - **Pages:** Pages/cains_jawbone_page_43.md
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
 
 - **Snippet:** “I dance with the dancers and drink with the drinkers.”
   - **Likely source/author:** Walt Whitman (likely *Song of Myself*)
