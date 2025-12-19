@@ -27,11 +27,11 @@ Provide a lightweight, repeatable way to answer: **“Are we done with this phas
 
 ## Procedure
 
-1. Confirm you’re on the active run branch (see `Skills/cjb-run-management/SKILL.md`).
+1. Confirm you’re on the active run branch (see `Skills/core/cjb-run-management/SKILL.md`).
 2. If you edited any page notes, run integrity verification:
    - `python3 Scripts/verify_pages.py`
 3. Run phase-specific checks (below).
-4. Compare against the phase exit conditions in `Skills/cjb-phase-playbook/SKILL.md`.
+4. Compare against the phase exit conditions in `Skills/core/cjb-phase-playbook/SKILL.md`.
 5. Pick the smallest next step that reduces uncertainty (or closes an `open` research item).
 
 ## Phase-specific checks (quick)

@@ -20,7 +20,7 @@ description: Build and critique Cain’s Jawbone page clusters and candidate seq
 - You see recurring voice/people/place/motif anchors across pages (Phase 3).
 - You have a coherent cluster and want to propose an internal order (Phase 4).
 - You have multiple clusters with potential joins (Phase 5).
-- You are trying to break a near-final ordering (Phase 6; prefer `Skills/cjb-falsification/SKILL.md`).
+- You are trying to break a near-final ordering (Phase 6; prefer `Skills/analysis/cjb-falsification/SKILL.md`).
 
 ## Primary file
 

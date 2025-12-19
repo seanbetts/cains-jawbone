@@ -39,7 +39,7 @@ Trigger this skill when a page foregrounds:
 5. If any term/source needs lookup, add an `open` item to `Indexes/research_queue.md`.
 6. Flag the page for later murder analysis by adding a single bullet under the page’s `## Notes`, e.g.:
    - `- **Murder analysis flag:** possible poison/means via <X> (confidence: MAYBE)`
-7. If the page also strongly implies an in-world death/attempt, run `Skills/cjb-murder-analysis/SKILL.md`.
+7. If the page also strongly implies an in-world death/attempt, run `Skills/analysis/cjb-murder-analysis/SKILL.md`.
 
 ## Output checklist
 

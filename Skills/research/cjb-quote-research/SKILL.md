@@ -28,7 +28,7 @@ description: Identify, record, and (optionally) research Cain’s Jawbone quotat
 ## Workflow
 
 If you start from wordplay outputs:
-- Treat `CANDIDATE` blocks from `Skills/cjb-wordplay-allusion-detect/SKILL.md` as **candidate quotes** only (no attribution until verified).
+- Treat `CANDIDATE` blocks from `Skills/wordplay/cjb-wordplay-allusion-detect/SKILL.md` as **candidate quotes** only (no attribution until verified).
 - Treat any synthesis “candidate quote” as a cue to create a targeted lookup in `Indexes/research_queue.md`.
 
 1. Extract the smallest identifying snippet (often 5–15 words).

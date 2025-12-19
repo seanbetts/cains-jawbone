@@ -19,7 +19,7 @@ Keep exploratory work isolated per end-to-end workstream (“run”), with clear
 
 ## Files/tools
 - `Worklog/current_run.txt` — stores the currently active run metadata (blank means no active run)
-- `Worklog/worklog.csv` — overall time log (see `Skills/cjb-time-logging/SKILL.md`)
+- `Worklog/worklog.csv` — overall time log (see `Skills/core/cjb-time-logging/SKILL.md`)
 
 ## Run metadata format
 
@@ -52,7 +52,7 @@ An empty file (or missing `branch=` line) means no active run.
    - Determine the new branch name: `run/YYYYMMDD-<agent>-<focus>` (lowercase, hyphen-separated).
    - Create and checkout the branch: `git checkout -b <branch>`.
    - Decide the starting phase (usually `phase-1`) and write run metadata to `Worklog/current_run.txt` (branch, agent, task, phase, start, notes).
-   - Log start time per `Skills/cjb-time-logging/SKILL.md`.
+   - Log start time per `Skills/core/cjb-time-logging/SKILL.md`.
 
 ## When to start a new run (and when not to)
 
@@ -67,10 +67,10 @@ An empty file (or missing `branch=` line) means no active run.
 
 ## Change phase during a run
 
-1. Decide the new phase (`phase-1` … `phase-6`) based on `Skills/cjb-phase-playbook/SKILL.md`.
+1. Decide the new phase (`phase-1` … `phase-6`) based on `Skills/core/cjb-phase-playbook/SKILL.md`.
 2. Update only the `phase=` line in `Worklog/current_run.txt`.
 3. Commit the phase change (single-purpose), e.g. `Worklog: update current run to phase-3`.
-4. Continue logging each session in `Worklog/worklog.csv` per `Skills/cjb-time-logging/SKILL.md`.
+4. Continue logging each session in `Worklog/worklog.csv` per `Skills/core/cjb-time-logging/SKILL.md`.
 
 ## End a run
 
@@ -83,6 +83,6 @@ An empty file (or missing `branch=` line) means no active run.
 ## After a run
 
 - **Full merge:** Merge the entire branch into `main` only if the run produced coherent puzzle progress.
-- **Selective merge:** If only infrastructure improved (Skills, Scripts, docs), use `Skills/cjb-merge-to-main/SKILL.md` to merge just those files without touching puzzle state on `main`.
+- **Selective merge:** If only infrastructure improved (Skills, Scripts, docs), use `Skills/core/cjb-merge-to-main/SKILL.md` to merge just those files without touching puzzle state on `main`.
 - Leave rejected experiments unmerged (branch stays as record).
 - Never delete run branches unless explicitly instructed.
