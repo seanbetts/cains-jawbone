@@ -264,6 +264,12 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_43.md
   - **Notes:** Used in a “station between King’s Cross and Edinburgh” clue.
 
+- **St Neots**
+  - **Type:** town/railway station
+  - **Confidence:** `LIKELY`
+  - **Pages:** Pages/cains_jawbone_page_43.md
+  - **Notes:** Proposed as the “honest station between King’s Cross and Edinburgh” clue (*To-day*, 1896): https://books.google.co.uk/books?id=gHdNAAAAYAAJ&dq=%22St.+Neots%22&jscmd=SearchWithinVolume2 ; https://books.google.co.uk/books?id=gHdNAAAAYAAJ&dq=%22King%27s+Cross%22&jscmd=SearchWithinVolume2.
+
 - **Edinburgh**
   - **Type:** city
   - **Confidence:** `CERTAIN`

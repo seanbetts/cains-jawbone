@@ -577,14 +577,14 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_43.md
   - **Why it matters:** Could identify a specific venue/menu or a coded sequence (and help link Pages 42–43).
   - **Status:** `open`
-  - **Result:** The “Alexander’s my name. They ca’d me Ecky when I was a boy…” passage is quoted from Robert Louis Stevenson & Lloyd Osbourne, *The Wrecker* (1892), Chapter 6: https://en.wikisource.org/wiki/The_Wrecker_(Stevenson)/Chapter_6. “Lover’s Delight” is attested as an ice-cream-parlour specialty (three small cones of ice cream on a sundae dish) in *The Spatula* (1922), p. 23: https://books.google.com/books?id=_hZOAAAAMAAJ&pg=PA23&dq=%22Lover%27s+Delight%22. The “passes over to the Dawn” phrasing and “the Dawn” title remain unresolved.
+  - **Result:** The “Alexander’s my name. They ca’d me Ecky when I was a boy…” passage is quoted from Robert Louis Stevenson & Lloyd Osbourne, *The Wrecker* (1892), Chapter 6: https://en.wikisource.org/wiki/The_Wrecker_(Stevenson)/Chapter_6. “Lover’s Delight” is attested as an ice-cream-parlour specialty (three small cones of ice cream on a sundae dish) in *The Spatula* (1922), p. 23: https://books.google.com/books?id=_hZOAAAAMAAJ&pg=PA23&dq=%22Lover%27s+Delight%22. “the Dawn” also appears as a capitalised venue-name paired with “the Moon” on Pages/cains_jawbone_page_17.md (same voice has “bad for the hand” / avoiding “the stuff”); the specific real-world venue remains unpinned.
 
 - **Item:** Identify the “honest station between King’s Cross and Edinburgh” clue (Page 43)
   - **Type:** place/other
   - **Pages:** Pages/cains_jawbone_page_43.md
   - **Why it matters:** Might be a solvable geographic anchor for ordering.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** LIKELY **St Neots** (railway station/town): it sits on the King’s Cross northbound route (Great Northern/LNER corridor) and is explicitly listed among stations served by a “King’s Cross” train that is “continued to … Edinburgh” in *To-day* (1896): https://books.google.co.uk/books?id=gHdNAAAAYAAJ&dq=%22St.+Neots%22&jscmd=SearchWithinVolume2 ; https://books.google.co.uk/books?id=gHdNAAAAYAAJ&dq=%22King%27s+Cross%22&jscmd=SearchWithinVolume2. (MAYBE wordplay: “St Neots” ≈ “notes” (drone-pipe) + “st” (station).)
 
 - **Item:** Confirm what “St. Bruno” refers to and whether it recurs (Page 44)
   - **Type:** other

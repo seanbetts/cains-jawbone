@@ -9,12 +9,13 @@ This is good. She accepts Lover’s Delight from me. She has spoken very little 
 - **Places:**
   - CERTAIN: King’s Cross.
   - CERTAIN: Edinburgh.
-  - MAYBE: “an honest station between King’s Cross and Edinburgh” (clue; exact station TBD).
+  - LIKELY: St Neots (railway station/town) as “an honest station between King’s Cross and Edinburgh” clue (*To-day*, 1896): https://books.google.co.uk/books?id=gHdNAAAAYAAJ&dq=%22St.+Neots%22&jscmd=SearchWithinVolume2 ; https://books.google.co.uk/books?id=gHdNAAAAYAAJ&dq=%22King%27s+Cross%22&jscmd=SearchWithinVolume2.
 - **Quotes & allusions:**
   - CERTAIN: Francis Thompson, *New Poems* (1897), p. 93: https://books.google.co.uk/books?id=SZo-AAAAYAAJ&pg=PA93&dq=%22being%27s+drone+pipe%22 (source reads “being’s drone-pipe… blight the **shrivelled** stars…”).
   - CERTAIN: Robert Louis Stevenson & Lloyd Osbourne, *The Wrecker* (1892), Chapter 6: https://en.wikisource.org/wiki/The_Wrecker_(Stevenson)/Chapter_6 (includes “Alexander’s my name. They ca’d me Ecky when I was a boy…”).
 - **Motifs/continuity hooks:**
   - Drinks/desserts as titles: “Lover’s Delight”, “Banana Split”, “the hard stuff”, “the Dawn”.
+  - LIKELY: “the Dawn” is a venue-name (also appears paired with “the Moon” on Pages/cains_jawbone_page_17.md).
   - LIKELY: “Lover’s Delight” is a named ice-cream-parlour specialty (three cones on a sundae dish): *The Spatula* (1922) p. 23: https://books.google.com/books?id=_hZOAAAAMAAJ&pg=PA23&dq=%22Lover%27s+Delight%22.
   - Hands/income dependence (“ruin my hand”).
   - Zodiac/astrology wordplay: Aquarius ↔ Gemini.
@@ -28,4 +29,4 @@ This is good. She accepts Lover’s Delight from me. She has spoken very little 
   - If “Aquarius/Gemini” is shown to be purely menu-wordplay with no pen/astrology continuity elsewhere.
 - **Research needed:**
   - Determine what “Ecky passes over to the Dawn” refers to (menu/drink/other).
-  - Identify the intended “station between King’s Cross and Edinburgh” (if it is a clue).
+  - Confirm whether “station between King’s Cross and Edinburgh” is meant to be St Neots (vs another intermediate stop).
