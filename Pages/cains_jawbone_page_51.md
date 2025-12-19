@@ -3,11 +3,14 @@ As I was not staying, but only passing through, I raised my hat to the eleven th
 ## Notes
 
 - **Entities:**
-  - MAYBE: “the eleven that played All England for a thousand guineas” (cricket reference; identity TBD).
+  - LIKELY: Hambledon/Hampshire cricket side as “the eleven that played All England for a thousand guineas” — *Annals of Cricket* (1896) records a match “between the Duke of Dorset, with the **Hampshire men**, against **all England**” for **1000 guineas**: https://books.google.co.uk/books?id=QV0ElltRphYC&pg=PA36; and *Baily’s Magazine of Sports & Pastimes* (1925) notes the **Hambledon Cricket Club** “beat… All England… **twenty-nine times in ten years**” (citing Nyren’s “Young Cricketer’s Guide”): https://books.google.co.uk/books?id=twgbAQAAIAAJ&pg=PA226.
   - MAYBE: narrator’s “favourite author” = Whitman (strongly implied by quotations).
+- **Places:**
+  - LIKELY: Hambledon / Hampshire (implied by the cricket reference).
 - **Motifs/continuity hooks:**
   - Physical state: counting “ninety” between heartbeats; resolves to “go slow”.
   - Movement/travel: “not staying… passing through”.
+  - Dialect: “yett(s)” = (Scot.) gate/door (Chambers 1908): https://en.wikisource.org/wiki/Chambers%27s_Twentieth_Century_Dictionary_1908/Y_Y-wis.
   - Modernity image: heartbeat “purple smoke from an exhaust”.
 - **Quotes & allusions:**
   - CERTAIN: multiple Walt Whitman lines (e.g., “I dance with the dancers and drink with the drinkers…”).
@@ -19,5 +22,4 @@ As I was not staying, but only passing through, I raised my hat to the eleven th
 - **Disconfirming evidence:**
   - If the Whitman snippets are shown to be coincidental and the surrounding narrative voice differs strongly from Page 32.
 - **Research needed:**
-  - Identify the cricket “eleven… thousand guineas… twenty-nine times in ten years” reference.
   - Identify what Whitman text is being blended here and what the described “him” refers to.

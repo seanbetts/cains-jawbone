@@ -288,6 +288,12 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_46.md, Pages/cains_jawbone_page_47.md
   - **Notes:** Mentioned explicitly (“visited England to-day for the first time”; “even in England”).
 
+- **Hambledon (Hampshire)**
+  - **Type:** village
+  - **Confidence:** `LIKELY`
+  - **Pages:** Pages/cains_jawbone_page_51.md
+  - **Notes:** Implied by the cricket reference: *Annals of Cricket* (1896) records a match “between the Duke of Dorset, with the **Hampshire men**, against **all England**” for **1000 guineas**: https://books.google.co.uk/books?id=QV0ElltRphYC&pg=PA36; and *Baily’s Magazine of Sports & Pastimes* (1925) references the **Hambledon Cricket Club** beating All England “twenty-nine times in ten years”: https://books.google.co.uk/books?id=twgbAQAAIAAJ&pg=PA226.
+
 - **La Belle Alliance**
   - **Type:** inn/landmark (Waterloo reference)
   - **Confidence:** `CERTAIN`

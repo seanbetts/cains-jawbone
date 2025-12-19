@@ -646,8 +646,8 @@ Template:
   - **Type:** other
   - **Pages:** Pages/cains_jawbone_page_51.md
   - **Why it matters:** Could be a precise place/date/person anchor for “passing through” and may link a narrator/scene.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** LIKELY a reference to the **Hambledon/Hampshire** cricket side: *Annals of Cricket* (1896) records a match “between the Duke of Dorset, with the **Hampshire men**, against **all England**” for **1000 guineas**: https://books.google.co.uk/books?id=QV0ElltRphYC&pg=PA36. A later summary in *Baily’s Magazine of Sports & Pastimes* (1925) notes the **Hambledon Cricket Club** “beat… All England… **twenty-nine times in ten years**” (citing Nyren’s “Young Cricketer’s Guide”): https://books.google.co.uk/books?id=twgbAQAAIAAJ&pg=PA226. “Yett(s)” = (Scot.) gate/door (Chambers 1908): https://en.wikisource.org/wiki/Chambers%27s_Twentieth_Century_Dictionary_1908/Y_Y-wis.
 
 - **Item:** Confirm the date implied by Page 52’s Diamond Necklace cardinal acquittal reference
   - **Type:** date
