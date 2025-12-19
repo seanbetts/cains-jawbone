@@ -632,8 +632,8 @@ Template:
   - **Type:** quote/other
   - **Pages:** Pages/cains_jawbone_page_48.md
   - **Why it matters:** Might encode a name (e.g., “May”) or date, and help cluster the dog/cocktail scene.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** “Crataegus Oxyacantha” = **hawthorn**, also called “white-thorn” or “may” (EB1911 “Hawthorn (plant)”): https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Hawthorn_(plant). The Book of Common Prayer contains the Psalter line “I am a worm, and no man” (Psalm 22:6 in the BCP Psalms): https://www.gutenberg.org/cache/epub/29622/pg29622.txt. The “another had begun to-day” part remains unclear.
 
 - **Item:** Identify the “Homonoea” line (“The swallow, the bright Homonoea.”) on Page 50
   - **Type:** quote/term

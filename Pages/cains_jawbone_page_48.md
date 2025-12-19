@@ -9,11 +9,11 @@ I had always thought that Tate essentially meant sugar. This I liked almost next
 - **Time markers:**
   - CERTAIN: “to-day”; “that evening”.
 - **Quotes & allusions:**
-  - “wormed his way into the Book of Common Prayer” (context unclear; likely a specific phrase/event clue).
+  - LIKELY: “wormed his way into the Book of Common Prayer” points to the Psalter line “I am a worm, and no man” (Psalm 22:6 in the BCP Psalms): https://www.gutenberg.org/cache/epub/29622/pg29622.txt.
 - **Motifs/continuity hooks:**
   - Sugar hoarding: kept under the gas fire and pulled out secretly.
   - Dog-coded self-description: “sad dog”; greeted Ecky who nearly fell on narrator’s nose.
-  - Cocktails + botanical joke-name: “Crataegus Oxyacantha”.
+  - Cocktails + botanical joke-name: “Crataegus Oxyacantha” = hawthorn (“white-thorn” / “may”): https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Hawthorn_(plant) (MAYBE: used as a name-pun like “May”).
 - **Voice/tells:**
   - Strong animal/dog POV candidate (nose/body perspective); comic literalism.
 - **Ordering hypotheses:**
@@ -22,5 +22,4 @@ I had always thought that Tate essentially meant sugar. This I liked almost next
 - **Disconfirming evidence:**
   - If later context makes the “nose” and “sad dog” language purely idiomatic (human narrator).
 - **Research needed:**
-  - Interpret the Book of Common Prayer + “wormed his way” clue.
-  - Why “Crataegus Oxyacantha” is “his big joke” (does it encode a name like “May”?).
+  - Clarify what “another had begun to-day” refers to (the “wormed his way into the Book of Common Prayer” line is now identified, but the “begun” referent is still unclear).
