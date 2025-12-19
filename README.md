@@ -116,6 +116,7 @@ The authoritative procedures/templates live in these files:
 - `Skills/cjb-verification/SKILL.md`
 - `Skills/cjb-time-logging/SKILL.md`
 - `Skills/cjb-run-management/SKILL.md`
+- `Skills/cjb-merge-to-main/SKILL.md`
 - `Skills/cjb-date-research/SKILL.md`
 - `Skills/cjb-location-research/SKILL.md`
 - `Skills/cjb-falsification/SKILL.md`

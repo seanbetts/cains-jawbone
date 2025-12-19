@@ -70,6 +70,7 @@ Keep all detailed procedures, templates, and rules in the Skill files to avoid d
 - **Verification:** `Skills/cjb-verification/SKILL.md` — use when running integrity checks and interpreting failures.
 - **Time logging:** `Skills/cjb-time-logging/SKILL.md` — use at the start and end of every working session to keep `Worklog/worklog.csv` accurate.
 - **Run management:** `Skills/cjb-run-management/SKILL.md` — use to create/close run branches and maintain `Worklog/current_run.txt`.
+- **Merge to main:** `Skills/cjb-merge-to-main/SKILL.md` — use to selectively merge infrastructure (Skills, Scripts, docs) to `main` without merging puzzle state.
 - **Date research:** `Skills/cjb-date-research/SKILL.md` — use Chambers' Book of Days to interpret calendar clues.
 - **Location research:** `Skills/cjb-location-research/SKILL.md` — use Highways & Byways guides to ground geographic clues.
 
