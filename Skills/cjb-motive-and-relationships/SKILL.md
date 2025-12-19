@@ -1,5 +1,6 @@
 ---
 name: cjb-motive-and-relationships
+version: 1.0
 description: Reconstruct relationships and power dynamics from textual evidence and keep the people index consistent (without premature accusations).
 ---
 
@@ -9,6 +10,9 @@ description: Reconstruct relationships and power dynamics from textual evidence 
 
 - Don’t assume murder: capture relationship evidence and escalation vectors.
 - Keep claims falsifiable and evidence-based.
+
+## Phase gating
+- **Allowed phases:** `phase-5` … `phase-6` (primary)
 
 ## When to use
 
@@ -37,4 +41,3 @@ Trigger this skill when:
 
 - Relationship edge(s) captured in page `## Notes` (when relevant)
 - `Indexes/people.md` updated with relationship + motive-relevant tells
-

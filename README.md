@@ -8,10 +8,13 @@ This is not a software project; the “code” here exists only to protect text 
 
 - `Pages/` — `cains_jawbone_page_1.md` … `cains_jawbone_page_100.md` (page text + `## Notes`)
 - `Archive/` — immutable source text + hash (`Cain's Jawbone Unformatted.txt`, `hash.txt`)
-- `Indexes/` — global indices (`people.md`, `places.md`, `quotes.md`, `objects_motifs.md`, `research_queue.md`)
+- `Indexes/` — global indices (`people.md`, `places.md`, `quotes.md`, `objects_motifs.md`, `narrators.md`, `wordplay.md`, `research_queue.md`)
+  - `Indexes/SCHEMA.md` — minimal schema for index file structure
 - `Order/` — ordering hypotheses and clusters (`hypotheses.md`), plus cast + murder-confidence ledgers (`cast.md`, `confidence.md`)
 - `Skills/` — modular workflows (authoritative procedures in each `SKILL.md`)
-- `verify_pages.py` — integrity verifier (archive hash + page-body immutability)
+- `Scripts/` — helper scripts (integrity + lightweight progress metrics)
+  - `Scripts/verify_pages.py` — integrity verifier (archive hash + page-body immutability)
+  - `Scripts/calculate_research_progress.py` — research/index progress summary
 - `Worklog/worklog.csv` — mandatory session log (see `Skills/cjb-time-logging/SKILL.md`)
 - `Worklog/current_run.txt` — active run metadata (empty means no active run)
 
@@ -19,7 +22,7 @@ This is not a software project; the “code” here exists only to protect text 
 
 - Never edit the page body text in `Pages/*.md` (only write under `## Notes`).
 - Never modify anything in `Archive/`.
-- Run `python3 verify_pages.py` after edits and before commits.
+- Run `python3 Scripts/verify_pages.py` after edits and before commits.
 - Log session start/end (UTC) and append to `Worklog/worklog.csv` per the time-logging skill.
 - Don’t brute-force ordering (100! is not a strategy).
 
@@ -45,6 +48,8 @@ Connect ordered clusters into a single global sequence. Use shared characters, c
 **Phase 6: Convergence and falsification**  
 Stress-test the full ordering and murder list by actively seeking contradictions and alternative explanations. Resolve remaining inconsistencies until only local, non-structural uncertainty remains.
 
+Historically appropriate reference material for research is listed in `Indexes/reference_sources.md`.
+
 Operational procedures for each phase (allowed actions, required Skills, outputs, and exit conditions) are defined in `Skills/cjb-phase-playbook/SKILL.md`.
 
 ## Working loop
@@ -52,6 +57,30 @@ Operational procedures for each phase (allowed actions, required Skills, outputs
 1. Extract clues from a page into `## Notes`.
 2. Update the relevant `Indexes/*` entries.
 3. If proposing a linkage/sequence, record it (plus a falsifier) in `Order/hypotheses.md`.
+
+## How wordplay is handled
+
+Wordplay is handled in two layers: **detectors** flag mechanism-specific candidates (high recall), then **synthesis** selects the best 1–3 candidates in context and labels why they matter. Detector `CANDIDATE` blocks live on-page; synthesis `LIKELY WORDPLAY` blocks live on-page and are also copied into `Indexes/wordplay.md` for cross-page scanning.
+
+Mechanisms supported:
+- Anagram
+- Hidden word
+- Homophone
+- Spoonerism
+- Reversal
+- Deletion/subtraction
+- Charade/segmentation
+- Double definition
+- Orthography/typography
+- Allusion/quotation candidate detection
+
+Phase usage (high level):
+- Phase 1: run all detectors; capture candidates only.
+- Phase 2: run synthesis; convert quote/place/date candidates into targeted research tasks.
+- Phase 3: run synthesis; use wordplay as a clustering/linkage feature (low noise).
+- Phase 4+: rerun only to confirm or resolve disputes.
+
+Outputs always include confidence and falsifiers.
 
 ## Default sequencing (extraction-first)
 
@@ -81,18 +110,24 @@ The authoritative procedures/templates live in these files:
 - `Skills/cjb-murder-analysis/SKILL.md`
 - `Skills/cjb-means-and-methods/SKILL.md`
 - `Skills/cjb-motive-and-relationships/SKILL.md`
+- `Skills/cjb-narrator-profiling/SKILL.md`
 - `Skills/cjb-quote-research/SKILL.md`
+- `Skills/cjb-wordplay-synthesis/SKILL.md`
 - `Skills/cjb-verification/SKILL.md`
 - `Skills/cjb-time-logging/SKILL.md`
 - `Skills/cjb-run-management/SKILL.md`
+- `Skills/cjb-merge-to-main/SKILL.md`
 - `Skills/cjb-date-research/SKILL.md`
 - `Skills/cjb-location-research/SKILL.md`
+- `Skills/cjb-falsification/SKILL.md`
+- `Skills/cjb-progress-check/SKILL.md`
+- Wordplay detectors live under `Skills/cjb-wordplay-*-detect/SKILL.md`.
 
 ## Integrity checking
 
 Run:
 
-- `python3 verify_pages.py`
+- `python3 Scripts/verify_pages.py`
 
 What “OK” means:
 
@@ -117,12 +152,12 @@ It does **not** judge whether notes/hypotheses are correct.
   - Log start/end times via the time-logging skill.
   - Commit frequently; final commit should be `Run summary: ...`.
 - After a run:
-  - Run `python3 verify_pages.py`, update `Worklog/worklog.csv`, merge to `main` only if the work is accepted, and clear `Worklog/current_run.txt`.
+  - Run `python3 Scripts/verify_pages.py`, update `Worklog/worklog.csv`, merge to `main` only if the work is accepted, and clear `Worklog/current_run.txt`.
 
 ## Spoilers policy
 
 - Do not import solved page orders, murderer/victim lists, or solution summaries.
 - Research is limited to historically appropriate sources (≤1934). In particular:
-  - Use Chambers' Book of Days to interpret date/saint/holiday references.
-  - Use the Highways & Byways series to ground geographic descriptions.
-  - Record findings in the indices/research queue.
+- Use Chambers' Book of Days to interpret date/saint/holiday references.
+- Use the Highways & Byways series to ground geographic descriptions.
+- Record findings in the indices/research queue.

@@ -1,5 +1,6 @@
 ---
 name: cjb-means-and-methods
+version: 1.0
 description: Catalogue possible killing methods (poisons, food/drink, plants, smells, medicine) without committing to murder; update motifs and flag pages for later murder analysis.
 ---
 
@@ -9,6 +10,10 @@ description: Catalogue possible killing methods (poisons, food/drink, plants, sm
 
 - Don’t assume murder: record possibilities, not conclusions.
 - Default sequencing is extraction-first: do **not** resolve research items mid-pass; add `open` items to `Indexes/research_queue.md`.
+
+## Phase gating
+- **Allowed phases:** `phase-1` … `phase-6`
+- **Phase-1 constraint:** do not promote murderer/victim conclusions; prefer flags over ledgers unless death is unmistakable.
 
 ## When to use
 
@@ -41,4 +46,3 @@ Trigger this skill when a page foregrounds:
 - Motif/substance captured under page `## Notes`
 - `Indexes/objects_motifs.md` updated
 - Page flagged for later murder analysis (when appropriate)
-
