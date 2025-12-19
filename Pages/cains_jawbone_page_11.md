@@ -4,22 +4,43 @@ If Henry had been there he could have told me what to do. His great voice, tuned
 
 - **Entities:**
   - CERTAIN: Henry (missing from scene; taught narrator a “trade”).
-  - MAYBE: Ravager (named “true friend”; could be person/animal/ship).
-  - MAYBE: “Grundy Sapphic” (phrase/person/publication; unclear).
+  - CERTAIN: Ravager (dog name) — from Kipling, “Thy Servant a Dog” (see research queue).
+  - LIKELY: “Grundy Sapphic” = “Sunday Graphic” (wordplay; see below + research queue).
   - CERTAIN: Ireland (referenced).
-  - MAYBE: “queer old Dean” = Jonathan Swift (reference).
+  - CERTAIN: “queer old Dean” = Jonathan Swift (Dean of St Patrick’s).
 - **Time markers:**
   - LIKELY: “end of the second dog” = end of the second dog-watch (nautical; ~8 p.m.) given capstan-bar context.
 - **Motifs/continuity hooks:**
   - Nautical register: capstan bar; dog-watch.
+  - Direct Kipling allusion/quote (dog-POV register) embedded in the “Orchard… Ravager… short legs” sentence (see research queue).
   - “Struck” (Henry’s trade involved striking; could be bell/timekeeping or a blow).
 - **Voice/tells:**
   - Maritime diction + sudden sentimentality.
+  - Swift + De Quincey name-drops; splices in Kipling.
+
+- **Wordplay:**
+
+  CANDIDATE
+  - mechanism: spoonerism
+  - span: "Grundy Sapphic"
+  - reading: "Grundy Sapphic -> Sunday Graphic"
+  - confidence: med
+  - rationale: “yesterday” naturally cues a Sunday paper; the transformed phrase matches an attested newspaper title.
+  - falsifier: “Grundy Sapphic” is later explicitly a person/poem-title here (not a publication).
+
+  LIKELY WORDPLAY
+  - mechanism(s): spoonerism + orthography
+  - span: "Grundy Sapphic"
+  - best reading: "From CANDIDATE(spoonerism): Grundy Sapphic -> Sunday Graphic (yesterday’s Sunday paper)"
+  - confidence: med
+  - why it matters: date -> “Turns ‘yesterday’ into an explicit Sunday-newspaper anchor for this narrator.”
+  - falsifiers:
+    - “Sunday Graphic” is contradicted elsewhere by a clearer newspaper reference in this narrator’s voice
+    - the surrounding context later makes “Grundy Sapphic” a literal person-name
 - **Ordering hypotheses:**
   - MAYBE: sea/sailor-voice cluster with Pages/cains_jawbone_page_1.md (sea + sailor cues) and other nautical-time pages.
   - MAYBE: Henry name recurrence; track whether this Henry is the same as other Henry mentions.
 - **Disconfirming evidence:**
   - If later pages show “second dog” is not nautical timekeeping (or Henry is clearly non-nautical here).
 - **Research needed:**
-  - What/where is “Orchard” in this passage (place, ship, or quotation anchor)?
-  - Identify “Ravager” reference (named dog/ship/person?) and “Grundy Sapphic of yesterday”.
+  - (none)

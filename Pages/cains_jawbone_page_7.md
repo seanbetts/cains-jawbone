@@ -6,13 +6,13 @@ I had gone to sleep the night before after rereading Typhoon. It had always stru
   - CERTAIN: Joseph Conrad (Typhoon; “Youth” referenced).
   - CERTAIN: Baker Street (Sherlock signal).
   - CERTAIN: Firth of Forth (Scotland).
-  - MAYBE: Charles Victor Hugo Renard-Beinsky (person/pseudonym?).
-  - MAYBE: “investigating judge” (role/office; could be literal or metaphor).
+  - CERTAIN: Charles Victor Hugo Renard-Beinsky — character Renard‑Beinsky (Charles) from Menyhért Lengyel’s *Typhoon/Taifun* (see research queue).
+  - LIKELY: “investigating judge” is part of the *Typhoon/Taifun* scene framing (not a literal office held by this narrator).
 - **Time markers:**
   - CERTAIN: “the night before”; “a few days before”; “risen untimely” (early hour).
 - **Motifs/continuity hooks:**
   - Investigation/judgement motif (“investigator”, “judge”, “judgements”).
-  - Odour/remedy: “a Jew’s lime” (soothing/relief by smell).
+  - Odour/remedy: “a Jew’s lime” likely “Jew’s‑lime” (hort.) engrafting wax (pitch + turpentine) with strong “concomitant odour” (see research queue).
 - **Voice/tells:**
   - Self-mocking, literary; blends detective/legal identity with armchair immobility (Baker Street).
 - **Ordering hypotheses:**
@@ -20,5 +20,4 @@ I had gone to sleep the night before after rereading Typhoon. It had always stru
 - **Disconfirming evidence:**
   - If “Baker Steet” is later shown as non-Sherlock/address pun only.
 - **Research needed:**
-  - What is meant by “a Jew’s lime” (term/product) and why it provides “relief”?
-  - Is “Charles Victor Hugo Renard-Beinsky” an allusive composite or a traceable real name?
+  - (none)

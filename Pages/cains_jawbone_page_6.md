@@ -7,11 +7,12 @@ I considered that venerable whose winter Achilles thought to take from the lips 
   - MAYBE: “dear girl” (narrator’s romantic decision pending).
   - MAYBE: “fellow garden enthusiast” (recipient of foxgloves).
 - **Quotes & allusions:**
-  - MAYBE: “venerable whose winter Achilles thought to take from the lips of Cressida” (Troilus & Cressida line; exact wording TBD).
+  - CERTAIN: “winter… from your lips” — Shakespeare, *Troilus and Cressida* 4.5 (Achilles): “I’ll take what winter from your lips, fair lady…”
   - CERTAIN: “life’s fitful fever” (Macbeth allusion).
   - CERTAIN: “The Speckled Band” (Sherlock Holmes).
 - **Motifs/continuity hooks:**
   - Smoking (“set fire to one end of him”).
+  - “Electric Febrifuge” likely points to gelsemium/gelsemine (a named drug/poison; see research queue).
   - Gardening/poison: foxgloves (digitalis).
   - Bells: dangling bell-wire (Speckled Band echo).
 - **Voice/tells:**
@@ -22,5 +23,4 @@ I considered that venerable whose winter Achilles thought to take from the lips 
 - **Disconfirming evidence:**
   - If foxgloves are purely ornamental in later context (no illness/poison thread).
 - **Research needed:**
-  - Identify the exact Troilus & Cressida quotation (“winter… lips…”).
-  - What is “Electric Febrifuge” (product/term) and what is its “active ingredient” here?
+  - (none)

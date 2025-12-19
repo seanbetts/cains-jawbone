@@ -83,6 +83,13 @@ Template:
   - **Confidence:** `CERTAIN`
   - **Research needed:** no
 
+- **Snippet:** “waited in Orchard… my true friend Ravager”
+  - **Likely source/author:** Rudyard Kipling, “Thy Servant a Dog” (1930): http://books.google.co.uk/books?id=hnwHAQAAIAAJ&pg=PT1&dq=%22waited+in+Orchard%22+Ravager&hl=&as_pt=BOOKS&cd=1&source=gbs_api
+  - **Why it matters:** Confirms Page 11 is directly quoting Kipling’s dog-POV voice; strong external allusion anchor for cross-referencing.
+  - **Pages:** Pages/cains_jawbone_page_11.md
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
+
 - **Snippet:** “Ah, are you digging on my grave?”
   - **Likely source/author:** Thomas Hardy (poem)
   - **Why it matters:** Quote/allusion anchor in a will/documents scene; may cluster narrator voice.

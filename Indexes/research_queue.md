@@ -100,22 +100,22 @@ Template:
   - **Type:** term/other
   - **Pages:** Pages/cains_jawbone_page_6.md
   - **Why it matters:** Could identify a drug/poison thread or period product clue.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** “Electric febrifuge” is a name for **gelseminum / gelsemium** (Carolina jessamine), a nerve-poison drug; its active alkaloids include **gelsemine** (and gelseminine). Murrell, *What to Do in Cases of Poisoning* (1884) lists “Electric febrifuge” under “Gelseminum” (p. 120): http://books.google.co.uk/books?id=NnQFAAAAQAAJ&pg=PA120&dq=%22electric+febrifuge%22&hl=&as_pt=BOOKS&cd=8&source=gbs_api. EB1911 “Gelsemium” describes gelsemine/gelseminine and the drug’s nerve-toxin effects: https://en.wikisource.org/wiki/Page:EB1911_-_Volume_11.djvu/577.
 
 - **Item:** What is meant by “a Jew’s lime” (and why it provides relief)?
   - **Type:** term
   - **Pages:** Pages/cains_jawbone_page_7.md
   - **Why it matters:** Odour/remedy motif; could be a specific product or slang.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** “Jew’s‑lime” (Hort.) is a grafting wax “composed of black pitch, turpentine, &c., burnt till the volatile parts are evaporated,” used “for engrafting” (strong smell fits “concomitant odour”). Crabb, *A Technical Dictionary…* (1851) p. 507: http://books.google.co.uk/books?id=JL9BAQAAMAAJ&pg=PA507&dq=%22Jew%27s+-+lime%22+engrafting&hl=&as_pt=BOOKS&cd=1&source=gbs_api.
 
 - **Item:** Is “Charles Victor Hugo Renard-Beinsky” a traceable person/pseudonym or an allusive composite?
   - **Type:** name/other
   - **Pages:** Pages/cains_jawbone_page_7.md
   - **Why it matters:** Might identify narrator/character via initials or literary references.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** Renard‑Beinsky is a character (Charles Renard‑Beinsky) in Menyhért Lengyel’s play **Taifun** (1910) / **Typhoon** (1913), matching Page 7’s “rereading Typhoon” and “investigating judge” framing. Google Books snippet shows dialogue with “Monsieur Renard‑Beinsky” in Lengyel, *Typhoon* (1913): http://books.google.co.uk/books?id=fvY1AQAAIAAJ&q=%22Renard-Beinsky%22&dq=%22Renard-Beinsky%22&hl=&as_pt=BOOKS&cd=1&source=gbs_api; and gives “Renard‑Beinsky: Charles” in Lengyel, *Taifun* (1910): http://books.google.co.uk/books?id=_TpIAQAAMAAJ&q=%22Renard-Beinsky%22&dq=%22Renard-Beinsky%22&hl=&as_pt=BOOKS&cd=10&source=gbs_api. Treat “Victor Hugo” in CJ as likely extra allusive middle names rather than a separate real person.
 
 - **Item:** Confirm what “Guido… on the sausage place” refers to (likely Guido Reni + Bologna) and the intended date
   - **Type:** date/other
@@ -149,7 +149,7 @@ Template:
   - **Type:** date/other
   - **Pages:** Pages/cains_jawbone_page_10.md
   - **Why it matters:** The text contrasts it with “Hyacinth’s day” (“too late for Jasmine’s day”) and includes an explicit “went back two days” offset.
-  - **Status:** `open`
+  - **Status:** `stalled`
   - **Result:** Not found as a named day/feast in Chambers’ *Book of Days*; may be an in-world/personal “day”, a name-day not covered by Chambers, or a different day-name system. Keep unresolved until a ≤1934 source is identified.
 
 - **Item:** Identify “Gourdoulis” (Egyptian cigarettes)
@@ -170,15 +170,15 @@ Template:
   - **Type:** place/name/other
   - **Pages:** Pages/cains_jawbone_page_11.md
   - **Why it matters:** Could anchor a specific quotation, ship, or location (supports clustering and ordering).
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** Direct quotation from Rudyard Kipling, “Thy Servant a Dog” (1930): “waited in Orchard, where he cast up blinded that night… my true friend Ravager… short legs…” (Google Books snippet): http://books.google.co.uk/books?id=hnwHAQAAIAAJ&pg=PT1&dq=%22waited+in+Orchard%22+Ravager&hl=&as_pt=BOOKS&cd=1&source=gbs_api. “Orchard” is a place-name within the story; “Ravager” is the dog narrator’s friend (another dog), not a real-world ship/place anchor.
 
 - **Item:** What is “the Grundy Sapphic of yesterday”?
   - **Type:** other
   - **Pages:** Pages/cains_jawbone_page_11.md
   - **Why it matters:** Might identify a publication/poem used as a time/date anchor (“yesterday”).
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** LIKELY a wordplay pointer to the Sunday newspaper **Sunday Graphic** (often styled “Sunday Graphic and Sunday News”), i.e. “yesterday’s” Sunday paper. Willing’s *Press Guide* (1934) lists “SUNDAY GRAPHIC AND SUNDAY NEWS”: http://books.google.co.uk/books?id=4Ms5AAAAMAAJ&pg=PA211&dq=%22Sunday+Graphic%22+%22Sunday+Pictorial%22&hl=&as_pt=BOOKS&cd=1&source=gbs_api.
 
 - **Item:** Identify “The golden one is gone from the banquets… beloved of Atimetus” (and correct Atimetus/Admetus)
   - **Type:** quote

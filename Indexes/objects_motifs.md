@@ -81,6 +81,11 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_6.md, Pages/cains_jawbone_page_21.md
   - **Notes:** Digitalis (foxglove) is described as a cardiac drug and a “powerful diuretic” in small/moderate doses (EB1911 “Digitalis”), which may explain the Page 21 “signal wash out” phrasing; also described as a cumulative poison. https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Digitalis
 
+- **Gelsemium (“Electric febrifuge”)**
+  - **Instances / variants:** “Electric Febrifuge”; gelsemium/gelsemine; Carolina jessamine (“yellow jasmine”)
+  - **Pages:** Pages/cains_jawbone_page_6.md, Pages/cains_jawbone_page_24.md
+  - **Notes:** “Electric febrifuge” is a name for gelseminum/gelsemium; EB1911 notes alkaloids gelsemine/gelseminine and describes it as a nerve poison. https://en.wikisource.org/wiki/Page:EB1911_-_Volume_11.djvu/577
+
 - **Aconite (aconitum / Fleming’s tincture)**
   - **Instances / variants:** aconitum exhibited; Fleming’s tincture mentioned; “Blue Rocket” (blue rocket/wolfsbane/monkshood = *Aconitum napellus*; EB1911 “Poison”, Page:EB1911_-_Volume_21.djvu/928)
   - **Pages:** Pages/cains_jawbone_page_80.md, Pages/cains_jawbone_page_91.md
@@ -120,6 +125,11 @@ Template:
   - **Instances / variants:** “Smells meant a lot to me” triggering a vivid recall (Vera Cruz fonda + blood on guitar strings)
   - **Pages:** Pages/cains_jawbone_page_44.md
   - **Notes:** Strong sensory/animal-coded tell candidate.
+
+- **Engrafting wax (“Jew’s‑lime”)**
+  - **Instances / variants:** “a Jew’s lime” + “concomitant odour”
+  - **Pages:** Pages/cains_jawbone_page_7.md
+  - **Notes:** “Jew’s‑lime” (hort.) is a grafting wax made from pitch/turpentine etc., used for engrafting; strong smell matches the “odour” cue. Crabb, *A Technical Dictionary…* (1851) p. 507: http://books.google.co.uk/books?id=JL9BAQAAMAAJ&pg=PA507&dq=%22Jew%27s+-+lime%22+engrafting&hl=&as_pt=BOOKS&cd=1&source=gbs_api.
 
 - **Aspirin / headache remedies**
   - **Instances / variants:** “two aspirin tablets”

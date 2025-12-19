@@ -35,6 +35,18 @@ Template:
     - “stops” is later used strictly in a musical/organ sense for this voice
     - no other initialism/abbreviation wordplay recurs on adjacent pages
 
+- `Pages/cains_jawbone_page_11.md`
+
+  LIKELY WORDPLAY
+  - mechanism(s): spoonerism + orthography
+  - span: "Grundy Sapphic"
+  - best reading: "From CANDIDATE(spoonerism): Grundy Sapphic -> Sunday Graphic (yesterday’s Sunday paper)"
+  - confidence: med
+  - why it matters: date -> “Turns ‘yesterday’ into an explicit Sunday-newspaper anchor for this narrator.”
+  - falsifiers:
+    - “Sunday Graphic” is contradicted elsewhere by a clearer newspaper reference in this narrator’s voice
+    - the surrounding context later makes “Grundy Sapphic” a literal person-name
+
 - `Pages/cains_jawbone_page_15.md`
 
   LIKELY WORDPLAY

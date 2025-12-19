@@ -100,7 +100,7 @@ Template:
   - **Tells:** rose “untimely” “for the sake of the investigating judge”.
   - **Pronouns/relationships:** none known.
   - **Pages:** Pages/cains_jawbone_page_7.md
-  - **Notes:** MAYBE composite allusive name rather than an in-world character.
+  - **Notes:** LIKELY an allusion to Menyhért Lengyel’s play *Taifun* (1910) / *Typhoon* (1913): Renard‑Beinsky is a character (given as “Charles” in *Taifun*). Treat “Victor Hugo” in CJ as likely extra allusive middle names rather than a separate real-world person. See `Indexes/research_queue.md`.
 
 - `P16` — Names/aliases: May
   - **Tells:** addressed directly in will/inheritance talk (“leave everything to me?” / “do just as you think fit, May”).
