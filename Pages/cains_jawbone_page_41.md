@@ -20,7 +20,7 @@ And then with horrid clearness I had seen a woman---not actually, if I could tru
   - CERTAIN: Selfridges (“Selfridget side”).
   - CERTAIN: Bond Street.
 - **Quotes & allusions:**
-  - Henry’s favourite quotation (M’Cullough stanza about cabins with marble/maple and “Social Hall”).
+  - CERTAIN: Henry’s favourite quotation is Kipling, “The Mary Gloster” (*The Seven Seas*): “M’Cullough ’e wanted cabins with marble and maple and all…”
 - **Wordplay:**
   - Mixed idioms: “to catch a whale… cast a sprat over the windmill” (proverb-scrambling).
   - “moled and isled” (cryptic place/wordplay; interpretation TBD).
@@ -37,5 +37,4 @@ And then with horrid clearness I had seen a woman---not actually, if I could tru
 - **Disconfirming evidence:**
   - If “first dog” is later clearly literal (not timekeeping) and the Henry here is a distinct Henry.
 - **Research needed:**
-  - Identify the M’Cullough quotation source.
-  - Interpret “moled and isled” / “Selfridget side” phrasing.
+  - Interpret “moled and isled” / “Selfridget side” phrasing (stalled; see `Indexes/research_queue.md`).

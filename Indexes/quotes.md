@@ -147,18 +147,25 @@ Template:
   - **Research needed:** no
 
 - **Snippet:** “Underneath this stone… doth lie as much Beauty as could die”
-  - **Likely source/author:** TBD (epitaph)
-  - **Why it matters:** Could identify a tomb/location/quoted author; may anchor ordering by travel.
+  - **Likely source/author:** Ben Jonson, epitaph “On Elizabeth L. H.” (“Underneath this stone doth lie / As much Beauty as could die…”), as printed in *Oxford Book of English Verse 1250–1900* (ed. Quiller-Couch, 1931): https://en.wikisource.org/wiki/Oxford_Book_of_English_Verse_1250-1900/On_Elizabeth_L._H.
+  - **Why it matters:** Quote anchor on Page 20; reinforces the Will/Ben (Shakespeare/Jonson) allusion chain.
   - **Pages:** Pages/cains_jawbone_page_20.md
-  - **Confidence:** `MAYBE`
-  - **Research needed:** yes — identify the epitaph and who “he” is.
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
+
+- **Snippet:** “Many a truth had been spoken… as an epigram.”
+  - **Likely source/author:** Proverb “Many a true word is spoken in jest,” attested in Chaucer (“Ful ofte in game a sooth I have herd seye”), *Canterbury Tales* (ed. Skeat), “Monk”: https://en.wikisource.org/wiki/Canterbury_Tales_(ed._Skeat)/Monk
+  - **Why it matters:** Epigram/proverb allusion; supports the narrator’s self-aware “truth via wit” register.
+  - **Pages:** Pages/cains_jawbone_page_18.md
+  - **Confidence:** `LIKELY`
+  - **Research needed:** no
 
 - **Snippet:** “a course of soup… and then another of fishes… and another of birds”
-  - **Likely source/author:** TBD (quoted as said by narrator’s “namesake”)
-  - **Why it matters:** Namesake clue for narrator identity; also links to appetite/dinner-course motif.
+  - **Likely source/author:** 1 Corinthians 15:39 (KJV) — “another of fishes, and another of birds” (the page turns it into a menu-courses joke by adding “soup” ahead of the biblical phrase): https://en.wikisource.org/wiki/Bible_(King_James)/1_Corinthians
+  - **Why it matters:** Namesake clue (“St Paul” → narrator’s “namesake”) and a distinctive scripture-to-menu transformation.
   - **Pages:** Pages/cains_jawbone_page_18.md
-  - **Confidence:** `MAYBE`
-  - **Research needed:** yes — identify the quotation and implied namesake.
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
 
 - **Snippet:** “But rum alone’s the tipple, and the heart’s delight / Of Cathleen, the daughter of Houlihan.”
   - **Likely source/author:** John Masefield, “Captain Stratton’s Fancy” (1902): https://en.wikisource.org/wiki/Captain_Stratton%27s_Fancy. The original next line is “Says the old bold mate of Henry Morgan”; *Cain’s Jawbone* appears to substitute “Cathleen, the daughter of Houlihan” (cf. Yeats’s “Cathleen ni Houlihan”).
@@ -178,13 +185,6 @@ Template:
   - **Likely source/author:** Francis Thompson, “Dream-Tryst”: https://en.wikisource.org/wiki/Poems_(Thompson)/Dream-Tryst
   - **Why it matters:** Page 23 quote anchor embedded in match imagery; paired with a biographical nod that Thompson sold matches.
   - **Pages:** Pages/cains_jawbone_page_23.md
-  - **Confidence:** `CERTAIN`
-  - **Research needed:** no
-
-- **Snippet:** “Underneath this stone doth lie / As much Beauty as could die…”
-  - **Likely source/author:** Ben Jonson, epitaph “On Elizabeth L. H.” (printed in *Oxford Book of English Verse 1250–1900*, ed. Quiller-Couch, 1931): https://en.wikisource.org/wiki/Oxford_Book_of_English_Verse_1250-1900/On_Elizabeth_L._H.
-  - **Why it matters:** Quote anchor on Page 20; reinforces the Will/Ben (Shakespeare/Jonson) allusion chain.
-  - **Pages:** Pages/cains_jawbone_page_20.md
   - **Confidence:** `CERTAIN`
   - **Research needed:** no
 
@@ -308,11 +308,11 @@ Template:
   - **Research needed:** no
 
 - **Snippet:** “But M’Cullough ‘e wanted cabins with marble and maple and all…”
-  - **Likely source/author:** TBD
-  - **Why it matters:** Marked as Henry’s “favourite quotation”; could strongly anchor narrator/allusion set and link other quoted passages.
+  - **Likely source/author:** Rudyard Kipling, “The Mary Gloster” (*The Seven Seas*, 1896): https://en.wikisource.org/wiki/The_Seven_Seas/The_Mary_Gloster
+  - **Why it matters:** Marked as Henry’s “favourite quotation”; strong Kipling anchor for this narrator segment.
   - **Pages:** Pages/cains_jawbone_page_41.md
-  - **Confidence:** `MAYBE`
-  - **Research needed:** yes — identify source.
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
 
 - **Snippet:** “Just broken to twine round they harp-strings… Were now raging to torture the desert! Then I, as was meet…”
   - **Likely source/author:** TBD
@@ -473,6 +473,20 @@ Template:
   - **Why it matters:** Strong voice tell and reusable quotation anchor.
   - **Pages:** Pages/cains_jawbone_page_65.md
   - **Confidence:** `CERTAIN`
+  - **Research needed:** no
+
+- **Snippet:** “joy’s crown of sorrow, or sorrow’s crown of joy”
+  - **Likely source/author:** Alfred, Lord Tennyson, “Locksley Hall” — “a sorrow’s crown of sorrow / is remembering happier things” (Poems, 1843): https://en.wikisource.org/wiki/Poems_(Tennyson,_1843)/Volume_2/Locksley_Hall
+  - **Why it matters:** Literary-source anchor in the school/memorial thread; the page’s phrasing is a deliberate riff/inversion.
+  - **Pages:** Pages/cains_jawbone_page_66.md
+  - **Confidence:** `LIKELY`
+  - **Research needed:** no
+
+- **Snippet:** “Alexander’s Ragtime Wedding Feast”
+  - **Likely source/author:** Riff on Irving Berlin’s “Alexander’s Ragtime Band” (song; words and music), 1911: http://books.google.co.uk/books?id=xABG0AEACAAJ&hl=&source=gbs_api
+  - **Why it matters:** Music-hall/popular-tune allusion in the Selby Abbey/school thread; may help link “old tunes” references across pages.
+  - **Pages:** Pages/cains_jawbone_page_68.md
+  - **Confidence:** `LIKELY`
   - **Research needed:** no
 
 - **Snippet:** “yon same star, that’s westward from the pole, had made his course…”

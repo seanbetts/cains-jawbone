@@ -254,8 +254,8 @@ Template:
   - **Type:** quote/other
   - **Pages:** Pages/cains_jawbone_page_18.md
   - **Why it matters:** Namesake identification could pin the narrator; may connect to other epigram references.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** “another of fishes… another of birds” is from **1 Corinthians 15:39** (KJV): “another of fishes, and another of birds” → Page 18 turns it into a menu-courses joke (adds “soup” ahead of the biblical “fishes… birds”), making the “namesake” LIKELY **St Paul**. https://en.wikisource.org/wiki/Bible_(King_James)/1_Corinthians. The “epigram” cue is LIKELY the proverb “Many a true word is spoken in jest,” attested in Chaucer: “Ful ofte in game a sooth I have herd seye” (*Canterbury Tales*, ed. Skeat, “Monk”): https://en.wikisource.org/wiki/Canterbury_Tales_(ed._Skeat)/Monk.
 
 - **Item:** Confirm whether “Human Comedy… beyond to-day” is intended as a Balzac death-date anchor
   - **Type:** date/other
@@ -548,15 +548,15 @@ Template:
   - **Type:** quote
   - **Pages:** Pages/cains_jawbone_page_41.md
   - **Why it matters:** Marked as Henry’s “favourite quotation”; could strongly anchor narrator/allusion set and link other quoted passages.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** Rudyard Kipling, “The Mary Gloster” (*The Seven Seas*, 1896): “M’Cullough ’e wanted cabins with marble and maple and all…” https://en.wikisource.org/wiki/The_Seven_Seas/The_Mary_Gloster.
 
 - **Item:** Interpret Page 41’s “moled and isled” / “Selfridget side” phrasing (place-wordplay)
   - **Type:** place/other
   - **Pages:** Pages/cains_jawbone_page_41.md
   - **Why it matters:** Might be a cryptic place clue (London/Surrey) useful for ordering and clustering.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `stalled`
+  - **Result:** No definitive external anchor found yet. Working hypotheses: (1) a locality pun toward **(East) Molesey** (River Mole/Thames confluence area) + nearby Thames “islands/islets” (fits the Page 40 Ditton/Surrey cluster); (2) pure cryptic/anagram wordplay (“moled”→MODEL; “isled”→SLIDE/IDLES) paired with Selfridges/Bond Street shopping geography. Keep open for cross-page corroboration.
 
 - **Item:** Identify the verse fragment about harp-strings and the desert (Page 42)
   - **Type:** quote
@@ -793,15 +793,15 @@ Template:
   - **Type:** term/other
   - **Pages:** Pages/cains_jawbone_page_63.md
   - **Why it matters:** Might identify venue/type of establishment and link other menu-title pages.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** A **Rainbow Sundae** (layered ice-cream sundae) — described in soda-fountain trade press (e.g., *Bakers Review* (Apr 1913) gives a “RAINBOW SUNDAE” recipe in an 8‑ounce cocktail glass): http://books.google.co.uk/books?id=MKYTAAAAYAAJ&pg=PA72&dq=%22Rainbow+Sundae%22+%22cocktail+glass%22&hl=&as_pt=BOOKS&cd=4&source=gbs_api. Page 63’s “Rainbow” is LIKELY shorthand for this sundae class.
 
 - **Item:** Identify the source of “little springs of a fairy’s sofa” (Page 63)
   - **Type:** quote
   - **Pages:** Pages/cains_jawbone_page_63.md
   - **Why it matters:** Could be a precise-source anchor for narrator voice or a decoding hint.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `stalled`
+  - **Result:** No match found yet in Wikisource search or Google Books for the exact phrase; may be an original simile rather than a quotation. Revisit if the “fairy sofa” image recurs elsewhere.
 
 - **Item:** Identify the “two things about a man” being read on Page 64 (hook/bait/Bellerophon passage)
   - **Type:** quote/other
@@ -863,15 +863,15 @@ Template:
   - **Type:** quote
   - **Pages:** Pages/cains_jawbone_page_66.md
   - **Why it matters:** Could be a quotation anchor for narrator voice or a hidden reference.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** Riffs on Tennyson’s *Locksley Hall* line: “That a sorrow’s crown of sorrow / Is remembering happier things.” (Poems, 1843): https://en.wikisource.org/wiki/Poems_(Tennyson,_1843)/Volume_2/Locksley_Hall.
 
 - **Item:** Identify what “Alexander’s Ragtime Wedding Feast” refers to (Page 68)
   - **Type:** quote/other
   - **Pages:** Pages/cains_jawbone_page_68.md
   - **Why it matters:** Might be a precise music-hall/song anchor or a deliberate “Alexander’s Ragtime Band” pointer.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** A riff on Irving Berlin’s 1911 song **“Alexander’s Ragtime Band”** (CJ swaps “Band” for “Wedding Feast” while keeping it as an “old tune” to whistle). Sheet music: Berlin, *Alexander’s Ragtime Band* (1911): http://books.google.co.uk/books?id=xABG0AEACAAJ&hl=&source=gbs_api.
 
 - **Item:** Identify which Orpen painting (1912) is referenced by “the place between Eros and the Queen’s Hall” (Page 70)
   - **Type:** place/other

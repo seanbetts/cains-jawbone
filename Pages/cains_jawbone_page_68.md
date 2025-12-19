@@ -12,7 +12,7 @@ Out cascaded the darling young. It was no tragedy ; that was, no tragedy compara
 - **Time markers:**
   - CERTAIN: reference to Latham Chapel fire in 1906 (historical anchor for this place).
 - **Quotes & allusions:**
-  - LIKELY: “Alexander’s Ragtime Wedding Feast” riffs on “Alexander’s Ragtime Band” (confirm).
+  - CERTAIN: “Alexander’s Ragtime Wedding Feast” riffs on Irving Berlin’s “Alexander’s Ragtime Band” (1911) (CJ swaps “Band” for “Wedding Feast” but treats it as an “old tune” to whistle).
   - CERTAIN: Kreisler (violinist) invoked via mosquito/fiddle metaphor.
 - **Motifs/continuity hooks:**
   - Nostalgia/reversion (“old tunes… damned and dead”).

@@ -4,10 +4,10 @@ I discussed certain passages with the man, and he was too guardedly ignorant in 
 
 - **Entities:**
   - MAYBE: “the man” (consulted about passages; evasive/ignorant).
-  - MAYBE: narrator’s “namesake” (quoted about dinner courses).
+  - LIKELY: narrator’s “namesake” is St Paul (1 Corinthians “another of fishes… another of birds”).
 - **Quotes & allusions:**
-  - MAYBE: “Many a truth had been spoken… as an epigram.” (source TBD).
-  - MAYBE: “a course of soup… fishes… birds, as my namesake said” (source TBD; menu-course allusion).
+  - LIKELY: “Many a truth had been spoken… as an epigram.” echoes the proverb “Many a true word is spoken in jest” (attested in Chaucer: “Ful ofte in game a sooth I have herd seye”).
+  - CERTAIN: “another of fishes… another of birds” is 1 Corinthians 15:39 (KJV) → narrator turns it into a menu-courses joke by adding “soup” ahead of it.
 - **Motifs/continuity hooks:**
   - Money as driver (“had it not been for money?”); suspicion + fear of wickedness.
   - Editing/omission (“fall of the rupee” chapter; “too sensational”).
@@ -19,4 +19,4 @@ I discussed certain passages with the man, and he was too guardedly ignorant in 
 - **Disconfirming evidence:**
   - If Page 18’s “money” context is later shown to be unrelated to legal documents/inheritance threads.
 - **Research needed:**
-  - Identify the epigram source and the “namesake” quotation about soup/fish/birds.
+  - (none)

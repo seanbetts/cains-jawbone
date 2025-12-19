@@ -9,6 +9,7 @@ It was neither the sheerest hell nor uttermost heaven thus to affront the dead ;
   - LIKELY: old school setting (fives courts; old Hall; school colours/memorial display).
 - **Motifs/continuity hooks:**
   - Death/memorial framing (“affront the dead”) + school nostalgia.
+  - “joy’s crown of sorrow…” riffs on Tennyson’s *Locksley Hall*: “a sorrow’s crown of sorrow / is remembering happier things.”
   - School colours: green/white/rose; “viridescence”.
   - Tension with companion’s blasé remarks (“not… very terrible”).
 - **Voice/tells:**
@@ -18,4 +19,4 @@ It was neither the sheerest hell nor uttermost heaven thus to affront the dead ;
 - **Disconfirming evidence:**
   - Only if later evidence shows an editorial/transcription artifact (unlikely given clean sentence continuation).
 - **Research needed:**
-  - Identify the “joy’s crown of sorrow…” phrasing source (if quoted).
+  - (none)
