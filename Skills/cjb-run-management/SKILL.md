@@ -82,6 +82,7 @@ An empty file (or missing `branch=` line) means no active run.
 
 ## After a run
 
-- Merge into `main` only if the run produced coherent progress.
+- **Full merge:** Merge the entire branch into `main` only if the run produced coherent puzzle progress.
+- **Selective merge:** If only infrastructure improved (Skills, Scripts, docs), use `Skills/cjb-merge-to-main/SKILL.md` to merge just those files without touching puzzle state on `main`.
 - Leave rejected experiments unmerged (branch stays as record).
 - Never delete run branches unless explicitly instructed.
