@@ -6,7 +6,7 @@ the darker works of Beardsley and Felicien Rops, and ringing with the gloat curs
   - CERTAIN: Aubrey Beardsley (art reference).
   - CERTAIN: Félicien Rops (art reference).
   - CERTAIN: “the Head” (headmaster; “gloat curses”; “grip of ether”).
-  - MAYBE: “place of the Whympers” (birthplace clue; needs ID).
+  - LIKELY: “place of the Whympers” = Haslemere (Surrey) (see *Highways and Byways in Surrey* (1908): “Mrs. Allingham painted the Haslemere fish-shop… Sir Arthur Conan Doyle played cricket for Haslemere… the Whympers we have met.” https://www.gutenberg.org/ebooks/28057.txt.utf-8 ; corroboration: Josiah Wood Whymper’s country house + death at Haslemere (DNB 1912 supplement): https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1912_supplement/Whymper,_Josiah_Wood).
   - CERTAIN: Mrs. Allingham (likely Helen Allingham; fishshop painting reference).
   - CERTAIN: author of *The Land of Mist* (Conan Doyle; cricket reference).
   - CERTAIN: “old Chris” (Christopher Columbus).
@@ -25,5 +25,4 @@ the darker works of Beardsley and Felicien Rops, and ringing with the gloat curs
 - **Disconfirming evidence:**
   - If “Palos”/Columbus is shown to be metaphorical rather than a date anchor (still likely a calendar pointer).
 - **Research needed:**
-  - Identify “place of the Whympers” + fishshop painting and which “it” Conan Doyle played cricket for.
   - Identify “herb of grace” usage in this context and the “Helen/Poe/Menkin” references.

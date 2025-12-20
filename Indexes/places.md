@@ -432,6 +432,12 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_67.md
   - **Notes:** Referenced via Columbus leaving Palos (likely a date anchor rather than setting).
 
+- **Haslemere (Surrey)**
+  - **Type:** town
+  - **Confidence:** `LIKELY`
+  - **Pages:** Pages/cains_jawbone_page_67.md
+  - **Notes:** LIKELY identified by the “place of the Whympers” + Allingham fishshop + Conan Doyle cricket trio: *Highways and Byways in Surrey* (1908) says “Mrs. Allingham painted the Haslemere fish-shop… Sir Arthur Conan Doyle played cricket for Haslemere till he went up the hill… the Whympers we have met.” https://www.gutenberg.org/ebooks/28057.txt.utf-8 (Whymper corroboration in DNB 1912 supplement: https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1912_supplement/Whymper,_Josiah_Wood).
+
 - **Piccadilly Circus (Eros)**
   - **Type:** landmark/statue
   - **Confidence:** `CERTAIN`

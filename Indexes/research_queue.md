@@ -849,8 +849,8 @@ Template:
   - **Type:** place/name/other
   - **Pages:** Pages/cains_jawbone_page_67.md
   - **Why it matters:** Might identify the narrator’s birthplace and social circle; could anchor ordering via geography.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** The clue points to **Haslemere (Surrey)**, and the CJ sentence closely paraphrases the Haslemere section of *Highways and Byways in Surrey* (1908): “Mrs. Allingham painted the Haslemere fish-shop… Sir Arthur Conan Doyle played cricket for Haslemere till he went up the hill… the Whympers we have met.” https://www.gutenberg.org/ebooks/28057.txt.utf-8 (Whymper corroboration: Josiah Wood Whymper had a country house at Haslemere and died there (DNB 1912 supplement): https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1912_supplement/Whymper,_Josiah_Wood).
 
 - **Item:** Confirm whether Page 67 is encoding a birthday/date via Columbus leaving Palos (3 Aug 1492)
   - **Type:** date
