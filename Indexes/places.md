@@ -300,11 +300,11 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_54.md
   - **Notes:** “meeting at La Belle Alliance” evokes Waterloo; potential date anchor.
 
-- **Bramley (Old Mill) (uncertain)**
+- **Bramley, Surrey (Old Mill)**
   - **Type:** village/landmark
-  - **Confidence:** `MAYBE`
+  - **Confidence:** `CERTAIN`
   - **Pages:** Pages/cains_jawbone_page_55.md
-  - **Notes:** “Old Mill at Bramley” picture with medlar tree, dovecot, grape vine; Bramley location needs identification.
+  - **Notes:** Eric Parker, *Highways and Byways in Surrey* (1908), Ch. VIII describes Bramley’s “old mill… with its medlar tree… octagonal brick dovecot… and its sweet-water grape vine…” matching Page 55’s picture: https://www.gutenberg.org/ebooks/28057.txt.utf-8.
 
 - **Asolo**
   - **Type:** town

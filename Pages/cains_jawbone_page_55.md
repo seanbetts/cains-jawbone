@@ -3,7 +3,7 @@ The picture of the Old Mill at Bramley, with its medlar tree overhanging the wat
 ## Notes
 
 - **Places:**
-  - CERTAIN: Bramley (Old Mill picture; exact Bramley uncertain).
+  - CERTAIN: Bramley, Surrey (near Guildford): Eric Parker, *Highways and Byways in Surrey* (1908), Ch. VIII describes “Bramley… an old mill… with its medlar tree overhanging the water… its octagonal brick dovecot… and its sweet-water grape vine…” matching this picture: https://www.gutenberg.org/ebooks/28057.txt.utf-8.
 - **Time markers:**
   - CERTAIN: “the day before”; “to-day”.
   - CERTAIN: “English holiday… like that other fifth… James… the Earl and his brother Alexander” → Gowrie Conspiracy (James VI; Earl of Gowrie + brother Alexander Ruthven) = Aug 5, 1600 (Nuttall Encyclopaedia, “Gowrie Conspiracy”).
@@ -22,5 +22,4 @@ The picture of the Old Mill at Bramley, with its medlar tree overhanging the wat
 - **Disconfirming evidence:**
   - If the “holiday” reference is merely associative and the hard/gentle pattern never reappears or yields structure.
 - **Research needed:**
-  - Identify the specific “Old Mill at Bramley” (Surrey vs Hampshire; details).
   - Determine whether the hard/gentle sequence encodes something (music/Morse/etc.) and whether it recurs.

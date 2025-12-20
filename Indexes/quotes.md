@@ -831,3 +831,10 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_39.md
   - **Confidence:** `LIKELY`
   - **Research needed:** no
+
+- **Snippet:** “the prettiest thing in Bramley is an old mill… with its medlar tree overhanging the water… its octagonal brick dovecot… and its sweet-water grape vine…”
+  - **Likely source/author:** Eric Parker, *Highways and Byways in Surrey* (1908), Ch. VIII “Shalford and Wonersh”: https://www.gutenberg.org/ebooks/28057.txt.utf-8
+  - **Why it matters:** Confirms the “Old Mill at Bramley” picture description on Page 55 and anchors a Surrey travel-guide source.
+  - **Pages:** Pages/cains_jawbone_page_55.md
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no

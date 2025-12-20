@@ -688,15 +688,15 @@ Template:
   - **Type:** place
   - **Pages:** Pages/cains_jawbone_page_55.md
   - **Why it matters:** Could be a concrete geographic anchor and might connect to other Surrey/Kent pages.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** Bramley in **Surrey** (near Guildford). Eric Parker, *Highways and Byways in Surrey* (1908), Ch. VIII “Shalford and Wonersh,” describes “Bramley… an old mill… with its medlar tree overhanging the water… its octagonal brick dovecot… and its sweet-water grape vine clambering on the old walls”—matching Page 55’s picture description: https://www.gutenberg.org/ebooks/28057.txt.utf-8.
 
 - **Item:** Interpret Page 55’s “hard/gentle” smell-chord sequence (encoding?)
   - **Type:** other
   - **Pages:** Pages/cains_jawbone_page_55.md
   - **Why it matters:** May be an intentional binary/musical/Morse-like code useful for ordering or identification.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `stalled`
+  - **Result:** No corroborating recurrence found in-page corpus. One possibility is Morse-like short/long signalling: treating “hard” as dash and “gentle” as dot gives `- . - - . . . -`, which can be split as `-.--` (Y) + `...-` (V); treat as a tentative hypothesis until a matching decode-key appears elsewhere.
 
 - **Item:** Identify the “Asolo silk mills” / “Pippa” references in Page 56
   - **Type:** quote/other
