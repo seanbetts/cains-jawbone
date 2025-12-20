@@ -92,9 +92,9 @@ Template:
   - **Notes:** Digitalis (foxglove) is described as a cardiac drug and a “powerful diuretic” in small/moderate doses (EB1911 “Digitalis”), which may explain the Page 21 “signal wash out” phrasing; also described as a cumulative poison. https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Digitalis
 
 - **Gelsemium (“Electric febrifuge”)**
-  - **Instances / variants:** “Electric Febrifuge”; gelsemium/gelsemine; Carolina jessamine (“yellow jasmine”)
-  - **Pages:** Pages/cains_jawbone_page_6.md, Pages/cains_jawbone_page_24.md
-  - **Notes:** “Electric febrifuge” is a name for gelseminum/gelsemium; EB1911 notes alkaloids gelsemine/gelseminine and describes it as a nerve poison. https://en.wikisource.org/wiki/Page:EB1911_-_Volume_11.djvu/577
+  - **Instances / variants:** “Electric Febrifuge”; gelsemium/gelsemine; Gelsemium semper-virens; Carolina jessamine (“yellow jasmine”)
+  - **Pages:** Pages/cains_jawbone_page_6.md, Pages/cains_jawbone_page_24.md, Pages/cains_jawbone_page_59.md
+  - **Notes:** “Electric febrifuge” is a name for gelseminum/gelsemium; EB1911 notes alkaloids gelsemine/gelseminine and describes it as a nerve poison. https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Gelsemium
 
 - **Aconite (aconitum / Fleming’s tincture)**
   - **Instances / variants:** aconitum exhibited; Fleming’s tincture mentioned; “Blue Rocket” (blue rocket/wolfsbane/monkshood = *Aconitum napellus*; EB1911 “Poison”, Page:EB1911_-_Volume_21.djvu/928)

@@ -9,8 +9,9 @@ What was it I held in my fingers? Looked at in one way it could just be a kea. I
 - **Time markers:**
   - CERTAIN: “that day”; “petit déjeuner”.
 - **Objects/terms:**
-  - CERTAIN: Gelsemium semper-virens (poison plant; yellow jasmine).
-  - MAYBE: “cast-iron old object” (set on the plant at breakfast).
+  - CERTAIN: kea (New Zealand mountain parrot, *Nestor notabilis*; “assaulting sheep” reputation in EB1911 “Nestor”): https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Nestor_(parrot)
+  - CERTAIN: Gelsemium semper-virens (Carolina/wild yellow jessamine; contains alkaloids gelsemine/gelseminine; described as a nerve poison and can kill by respiratory arrest in EB1911 “Gelsemium”): https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Gelsemium
+  - MAYBE: “cast-iron old object” (a small cast-iron bird/ornament described as a “kea”; function unclear).
 - **Motifs/continuity hooks:**
   - Poison attempt failure: “His silly bane had now definitely failed.”
   - Matches: lights a match; “consequences soothed me.”
@@ -24,5 +25,5 @@ What was it I held in my fingers? Looked at in one way it could just be a kea. I
 - **Disconfirming evidence:**
   - If “Trinder” here is unrelated to Sir Paul Trinder, or gelsemium context is non-poisonous/ornamental.
 - **Research needed:**
-  - Identify what the “cast-iron” object is and why it’s placed on gelsemium.
+  - Identify what the “cast-iron” object is (beyond “kea” bird-shape) and why it’s placed on gelsemium.
   - Identify the Xenocrate reference and whether it recurs.

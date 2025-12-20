@@ -744,8 +744,8 @@ Template:
   - **Type:** other
   - **Pages:** Pages/cains_jawbone_page_59.md
   - **Why it matters:** Could clarify the poison/method and link to other bird/phoenix/match imagery.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** “kea” is a New Zealand mountain parrot (*Nestor notabilis*), noted for assaulting sheep (EB1911 “Nestor”): https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Nestor_(parrot). “Gelsemium semper-virens” is Carolina/wild yellow jessamine; EB1911 describes the drug as a nerve poison (alkaloids gelsemine/gelseminine) that can kill by arresting respiration: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Gelsemium. The “cast-iron old object” appears to be a small bird-shaped cast-iron ornament/paperweight described as a kea (exact object type not specified).
 
 - **Item:** Identify the “No more by thee my steps…” line source (Page 60)
   - **Type:** quote
