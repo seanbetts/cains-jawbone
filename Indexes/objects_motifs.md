@@ -116,6 +116,11 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_55.md
   - **Notes:** Smoking appears in multiple scenes; connect if setting/character matches brand-specific mentions.
 
+- **Art reproduction (Goya)**
+  - **Instances / variants:** “that Goya reproduction” (vision-blurred: “A hanging man? A countess?”); bought “secretly in Leningrad” via OGPU intermediary.
+  - **Pages:** Pages/cains_jawbone_page_74.md
+  - **Notes:** LIKELY contrast between Goya portraits of the Countess of Chinchón and a hanging-scene print from *Los Desastres de la Guerra*; Calvert’s *Goya, an account of his life and works* (Gutenberg #64514) lists both: https://www.gutenberg.org/cache/epub/64514/pg64514.txt
+
 - **Cigarettes (Nestor)**
   - **Instances / variants:** “lit a Nestor”
   - **Pages:** Pages/cains_jawbone_page_54.md

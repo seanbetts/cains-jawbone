@@ -18,7 +18,7 @@ I started to read Hardy’s exquisite production, and every muscle of my brain w
 - **Motifs/continuity hooks:**
   - Reading/interpretation as competition (harvest vs gleaning).
   - Manuscript/illumination imagery (green palette; gold leaf) + “uncorked his ink”.
-  - Classification/typing (“pigeon-holing by type”) as a profession tell.
+  - Classification/typing (“pigeon-holing by type”) as a profession tell (LIKELY literal filing/sorting; Chambers 1908 “pigeon-hole” = “division of a case for papers”: https://en.wikisource.org/wiki/Chambers%27s_Twentieth_Century_Dictionary_1908/Philopena_Pistachio; “type” includes printing type/typewriter: https://en.wikisource.org/wiki/Chambers%27s_Twentieth_Century_Dictionary_1908/Tup_Tzigany).
 - **Voice/tells:**
   - Triumphal, witty, and slightly cruel; frames people as “types”.
 - **Ordering hypotheses:**
@@ -26,4 +26,4 @@ I started to read Hardy’s exquisite production, and every muscle of my brain w
 - **Disconfirming evidence:**
   - If Wilde quotations are purely decorative and do not signal narrator identity/cluster.
 - **Research needed:**
-  - Clarify what “pigeon-holing by type” refers to (typewriter fonts? librarian systems? police records?).
+  - Identify who “him” is (if this scene is continued elsewhere); “pigeon-holing by type” now reads as clerical/printer filing language rather than a unique named system.

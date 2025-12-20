@@ -5,19 +5,23 @@ In one way, of course, I was glad they were married. I had always been rather a 
 - **Entities:**
   - CERTAIN: narrator called “Hal” (detests the name; imposed by “she”).
   - MAYBE: “murderous doctor” (quoted speaker in a book).
+  - LIKELY: “Some Tom” = **Thomas** (De Quincey) as author of the quoted “murderous doctor” line; contrasted with a literal “tom” elsewhere in the jasmine thread.
   - MAYBE: Tom (explicitly “not the one I killed in the matter of Jasmine”).
   - MAYBE: “they” (a married couple; context unclear).
+  - LIKELY: narrator is a dog (breed/pedigree register; “chop for me”).
 - **Time markers:**
   - CERTAIN: “to-day”; “that day”.
 - **Places:**
   - CERTAIN: England (visited “to-day for the first time” by an unnamed “he”).
-  - MAYBE: Malta/Maltese (rumour of a “Maltese landing on our island”).
+  - MAYBE: “Maltese” is breed-wordplay (Maltese dog is a listed toy breed: EB1911 “Dog”: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Dog) rather than literal Malta.
+  - LIKELY: “our island” implies Skye/Skye terrier (Chambers 1908: “Skye… for Skye terrier”): https://en.wikisource.org/wiki/Chambers%27s_Twentieth_Century_Dictionary_1908/Simon-pure_Slope
 - **Quotes & allusions:**
   - CERTAIN: Thomas De Quincey, “Second Paper on Murder Considered as One of the Fine Arts” (contains “The original ground of the transaction appears to have been sentimental: ‘He was my friend,’ says the murderous doctor; ‘he was dear to me.’”): https://en.wikisource.org/wiki/Second_Paper_on_Murder_considered_as_One_of_the_Fine_Arts
 - **Motifs/continuity hooks:**
   - Family/purity obsession.
   - Food: “provided a chop for me” (strong animal/dog POV cue).
   - Murder continuity: “the one I killed in the matter of Jasmine” (links to jasmine motif pages).
+  - LIKELY: “matter of Jasmine” points to the jasmine/cat thread (cf. cat “Jasmine” on Pages/cains_jawbone_page_22.md).
 - **Voice/tells:**
   - Naïve/undereducated self-description (“real education… just listening to him”); name/identity sensitivity (“Hal”).
 - **Ordering hypotheses:**
@@ -26,4 +30,4 @@ In one way, of course, I was glad they were married. I had always been rather a 
 - **Disconfirming evidence:**
   - If “chop” and “Hal” prove metaphorical and the narrator is clearly human in later linked pages.
 - **Research needed:**
-  - Clarify what “the matter of Jasmine” and the two “Tom” references point to.
+  - Identify why “Hal” is used as the disliked name (if it recurs elsewhere).

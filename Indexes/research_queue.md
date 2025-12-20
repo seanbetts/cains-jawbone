@@ -576,8 +576,8 @@ Template:
   - **Type:** other
   - **Pages:** Pages/cains_jawbone_page_43.md
   - **Why it matters:** Could identify a specific venue/menu or a coded sequence (and help link Pages 42–43).
-  - **Status:** `open`
-  - **Result:** The “Alexander’s my name. They ca’d me Ecky when I was a boy…” passage is quoted from Robert Louis Stevenson & Lloyd Osbourne, *The Wrecker* (1892), Chapter 6: https://en.wikisource.org/wiki/The_Wrecker_(Stevenson)/Chapter_6. “Lover’s Delight” is attested as an ice-cream-parlour specialty (three small cones of ice cream on a sundae dish) in *The Spatula* (1922), p. 23: https://books.google.com/books?id=_hZOAAAAMAAJ&pg=PA23&dq=%22Lover%27s+Delight%22. “the Dawn” also appears as a capitalised venue-name paired with “the Moon” on Pages/cains_jawbone_page_17.md (same voice has “bad for the hand” / avoiding “the stuff”); the specific real-world venue remains unpinned.
+  - **Status:** `stalled`
+  - **Result:** The “Alexander’s my name. They ca’d me Ecky when I was a boy…” passage is quoted from Robert Louis Stevenson & Lloyd Osbourne, *The Wrecker* (1892), Chapter 6: https://en.wikisource.org/wiki/The_Wrecker_(Stevenson)/Chapter_6. “Lover’s Delight” is attested as an ice-cream-parlour specialty (three small cones of ice cream on a sundae dish) in *The Spatula* (1922), p. 23: https://books.google.com/books?id=_hZOAAAAMAAJ&pg=PA23&dq=%22Lover%27s+Delight%22. “the Dawn” also appears as a capitalised venue-name paired with “the Moon” on Pages/cains_jawbone_page_17.md (same voice has “bad for the hand” / avoiding “the stuff”), but no specific pre-1934 real-world “The Dawn”/“The Moon” venue match found yet in quick Wikisource/Gutenberg searches; revisit if more location anchors appear.
 
 - **Item:** Identify the “honest station between King’s Cross and Edinburgh” clue (Page 43)
   - **Type:** place/other
@@ -618,8 +618,8 @@ Template:
   - **Type:** other
   - **Pages:** Pages/cains_jawbone_page_46.md
   - **Why it matters:** May identify the narrator (animal POV?) and connect to the broader jasmine/murder thread.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** Reads as dog/pedigree wordplay: “Maltese” is a dog breed (listed under “Ladies’ toy dogs” in EB1911 “Dog”: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Dog), and Chambers 1908 defines “Skye” as “for Skye terrier” (suggesting “our island” = Skye and the narrator is LIKELY a Skye terrier worrying about purity): https://en.wikisource.org/wiki/Chambers%27s_Twentieth_Century_Dictionary_1908/Simon-pure_Slope. “Some Tom” is LIKELY “Thomas” (De Quincey) as the preceding quoted sentence is from Thomas De Quincey’s “Second Paper…”: https://en.wikisource.org/wiki/Second_Paper_on_Murder_considered_as_One_of_the_Fine_Arts, contrasted with a literal “tom” (tomcat) in the jasmine thread.
 
 - **Item:** Identify whether “Special Orange Supreme” is a specific tea/venue/menu item (Page 47)
   - **Type:** term/other
@@ -786,8 +786,8 @@ Template:
   - **Type:** name/other
   - **Pages:** Pages/cains_jawbone_page_62.md
   - **Why it matters:** Determines whether these names should drive clustering/cast inference.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `stalled`
+  - **Result:** No pre-1934 match found for the exact names “Darius Brockley” or “the Vicar’s niece” as a quotation/allusion in quick Wikisource/Gutenberg searches; Google Books metadata queries return only modern *Cain’s Jawbone* editions. Treat as in-world names unless a fuller quotation recurs elsewhere.
 
 - **Item:** Identify what a “Rainbow” is in the Page 63 sweets scene (drink/dessert/brand)
   - **Type:** term/other
@@ -835,8 +835,8 @@ Template:
   - **Type:** other
   - **Pages:** Pages/cains_jawbone_page_65.md
   - **Why it matters:** Could be a concrete profession tell and a scene-setting constraint.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** Chambers 1908 defines “pigeon-hole” as “a division of a case for papers” and “to pigeon-hole” as “to put into a pigeon-hole” (i.e., file/put away): https://en.wikisource.org/wiki/Chambers%27s_Twentieth_Century_Dictionary_1908/Philopena_Pistachio. Chambers 1908 also defines “type” as including printing “a piece of metal… used in printing” (and “typist” as typewriter user): https://en.wikisource.org/wiki/Chambers%27s_Twentieth_Century_Dictionary_1908/Tup_Tzigany. So “pigeon-holing by type” plausibly points to literal clerical/printer work (filing/sorting papers or printing-type) and doubles as the narrator’s “personality type” joke.
 
 - **Item:** Identify the school/institution implied by Pages 66–68 (fives courts + Hall + “Latham Chapel” fire in 1906)
   - **Type:** place/other
@@ -912,15 +912,15 @@ Template:
   - **Type:** name/term
   - **Pages:** Pages/cains_jawbone_page_72.md
   - **Why it matters:** Could be a brand/merchant clue that recurs in other food/drink pages.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `stalled`
+  - **Result:** No clear pre-1934 trace found for “Pasquier’s claret” as a named merchant/brand in quick Wikisource/Gutenberg searches; French Wikisource lookups for Rue de la Harpe context did not surface a Pasquier-linked wine shop. Treat “Pasquier” as an in-world acquaintance/wine-merchant placeholder until corroborated elsewhere.
 
 - **Item:** Identify “Savage Conqueror” (Page 72)
   - **Type:** quote/other
   - **Pages:** Pages/cains_jawbone_page_72.md
   - **Why it matters:** Might be a specific book used as an ordering/cipher key.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `stalled`
+  - **Result:** No pre-1934 “Savage Conqueror” title match located in quick Gutenberg/Wikisource catalogue searches; Google Books metadata queries for the exact title return only later works (and *Cain’s Jawbone* itself). Treat as an in-world “complete novel”/magazine title unless a clearer author/publisher clue appears.
 
 - **Item:** Identify the painter identity clue + “The Mumpers” (Page 73)
   - **Type:** name/other
@@ -954,15 +954,15 @@ Template:
   - **Type:** other
   - **Pages:** Pages/cains_jawbone_page_74.md
   - **Why it matters:** Could anchor a specific reproduction/title and link to other art references.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** LIKELY contrast between (a) Goya portraits of the **Countess of Chinchón** (Doña Maria Teresa de Vallabriga, “Condesa de Chinchon”) and (b) a Goya print showing a **man hanging** (from *Los Desastres de la Guerra* / hangings captions). Both appear in Albert F. Calvert, *Goya, an account of his life and works* (Gutenberg #64514): https://www.gutenberg.org/cache/epub/64514/pg64514.txt (see multiple “Condesa de Chinchon” entries and “man hanging”/“being hanged” captions in the print lists).
 
 - **Item:** Clarify what “them” refers to in Page 74 (photos, documents, artworks, or something else)
   - **Type:** other
   - **Pages:** Pages/cains_jawbone_page_74.md
   - **Why it matters:** Determines whether this is an OGPU-documents/blackmail thread with cross-page continuity.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** “Them” most directly refers to the plural items “bought… secretly in Leningrad” (in the same exchange as the Goya reproduction); context suggests a bundle of purchasable physical objects (photographs/prints/reproductions and/or documents), rather than a person, with the Goya reproduction likely one of the set.
 
 - **Item:** Confirm what “Indian tobacco” denotes and how it’s used on Page 75 (blight remedy vs poison)
   - **Type:** term/other

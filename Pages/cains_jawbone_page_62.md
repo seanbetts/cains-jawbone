@@ -26,5 +26,5 @@ What should such a man need with such a companion, I asked myself. And then I th
   - If “dead man” is metaphorical or purely a quoted/storytold figure rather than an in-world death.
 - **Research needed:**
   - Identify the specific “Major-General in Trafalgar Square on Guy Fawkes night” anecdote, if it exists in a source text (statue likely Sir Henry Havelock; see Kelly’s *Post Office Guide to London in 1871* (1871), p. 334): https://books.google.co.uk/books?id=0VO7Grn7tAkC&pg=PA334&dq=Trafalgar+Square+Havelock.
-  - Identify Darius Brockley / Vicar’s niece context (in-world vs allusion).
+  - STALLED: no pre-1934 source/allusion match found yet for “Darius Brockley” / “Vicar’s niece”; treat as in-world names unless a fuller quotation recurs.
   - Clarify what “dissociate the last of the gold from the silver” refers to (coin sorting? figurative?).

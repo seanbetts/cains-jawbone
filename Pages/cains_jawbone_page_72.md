@@ -18,5 +18,5 @@ Of course I was sorry to say good-bye to old Medehamstede ; but it was pleasant 
 - **Disconfirming evidence:**
   - If “Pasquier” is a brand/product rather than an in-world acquaintance.
 - **Research needed:**
-  - Identify “Savage Conqueror” (author/date) and whether it’s being used as an ordering/cipher key.
-  - Identify Pasquier (wine-merchant/brand) if traceable.
+  - STALLED: could not trace “Pasquier’s claret” to a specific pre-1934 merchant/brand yet; treat as in-world acquaintance unless corroborated elsewhere.
+  - STALLED: no pre-1934 “Savage Conqueror” title match located yet (may be an in-world “complete novel”/magazine title).
