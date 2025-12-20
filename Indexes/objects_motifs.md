@@ -236,6 +236,11 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_20.md, Pages/cains_jawbone_page_40.md, Pages/cains_jawbone_page_97.md
   - **Notes:** Pill-taking recurs across narrators/scenes; MAYBE continuity with Page 3’s pill/poison narrator, but do not merge without stronger anchors (substance name/effects).
 
+- **Hypodermic syringe (“Compact”)**
+  - **Instances / variants:** “Compact” (portable hypodermic syringe model name)
+  - **Pages:** Pages/cains_jawbone_page_77.md
+  - **Notes:** “Compact” is attested as a hypodermic syringe model name (“No. 4, Compact”): *Massachusetts Medical Journal* (1884), p. 192: https://books.google.co.uk/books?id=rUt67QayTQIC&pg=PA192-IA3&dq=No.+4,+Compact&source=gbs_api.
+
 - **Calabar bean**
   - **Instances / variants:** “Calabar Bean” invoked as “rough old friend”; “West African ordeal beans”; “physostigma”; “old Calabar… should fail me”
   - **Pages:** Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_29.md, Pages/cains_jawbone_page_36.md

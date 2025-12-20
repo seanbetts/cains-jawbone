@@ -9,7 +9,7 @@ Compact, they call it ; but when I used it, I was feeling anything but so. Don�
   - MAYBE: “jellyfish” (literal or figurative cause of motor-boat failure/return).
 - **Death/violence cues:**
   - CERTAIN: narrator committed a murder (“it was my first”; warmth → cold of ankles).
-  - MAYBE: weapon/tool called “Compact” (used by narrator; identify what it is).
+  - LIKELY: weapon/tool called “Compact” = a portable hypodermic syringe model (“No. 4, Compact”): *Massachusetts Medical Journal* (1884), p. 192: https://books.google.co.uk/books?id=rUt67QayTQIC&pg=PA192-IA3&dq=No.+4,+Compact&source=gbs_api.
 - **Time markers:**
   - CERTAIN: “my first” (first killing).
   - CERTAIN: “that day’s killing of Perceval” alludes to the assassination of Spencer Perceval on Monday, 11 May 1812: https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Perceval,_Spencer.
@@ -20,4 +20,4 @@ Compact, they call it ; but when I used it, I was feeling anything but so. Don�
 - **Disconfirming evidence:**
   - If “Perceval” is an in-world character rather than historical, or if “my first” refers to something non-lethal.
 - **Research needed:**
-  - Identify what “Compact” refers to (weapon/tool) in period usage.
+  - (none)

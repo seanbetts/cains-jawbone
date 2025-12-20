@@ -13,8 +13,8 @@ Then there disappeared the last rose flivers of the Prussian beast. He had died 
   - Travel: diary as “sensational” train reading.
   - Cleaning/alteration: “lips were wiped clean”; “new instrument” suggests rewriting/forgery workflow.
 - **Quotes & allusions:**
-  - MAYBE: “We that did nothing study but the way to love each other…” (source TBD).
-  - MAYBE: “learn the hateful art, how to forget” (source TBD).
+  - CERTAIN: “We that did nothing study but the way to love each other…” = Thomas Carew (poem; printed in *The Poems and Masque of Thomas Carew* (1893)), p. 175: https://books.google.co.uk/books?id=E6B-X55lhFAC&pg=PA175&dq=We,+that+did+nothing+study&source=gbs_api.
+  - CERTAIN: “learn the hateful art, how to forget” = Thomas Carew (same poem as the prior line; printed in *The Poems and Masque of Thomas Carew* (1893)), p. 175: https://books.google.co.uk/books?id=E6B-X55lhFAC&pg=PA175&dq=learn+the+hateful+art&source=gbs_api.
 - **Voice/tells:**
   - Suave self-assurance under threat; explicitly frames the situation as falsifiable (“verify… I never travel without my diary”).
 - **Ordering hypotheses:**
@@ -22,5 +22,4 @@ Then there disappeared the last rose flivers of the Prussian beast. He had died 
 - **Disconfirming evidence:**
   - If “instrument” is non-writing (e.g., medical) and “mimic artistry” refers to something other than handwriting/documents.
 - **Research needed:**
-  - Identify the source of the “We that did nothing study…” line.
   - Clarify what “lips were wiped clean” refers to (seal? mouth? lipstick? metaphor).

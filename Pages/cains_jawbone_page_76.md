@@ -7,6 +7,7 @@ Looking over at the sly sideways smile which seemed to fill all the foreground o
   - CERTAIN: victim named Green (explicitly “the name of the victim”).
   - MAYBE: Scottish nobleman (unnamed; “green stick fracture” remark).
   - CERTAIN: Henry (quoted as a source for a simile).
+  - MAYBE: “Pentarry” resembles the place-name Penterry (Monmouthshire; near Chepstow), but no person/title match found yet: https://books.google.co.uk/books?id=la0_AAAAcAAJ&pg=PA57&dq=Penterry&source=gbs_api.
 - **Death/violence cues:**
   - CERTAIN: billhook + “welter” over a slain “lieutenant” (described as a precedent/example).
   - LIKELY: narrator contemplating personally doing “the thing” with a named victim (Green).
@@ -24,4 +25,4 @@ Looking over at the sly sideways smile which seemed to fill all the foreground o
 - **Disconfirming evidence:**
   - If “Green” is revealed as a joke/reference rather than an in-world victim, or if the billhook scene is purely literary quotation.
 - **Research needed:**
-  - Identify “Lord Pentarry” source (in-world character vs literary reference).
+  - (none)

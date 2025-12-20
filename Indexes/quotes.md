@@ -567,18 +567,18 @@ Template:
   - **Research needed:** no
 
 - **Snippet:** “We that did nothing study but the way to love each other…”
-  - **Likely source/author:** TBD
+  - **Likely source/author:** Thomas Carew (poem; as printed in *The Poems and Masque of Thomas Carew* (1893)), p. 175: https://books.google.co.uk/books?id=E6B-X55lhFAC&pg=PA175&dq=We,+that+did+nothing+study&source=gbs_api.
   - **Why it matters:** Quoted in a document/forgery context; may link to other pages quoting the same passage.
   - **Pages:** Pages/cains_jawbone_page_78.md
-  - **Confidence:** `MAYBE`
-  - **Research needed:** yes — identify source/context.
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
 
 - **Snippet:** “learn the hateful art, how to forget”
-  - **Likely source/author:** TBD
+  - **Likely source/author:** Thomas Carew (same poem as the prior line; as printed in *The Poems and Masque of Thomas Carew* (1893)), p. 175: https://books.google.co.uk/books?id=E6B-X55lhFAC&pg=PA175&dq=learn+the+hateful+art&source=gbs_api.
   - **Why it matters:** Aphoristic quote used as a closing moral; may cluster narrator voice.
   - **Pages:** Pages/cains_jawbone_page_78.md
-  - **Confidence:** `MAYBE`
-  - **Research needed:** yes — identify source/context.
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
 
 - **Snippet:** “a babbled o’ green fields”
   - **Likely source/author:** Shakespeare, *Henry V* (Falstaff death report)

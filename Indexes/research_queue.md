@@ -975,8 +975,8 @@ Template:
   - **Type:** name/other
   - **Pages:** Pages/cains_jawbone_page_76.md
   - **Why it matters:** Could be an in-world murderer exemplar or a literary allusion that anchors narrator reading set.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `stalled`
+  - **Result:** No clear pre-1934 match found for “Lord Pentarry” as a person/title (outside modern *Cain’s Jawbone* editions). MAYBE related to the place-name **Penterry** (Monmouthshire; “3 miles N. from Chepstow”): *The English Counties Delineated* (1837), p. 57: https://books.google.co.uk/books?id=la0_AAAAcAAJ&pg=PA57&dq=Penterry&source=gbs_api.
 
 - **Item:** Identify the source of “stars upon some gloomy grove” (quoted via Henry on Page 76)
   - **Type:** quote
@@ -989,8 +989,8 @@ Template:
   - **Type:** term/other
   - **Pages:** Pages/cains_jawbone_page_77.md
   - **Why it matters:** Likely the murder instrument; could materially constrain means/method analysis.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** “Compact” is attested as the name of a portable hypodermic syringe model (“No. 4, Compact”) in *Massachusetts Medical Journal* (1884), p. 192: https://books.google.co.uk/books?id=rUt67QayTQIC&pg=PA192-IA3&dq=No.+4,+Compact&source=gbs_api.
 
 - **Item:** Confirm the date implied by “that day’s killing of Perceval” (Page 77)
   - **Type:** date
@@ -1003,15 +1003,15 @@ Template:
   - **Type:** quote
   - **Pages:** Pages/cains_jawbone_page_78.md
   - **Why it matters:** Could anchor the forgery/will thread to a specific text and link other quotations.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** Thomas Carew (poem; as printed in *The Poems and Masque of Thomas Carew* (1893)), p. 175: https://books.google.co.uk/books?id=E6B-X55lhFAC&pg=PA175&dq=We,+that+did+nothing+study&source=gbs_api.
 
 - **Item:** Identify the source of “learn the hateful art, how to forget” (Page 78)
   - **Type:** quote
   - **Pages:** Pages/cains_jawbone_page_78.md
   - **Why it matters:** May recur as a refrain and help cluster narrator voice.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** Thomas Carew (same poem as the prior line; printed in *The Poems and Masque of Thomas Carew* (1893)), p. 175: https://books.google.co.uk/books?id=E6B-X55lhFAC&pg=PA175&dq=learn+the+hateful+art&source=gbs_api.
 
 - **Item:** Confirm what “Bob Martin” denotes in Page 79 (likely a dog medicine brand/product)
   - **Type:** term/other

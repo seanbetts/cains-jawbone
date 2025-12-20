@@ -448,7 +448,7 @@ Template:
   - **Tells:** recalled as a brutal exemplar (“Tools must be tooled…”; billhook wiped “over the welter” of a slain lieutenant).
   - **Pronouns/relationships:** has a “minion” (unnamed).
   - **Pages:** Pages/cains_jawbone_page_76.md
-  - **Notes:** Unclear if in-world or a literary example; treat as provisional until sourced.
+  - **Notes:** No clear pre-1934 match found for “Lord Pentarry” as a person/title (outside modern *Cain’s Jawbone* editions). MAYBE related to the place-name Penterry (Monmouthshire; near Chepstow): *The English Counties Delineated* (1837), p. 57: https://books.google.co.uk/books?id=la0_AAAAcAAJ&pg=PA57&dq=Penterry&source=gbs_api.
 
 - `P74` — Names/aliases: Sandy
   - **Tells:** friend in an animal POV passage; anticipates being allowed to retrieve Lagopus scoticus again.
