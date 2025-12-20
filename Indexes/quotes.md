@@ -55,6 +55,20 @@ Template:
   - **Confidence:** `CERTAIN`
   - **Research needed:** no
 
+- **Snippet:** “Nuts in May”
+  - **Likely source/author:** Traditional children’s “line” game/song; EB1911 notes “Nuts in May” among children’s games: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Children%27s_Games. Kipling quotes the line “Here we go gathering nuts in May…” and names it “Nuts in May” in “The Village that Voted the Earth was Flat” (*A Diversity of Creatures*, 1917): https://en.wikisource.org/wiki/A_Diversity_of_Creatures/The_Village_that_Voted_the_Earth_was_Flat
+  - **Why it matters:** Date anchor -> suggests May (reinforcing “my name month”) and frames “nuts” as a pun-ready idiom for craziness.
+  - **Pages:** Pages/cains_jawbone_page_58.md
+  - **Confidence:** `LIKELY`
+  - **Research needed:** no
+
+- **Snippet:** “Be not afraid, thy help is near.”
+  - **Likely source/author:** Chorus/anthem text in *Words of Anthems Used in Westminster Abbey* (1878), p. 109: https://books.google.co.uk/books?id=FD9GAAAAYAAJ&pg=PA109&vq=%22thy+help+is+near%22
+  - **Why it matters:** Wordplay -> Page 58’s “Be not a Freud; thy help is near” is a near-homophone pun on this line.
+  - **Pages:** Pages/cains_jawbone_page_58.md
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
+
 - **Snippet:** “Evelyn Hope”
   - **Likely source/author:** Robert Browning (poem)
   - **Why it matters:** Strong allusion anchor; hints at a Browning-quoting social circle/voice.

@@ -730,8 +730,8 @@ Template:
   - **Type:** date/other
   - **Pages:** Pages/cains_jawbone_page_58.md
   - **Why it matters:** Might identify the narrator’s name/month or a calendar constraint.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** “Nuts in May” refers to the traditional children’s singing game (“Here we go gathering nuts in May…”), quoted and explicitly named “Nuts in May” in Kipling, “The Village that Voted the Earth was Flat” (*A Diversity of Creatures*, 1917): https://en.wikisource.org/wiki/A_Diversity_of_Creatures/The_Village_that_Voted_the_Earth_was_Flat (EB1911 also lists “Nuts in May” among children’s games: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Children%27s_Games). “Be not a Freud; thy help is near” puns on the chorus/anthem line “Be not afraid, thy help is near” (Words of Anthems Used in Westminster Abbey (1878), p. 109): https://books.google.co.uk/books?id=FD9GAAAAYAAJ&pg=PA109&vq=%22thy+help+is+near%22. Together, these reinforce May as the implied “name month” while keeping the “nuts/Freud” insanity joke active.
 
 - **Item:** Identify Inspector Barraclough reference (Page 58)
   - **Type:** name/other
