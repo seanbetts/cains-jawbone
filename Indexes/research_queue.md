@@ -884,8 +884,8 @@ Template:
   - **Type:** other
   - **Pages:** Pages/cains_jawbone_page_70.md
   - **Why it matters:** Might encode a name/route/instruction that affects ordering or motive.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `stalled`
+  - **Result:** Efate (Efaté) is an island-name in the New Hebrides, also called “Sandwich island” (EB1911 “New Hebrides”, footnote): https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/New_Hebrides. The intended bracket/cipher operation around “Ming” / “Munich” remains unclear; MAYBE it cues a morphological build like `IM` + `MIGRATE` → “IMMIGRATE” (I(sland) + m(odest) + “Ming”→MIG + “expense”→RATE), but this is unverified.
 
 - **Item:** Identify the source of “express my duty in his eye” (Page 71)
   - **Type:** quote
@@ -898,8 +898,8 @@ Template:
   - **Type:** name/other
   - **Pages:** Pages/cains_jawbone_page_71.md
   - **Why it matters:** Might be an allusion, genealogical joke, or hidden-name clue.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `stalled`
+  - **Result:** “Herebald” is an attested early English name (a disciple of St John of Beverley; later abbot of Tynemouth) in the DNB: https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/John_of_Beverley_(d.721). No pre-1934 source found for the combined phrase “Herebald the Drake”; LIKELY a deliberate comic malapropism/bluff (or conflation with a different “Drake” figure) until more context recurs.
 
 - **Item:** Confirm what “Medehamstede” refers to in Page 72
   - **Type:** place

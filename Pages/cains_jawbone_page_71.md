@@ -7,6 +7,7 @@ But next day that religious fellow’s head drapery, if I might thus unscientifi
   - MAYBE: May (person or “May” as a flower/month motif; narrator fears “letting May down”).
   - CERTAIN: Elsie (recalled; “difficulty” with a young coastguard).
   - CERTAIN: young coastguard (unnamed; claimed descent from Herebald the Drake).
+  - MAYBE: Herebald is a historical name (disciple of St John of Beverley; later abbot of Tynemouth), making the coastguard’s “direct descent” claim sound like bluff/malapropism (DNB): https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/John_of_Beverley_(d.721)
   - MAYBE: “religious fellow” (unnamed; has “head drapery” that is failing).
 - **Time markers:**
   - CERTAIN: “next day”.

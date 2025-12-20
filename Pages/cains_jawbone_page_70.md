@@ -9,6 +9,7 @@ It flashed through my mind that the place between Eros and the Queen’s Hall ha
 - **Places:**
   - CERTAIN: “Eros” (Piccadilly Circus statue) + Queen’s Hall (London) corridor/route reference.
   - CERTAIN: Orpen painting is “The Café Royal” (1911–12) (R. P., *Sir William Orpen* (1923), Plate 16): https://books.google.co.uk/books?id=hCChAAAAMAAJ&pg=PA16&dq=CAFE+ROYAL.
+  - CERTAIN: Efate (Efaté) is an island in the New Hebrides, also called “Sandwich island” (EB1911 “New Hebrides”, footnote): https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/New_Hebrides
 - **Time markers:**
   - CERTAIN: “in the morning” (letter/package discovered then).
   - CERTAIN: Orpen “painted it in 1912” (historical anchor for the London place-change observation).
@@ -23,4 +24,4 @@ It flashed through my mind that the place between Eros and the Queen’s Hall ha
 - **Disconfirming evidence:**
   - If “he” is clearly a different person from the “old man” and the letter is unrelated to the death scene.
 - **Research needed:**
-  - Interpret “warnings of the Ming”, “modest Munich”, and “Efate” bracket wordplay (if enciphering).
+  - Interpret “warnings of the Ming”, “modest Munich”, and “Efate” bracket wordplay (Efate itself is pinned as an island name, but the intended bracket/cipher operation remains unclear).
