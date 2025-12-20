@@ -625,8 +625,8 @@ Template:
   - **Type:** term/other
   - **Pages:** Pages/cains_jawbone_page_47.md
   - **Why it matters:** Could anchor a scene/venue or a coded menu sequence; links to tea motif pages.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** “Special Orange Supreme” is attested as a **menu item name** in *The Hotel Monthly* (menus section; “Special Orange Supreme” appears alongside “Orange Pekoe” tea listings): https://books.google.co.uk/books?id=uLvmAAAAMAAJ&pg=RA2-PA29&dq=Special+Orange+Supreme (also searchable via `jscmd=SearchWithinVolume2`). Treat as period menu language rather than a unique coded phrase.
 
 - **Item:** Interpret Page 48’s Book of Common Prayer + “wormed his way” clue and the “Crataegus Oxyacantha” joke
   - **Type:** quote/other

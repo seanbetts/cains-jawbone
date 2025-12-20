@@ -15,6 +15,7 @@ Babs now moves across the vision, crowned with two straight downfalls, as it wer
   - Weather shift: drought → first rain; “little silver frogs” on the road.
   - Hair description: “two… downfalls… of copper… twin cataracts”.
   - Tea: Orange Pekoe → Special Orange Supreme.
+    - “Special Orange Supreme” is attested as a menu item name in *The Hotel Monthly* (menus section): https://books.google.co.uk/books?id=uLvmAAAAMAAJ&pg=RA2-PA29&dq=Special+Orange+Supreme.
   - Henry policing diction: dislikes “got me”.
 - **Voice/tells:**
   - Highly visual, metaphor-heavy; keeps returning to sensory weather memories.
@@ -24,5 +25,4 @@ Babs now moves across the vision, crowned with two straight downfalls, as it wer
 - **Disconfirming evidence:**
   - If “Orange Pekoe / Special Orange Supreme” turns out to be non-tea (menu/code) rather than beverage continuity.
 - **Research needed:**
-  - Identify whether “Special Orange Supreme” is a specific tea brand/venue menu item.
   - Track whether Babs recurs (and whether Babs vs “she” are distinct).
