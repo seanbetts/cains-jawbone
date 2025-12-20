@@ -51,7 +51,7 @@ Template:
 - **Baker Street**
   - **Type:** street/address
   - **Confidence:** `CERTAIN`
-  - **Pages:** Pages/cains_jawbone_page_7.md
+  - **Pages:** Pages/cains_jawbone_page_7.md, Pages/cains_jawbone_page_85.md
   - **Notes:** Invoked as a detective anchor (“investigator… had not stirred from Baker Steet”).
 
 - **Firth of Forth**

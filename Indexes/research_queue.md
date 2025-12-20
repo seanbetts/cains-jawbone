@@ -1101,22 +1101,22 @@ Template:
   - **Type:** place/other
   - **Pages:** Pages/cains_jawbone_page_85.md
   - **Why it matters:** Could pin a specific street/location (and possibly link to other “lions” references).
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** LIKELY Baker Street, London: “Mycroft’s brother” points to Sherlock Holmes (based at 221B Baker Street), and “Blake” reads as Sexton Blake (another fictional detective associated with Baker Street). Doyle, *A Study in Scarlet*, Part I, Ch. 2 (221B Baker Street): https://en.wikisource.org/wiki/A_Study_in_Scarlet/Part_1/Chapter_2. Sexton Blake + “Baker Street” co-occur in *The Union Jack* (1906) snippets: https://books.google.co.uk/books?id=35wNBYtmVRcC&jscmd=SearchWithinVolume2&q=Baker+Street.
 
 - **Item:** Identify “pale but multitudinous Blake” and the Kipling name-jibe clue (Page 85)
   - **Type:** other
   - **Pages:** Pages/cains_jawbone_page_85.md
   - **Why it matters:** Could reveal narrator name/identity or a key allusive mapping (Blake vs Kipling).
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** “Blake” is LIKELY Sexton Blake (fictional detective; positioned here alongside Holmes as another “lion” investigator; long-running, “multitudinous” publication history). *The Union Jack* (1894) frames him explicitly as “Sexton Blake, … detective”: https://books.google.co.uk/books?id=SwGvLuNbn90C&pg=RA1-PA1&dq=%22Sexton+Blake%22+detective&source=gbs_api. The “whiskified objectionable one” reads as wordplay: **KIPLING = K(LIP)ING** (“lip” = where whiskers sit; inserted into “king” = objectionable one), implying the narrator’s name was “guyed” from **King → Kipling**.
 
 - **Item:** Identify what “the murderer that is to be hung next day” refers to (Page 85)
   - **Type:** date/other
   - **Pages:** Pages/cains_jawbone_page_85.md
   - **Why it matters:** Could be an explicit calendar anchor or an in-world legal event.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** Walt Whitman, “The Sleepers” (*Leaves of Grass*): “The murderer that is to be hung next day, how does he sleep?” https://en.wikisource.org/wiki/Leaves_of_Grass_(1882)/The_Sleepers.
 
 - **Item:** Identify the poem/source for “quiet feet… old bold mate of Henry Morgan” (Pages 86–87)
   - **Type:** quote

@@ -8,11 +8,14 @@ I was true to time. I had, it occurred to me, been something of an automaton. Bu
   - CERTAIN: barking/mourning dog (next room).
   - MAYBE: “murderer… to be hung next day” (could be in-world or historical reference).
 - **Places:**
-  - MAYBE: London street near “twin mouths of two lions” (specific location unclear).
+  - LIKELY: Baker Street, London (the “two lions” appear to be Sherlock Holmes + Sexton Blake, both detective anchors tied to Baker Street; see research queue).
 - **Quotes & allusions:**
   - CERTAIN: Mycroft’s brother (Sherlock Holmes allusion).
-  - MAYBE: “the pale but multitudinous Blake” (identity unclear: author/poet vs another referent).
+  - LIKELY: “the pale but multitudinous Blake” = Sexton Blake (fictional detective; a “pale” Holmes-like counterpart with a large story corpus; see research queue).
   - CERTAIN: Kipling (name-jibe reference).
+  - CERTAIN: “The murderer that is to be hung next day, how does he sleep?” = Whitman, “The Sleepers” (*Leaves of Grass*): https://en.wikisource.org/wiki/Leaves_of_Grass_(1882)/The_Sleepers.
+- **Wordplay:**
+  - LIKELY: “whiskified objectionable one… Kipling” ⇒ **KIPLING = K(LIP)ING** (“lip” where whiskers are) → suggests narrator’s name “King” was schoolboy-guyed to “Kipling”.
 - **Motifs/continuity hooks:**
   - Time/automation (“true to time”; “automaton”).
   - Concealment: “put Henry’s keenness… below the… salt-cellar” (hiding an object/tool?).
@@ -24,6 +27,4 @@ I was true to time. I had, it occurred to me, been something of an automaton. Bu
 - **Disconfirming evidence:**
   - If “Henry” here is not the same kind of figure as in Page 82 (or the settings diverge).
 - **Research needed:**
-  - Identify the “twin mouths of two lions” place reference.
-  - Identify “pale but multitudinous Blake” and what “whiskified objectionable was Kipling” is encoding.
-  - Determine whether “murderer… to be hung next day” is a date anchor or in-world event.
+  - (none)

@@ -48,6 +48,13 @@ Template:
   - **Confidence:** `CERTAIN`
   - **Research needed:** no
 
+- **Snippet:** “The murderer that is to be hung next day, how does he sleep?”
+  - **Likely source/author:** Walt Whitman, “The Sleepers” (*Leaves of Grass*, 1882): https://en.wikisource.org/wiki/Leaves_of_Grass_(1882)/The_Sleepers.
+  - **Why it matters:** Confirms Page 85 is quoting Whitman; supports treating this as an intentional borrowed line rather than generic reflection on execution.
+  - **Pages:** Pages/cains_jawbone_page_85.md
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
+
 - **Snippet:** “Evelyn Hope”
   - **Likely source/author:** Robert Browning (poem)
   - **Why it matters:** Strong allusion anchor; hints at a Browning-quoting social circle/voice.
