@@ -13,7 +13,7 @@ I dimly guess why the old dead so wanted this. I had worked for him, Henry had w
 - **Places:**
   - CERTAIN: Scotland Yard (invoked explicitly).
   - CERTAIN: Woolworth’s (store/landmark reference).
-  - MAYBE: Kursal (Kursaal; place/venue to identify).
+  - LIKELY: Kursal = Kursaal, Southend(-on-Sea), Essex (e.g., “Kursaal, Southend” in *The Freemason and Masonic Illustrated* (1909), p. 14): https://books.google.co.uk/books?id=zpowAQAAMAAJ&pg=PA14&dq=Kursaal%2C+Southend&source=gbs_api.
 - **Death/violence cues:**
   - LIKELY: narrator is in extremis (heart distress; cannot rise; valedictory tone).
   - MAYBE: antagonistic woman is implicated by gloating posture and “blood-tinted” mouth (possible poisoning/violence).
@@ -22,13 +22,11 @@ I dimly guess why the old dead so wanted this. I had worked for him, Henry had w
   - Police/detection frame (Scotland Yard) collides with personal collapse.
   - Henry “getting out of hand” (suggests Henry is physically controlled/handled in this scene).
 - **Quotes & allusions:**
-  - CERTAIN: “Here I shake off the bur o’ the world, man’s congregation shun” (source TBD).
-  - CERTAIN: “You know not how ill’s all here, about my heart; but I know.” (source TBD).
+  - CERTAIN: “Here I shake off the bur o’ the world, man’s congregation shun” = Francis Thompson, “An Anthem of Earth” (in *New Poems*, 1897), p. 93: https://books.google.co.uk/books?id=SZo-AAAAYAAJ&pg=PA93&dq=bur+o%27+the+world&source=gbs_api.
+  - CERTAIN: “how ill all’s here about my heart” echoes Shakespeare, *Hamlet* Act V (“…I shall win at the odds… thou wouldst not think how ill all’s here about my heart…”): https://en.wikisource.org/wiki/Hamlet_(1917)_Yale/Text/Act_V.
 - **Ordering hypotheses:**
   - MAYBE: belongs with the Henry + Scotland Yard / detective cluster (police framing + Henry present).
 - **Disconfirming evidence:**
   - If the collapse/death framing is revealed as purely rhetorical (no actual in-world harm).
 - **Research needed:**
-  - Identify the Kursal and whether the Woolworth’s/Kursal route anchors a specific town.
-  - Identify the two quoted lines and whether they supply narrator identity or date.
   - Clarify whether “May” here is the person (`P16`) or a month/colour simile.

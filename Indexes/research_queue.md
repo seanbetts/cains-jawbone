@@ -1241,8 +1241,8 @@ Template:
   - **Type:** people/other
   - **Pages:** Pages/cains_jawbone_page_94.md
   - **Why it matters:** The narrator seeing their own name “printed… in great letters” is a strong identity anchor if the exact wording can be matched elsewhere.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** LIKELY the narrator’s surname is **King**: Pages/cains_jawbone_page_85.md suggests a schoolboy nickname “Kipling” formed by “whiskifying” an “objectionable one” → K(LIP)ING = King + “lip” (where whiskers sit); Pages/cains_jawbone_page_94.md then notes seeing “my own name… printed… in great letters.” Treat the window-sign as reading “KING” unless a longer exact form turns up elsewhere.
 
 - **Item:** Identify “Holy Mr. Herbert” reference (Page 95)
   - **Type:** people/other
@@ -1325,40 +1325,40 @@ Template:
   - **Type:** date/other
   - **Pages:** Pages/cains_jawbone_page_97.md
   - **Why it matters:** Could encode a historical date or set of anniversaries used for ordering.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** “Paris” is a pun on Dr **John Ayrton Paris** (a physician, i.e., a “healer”), who “graduated M.B. at Cambridge in 1808” (DNB: https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Paris,_John_Ayrton). “Leonidas” is the Spartan king associated with Thermopylae (EB1911: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Leonidas). The contrast reads as Cambridge (Dr Paris) vs Thermopylae (Leonidas), rather than a single explicit calendar date.
 
 - **Item:** Identify “sedulous ape” / “Simple faith or Norman bluff” / “Douglas” references (Page 98)
   - **Type:** quote/other
   - **Pages:** Pages/cains_jawbone_page_98.md
   - **Why it matters:** May clarify whether the page is about a doctor/patient, a hire, or an allusive passage; could also cluster narrator voice.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** “Played the sedulous ape” is Robert Louis Stevenson on learning style by imitation (“The Question of Style”): https://en.wikisource.org/wiki/The_Craftsmanship_of_Writing/The_Question_of_Style. “Douglas… tender and more true” alludes to Walter Scott, *Marmion*, Canto Fifth, line 460–461 (“More tender and more true: Forgive me, Douglas, once again”): https://en.wikisource.org/wiki/Marmion/Canto_Fifth. “Simple faith or Norman bluff?” reads as internal rhetoric/wordplay; no external fixed phrase found.
 
 - **Item:** Identify the “Quarry hills” setting (Page 98)
   - **Type:** place
   - **Pages:** Pages/cains_jawbone_page_98.md
   - **Why it matters:** Landscape anchor (sunset “above the Quarry hills”) may pin a location cluster if matched elsewhere.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `stalled`
+  - **Result:** No clear unique place-match found (the phrase is too generic in print); treat “Quarry hills” as descriptive landscape wording unless another page supplies a stronger geographic anchor.
 
 - **Item:** Identify the eye-description passage, “Father Fred”, and “closing day in Potsdam” (Page 99)
   - **Type:** quote/date/other
   - **Pages:** Pages/cains_jawbone_page_99.md
   - **Why it matters:** Might be a precise-source quotation and/or date anchor; also appears in a page with an explicit killing admission.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** The “most excellent, potent, brilliant eyes…” passage is quoted (via James Thomson citing Carlyle) as describing **Friedrich/Frederick the Great**: “Their intellects are as the eyes of Friedrich pictured by Carlyle… Most excellent, potent, brilliant eyes…” (James Thomson, “The Ring and the Book” essay): https://en.wikisource.org/wiki/Biographical_and_critical_studies_by_James_Thomson_(%22B.V.%22)/%22The_Ring_and_the_Book%22. “Father Fred” is thus LIKELY Friedrich/Frederick (nickname “Fred”). “Closing day in Potsdam” points to Frederick II’s death at Sanssouci (Potsdam) on 17 Aug 1786 (EB1911 “Frederick II. of Prussia”: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Frederick_II._of_Prussia).
 
 - **Item:** Identify the Kursal + Woolworth’s routing clue (Page 100)
   - **Type:** place
   - **Pages:** Pages/cains_jawbone_page_100.md
   - **Why it matters:** Could identify a specific town/venue pairing and provide hard geographic ordering constraints.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** “Kursal” is LIKELY the **Kursaal** at Southend(-on-Sea), Essex (period sources refer to “Kursaal, Southend”): *The Freemason and Masonic Illustrated* (1909) mentions “Kursaal, Southend” (p. 14): https://books.google.co.uk/books?id=zpowAQAAMAAJ&pg=PA14&dq=Kursaal%2C+Southend&source=gbs_api. (See also EB1911 “Southend-on-Sea” for the town: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Southend-on-Sea.)
 
 - **Item:** Identify the two quoted lines in Page 100 (“bur o’ the world…”; “ill’s all here… about my heart”) (Page 100)
   - **Type:** quote
   - **Pages:** Pages/cains_jawbone_page_100.md
   - **Why it matters:** Likely strong voice-identification anchors embedded in a climactic collapse scene.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** “Here I shake off the bur o’ the world, man’s congregation shun” is Francis Thompson, “An Anthem of Earth” (in *New Poems*, 1897), p. 93: https://books.google.co.uk/books?id=SZo-AAAAYAAJ&pg=PA93&dq=bur+o%27+the+world&source=gbs_api. “How ill all’s here about my heart” is Shakespeare, *Hamlet* Act V (1917 Yale text): “I shall win at the odds. But thou wouldst not think how ill all’s here about my heart; but it is no matter.” https://en.wikisource.org/wiki/Hamlet_(1917)_Yale/Text/Act_V.

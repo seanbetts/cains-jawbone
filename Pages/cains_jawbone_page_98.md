@@ -18,9 +18,9 @@ He stood and looked down at me ; but I was not to be hurried. The money changed 
   - MAYBE: Quarry hills (unidentified; could be a setting anchor if matched elsewhere).
 - **Quotes & allusions:**
   - CERTAIN: “a consummation devoutly to be wished” (Shakespeare, *Hamlet*).
-  - MAYBE: “sedulous ape” phrase (source TBD).
+  - CERTAIN: “played the sedulous ape” (imitative style-learning) is Robert Louis Stevenson, “The Question of Style” (*The Craftsmanship of Writing*): https://en.wikisource.org/wiki/The_Craftsmanship_of_Writing/The_Question_of_Style.
+  - CERTAIN: “Douglas… tender and more true” alludes to Walter Scott, *Marmion*, Canto Fifth (“More tender and more true: Forgive me, Douglas, once again”): https://en.wikisource.org/wiki/Marmion/Canto_Fifth. (CJ’s “less tender and more true” appears to be a deliberate inversion of “More tender and more true”.)
 - **Disconfirming evidence:**
   - If “gone… finally gone” is purely metaphorical (departure rather than death intent).
 - **Research needed:**
-  - Identify the “sedulous ape” reference and what “Simple faith or Norman bluff? … Douglas” is pointing to.
   - Identify “Quarry hills” (and whether it anchors a specific locality).

@@ -8,10 +8,11 @@ Naturally I looked up. And I tell you I found it awe-inspiring enough to actuall
   - MAYBE: “the other” (scatters “saintly ashes”).
   - CERTAIN: Colonel Anthony (commemorated annually).
   - CERTAIN: two children (unnamed “he” and “she”; gum prunes).
+  - LIKELY: narrator surname is King (schoolboy jibe “Kipling” in Pages/cains_jawbone_page_85.md suggests K(LIP)ING = King + “lip”; fits “my own name” window-sign).
 - **Quotes & allusions:**
   - CERTAIN: Yeats, “At Galway Races” (*Responsibilities*, 1916): “And we find hearteners among men / That ride upon horses.” (Page:Yeats_Responsibilities_1916.djvu/128) — CJ paraphrases “hearteners” as “heartedness”.
 - **Motifs/continuity hooks:**
-  - Name-as-sign: narrator sees their own name printed in a window (strong identity anchor if the name can be read elsewhere).
+  - Name-as-sign: narrator sees their own name printed in a window (LIKELY “KING”; see Entities).
   - LIKELY: Colonel Anthony refers to (Lt-)Col. Anthony St. Leger (Doncaster’s annual St. Leger Stakes, instituted 1776): Nuttall “Doncaster” (“called after Colonel St. Leger… instituted them in 1776”) + *Alumni Oxonienses* notes his brother Anthony founded the St. Leger Stakes in 1776 (The_Nuttall_Encyclopædia/D; Page:Alumni_Oxoniensis_(1715-1886)_volume_4.djvu/12).
   - Ashes/dust/earth: “saintly ashes” + “Agriculture… take back her own”.
   - Distraction by children (gum prunes) while trying to focus on Henry.
@@ -23,4 +24,4 @@ Naturally I looked up. And I tell you I found it awe-inspiring enough to actuall
 - **Disconfirming evidence:**
   - If the “name in the window” is not the narrator’s own but a place/sign misread.
 - **Research needed:**
-  - Identify the narrator name that appears in the window-sign (what exact wording is printed).
+  - (none)

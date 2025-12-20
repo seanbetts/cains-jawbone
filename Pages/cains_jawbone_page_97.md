@@ -6,7 +6,7 @@ To have slept and to wake right up surrounded by an atmosphere in which Bunny an
   - CERTAIN: narrator (“I”).
   - CERTAIN: Henry (named; narrator looks at him before “a thing I had never done before”).
   - CERTAIN: Bunny and Perry (recur as Pro/Con mental combatants).
-  - MAYBE: Paris and Leonidas (reference targets; unclear if people, codes, or dates).
+  - LIKELY: Paris and Leonidas (allusive targets: Dr John Ayrton Paris; Spartan King Leonidas).
   - MAYBE: John Ayrton (named; narrator says he wasn’t thinking of him).
 - **Time markers:**
   - CERTAIN: “That was the day” (event day framing).
@@ -19,10 +19,12 @@ To have slept and to wake right up surrounded by an atmosphere in which Bunny an
 - **Quotes & allusions:**
   - CERTAIN: “Ellen Brine ov Allenburn / Would never mwore return” — William Barnes, “Ellen Brine ov Allenburn” (*Poems of Rural Life in the Dorset Dialect*, 1879), Page:Barnes_(1879)_Poems_of_rural_life_in_the_Dorset_dialect_(combined).djvu/219.
   - CERTAIN: French lyric is Paul Verlaine, “Sérénade” (*Poèmes saturniens*, 1866): “Ouvre ton âme… De ma mandoline… Cruelle et câline.” (Page:Verlaine_-_Poèmes_saturniens,_Lemerre,_1866.djvu/112); CJ spells “Oeuvre” for “Ouvre”.
-  - MAYBE: Cambridge/Thermopylae/Leonidas references as date or education anchors.
+  - CERTAIN: “Paris” is a pun on Dr John Ayrton Paris (a “healer”), who “graduated M.B. at Cambridge in 1808” (DNB): https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Paris,_John_Ayrton.
+  - CERTAIN: Leonidas is the Spartan king associated with Thermopylae (EB1911): https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Leonidas.
+  - LIKELY: “Cambridge or Thermopylae?” contrasts Dr Paris (Cambridge) with Leonidas (Thermopylae).
 - **Ordering hypotheses:**
   - LIKELY: clusters with Pages/cains_jawbone_page_93.md via the distinctive Bunny-and-Perry phrasing.
 - **Disconfirming evidence:**
   - If “Bunny and Perry” is shown to be a generic metaphor independently reused by multiple narrators.
 - **Research needed:**
-  - Interpret “Paris and Leonidas” and the Cambridge/Thermopylae contrast (date clue vs pure rhetoric).
+  - (none)

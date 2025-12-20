@@ -548,12 +548,12 @@ Template:
 
 - **Woolworth’s (storefront; unspecified)**
   - **Type:** shop/landmark
-  - **Confidence:** `MAYBE`
+  - **Confidence:** `LIKELY`
   - **Pages:** Pages/cains_jawbone_page_100.md
-  - **Notes:** Used as a routing landmark (“slips down past Woolworth’s”); could help identify the town if paired with “Kursal”.
+  - **Notes:** Used as a routing landmark (“slips down past Woolworth’s”); given “Kursal” is LIKELY the Kursaal at Southend(-on-Sea), treat this as the Southend Woolworth’s on the route.
 
-- **Kursal (Kursaal; unidentified)**
+- **Kursal (Kursaal; Southend-on-Sea)**
   - **Type:** venue/building (uncertain)
-  - **Confidence:** `MAYBE`
+  - **Confidence:** `LIKELY`
   - **Pages:** Pages/cains_jawbone_page_100.md
-  - **Notes:** Likely “Kursaal” (entertainment hall); identify which one to anchor the route with Woolworth’s.
+  - **Notes:** LIKELY the Kursaal at Southend(-on-Sea), Essex (period sources refer to “Kursaal, Southend”: *The Freemason and Masonic Illustrated* (1909), p. 14: https://books.google.co.uk/books?id=zpowAQAAMAAJ&pg=PA14&dq=Kursaal%2C+Southend&source=gbs_api; see also EB1911 “Southend-on-Sea”: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Southend-on-Sea).

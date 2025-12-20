@@ -6,7 +6,7 @@ And she wore a mauve love-knot on her breast, and the ends were unequal. He said
   - CERTAIN: narrator (“I”).
   - CERTAIN: “she” (mauve love-knot; asks questions).
   - CERTAIN: “he” (tries to adjust the love-knot; reads out an eye-description passage).
-  - CERTAIN: Father Fred (named; “excellent… eyes” are said to be his).
+  - CERTAIN: Father Fred (named; LIKELY Friedrich/Frederick the Great; see Quotes & allusions).
   - MAYBE: Jasmine (referenced as someone who would call old men “jossers”).
 - **Death/violence cues:**
   - CERTAIN: narrator admits a prior killing (“she wasn’t the one I’d killed”).
@@ -16,10 +16,11 @@ And she wore a mauve love-knot on her breast, and the ends were unequal. He said
   - Grooming: “dry shampoo… on the old chest” (voice/POV tell).
   - “Closing day in Potsdam” (date/place anchor candidate).
 - **Places:**
-  - CERTAIN: Potsdam (as a “closing day” reference; likely allusive).
+  - CERTAIN: Potsdam (as a “closing day” reference; LIKELY Frederick the Great’s death at Sanssouci, Potsdam).
+- **Quotes & allusions:**
+  - CERTAIN: the “most excellent… brilliant eyes… azure-grey… rapidity resting on depth” description is Carlyle on Friedrich (quoted via James Thomson): https://en.wikisource.org/wiki/Biographical_and_critical_studies_by_James_Thomson_(%22B.V.%22)/%22The_Ring_and_the_Book%22.
+  - CERTAIN: “closing day in Potsdam” points to Frederick II’s death at Sanssouci (Potsdam) on 17 Aug 1786 (EB1911): https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Frederick_II._of_Prussia.
 - **Disconfirming evidence:**
   - If “killed” refers to an animal kill or metaphor rather than one of the in-world murders.
 - **Research needed:**
-  - Identify the quoted eye-description passage and why it’s tied to “Father Fred”.
-  - Identify what “closing day in Potsdam” refers to (date/event clue).
   - Determine whether the four-foot/“three more left” wording signals animal POV continuity.

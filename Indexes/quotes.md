@@ -790,16 +790,23 @@ Template:
   - **Confidence:** `CERTAIN`
   - **Research needed:** no
 
+- **Snippet:** “Most excellent, potent, brilliant eyes, swift-darting as the stars, steadfast as the sun…”
+  - **Likely source/author:** Thomas Carlyle (on “Friedrich”/Frederick the Great), quoted in James Thomson (“B.V.”), “The Ring and the Book”: https://en.wikisource.org/wiki/Biographical_and_critical_studies_by_James_Thomson_(%22B.V.%22)/%22The_Ring_and_the_Book%22
+  - **Why it matters:** Identifies Page 99’s “Father Fred” as Friedrich/Frederick the Great and supports treating “closing day in Potsdam” as a death-day pointer (Sanssouci/Potsdam).
+  - **Pages:** Pages/cains_jawbone_page_99.md
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
+
 - **Snippet:** “Here I shake off the bur o’ the world, man’s congregation shun.”
-  - **Likely source/author:** TBD
-  - **Why it matters:** Quoted in a collapse/death scene; likely an identity or voice anchor once sourced.
+  - **Likely source/author:** Francis Thompson, “An Anthem of Earth” (in *New Poems*, 1897), p. 93: https://books.google.co.uk/books?id=SZo-AAAAYAAJ&pg=PA93&dq=bur+o%27+the+world&source=gbs_api
+  - **Why it matters:** Confirms a Thompson-quoting voice in the collapse scene; dovetails with other Thompson lifts elsewhere in the text.
   - **Pages:** Pages/cains_jawbone_page_100.md
-  - **Confidence:** `MAYBE`
-  - **Research needed:** yes — identify source/context.
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
 
 - **Snippet:** “You know not how ill’s all here, about my heart; but I know.”
-  - **Likely source/author:** TBD
-  - **Why it matters:** Another quoted fragment in the final collapse scene; may link to other repetitions.
+  - **Likely source/author:** Shakespeare, *Hamlet* Act V (“…thou wouldst not think how ill all’s here about my heart…”): https://en.wikisource.org/wiki/Hamlet_(1917)_Yale/Text/Act_V
+  - **Why it matters:** Confirms a Hamlet quotation embedded in the collapse scene (CJ paraphrases/addresses it to a “woman”).
   - **Pages:** Pages/cains_jawbone_page_100.md
-  - **Confidence:** `MAYBE`
-  - **Research needed:** yes — identify source/context.
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no

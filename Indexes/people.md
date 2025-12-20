@@ -540,11 +540,11 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_96.md
   - **Notes:** Track for recurrence and whether “Somerset” is literal place vs a “somersault” pun.
 
-- `P89` — Names/aliases: Father Fred
-  - **Tells:** referenced as the owner of “most excellent… eyes” in a read-out passage; tied to “closing day in Potsdam”.
-  - **Pronouns/relationships:** “Father” title suggests clergy.
+- `P89` — Names/aliases: “Father Fred” (LIKELY Friedrich/Frederick II of Prussia, “Frederick the Great”)
+  - **Tells:** the read-out eye-description is Carlyle on “Friedrich” (quoted via James Thomson): https://en.wikisource.org/wiki/Biographical_and_critical_studies_by_James_Thomson_(%22B.V.%22)/%22The_Ring_and_the_Book%22; “closing day in Potsdam” points to Frederick II’s death at Sanssouci (Potsdam) on 17 Aug 1786 (EB1911): https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Frederick_II._of_Prussia.
+  - **Pronouns/relationships:** “Father” reads as honorific/pun rather than clergy title.
   - **Pages:** Pages/cains_jawbone_page_99.md
-  - **Notes:** Identity unclear; could be an allusive nickname rather than an in-world priest.
+  - **Notes:** Treat as a historical allusion, not an in-world priest, unless later pages name a literal “Father Fred”.
 
 - `P90` — Names/aliases: gloating woman (unnamed; “beastly woman”)
   - **Tells:** “mouth blood-tinted”; “lolls… gloating” over narrator; addressed as “wicked”/“beastly”.
@@ -599,3 +599,9 @@ Template:
   - **Pronouns/relationships:** none known (historical reference).
   - **Pages:** Pages/cains_jawbone_page_77.md
   - **Notes:** Historical/date anchor: assassination described as occurring “On Monday, 11 May” (i.e., 11 May 1812) in the DNB biography: https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Perceval,_Spencer.
+
+- `P99` — Names/aliases: King (surname; narrator, uncertain)
+  - **Tells:** schoolboy nickname “Kipling” appears as a “whiskified objectionable one” (LIKELY K(LIP)ING = King + “lip” where whiskers sit); narrator later sees “my own name… printed… in great letters” in a window-sign.
+  - **Pronouns/relationships:** interacts with Henry in social scenes.
+  - **Pages:** Pages/cains_jawbone_page_85.md, Pages/cains_jawbone_page_94.md
+  - **Notes:** Treat as a LIKELY identity anchor; confirm if an explicit forename/surname form appears elsewhere.
