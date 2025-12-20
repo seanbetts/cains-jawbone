@@ -3,9 +3,9 @@ All the artist in me flared up. After all, my given name was world-famous as the
 ## Notes
 
 - **Entities:**
-  - CERTAIN: narrator claims a “given name” shared with a famous painter’s inherited name (identity clue; painter/source TBD).
+  - CERTAIN: narrator’s “given name” alludes to painter **Augustus John** (surname “John”); EB1922 lists John’s works including “The Mumpers” (1912): https://en.wikisource.org/wiki/1922_Encyclop%C3%A6dia_Britannica/John,_Augustus_Edwyn
 - **Places:**
-  - MAYBE: described “quiet country town” (river + Tudor ruin + deer park + heather commons + immense woods; identity TBD).
+  - CERTAIN: described “quiet country town” = **Midhurst (Sussex)**; the description is a near-verbatim quotation from E. V. Lucas, *Highways and Byways in Sussex* (1904): https://www.gutenberg.org/ebooks/20696.txt.utf-8
   - CERTAIN: Runymede (allusion).
   - CERTAIN: Marseille (old Port; “place of my initiation” behind it).
 - **Quotes & allusions:**
@@ -22,5 +22,3 @@ All the artist in me flared up. After all, my given name was world-famous as the
 - **Disconfirming evidence:**
   - Only if later evidence shows an editorial/transcription artifact (unlikely).
 - **Research needed:**
-  - Identify the painter whose surname matches the narrator’s given name (and why “The Mumpers” matters).
-  - Identify the “quiet country town” described here.

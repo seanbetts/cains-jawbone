@@ -390,6 +390,12 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_73.md
   - **Notes:** Allusive reference (Magna Carta association); likely not literal travel.
 
+- **Midhurst (Sussex)**
+  - **Type:** town
+  - **Confidence:** `CERTAIN`
+  - **Pages:** Pages/cains_jawbone_page_73.md
+  - **Notes:** Page 73’s “quiet country town… gabled and venerable… with a river, a Tudor ruin, a park of deer, heather commons, immense woods” is a near-verbatim quotation of E. V. Lucas’s description of Midhurst in *Highways and Byways in Sussex* (1904): https://www.gutenberg.org/ebooks/20696.txt.utf-8
+
 - **Marseille — Old Port (Vieux-Port)**
   - **Type:** harbour/area
   - **Confidence:** `CERTAIN`

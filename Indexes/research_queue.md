@@ -926,15 +926,15 @@ Template:
   - **Type:** name/other
   - **Pages:** Pages/cains_jawbone_page_73.md
   - **Why it matters:** Could reveal the narrator’s given name (and thus a stable narrator segment).
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** Points to painter **Augustus John** (surname “John”, which the narrator frames as a “given name”); EB1922 lists John’s works including “The Mumpers” (1912). https://en.wikisource.org/wiki/1922_Encyclop%C3%A6dia_Britannica/John,_Augustus_Edwyn
 
 - **Item:** Identify the “quiet country town” described on Page 73 (river + Tudor ruin + deer park + heather commons + immense woods)
   - **Type:** place
   - **Pages:** Pages/cains_jawbone_page_73.md
   - **Why it matters:** Real geography could constrain ordering and cluster nearby scenes.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** The description is a near-verbatim quotation of **Midhurst (Sussex)** from E. V. Lucas, *Highways and Byways in Sussex* (1904): “Midhurst… a quiet country town, gabled and venerable, unmodernised and unambitious, with a river, a Tudor ruin, a park of deer, heather commons, immense woods…” https://www.gutenberg.org/ebooks/20696.txt.utf-8
 
 - **Item:** Identify the source of “O tristesse, tristesse était mon âme” (Page 73)
   - **Type:** quote
