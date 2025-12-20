@@ -1080,13 +1080,20 @@ Template:
   - **Type:** quote/other
   - **Pages:** Pages/cains_jawbone_page_84.md
   - **Why it matters:** Could be a strong textual anchor for clustering and might encode a known story/line.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** Refers to Admiral Horatio Nelson at the Battle of Copenhagen (1801): when the signal to “discontinue the action” was hoisted, Nelson put his telescope to his blind eye and said he could not see it (a famous retold “blind eye” jest). Dictionary of National Biography (1885–1900), “Nelson, Horatio”: https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Nelson,_Horatio.
 
 - **Item:** Identify whose arm went off “to-day” and whether it encodes a date (Page 84)
   - **Type:** date
   - **Pages:** Pages/cains_jawbone_page_84.md
   - **Why it matters:** Potential “to-day” calendar key similar to other historical markers.
+  - **Status:** `resolved`
+  - **Result:** Likely also Nelson: during the Santa Cruz (Tenerife) attack his right elbow was shattered by a bullet and “His arm had been amputated on board the Theseus,” on the night of 24 July 1797 (making “to-day” plausibly July 24). Dictionary of National Biography (1885–1900), “Nelson, Horatio”: https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Nelson,_Horatio.
+
+- **Item:** Identify what “Kismet” is pointing to in Page 84 (play/film/allusion vs generic “fate”)
+  - **Type:** term/other
+  - **Pages:** Pages/cains_jawbone_page_84.md
+  - **Why it matters:** Could be a precise cultural anchor (play/film) or simply the fate/fortune term.
   - **Status:** `open`
   - **Result:**
 
