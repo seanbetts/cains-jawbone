@@ -8,7 +8,7 @@ I was feeling better already, and was glad that a memory, true though dim, had l
   - MAYBE: narrator’s cousin (rash act; unnamed).
 - **Quotes & allusions:**
   - CERTAIN: “Video meliora proboque” (Ovid).
-  - LIKELY: Marat assassination allusion (but narrator says “Charlotte Brontë” instead of Corday — likely intentional misnaming).
+  - LIKELY: Marat assassination allusion (Corday/Marat), intentionally misnamed as “Charlotte Brontë”; corpus check finds no other Brontë/Marat mentions elsewhere in page bodies.
 - **Time markers:**
   - CERTAIN: “tragic fortnight at Southend”.
 - **Motifs/continuity hooks:**
@@ -23,4 +23,3 @@ I was feeling better already, and was glad that a memory, true though dim, had l
   - If “stabbed” is later shown to be purely culinary (cutlery) rather than an attack.
 - **Research needed:**
   - Identify Sonia Gordon and the “tragic fortnight” details (is this a known story/event?).
-  - Is the Brontë/Corday substitution a recurring tell for this narrator?

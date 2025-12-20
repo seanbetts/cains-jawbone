@@ -506,22 +506,22 @@ Template:
   - **Type:** name/place/other
   - **Pages:** Pages/cains_jawbone_page_38.md
   - **Why it matters:** Might be a specific anecdote/event used as an anchor; could recur with Sonia/cousin references.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `stalled`
+  - **Result:** No match found yet in Wikisource or Project Gutenberg for “Sonia Gordon”; Google Books searching is dominated by modern *Cain’s Jawbone* editions and has not yielded a clear pre-1934 external reference so far. Revisit if the name recurs or if a longer quoted span appears elsewhere.
 
 - **Item:** Confirm whether the “Charlotte Brontë with the undulled blade” substitution (Page 38) is a deliberate recurring tell (Corday/Marat)
   - **Type:** other
   - **Pages:** Pages/cains_jawbone_page_38.md
   - **Why it matters:** If consistent, helps identify a narrator/voice pattern.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** Corpus check: “Charlotte Brontë” / “Marat” do not recur elsewhere in page bodies (search across `Pages/`), suggesting this is a one-off intentional misnaming of the Corday/Marat assassination scene rather than a repeated narrator tell.
 
 - **Item:** Confirm the intended “George Combe” / “Free Knowledgist” reference on Page 39 and what “two all for that year” refers to
   - **Type:** name/other
   - **Pages:** Pages/cains_jawbone_page_39.md
   - **Why it matters:** Could link to phrenology/education motifs or a dated sporting reference.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `stalled`
+  - **Result:** “George Combe” is LIKELY the Scottish phrenologist (DNB): https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Combe,_George. “Free Knowledgist” is attested as “free-knowledgist” in Henry Clay Work, *Upshot Family: A Serio-comic Poem* (p. 16): https://books.google.co.uk/books?id=IK1cAAAAcAAJ&pg=PA16&dq=free-knowledgist (possible source for the epithet). “two all for that year” remains unresolved.
 
 - **Item:** Identify the Flecker-related line (“some to Flecker turn to pray…”) and the “winds not infectious” quote on Page 40
   - **Type:** quote
@@ -541,8 +541,8 @@ Template:
   - **Type:** quote/other
   - **Pages:** Pages/cains_jawbone_page_40.md
   - **Why it matters:** Confirms the Long Ditton place clue and might connect to other Eric Parker/Irish malapropism pages.
-  - **Status:** `open`
-  - **Result:** Eric Parker, *Highways and Byways in Surrey* (1908), Ch. XXIII “The Dittons and Walton”: “Thames Ditton’s sister, Long Ditton…” https://www.gutenberg.org/ebooks/28057.txt.utf-8. No clear match yet for the “Irishman’s malapropism” allusion in/near this Ditton passage; keep open.
+  - **Status:** `resolved`
+  - **Result:** Eric Parker, *Highways and Byways in Surrey* (1908), Ch. XXIII “The Dittons and Walton”: “Thames Ditton’s sister, Long Ditton…” https://www.gutenberg.org/ebooks/28057.txt.utf-8. The likely “Irishman’s malapropism” elsewhere in the same volume is the quoted phrase “Irishman’s lisping scream” (Derby-day excerpt in the Epsom chapter), which matches the “Irishman” + odd-wording pointer: https://www.gutenberg.org/ebooks/28057.txt.utf-8.
 
 - **Item:** Identify Henry’s “M’Cullough” quotation source (Page 41)
   - **Type:** quote

@@ -5,8 +5,10 @@ She said it didn’t matter what they had done, because she was still an M.D., a
 - **Entities:**
   - MAYBE: unnamed “she” (claims she is still an M.D. and has “another one”).
   - MAYBE: unnamed “he” (“That was he.”; says it’s his last day).
-  - CERTAIN: George (surname unclear; “because he said so”).
-  - CERTAIN: Combe (likely George Combe reference; needs confirmation).
+  - CERTAIN: George (“because he said so”).
+  - CERTAIN: Combe.
+  - LIKELY: George Combe (phrenologist) as the intended referent: https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Combe,_George.
+  - LIKELY: “Free Knowledgist” echoes “free-knowledgist” in Henry Clay Work, *Upshot Family: A Serio-comic Poem* (p. 16): https://books.google.co.uk/books?id=IK1cAAAAcAAJ&pg=PA16&dq=free-knowledgist.
 - **Motifs/continuity hooks:**
   - Credentials: “still an M.D.” + “got another one”.
   - Clothes: undercoats “raw liver colour”; narrator’s single inherited coat.
@@ -19,5 +21,4 @@ She said it didn’t matter what they had done, because she was still an M.D., a
 - **Disconfirming evidence:**
   - If later reveals “M.D.” isn’t an academic degree but another acronym used repeatedly by this narrator.
 - **Research needed:**
-  - Confirm whether “George Combe” (phrenology) is intended and what “Free Knowledgist” means.
   - What does “two all for that year” refer to (sport/contest/scoreboard)?

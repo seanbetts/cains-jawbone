@@ -268,7 +268,7 @@ Template:
   - **Tells:** “there was a George too”; linked to “Combe” and “Free Knowledgist”.
   - **Pronouns/relationships:** called “he” by speaker.
   - **Pages:** Pages/cains_jawbone_page_39.md
-  - **Notes:** MAYBE George Combe reference; do not lock in without confirmation.
+  - **Notes:** LIKELY George Combe (phrenologist) per DNB: https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Combe,_George; “free-knowledgist” is attested in Henry Clay Work, *Upshot Family* (p. 16): https://books.google.co.uk/books?id=IK1cAAAAcAAJ&pg=PA16&dq=free-knowledgist. “two all for that year” remains unresolved.
 
 - `P44` — Names/aliases: Charles Goodfellow
   - **Tells:** “old” acquaintance; hints narrator was “going gay” after marriage to Henry.

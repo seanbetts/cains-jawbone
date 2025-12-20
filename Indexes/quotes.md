@@ -810,3 +810,24 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_100.md
   - **Confidence:** `CERTAIN`
   - **Research needed:** no
+
+- **Snippet:** “Thames Ditton’s sister, Long Ditton”
+  - **Likely source/author:** Eric Parker, *Highways and Byways in Surrey* (1908), Ch. XXIII “The Dittons and Walton”: https://www.gutenberg.org/ebooks/28057.txt.utf-8
+  - **Why it matters:** Confirms the Long Ditton place-wordplay/route anchor on Page 40.
+  - **Pages:** Pages/cains_jawbone_page_40.md
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
+
+- **Snippet:** “Irishman’s lisping scream”
+  - **Likely source/author:** Quoted in Eric Parker, *Highways and Byways in Surrey* (1908), in a Derby-day excerpt in the Epsom chapter (Parker quotes “Sylvanus”): https://www.gutenberg.org/ebooks/28057.txt.utf-8
+  - **Why it matters:** Likely the “Irishman’s malapropism” alluded to on Page 40 (odd phrase).
+  - **Pages:** Pages/cains_jawbone_page_40.md
+  - **Confidence:** `LIKELY`
+  - **Research needed:** no
+
+- **Snippet:** “free-knowledgist”
+  - **Likely source/author:** Henry Clay Work, *Upshot Family: A Serio-comic Poem* (p. 16): https://books.google.co.uk/books?id=IK1cAAAAcAAJ&pg=PA16&dq=free-knowledgist
+  - **Why it matters:** Possible source for Page 39’s “Free Knowledgist” epithet alongside the Combe/phrenology reference.
+  - **Pages:** Pages/cains_jawbone_page_39.md
+  - **Confidence:** `LIKELY`
+  - **Research needed:** no

@@ -238,13 +238,13 @@ Template:
   - **Type:** village
   - **Confidence:** `CERTAIN`
   - **Pages:** Pages/cains_jawbone_page_40.md
-  - **Notes:** Used as a reference point (“Thames Ditton’s sister”).
+  - **Notes:** Used as a reference point (“Thames Ditton’s sister”); Eric Parker, *Highways and Byways in Surrey* (1908) uses “Thames Ditton’s sister, Long Ditton…” https://www.gutenberg.org/ebooks/28057.txt.utf-8.
 
 - **Long Ditton**
   - **Type:** village
   - **Confidence:** `LIKELY`
   - **Pages:** Pages/cains_jawbone_page_40.md
-  - **Notes:** Implied by “Thames Ditton’s sister… Long she was.”
+  - **Notes:** Implied by “Thames Ditton’s sister… Long she was.” (Parker explicitly: “Thames Ditton’s sister, Long Ditton…”): https://www.gutenberg.org/ebooks/28057.txt.utf-8.
 
 - **Selfridges**
   - **Type:** store/landmark

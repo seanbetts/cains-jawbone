@@ -11,6 +11,8 @@ What chemistry! That the winds are really not infectious. Now that I was approac
 - **Quotes & allusions:**
   - CERTAIN: James Elroy Flecker, “Yasmin” (a ghazel): https://books.google.com/books?id=-zVv2KCl7h0C&pg=PA333&dq=Some+to (source line: “some to Meccah turn to pray, and I towards thy bed, Yasmin”; Page 40 substitutes “Flecker” for “Meccah” and drops “Yasmin”.)
   - CERTAIN: Walt Whitman, “This Compost” (*Leaves of Grass*, “Autumn Rivulets”): https://en.wikisource.org/wiki/Leaves_of_Grass_(1882)/Autumn_Rivulets/This_Compost (includes “What chemistry! That the winds are really not infectious” + the bean/potato growth lines quoted here).
+  - CERTAIN: Eric Parker, *Highways and Byways in Surrey* (1908), Ch. XXIII “The Dittons and Walton”: “Thames Ditton’s sister, Long Ditton…” https://www.gutenberg.org/ebooks/28057.txt.utf-8.
+  - LIKELY: Parker’s quoted phrase “Irishman’s lisping scream” (Derby-day excerpt in the Epsom chapter) is the “Irishman’s malapropism” alluded to here: https://www.gutenberg.org/ebooks/28057.txt.utf-8.
 - **Motifs/continuity hooks:**
   - Pill-taking (“I took a pill… it was worth it”).
   - Gardening growth imagery: bean bursting; potato leaves.
@@ -25,4 +27,3 @@ What chemistry! That the winds are really not infectious. Now that I was approac
   - If “Thames Ditton’s sister” is not meant literally (Long Ditton) or doesn’t recur.
 - **Research needed:**
   - Identify the “Jack’s visitor / Thornhill / opera” reference.
-  - Identify the Irishman’s malapropism alluded to alongside Eric Parker’s Ditton phrasing.
