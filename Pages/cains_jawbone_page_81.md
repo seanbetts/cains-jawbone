@@ -13,10 +13,10 @@ The victim, for that I must now reluctantly call him, blocked all the sweet air 
   - MAYBE: staging/neatening (“pulled up his socks for him” before the push).
 - **Quotes & allusions:**
   - CERTAIN: “a babbled o’ green fields” (Shakespeare, *Henry V*; Falstaff death reported by Mistress Quickly).
-  - MAYBE: “Band, Speckled” (Conan Doyle, *The Adventure of the Speckled Band*).
+  - CERTAIN: “Band, Speckled” points to Doyle’s “The Adventure of the Speckled Band” (cf. “It was the band! The speckled band!”): https://en.wikisource.org/wiki/The_Strand_Magazine/Volume_3/Issue_14/The_Adventure_of_the_Speckled_Band.
   - CERTAIN: “Death’s to fear from flame or steel… but from water—feel” — Robert Browning, “In a Gondola” (*Bells and Pomegranates*, First Series): https://en.wikisource.org/wiki/Bells_and_Pomegranates,_First_Series/In_a_Gondola
 - **Motifs/continuity hooks:**
-  - Misheard last words (“Quails… Arty… Fakes… Band, Speckled”) as a possible cipher/anagram/homophone clue.
+  - Misheard last words (“… Band, Speckled”) likely echo the “It was the band! The speckled band!” dying-words line in Doyle.
   - Window/air/light imagery (“window was no more dark”).
 - **Voice/tells:**
   - Black humour + self-exculpation (“thank goodness, I was no detective”).
@@ -25,4 +25,4 @@ The victim, for that I must now reluctantly call him, blocked all the sweet air 
 - **Disconfirming evidence:**
   - If the victim survives (later pages) or the scene is revealed as metaphorical/storytelling.
 - **Research needed:**
-  - Decode/identify “Quails and Arty and Fakes… Band, Speckled.”
+  - (none)

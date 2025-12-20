@@ -594,6 +594,20 @@ Template:
   - **Confidence:** `CERTAIN`
   - **Research needed:** no
 
+- **Snippet:** “It was the band! The speckled band!”
+  - **Likely source/author:** Arthur Conan Doyle, “The Adventure of the Speckled Band” (*The Strand Magazine*, Vol. 3, Issue 14): https://en.wikisource.org/wiki/The_Strand_Magazine/Volume_3/Issue_14/The_Adventure_of_the_Speckled_Band.
+  - **Why it matters:** Identifies Page 81’s “Band, Speckled” as a direct allusion (and reinforces Page 6’s earlier “Speckled Band” reference).
+  - **Pages:** Pages/cains_jawbone_page_81.md
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
+
+- **Snippet:** “one o’ the brand o’ Cain… a human mistake”
+  - **Likely source/author:** John Masefield (Poet Laureate), line “one o’ the brand o’ Cain for mate ’n’ a human mistake for cook” (*The Poems and Plays of John Masefield*, 1918), p. 13: https://books.google.co.uk/books?id=hyiuUvTx8-AC&pg=PA13&dq=brand+o%27+Cain&source=gbs_api.
+  - **Why it matters:** Strong voice-reading anchor on Page 82 (quotes a contemporary Poet Laureate via sea-ballad diction) and clarifies the odd phrasing around Henry.
+  - **Pages:** Pages/cains_jawbone_page_82.md
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
+
 - **Snippet:** “Oh, to be in England”
   - **Likely source/author:** Robert Browning (“Home-Thoughts, from Abroad”)
   - **Why it matters:** Strong Browning anchor; may cluster a flower-seller/rose scene and help identify narrator reading set.

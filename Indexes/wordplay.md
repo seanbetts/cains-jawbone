@@ -71,6 +71,28 @@ Template:
     - “Peter Barleys” is later confirmed as a literal food/drink brand name in a period source
     - the surrounding list items are all literal brands with no punning intent
 
+- `Pages/cains_jawbone_page_82.md`
+
+  LIKELY WORDPLAY
+  - mechanism(s): anagram + orthography
+  - span: "great asses of mice"
+  - best reading: "great masses of ice"
+  - confidence: high
+  - why it matters: motif -> reinforces the “cold weight/pressure” image (and may hint that other odd word-boundaries hide simple anagrams)
+  - falsifiers:
+    - “great asses of mice” is sourced as a direct quotation elsewhere (no pun intended)
+    - “masses of ice” appears elsewhere explicitly, making this reading redundant as wordplay
+
+  LIKELY WORDPLAY
+  - mechanism(s): anagram
+  - span: "to ladder danger"
+  - best reading: "garden ladder" (via anagram of “ladder danger”; “to” may be grammatical filler)
+  - confidence: med
+  - why it matters: motif -> keeps the gardening/horticulture register active in this narrator’s table-scene voice
+  - falsifiers:
+    - later text uses “ladder” non-punningly in this narrator’s voice (e.g., literal superstition about ladders)
+    - a period source is found for “to ladder danger” as a fixed phrase/quotation (not an anagram)
+
 - `Pages/cains_jawbone_page_91.md`
 
   LIKELY WORDPLAY

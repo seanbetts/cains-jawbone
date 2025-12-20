@@ -460,7 +460,7 @@ Template:
   - **Tells:** thrown outward from a window with intent to drown; last words misheard as “Fakes… Quails… Arty… Band, Speckled.”
   - **Pronouns/relationships:** none known.
   - **Pages:** Pages/cains_jawbone_page_81.md
-  - **Notes:** MAYBE the same as another victim in the murder-justification pages; do not merge without stronger anchors.
+  - **Notes:** “Band, Speckled” is a direct pointer to Arthur Conan Doyle’s “The Adventure of the Speckled Band” (cf. “It was the band! The speckled band!”): https://en.wikisource.org/wiki/The_Strand_Magazine/Volume_3/Issue_14/The_Adventure_of_the_Speckled_Band. MAYBE the same as another victim in the murder-justification pages; do not merge without stronger anchors.
 
 - `P76` — Names/aliases: Alistair
   - **Tells:** set on his feet by “auroral imbibitious”; takes the Dagenham bus to his mother’s converted oast-house.

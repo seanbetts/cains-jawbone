@@ -1045,22 +1045,22 @@ Template:
   - **Type:** other
   - **Pages:** Pages/cains_jawbone_page_81.md
   - **Why it matters:** Presented as misheard last words; may be an anagram/homophone pointer (possibly to Doyle’s “Speckled Band”).
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** The “Band, Speckled” fragment points directly to Arthur Conan Doyle’s “The Adventure of the Speckled Band”; the story’s memorable dying-words line is “It was the band! The speckled band!” (as printed in *The Strand Magazine*, Vol. 3, Issue 14): https://en.wikisource.org/wiki/The_Strand_Magazine/Volume_3/Issue_14/The_Adventure_of_the_Speckled_Band.
 
 - **Item:** Identify “great asses of mice” and “to ladder danger” phrasing (Page 82)
   - **Type:** quote/term
   - **Pages:** Pages/cains_jawbone_page_82.md
   - **Why it matters:** Might be a precise-source anchor or a clue phrase tied to the table/Lapsang/Henry segment.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** Likely internal wordplay/anagram: “great asses of mice” → “great masses of ice” (letter-shift/splitting), and “(to) ladder danger” → “(to) garden ladder” / “garden ladder” (anagram).
 
 - **Item:** Identify the “Poet Laureate” line about “brand o’ Cain” (Page 82)
   - **Type:** quote
   - **Pages:** Pages/cains_jawbone_page_82.md
   - **Why it matters:** Could confirm narrator reading set and disambiguate which Henry segment this is.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** John Masefield (Poet Laureate from 1930) uses the phrase as part of a shipboard line: “one o’ the brand o’ Cain for mate ’n’ a human mistake for cook” (in *The Poems and Plays of John Masefield* (1918), p. 13): https://books.google.co.uk/books?id=hyiuUvTx8-AC&pg=PA13&dq=brand+o%27+Cain&source=gbs_api.
 
 - **Item:** Identify the “slow sweet name” (Spanish) in Page 83
   - **Type:** other

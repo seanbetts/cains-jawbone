@@ -5,12 +5,15 @@ I forgot why I was sitting and staring at the table. I felt battered. What could
 - **Entities:**
   - CERTAIN: Bartholomew (dog; paws narrator’s ankles; “third dog… in London”).
   - CERTAIN: Henry (named; narrator comments on him directly).
-  - MAYBE: Poet Laureate quoted re “brand o’ Cain” (source TBD).
+  - CERTAIN: Poet Laureate quote is John Masefield (“one o’ the brand o’ Cain… a human mistake…”): https://books.google.co.uk/books?id=hyiuUvTx8-AC&pg=PA13&dq=brand+o%27+Cain&source=gbs_api.
 - **Places:**
   - CERTAIN: London (explicit).
 - **Quotes & allusions:**
   - CERTAIN: “carnal, bloody and unnatural acts” (Shakespeare, *Hamlet*; Horatio’s summary).
-  - MAYBE: “brand o’ Cain” attribution to “the Poet Laureate” (identify which and exact line).
+  - CERTAIN: “brand o’ Cain” / “human mistake” echo John Masefield (Poet Laureate) line “one o’ the brand o’ Cain for mate ’n’ a human mistake for cook”: https://books.google.co.uk/books?id=hyiuUvTx8-AC&pg=PA13&dq=brand+o%27+Cain&source=gbs_api.
+- **Wordplay:**
+  - LIKELY: “great asses of mice” → “great masses of ice” (anagram/splitting: “asses of mice” → “masses of ice”).
+  - MAYBE: “to ladder danger” → “garden ladder” (anagram; exact target unclear because of the leading “to”).
 - **Motifs/continuity hooks:**
   - Tea: steaming Lapsang; biscuits.
   - Dogs: “first dog… at the very beginning” vs “third dog… in London” (possible clue about beginnings).
@@ -22,5 +25,4 @@ I forgot why I was sitting and staring at the table. I felt battered. What could
 - **Disconfirming evidence:**
   - If Henry in Page 85 is clearly a different figure (e.g., different setting/role).
 - **Research needed:**
-  - Identify “great asses of mice” and “to ladder danger” phrasing.
-  - Identify the Poet Laureate “brand o’ Cain” line and how it’s used here.
+  - (none)
