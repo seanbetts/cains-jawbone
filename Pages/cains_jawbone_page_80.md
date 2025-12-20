@@ -11,7 +11,7 @@ Hospitality, when I came to consider it, was indeed a funny thing. I wanted to d
   - LIKELY: poisoning setup implied (aconitum exhibited alongside sherry; “I am not incautious”).
 - **Means/method:**
   - CERTAIN: aconitum (aconite/wolfsbane; deadly).
-  - CERTAIN: Fleming’s tincture (aconite preparation; mention of it being mistaken for something).
+  - CERTAIN: Fleming’s tincture (strong tincture of aconite; has been mistaken for “flavored spirit” — Taylor, *A Manual of Medical Jurisprudence* (1897), p. 239): https://books.google.co.uk/books?id=cugRAAAAYAAJ&pg=PA239&dq=Fleming%27s+tincture+of+aconite.
   - CERTAIN: sherry as the immediate drink context.
 - **Opportunity:**
   - CERTAIN: in narrator’s home; visitor arrived “before lunch”.
@@ -28,5 +28,4 @@ Hospitality, when I came to consider it, was indeed a funny thing. I wanted to d
 - **Disconfirming evidence:**
   - If aconitum is only being shown as a specimen with no ingestion/administration implied, or if Fleming’s tincture mention is purely didactic.
 - **Research needed:**
-  - Confirm whether “Fleming’s tincture” is tincture of aconite and what it could be mistaken for in this setting.
   - Identify the “He tasted love…” quotation source.

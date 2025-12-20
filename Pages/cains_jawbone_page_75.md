@@ -12,7 +12,7 @@ I saw to it that I should be for a moment alone among the marigolds. Thinking ki
   - Flowers: marigolds / calendula; plus “two other flowers” (implied red/white from adjacent pages).
   - Documents: “orange tinted documents” (possibly linked to the secret purchases mentioned on Pages/cains_jawbone_page_74.md).
   - Eyes/vision: cannot read documents; “searchlights of my eyes” fail.
-  - Tobacco/plant remedies: “Indian tobacco” (likely lobelia) doing “excellent work” after ~24 hours; blight being destroyed.
+  - Tobacco/plant remedies: “Indian tobacco” = “Indian-tobacco” (*Lobelia inflata*) (Grieve, *A Modern Herbal* (1931), “Indian-tobacco (Lobelia inflata LINN.)”): https://www.botanical.com/botanical/mgmh/l/lobeli38.html. Grieve notes tobacco-infusion is used as a horticultural insecticide (“An infusion of Tobacco is generally used in horticulture as an insecticide.”): https://www.botanical.com/botanical/mgmh/t/tobacc21.html, matching the surface “blight would be destroyed” reading.
 - **Voice/tells:**
   - Botanically literate; mixes classical/philological flexing with practical horticulture and courtship strategy.
 - **Ordering hypotheses:**
@@ -20,5 +20,4 @@ I saw to it that I should be for a moment alone among the marigolds. Thinking ki
 - **Disconfirming evidence:**
   - If the “documents” are unrelated to Page 74’s “them”, and the blight is purely metaphorical.
 - **Research needed:**
-  - Confirm what “Indian tobacco” refers to here (lobelia vs another product) and whether it’s used as a pesticide/cure.
   - Clarify whether “May” is a person or the hawthorn/May-blossom plant.

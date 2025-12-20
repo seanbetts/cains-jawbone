@@ -7,7 +7,7 @@ What should such a man need with such a companion, I asked myself. And then I th
   - CERTAIN: Darius Brockley (Jim’s uncle).
   - CERTAIN: “the Vicar’s niece” (unnamed).
   - CERTAIN: “the dead man” (unnamed; told narrator a story shortly before being “taken away”).
-  - MAYBE: Major-General statue at Trafalgar Square (likely Havelock/Napier; confirm).
+  - LIKELY: Major-General statue at Trafalgar Square is Sir Henry Havelock (Kelly’s *Post Office Guide to London in 1871* (1871), p. 334: “HAVELOCK.— A bronze statue, in Trafalgar-square, by Behnes.”): https://books.google.co.uk/books?id=0VO7Grn7tAkC&pg=PA334&dq=Trafalgar+Square+Havelock.
   - CERTAIN: sleek cat (on chair beside narrator).
 - **Time markers:**
   - CERTAIN: Guy Fawkes night (Nov 5) at Trafalgar Square (anecdote anchor).
@@ -25,6 +25,6 @@ What should such a man need with such a companion, I asked myself. And then I th
 - **Disconfirming evidence:**
   - If “dead man” is metaphorical or purely a quoted/storytold figure rather than an in-world death.
 - **Research needed:**
-  - Identify the “Major-General in Trafalgar Square” story and which statue it points to.
+  - Identify the specific “Major-General in Trafalgar Square on Guy Fawkes night” anecdote, if it exists in a source text (statue likely Sir Henry Havelock; see Kelly’s *Post Office Guide to London in 1871* (1871), p. 334): https://books.google.co.uk/books?id=0VO7Grn7tAkC&pg=PA334&dq=Trafalgar+Square+Havelock.
   - Identify Darius Brockley / Vicar’s niece context (in-world vs allusion).
   - Clarify what “dissociate the last of the gold from the silver” refers to (coin sorting? figurative?).

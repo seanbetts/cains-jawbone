@@ -364,7 +364,7 @@ Template:
   - **Type:** landmark/square
   - **Confidence:** `CERTAIN`
   - **Pages:** Pages/cains_jawbone_page_62.md
-  - **Notes:** Guy Fawkes night anecdote; major-general statue referenced.
+  - **Notes:** Guy Fawkes night anecdote; “Major-General” statue is LIKELY Sir Henry Havelock (Kelly’s *Post Office Guide to London in 1871* (1871), p. 334: “HAVELOCK.— A bronze statue, in Trafalgar-square…”): https://books.google.co.uk/books?id=0VO7Grn7tAkC&pg=PA334&dq=Trafalgar+Square+Havelock.
 
 - **Medehamstede (uncertain)**
   - **Type:** place/monastery (uncertain)
@@ -501,8 +501,8 @@ Template:
 - **Café Royal**
   - **Type:** venue (restaurant/café)
   - **Confidence:** `CERTAIN`
-  - **Pages:** Pages/cains_jawbone_page_95.md
-  - **Notes:** Explicit destination for the narrator’s “hops”; London venue anchor.
+  - **Pages:** Pages/cains_jawbone_page_70.md, Pages/cains_jawbone_page_95.md
+  - **Notes:** Explicit destination for the narrator’s “hops” (Page 95); Page 70 likely points here via Orpen’s “THE CAFÉ ROYAL (1911-12)” (R. P., *Sir William Orpen* (1923), Plate 16): https://books.google.co.uk/books?id=hCChAAAAMAAJ&pg=PA16&dq=CAFE+ROYAL.
 
 - **Scotland Yard**
   - **Type:** police institution/place

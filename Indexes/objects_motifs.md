@@ -99,7 +99,7 @@ Template:
 - **Aconite (aconitum / Fleming’s tincture)**
   - **Instances / variants:** aconitum exhibited; Fleming’s tincture mentioned; “Blue Rocket” (blue rocket/wolfsbane/monkshood = *Aconitum napellus*; EB1911 “Poison”, Page:EB1911_-_Volume_21.djvu/928)
   - **Pages:** Pages/cains_jawbone_page_80.md, Pages/cains_jawbone_page_91.md
-  - **Notes:** High-suspicion poison method marker; Page 91 “Blue Rocket” LIKELY invokes the plant/poison common-name.
+  - **Notes:** High-suspicion poison method marker; Fleming’s tincture is a tincture of aconite and has been mistaken for “flavored spirit” (Taylor, *A Manual of Medical Jurisprudence* (1897), p. 239): https://books.google.co.uk/books?id=cugRAAAAYAAJ&pg=PA239&dq=Fleming%27s+tincture+of+aconite. Page 91 “Blue Rocket” LIKELY invokes the plant/poison common-name.
 
 - **Cigarettes (Egyptian)**
   - **Instances / variants:** bet stake: “a hundred Egyptian cigarettes—Gourdoulis”; box of Gourdoulis labelled “I always pay my debts”
@@ -349,7 +349,7 @@ Template:
 - **Poison plants (lobelia; lords and ladies)**
   - **Instances / variants:** lobelia; “Indian tobacco” (*Lobelia inflata*); “pretty lords and ladies” (*Arum maculatum*; cuckoo-pint / wake robin)
   - **Pages:** Pages/cains_jawbone_page_29.md, Pages/cains_jawbone_page_75.md
-  - **Notes:** Lobelia (“Indian tobacco”) is *Lobelia inflata*; EB1911 describes lobelia as “a typical respiratory poison” (https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Lobelia). “Lords and ladies” is *Arum maculatum* (cuckoo-pint / wake robin); EB1911 notes aroids contain an “acrid poisonous juice” (https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Aroideae). Reinforces poison-garden experimentation motif; Page 75 frames “Indian tobacco” as a blight-killing remedy (watch for double-use as poison).
+  - **Notes:** Lobelia (“Indian tobacco”) is *Lobelia inflata*; EB1911 describes lobelia as “a typical respiratory poison” (https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Lobelia). “Lords and ladies” is *Arum maculatum* (cuckoo-pint / wake robin); EB1911 notes aroids contain an “acrid poisonous juice” (https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Aroideae). Reinforces poison-garden experimentation motif; Page 75 frames “Indian tobacco” as a blight-killing remedy (Grieve, *A Modern Herbal* (1931), “Tobacco”: “An infusion of Tobacco is generally used in horticulture as an insecticide”): https://www.botanical.com/botanical/mgmh/t/tobacc21.html.
 
 - **Marigolds / calendula**
   - **Instances / variants:** “marigolds”; “Calendula… calends… almost everie month”

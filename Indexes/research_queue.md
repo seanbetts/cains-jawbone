@@ -779,8 +779,8 @@ Template:
   - **Type:** other/place
   - **Pages:** Pages/cains_jawbone_page_62.md
   - **Why it matters:** Could anchor a specific year/incident and help cluster the narrator thread.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `stalled`
+  - **Result:** The “Major-General” statue is LIKELY Sir Henry **Havelock** in Trafalgar Square: “HAVELOCK.— A bronze statue, in Trafalgar-square, by Behnes.” (*Kelly’s Post Office Guide to London in 1871* (1871), p. 334): https://books.google.co.uk/books?id=0VO7Grn7tAkC&pg=PA334&dq=Trafalgar+Square+Havelock. No specific printed “Guy Fawkes night” story located yet beyond the in-text mention; revisit if the anecdote is quoted more fully elsewhere.
 
 - **Item:** Identify whether Darius Brockley / the vicar’s niece are in-world characters or a literary allusion
   - **Type:** name/other
@@ -877,8 +877,8 @@ Template:
   - **Type:** place/other
   - **Pages:** Pages/cains_jawbone_page_70.md
   - **Why it matters:** Could pin a London street/route (likely Regent Street) and constrain ordering by geography.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** Orpen’s painting is “**The Café Royal**” (dated 1911–12), aligning with the “between Eros and the Queen’s Hall” London corridor clue: R. P., *Sir William Orpen* (1923), Plate 16 (“THE CAFÉ ROYAL. (1911-12)”): https://books.google.co.uk/books?id=hCChAAAAMAAJ&pg=PA16&dq=CAFE+ROYAL.
 
 - **Item:** Interpret the “warnings of the Ming” / “modest Munich” / “Efate” bracket wordplay (Page 70)
   - **Type:** other
@@ -968,8 +968,8 @@ Template:
   - **Type:** term/other
   - **Pages:** Pages/cains_jawbone_page_75.md
   - **Why it matters:** Could tie into the plant/poison method thread and help interpret “blight on the May”.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** “Indian-tobacco” is **Lobelia inflata** (Grieve, *A Modern Herbal* (1931), “Indian-tobacco (Lobelia inflata LINN.)”): https://www.botanical.com/botanical/mgmh/l/lobeli38.html. Grieve also notes: “An infusion of Tobacco is generally used in horticulture as an insecticide” (Grieve, *A Modern Herbal*, “Tobacco”): https://www.botanical.com/botanical/mgmh/t/tobacc21.html, which fits the Page 75 “four-and-twenty hours… blight would be destroyed” surface reading (while still leaving room for poison-garden double-meaning).
 
 - **Item:** Identify “Lord Pentarry” (Page 76)
   - **Type:** name/other
@@ -1024,8 +1024,8 @@ Template:
   - **Type:** term/other
   - **Pages:** Pages/cains_jawbone_page_80.md
   - **Why it matters:** Clarifies whether aconite is being administered (means/method) versus merely shown.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** Fleming’s tincture is a strong **tincture of aconite**; Taylor records a case where it was taken “under the supposition that it was flavored spirit,” matching Page 80’s point about mistaking it for a drink. Alfred Swaine Taylor, *A Manual of Medical Jurisprudence* (1897), p. 239: https://books.google.co.uk/books?id=cugRAAAAYAAJ&pg=PA239&dq=Fleming%27s+tincture+of+aconite.
 
 - **Item:** Identify the source of “He tasted love with half his mind… nor ever drank the inviolate spring where nighest heaven” (Page 80)
   - **Type:** quote

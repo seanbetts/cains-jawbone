@@ -8,6 +8,7 @@ It flashed through my mind that the place between Eros and the Queen’s Hall ha
   - MAYBE: “he” with arthritic knee who talked of cabbage butterflies as “fragments of a poem God had written” (could be the “old man” from Pages/cains_jawbone_page_68.md / Pages/cains_jawbone_page_69.md; confirm).
 - **Places:**
   - CERTAIN: “Eros” (Piccadilly Circus statue) + Queen’s Hall (London) corridor/route reference.
+  - CERTAIN: Orpen painting is “The Café Royal” (1911–12) (R. P., *Sir William Orpen* (1923), Plate 16): https://books.google.co.uk/books?id=hCChAAAAMAAJ&pg=PA16&dq=CAFE+ROYAL.
 - **Time markers:**
   - CERTAIN: “in the morning” (letter/package discovered then).
   - CERTAIN: Orpen “painted it in 1912” (historical anchor for the London place-change observation).
@@ -22,5 +23,4 @@ It flashed through my mind that the place between Eros and the Queen’s Hall ha
 - **Disconfirming evidence:**
   - If “he” is clearly a different person from the “old man” and the letter is unrelated to the death scene.
 - **Research needed:**
-  - Identify which Orpen painting (1912) corresponds to “the place between Eros and the Queen’s Hall”.
   - Interpret “warnings of the Ming”, “modest Munich”, and “Efate” bracket wordplay (if enciphering).
