@@ -11,7 +11,7 @@ photographs of young and laughing athletes, lads who had profited and gone on, a
   - CERTAIN: Leningrad (source of the secret purchases).
   - CERTAIN: Manchester (referenced via “speech on sane mediocrity”).
 - **Quotes & allusions:**
-  - MAYBE: “one by one the touch of life has turned to truth” (quoted as from “the Head”; source TBD).
+  - CERTAIN: “one by one the touch of Life has turned to truth” — Sir Henry Newbolt, “Clifton Chapel” (in *Poems: New and Old*): https://en.wikisource.org/wiki/Poems:_New_and_Old_(Newbolt)/Clifton_Chapel
   - CERTAIN: OGPU (Soviet secret police; period anchor).
   - CERTAIN: Goya reproduction (identity unclear; narrator can’t visually resolve it).
 - **Motifs/continuity hooks:**
@@ -26,6 +26,5 @@ photographs of young and laughing athletes, lads who had profited and gone on, a
 - **Disconfirming evidence:**
   - If “Head” here is a different figure than the earlier headmaster, or if the “them” are not documents/objects that recur.
 - **Research needed:**
-  - Identify the source of “one by one the touch of life has turned to truth”.
   - Identify which Goya works are being confused (“hanging man” vs “countess”).
   - Clarify what “them” refers to (documents? art? photographs?) and whether it ties to later pages.

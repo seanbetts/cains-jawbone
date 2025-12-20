@@ -947,8 +947,8 @@ Template:
   - **Type:** quote
   - **Pages:** Pages/cains_jawbone_page_74.md
   - **Why it matters:** Could be a motto/poem line that identifies a school/institution (or the “Head”).
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** Sir Henry Newbolt, “Clifton Chapel” (in *Poems: New and Old*): “And heard the words that one by one / The touch of Life has turned to truth.” https://en.wikisource.org/wiki/Poems:_New_and_Old_(Newbolt)/Clifton_Chapel
 
 - **Item:** Identify which Goya work is being referenced/confused (Page 74: “hanging man? a countess?”)
   - **Type:** other
@@ -1031,15 +1031,15 @@ Template:
   - **Type:** quote
   - **Pages:** Pages/cains_jawbone_page_80.md
   - **Why it matters:** Strong quote anchor for narrator voice; may connect to other poem fragments.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** Alfred Tennyson, *In Memoriam* (Canto 88): “He tasted love with half his mind, / Nor ever drank the inviolate spring…” https://en.wikisource.org/wiki/In_Memoriam_(Tennyson)/Canto_88
 
 - **Item:** Identify the source of “Death’s to fear from flame or steel… but from water—feel” (Page 81)
   - **Type:** quote
   - **Pages:** Pages/cains_jawbone_page_81.md
   - **Why it matters:** Potential strong anchor embedded in an in-world drowning murder; might encode a clue.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** Robert Browning, “In a Gondola” (in *Bells and Pomegranates*, First Series): “Death's to fear from flame or steel / Or poison doubtless, but from water—feel!” https://en.wikisource.org/wiki/Bells_and_Pomegranates,_First_Series/In_a_Gondola
 
 - **Item:** Decode “Quails and Arty and Fakes… Band, Speckled” (Page 81)
   - **Type:** other

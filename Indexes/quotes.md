@@ -525,11 +525,11 @@ Template:
   - **Research needed:** no
 
 - **Snippet:** “one by one the touch of life has turned to truth”
-  - **Likely source/author:** TBD
+  - **Likely source/author:** Sir Henry Newbolt, “Clifton Chapel” (in *Poems: New and Old*): https://en.wikisource.org/wiki/Poems:_New_and_Old_(Newbolt)/Clifton_Chapel
   - **Why it matters:** Quoted as the words of “the Head”; may identify a school/institution voice or a specific text.
   - **Pages:** Pages/cains_jawbone_page_74.md
-  - **Confidence:** `MAYBE`
-  - **Research needed:** yes — identify source and whether it’s a motto/poem line.
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
 
 - **Snippet:** “Calendula… to flower in the calends of almost everie month”
   - **Likely source/author:** John Gerard (*Herball* / *Herbal*)
@@ -553,11 +553,11 @@ Template:
   - **Research needed:** no
 
 - **Snippet:** “He tasted love with half his mind… nor ever drank the inviolate spring where nighest heaven.”
-  - **Likely source/author:** TBD
+  - **Likely source/author:** Alfred Tennyson, *In Memoriam* (Canto 88): https://en.wikisource.org/wiki/In_Memoriam_(Tennyson)/Canto_88
   - **Why it matters:** Quotable line used to characterise Sir Paul; may anchor a specific poem/text.
   - **Pages:** Pages/cains_jawbone_page_80.md
-  - **Confidence:** `MAYBE`
-  - **Research needed:** yes — identify source/context.
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
 
 - **Snippet:** “We that did nothing study but the way to love each other…”
   - **Likely source/author:** TBD
@@ -602,11 +602,11 @@ Template:
   - **Research needed:** no
 
 - **Snippet:** “Death’s to fear from flame or steel… but from water—feel”
-  - **Likely source/author:** TBD
+  - **Likely source/author:** Robert Browning, “In a Gondola” (in *Bells and Pomegranates*, First Series): https://en.wikisource.org/wiki/Bells_and_Pomegranates,_First_Series/In_a_Gondola
   - **Why it matters:** Possible quoted line tied to a drowning murder; may encode a source text or clue phrase.
   - **Pages:** Pages/cains_jawbone_page_81.md
-  - **Confidence:** `MAYBE`
-  - **Research needed:** yes — identify source/context.
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
 
 - **Snippet:** “What is removed drops horribly in a pail.”
   - **Likely source/author:** Walt Whitman, *Leaves of Grass* (“Song of Myself”; 1882 ed.)

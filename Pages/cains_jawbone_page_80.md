@@ -19,7 +19,7 @@ Hospitality, when I came to consider it, was indeed a funny thing. I wanted to d
   - MAYBE: tied to May (narrator’s obligation/priority to “do my best for May”).
 - **Quotes & allusions:**
   - CERTAIN: “If it be not now… yet it will be.” (Hamlet phrasing; confirm exact source).
-  - MAYBE: “He tasted love with half his mind…” (source TBD).
+  - CERTAIN: Alfred Tennyson, *In Memoriam* (Canto 88): “He tasted love with half his mind, / Nor ever drank the inviolate spring…” https://en.wikisource.org/wiki/In_Memoriam_(Tennyson)/Canto_88
 - **Motifs/continuity hooks:**
   - Naturalist/collector: “bottled worms” collection.
   - Hospitality as cover for exposure to poisons.
@@ -28,4 +28,4 @@ Hospitality, when I came to consider it, was indeed a funny thing. I wanted to d
 - **Disconfirming evidence:**
   - If aconitum is only being shown as a specimen with no ingestion/administration implied, or if Fleming’s tincture mention is purely didactic.
 - **Research needed:**
-  - Identify the “He tasted love…” quotation source.
+  - (none)

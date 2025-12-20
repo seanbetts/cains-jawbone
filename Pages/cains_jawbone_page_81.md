@@ -14,7 +14,7 @@ The victim, for that I must now reluctantly call him, blocked all the sweet air 
 - **Quotes & allusions:**
   - CERTAIN: “a babbled o’ green fields” (Shakespeare, *Henry V*; Falstaff death reported by Mistress Quickly).
   - MAYBE: “Band, Speckled” (Conan Doyle, *The Adventure of the Speckled Band*).
-  - MAYBE: “Death’s to fear from flame or steel… but from water—feel” (source TBD).
+  - CERTAIN: “Death’s to fear from flame or steel… but from water—feel” — Robert Browning, “In a Gondola” (*Bells and Pomegranates*, First Series): https://en.wikisource.org/wiki/Bells_and_Pomegranates,_First_Series/In_a_Gondola
 - **Motifs/continuity hooks:**
   - Misheard last words (“Quails… Arty… Fakes… Band, Speckled”) as a possible cipher/anagram/homophone clue.
   - Window/air/light imagery (“window was no more dark”).
@@ -25,5 +25,4 @@ The victim, for that I must now reluctantly call him, blocked all the sweet air 
 - **Disconfirming evidence:**
   - If the victim survives (later pages) or the scene is revealed as metaphorical/storytelling.
 - **Research needed:**
-  - Identify the “Death’s to fear…” lines.
   - Decode/identify “Quails and Arty and Fakes… Band, Speckled.”
