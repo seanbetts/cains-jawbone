@@ -3,7 +3,7 @@ Needless to say I didn’t know that that was the last day. Afterwards I found i
 ## Notes
 
 - **Entities:**
-  - CERTAIN: “the Great Lexicographer” (likely Dr Samuel Johnson; McLeod/Highlands tour resonance).
+  - CERTAIN: “the Great Lexicographer” = Dr Samuel Johnson (*A Journey to the Western Islands of Scotland*; “tasted lotus” at Dunvegan).
   - CERTAIN: McLeod of that ilk (clan-chief reference; Highland allegiance/fealty cue).
   - CERTAIN: “he” (unnamed; reads aloud; narrator’s loyalty target).
   - MAYBE: “a man” being read about (described via hook/bait/Bellerophon metaphor; identity unclear).
@@ -13,7 +13,8 @@ Needless to say I didn’t know that that was the last day. Afterwards I found i
 - **Quotes & allusions:**
   - CERTAIN: “letters of Bellerophon” (fatal message carried unknowingly; used as bait/hook analogy).
   - MAYBE: “bone of my bone” (biblical phrasing; used for fealty).
-  - MAYBE: “tasted Lotus” (Odyssey lotus-eaters / forgetfulness / drug/drink metaphor; confirm intended meaning).
+  - CERTAIN: “The quaint, old, cruel coxcomb… in his gullet should have a hook.” (Byron, *Don Juan*, Canto XIII, stanza CVI; angling + Izaak Walton).
+  - CERTAIN: “At Dunvegan I had tasted lotus…” (Samuel Johnson, *A Journey to the Western Islands of Scotland*, Chapter 21; “Lotus” = forgetfulness/reluctance to depart).
 - **Motifs/continuity hooks:**
   - Loyalty/fealty; inheritance of allegiance (“my people had always owned allegiance…”).
   - Angling/hook/bait metaphor for deceit/entrapment.
@@ -25,6 +26,5 @@ Needless to say I didn’t know that that was the last day. Afterwards I found i
 - **Disconfirming evidence:**
   - If McLeod/Lotus references point to a different lexicographer biography than Johnson’s.
 - **Research needed:**
-  - Identify what “two things about a man” are being read (source text and the “man”).
-  - Confirm Johnson/McLeod reference and what “Lotus” denotes here.
+  - Identify what “two things about a man” are being read (confirm the second reference: “demure hypocrite or a blockhead”).
   - Clarify what “last day” refers to (death? separation? last visit?).

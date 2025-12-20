@@ -808,14 +808,14 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_64.md
   - **Why it matters:** Might encode a date (saint/anniversary “to-day”) and link the Great Lexicographer/fealty narrator cluster.
   - **Status:** `open`
-  - **Result:**
+  - **Result:** One of the “two things” is Byron, *Don Juan*, Canto XIII, stanza CVI (“The quaint, old, cruel coxcomb, in his gullet / Should have a hook…”; angling + Izaak Walton): https://en.wikisource.org/wiki/Don_Juan_(Byron,_unsourced)/Canto_the_Thirteenth#CVI. Still need the source for “demure hypocrite or a blockhead”.
 
 - **Item:** Confirm what “tasted Lotus” refers to in Page 64’s Great Lexicographer + McLeod passage
   - **Type:** other
   - **Pages:** Pages/cains_jawbone_page_64.md
   - **Why it matters:** Could be a specific episode/quotation that anchors identity and ordering.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** Samuel Johnson uses the phrase in *A Journey to the Western Islands of Scotland* (1775), Chapter 21: “At Dunvegan I had tasted lotus, and was in danger of forgetting that I was ever to depart…” (about staying with Macleod): https://en.wikisource.org/wiki/A_Journey_to_the_Western_Islands_of_Scotland/Chapter_21.
 
 - **Item:** Identify which Thomas Hardy work is meant by “Hardy’s exquisite production” on Page 65
   - **Type:** quote/other

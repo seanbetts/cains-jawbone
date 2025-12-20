@@ -859,3 +859,17 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_65.md
   - **Confidence:** `CERTAIN`
   - **Research needed:** no
+
+- **Snippet:** “The quaint, old, cruel coxcomb, in his gullet / Should have a hook…”
+  - **Likely source/author:** Lord Byron, *Don Juan*, Canto XIII, stanza CVI: https://en.wikisource.org/wiki/Don_Juan_(Byron,_unsourced)/Canto_the_Thirteenth#CVI
+  - **Why it matters:** Confirms Page 64’s angling allusion and the embedded Izaak Walton reference.
+  - **Pages:** Pages/cains_jawbone_page_64.md
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
+
+- **Snippet:** “At Dunvegan I had tasted lotus…”
+  - **Likely source/author:** Samuel Johnson, *A Journey to the Western Islands of Scotland* (1775), Chapter 21: https://en.wikisource.org/wiki/A_Journey_to_the_Western_Islands_of_Scotland/Chapter_21
+  - **Why it matters:** Confirms the “tasted lotus” phrasing as a Johnson allusion tied to Macleod/Dunvegan and reluctance to depart (Lotus-eaters metaphor).
+  - **Pages:** Pages/cains_jawbone_page_64.md
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
