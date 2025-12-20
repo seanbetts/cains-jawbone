@@ -873,3 +873,17 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_64.md
   - **Confidence:** `CERTAIN`
   - **Research needed:** no
+
+- **Snippet:** “postman, the bait… letters of Bellerophon”
+  - **Likely source/author:** Horace Smith, *The Tin Trumpet, Or Heads and Tales, for the Wise and Waggish* (Whittaker & Co., 1836), p. 35 (definition of “Angler”, referencing Izaak Walton): https://books.google.co.uk/books?id=i3HcLMJ36ucC&pg=PA35
+  - **Why it matters:** Confirms Page 64’s second angling quotation and clarifies the bait-as-messenger (“letters of Bellerophon”) metaphor.
+  - **Pages:** Pages/cains_jawbone_page_64.md
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
+
+- **Snippet:** “Hardy’s exquisite production”
+  - **Likely source/author:** LIKELY Thomas Hardy, “The Distracted Preacher” (short story; reviewed as “The Distracted Young Preacher” in *Vanity Fair* (May 3, 1879), which calls it “Hardy’s exquisite sketch… a delight from end to end”): https://books.google.co.uk/books?id=725HAQAAMAAJ&pg=PA246 and https://books.google.co.uk/books?id=725HAQAAMAAJ&pg=PA254
+  - **Why it matters:** Pins the narrator’s Hardy-reading reference on Page 65 to a specific Hardy story (useful for voice/reading-set linkage).
+  - **Pages:** Pages/cains_jawbone_page_65.md
+  - **Confidence:** `LIKELY`
+  - **Research needed:** no

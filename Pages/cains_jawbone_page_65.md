@@ -14,7 +14,7 @@ I started to read Hardy’s exquisite production, and every muscle of my brain w
   - LIKELY: “reap the harvest… Ruth… gleaning” (Book of Ruth wordplay).
   - CERTAIN: “Monk Arnulphus uncorked his ink… dragon-fly’s skin… gold-leaf… robe of a queen.” (Miles (ed.), *The Poets and the Poetry of the Century: Charles Kingsley to James Thomson* (1898), p. 391).
   - CERTAIN: “Jim the Penman.” (Sir Charles Lawrence Young, *Jim the Penman* (1880)).
-  - MAYBE: “Hardy’s exquisite production” (Thomas Hardy work; identify which).
+  - LIKELY: “Hardy’s exquisite production” = Thomas Hardy, “The Distracted Preacher” (reviewed as “The Distracted Young Preacher” in *Vanity Fair* (May 3, 1879) and called “Hardy’s exquisite sketch… a delight from end to end.”): https://books.google.co.uk/books?id=725HAQAAMAAJ&pg=PA246 and https://books.google.co.uk/books?id=725HAQAAMAAJ&pg=PA254
 - **Motifs/continuity hooks:**
   - Reading/interpretation as competition (harvest vs gleaning).
   - Manuscript/illumination imagery (green palette; gold leaf) + “uncorked his ink”.
@@ -26,5 +26,4 @@ I started to read Hardy’s exquisite production, and every muscle of my brain w
 - **Disconfirming evidence:**
   - If Wilde quotations are purely decorative and do not signal narrator identity/cluster.
 - **Research needed:**
-  - Identify which Hardy work is meant.
   - Clarify what “pigeon-holing by type” refers to (typewriter fonts? librarian systems? police records?).

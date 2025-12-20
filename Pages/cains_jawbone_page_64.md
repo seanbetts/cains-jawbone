@@ -6,7 +6,7 @@ Needless to say I didn’t know that that was the last day. Afterwards I found i
   - CERTAIN: “the Great Lexicographer” = Dr Samuel Johnson (*A Journey to the Western Islands of Scotland*; “tasted lotus” at Dunvegan).
   - CERTAIN: McLeod of that ilk (clan-chief reference; Highland allegiance/fealty cue).
   - CERTAIN: “he” (unnamed; reads aloud; narrator’s loyalty target).
-  - MAYBE: “a man” being read about (described via hook/bait/Bellerophon metaphor; identity unclear).
+  - CERTAIN: Izaak Walton (the “man” being read about; angling quotations point to Walton-as-angler).
 - **Time markers:**
   - CERTAIN: “to-day” (the “man” has “put in his appearance to-day” — suggests calendar/Book-of-Days style framing).
   - CERTAIN: retrospective “I didn’t know that that was the last day” (last day of what/who is unclear).
@@ -14,6 +14,7 @@ Needless to say I didn’t know that that was the last day. Afterwards I found i
   - CERTAIN: “letters of Bellerophon” (fatal message carried unknowingly; used as bait/hook analogy).
   - MAYBE: “bone of my bone” (biblical phrasing; used for fealty).
   - CERTAIN: “The quaint, old, cruel coxcomb… in his gullet should have a hook.” (Byron, *Don Juan*, Canto XIII, stanza CVI; angling + Izaak Walton).
+  - CERTAIN: “postman, the bait… letters of Bellerophon… demure hypocrite, or a blockhead.” (Horace Smith, *The Tin Trumpet* (1836), p. 35; “Angler” definition referencing Walton).
   - CERTAIN: “At Dunvegan I had tasted lotus…” (Samuel Johnson, *A Journey to the Western Islands of Scotland*, Chapter 21; “Lotus” = forgetfulness/reluctance to depart).
 - **Motifs/continuity hooks:**
   - Loyalty/fealty; inheritance of allegiance (“my people had always owned allegiance…”).
@@ -26,5 +27,4 @@ Needless to say I didn’t know that that was the last day. Afterwards I found i
 - **Disconfirming evidence:**
   - If McLeod/Lotus references point to a different lexicographer biography than Johnson’s.
 - **Research needed:**
-  - Identify what “two things about a man” are being read (confirm the second reference: “demure hypocrite or a blockhead”).
   - Clarify what “last day” refers to (death? separation? last visit?).

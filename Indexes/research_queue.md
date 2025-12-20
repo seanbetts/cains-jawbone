@@ -807,8 +807,8 @@ Template:
   - **Type:** quote/other
   - **Pages:** Pages/cains_jawbone_page_64.md
   - **Why it matters:** Might encode a date (saint/anniversary “to-day”) and link the Great Lexicographer/fealty narrator cluster.
-  - **Status:** `open`
-  - **Result:** One of the “two things” is Byron, *Don Juan*, Canto XIII, stanza CVI (“The quaint, old, cruel coxcomb, in his gullet / Should have a hook…”; angling + Izaak Walton): https://en.wikisource.org/wiki/Don_Juan_(Byron,_unsourced)/Canto_the_Thirteenth#CVI. Still need the source for “demure hypocrite or a blockhead”.
+  - **Status:** `resolved`
+  - **Result:** The “two things” are: (1) Byron, *Don Juan*, Canto XIII, stanza CVI (“The quaint, old, cruel coxcomb… / Should have a hook…”; angling + Izaak Walton): https://en.wikisource.org/wiki/Don_Juan_(Byron,_unsourced)/Canto_the_Thirteenth#CVI; and (2) Horace Smith, *The Tin Trumpet, Or Heads and Tales, for the Wise and Waggish* (Whittaker & Co., 1836), p. 35, defining the “Angler” as “a demure destroyer… old Izaak Walton” and including “postman, the bait… letters of Bellerophon” + “demure hypocrite, or a blockhead”: https://books.google.co.uk/books?id=i3HcLMJ36ucC&pg=PA35.
 
 - **Item:** Confirm what “tasted Lotus” refers to in Page 64’s Great Lexicographer + McLeod passage
   - **Type:** other
@@ -821,8 +821,8 @@ Template:
   - **Type:** quote/other
   - **Pages:** Pages/cains_jawbone_page_65.md
   - **Why it matters:** Could be a precise author/work anchor and cluster the narrator.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** LIKELY Thomas Hardy’s short story “The Distracted Preacher” (reviewed as “The Distracted Young Preacher” in *Vanity Fair* (May 3, 1879) as appearing in *The New Quarterly*; the same review calls it “Hardy’s exquisite sketch… a delight from end to end”): https://books.google.co.uk/books?id=725HAQAAMAAJ&pg=PA246 and https://books.google.co.uk/books?id=725HAQAAMAAJ&pg=PA254.
 
 - **Item:** Identify Monk Arnulphus / “Jim the Penman” references on Page 65
   - **Type:** name/other
