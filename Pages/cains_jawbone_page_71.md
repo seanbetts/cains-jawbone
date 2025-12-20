@@ -13,7 +13,7 @@ But next day that religious fellow’s head drapery, if I might thus unscientifi
   - CERTAIN: deadline “till midnight”.
   - CERTAIN: “before our tea” (meal-time anchor).
 - **Quotes & allusions:**
-  - MAYBE: “express my duty in his eye” (quotation; source TBD).
+  - CERTAIN: “express my duty in his eye” — Shakespeare, *Hamlet* (Act IV: “We shall express our duty in his eye…”): https://en.wikisource.org/wiki/Hamlet_(1917)_Yale/Text/Act_IV
   - MAYBE: Spartan mother / Lucius Junius Brutus (stoic virtue allusions; tone-setting).
 - **Motifs/continuity hooks:**
   - Flowers/seasonal scent: “old odour of red May” (links to later “blight on the May” language).
@@ -26,5 +26,4 @@ But next day that religious fellow’s head drapery, if I might thus unscientifi
 - **Disconfirming evidence:**
   - If “May” is clearly only the calendar month and has no continuity with later “May” references.
 - **Research needed:**
-  - Identify the source of “express my duty in his eye”.
   - Identify “Herebald the Drake” and whether it’s genealogical wordplay or a specific reference.

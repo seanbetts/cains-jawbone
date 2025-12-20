@@ -9,7 +9,7 @@ All the artist in me flared up. After all, my given name was world-famous as the
   - CERTAIN: Runymede (allusion).
   - CERTAIN: Marseille (old Port; “place of my initiation” behind it).
 - **Quotes & allusions:**
-  - MAYBE: “O tristesse, tristesse était mon âme” (French quotation; source TBD).
+  - CERTAIN: Paul Verlaine, “Ô triste, triste était mon âme” (*Romances sans paroles*, 1891): https://fr.wikisource.org/wiki/Romances_sans_paroles_(1891)/%C3%94_triste,_triste_%C3%A9tait_mon_%C3%A2me
   - CERTAIN: E. V. Lucas / “lucus a non lucendo” punning reference.
 - **Motifs/continuity hooks:**
   - Oratory/voice: “orator’s joys… roll the thunder… a cause d’une femme”.
@@ -24,4 +24,3 @@ All the artist in me flared up. After all, my given name was world-famous as the
 - **Research needed:**
   - Identify the painter whose surname matches the narrator’s given name (and why “The Mumpers” matters).
   - Identify the “quiet country town” described here.
-  - Identify the “O tristesse…” quotation source.

@@ -360,17 +360,23 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_61.md
   - **Notes:** Used in the Broadmoor portmanteau explanation.
 
+- **Ockham (Surrey)**
+  - **Type:** village/parish
+  - **Confidence:** `LIKELY`
+  - **Pages:** Pages/cains_jawbone_page_61.md
+  - **Notes:** Implied by “William the Schoolman” (William of Ockham) and the “first Lord King” reference; DNB notes Peter King is “first Lord King, Baron of Ockham in Surrey” and has “a splendid monument by Rysbrach” in Ockham parish church: https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/King,_Peter_(1669-1734)
+
 - **Trafalgar Square**
   - **Type:** landmark/square
   - **Confidence:** `CERTAIN`
   - **Pages:** Pages/cains_jawbone_page_62.md
   - **Notes:** Guy Fawkes night anecdote; “Major-General” statue is LIKELY Sir Henry Havelock (Kelly’s *Post Office Guide to London in 1871* (1871), p. 334: “HAVELOCK.— A bronze statue, in Trafalgar-square…”): https://books.google.co.uk/books?id=0VO7Grn7tAkC&pg=PA334&dq=Trafalgar+Square+Havelock.
 
-- **Medehamstede (uncertain)**
-  - **Type:** place/monastery (uncertain)
-  - **Confidence:** `MAYBE`
+- **Medehamstede (Peterborough)**
+  - **Type:** place/monastery (historic name)
+  - **Confidence:** `CERTAIN`
   - **Pages:** Pages/cains_jawbone_page_72.md
-  - **Notes:** “Old Medehamstede” is likely the early name for Peterborough Abbey, but confirm intended referent in-text.
+  - **Notes:** “Medehamstede” is the original name of Peterborough; EB1911: Peterborough “is proved by its original name Medehamstede to have been a Saxon village…” https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Peterborough_(England)
 
 - **Rue de la Harpe**
   - **Type:** street

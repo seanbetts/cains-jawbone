@@ -462,11 +462,11 @@ Template:
   - **Research needed:** no
 
 - **Snippet:** “Le couchant dardait ses rayons suprêmes…”
-  - **Likely source/author:** TBD (French poem)
+  - **Likely source/author:** Paul Verlaine, “Promenade sentimentale” (*Poèmes saturniens*, 1866): https://fr.wikisource.org/wiki/Po%C3%A8mes_saturniens_(1866)/Promenade_sentimentale
   - **Why it matters:** Distinctive bilingual quote + water-lily imagery; may cluster narrator voice or anchor a known text.
   - **Pages:** Pages/cains_jawbone_page_61.md
-  - **Confidence:** `MAYBE`
-  - **Research needed:** yes — identify exact source.
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
 
 - **Snippet:** “the human heart was deceitful and desperately wicked”
   - **Likely source/author:** Jeremiah 17:9 (Bible)
@@ -511,18 +511,18 @@ Template:
   - **Research needed:** no
 
 - **Snippet:** “express my duty in his eye”
-  - **Likely source/author:** TBD
+  - **Likely source/author:** Shakespeare, *Hamlet* (Act IV): “We shall express our duty in his eye…” (Yale edition text, 1917): https://en.wikisource.org/wiki/Hamlet_(1917)_Yale/Text/Act_IV
   - **Why it matters:** Distinct quotation embedded in an anecdote about “Elsie” and a coastguard; could cluster narrator voice or encode a source text.
   - **Pages:** Pages/cains_jawbone_page_71.md
-  - **Confidence:** `MAYBE`
-  - **Research needed:** yes — identify source/context.
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
 
 - **Snippet:** “O tristesse, tristesse était mon âme”
-  - **Likely source/author:** TBD (French quotation)
+  - **Likely source/author:** Paul Verlaine, “Ô triste, triste était mon âme” (*Romances sans paroles*, 1891): https://fr.wikisource.org/wiki/Romances_sans_paroles_(1891)/%C3%94_triste,_triste_%C3%A9tait_mon_%C3%A2me
   - **Why it matters:** Strong bilingual quote anchor tied to an oratory/“cause d’une femme” passage.
   - **Pages:** Pages/cains_jawbone_page_73.md
-  - **Confidence:** `MAYBE`
-  - **Research needed:** yes — identify exact source.
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
 
 - **Snippet:** “one by one the touch of life has turned to truth”
   - **Likely source/author:** TBD

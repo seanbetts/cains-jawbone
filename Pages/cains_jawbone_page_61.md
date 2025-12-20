@@ -5,16 +5,17 @@ I had always been proud of my namesake, the Great Lexicographer, as we, not unna
 - **Entities:**
   - CERTAIN: “the Great Lexicographer” (namesake; likely Dr Samuel Johnson, but confirm).
   - CERTAIN: “William the Schoolman” / “Doctor Invincibilis” / “Bill” (strongly suggests William of Ockham; “razor” = Ockham’s razor).
-  - MAYBE: Rysbrach (sculptor reference; “statues of the first Lord King” needs ID).
+  - CERTAIN: “the first Lord King” is Peter King, Baron of Ockham; DNB notes he died at Ockham and has “a splendid monument by Rysbrach” in the parish church: https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/King,_Peter_(1669-1734).
   - CERTAIN: Dickens (allusive reference; “jealousy of chickens” / mistrust of sheep).
 - **Places:**
   - CERTAIN: Colney Hatch (asylum reference).
   - CERTAIN: Broadmoor (criminal lunatic asylum; framed as feared destination).
   - CERTAIN: Dartmoor + “Broad arrows” (wordplay offered for “Broadmoor”).
+  - LIKELY: Ockham (Surrey) implied by William of Ockham + “first Lord King” (Baron of Ockham) reference.
 - **Time markers:**
   - MAYBE: evening/sunset (French nénuphars lines).
 - **Quotes & allusions:**
-  - MAYBE: French stanza about sunset + water lilies (“nénuphars”) — source TBD.
+  - CERTAIN: Paul Verlaine, “Promenade sentimentale” (*Poèmes saturniens*, 1866): https://fr.wikisource.org/wiki/Po%C3%A8mes_saturniens_(1866)/Promenade_sentimentale
   - CERTAIN: Ockham’s razor embedded as a joke (“no mean psychologist; he had a razor”).
 - **Motifs/continuity hooks:**
   - Institutions/confinement: “locked in” + asylum/prison anxieties.
@@ -27,6 +28,4 @@ I had always been proud of my namesake, the Great Lexicographer, as we, not unna
 - **Disconfirming evidence:**
   - If “Great Lexicographer” is shown to be someone other than Johnson, or the “razor” joke points to a different “William”.
 - **Research needed:**
-  - Identify French nénuphars stanza source.
-  - Identify “Rysbrach’s statues of the first Lord King” and implied location.
   - Confirm which “Great Lexicographer” is intended (and why “born at Colney Hatch”).

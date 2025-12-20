@@ -6,7 +6,7 @@ Of course I was sorry to say good-bye to old Medehamstede ; but it was pleasant 
   - CERTAIN: Pasquier (associated with claret; narrator knows him from Paris).
 - **Places:**
   - CERTAIN: Paris; Rue de la Harpe.
-  - MAYBE: “old Medehamstede” (place-name; likely historical/monastic; confirm intended referent).
+  - CERTAIN: “old Medehamstede” = Peterborough (England): EB1911 states Peterborough “is proved by its original name Medehamstede…” https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Peterborough_(England)
 - **Motifs/continuity hooks:**
   - Drink: claret as remedy for pallor.
   - Reading/writing: narrator skims endings of short stories; prefers embrace first, plot after.
@@ -18,6 +18,5 @@ Of course I was sorry to say good-bye to old Medehamstede ; but it was pleasant 
 - **Disconfirming evidence:**
   - If “Pasquier” is a brand/product rather than an in-world acquaintance.
 - **Research needed:**
-  - Identify what/where “Medehamstede” points to in this context.
   - Identify “Savage Conqueror” (author/date) and whether it’s being used as an ordering/cipher key.
   - Identify Pasquier (wine-merchant/brand) if traceable.

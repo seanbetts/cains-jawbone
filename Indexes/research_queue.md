@@ -765,15 +765,15 @@ Template:
   - **Type:** quote
   - **Pages:** Pages/cains_jawbone_page_61.md
   - **Why it matters:** Might be a precise-source anchor for voice or an embedded date/place clue.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** Paul Verlaine, “Promenade sentimentale” (*Poèmes saturniens*, 1866): “Le couchant dardait ses rayons suprêmes / Et le vent berçait les nénuphars blêmes…” https://fr.wikisource.org/wiki/Po%C3%A8mes_saturniens_(1866)/Promenade_sentimentale
 
 - **Item:** Identify what “Rysbrach’s statues of the first Lord King” refers to (and implied location)
   - **Type:** place/other
   - **Pages:** Pages/cains_jawbone_page_61.md
   - **Why it matters:** Could anchor a specific site/visit and connect pages via travel continuity.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** Refers to **Ockham (Surrey)**: Peter King is “first Lord King, Baron of Ockham in Surrey” (DNB), and the DNB records he died “at his seat at Ockham” and has “a splendid monument by Rysbrach” in the parish church. https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/King,_Peter_(1669-1734)
 
 - **Item:** Identify the “Major-General in Trafalgar Square on Guy Fawkes night” anecdote (and which statue is meant)
   - **Type:** other/place
@@ -891,8 +891,8 @@ Template:
   - **Type:** quote
   - **Pages:** Pages/cains_jawbone_page_71.md
   - **Why it matters:** Could anchor narrator voice or link to other pages quoting the same source.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** Shakespeare, *Hamlet* (Act IV): “We shall express our duty in his eye…” (Yale edition text, 1917): https://en.wikisource.org/wiki/Hamlet_(1917)_Yale/Text/Act_IV
 
 - **Item:** Identify “Herebald the Drake” (Page 71)
   - **Type:** name/other
@@ -905,8 +905,8 @@ Template:
   - **Type:** place
   - **Pages:** Pages/cains_jawbone_page_72.md
   - **Why it matters:** Could lock a real location (likely Peterborough Abbey) and help cluster narrator travel.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** “Medehamstede” is the original name of **Peterborough** (England): EB1911 states Peterborough “is proved by its original name Medehamstede to have been a Saxon village…” https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Peterborough_(England)
 
 - **Item:** Identify Pasquier (claret) reference (Page 72)
   - **Type:** name/term
@@ -940,8 +940,8 @@ Template:
   - **Type:** quote
   - **Pages:** Pages/cains_jawbone_page_73.md
   - **Why it matters:** Strong quote anchor for narrator voice.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** Paul Verlaine, “Ô triste, triste était mon âme” (*Romances sans paroles*, 1891): “Ô triste, triste était mon âme / À cause, à cause d’une femme.” https://fr.wikisource.org/wiki/Romances_sans_paroles_(1891)/%C3%94_triste,_triste_%C3%A9tait_mon_%C3%A2me
 
 - **Item:** Identify the source of “one by one the touch of life has turned to truth” (Page 74)
   - **Type:** quote
