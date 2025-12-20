@@ -6,7 +6,7 @@ It was that day my friend Sandy told me he was sure he wouldn’t sleep all nigh
   - CERTAIN: Sandy (friend; likely another dog/animal in this POV).
   - CERTAIN: Lagopus scoticus (red grouse; object of retrieval/hunting).
   - CERTAIN: Flora (recipient of narrator’s mating; likely dog/animal).
-  - CERTAIN: Bob Martin (ingested; likely dog medicine/tonic; confirm).
+  - CERTAIN: Bob Martin (dog medicine product; “tasteless condition powders”): https://books.google.co.uk/books?id=mxHOAAAAMAAJ&pg=RA6-PA5&dq=Bob+Martin.
   - MAYBE: “she” (unnamed; narrator “loathed her”; blushes; hair in curls).
   - MAYBE: “he” (unnamed; administers Bob Martin; “always right”).
 - **Time markers:**
@@ -21,4 +21,4 @@ It was that day my friend Sandy told me he was sure he wouldn’t sleep all nigh
 - **Disconfirming evidence:**
   - If “Bob Martin” is a human rather than a product, and the mating language is metaphorical (unlikely).
 - **Research needed:**
-  - Confirm what “Bob Martin” denotes in period usage (medicine brand/product).
+  - (none)

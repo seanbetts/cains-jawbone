@@ -199,7 +199,7 @@ Template:
 - **Dogs (named)**
   - **Instances / variants:** Ravager (unclear); Bart/Bartholomew (dog); Sandy (likely dog); red grouse retrieval; Bob Martin medicine
   - **Pages:** Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_15.md, Pages/cains_jawbone_page_79.md, Pages/cains_jawbone_page_82.md
-  - **Notes:** Dog companionship appears in both animal-POV and human table scenes; track if the same named dog(s) recur across narrators/locations.
+  - **Notes:** “Bob Martin” is an attested dog/pet medicine product (sold as “tasteless condition powders”): *The Chemist and Druggist Year Book* (1928), p. RA6-PA5: https://books.google.co.uk/books?id=mxHOAAAAMAAJ&pg=RA6-PA5&dq=Bob+Martin. Dog companionship appears in both animal-POV and human table scenes; track if the same named dog(s) recur across narrators/locations.
 
 - **Eyebrows / theatrical make-up**
   - **Instances / variants:** false eyebrows “like two fuzzy caterpillars”; applying black to eyebrows

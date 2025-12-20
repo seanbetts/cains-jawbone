@@ -545,6 +545,13 @@ Template:
   - **Confidence:** `MAYBE`
   - **Research needed:** yes — confirm source/wording.
 
+- **Snippet:** “stars upon some gloomy grove”
+  - **Likely source/author:** Henry Vaughan, “They are all gone into the world of light” (*The Poems of Henry Vaughan*, 1896), p. 182: https://books.google.co.uk/books?id=Tn4XAAAAYAAJ&pg=PA182&dq=some+gloomy+grove&source=gbs_api.
+  - **Why it matters:** Quote anchor for the narrator’s “logical thoughts” arriving; may signal a Vaughan-reading set and a death/absence register.
+  - **Pages:** Pages/cains_jawbone_page_76.md
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
+
 - **Snippet:** “If it be not now… yet it will be.”
   - **Likely source/author:** Shakespeare, *Hamlet*
   - **Why it matters:** Distinct “readiness is all” echo; may tie narrator to other Hamlet-quoting segments.

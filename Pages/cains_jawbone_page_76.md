@@ -12,7 +12,7 @@ Looking over at the sly sideways smile which seemed to fill all the foreground o
   - LIKELY: narrator contemplating personally doing “the thing” with a named victim (Green).
 - **Quotes & allusions:**
   - CERTAIN: De Quincey “in the … sense” (likely *On Murder Considered as One of the Fine Arts*; confirm phrasing).
-  - MAYBE: “stars upon some gloomy grove” (quoted via Henry; source TBD).
+  - CERTAIN: “stars upon some gloomy grove” = Henry Vaughan, “They are all gone into the world of light” (*The Poems of Henry Vaughan*, 1896), p. 182: https://books.google.co.uk/books?id=Tn4XAAAAYAAJ&pg=PA182&dq=some+gloomy+grove&source=gbs_api.
   - MAYBE: “rob… a whirlwind… reap a scorpion” (echoes “sow the wind, reap the whirlwind”; source TBD).
 - **Motifs/continuity hooks:**
   - Green/ripeness/fruit metaphors used to justify action (“young women are green”).
@@ -25,4 +25,3 @@ Looking over at the sly sideways smile which seemed to fill all the foreground o
   - If “Green” is revealed as a joke/reference rather than an in-world victim, or if the billhook scene is purely literary quotation.
 - **Research needed:**
   - Identify “Lord Pentarry” source (in-world character vs literary reference).
-  - Identify “stars upon some gloomy grove” line source.

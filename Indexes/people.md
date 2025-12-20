@@ -593,3 +593,9 @@ Template:
   - **Pronouns/relationships:** engaged to John Hewit.
   - **Pages:** Pages/cains_jawbone_page_15.md
   - **Notes:** Historical/date anchor: last day of July 1718 (July 31), associated with Steeple Ashton.
+
+- `P98` — Names/aliases: Spencer Perceval (reference)
+  - **Tells:** British Prime Minister (1762–1812); assassinated by John Bellingham in the House of Commons lobby.
+  - **Pronouns/relationships:** none known (historical reference).
+  - **Pages:** Pages/cains_jawbone_page_77.md
+  - **Notes:** Historical/date anchor: assassination described as occurring “On Monday, 11 May” (i.e., 11 May 1812) in the DNB biography: https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Perceval,_Spencer.

@@ -982,8 +982,8 @@ Template:
   - **Type:** quote
   - **Pages:** Pages/cains_jawbone_page_76.md
   - **Why it matters:** Potential precise-source anchor for clustering Henry/narrator segments.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** Henry Vaughan, “They are all gone into the world of light” (line: “Like stars upon some gloomy grove”) in *The Poems of Henry Vaughan* (1896), p. 182: https://books.google.co.uk/books?id=Tn4XAAAAYAAJ&pg=PA182&dq=some+gloomy+grove&source=gbs_api.
 
 - **Item:** Identify what “Compact” refers to (Page 77)
   - **Type:** term/other
@@ -996,8 +996,8 @@ Template:
   - **Type:** date
   - **Pages:** Pages/cains_jawbone_page_77.md
   - **Why it matters:** Potential explicit calendar anchor (“to-day” mechanism) separate from in-world murders.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** The DNB biography for Spencer Perceval (1762–1812) describes his assassination as occurring “On Monday, 11 May” (i.e., 11 May 1812): https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Perceval,_Spencer.
 
 - **Item:** Identify the source of “We that did nothing study but the way to love each other…” (Page 78)
   - **Type:** quote
@@ -1017,8 +1017,8 @@ Template:
   - **Type:** term/other
   - **Pages:** Pages/cains_jawbone_page_79.md
   - **Why it matters:** Supports animal POV identification and might constrain time/setting via product history.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** “Bob Martin” is a branded dog/pet medicine product (sold as “BOB MARTIN’S … TASTELESS CONDITION POWDERS” in trade advertising): *The Chemist and Druggist Year Book* (1928), p. RA6-PA5: https://books.google.co.uk/books?id=mxHOAAAAMAAJ&pg=RA6-PA5&dq=Bob+Martin.
 
 - **Item:** Confirm what “Fleming’s tincture” denotes on Page 80 (aconite preparation vs another tincture)
   - **Type:** term/other
