@@ -310,7 +310,7 @@ Template:
   - **Tells:** public talker (“furor loquendi”); loudly attaches to “every ebbing cause” for twenty years; appears drunk and useful to an interviewer; recognisable beard (“white bear”).
   - **Pronouns/relationships:** introduced to narrator/interviewer.
   - **Pages:** Pages/cains_jawbone_page_53.md, Pages/cains_jawbone_page_59.md, Pages/cains_jawbone_page_80.md
-  - **Notes:** MAYBE satirical fictional; treat as in-world unless confirmed otherwise; Page 60’s “figurehead beard” target may refer to him.
+  - **Notes:** LIKELY name borrowed from Walter Besant, *Herr Paulus* (1888), which includes “Sir Paul Trinder, Baronet.” https://books.google.co.uk/books?id=sYYpAQAAIAAJ&pg=PA264&vq=%22Sir+Paul+Trinder%22. Treat CJ’s added “white bear” beard / newspaper-caricature framing as narrator’s satire unless the same details are found in Besant.
 
 - `P51` — Names/aliases: Miss Doncaster
   - **Tells:** writes to narrator advising “the old man” to come; asks for a pestling/poisoning task; stirs narrator.

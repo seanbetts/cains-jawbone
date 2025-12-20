@@ -4,6 +4,7 @@ So far the mind had been ambling, if I may dare the expression ; moving forward 
 
 - **Entities:**
   - CERTAIN: Sir Paul Trinder.
+  - LIKELY: “Sir Paul Trinder” is a literary allusion (not a real public figure): Walter Besant’s novel *Herr Paulus* (1888) includes “Sir Paul Trinder, Baronet.” https://books.google.co.uk/books?id=sYYpAQAAIAAJ&pg=PA264&vq=%22Sir+Paul+Trinder%22
   - MAYBE: narrator/interviewer (same as Page 52).
 - **Motifs/continuity hooks:**
   - Interview dynamics: “introduced to me”; target is “in drink” and useful for narrator’s purpose.
@@ -16,4 +17,4 @@ So far the mind had been ambling, if I may dare the expression ; moving forward 
 - **Disconfirming evidence:**
   - If Page 52’s “man who entered” is clearly someone else (different age/role) and no interview continuity appears.
 - **Research needed:**
-  - Determine whether Sir Paul Trinder is a real public figure reference or an in-world satirical character.
+  - Determine whether the “white bear” beard detail also appears in *Herr Paulus* (vs being CJ-specific satire layered onto the borrowed name).

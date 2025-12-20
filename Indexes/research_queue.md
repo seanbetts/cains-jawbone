@@ -660,8 +660,8 @@ Template:
   - **Type:** name/other
   - **Pages:** Pages/cains_jawbone_page_53.md
   - **Why it matters:** Helps interpret the interview scene and potential political/academic satire thread.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** “Sir Paul Trinder” appears to be a **literary character-name**, not a real public figure: Walter Besant, *Herr Paulus* (1888) includes “Sir Paul Trinder, Baronet.” https://books.google.co.uk/books?id=sYYpAQAAIAAJ&pg=PA264&vq=%22Sir+Paul+Trinder%22. CJ’s added “furor loquendi” / newspaper-caricature framing may be a satirical overlay on the borrowed name.
 
 - **Item:** Identify the source (if any) of “To pestle a poisoned poison behind his crimson lights” (Page 54)
   - **Type:** quote
