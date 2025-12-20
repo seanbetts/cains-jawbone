@@ -1094,8 +1094,8 @@ Template:
   - **Type:** term/other
   - **Pages:** Pages/cains_jawbone_page_84.md
   - **Why it matters:** Could be a precise cultural anchor (play/film) or simply the fate/fortune term.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** In-period dictionary sense is straightforward: “Kismet… n. fate, destiny.” (Chambers’s Twentieth Century Dictionary, 1908): https://en.wikisource.org/wiki/Chambers%27s_Twentieth_Century_Dictionary_1908/K_Kythe. Treat Page 84’s usage as the generic “fate” term unless further text indicates a specific play/film reference.
 
 - **Item:** Identify “twin mouths of two lions” place reference (Page 85)
   - **Type:** place/other

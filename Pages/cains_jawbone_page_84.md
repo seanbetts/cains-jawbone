@@ -17,6 +17,7 @@ I wish she would tell me more. I wish she would give me some hint as to why the 
 - **Quotes & allusions:**
   - CERTAIN: “what the blind sailor said” alludes to Horatio Nelson at Copenhagen (1801): when ordered to discontinue the action, he put his telescope to his blind eye and said he could not see the signal. (DNB “Nelson, Horatio”: https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Nelson,_Horatio.)
   - CERTAIN: “Off went his arm to-day” alludes to Nelson’s right arm amputation after the Santa Cruz (Tenerife) attack (night of 24 July 1797). (DNB “Nelson, Horatio”: https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Nelson,_Horatio.)
+  - CERTAIN: “Kismet” = “fate, destiny” (Chambers 1908): https://en.wikisource.org/wiki/Chambers%27s_Twentieth_Century_Dictionary_1908/K_Kythe.
 - **Motifs/continuity hooks:**
   - Death-driven introduction (“why the deceased wished us to know each other”).
   - Bathing/leisure imagery (one-piece; towel).
@@ -26,4 +27,4 @@ I wish she would tell me more. I wish she would give me some hint as to why the 
 - **Disconfirming evidence:**
   - If “deceased” is metaphorical (e.g., a dead author) rather than in-world person.
 - **Research needed:**
-  - Identify what “Kismet” is pointing to in this context (play/film/allusion vs pure fate word).
+  - (none)
