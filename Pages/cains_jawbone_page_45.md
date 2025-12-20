@@ -18,6 +18,7 @@ It was when that half Pole, half Frenchman, and usually up the first half, that 
   - Food/drink list: devilled Epicam; Royans aux Achard; Peter Barleys; Villacabras.
     - Epicam: advertised as “EPICAM… the Worcestershire Ham” (Country Life, 1934): https://books.google.co.uk/books?id=rRYiAQAAMAAJ&dq=Epicam&jscmd=SearchWithinVolume2
     - Epicure Ham Co. (Pershore, Worcs.) appears in Country Life Illustrated (1934): https://books.google.co.uk/books?id=OBYiAQAAMAAJ&dq=%22EPICURE%20HAM%22&jscmd=SearchWithinVolume2
+    - Royans aux Achard(s): trademark/label for canned “ROYANS AUX TRUFFES & AUX ACHARDS” (Flouit Frères & C., Bordeaux) recorded in *Bulletin officiel de la propriété industrielle et commerciale* (1886), p. 168 (deposit note dated 24 Feb 1887): https://books.google.co.uk/books?id=YKNuP7yATQYC&pg=RA2-PA168-IA147&vq=ROYANS
     - Villacabras: advertised as Spanish “Natural Mineral Purgative Water” (Occidental Medical Times, 1892): https://books.google.co.uk/books?id=WagRAAAAYAAJ&dq=VILLACABRAS&jscmd=SearchWithinVolume2
     - LIKELY: “Peter Barleys” is a pun on “Peter Parley” (Samuel Griswold Goodrich pseudonym): https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Goodrich,_Samuel_Griswold
   - Setting: “great building of many flats”; “stealing at the doors” (sneaking/eavesdropping/theft).
@@ -29,5 +30,4 @@ It was when that half Pole, half Frenchman, and usually up the first half, that 
 - **Disconfirming evidence:**
   - If “up the garden” later proves purely figurative and unrelated to the plant/poison plotline.
 - **Research needed:**
-  - Identify “Royans aux Achard”.
   - Clarify what “usually up the first half” adds to the Typhoon-derived phrase.
