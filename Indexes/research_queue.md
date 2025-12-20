@@ -709,8 +709,8 @@ Template:
   - **Type:** place/other
   - **Pages:** Pages/cains_jawbone_page_57.md
   - **Why it matters:** May be a concrete place/product anchor for the paper-reading/ham scene.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** **Brookesley Hall, Leicestershire**: a seat of the Villiers family (“…a family of the name of Villiers seated at Brookesley Hall, in Leicestershire…”): https://en.wikisource.org/wiki/Notes_on_the_Anti-Corn_Law_Struggle/Chapter_3. **Felton** is John Felton (1595?–1628), “assassin of the Duke of Buckingham” (DNB): https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Felton,_John_(1595%3F-1628). LIKELY allusion: Felton’s “meat” = Buckingham/Villiers (the victim) rather than a literal meat supplier.
 
 - **Item:** Identify the “no noise here… cowslips for her covering” quotation (Page 57)
   - **Type:** quote

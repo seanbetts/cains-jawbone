@@ -312,11 +312,11 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_56.md
   - **Notes:** Referenced via “Asolo silk mills” and Pippa; likely Browning/Asolo allusion cluster.
 
-- **Brookesley (uncertain)**
-  - **Type:** town/village
-  - **Confidence:** `MAYBE`
+- **Brookesley Hall, Leicestershire**
+  - **Type:** house/estate
+  - **Confidence:** `CERTAIN`
   - **Pages:** Pages/cains_jawbone_page_57.md
-  - **Notes:** Delivery location for “Felton’s meat”; identification needed.
+  - **Notes:** Villiers family seat (“…a family of the name of Villiers seated at Brookesley Hall, in Leicestershire…”): https://en.wikisource.org/wiki/Notes_on_the_Anti-Corn_Law_Struggle/Chapter_3. (Page 57 pairs this with “Felton’s meat,” likely alluding to John Felton’s assassination of the Duke of Buckingham.)
 
 - **Nagpur**
   - **Type:** city

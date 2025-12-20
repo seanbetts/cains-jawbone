@@ -838,3 +838,10 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_55.md
   - **Confidence:** `CERTAIN`
   - **Research needed:** no
+
+- **Snippet:** “Felton’s meat had been delivered at Brookesley…”
+  - **Likely source/author:** Allusive pointer: Brookesley Hall as a Villiers family seat (“…Villiers seated at Brookesley Hall…”): https://en.wikisource.org/wiki/Notes_on_the_Anti-Corn_Law_Struggle/Chapter_3; and John Felton (1595?–1628) as “assassin of the Duke of Buckingham” (DNB): https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Felton,_John_(1595%3F-1628).
+  - **Why it matters:** Historical allusion anchor on Page 57 (Felton/Buckingham/Villiers).
+  - **Pages:** Pages/cains_jawbone_page_57.md
+  - **Confidence:** `LIKELY`
+  - **Research needed:** no
