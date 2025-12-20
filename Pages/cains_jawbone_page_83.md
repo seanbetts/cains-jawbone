@@ -13,6 +13,7 @@ A flower-seller, fed ruddily, it seemed, on hope, broke in and would have made a
   - CERTAIN: late night (“late night final”).
 - **Quotes & allusions:**
   - CERTAIN: “Oh, to be in England” (Browning allusion; “unquotable he had become”).
+  - CERTAIN: “I must learn Spanish… only for that slow sweet name’s sake” = Browning, “The Flower’s Name” (Bells and Pomegranates, Second Series): https://en.wikisource.org/wiki/Bells_and_Pomegranates,_Second_Series/The_Flower%27s_Name.
   - CERTAIN: “good news from Ghent” (Browning, *How They Brought the Good News from Ghent to Aix*).
 - **Motifs/continuity hooks:**
   - Flowers: countryside-flower catalogue; red rose “sole survivor”.
@@ -25,5 +26,4 @@ A flower-seller, fed ruddily, it seemed, on hope, broke in and would have made a
 - **Disconfirming evidence:**
   - If the red-rose phrasing is generic and no other shared props/voices recur.
 - **Research needed:**
-  - Identify the “slow sweet name” motivating learning Spanish.
   - Identify what the metallic object is and whether it recurs.

@@ -622,6 +622,13 @@ Template:
   - **Confidence:** `CERTAIN`
   - **Research needed:** no
 
+- **Snippet:** “I must learn Spanish… Only for that slow sweet name’s sake.”
+  - **Likely source/author:** Robert Browning, “The Flower’s Name” (Bells and Pomegranates, Second Series): https://en.wikisource.org/wiki/Bells_and_Pomegranates,_Second_Series/The_Flower%27s_Name
+  - **Why it matters:** Confirms Page 83 is quoting Browning directly (flower/garden register); supports treating adjacent Browning lines on the page as deliberate anchors, not throwaway phrasing.
+  - **Pages:** Pages/cains_jawbone_page_83.md
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
+
 - **Snippet:** “Death’s to fear from flame or steel… but from water—feel”
   - **Likely source/author:** Robert Browning, “In a Gondola” (in *Bells and Pomegranates*, First Series): https://en.wikisource.org/wiki/Bells_and_Pomegranates,_First_Series/In_a_Gondola
   - **Why it matters:** Possible quoted line tied to a drowning murder; may encode a source text or clue phrase.

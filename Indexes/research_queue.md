@@ -1066,15 +1066,15 @@ Template:
   - **Type:** other
   - **Pages:** Pages/cains_jawbone_page_83.md
   - **Why it matters:** Might be a name/wordplay key for identifying a person or place in this flower/rose scene.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** This is Browning quoting himself: “I must learn Spanish, one of these days, / Only for that slow sweet name’s sake” appears in Robert Browning’s “The Flower’s Name” (Bells and Pomegranates, Second Series): https://en.wikisource.org/wiki/Bells_and_Pomegranates,_Second_Series/The_Flower%27s_Name. (The poem does not actually state the Spanish flower-name.)
 
 - **Item:** Identify the metallic object dropped and retrieved in Page 83 (coin/key/other?)
   - **Type:** other
   - **Pages:** Pages/cains_jawbone_page_83.md
   - **Why it matters:** Could be a continuity prop linking scenes (and the “daughterly” companion).
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `stalled`
+  - **Result:** No external reference to pin this down; the text gives only “some metallic object,” so treat as a small dropped item (LIKELY coin/key) until a cross-page prop recurrence narrows it.
 
 - **Item:** Identify the “blind sailor” reference/quote in Page 84
   - **Type:** quote/other
