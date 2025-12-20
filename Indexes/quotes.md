@@ -845,3 +845,17 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_57.md
   - **Confidence:** `LIKELY`
   - **Research needed:** no
+
+- **Snippet:** “Monk Arnulphus uncorked his ink.”
+  - **Likely source/author:** Alfred H. Miles (ed.), *The Poets and the Poetry of the Century: Charles Kingsley to James Thomson* (Hutchinson & Co., 1898), p. 391: https://books.google.co.uk/books?id=QaXbUNaq8G8C&pg=PA391&dq=Arnulphus
+  - **Why it matters:** Identifies the manuscript-illumination allusion on Page 65 (scribe/artist certainty; palette and gold-leaf imagery).
+  - **Pages:** Pages/cains_jawbone_page_65.md
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
+
+- **Snippet:** “Jim the Penman”
+  - **Likely source/author:** Sir Charles Lawrence Young, *Jim the Penman: A Romance of Modern Society in Four Acts* (S. French, 1880): https://books.google.com/books/about/Jim_the_Penman.html?id=kzUogQ-oDbUC
+  - **Why it matters:** Forger/counterfeiter allusion (“penman” as a fraudster); supports the paperwork/typing motif on Page 65.
+  - **Pages:** Pages/cains_jawbone_page_65.md
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no

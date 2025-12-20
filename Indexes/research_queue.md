@@ -828,8 +828,8 @@ Template:
   - **Type:** name/other
   - **Pages:** Pages/cains_jawbone_page_65.md
   - **Why it matters:** Might identify a profession/circle and tie into the paperwork/forgery thread.
-  - **Status:** `open`
-  - **Result:**
+  - **Status:** `resolved`
+  - **Result:** “Monk Arnulphus” is from a poem beginning “Monk Arnulphus uncorked his ink…” with the same “dragon-fly’s skin” / “gold-leaf… robe of a queen” lines: Alfred H. Miles (ed.), *The Poets and the Poetry of the Century: Charles Kingsley to James Thomson* (Hutchinson & Co., 1898), p. 391: https://books.google.co.uk/books?id=QaXbUNaq8G8C&pg=PA391&dq=Arnulphus. “Jim the Penman” is the play *Jim the Penman: A Romance of Modern Society in Four Acts* by Sir Charles Lawrence Young (S. French, 1880): https://books.google.com/books/about/Jim_the_Penman.html?id=kzUogQ-oDbUC.
 
 - **Item:** Clarify what “pigeon-holing by type” implies on Page 65 (typewriter fonts? librarian systems? police records?)
   - **Type:** other

@@ -6,12 +6,14 @@ I started to read Hardy’s exquisite production, and every muscle of my brain w
   - CERTAIN: Ruth (rival/other party; “would have little gleaning”).
   - CERTAIN: Jack (Wilde character referenced by name).
   - MAYBE: “him” (slow, methodical classifier; “pigeon-holing by type”).
-  - MAYBE: Monk Arnulphus (scribe/artist reference; needs ID).
-  - MAYBE: “Jim the Penman” (reference; needs ID).
+  - CERTAIN: Monk Arnulphus (poem allusion; Miles (ed.), *The Poets and the Poetry of the Century: Charles Kingsley to James Thomson* (1898), p. 391).
+  - CERTAIN: “Jim the Penman” (Sir Charles Lawrence Young play title; *Jim the Penman* (1880)).
 - **Quotes & allusions:**
   - CERTAIN: “All women become like their mothers… No man does. That’s his.” (Oscar Wilde, *The Importance of Being Earnest*).
   - CERTAIN: “is that clever?” (Jack’s line in *The Importance of Being Earnest* context).
   - LIKELY: “reap the harvest… Ruth… gleaning” (Book of Ruth wordplay).
+  - CERTAIN: “Monk Arnulphus uncorked his ink… dragon-fly’s skin… gold-leaf… robe of a queen.” (Miles (ed.), *The Poets and the Poetry of the Century: Charles Kingsley to James Thomson* (1898), p. 391).
+  - CERTAIN: “Jim the Penman.” (Sir Charles Lawrence Young, *Jim the Penman* (1880)).
   - MAYBE: “Hardy’s exquisite production” (Thomas Hardy work; identify which).
 - **Motifs/continuity hooks:**
   - Reading/interpretation as competition (harvest vs gleaning).
@@ -25,5 +27,4 @@ I started to read Hardy’s exquisite production, and every muscle of my brain w
   - If Wilde quotations are purely decorative and do not signal narrator identity/cluster.
 - **Research needed:**
   - Identify which Hardy work is meant.
-  - Identify Monk Arnulphus and “Jim the Penman”.
   - Clarify what “pigeon-holing by type” refers to (typewriter fonts? librarian systems? police records?).
