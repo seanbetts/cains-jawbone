@@ -106,3 +106,4 @@ date,agent,phase,task,start,end,minutes,branch,commit,notes
 2025-12-20,codex-cli,phase-2,phase-2 completion check,2025-12-20T23:28:00Z,2025-12-20T23:28:45Z,1,run/20251215-codex-extraction-pass1,a17687a,"Checked Phase 2 exit conditions and ran research progress summary."
 2025-12-20,codex-cli,phase-3,phase-3 kickoff (update current_run),2025-12-20T23:34:52Z,2025-12-20T23:37:11Z,2,run/20251215-codex-extraction-pass1,f44e9bd,"Updated current run metadata to phase-3."
 2025-12-21,codex-cli,phase-3,phase-3 narrator clustering v1,2025-12-21T00:19:19Z,2025-12-21T00:31:20Z,12,run/20251215-codex-extraction-pass1,8ea4749,"Added narrator signatures N01-N07 and aligned Phase 3 narrator clusters."
+2025-12-21,codex-cli,phase-3,phase-3 narrator clustering (N08-N09),2025-12-21T08:18:51Z,2025-12-21T08:36:18Z,17,run/20251215-codex-extraction-pass1,b20b24e,"Added narrator signatures N08-N09 and updated hypotheses to match."
