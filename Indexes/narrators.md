@@ -95,3 +95,11 @@ Template:
   - **Confidence:** `MAYBE`
   - **Disconfirming evidence:** May/Henry context proves incompatible across the two pages, or will/document language is shown to be a one-off motif rather than a recurring narrator signature.
   - **Notes:** Potential thematic overlap with will/forgery pages (Pages/cains_jawbone_page_28.md, Pages/cains_jawbone_page_50.md, Pages/cains_jawbone_page_78.md), but do not merge on motif alone.
+
+- `N11` — De’Ath (“Black Museum”) narrator:
+  - **Signature tells:** self-identification via nameplay (DEATH → De’Ath/DeAth); private “Black Museum” crime-collection framing; macabre exhibit anecdotes; self-mythologising criminal/detective register.
+  - **Likely identity (if any):** surname De’Ath (stylised).
+  - **Pages:** Pages/cains_jawbone_page_91.md
+  - **Confidence:** `LIKELY`
+  - **Disconfirming evidence:** “capitalise my third letter” resolves to a different name, or “Black Museum” is purely metaphorical with no recurring narrator signature.
+  - **Notes:** MAYBE overlaps with police/detective-allusion pages (e.g., Pages/cains_jawbone_page_100.md) but keep separate until shared tells emerge.
