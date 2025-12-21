@@ -137,6 +137,12 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Key anchors:** Flecker-ghazel substitution (“some to Flecker turn to pray…”); “What chemistry! That the winds are really not infectious”; “I took a pill”; Thames Ditton/Long Ditton pun.
   - **Disconfirming evidence:** Whitman/Flecker quotation-stitching is shown to be a generic technique used across many narrators with no shared voice tells, or the pill/place-pun register aligns more cleanly with an existing narrator signature.
 
+- **Cluster:** `N32` “Type” classifier / gilded metaphors + Wilde-allusion voice (confidence: `LIKELY`)
+  - **Pages:** Pages/cains_jawbone_page_65.md, Pages/cains_jawbone_page_89.md, Pages/cains_jawbone_page_90.md
+  - **Rationale:** A consistent narrator voice frames people as “types” and treats interpretation as competitive “harvest/gleaning”, with recurring gold/silver/green-leaf metaphors and embedded Wilde context (Earnest epigram; Whistler-to-Oscar jibe).
+  - **Key anchors:** “I thought I knew the type”; “learned in a macabre way, even distinguished”; “pigeon-holing by type”; gold/silver visual metaphors; “You will, Oscar, you will.”
+  - **Disconfirming evidence:** the repeated “type” judgement is shown to be a reused quotation, or the dining/hunting vignette (Pages 89–90) is later anchored to a clearly different narrator from Page 65’s reading/typing competition.
+
 - **Cluster:** `N04` Great Lexicographer / fealty voice (confidence: `CERTAIN`)
   - **Pages:** Pages/cains_jawbone_page_61.md, Pages/cains_jawbone_page_64.md
   - **Rationale:** Both pages use the distinctive “Great Lexicographer” anchor and similar learned, punning diction; fealty/reading-aloud framing suggests a consistent narrator segment.
@@ -270,9 +276,9 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Disconfirming evidence:** “to-day” references are purely decorative and do not resolve to dates or ordering constraints.
 
 - **Cluster:** `N02` Dog POV (confidence: `CERTAIN`)
-  - **Pages:** Pages/cains_jawbone_page_10.md, Pages/cains_jawbone_page_19.md, Pages/cains_jawbone_page_22.md, Pages/cains_jawbone_page_39.md, Pages/cains_jawbone_page_46.md, Pages/cains_jawbone_page_48.md, Pages/cains_jawbone_page_79.md, Pages/cains_jawbone_page_99.md
+  - **Pages:** Pages/cains_jawbone_page_10.md, Pages/cains_jawbone_page_19.md, Pages/cains_jawbone_page_22.md, Pages/cains_jawbone_page_39.md, Pages/cains_jawbone_page_46.md, Pages/cains_jawbone_page_48.md, Pages/cains_jawbone_page_79.md, Pages/cains_jawbone_page_88.md, Pages/cains_jawbone_page_99.md
   - **Rationale:** Explicit animal-coded reactions (ears pulled, “low noise”; tail “vibration” clue; mating/banishment behaviour) plus dog-coded details (chop; “nose” perspective) point to non-human narrator segments.
-  - **Key anchors:** pulled ears + low noise; “no vibration… of my latter end”; “lowered myself and made love”; “provided a chop for me”; “nearly fell on my nose”; “my mistress” framing + “could have howled”; coat/undercoat literalism (“inherited coat”) and “vicarious”→vicar misunderstanding.
+  - **Key anchors:** pulled ears + low noise; “no vibration… of my latter end”; “lowered myself and made love”; “provided a chop for me”; “nearly fell on my nose”; “my mistress” framing + “could have howled”; coat/undercoat literalism (“inherited coat”) and “vicarious”→vicar misunderstanding; Tate sugar hoarding + “I did not entirely understand” register.
   - **Disconfirming evidence:** later context shows these are human metaphors (or the POV is clearly human).
 
 - **Cluster:** `N03` Clement / pills / flowers-and-mercy register (confidence: `LIKELY`)
