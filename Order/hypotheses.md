@@ -23,11 +23,29 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Key anchors:** “mottled black and silver Aquarius”; “ruin my hand”; desserts/cocktails treated as titled items; “the Dawn”.
   - **Disconfirming evidence:** Alexander (“Ecky”) is later shown to be a different POV than the Aquarius-pen narrator, or “bad for the hand” is a widely shared motif across voices.
 
-- **Cluster:** Henry name occurrences (confidence: `MAYBE`)
-  - **Pages:** Pages/cains_jawbone_page_2.md, Pages/cains_jawbone_page_4.md, Pages/cains_jawbone_page_5.md, Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_16.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_26.md, Pages/cains_jawbone_page_31.md, Pages/cains_jawbone_page_32.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_41.md, Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_44.md, Pages/cains_jawbone_page_45.md, Pages/cains_jawbone_page_47.md, Pages/cains_jawbone_page_49.md, Pages/cains_jawbone_page_58.md, Pages/cains_jawbone_page_60.md, Pages/cains_jawbone_page_63.md, Pages/cains_jawbone_page_68.md, Pages/cains_jawbone_page_71.md, Pages/cains_jawbone_page_76.md, Pages/cains_jawbone_page_77.md, Pages/cains_jawbone_page_78.md, Pages/cains_jawbone_page_80.md, Pages/cains_jawbone_page_82.md, Pages/cains_jawbone_page_83.md, Pages/cains_jawbone_page_85.md, Pages/cains_jawbone_page_86.md, Pages/cains_jawbone_page_87.md, Pages/cains_jawbone_page_91.md, Pages/cains_jawbone_page_92.md, Pages/cains_jawbone_page_94.md, Pages/cains_jawbone_page_97.md, Pages/cains_jawbone_page_100.md
-  - **Rationale:** “Henry” appears across multiple scenes with shifting roles; may be one person or multiple people sharing the name.
-  - **Key anchors:** “Lesurques” (Courier of Lyons?) role reference; ruined lighthouse + “Emperor’s Peg”; capstan-bar / dog-watch nautical register; Henry stooping/cleaning and handling bodies; Page 21’s “latest victim” + blood; Page 26’s “first two killings” + companion/rector’s aunt; Page 35’s police manhunt; Page 36’s buried corpse detail + “made up”; Pages 41–45 marriage/murder framing (certificate/corpse); Pages 47/49 attraction + “doomed to destroy… for family reasons”; Page 58’s “third/fourth” victims; Page 60’s “peerless investigator” role.
-  - **Disconfirming evidence:** later pages give different surnames/biographical details for each “Henry”, or show mutually exclusive locations/timelines.
+- **Cluster:** `N12` Calabar/digitalis poison-logistics + murder-as-genre voice (confidence: `LIKELY`)
+  - **Pages:** Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_26.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_58.md, Pages/cains_jawbone_page_60.md (MAYBE: Pages/cains_jawbone_page_29.md)
+  - **Rationale:** Shared poison anchors (Calabar/digitalis) and a consistent practical, darkly comic “murder mechanics” register (counts, pursuit set-pieces, try-again planning) suggest a stable narrator signature.
+  - **Key anchors:** Calabar bean/physostigma; digitalis; murder-counting language; “Murders were funny things”; “give him another day”.
+  - **Disconfirming evidence:** Calabar/digitalis references recur widely across unrelated voices, or the pursuit/murder-count tone is shown to be a separate narrator from the poison-logistics pages.
+
+- **Cluster:** `N13` Host/guest poisoning + coastal-house segment (confidence: `LIKELY`)
+  - **Pages:** Pages/cains_jawbone_page_86.md, Pages/cains_jawbone_page_87.md (MAYBE: Pages/cains_jawbone_page_80.md)
+  - **Rationale:** Pages 86–87 share a continuous host/guest/patient poisoning frame with Yeats/Whitman quotations and a distinctive coastal-house setting; this reads as a coherent narrator segment.
+  - **Key anchors:** Caroline Jasmine; Mithradates inoculation; Yeats “bent low and low…” continuation; bay landscape → corpse imagery.
+  - **Disconfirming evidence:** the apparent continuation is later shown to be coincidental (e.g., cut-and-paste echo) with incompatible settings/participants.
+
+- **Cluster:** `N15` “Green” victim + Compact syringe (first killing) voice (confidence: `LIKELY`)
+  - **Pages:** Pages/cains_jawbone_page_76.md, Pages/cains_jawbone_page_77.md
+  - **Rationale:** A consistent self-justifying voice frames a named target (Green) and an explicitly admitted “first” killing, with a specific method/tool cue (Compact hypodermic) and a shared date-anchor habit (Perceval).
+  - **Key anchors:** victim named Green; “it was my first”; “Compact” syringe; Spencer Perceval assassination reference.
+  - **Disconfirming evidence:** “my first” is non-lethal, or Green/Perceval anchors resolve as unrelated allusions in different voices.
+
+- **Cluster:** Henry occurrences (unassigned to narrator IDs) (confidence: `MAYBE`)
+  - **Pages:** Pages/cains_jawbone_page_2.md, Pages/cains_jawbone_page_4.md, Pages/cains_jawbone_page_5.md, Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_16.md, Pages/cains_jawbone_page_31.md, Pages/cains_jawbone_page_41.md, Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_44.md, Pages/cains_jawbone_page_45.md, Pages/cains_jawbone_page_47.md, Pages/cains_jawbone_page_49.md, Pages/cains_jawbone_page_78.md, Pages/cains_jawbone_page_82.md, Pages/cains_jawbone_page_92.md, Pages/cains_jawbone_page_100.md
+  - **Rationale:** “Henry” remains a cross-cutting name that appears in multiple voices and roles; treat this as a residual bucket while narrator-signature clusters (e.g., `N03`, `N06`, `N07`, `N08`, `N09`, `N10`, `N11`, `N12`, `N13`, `N15`) are used to disambiguate.
+  - **Key anchors:** early coastal/lighthouse + “Emperor’s Peg”; capstan-bar / dog-watch nautical register; corpse-handling scenes; marriage certificate/incinerator detail; Scotland Yard/collapse framing.
+  - **Disconfirming evidence:** a single stable surname/biography links the remaining occurrences as one Henry across incompatible settings, or clear textual evidence splits them into multiple different Henrys.
 
 - **Cluster:** `N04` Great Lexicographer / fealty voice (confidence: `CERTAIN`)
   - **Pages:** Pages/cains_jawbone_page_61.md, Pages/cains_jawbone_page_64.md
@@ -35,11 +53,17 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Key anchors:** “Great Lexicographer”; Ockham’s razor joke; McLeod of that ilk; Bellerophon letters / bait/hook metaphor.
   - **Disconfirming evidence:** later pages show different narrators/settings using “Great Lexicographer” independently, or the McLeod/Johnson linkage is disproved.
 
-- **Cluster:** Sundaes + named sweets (confidence: `MAYBE`)
+- **Cluster:** Menu-title sweets (Lover’s Delight/Banana Split/Rainbow) (confidence: `MAYBE`)
   - **Pages:** Pages/cains_jawbone_page_43.md, Pages/cains_jawbone_page_60.md, Pages/cains_jawbone_page_63.md
-  - **Rationale:** Repeated named desserts and talk of sundaes (“Lover’s Delight”, Banana Split, “Rainbow”, Lent rule) suggests venue/menu continuity or a narrator fixation.
-  - **Key anchors:** “Lover’s Delight” sundae; Banana Split; “Rainbow”; Lent constraint on sundaes; recurring “Henry” mention in the same cluster.
-  - **Disconfirming evidence:** later context shows these are isolated jokes with no shared setting/characters.
+  - **Rationale:** Repeated named desserts and explicit sundae rules (including Lent) suggest either shared venue/menu continuity or a deliberately reused motif across voices (e.g., `N01`/`N12`/`N14`).
+  - **Key anchors:** “Lover’s Delight”; Banana Split; “Rainbow”; Lent “second Sundae” constraint.
+  - **Disconfirming evidence:** later context shows the terms are generic one-off jokes with no recurrence or shared setting.
+
+- **Cluster:** `N14` Babbie / Rainbow Sundae / hair-and-allusion voice (confidence: `MAYBE`)
+  - **Pages:** Pages/cains_jawbone_page_63.md
+  - **Rationale:** A distinctive infatuated, performatively learned voice combines French verse with dessert-order rules and an obsession with attributing writers, while observing Henry being “tried out” (cap on/off).
+  - **Key anchors:** Babbie’s hair fixation; Baudelaire “La Chevelure”; “Rainbow” + Lent “second Sundae” rule; “I have always hated that these writers should be anonymous.”
+  - **Disconfirming evidence:** later pages show the same motifs used casually by multiple unrelated narrators, or Page 63’s Henry is proven to be a different referent (not the recurring character-name).
 
 - **Cluster:** `N05` School nostalgia + chapel (confidence: `LIKELY`)
   - **Pages:** Pages/cains_jawbone_page_66.md, Pages/cains_jawbone_page_67.md, Pages/cains_jawbone_page_68.md
@@ -126,9 +150,9 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Disconfirming evidence:** “capstan”/“dog” language is shown to be metaphorical/non-nautical.
 
 - **Cluster:** Cocktail-bar seduction (confidence: `MAYBE`)
-  - **Pages:** Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_43.md, Pages/cains_jawbone_page_60.md
-  - **Rationale:** Pages 42–43 foreground a woman in a drinking setting with drink/dessert titles; Page 60 orders a “Lover’s Delight” sundae, suggesting the same menu/venue vocabulary may recur.
-  - **Key anchors:** “cocktail after cocktail”; cigarette; “Lover’s Delight” / “Banana Split” / “the Dawn”; Henry guiding narrator (Page 42); Alexander (“Ecky”) narrator voice (Page 43); Page 60’s “Lover’s Delight” sundae.
+  - **Pages:** Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_43.md
+  - **Rationale:** Both pages foreground a woman in a drinking/seduction setting, with strong sensory fixation and menu/venue vocabulary (“the Dawn”; named desserts/drinks).
+  - **Key anchors:** “cocktail after cocktail”; cigarette; “the Dawn”; “Lover’s Delight” / Banana Split; Henry guiding narrator (Page 42); Alexander (“Ecky”) narrator voice (Page 43).
   - **Disconfirming evidence:** later pages show these are separate narrators/venues and the drink/dessert titles do not recur together.
 
 - **Cluster:** Westphalian ham + paper-reading (confidence: `MAYBE`)
