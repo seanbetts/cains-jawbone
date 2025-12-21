@@ -42,10 +42,10 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Disconfirming evidence:** “my first” is non-lethal, or Green/Perceval anchors resolve as unrelated allusions in different voices.
 
 - **Cluster:** `N16` St. Bruno / smell-memory + incinerator-evidence voice (confidence: `LIKELY`)
-  - **Pages:** Pages/cains_jawbone_page_44.md, Pages/cains_jawbone_page_45.md
-  - **Rationale:** Both pages pivot via sensory triggers and self-aware narration while tracking “Henry’s problem”, mixing evidence-destruction detail with proverb-twisting and brand/food listing.
-  - **Key anchors:** “first St. Bruno”; Vera Cruz fonda memory; half-burned marriage certificate in an incinerator; Epicam/Royans aux Achard/Villacabras list; “stealing at the doors”.
-  - **Disconfirming evidence:** Page 44’s smell-memory + incinerator thread is later shown to be a different narrator/context than Page 45’s proverb/menu/stealth scene.
+  - **Pages:** Pages/cains_jawbone_page_7.md, Pages/cains_jawbone_page_44.md, Pages/cains_jawbone_page_45.md, Pages/cains_jawbone_page_55.md
+  - **Rationale:** A consistent narrator signature uses smell/odour as an organising device (including synaesthetic metaphors), with self-aware narration and abrupt associative pivots; Pages 44–45 add Henry-focused “problem/evidence” detail to the same sensory-first register.
+  - **Key anchors:** “Smells meant a lot to me”; “Jew’s lime… concomitant odour”; “first St. Bruno”; Vera Cruz fonda memory; half-burned marriage certificate in an incinerator; medlar+vine “two notes of a chord” (venetian red/peridot).
+  - **Disconfirming evidence:** Page 7 or Page 55 is later shown to be a different narrator/scene using smell imagery incidentally, or the Henry/Hodge anchors in Pages 44–45 are proven to belong to a separate voice from the smell-synaesthesia register.
 
 - **Cluster:** `N17` Dog-watch/capstan + Kipling-quoting punster voice (confidence: `LIKELY`)
   - **Pages:** Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_41.md
