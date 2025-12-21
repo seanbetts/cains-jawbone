@@ -44,12 +44,12 @@ These are **cross-narrator** groupings intended to reduce the search space for P
   - **Rationale:** Multiple pages foreground documents/papers/letters (wills, interviews, “bits of paper”, magazines, signatures) tightly coupled to money pressure, leverage, or transaction-like scenes.
   - **Key anchors:** will/inheritance talk; forgery/handwriting manipulation; “papers” handled in an interview-like frame; “valuable services rendered”; franked letter/package to “the girl”; Café Royal time-budget + written account; “signatures were his business”; money changing hands “slowly” for later description.
   - **Disconfirming evidence:** paper artifacts are shown to be a generic, widely used prop with no consistent voice/participant continuity (e.g., May/Henry clearly differ across all instances).
-  - **Next falsification check:** keep this as an umbrella and track sub-strands by stronger anchors:
-    - will/estate/forgery pages (`N10`/`N39`/`N18`) (Pages/cains_jawbone_page_12.md, Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_28.md, Pages/cains_jawbone_page_50.md, Pages/cains_jawbone_page_78.md)
-    - interview/bills/papers pages (`N25`) (Pages/cains_jawbone_page_33.md, Pages/cains_jawbone_page_34.md, Pages/cains_jawbone_page_52.md, Pages/cains_jawbone_page_53.md, Pages/cains_jawbone_page_57.md)
-    - old man/blackmail letter pages (`N09`) (Pages/cains_jawbone_page_68.md, Pages/cains_jawbone_page_69.md, Pages/cains_jawbone_page_70.md, Pages/cains_jawbone_page_95.md, Pages/cains_jawbone_page_96.md)
-    - singleton anchors: rupee chapter (`N35`) (Pages/cains_jawbone_page_18.md), bills-in-the-paper/matches (`N40`) (Pages/cains_jawbone_page_23.md), magazine meta (`N33`) (Pages/cains_jawbone_page_72.md), signatures/death-warrant talk (`N32`) (Pages/cains_jawbone_page_89.md), medical-payoff meeting (`N38`) (Pages/cains_jawbone_page_98.md)
-    - check for cross-sub-strand bridges via repeated participants (people-index suggests `P16` May in Pages/cains_jawbone_page_14.md + Pages/cains_jawbone_page_98.md; `P01` Henry in Pages/cains_jawbone_page_14.md + Pages/cains_jawbone_page_68.md + Pages/cains_jawbone_page_78.md; and `P61` “poor old man” concentrated in Pages/cains_jawbone_page_68.md + Pages/cains_jawbone_page_69.md + Pages/cains_jawbone_page_70.md) before merging.
+  - **Sub-strands (working):**
+    - will/estate/forgery (`N10`/`N39`/`N18`): Pages/cains_jawbone_page_12.md, Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_28.md, Pages/cains_jawbone_page_50.md, Pages/cains_jawbone_page_78.md
+    - interview/bills/papers (`N25`): Pages/cains_jawbone_page_33.md, Pages/cains_jawbone_page_34.md, Pages/cains_jawbone_page_52.md, Pages/cains_jawbone_page_53.md, Pages/cains_jawbone_page_57.md
+    - old man/blackmail letters (`N09`): Pages/cains_jawbone_page_68.md, Pages/cains_jawbone_page_69.md, Pages/cains_jawbone_page_70.md, Pages/cains_jawbone_page_95.md, Pages/cains_jawbone_page_96.md
+    - singletons: rupee chapter (`N35`) (Pages/cains_jawbone_page_18.md); bills-in-the-paper/matches (`N40`) (Pages/cains_jawbone_page_23.md); magazine meta (`N33`) (Pages/cains_jawbone_page_72.md); signatures/death-warrant talk (`N32`) (Pages/cains_jawbone_page_89.md); medical-payoff meeting (`N38`) (Pages/cains_jawbone_page_98.md)
+  - **Next falsification check:** maintain the sub-strands above and only merge across them when a shared participant/object or repeated non-generic phrasing recurs; check for cross-sub-strand bridges via repeated participants (people-index suggests `P16` May in Pages/cains_jawbone_page_14.md + Pages/cains_jawbone_page_98.md; `P01` Henry in Pages/cains_jawbone_page_14.md + Pages/cains_jawbone_page_68.md + Pages/cains_jawbone_page_78.md; and `P61` “poor old man” concentrated in Pages/cains_jawbone_page_68.md + Pages/cains_jawbone_page_69.md + Pages/cains_jawbone_page_70.md) before merging.
 
 - **Cluster:** Detective/police + violence scenes strand (confidence: `MAYBE`)
   - **Pages:** Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_31.md, Pages/cains_jawbone_page_81.md, Pages/cains_jawbone_page_82.md, Pages/cains_jawbone_page_85.md, Pages/cains_jawbone_page_91.md, Pages/cains_jawbone_page_94.md, Pages/cains_jawbone_page_100.md
@@ -430,12 +430,16 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Pages:** Pages/cains_jawbone_page_8.md, Pages/cains_jawbone_page_10.md, Pages/cains_jawbone_page_19.md
   - **Rationale:** Page 19’s “Human Comedy… beyond to-day” strongly suggests Balzac’s death date, aligning with Page 8’s Guido/Kilmarnock/Balmerino “to-day”; Page 10 supplies nearby “Hyacinth’s day / Jasmine’s day” with an explicit 2‑day offset.
   - **Key anchors:** Guido/Kilmarnock/Balmerino “to-day”; “Human Comedy” “to-day”; Hyacinth/Jasmine day-names + “went back two days”.
+  - **Sub-strands (working):**
+    - `N02` dog POV date-layer subset: Pages/cains_jawbone_page_8.md, Pages/cains_jawbone_page_10.md, Pages/cains_jawbone_page_19.md
   - **Disconfirming evidence:** dates don’t align when verified, or “day” terms are private nicknames rather than calendar anchors.
 
 - **Cluster:** Mr. Hall + knob mechanism (confidence: `LIKELY`)
   - **Pages:** Pages/cains_jawbone_page_8.md, Pages/cains_jawbone_page_19.md
   - **Rationale:** Both pages feature “twiddling” a (black/polished) knob followed by Mr. Hall entering; suggests the same scene/device.
   - **Key anchors:** repeated Mr. Hall entrances; knob described as black/red vs polished.
+  - **Sub-strands (working):**
+    - `N02` dog POV scene-mechanic anchor: Pages/cains_jawbone_page_8.md, Pages/cains_jawbone_page_19.md
   - **Disconfirming evidence:** later pages show multiple unrelated Mr. Hall contexts or different mechanisms.
 
 - **Cluster:** `N10` Will/document eavesdropper voice (confidence: `MAYBE`)
@@ -448,6 +452,10 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Pages:** Pages/cains_jawbone_page_12.md, Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_28.md, Pages/cains_jawbone_page_50.md, Pages/cains_jawbone_page_78.md
   - **Rationale:** Pages 12/14 centre wills/“leave everything” talk; Page 28 adds a “forging” scheme while “the woman was not yet dead”; Page 50 explicitly says “The will was there” with a man working over “strange pens”; Page 78 describes “mimic artistry” and a “soon to be dead woman’s” memorial being guided by a “falser hand”.
   - **Key anchors:** documents + “abstracted will”; overheard “leave everything to me… May”; “Forging ahead… since the woman was not yet dead”; Page 50’s caseful of pens + will-at-table scene.
+  - **Sub-strands (working):**
+    - `N10` will/document eavesdropper: Pages/cains_jawbone_page_12.md, Pages/cains_jawbone_page_14.md
+    - `N39` will/forgery voice: Pages/cains_jawbone_page_28.md, Pages/cains_jawbone_page_50.md
+    - `N18` falser-hand forgery voice: Pages/cains_jawbone_page_78.md
   - **Disconfirming evidence:** later pages show these are unrelated conversations (different May/setting).
 
 - **Cluster:** Nautical timekeeping register (confidence: `MAYBE`)
@@ -472,24 +480,41 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Pages:** Pages/cains_jawbone_page_52.md, Pages/cains_jawbone_page_57.md
   - **Rationale:** Both pages use Westphalian ham as a table-setting while someone handles/reads “papers/bits of paper”, suggesting a shared interview or clue-reading scene.
   - **Key anchors:** Westphalian ham; “papers” / “bits of paper”; shared table/companionship.
+  - **Sub-strands (working):**
+    - `N25` interviewer/papers voice: Pages/cains_jawbone_page_52.md, Pages/cains_jawbone_page_57.md
   - **Disconfirming evidence:** Westphalian ham is merely decorative and appears across unrelated scenes with no consistent narrator/setting.
 
 - **Cluster:** Whitman quotations (confidence: `MAYBE`)
   - **Pages:** Pages/cains_jawbone_page_32.md, Pages/cains_jawbone_page_40.md, Pages/cains_jawbone_page_51.md
-  - **Rationale:** Multiple explicit Whitman snippets suggest a shared narrator reading set or a deliberate “Whitman voice” cluster.
+  - **Rationale:** Multiple explicit Whitman snippets suggest a shared narrator reading set or a deliberate “Whitman voice” motif layer (see also the Phase 3 macro cluster “Whitman quotation collage”).
   - **Key anchors:** Page 32’s Whitman “good fortune” quote + scansion talk; Page 51’s “I dance with the dancers…” and other Whitman lines.
+  - **Sub-strands (working):**
+    - `N03` Clement voice with Whitman layer: Pages/cains_jawbone_page_32.md
+    - `N31` Surrey place-pun + Whitman/botany register: Pages/cains_jawbone_page_40.md
+    - `N36` passing-through travel + heartbeat + Whitman cadence: Pages/cains_jawbone_page_51.md
   - **Disconfirming evidence:** Whitman lines appear scattered across many unrelated narrators without other shared tells.
 
 - **Cluster:** Plant/poison thread (confidence: `MAYBE`)
   - **Pages:** Pages/cains_jawbone_page_6.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_24.md, Pages/cains_jawbone_page_29.md, Pages/cains_jawbone_page_30.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_40.md, Pages/cains_jawbone_page_54.md, Pages/cains_jawbone_page_59.md, Pages/cains_jawbone_page_75.md, Pages/cains_jawbone_page_80.md
   - **Rationale:** Repeated botanical poison language (foxgloves/digitalis, calabar/physostigma, hellebore, lobelia, “lords and ladies”, gardenia taxonomy) suggests a shared narrator expertise or method thread.
   - **Key anchors:** “foxgloves” / “digitalis purpurea”; “Calabar Bean” / “physostigma” / “old Calabar”; “hellebore”; lobelia + “lords and ladies”; Cape Jasmine/gardenia precision; beans/pill + potato leaves; Page 54’s “pestle a poisoned poison” + “green blood” horticulture; Page 59’s gelsemium (yellow jasmine).
+  - **Sub-strands (working):**
+    - `N12` poison logistics subset: Pages/cains_jawbone_page_6.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_29.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_59.md
+    - `N03` Clement/pills/flowers subset: Pages/cains_jawbone_page_24.md, Pages/cains_jawbone_page_30.md
+    - singletons / bridges: `N31` (Pages/cains_jawbone_page_40.md), `N26` (Pages/cains_jawbone_page_54.md), `N06` (Pages/cains_jawbone_page_75.md), `N13` (Pages/cains_jawbone_page_80.md)
   - **Disconfirming evidence:** later pages show these are isolated metaphors with no shared voice/continuity.
 
 - **Cluster:** “To-day” as historical date marker (confidence: `MAYBE`)
   - **Pages:** Pages/cains_jawbone_page_52.md, Pages/cains_jawbone_page_54.md, Pages/cains_jawbone_page_55.md, Pages/cains_jawbone_page_60.md, Pages/cains_jawbone_page_77.md, Pages/cains_jawbone_page_84.md
   - **Rationale:** Each page ties “to-day” to a specific historical event/holiday (diamond necklace acquittal; Waterloo/La Belle Alliance; a “fifth” deliverance holiday), suggesting calendar-key ordering mechanics.
   - **Key anchors:** Diamond Necklace cardinal acquittal; “meeting at La Belle Alliance”; “James… the Earl and his brother Alexander”; Francis Ferdinand’s murder reference.
+  - **Sub-strands (working):**
+    - `N25` papers/interview date hook: Pages/cains_jawbone_page_52.md
+    - `N26` breakfast/second-sight date hook: Pages/cains_jawbone_page_54.md
+    - `N16` smell-memory date hook: Pages/cains_jawbone_page_55.md
+    - `N12` poison logistics date hook: Pages/cains_jawbone_page_60.md
+    - `N15` assassination-date hook: Pages/cains_jawbone_page_77.md
+    - `N37` deceased-introduction date hook: Pages/cains_jawbone_page_84.md
   - **Disconfirming evidence:** “to-day” references are purely decorative and do not resolve to dates or ordering constraints.
 
 - **Cluster:** `N02` Dog POV (confidence: `CERTAIN`)
@@ -508,6 +533,8 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Pages:** Pages/cains_jawbone_page_33.md, Pages/cains_jawbone_page_34.md
   - **Rationale:** Repeated debt/bill language suggests a continuity hook or blackmail/payoff thread.
   - **Key anchors:** “I always pay my debts” label; “Bills should always be met squarely”; “valuable services rendered”.
+  - **Sub-strands (working):**
+    - `N25` interviewer/papers voice: Pages/cains_jawbone_page_33.md, Pages/cains_jawbone_page_34.md
   - **Disconfirming evidence:** later pages show the phrasing is purely proverbial and does not recur or connect to the will/forgery thread.
 
 ## Candidate sequences
