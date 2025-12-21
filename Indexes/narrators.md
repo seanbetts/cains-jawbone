@@ -27,10 +27,10 @@ Template:
 - `N02` — Dog POV (domestic + hunting):
   - **Signature tells:** explicit dog-coded bodily perspective (ears pulled; “low noise”; “nose” POV); mating/banishment narrative; hunting/retrieval register (Lagopus scoticus/red grouse); dog medicine ingestion (Bob Martin); secret sugar stash; self-description as a dog.
   - **Likely identity (if any):** a dog narrator (breed MAYBE Skye terrier).
-  - **Pages:** Pages/cains_jawbone_page_19.md, Pages/cains_jawbone_page_22.md, Pages/cains_jawbone_page_46.md, Pages/cains_jawbone_page_48.md, Pages/cains_jawbone_page_79.md, Pages/cains_jawbone_page_99.md
+  - **Pages:** Pages/cains_jawbone_page_10.md, Pages/cains_jawbone_page_19.md, Pages/cains_jawbone_page_22.md, Pages/cains_jawbone_page_39.md, Pages/cains_jawbone_page_46.md, Pages/cains_jawbone_page_48.md, Pages/cains_jawbone_page_79.md, Pages/cains_jawbone_page_99.md
   - **Confidence:** `CERTAIN`
   - **Disconfirming evidence:** any page in this set gives an unequivocal human-only physical situation (not idiom/metaphor) incompatible with dog POV.
-  - **Notes:** Pages/cains_jawbone_page_8.md has overlapping “Mr. Hall”/bell-push mechanics and self-deprecation; keep as MAYBE overlap until a stronger tie-breaker appears.
+  - **Notes:** Pages/cains_jawbone_page_8.md has overlapping “Mr. Hall”/bell-push mechanics and self-deprecation; keep as MAYBE overlap until a stronger tie-breaker appears. Pages 10 and 39 lean on “mistress/coat” language and naive literalism (e.g., “vicarious”→vicar) consistent with dog POV.
 
 - `N03` — Clement / pills / flowers-and-mercy register:
   - **Signature tells:** transactional planning + pills/“assassin’s wonderful substance”; publisher/book-world references; plant/flower precision (hellebore, wild jasmine, roses); declared hardness (“quality of mercy… little exerted”); job/instructions framing; scansion/poetry awareness.
@@ -211,10 +211,10 @@ Template:
 - `N25` — Quicksands-of-crime interviewer / papers voice:
   - **Signature tells:** moralising crime/innocence language; meta “commentary/ironic comment” framing; contemptuous epithets for the subject (“well-fed swine”); interview mechanics when present (door opens/shuts; “papers” handled); pointed food tells (Westphalian ham; cucumber sandwiches); money/blackmail pressure language (“Bills should always be met squarely”; “reward for valuable services rendered”).
   - **Likely identity (if any):** unknown.
-  - **Pages:** Pages/cains_jawbone_page_34.md, Pages/cains_jawbone_page_52.md, Pages/cains_jawbone_page_53.md
+  - **Pages:** Pages/cains_jawbone_page_33.md, Pages/cains_jawbone_page_34.md, Pages/cains_jawbone_page_52.md, Pages/cains_jawbone_page_53.md
   - **Confidence:** `LIKELY`
   - **Disconfirming evidence:** Page 34’s “ironic comment” / “innocent child” rhetoric is shown to be a generic register reused across unrelated narrators, or the “interview/papers” mechanics in Page 52 are later anchored to a different narrator/setting.
-  - **Notes:** MAYBE overlap: Pages/cains_jawbone_page_57.md (Westphalian ham + “bits of paper” reading) if the table/reading scene is later shown to be the same narrator segment.
+  - **Notes:** Page 33 shares the debt/bills framing (“I always pay my debts”) and clandestine observation (“behind the armchair”) but lacks the explicit “interview/papers” mechanics. MAYBE overlap: Pages/cains_jawbone_page_57.md (Westphalian ham + “bits of paper” reading) if the table/reading scene is later shown to be the same narrator segment.
 
 - `N26` — “Awful and literal sense” breakfast-recapping / second-sight voice:
   - **Signature tells:** the distinctive parenthetical aside “in the awful and literal sense of the word”; morning/breakfast domesticity; insomnia + “recapitulation” framing; claimed second-sight wordplay (“Clare” → clairvoyant/clairaudient).
@@ -231,3 +231,35 @@ Template:
   - **Confidence:** `MAYBE`
   - **Disconfirming evidence:** “Peebles University” and the Day/Knight blackboard pun recur under a clearly different narrator voice, or Page 9 is later shown to be a quoted anecdote rather than the narrator’s lived scene.
   - **Notes:** MAYBE character overlap with the “old mineralogist” target in Pages/cains_jawbone_page_29.md, but treat that as a cast hypothesis, not a narrator merge.
+
+- `N28` — Window-throw / “no detective” voice:
+  - **Signature tells:** black-humoured self-exculpation (“thank goodness, I was no detective”) embedded in a hands-on violence vignette (tidying socks, heaving a victim out of a window); quotation-stitching (Browning + Shakespeare) used as narration rather than decoration; misheard dying-words riff (“Band, Speckled”).
+  - **Likely identity (if any):** unknown.
+  - **Pages:** Pages/cains_jawbone_page_81.md
+  - **Confidence:** `MAYBE`
+  - **Disconfirming evidence:** the scene is later shown to be metaphorical or an embedded quotation/story recounted by a different, identifiable narrator, or the same “no detective” self-exculpation appears under an incompatible voice elsewhere.
+  - **Notes:** Overlaps the Holmes/Speckled Band motif, but the narrator distances themself from detective identity.
+
+- `N29` — Post‑Vorticists / Firbank / “chamber within chamber” anxiety voice:
+  - **Signature tells:** art-world framing (post‑Vorticists private view); high-society decor cues (rococo mirror; brimming jasmine bowl); biographical name-drop (Ronald Firbank in Malta); weapon/evidence lexicon (“bores”; “chamber within chamber”) tied to fear of credibility (“who would believe me?”).
+  - **Likely identity (if any):** unknown.
+  - **Pages:** Pages/cains_jawbone_page_37.md
+  - **Confidence:** `MAYBE`
+  - **Disconfirming evidence:** the art/Firbank layer is later shown to be detachable quotation collage used by multiple narrators, or the “bores/chambers” language is proven to be non-weapon and the voice aligns better with an existing narrator signature.
+  - **Notes:** Shares a yellow-jasmine motif with other pages but should not be merged on motif alone.
+
+- `N30` — Southend “tragic fortnight” / Sonia Gordon + omelette-stab voice:
+  - **Signature tells:** classical self-consciousness (“Video meliora proboque”) combined with covert observation (fixation on elbow “fossettes”) and a remembered Southend episode; abrupt violence language (“as I stabbed once”) colliding with culinary metaphor (omelette/eggs) and deliberate misnaming (Brontë for Corday in the Marat vignette).
+  - **Likely identity (if any):** unknown.
+  - **Pages:** Pages/cains_jawbone_page_38.md
+  - **Confidence:** `MAYBE`
+  - **Disconfirming evidence:** “stabbed” is later shown to be purely culinary (cutting an omelette), or the Sonia Gordon/Southend anchors recur under a clearly different narrator voice.
+  - **Notes:** Southend also appears elsewhere (e.g., Pages/cains_jawbone_page_100.md), but the voice/register here is distinct.
+
+- `N31` — Flecker/Whitman compost + Surrey place-pun + pill voice:
+  - **Signature tells:** dense allusive weave with intentional substitution inside quotations (Flecker name inserted into a Flecker-ghazel line); Whitman’s compost imagery (“winds… not infectious”, bean/potato growth) used as narrative grounding; pill-taking + self-correction (“I had probably got it wrong… Yet it was all right.”); place-name punning (Thames Ditton/Long Ditton).
+  - **Likely identity (if any):** unknown.
+  - **Pages:** Pages/cains_jawbone_page_40.md
+  - **Confidence:** `MAYBE`
+  - **Disconfirming evidence:** Whitman/Flecker quotation-stitching is shown to be a generic technique used across many narrators with no shared voice tells, or the pill/place-pun register aligns more cleanly with an existing narrator signature.
+  - **Notes:** Potential overlap with other Whitman-quoting pages; keep this as a voice hypothesis, not a poem-source cluster.
