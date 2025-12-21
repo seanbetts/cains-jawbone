@@ -35,10 +35,10 @@ Template:
 - `N03` — Clement / pills / flowers-and-mercy register:
   - **Signature tells:** transactional planning + pills/“assassin’s wonderful substance”; publisher/book-world references; plant/flower precision (hellebore, wild jasmine, roses); declared hardness (“quality of mercy… little exerted”); job/instructions framing; scansion/poetry awareness.
   - **Likely identity (if any):** MAYBE a narrator named Clement (Page 24’s pope-name clue), but Page 3 also treats “Clement” as a met person → keep pending disambiguation.
-  - **Pages:** Pages/cains_jawbone_page_3.md, Pages/cains_jawbone_page_24.md, Pages/cains_jawbone_page_27.md, Pages/cains_jawbone_page_32.md
+  - **Pages:** Pages/cains_jawbone_page_3.md, Pages/cains_jawbone_page_24.md, Pages/cains_jawbone_page_27.md, Pages/cains_jawbone_page_30.md, Pages/cains_jawbone_page_32.md
   - **Confidence:** `LIKELY`
   - **Disconfirming evidence:** Page 24’s pope-name clue is proven unrelated to narrator identity, or Page 3’s “Clement” is later clearly identified as a different person from Page 24’s name-bearer.
-  - **Notes:** This narrator overlaps heavily with plant/poison motifs; avoid merging on motif alone.
+  - **Notes:** This narrator overlaps heavily with plant/poison motifs; avoid merging on motif alone. Page 30 is a `MAYBE` extension keyed by gardenia/Cape Jasmine taxonomy + suspicion-testing voice.
 
 - `N04` — Great Lexicographer / fealty voice:
   - **Signature tells:** “Great Lexicographer” (Johnson) family-namesake framing; Ockham “razor” pun; bilingual quotations; clan/fealty language; learned allusion interleaved with personal devotion.
@@ -59,10 +59,10 @@ Template:
 - `N06` — Orator/artist + flowers/documents/OGPU voice:
   - **Signature tells:** performative rhetoric (“orator’s joys”); art-identity clue (Augustus John); French poetry; sensual “initiation” memory; secrecy/blackmail register; OGPU/Leningrad mention; failing eyesight; flower/rose fixation; Browning allusions.
   - **Likely identity (if any):** educated, cosmopolitan narrator with art/theatre leanings.
-  - **Pages:** Pages/cains_jawbone_page_73.md, Pages/cains_jawbone_page_74.md, Pages/cains_jawbone_page_75.md, Pages/cains_jawbone_page_83.md
+  - **Pages:** Pages/cains_jawbone_page_71.md, Pages/cains_jawbone_page_73.md, Pages/cains_jawbone_page_74.md, Pages/cains_jawbone_page_75.md, Pages/cains_jawbone_page_83.md
   - **Confidence:** `LIKELY`
-  - **Disconfirming evidence:** if Pages/cains_jawbone_page_83.md’s flower thread is shown to be a different setting/voice than the 73→74→75 segment.
-  - **Notes:** This cluster may intersect `N05` via “the Head” reference; do not merge without additional shared tells beyond that single anchor.
+  - **Disconfirming evidence:** if Pages/cains_jawbone_page_71.md’s May/eyes thread is shown to be a different narrator from the flower/documents segment (73–75/83), or if Pages/cains_jawbone_page_83.md’s flower thread is shown to be a different setting/voice than the 73→74→75 segment.
+  - **Notes:** Pages/cains_jawbone_page_71.md is a `MAYBE` extension keyed by “red May” + eyesight trouble + the same classical-name register. This cluster may intersect `N05` via “the Head” reference; do not merge without additional shared tells beyond that single anchor.
 
 - `N07` — Bunny & Perry (Pro/Con) internal debate voice:
   - **Signature tells:** internal argument personified (“Bunny and Perry… Pro and Con”); tennis/rowing venue shifts; pill-taking; dense quotation-and-allusion weaving; nausea + “a thing I had never done before” framing.
@@ -75,10 +75,10 @@ Template:
 - `N08` — King (“Kipling” name-jibe) narrator:
   - **Signature tells:** self-conscious nameplay (schoolboy jibe “Kipling”); narrator sees their own name printed in a window-sign; Henry present in-scene; detective/allusion density (Holmes/Sexton Blake / Baker Street framing).
   - **Likely identity (if any):** LIKELY surname King (see `Indexes/people.md` `P99`).
-  - **Pages:** Pages/cains_jawbone_page_82.md, Pages/cains_jawbone_page_85.md, Pages/cains_jawbone_page_94.md
+  - **Pages:** Pages/cains_jawbone_page_15.md, Pages/cains_jawbone_page_82.md, Pages/cains_jawbone_page_85.md, Pages/cains_jawbone_page_94.md
   - **Confidence:** `LIKELY`
-  - **Disconfirming evidence:** “Kipling” wordplay resolves differently, or the window-sign name is not the narrator’s.
-  - **Notes:** Page 82 shares the table/Henry + barking-dog frame with Page 85 but lacks the explicit nameplay/window-sign anchors; keep it under `N08` with `MAYBE` confidence. MAYBE overlaps: Pages/cains_jawbone_page_100.md (Henry + Scotland Yard + collapse).
+  - **Disconfirming evidence:** “Kipling” wordplay resolves differently, the window-sign name is not the narrator’s, or Page 15’s “Bart” is not the same dog as Bartholomew in Page 82.
+  - **Notes:** Page 82 shares the table/Henry + barking-dog frame with Page 85 but lacks the explicit nameplay/window-sign anchors; keep it under `N08` with `MAYBE` confidence. Page 15 is a `MAYBE` extension keyed by the “Bart”/Bartholomew dog + table framing. MAYBE overlaps: Pages/cains_jawbone_page_100.md (Henry + Scotland Yard + collapse).
 
 - `N09` — “Old man” slow-death / letter-blackmail voice:
   - **Signature tells:** paranoid “crucial meeting” with an “old man” + suspected eavesdropper; witnessed “done slowly to death”; franked letter/package to “the girl” discovered “in the morning”; fear of being “done in”; overheated associative wordplay around London landmarks and travel-names; Café Royal/time-budgeting anchor paired with an explicit written account (“told him all, hour by hour, day by day”).
@@ -267,7 +267,55 @@ Template:
 - `N32` — “Type” classifier / gilded metaphors + Wilde-allusion voice:
   - **Signature tells:** competitive reading/interpretation framed as “harvest/gleaning”; fixation on filing/typing people as “types”; recurring gilded/metallised visual metaphors (gold/silver/green leaf); macabre social observation; stitched-in Wilde context (Jack line + Earnest epigram; Whistler-to-Oscar jibe).
   - **Likely identity (if any):** unknown (MAYBE Oscar-adjacent, but treat quotations as voice markers, not identity proof).
-  - **Pages:** Pages/cains_jawbone_page_65.md, Pages/cains_jawbone_page_89.md, Pages/cains_jawbone_page_90.md
+  - **Pages:** Pages/cains_jawbone_page_62.md, Pages/cains_jawbone_page_65.md, Pages/cains_jawbone_page_89.md, Pages/cains_jawbone_page_90.md
   - **Confidence:** `LIKELY`
-  - **Disconfirming evidence:** the repeated “learned in a macabre way, even distinguished” type-judgement is shown to be a reused quotation across multiple narrators, or Pages 89–90’s dining/hunting vignette is later anchored to a clearly different narrator from Page 65’s reading/typing competition.
-  - **Notes:** MAYBE overlap with other Wilde-quote pages (e.g., Pages/cains_jawbone_page_23.md) if the “type/classification” register recurs.
+  - **Disconfirming evidence:** the repeated “learned in a macabre way, even distinguished” type-judgement is shown to be a reused quotation across multiple narrators, Pages 89–90’s dining/hunting vignette is later anchored to a clearly different narrator from Page 65’s reading/typing competition, or Page 62’s gold/silver dissociation proves to be an unrelated one-off metaphor.
+  - **Notes:** Page 62 is a `MAYBE` extension keyed by the gold/silver separation framing + the same moralising, macabre social observation register. MAYBE overlap with other Wilde-quote pages (e.g., Pages/cains_jawbone_page_23.md) if the “type/classification” register recurs.
+
+- `N33` — Medehamstede / Pasquier claret + short-story meta voice:
+  - **Signature tells:** reflective travel pause (“alone at last”); claret as a quick medicinal correction; Paris anchor (Rue de la Harpe); meta-fictional stance on short stories/embraces/plot and “complete novel” magazine framing.
+  - **Likely identity (if any):** unknown.
+  - **Pages:** Pages/cains_jawbone_page_72.md
+  - **Confidence:** `MAYBE`
+  - **Disconfirming evidence:** the magazine/short-story register is later shown to be a quoted inset rather than narrator voice, or the same cluster of anchors appears under an unmistakably different narrator elsewhere.
+  - **Notes:** Keep as a singleton until a second page repeats the “Medehamstede/Pasquier/Savage Conqueror” anchors.
+
+- `N34` — Time-factor / Didling wordplay + antiquarian brass voice:
+  - **Signature tells:** obsessive time/mortality rumination (“to-day”, “next day”, “time factor”); self-deprecating pun chains (Dolittle → Didlittle → Didling/didlet); antiquarian inscription fixation (oldest brass by the Mole); strong tea + “first pill” morning ritual.
+  - **Likely identity (if any):** unknown.
+  - **Pages:** Pages/cains_jawbone_page_20.md, Pages/cains_jawbone_page_25.md
+  - **Confidence:** `MAYBE`
+  - **Disconfirming evidence:** the shared time/wordplay register is shown to be a common technique across multiple narrators, or the two pages are later anchored to incompatible settings/participants.
+  - **Notes:** MAYBE overlaps with `N31` on pill-taking + place-name logic, but keep separate until a repeated phrase/anchor ties them.
+
+- `N35` — Rupee chapter / money suspicion + wickedness anxiety voice:
+  - **Signature tells:** editorial/manuscript discussion framing (“omit… too sensational”); money-driven engagement; suspicion described as a subterranean movement; menu-course metaphor built on 1 Corinthians “fishes… birds”; fear of meeting a “really wicked person”.
+  - **Likely identity (if any):** unknown.
+  - **Pages:** Pages/cains_jawbone_page_18.md
+  - **Confidence:** `MAYBE`
+  - **Disconfirming evidence:** “fall of the rupee” is later shown to be a detachable quotation or reference reused across narrators, or the “namesake” biblical-menu joke recurs under a different, stable narrator signature.
+  - **Notes:** Singleton for now; watch for reuse of the “omit the rupee chapter” editorial tell.
+
+- `N36` — Passing-through travel + heartbeats + Whitman cadence voice:
+  - **Signature tells:** “passing through” travel posture; precise sporting anecdote (All England for a thousand guineas; “twenty-nine times in ten years”); bodily self-monitoring (counting between heartbeats); exhaust-smoke simile; dense Whitman quotation cadence.
+  - **Likely identity (if any):** unknown.
+  - **Pages:** Pages/cains_jawbone_page_51.md
+  - **Confidence:** `MAYBE`
+  - **Disconfirming evidence:** the Whitman-heavy phrasing is later shown to be a generic quotation collage used by multiple narrators, or the sporting/heartbeat anchors recur clearly under a different voice.
+  - **Notes:** Overlaps the Whitman-quotation motif cluster (Pages/cains_jawbone_page_32.md, Pages/cains_jawbone_page_40.md) but lacks the Clement (`N03`) and Ditton (`N31`) anchors.
+
+- `N37` — Deceased-introduction + Barbara yellow-jasmine bathing voice:
+  - **Signature tells:** anxious curiosity about why a “deceased” arranged an introduction; rapturous physical description of Barbara (yellow-jasmine one-piece; towel); named travel detail (Dagenham bus; converted oast-house); Nelson blind-eye/arm-loss “to-day” anchor.
+  - **Likely identity (if any):** unknown.
+  - **Pages:** Pages/cains_jawbone_page_84.md
+  - **Confidence:** `MAYBE`
+  - **Disconfirming evidence:** “deceased” is later shown to be a dead author rather than an in-world person, or the Barbara/Alistair/Dagenham anchors recur under a clearly different narrator voice.
+  - **Notes:** This page participates in the “to-day as historical date marker” motif cluster; don’t merge narrators on date-anchoring alone.
+
+- `N38` — Medical-advice payoff + “May be” pun / Quarry hills voice:
+  - **Signature tells:** slow money exchange used for later identification; physicians/medical-advice framing; emphatic repetition (“He went. He went.”); Shakespeare/Stevenson/Scott allusion weave; explicit “May be. May be not.” decision pun; vivid sunset “bruise” image over the Quarry hills.
+  - **Likely identity (if any):** unknown.
+  - **Pages:** Pages/cains_jawbone_page_98.md
+  - **Confidence:** `MAYBE`
+  - **Disconfirming evidence:** the scene is later shown to be recounted/quoted by a different narrator, or the “May be” pun and medical-payoff framing recur under an incompatible voice elsewhere.
+  - **Notes:** Keep separate until the “Quarry hills” or “doctors and doctors” anchor repeats.
