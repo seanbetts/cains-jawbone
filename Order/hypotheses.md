@@ -29,28 +29,33 @@ These are **cross-narrator** groupings intended to reduce the search space for P
   - **Rationale:** Dense, recurring plant/poison specificity (often tied to deliberate action) plus a repeated “competence/plan/instructions” register suggests either a shared narrator or a small set of closely linked narrators.
   - **Key anchors:** Calabar bean/physostigma; digitalis; hellebore; lobelia/Indian-tobacco; wild jasmine/roses; marigold/calendula; Mithradates inoculation; failing eyesight with “documents”; “job/instructions” framing.
   - **Disconfirming evidence:** later evidence shows plant/poison talk is broadly distributed across unrelated voices with incompatible settings/participants.
-  - **Next falsification check:** look for a hard, repeated phrase-level anchor (beyond plant names) that ties 2+ of these pages together, or cleanly split into 2–3 sub-strands.
+  - **Next falsification check:** treat this as an umbrella and explicitly maintain sub-strands (`N12` poison logistics; `N03` Clement/mission plants; `N06` flowers+documents/OGPU; `N13` host/guest poisoning), only merging across them when a non-botanical phrase/participant anchor repeats.
 
 - **Cluster:** Paper artifacts + money pressure strand (confidence: `MAYBE`)
   - **Pages:** Pages/cains_jawbone_page_12.md, Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_18.md, Pages/cains_jawbone_page_28.md, Pages/cains_jawbone_page_33.md, Pages/cains_jawbone_page_34.md, Pages/cains_jawbone_page_50.md, Pages/cains_jawbone_page_52.md, Pages/cains_jawbone_page_53.md, Pages/cains_jawbone_page_57.md, Pages/cains_jawbone_page_68.md, Pages/cains_jawbone_page_69.md, Pages/cains_jawbone_page_70.md, Pages/cains_jawbone_page_72.md, Pages/cains_jawbone_page_78.md, Pages/cains_jawbone_page_89.md, Pages/cains_jawbone_page_95.md, Pages/cains_jawbone_page_96.md, Pages/cains_jawbone_page_98.md
   - **Rationale:** Multiple pages foreground documents/papers/letters (wills, interviews, “bits of paper”, magazines, signatures) tightly coupled to money pressure, leverage, or transaction-like scenes.
   - **Key anchors:** will/inheritance talk; forgery/handwriting manipulation; “papers” handled in an interview-like frame; “valuable services rendered”; franked letter/package to “the girl”; Café Royal time-budget + written account; “signatures were his business”; money changing hands “slowly” for later description.
   - **Disconfirming evidence:** paper artifacts are shown to be a generic, widely used prop with no consistent voice/participant continuity (e.g., May/Henry clearly differ across all instances).
-  - **Next falsification check:** map recurring named entities (May/Henry/Caroline/Jasmine) across these pages and see whether they partition into distinct sub-strands.
+  - **Next falsification check:** keep this as an umbrella and track sub-strands by stronger anchors:
+    - will/estate/forgery pages (Pages/cains_jawbone_page_12.md, Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_28.md, Pages/cains_jawbone_page_50.md, Pages/cains_jawbone_page_78.md)
+    - interview/bills/papers pages (Pages/cains_jawbone_page_33.md, Pages/cains_jawbone_page_34.md, Pages/cains_jawbone_page_52.md, Pages/cains_jawbone_page_53.md, Pages/cains_jawbone_page_57.md)
+    - old man/blackmail letter pages (Pages/cains_jawbone_page_68.md, Pages/cains_jawbone_page_69.md, Pages/cains_jawbone_page_70.md, Pages/cains_jawbone_page_95.md, Pages/cains_jawbone_page_96.md)
+    - singleton anchors: rupee chapter (Pages/cains_jawbone_page_18.md), magazine meta (Pages/cains_jawbone_page_72.md), signatures/death-warrant talk (Pages/cains_jawbone_page_89.md), medical-payoff meeting (Pages/cains_jawbone_page_98.md)
+    - check for cross-sub-strand bridges via repeated participants (e.g., “May” appears in Pages/cains_jawbone_page_14.md and Pages/cains_jawbone_page_98.md; “Henry” appears in Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_68.md, and Pages/cains_jawbone_page_78.md) before merging.
 
 - **Cluster:** Detective/police + violence scenes strand (confidence: `MAYBE`)
   - **Pages:** Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_31.md, Pages/cains_jawbone_page_81.md, Pages/cains_jawbone_page_82.md, Pages/cains_jawbone_page_85.md, Pages/cains_jawbone_page_91.md, Pages/cains_jawbone_page_94.md, Pages/cains_jawbone_page_100.md
   - **Rationale:** These pages share a crime/detection frame (explicitly or via detective canon allusions) and/or hands-on violence/corpse familiarity, often with London-police texture.
   - **Key anchors:** Sherlock/Mycroft and Sexton Blake; “Scotland Yard”; “Black Museum”; “Speckled Band” riff; window-throw vignette; “carnal, bloody and unnatural acts” frame.
   - **Disconfirming evidence:** detective language resolves purely to decorative quotation collage and the surrounding voices/settings show no coherence.
-  - **Next falsification check:** isolate which pages have concrete shared participants (e.g., Henry) vs. merely shared detective allusions.
+  - **Next falsification check:** treat as an umbrella: keep `N20` (13/31), `N08` (82/85/94), `N11` (91), `N24` (100), and `N28` (81) separate unless a shared participant/object or a repeated, non-generic phrasing ties them.
 
 - **Cluster:** Aesthetic / infatuation / high-society strand (confidence: `MAYBE`)
   - **Pages:** Pages/cains_jawbone_page_37.md, Pages/cains_jawbone_page_38.md, Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_47.md, Pages/cains_jawbone_page_49.md, Pages/cains_jawbone_page_62.md, Pages/cains_jawbone_page_63.md, Pages/cains_jawbone_page_65.md, Pages/cains_jawbone_page_84.md, Pages/cains_jawbone_page_89.md, Pages/cains_jawbone_page_90.md, Pages/cains_jawbone_page_92.md
   - **Rationale:** A shared social-register cluster: art-world and literary name-dropping, sensual description (hair/eyes/legs), and “soigné” interior scenes, with repeated jasmine and Wilde/Whistler anchoring.
   - **Key anchors:** post‑Vorticists private view; Ronald Firbank; Wilde/Whistler “You will, Oscar, you will”; “soigné” parquet venue; yellow-jasmine/Barbara description; dessert-order banter + attribution obsession.
   - **Disconfirming evidence:** these are shown to be multiple unrelated narrators using similar “learned allusion + attraction” techniques with no shared participants or setting markers.
-  - **Next falsification check:** track named women across this set (Babs/Babbie/Barbara) and see whether any two pages share a non-generic, falsifiable continuity cue.
+  - **Next falsification check:** maintain sub-strands (`N21` dazed infatuation; `N32` type classifier/Wilde; plus singletons `N14`/`N29`/`N30`/`N37`) and only merge across them when a shared participant or phrase-level anchor repeats (not just “jasmine” or general name-dropping).
 
 - **Cluster:** Time obsession + calendar anchors (confidence: `MAYBE`)
   - **Pages:** Pages/cains_jawbone_page_15.md, Pages/cains_jawbone_page_20.md, Pages/cains_jawbone_page_25.md, Pages/cains_jawbone_page_32.md, Pages/cains_jawbone_page_52.md, Pages/cains_jawbone_page_54.md, Pages/cains_jawbone_page_55.md, Pages/cains_jawbone_page_60.md, Pages/cains_jawbone_page_77.md, Pages/cains_jawbone_page_84.md, Pages/cains_jawbone_page_99.md
