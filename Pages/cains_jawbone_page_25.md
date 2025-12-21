@@ -10,8 +10,25 @@ After I might just as easily have been a literary bloke, like Jeremy Taylor or E
   - CERTAIN: “that morning” and waking “at the former” (= Didling, via wordplay).
 - **Quotes & allusions:**
   - LIKELY: “gone the same way home” echoes the old song “All Go the Same Way Home” (title referenced as a song in *The Literary Digest*, 1914: https://books.google.co.uk/books?id=GFENffy9hgwC&pg=PA890&vq=%22All+Go+the%22).
-- **Wordplay:**
-  - Dolittle → Didlittle → Didling / didlet (place-name hint).
+- **Wordplay (synthesis):**
+
+CANDIDATE
+- mechanism: orthography
+- span: "Didling, perhaps"
+- reading: "Dolittle -> Didlittle -> Didling (place-name hint)"
+- confidence: med
+- rationale: The narrator explicitly walks a word-chain from “Dolittle” toward “Didling”, framed as a wake-up location (“at the former”).
+- falsifier: “Didling” is later shown not to be a place-name cue but a purely playful nonce-word in this voice.
+
+LIKELY WORDPLAY
+- mechanism(s): orthography
+- span: "Didling, perhaps"
+- best reading: "From CANDIDATE(orthography): Dolittle -> Didlittle -> Didling (place-name hint; “at the former”)"
+- confidence: med
+- why it matters: place -> a plausible place-name pointer that may become a cross-page anchor when matched with other location cues
+- falsifiers:
+  - “Didling” never resolves to a place-name or recurs as an anchor elsewhere
+  - later context makes the chain purely self-deprecating wordplay with no geographic intent
 - **Motifs/continuity hooks:**
   - Time obsession; mortality (“you yourself would not continue”); “earth beetles” (burial imagery?).
 - **Voice/tells:**

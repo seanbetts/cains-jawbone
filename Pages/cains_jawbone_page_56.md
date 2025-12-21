@@ -10,13 +10,30 @@ It was just when the girl from the Asolo silk mills contended that morning was. 
   - CERTAIN: “that morning”; waiting for breakfast; “those six hours”.
 - **Quotes & allusions:**
   - CERTAIN: Robert Browning, *Pippa Passes* (1841): Pippa is a “girl from the Asolo silk mills” and sings “The year’s at the spring… Morning’s at seven…”.
-- **Wordplay:**
-  - CERTAIN: “Clare… voyant and audient” (clairvoyant/clairaudient pun).
-  - MAYBE: “bursting into pang in the sausage” (distorted “burst into song” phrasing).
+- **Wordplay (synthesis):**
+
+CANDIDATE
+- mechanism: homophone
+- span: "Clare, so both voyant and audient"
+- reading: "Clare -> clair- (clairvoyant/clairaudient), a second-sight pun"
+- confidence: high
+- rationale: The page explicitly frames “uncanny powers” and then immediately plays “Clare” into “voyant/audient”.
+- falsifier: “Clare” is later confirmed as a literal name/person here (not wordplay), making “voyant/audient” purely descriptive.
+
+LIKELY WORDPLAY
+- mechanism(s): homophone + orthography
+- span: "Clare, so both voyant and audient"
+- best reading: "From CANDIDATE(homophone): Clare -> clair- (clairvoyant/clairaudient), used as a second-sight self-description"
+- confidence: high
+- why it matters: narrator -> a high-signal punning tell for this breakfast/insomnia/second-sight voice
+- falsifiers:
+  - “Clare” is later shown to be a concrete person-name with no “clair-” intent
+  - similar clair-/name puns do not recur for this narrator candidate
 - **Motifs/continuity hooks:**
   - Insomnia: head “surcharged with… perilous… stuff”.
   - Precognition/recapitulation: “uncanny powers”; “revisualise”.
   - Breakfast/satiation used to steady memory.
+  - MAYBE: “bursting into pang in the sausage” as a distorted “burst into song” phrasing.
 - **Voice/tells:**
   - Self-mocking wordplay + claimed second-sight; breakfast domesticity.
 - **Ordering hypotheses:**

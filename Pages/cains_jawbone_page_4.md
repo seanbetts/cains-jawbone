@@ -10,11 +10,28 @@ And I really think I would have preferred the Maestro Jimson’s title, now that
 - **Quotes & allusions:**
   - CERTAIN: “The Maestro Jimson” is Chapter XI in Robert Louis Stevenson & Lloyd Osbourne’s *The Wrong Box* (1889): https://www.gutenberg.org/cache/epub/1585/pg1585.txt.
   - LIKELY: Lesurques (role) + Le Cirque d’Hiver (pun/mix-up).
-- **Wordplay:**
-  - “mash… with a spoon” / “mashie” (golf-club pun).
-  - Lesurques / Le Cirque d’Hiver mishearing.
+- **Wordplay (synthesis):**
+
+CANDIDATE
+- mechanism: homophone
+- span: "Lesurques and mixed him up with Le Cirque d’Hiver"
+- reading: "Lesurques -> Le Cirque d’Hiver (phonetic mix-up)"
+- confidence: high
+- rationale: The page explicitly frames a sound-based confusion between “Lesurques” and “Le Cirque d’Hiver”.
+- falsifier: Later context shows this is not a sound-based pun but a literal association between two separate references.
+
+LIKELY WORDPLAY
+- mechanism(s): homophone
+- span: "Lesurques and mixed him up with Le Cirque d’Hiver"
+- best reading: "From CANDIDATE(homophone): Lesurques -> Le Cirque d’Hiver (phonetic mix-up)"
+- confidence: high
+- why it matters: narrator -> flags a pun/mishearing style that may recur in this coastal-comic voice
+- falsifiers:
+  - the Lesurques/Cirque link is later shown to be unrelated to sound (e.g., two separate references)
+  - no other sound-based punning recurs for this narrator candidate
 - **Motifs/continuity hooks:**
   - Coastal peril (boy tumbling into sea); church + buttonholes; puddles after rain.
+  - Golf-club pun: “mash… with a spoon” / “mashie” (club).
 - **Voice/tells:**
   - Comic, name-heavy, punning narration; suspicion aimed at a “beautiful” woman.
 - **Ordering hypotheses:**

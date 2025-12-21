@@ -11,8 +11,25 @@ Could I be developing a green-eyed streak? I investigated the body before me wit
   - MAYBE: “green-eyed” jealousy phrase (source TBD).
   - CERTAIN: “Guido” = Guido Reni; “sausage place” = Bologna (pun).
   - CERTAIN: Kilmarnock + Balmerino were beheaded on the same date as Guido Reni’s death (18 Aug).
-- **Wordplay:**
-  - LIKELY: “sausage place” as Bologna/Baloney pun.
+- **Wordplay (synthesis):**
+
+CANDIDATE
+- mechanism: double definition
+- span: "sausage place"
+- reading: "sausage place -> Bologna (city; also sausage)"
+- confidence: high
+- rationale: Bologna is both a city and a sausage; the phrase is paired with Guido Reni’s death-in-Bologna anchor.
+- falsifier: “sausage place” is later shown to refer to a different location (not Bologna).
+
+LIKELY WORDPLAY
+- mechanism(s): double definition
+- span: "sausage place"
+- best reading: "From CANDIDATE(double definition): sausage place -> Bologna (city; also sausage)"
+- confidence: high
+- why it matters: place -> supports Bologna as a concrete setting cue inside this page’s calendar-style “to-day” anchors
+- falsifiers:
+  - later evidence shows “sausage place” is a private nickname, not the city pun
+  - Guido/Kilmarnock/Balmerino are shown to be non-calendar allusions in this context
 - **Motifs/continuity hooks:**
   - Measuring/optics: “powerful glass”; careful measuring; “forty inches”.
   - Bows; trimming/piercing; “black knobby thing… black and red” (mechanical detail).

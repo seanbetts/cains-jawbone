@@ -10,8 +10,25 @@ The sound of the bell, as of a boding gnat, just came to me. The finger causing 
   - CERTAIN: “a fortnight’s absence”; “time was not unlimited”.
 - **Quotes & allusions:**
   - CERTAIN: “Let us work while it is yet Day; for the Knight cometh when no man can work.” (pun on John 9:4 “day/night”).
-- **Wordplay:**
-  - CERTAIN: Day/Knight substitution in the biblical line.
+- **Wordplay (synthesis):**
+
+CANDIDATE
+- mechanism: homophone
+- span: "Day ; for the Knight cometh"
+- reading: "Knight -> night (homophone), re-cast as Day/Knight to echo assistant Charles Day"
+- confidence: high
+- rationale: The altered biblical line makes an explicit Day/night ↔ Day/Knight substitution with a nearby named “Charles Day”.
+- falsifier: “Knight” is later confirmed as a literal surname/person in this setting (not a day/night pun).
+
+LIKELY WORDPLAY
+- mechanism(s): allusion + homophone
+- span: "Day ; for the Knight cometh"
+- best reading: "From CANDIDATE(homophone): Knight -> night, used to pun John 9:4’s day/night into Day/Knight (with assistant Charles Day)"
+- confidence: high
+- why it matters: narrator -> stable “name-in-quotation” pun style; may help track this bell-summoning lecturer voice
+- falsifiers:
+  - “Knight” resolves to a specific person/surname unrelated to day/night wordplay
+  - the Day/Knight substitution fails to recur as a habit in this narrator’s pages
 - **Motifs/continuity hooks:**
   - Bells/summoning; class hierarchy (“lower orders”).
   - Academia/professional identity (mineralogy lecturer).

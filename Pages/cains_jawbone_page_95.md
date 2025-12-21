@@ -28,7 +28,7 @@ CANDIDATE
 LIKELY WORDPLAY
 - mechanism(s): allusion + charade
 - span: "Leda and Hebe, I gave my swan a drink"
-- best reading: "Leda (swan) + Hebe (cupbearer) -> “swan a drink” = inking/filling a Swan fountain pen"
+- best reading: "From CANDIDATE(allusion): Leda (swan) + Hebe (cupbearer) -> “swan a drink” = inking/filling a Swan fountain pen"
 - confidence: high
 - why it matters: motif -> writing/pen/ink ritual marker for this narrator segment
 - falsifiers:

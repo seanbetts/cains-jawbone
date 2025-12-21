@@ -7,8 +7,25 @@ The others did not seem similarly impressed. Phrases of this and that came to ha
   - CERTAIN: Paris.
 - **Quotes & allusions:**
   - LIKELY: “nothing lean or hungry” alludes to Cassius (“lean and hungry look”) (Julius Caesar).
-- **Wordplay:**
-  - LIKELY: “Caseus, ah!” (Latin *caseus* = cheese) as a Cassius soundalike / nomenclature joke (reinforced by the nearby Julius Caesar “lean and hungry” hint).
+- **Wordplay (synthesis):**
+
+CANDIDATE
+- mechanism: homophone
+- span: "Caseus, ah!"
+- reading: "Caseus, ah! -> Cassius (soundalike), reinforced by nearby “lean and hungry” Julius Caesar hint"
+- confidence: high
+- rationale: The page immediately flags “nomenclature business” and embeds Cassius-adjacent language, making “Caseus, ah!” a marked phonetic nudge.
+- falsifier: Later evidence makes “caseus” strictly literal (cheese) with no Cassius/Caesar framing intended.
+
+LIKELY WORDPLAY
+- mechanism(s): homophone + allusion
+- span: "Caseus, ah!"
+- best reading: "From CANDIDATE(homophone): Caseus, ah! -> Cassius (Julius Caesar), supported by the nearby “lean and hungry” hint"
+- confidence: high
+- why it matters: narrator -> “nameplay via soundalike + classical allusion” may be a stable voice tell for clustering
+- falsifiers:
+  - Cassius/Caesar references are later shown to be absent/irrelevant for this voice
+  - the phrase recurs elsewhere with a different, non-Cassius resolution
 - **Motifs/continuity hooks:**
   - Threat/weapon: “hand dropped to my hip pocket”.
   - “Square accounts” / settling scores.

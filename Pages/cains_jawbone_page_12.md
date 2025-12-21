@@ -15,8 +15,25 @@ I rubbed my eyes and massaged my temples with pronated finger-tips. Then I fumbl
   - CERTAIN: “Ah, are you digging on my grave?” (Thomas Hardy poem; “man who sang” = setting/performer unknown).
   - CERTAIN: “The golden one is gone from the banquets… beloved of Atimetus” — Greek Anthology epigram “On Claudia Homonoea” (author unknown); Atimetus is correct (not Admetus). Cf. J.W. Mackail, *Select Epigrams from the Greek Anthology* (1890), Epigram XLIII: https://www.gutenberg.org/ebooks/2378
   - LIKELY: “Noel Coward’s King Charles’s Head” — “King Charles’s head” is a Dickens allusion/idiom for a fixed idea/obsession (Mr. Dick in *David Copperfield*); used here as a pun on “bad head” + aspirin. https://www.gutenberg.org/ebooks/766
-- **Wordplay:**
-  - LIKELY: “abstracted” → “abstracted will” (legal pun).
+- **Wordplay (synthesis):**
+
+CANDIDATE
+- mechanism: double definition
+- span: "abstracted will"
+- reading: "abstracted (distracted) + abstracted (stolen / reduced to an abstract) applied to “will”"
+- confidence: high
+- rationale: The narrator becomes “abstracted” while watching a man bent over legal documents; the “will” is foregrounded in the same breath.
+- falsifier: Later context forces “abstracted” to mean only “distracted” with no document-theft/abstract sense in play.
+
+LIKELY WORDPLAY
+- mechanism(s): double definition
+- span: "abstracted will"
+- best reading: "From CANDIDATE(double definition): abstracted will = distracted about a will + a will abstracted/stolen/abstracted"
+- confidence: high
+- why it matters: motif -> reinforces the will/document manipulation thread used for clustering (without implying sequence)
+- falsifiers:
+  - “abstracted” is later shown to be purely emotional distraction language for this voice
+  - the “will” in this scene is proven not to be a legal document (metaphorical usage)
 - **Motifs/continuity hooks:**
   - Documents/wills; privacy (cigarette case); topaz “searchlight” eyes.
   - Trust test: “velvet” vs “cinders”.

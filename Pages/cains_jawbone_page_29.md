@@ -7,9 +7,43 @@ It had always been my habit to rise with the lark, if there was one going up at 
   - MAYBE: “old mineralogist” (guest/victim candidate).
 - **Time markers:**
   - CERTAIN: breakfast; “on that day”.
-- **Wordplay:**
-  - LIKELY: “botulist” (botulism/sausages) as a poison-tinged twist on “botanist”.
-  - LIKELY: “led… up the garden” (echoes “up the garden path”).
+- **Wordplay (synthesis):**
+
+CANDIDATE
+- mechanism: orthography
+- span: "botulist"
+- reading: "botulist -> botanist/botulism pun (botany voice with food-poisoning shadow)"
+- confidence: med
+- rationale: The gardening/poison register is immediately tied to breakfast sausages (“botulism” cue) and a flower-stroll.
+- falsifier: Later evidence shows “botulist” is an established technical term in-world (no intended pun).
+
+LIKELY WORDPLAY
+- mechanism(s): orthography
+- span: "botulist"
+- best reading: "From CANDIDATE(orthography): botulist = botanist voice coloured by botulism/sausage poisoning"
+- confidence: med
+- why it matters: narrator -> a compact “botany + food-poison” tell consistent with the experimenter register on this page
+- falsifiers:
+  - “botulist” is later shown to be purely literal/technical with no punning intent
+  - no other similar “near-word” puns appear for this narrator candidate
+
+CANDIDATE
+- mechanism: double definition
+- span: "led the old mineralogist up the garden"
+- reading: "literal leading up the garden + idiom “lead up the garden path” (= deceive)"
+- confidence: high
+- rationale: “If I may be permitted the expression” signals a deliberate idiom-in-literal-scene overlap while the narrator tests poisonous plant combinations.
+- falsifier: The narrator later clarifies they meant only the literal action with no deception/idiom intent.
+
+LIKELY WORDPLAY
+- mechanism(s): double definition
+- span: "led the old mineralogist up the garden"
+- best reading: "From CANDIDATE(double definition): literal garden-leading + “lead up the garden path” deception (fits the poisoning experiment)"
+- confidence: high
+- why it matters: motif -> a phrase-level hook that may connect to other “old man up the garden” scenes without implying order
+- falsifiers:
+  - the “garden path” idiom is absent/irrelevant in this voice’s usage elsewhere
+  - later context shows the “old mineralogist” scene is non-deceptive and non-toxic
 - **Motifs/continuity hooks:**
   - Poisons/plants: West African ordeal beans (physostigma/Calabar bean) vs “the broad ones” (broad beans); lobelia (“Indian tobacco”) and “lords and ladies” (*Arum maculatum*).
   - Food/sausages: “seven… long stout shapes rosily bursting…” (breakfast item; botulism tie).

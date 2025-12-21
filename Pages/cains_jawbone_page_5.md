@@ -22,7 +22,7 @@ CANDIDATE
 LIKELY WORDPLAY
 - mechanism(s): orthography + reversal
 - span: "cut out the stops"
-- best reading: "O.M. (Order of Merit) ↔ M.O. (Medical Officer); remove stops from O.M. -> OM (Buddhist sacred syllable/formula)"
+- best reading: "From CANDIDATE(orthography): O.M. -> OM (Buddhist syllable); plus reversal O.M. ↔ M.O. (Medical Officer)"
 - confidence: high
 - why it matters: motif -> shows this narrator’s “initialism + punctuation” decoding style, which may recur as an instruction
 - falsifiers:

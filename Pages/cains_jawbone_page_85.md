@@ -14,8 +14,25 @@ I was true to time. I had, it occurred to me, been something of an automaton. Bu
   - LIKELY: “the pale but multitudinous Blake” = Sexton Blake (fictional detective; a “pale” Holmes-like counterpart with a large story corpus; see research queue).
   - CERTAIN: Kipling (name-jibe reference).
   - CERTAIN: “The murderer that is to be hung next day, how does he sleep?” = Whitman, “The Sleepers” (*Leaves of Grass*): https://en.wikisource.org/wiki/Leaves_of_Grass_(1882)/The_Sleepers.
-- **Wordplay:**
-  - LIKELY: “whiskified objectionable one… Kipling” ⇒ **KIPLING = K(LIP)ING** (“lip” where whiskers are) → suggests narrator’s name “King” was schoolboy-guyed to “Kipling”.
+- **Wordplay (synthesis):**
+
+CANDIDATE
+- mechanism: insertion
+- span: "whiskified objectionable was Kipling"
+- reading: "KING -> K(LIP)ING -> KIPLING (insert “lip” where whiskers are; “whiskified”)"
+- confidence: med
+- rationale: The text frames “Kipling” as a schoolboy jibe on the narrator’s name; inserting LIP into KING cleanly yields KIPLING.
+- falsifier: Later context shows “Kipling” is only a literal insult/author reference with no name-transform intended.
+
+LIKELY WORDPLAY
+- mechanism(s): insertion + orthography
+- span: "whiskified objectionable was Kipling"
+- best reading: "From CANDIDATE(insertion): KING -> K(LIP)ING -> KIPLING (name-jibe; “lip” where whiskers are)"
+- confidence: med
+- why it matters: narrator -> a plausible self-name tell (“King”) for this detective-table voice segment
+- falsifiers:
+  - the narrator’s name is later explicitly not “King”
+  - “Kipling” is shown to be used purely as an external author reference with no cryptic intent
 - **Motifs/continuity hooks:**
   - Time/automation (“true to time”; “automaton”).
   - Concealment: “put Henry’s keenness… below the… salt-cellar” (hiding an object/tool?).

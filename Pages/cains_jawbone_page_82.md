@@ -11,9 +11,43 @@ I forgot why I was sitting and staring at the table. I felt battered. What could
 - **Quotes & allusions:**
   - CERTAIN: “carnal, bloody and unnatural acts” (Shakespeare, *Hamlet*; Horatio’s summary).
   - CERTAIN: “brand o’ Cain” / “human mistake” echo John Masefield (Poet Laureate) line “one o’ the brand o’ Cain for mate ’n’ a human mistake for cook”: https://books.google.co.uk/books?id=hyiuUvTx8-AC&pg=PA13&dq=brand+o%27+Cain&source=gbs_api.
-- **Wordplay:**
-  - LIKELY: “great asses of mice” → “great masses of ice” (anagram/splitting: “asses of mice” → “masses of ice”).
-  - MAYBE: “to ladder danger” → “garden ladder” (anagram; exact target unclear because of the leading “to”).
+- **Wordplay (synthesis):**
+
+CANDIDATE
+- mechanism: anagram
+- span: "great asses of mice"
+- reading: "great asses of mice -> great masses of ice"
+- confidence: high
+- rationale: A clean near-anagram resolves the phrase into a fluent image that matches the surrounding “cold weight” framing.
+- falsifier: A source is found showing “great asses of mice” is a fixed quotation/phrase here (no wordplay intended).
+
+LIKELY WORDPLAY
+- mechanism(s): anagram + orthography
+- span: "great asses of mice"
+- best reading: "From CANDIDATE(anagram): great asses of mice -> great masses of ice"
+- confidence: high
+- why it matters: motif -> reinforces the “cold weight/pressure” image (and may hint that other odd word-boundaries hide simple anagrams)
+- falsifiers:
+  - “great asses of mice” is sourced as a direct quotation elsewhere (no pun intended)
+  - “masses of ice” appears elsewhere explicitly, making this reading redundant as wordplay
+
+CANDIDATE
+- mechanism: anagram
+- span: "to ladder danger"
+- reading: "to ladder danger -> garden ladder (anagram; “to” may be grammatical filler)"
+- confidence: med
+- rationale: “ladder danger” is an exact anagram of “garden ladder”, and the page already contains domestic/table-register details that tolerate this kind of transformation.
+- falsifier: A period source is found for “to ladder danger” as a fixed phrase/quotation (not an anagram).
+
+LIKELY WORDPLAY
+- mechanism(s): anagram
+- span: "to ladder danger"
+- best reading: "From CANDIDATE(anagram): garden ladder (via anagram of “ladder danger”; “to” may be grammatical filler)"
+- confidence: med
+- why it matters: motif -> keeps the gardening/horticulture register active in this narrator’s table-scene voice
+- falsifiers:
+  - later text uses “ladder” non-punningly in this narrator’s voice (e.g., literal superstition about ladders)
+  - a period source is found for “to ladder danger” as a fixed phrase/quotation (not an anagram)
 - **Motifs/continuity hooks:**
   - Tea: steaming Lapsang; biscuits.
   - Dogs: “first dog… at the very beginning” vs “third dog… in London” (possible clue about beginnings).

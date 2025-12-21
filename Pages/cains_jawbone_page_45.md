@@ -11,16 +11,51 @@ It was when that half Pole, half Frenchman, and usually up the first half, that 
   - MAYBE: “the girl” (gone).
 - **Quotes/allusions:**
   - CERTAIN: “half Pole, half Frenchman… drunken mongrel… lazy waster…” echoes Menyhért Lengyel, *Typhoon* (Methuen, 1913), p. 110 (tr. Laurence Irving): https://books.google.co.uk/books?id=fvY1AQAAIAAJ&dq=%22half%20Pole%22&jscmd=SearchWithinVolume2
+- **Wordplay (synthesis):**
+
+CANDIDATE
+- mechanism: homophone
+- span: "Peter Barleys"
+- reading: "Peter Barleys -> Peter Parley (Samuel Griswold Goodrich pseudonym)"
+- confidence: med
+- rationale: The menu-list context encourages phonetic punning; “Peter Parley” is a well-known period pseudonym.
+- falsifier: “Peter Barleys” is confirmed as a literal brand/product name with no punning intent.
+
+LIKELY WORDPLAY
+- mechanism(s): allusion + homophone
+- span: "Peter Barleys"
+- best reading: "From CANDIDATE(homophone): Peter Barleys -> Peter Parley (Samuel Griswold Goodrich pseudonym)"
+- confidence: med
+- why it matters: narrator -> indicates a literary-allusion/pun style embedded in the “menu list”
+- falsifiers:
+  - “Peter Barleys” is later confirmed as a literal food/drink brand name in a period source
+  - the surrounding list items are all literal brands with no punning intent
+
+CANDIDATE
+- mechanism: double definition
+- span: "leading the old man up the garden"
+- reading: "literal garden-walking + idiom “lead up the garden path” (= deceive)"
+- confidence: med
+- rationale: The phrasing reads like a deliberate idiom literalised in-scene, and echoes Page 29’s “led… up the garden” formulation.
+- falsifier: Later evidence shows this is only a literal repeated walk with no deception/idiom intent.
+
+LIKELY WORDPLAY
+- mechanism(s): double definition
+- span: "leading the old man up the garden"
+- best reading: "From CANDIDATE(double definition): literal garden-walking + “lead up the garden path” deception (echoes Page 29’s phrasing)"
+- confidence: med
+- why it matters: motif -> a cross-page phrase-level hook (Page 29/45) for a potential “garden deception” micro-strand
+- falsifiers:
+  - the phrase is shown to be generic/incidental and appears widely with no other shared anchors
+  - later context forces a purely literal reading with no deception framing
 - **Motifs/continuity hooks:**
   - Proverb punning: absinthe/absence (“made the heart grow fonder”).
   - Corpse: Henry over “an innocent corpse of his own making”.
-  - Deception/walking: doctor “leading the old man up the garden” (literal + idiom).
   - Food/drink list: devilled Epicam; Royans aux Achard; Peter Barleys; Villacabras.
     - Epicam: advertised as “EPICAM… the Worcestershire Ham” (Country Life, 1934): https://books.google.co.uk/books?id=rRYiAQAAMAAJ&dq=Epicam&jscmd=SearchWithinVolume2
     - Epicure Ham Co. (Pershore, Worcs.) appears in Country Life Illustrated (1934): https://books.google.co.uk/books?id=OBYiAQAAMAAJ&dq=%22EPICURE%20HAM%22&jscmd=SearchWithinVolume2
     - Royans aux Achard(s): trademark/label for canned “ROYANS AUX TRUFFES & AUX ACHARDS” (Flouit Frères & C., Bordeaux) recorded in *Bulletin officiel de la propriété industrielle et commerciale* (1886), p. 168 (deposit note dated 24 Feb 1887): https://books.google.co.uk/books?id=YKNuP7yATQYC&pg=RA2-PA168-IA147&vq=ROYANS
     - Villacabras: advertised as Spanish “Natural Mineral Purgative Water” (Occidental Medical Times, 1892): https://books.google.co.uk/books?id=WagRAAAAYAAJ&dq=VILLACABRAS&jscmd=SearchWithinVolume2
-    - LIKELY: “Peter Barleys” is a pun on “Peter Parley” (Samuel Griswold Goodrich pseudonym): https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Goodrich,_Samuel_Griswold
   - Setting: “great building of many flats”; “stealing at the doors” (sneaking/eavesdropping/theft).
 - **Voice/tells:**
   - Proverb-twisting; vivid menu/brand listing; self-described stealth/thievery.

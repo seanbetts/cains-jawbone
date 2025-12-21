@@ -31,7 +31,7 @@ CANDIDATE
 LIKELY WORDPLAY
 - mechanism(s): orthography
 - span: "capitalise my third letter"
-- best reading: "DEATH -> De’Ath (capitalise 3rd letter)"
+- best reading: "From CANDIDATE(orthography): DEATH -> De’Ath (capitalise 3rd letter)"
 - confidence: high
 - why it matters: narrator -> self-identification marker (stylised name) for this voice segment
 - falsifiers:

@@ -27,7 +27,7 @@ CANDIDATE
 LIKELY WORDPLAY
 - mechanism(s): double definition
 - span: "coming of age hours"
-- best reading: "coming of age (21) -> “twenty-one hours” (21:00; 24-hour clock), framed via “Lyons” (Lyon, France)"
+- best reading: "From CANDIDATE(double definition): coming of age (21) -> “twenty-one hours” (21:00; 24-hour clock), framed via “Lyons” (Lyon, France)"
 - confidence: high
 - why it matters: place -> supports “Lyons” as Lyon (France) and encodes a time-of-day marker.
 - falsifiers:
