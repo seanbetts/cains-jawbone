@@ -27,10 +27,10 @@ Template:
 - `N02` — Dog POV (domestic + hunting):
   - **Signature tells:** explicit dog-coded bodily perspective (ears pulled; “low noise”; “nose” POV); mating/banishment narrative; hunting/retrieval register (Lagopus scoticus/red grouse); dog medicine ingestion (Bob Martin); secret sugar stash; self-description as a dog.
   - **Likely identity (if any):** a dog narrator (breed MAYBE Skye terrier).
-  - **Pages:** Pages/cains_jawbone_page_10.md, Pages/cains_jawbone_page_19.md, Pages/cains_jawbone_page_22.md, Pages/cains_jawbone_page_39.md, Pages/cains_jawbone_page_46.md, Pages/cains_jawbone_page_48.md, Pages/cains_jawbone_page_79.md, Pages/cains_jawbone_page_88.md, Pages/cains_jawbone_page_99.md
+  - **Pages:** Pages/cains_jawbone_page_8.md, Pages/cains_jawbone_page_10.md, Pages/cains_jawbone_page_19.md, Pages/cains_jawbone_page_22.md, Pages/cains_jawbone_page_39.md, Pages/cains_jawbone_page_46.md, Pages/cains_jawbone_page_48.md, Pages/cains_jawbone_page_79.md, Pages/cains_jawbone_page_88.md, Pages/cains_jawbone_page_99.md
   - **Confidence:** `CERTAIN`
   - **Disconfirming evidence:** any page in this set gives an unequivocal human-only physical situation (not idiom/metaphor) incompatible with dog POV.
-  - **Notes:** Pages/cains_jawbone_page_8.md has overlapping “Mr. Hall”/bell-push mechanics and self-deprecation; keep as MAYBE overlap until a stronger tie-breaker appears. Pages 10 and 39 lean on “mistress/coat” language and naive literalism (e.g., “vicarious”→vicar) consistent with dog POV.
+  - **Notes:** Pages/cains_jawbone_page_8.md is a `MAYBE` extension keyed by “Mr. Hall”/bell-push mechanics and self-deprecation; drop it if a stronger non-dog anchor emerges. Pages 10 and 39 lean on “mistress/coat” language and naive literalism (e.g., “vicarious”→vicar) consistent with dog POV.
 
 - `N03` — Clement / pills / flowers-and-mercy register:
   - **Signature tells:** transactional planning + pills/“assassin’s wonderful substance”; publisher/book-world references; plant/flower precision (hellebore, wild jasmine, roses); declared hardness (“quality of mercy… little exerted”); job/instructions framing; scansion/poetry awareness.
@@ -107,18 +107,18 @@ Template:
 - `N12` — Calabar/digitalis poison-logistics + murder-as-genre voice:
   - **Signature tells:** poison-botany specificity (Calabar bean/physostigma; digitalis) embedded in murder logistics; darkly comic genre-aware murder framing (murder counts, pursuit set-pieces); pragmatic “try again tomorrow” planning language.
   - **Likely identity (if any):** unknown.
-  - **Pages:** Pages/cains_jawbone_page_6.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_26.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_58.md, Pages/cains_jawbone_page_59.md, Pages/cains_jawbone_page_60.md
+  - **Pages:** Pages/cains_jawbone_page_6.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_26.md, Pages/cains_jawbone_page_29.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_58.md, Pages/cains_jawbone_page_59.md, Pages/cains_jawbone_page_60.md
   - **Confidence:** `LIKELY`
   - **Disconfirming evidence:** Calabar/digitalis cues and the murder-counting/pursuit voice are shown to belong to different narrators with incompatible settings/biographies.
-  - **Notes:** MAYBE overlap: Pages/cains_jawbone_page_29.md (Calabar bean + experimental plant/food poisoning register).
+  - **Notes:** Pages/cains_jawbone_page_29.md is a `MAYBE` extension keyed by Calabar bean/physostigma + experimental plant/food-poisoning register; drop it if “old mineralogist”/setting anchors tie it elsewhere.
 
 - `N13` — Host/guest poisoning + coastal-house segment:
   - **Signature tells:** host/guest/patient framing; poison/immunity talk (e.g., Mithradates); Yeats/Whitman quotation run; coastal-house/bay landscape shifting into visceral corpse imagery; named helper (Caroline Jasmine).
   - **Likely identity (if any):** unknown.
-  - **Pages:** Pages/cains_jawbone_page_86.md, Pages/cains_jawbone_page_87.md
+  - **Pages:** Pages/cains_jawbone_page_80.md, Pages/cains_jawbone_page_86.md, Pages/cains_jawbone_page_87.md
   - **Confidence:** `LIKELY`
   - **Disconfirming evidence:** Pages 86–87 are later shown to be different speakers/settings despite the apparent direct continuation.
-  - **Notes:** MAYBE overlap: Pages/cains_jawbone_page_80.md (host + May + Henry + implied poisoning setup).
+  - **Notes:** Pages/cains_jawbone_page_80.md is a `MAYBE` extension keyed by the host/guest table register + implied poisoning setup; drop it if the “Sir Paul/May/Henry” cast anchors resolve to a clearly different voice.
 
 - `N14` — Babbie / Rainbow Sundae / hair-and-allusion voice:
   - **Signature tells:** rapturous hair fixation punctuated by French verse; dessert-order banter (Rainbow; Lent “second Sundae” rule); insistence on naming/attributing writers; guest watching Henry handled (cap on/off).
@@ -211,10 +211,10 @@ Template:
 - `N25` — Quicksands-of-crime interviewer / papers voice:
   - **Signature tells:** moralising crime/innocence language; meta “commentary/ironic comment” framing; contemptuous epithets for the subject (“well-fed swine”); interview mechanics when present (door opens/shuts; “papers” handled); pointed food tells (Westphalian ham; cucumber sandwiches); money/blackmail pressure language (“Bills should always be met squarely”; “reward for valuable services rendered”).
   - **Likely identity (if any):** unknown.
-  - **Pages:** Pages/cains_jawbone_page_33.md, Pages/cains_jawbone_page_34.md, Pages/cains_jawbone_page_52.md, Pages/cains_jawbone_page_53.md
+  - **Pages:** Pages/cains_jawbone_page_33.md, Pages/cains_jawbone_page_34.md, Pages/cains_jawbone_page_52.md, Pages/cains_jawbone_page_53.md, Pages/cains_jawbone_page_57.md
   - **Confidence:** `LIKELY`
   - **Disconfirming evidence:** Page 34’s “ironic comment” / “innocent child” rhetoric is shown to be a generic register reused across unrelated narrators, or the “interview/papers” mechanics in Page 52 are later anchored to a different narrator/setting.
-  - **Notes:** Page 33 shares the debt/bills framing (“I always pay my debts”) and clandestine observation (“behind the armchair”) but lacks the explicit “interview/papers” mechanics. MAYBE overlap: Pages/cains_jawbone_page_57.md (Westphalian ham + “bits of paper” reading) if the table/reading scene is later shown to be the same narrator segment.
+  - **Notes:** Page 33 shares the debt/bills framing (“I always pay my debts”) and clandestine observation (“behind the armchair”) but lacks the explicit “interview/papers” mechanics. Pages/cains_jawbone_page_57.md is a `MAYBE` extension keyed by Westphalian ham + “bits of paper” reading; drop it if the table scene is later anchored to a different voice.
 
 - `N26` — “Awful and literal sense” breakfast-recapping / second-sight voice:
   - **Signature tells:** the distinctive parenthetical aside “in the awful and literal sense of the word”; morning/breakfast domesticity; insomnia + “recapitulation” framing; claimed second-sight wordplay (“Clare” → clairvoyant/clairaudient).
@@ -319,3 +319,19 @@ Template:
   - **Confidence:** `MAYBE`
   - **Disconfirming evidence:** the scene is later shown to be recounted/quoted by a different narrator, or the “May be” pun and medical-payoff framing recur under an incompatible voice elsewhere.
   - **Notes:** Keep separate until the “Quarry hills” or “doctors and doctors” anchor repeats.
+
+- `N39` — Wilde/Earnest echoes + will/forgery voice:
+  - **Signature tells:** overt Wilde (*Importance of Being Earnest*) echoing embedded in legal-document attention (wills; “forging”); stationery/pen fixation (caseful of “strange pens”); macabre aside about a woman “not yet dead”; church/inscription noticing used as scene texture rather than pure quotation collage.
+  - **Likely identity (if any):** unknown.
+  - **Pages:** Pages/cains_jawbone_page_28.md, Pages/cains_jawbone_page_50.md
+  - **Confidence:** `MAYBE`
+  - **Disconfirming evidence:** the Wilde/Earnest material is shown to be a detachable quotation layer reused across multiple narrators, or the will/forgery/stationery cues in the two pages resolve to incompatible speakers/settings.
+  - **Notes:** Thematically overlaps `N10` (will/estate eavesdropping) and `N18` (forgery/handwriting) but should not be merged without a repeated non-quotation phrase/anchor.
+
+- `N40` — Bills-in-paper / Bryant & May / Left Luggage voice:
+  - **Signature tells:** bills/debt language framed through newspapers/advertising; match/fire imagery with brand-like specificity (Bryant & May); station/Left Luggage framing; dense “named writers” run used as immediate interpretive glue.
+  - **Likely identity (if any):** unknown.
+  - **Pages:** Pages/cains_jawbone_page_23.md
+  - **Confidence:** `MAYBE`
+  - **Disconfirming evidence:** Page 23 is later shown to share a stable interview/table mechanic or repeated phrasing with an existing narrator (especially `N25`), making the match/Left Luggage layer incidental.
+  - **Notes:** Singleton for now; treat as a placeholder narrator until a second page repeats the same bills+matches+Left Luggage combination.
