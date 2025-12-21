@@ -168,10 +168,10 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Disconfirming evidence:** later evidence shows Latham Chapel refers to a different institution than the Hall/fives-courts memories.
 
 - **Cluster:** `N09` “Old man” slow-death / letter-blackmail voice (confidence: `LIKELY`)
-  - **Pages:** Pages/cains_jawbone_page_68.md, Pages/cains_jawbone_page_69.md, Pages/cains_jawbone_page_70.md
-  - **Rationale:** A recurring narrator signature links paranoia about an “old man” and a “crucial meeting” (with suspected eavesdropping) to an explicitly witnessed slow death and then to letter/retaliation anxiety.
-  - **Key anchors:** “old man”; “done slowly to death”; franked item to “the girl”; threat “do me in”; London landmarks (Eros / Queen’s Hall) amid fear-driven associative wordplay.
-  - **Disconfirming evidence:** “done slowly to death” is figurative, or the “he”/retaliation target in Page 70 is clearly not the same “old man” context as Pages 68–69.
+  - **Pages:** Pages/cains_jawbone_page_68.md, Pages/cains_jawbone_page_69.md, Pages/cains_jawbone_page_70.md, Pages/cains_jawbone_page_95.md, Pages/cains_jawbone_page_96.md
+  - **Rationale:** A recurring narrator signature links paranoia about an “old man” and a “crucial meeting” (with suspected eavesdropping) to an explicitly witnessed slow death, letter/retaliation anxiety, and a Café Royal time-budget strand tied to an explicit written account.
+  - **Key anchors:** “old man”; “done slowly to death”; franked item to “the girl”; threat “do me in”; Café Royal; “told him all, hour by hour, day by day”.
+  - **Disconfirming evidence:** “done slowly to death” is figurative, the “he”/retaliation target in Page 70 is clearly not the same “old man” context as Pages 68–69, or the Café Royal + written-account pages (95–96) are shown to be a distinct voice.
 
 - **Cluster:** `N07` Bunny and Perry (Pro/Con) mental debate (confidence: `CERTAIN`)
   - **Pages:** Pages/cains_jawbone_page_93.md, Pages/cains_jawbone_page_97.md
