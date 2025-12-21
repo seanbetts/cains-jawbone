@@ -107,7 +107,7 @@ Template:
 - `N12` — Calabar/digitalis poison-logistics + murder-as-genre voice:
   - **Signature tells:** poison-botany specificity (Calabar bean/physostigma; digitalis) embedded in murder logistics; darkly comic genre-aware murder framing (murder counts, pursuit set-pieces); pragmatic “try again tomorrow” planning language.
   - **Likely identity (if any):** unknown.
-  - **Pages:** Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_26.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_58.md, Pages/cains_jawbone_page_59.md, Pages/cains_jawbone_page_60.md
+  - **Pages:** Pages/cains_jawbone_page_6.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_26.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_58.md, Pages/cains_jawbone_page_59.md, Pages/cains_jawbone_page_60.md
   - **Confidence:** `LIKELY`
   - **Disconfirming evidence:** Calabar/digitalis cues and the murder-counting/pursuit voice are shown to belong to different narrators with incompatible settings/biographies.
   - **Notes:** MAYBE overlap: Pages/cains_jawbone_page_29.md (Calabar bean + experimental plant/food poisoning register).
@@ -209,11 +209,11 @@ Template:
   - **Notes:** Watch for recurrence of the buttonhole motif and the specific Woolworth’s/Kursaal geography as stronger continuity hooks.
 
 - `N25` — Quicksands-of-crime interviewer / papers voice:
-  - **Signature tells:** interview framing (door opens/shuts; “papers” handled); moralising crime/innocence language; contemptuous epithets for the subject (“well-fed swine”); meta “commentary… page after page” line; pointed food tells (Westphalian ham; cucumber sandwiches).
+  - **Signature tells:** moralising crime/innocence language; meta “commentary/ironic comment” framing; contemptuous epithets for the subject (“well-fed swine”); interview mechanics when present (door opens/shuts; “papers” handled); pointed food tells (Westphalian ham; cucumber sandwiches); money/blackmail pressure language (“Bills should always be met squarely”; “reward for valuable services rendered”).
   - **Likely identity (if any):** unknown.
-  - **Pages:** Pages/cains_jawbone_page_52.md, Pages/cains_jawbone_page_53.md
+  - **Pages:** Pages/cains_jawbone_page_34.md, Pages/cains_jawbone_page_52.md, Pages/cains_jawbone_page_53.md
   - **Confidence:** `LIKELY`
-  - **Disconfirming evidence:** Page 53’s “introduced to me” scene is shown to be a different narrator/context from Page 52’s “interview… papers”, or the shared interview/papers framing recurs widely across unrelated pages without other shared tells.
+  - **Disconfirming evidence:** Page 34’s “ironic comment” / “innocent child” rhetoric is shown to be a generic register reused across unrelated narrators, or the “interview/papers” mechanics in Page 52 are later anchored to a different narrator/setting.
   - **Notes:** MAYBE overlap: Pages/cains_jawbone_page_57.md (Westphalian ham + “bits of paper” reading) if the table/reading scene is later shown to be the same narrator segment.
 
 - `N26` — “Awful and literal sense” breakfast-recapping / second-sight voice:
@@ -223,3 +223,11 @@ Template:
   - **Confidence:** `LIKELY`
   - **Disconfirming evidence:** the shared parenthetical phrasing is shown to be a common quotation reused across multiple narrators, or the two pages’ surrounding voice/register proves incompatible beyond the single repeated phrase.
   - **Notes:** Page 54 also participates in the plant/poison “to-day” date-anchor motif; keep that separate from narrator identification.
+
+- `N27` — Peebles mineralogy lecturer / bell-summoning voice:
+  - **Signature tells:** snobbish class register (“lower orders”); bell-summoning framing with an ambivalent reliance on a skilled subordinate; academic self-positioning (mineralogy lectures at “Peebles University”); punning blackboard proverb (“Day”/“Knight” swap).
+  - **Likely identity (if any):** unknown.
+  - **Pages:** Pages/cains_jawbone_page_9.md
+  - **Confidence:** `MAYBE`
+  - **Disconfirming evidence:** “Peebles University” and the Day/Knight blackboard pun recur under a clearly different narrator voice, or Page 9 is later shown to be a quoted anecdote rather than the narrator’s lived scene.
+  - **Notes:** MAYBE character overlap with the “old mineralogist” target in Pages/cains_jawbone_page_29.md, but treat that as a cast hypothesis, not a narrator merge.
