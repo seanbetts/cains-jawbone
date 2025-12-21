@@ -30,10 +30,10 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_8.md, Pages/cains_jawbone_page_10.md, Pages/cains_jawbone_page_19.md, Pages/cains_jawbone_page_22.md, Pages/cains_jawbone_page_39.md, Pages/cains_jawbone_page_46.md, Pages/cains_jawbone_page_48.md, Pages/cains_jawbone_page_79.md, Pages/cains_jawbone_page_88.md, Pages/cains_jawbone_page_99.md
   - **Confidence:** `CERTAIN`
   - **Disconfirming evidence:** any page in this set gives an unequivocal human-only physical situation (not idiom/metaphor) incompatible with dog POV.
-  - **Notes:** Pages/cains_jawbone_page_8.md is a `MAYBE` extension keyed by “Mr. Hall”/bell-push mechanics and self-deprecation; drop it if a stronger non-dog anchor emerges. Pages 10 and 39 lean on “mistress/coat” language and naive literalism (e.g., “vicarious”→vicar) consistent with dog POV.
+  - **Notes:** Pages/cains_jawbone_page_8.md is a `MAYBE` extension keyed by “Mr. Hall”/bell-push mechanics and self-deprecation; drop it if a stronger non-dog anchor emerges. Wordplay on Page 8 (Bologna “sausage place”) may be a non-dog calendar anchor and should not be treated as dog-voice evidence by itself. Pages 10 and 39 lean on “mistress/coat” language and naive literalism (e.g., “vicarious”→vicar) consistent with dog POV.
 
 - `N03` — Clement / pills / flowers-and-mercy register:
-  - **Signature tells:** transactional planning + pills/“assassin’s wonderful substance”; publisher/book-world references; plant/flower precision (hellebore, wild jasmine, roses); declared hardness (“quality of mercy… little exerted”); job/instructions framing; scansion/poetry awareness.
+  - **Signature tells:** transactional planning + pills/“assassin’s wonderful substance”; publisher/book-world references; plant/flower precision (hellebore, wild jasmine, roses); declared hardness (“quality of mercy… little exerted”); job/instructions framing; scansion/poetry awareness; wordplay via professional charade clues (e.g., publisher pairing).
   - **Likely identity (if any):** MAYBE a narrator named Clement (Page 24’s pope-name clue), but Page 3 also treats “Clement” as a met person → keep pending disambiguation.
   - **Pages:** Pages/cains_jawbone_page_3.md, Pages/cains_jawbone_page_24.md, Pages/cains_jawbone_page_27.md, Pages/cains_jawbone_page_30.md, Pages/cains_jawbone_page_32.md
   - **Confidence:** `LIKELY`
@@ -73,7 +73,7 @@ Template:
   - **Notes:** The phrase “hammer and tongs” is a strong anchor; watch for reuse elsewhere.
 
 - `N08` — King (“Kipling” name-jibe) narrator:
-  - **Signature tells:** self-conscious nameplay (schoolboy jibe “Kipling”); narrator sees their own name printed in a window-sign; Henry present in-scene; detective/allusion density (Holmes/Sexton Blake / Baker Street framing).
+  - **Signature tells:** self-conscious nameplay (schoolboy jibe “Kipling”); narrator sees their own name printed in a window-sign; Henry present in-scene; detective/allusion density (Holmes/Sexton Blake / Baker Street framing); cryptic-style transforms (anagrams/insertion; 21→21:00 clock pun).
   - **Likely identity (if any):** LIKELY surname King (see `Indexes/people.md` `P99`).
   - **Pages:** Pages/cains_jawbone_page_15.md, Pages/cains_jawbone_page_82.md, Pages/cains_jawbone_page_85.md, Pages/cains_jawbone_page_94.md
   - **Confidence:** `LIKELY`
@@ -81,7 +81,7 @@ Template:
   - **Notes:** Page 82 shares the table/Henry + barking-dog frame with Page 85 but lacks the explicit nameplay/window-sign anchors; keep it under `N08` with `MAYBE` confidence. Page 15 is a `MAYBE` extension keyed by the “Bart”/Bartholomew dog + table framing. MAYBE overlaps: Pages/cains_jawbone_page_100.md (Henry + Scotland Yard + collapse).
 
 - `N09` — “Old man” slow-death / letter-blackmail voice:
-  - **Signature tells:** paranoid “crucial meeting” with an “old man” + suspected eavesdropper; witnessed “done slowly to death”; franked letter/package to “the girl” discovered “in the morning”; fear of being “done in”; overheated associative wordplay around London landmarks and travel-names; Café Royal/time-budgeting anchor paired with an explicit written account (“told him all, hour by hour, day by day”).
+  - **Signature tells:** paranoid “crucial meeting” with an “old man” + suspected eavesdropper; witnessed “done slowly to death”; franked letter/package to “the girl” discovered “in the morning”; fear of being “done in”; overheated associative wordplay around London landmarks and travel-names; Café Royal/time-budgeting anchor paired with an explicit written account (“told him all, hour by hour, day by day”); occasional mythic charade for stationery/letter-writing.
   - **Likely identity (if any):** unknown.
   - **Pages:** Pages/cains_jawbone_page_68.md, Pages/cains_jawbone_page_69.md, Pages/cains_jawbone_page_70.md, Pages/cains_jawbone_page_95.md, Pages/cains_jawbone_page_96.md
   - **Confidence:** `LIKELY`
@@ -89,7 +89,7 @@ Template:
   - **Notes:** Page 68 overlaps with `N05` (school nostalgia) and may be a voice pivot; keep falsifiable.
 
 - `N10` — Will/document eavesdropper voice (May/estate thread):
-  - **Signature tells:** legal/estate vocabulary; document scrutiny; eavesdropping on inheritance talk (“leave everything to me… May”); opportunistic self-justification (“get what I wanted”) alongside “none of my business” retreats.
+  - **Signature tells:** legal/estate vocabulary; document scrutiny; eavesdropping on inheritance talk (“leave everything to me… May”); opportunistic self-justification (“get what I wanted”) alongside “none of my business” retreats; legal double-definition wordplay (“abstracted will” style).
   - **Likely identity (if any):** unknown (context suggests proximity to May + a subordinate Henry, but names may vary across scenes).
   - **Pages:** Pages/cains_jawbone_page_12.md, Pages/cains_jawbone_page_14.md
   - **Confidence:** `MAYBE`
@@ -97,7 +97,7 @@ Template:
   - **Notes:** Potential thematic overlap with will/forgery pages (Pages/cains_jawbone_page_28.md, Pages/cains_jawbone_page_50.md, Pages/cains_jawbone_page_78.md), but do not merge on motif alone.
 
 - `N11` — De’Ath (“Black Museum”) narrator:
-  - **Signature tells:** self-identification via nameplay (DEATH → De’Ath/DeAth); private “Black Museum” crime-collection framing; macabre exhibit anecdotes; self-mythologising criminal/detective register.
+  - **Signature tells:** self-identification via nameplay (DEATH → De’Ath/DeAth) including orthographic “instruction” phrasing; private “Black Museum” crime-collection framing; macabre exhibit anecdotes; self-mythologising criminal/detective register.
   - **Likely identity (if any):** surname De’Ath (stylised).
   - **Pages:** Pages/cains_jawbone_page_91.md
   - **Confidence:** `LIKELY`
@@ -105,7 +105,7 @@ Template:
   - **Notes:** MAYBE overlaps with police/detective-allusion pages (e.g., Pages/cains_jawbone_page_100.md) but keep separate until shared tells emerge.
 
 - `N12` — Calabar/digitalis poison-logistics + murder-as-genre voice:
-  - **Signature tells:** poison-botany specificity (Calabar bean/physostigma; digitalis) embedded in murder logistics; darkly comic genre-aware murder framing (murder counts, pursuit set-pieces); pragmatic “try again tomorrow” planning language.
+  - **Signature tells:** poison-botany specificity (Calabar bean/physostigma; digitalis) embedded in murder logistics; darkly comic genre-aware murder framing (murder counts, pursuit set-pieces); pragmatic “try again tomorrow” planning language; wordplay/idiom-twisting tied to botany and deception (“botulist”; “up the garden path”).
   - **Likely identity (if any):** unknown.
   - **Pages:** Pages/cains_jawbone_page_6.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_26.md, Pages/cains_jawbone_page_29.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_58.md, Pages/cains_jawbone_page_59.md, Pages/cains_jawbone_page_60.md
   - **Confidence:** `LIKELY`
@@ -137,7 +137,7 @@ Template:
   - **Notes:** Do not merge into `N12` on “murder talk” alone; the tone and method cues differ.
 
 - `N16` — St. Bruno / smell-memory + incinerator-evidence voice:
-  - **Signature tells:** smell-triggered scene-shifts; tobacco fixation (St. Bruno) and other pungent “relief” smells; synaesthetic sensory metaphors (smell→colour/sound); self-aware narration about telling/following a story; vivid brand/food list; stealth/eavesdropping register (“stealing at the doors”); evidence-destruction detail (half-burned marriage certificate in an incinerator).
+  - **Signature tells:** smell-triggered scene-shifts; tobacco fixation (St. Bruno) and other pungent “relief” smells; synaesthetic sensory metaphors (smell→colour/sound); self-aware narration about telling/following a story; vivid brand/food list; stealth/eavesdropping register (“stealing at the doors”); evidence-destruction detail (half-burned marriage certificate in an incinerator); occasional punning inside the “menu list”.
   - **Likely identity (if any):** unknown.
   - **Pages:** Pages/cains_jawbone_page_7.md, Pages/cains_jawbone_page_44.md, Pages/cains_jawbone_page_45.md, Pages/cains_jawbone_page_55.md
   - **Confidence:** `LIKELY`
@@ -145,7 +145,7 @@ Template:
   - **Notes:** Pages 7 and 55 share the smell-first, self-correcting sensory register but lack the explicit Henry/Hodge anchors of Pages 44–45; keep falsifiable.
 
 - `N17` — Dog-watch/capstan + Kipling-quoting punster voice:
-  - **Signature tells:** nautical timekeeping register (dog-watch; capstan bar); heavy Kipling embedding (Mary Gloster / “Thy Servant a Dog”); literary name-dropping (Swift, De Quincey); punning London geography (Selfridges vs Bond Street).
+  - **Signature tells:** nautical timekeeping register (dog-watch; capstan bar); heavy Kipling embedding (Mary Gloster / “Thy Servant a Dog”); literary name-dropping (Swift, De Quincey); punning London geography (Selfridges vs Bond Street); spoonerism/cryptic newspaper-title transforms (“Grundy Sapphic” → Sunday Graphic).
   - **Likely identity (if any):** unknown.
   - **Pages:** Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_41.md
   - **Confidence:** `LIKELY`
@@ -161,7 +161,7 @@ Template:
   - **Notes:** Thematically overlaps the will/forgery motif cluster but should not be merged without additional shared voice tells.
 
 - `N19` — Comic coastal punster (buttonholes/lighthouse/brand riffs):
-  - **Signature tells:** comic, pun-heavy narration; branded-food riffing (Bisto/Cerebos); suspicion framed as banter; coastal peril imagery (boy tumbling into sea; ruined lighthouse); drink/poison wordplay (“Emperor’s Peg” + vitriol/applejack).
+  - **Signature tells:** comic, pun-heavy narration; branded-food riffing (Bisto/Cerebos); suspicion framed as banter; coastal peril imagery (boy tumbling into sea; ruined lighthouse); drink/poison wordplay (“Emperor’s Peg” + vitriol/applejack); sound-mixup puns and initialism/punctuation decoding (O.M./M.O. → OM).
   - **Likely identity (if any):** unknown.
   - **Pages:** Pages/cains_jawbone_page_4.md, Pages/cains_jawbone_page_5.md
   - **Confidence:** `LIKELY`
@@ -169,7 +169,7 @@ Template:
   - **Notes:** Both pages treat Henry as a colourful figure and lean on rapid punning.
 
 - `N20` — Bloomsbury/nomenclature + grim-scene voice:
-  - **Signature tells:** self-conscious class register (“Bloomsbury”); fixation on naming/nomenclature and soundalike jokes; familiarity with bodies/corpses and threat/weapon cues.
+  - **Signature tells:** self-conscious class register (“Bloomsbury”); fixation on naming/nomenclature and soundalike jokes (e.g., classical name soundalikes); familiarity with bodies/corpses and threat/weapon cues.
   - **Likely identity (if any):** unknown.
   - **Pages:** Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_31.md
   - **Confidence:** `LIKELY`
