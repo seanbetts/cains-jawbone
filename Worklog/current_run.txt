@@ -1,6 +1,6 @@
 branch=run/20251215-codex-extraction-pass1
 agent=codex-cli
 task=full extraction pass (pages 1-100)
-phase=phase-3
+phase=phase-2
 start=2025-12-15T15:15:59Z
 notes=extraction-first; incremental notes and index updates
