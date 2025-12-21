@@ -14,7 +14,7 @@ Looking over at the sly sideways smile which seemed to fill all the foreground o
 - **Quotes & allusions:**
   - CERTAIN: De Quincey “in the … sense” (likely *On Murder Considered as One of the Fine Arts*; confirm phrasing).
   - CERTAIN: “stars upon some gloomy grove” = Henry Vaughan, “They are all gone into the world of light” (*The Poems of Henry Vaughan*, 1896), p. 182: https://books.google.co.uk/books?id=Tn4XAAAAYAAJ&pg=PA182&dq=some+gloomy+grove&source=gbs_api.
-  - MAYBE: “rob… a whirlwind… reap a scorpion” (echoes “sow the wind, reap the whirlwind”; source TBD).
+  - MAYBE: “rob… a whirlwind… reap a scorpion” (variant proverb/quotation; unresolved; queued — see `Indexes/research_queue.md`).
 - **Motifs/continuity hooks:**
   - Green/ripeness/fruit metaphors used to justify action (“young women are green”).
   - “Green” as victim name + injury metaphor (“greenstick fracture”) + plant language.
@@ -25,4 +25,4 @@ Looking over at the sly sideways smile which seemed to fill all the foreground o
 - **Disconfirming evidence:**
   - If “Green” is revealed as a joke/reference rather than an in-world victim, or if the billhook scene is purely literary quotation.
 - **Research needed:**
-  - (none)
+  - Queued: identify the source of “robbing a whirlwind to reap a scorpion” (see `Indexes/research_queue.md`).

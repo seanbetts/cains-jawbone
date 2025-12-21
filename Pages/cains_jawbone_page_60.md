@@ -4,7 +4,7 @@ I had sufficient knowledge to realise that I had succeeded. I ordered Charles to
 
 - **Entities:**
   - CERTAIN: Henry (called “my peerless investigator”).
-  - CERTAIN: Charles (ordered to make “Lover’s Delight”; role TBD).
+  - CERTAIN: Charles (`P54`; ordered to make “Lover’s Delight” sundae; subordinate/assistant).
   - MAYBE: parson + “collaborator” (in pulpit; “did the trick”).
   - MAYBE: “figurehead beard” (target; likely Trinder given pseudo-science/beard cues).
 - **Time markers:**

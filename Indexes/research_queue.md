@@ -131,6 +131,13 @@ Template:
   - **Status:** `resolved`
   - **Result:** William Boyd, 4th Earl of Kilmarnock, and Arthur Elphinstone, 6th Lord Balmerino, were executed by beheading on 18 August 1746 → corroborates “to-day” ≈ Aug 18.
 
+- **Item:** Identify the “green-eyed streak” jealousy phrase on Page 8
+  - **Type:** quote/term
+  - **Pages:** Pages/cains_jawbone_page_8.md
+  - **Why it matters:** Possible idiom/allusion anchor for narrator voice clustering.
+  - **Status:** `open`
+  - **Result:** Pending.
+
 - **Item:** Identify the knob/mechanism and action sequence (Page 8 “black knobby thing”; Page 19 “polished knob”) and who Mr. Hall is
   - **Type:** other
   - **Pages:** Pages/cains_jawbone_page_8.md, Pages/cains_jawbone_page_19.md
@@ -859,6 +866,13 @@ Template:
   - **Status:** `resolved`
   - **Result:** Columbus departed Palos on **3 Aug 1492** (“On 3 August, 1492, the people of Palos… saw them depart” — *Catholic Encyclopedia*, “Christopher Columbus”).
 
+- **Item:** Identify the “herb of grace” reference and the allusive celebration-menu on Page 67 (“Helen and crooning? Poe and Prohibition? Canvas-backed clams and the prejudicial Menkin?”)
+  - **Type:** quote/name/other
+  - **Pages:** Pages/cains_jawbone_page_67.md
+  - **Why it matters:** Could clarify narrator cultural reference-set and strengthen clustering of this voice.
+  - **Status:** `open`
+  - **Result:** Pending.
+
 - **Item:** Identify the “joy’s crown of sorrow / sorrow’s crown of joy” phrase (Page 66)
   - **Type:** quote
   - **Pages:** Pages/cains_jawbone_page_66.md
@@ -984,6 +998,13 @@ Template:
   - **Why it matters:** Potential precise-source anchor for clustering Henry/narrator segments.
   - **Status:** `resolved`
   - **Result:** Henry Vaughan, “They are all gone into the world of light” (line: “Like stars upon some gloomy grove”) in *The Poems of Henry Vaughan* (1896), p. 182: https://books.google.co.uk/books?id=Tn4XAAAAYAAJ&pg=PA182&dq=some+gloomy+grove&source=gbs_api.
+
+- **Item:** Identify the source of “robbing a whirlwind to reap a scorpion” (Page 76)
+  - **Type:** quote
+  - **Pages:** Pages/cains_jawbone_page_76.md
+  - **Why it matters:** Likely a deliberate proverb/quotation variant embedded in the narrator’s moral calculus; could cluster voices/pages.
+  - **Status:** `open`
+  - **Result:** Pending.
 
 - **Item:** Identify what “Compact” refers to (Page 77)
   - **Type:** term/other

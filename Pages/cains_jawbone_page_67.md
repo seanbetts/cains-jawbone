@@ -14,7 +14,7 @@ the darker works of Beardsley and Felicien Rops, and ringing with the gloat curs
   - CERTAIN: “old Chris left Palos” → 3 Aug 1492 (cf. *Catholic Encyclopedia*, “Christopher Columbus”: “On 3 August, 1492, the people of Palos… saw them depart”).
 - **Quotes & allusions:**
   - MAYBE: “herb of grace” (rue; Hamlet/Ophelia phrase; confirm intent).
-  - MAYBE: “Helen and crooning? Poe and Prohibition? … Menkin?” (dense allusive menu of celebration options; sources TBD).
+  - MAYBE: “Helen and crooning? Poe and Prohibition? … Menkin?” (dense allusive menu of celebration options; unresolved; queued — see `Indexes/research_queue.md`).
 - **Motifs/continuity hooks:**
   - Birth/embodiment meditation (“received identity by my body…”).
   - Celebration vs mourning; possible intoxicant/ritual (“ration” of herb of grace).
@@ -25,4 +25,4 @@ the darker works of Beardsley and Felicien Rops, and ringing with the gloat curs
 - **Disconfirming evidence:**
   - If “Palos”/Columbus is shown to be metaphorical rather than a date anchor (still likely a calendar pointer).
 - **Research needed:**
-  - Identify “herb of grace” usage in this context and the “Helen/Poe/Menkin” references.
+  - Queued: identify “herb of grace” usage in this context and the “Helen/Poe/Menkin” references (see `Indexes/research_queue.md`).

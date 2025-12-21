@@ -23,7 +23,7 @@ And then with horrid clearness I had seen a woman---not actually, if I could tru
   - CERTAIN: Henry’s favourite quotation is Kipling, “The Mary Gloster” (*The Seven Seas*): “M’Cullough ’e wanted cabins with marble and maple and all…”
 - **Wordplay:**
   - Mixed idioms: “to catch a whale… cast a sprat over the windmill” (proverb-scrambling).
-  - “moled and isled” (cryptic place/wordplay; interpretation TBD).
+  - “moled and isled” (cryptic place/wordplay; interpretation unresolved — stalled; see `Indexes/research_queue.md`).
 - **Motifs/continuity hooks:**
   - Marriage to Henry; hints about “going gay”.
   - Dog/dog-watch register.

@@ -4,7 +4,7 @@ It was just when the girl from the Asolo silk mills contended that morning was. 
 
 - **Entities:**
   - CERTAIN: Mrs. Larkin (school; “mixed infant” term).
-  - MAYBE: “girl from the Asolo silk mills” (reference; identity TBD).
+  - CERTAIN: “girl from the Asolo silk mills” = Pippa (*Pippa Passes*; Asolo).
   - MAYBE: narrator’s “silly girl of mine” (domestic companion; relationship unclear).
 - **Time markers:**
   - CERTAIN: “that morning”; waiting for breakfast; “those six hours”.

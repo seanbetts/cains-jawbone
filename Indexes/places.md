@@ -42,11 +42,11 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_5.md
   - **Notes:** Henry drinks/courts “at the top of the ruined lighthouse”.
 
-- **Church (unidentified)**
+- **Church (unnamed)**
   - **Type:** venue
   - **Confidence:** `MAYBE`
   - **Pages:** Pages/cains_jawbone_page_4.md
-  - **Notes:** Flower-seller “behind the church”; near puddles/sea reference.
+  - **Notes:** Flower-seller “behind the church”; no dedication/name given; near puddles/sea reference.
 
 - **Baker Street**
   - **Type:** street/address
@@ -72,11 +72,11 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_8.md
   - **Notes:** “Guido… on the sausage place” is a Bologna pun; the paired “to-day” likely points to 18 Aug (Guido Reni died in Bologna on 18 Aug 1642).
 
-- **Orchard (unidentified)**
-  - **Type:** place (unknown)
-  - **Confidence:** `MAYBE`
+- **Orchard (Kipling in-story place-name)**
+  - **Type:** place-name (quoted/in-story)
+  - **Confidence:** `CERTAIN`
   - **Pages:** Pages/cains_jawbone_page_11.md
-  - **Notes:** “waited in Orchard… where he cast up blinded that night”; may be a quoted anchor rather than a literal location.
+  - **Notes:** Direct quotation from Kipling, “Thy Servant a Dog” (1930): “waited in Orchard…”; treat as a quote anchor rather than a real-world location ID (see `Indexes/research_queue.md`).
 
 - **Grantham**
   - **Type:** town/city
@@ -114,17 +114,17 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_16.md
   - **Notes:** Referenced with performances and supper.
 
-- **“the Moon” (unidentified)**
+- **“the Moon” (venue name; unresolved)**
   - **Type:** venue/building (uncertain)
   - **Confidence:** `MAYBE`
   - **Pages:** Pages/cains_jawbone_page_17.md
-  - **Notes:** “visiting the Moon… to-day”; paired with “the Dawn”; LIKELY a named venue/building (possibly a pub), but not pinned to a specific real-world location yet.
+  - **Notes:** “visiting the Moon… to-day”; paired with “the Dawn”; LIKELY a named venue/building (possibly a pub), but not pinned to a specific real-world location yet (stalled; see `Indexes/research_queue.md`).
 
-- **“the Dawn” (unidentified)**
+- **“the Dawn” (venue/menu title; unresolved)**
   - **Type:** venue/building (uncertain)
   - **Confidence:** `MAYBE`
   - **Pages:** Pages/cains_jawbone_page_17.md
-  - **Notes:** “Moon on the one hand and the Dawn on the other” suggests adjacent venues/landmarks (possibly pubs). Note: “the Dawn” also appears on Pages/cains_jawbone_page_43.md among titled items (“Lover’s Delight”, “Banana Split”, “the Dawn”), so treat as ambiguous until better anchored.
+  - **Notes:** “Moon on the one hand and the Dawn on the other” suggests adjacent venues/landmarks (possibly pubs). Note: “the Dawn” also appears on Pages/cains_jawbone_page_43.md among titled items (“Lover’s Delight”, “Banana Split”, “the Dawn”), so treat as ambiguous until better anchored (stalled; see `Indexes/research_queue.md`).
 
 - **Falkland (Fife) / Falkland Castle (Palace)**
   - **Type:** town/castle (Scotland)
@@ -192,11 +192,11 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_27.md
   - **Notes:** Mentioned in connection with a “county town on the Severn” lock-up.
 
-- **County town on the Severn (unidentified)**
+- **Shrewsbury (county town on the Severn)**
   - **Type:** town/city
   - **Confidence:** `LIKELY`
   - **Pages:** Pages/cains_jawbone_page_27.md
-  - **Notes:** Lock-up reference; LIKELY Shrewsbury (county town of Shropshire on the river Severn) (EB1911 “Shrewsbury”: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Shrewsbury). (Other possible county-town-on-Severn candidates include Worcester and Gloucester.)
+  - **Notes:** Lock-up reference; LIKELY Shrewsbury (county town of Shropshire on the river Severn) (EB1911 “Shrewsbury”: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Shrewsbury). (Other county-town-on-Severn candidates include Worcester and Gloucester.)
 
 - **Quebec**
   - **Type:** city/region
@@ -486,7 +486,7 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_89.md
   - **Notes:** Appears via “Spey Royal” (LIKELY whisky branding rather than literal travel).
 
-- **Little bay (unidentified)**
+- **Little bay (unnamed)**
   - **Type:** bay/shoreline
   - **Confidence:** `MAYBE`
   - **Pages:** Pages/cains_jawbone_page_87.md
@@ -552,11 +552,11 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_96.md
   - **Notes:** Spelling likely reflects transliteration/variant (“Jifjaffa”); G. H. Gullett (1923) describes Jifjafa as “a post situated in the Sinai Range… some fifty-two miles east of the Canal” and narrates the April 1916 “Jifjafa raid”: https://archive.org/stream/australianimperi07gulluoft/australianimperi07gulluoft_djvu.txt.
 
-- **Quarry hills (unidentified)**
+- **Quarry hills (descriptive; not pinned)**
   - **Type:** hills/landscape
   - **Confidence:** `MAYBE`
   - **Pages:** Pages/cains_jawbone_page_98.md
-  - **Notes:** Sunset described “above the Quarry hills”; may anchor a local landscape if matched elsewhere.
+  - **Notes:** Sunset described “above the Quarry hills”; treated as descriptive landscape wording unless another page supplies a stronger geographic anchor (stalled; see `Indexes/research_queue.md`).
 
 - **Woolworth’s (storefront; unspecified)**
   - **Type:** shop/landmark

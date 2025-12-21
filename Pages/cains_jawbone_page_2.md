@@ -6,9 +6,9 @@ I plunged for the last time. The few remaining figures and letters swam as they 
   - CERTAIN: Henry (present, unnamed surname); London.
   - MAYBE: woman in “creamy dress” (unnamed).
 - **Time markers:**
-  - CERTAIN: “to-day” = the day “the writer” of the quoted plague phrases died (potential calendar anchor).
+  - CERTAIN: “to-day” likely points to Daniel Defoe’s death date (24 Apr 1731) via the quoted plague-prose (see `Indexes/research_queue.md`).
 - **Quotes & allusions:**
-  - LIKELY: plague-reporting prose (“Which swept an hundred thousand souls away; yet I alive.” / “carried into the great pit…”) (source/author TBD).
+  - CERTAIN: plague-reporting prose (“Which swept an hundred thousand souls away; yet I alive.” / “carried into the great pit…”) is from Daniel Defoe’s *A Journal of the Plague Year* (1722) (see `Indexes/research_queue.md`).
 - **Motifs/continuity hooks:**
   - Figures/letters “swam” then “There were no more” (reading/decoding finish line?).
   - London as indifferent homecoming; beauty framed as sepulchral.
@@ -19,4 +19,4 @@ I plunged for the last time. The few remaining figures and letters swam as they 
 - **Disconfirming evidence:**
   - If later reveals this “Henry” is a different person in another voice/setting.
 - **Research needed:**
-  - Identify the exact plague-quote source and the referenced author’s death date.
+  - Resolved: Defoe, *A Journal of the Plague Year*; “to-day” likely April 24 (Defoe death date) — see `Indexes/research_queue.md`.
