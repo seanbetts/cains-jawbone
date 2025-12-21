@@ -18,7 +18,7 @@ Template:
 These are **cross-narrator** groupings intended to reduce the search space for Phase 4. Overlap is allowed; **do not add within-cluster sequencing in Phase 3**.
 
 - **Cluster:** Dog POV strand (confidence: `CERTAIN`)
-  - **Pages:** Pages/cains_jawbone_page_10.md, Pages/cains_jawbone_page_19.md, Pages/cains_jawbone_page_22.md, Pages/cains_jawbone_page_39.md, Pages/cains_jawbone_page_46.md, Pages/cains_jawbone_page_48.md, Pages/cains_jawbone_page_79.md, Pages/cains_jawbone_page_88.md, Pages/cains_jawbone_page_99.md
+  - **Pages:** Pages/cains_jawbone_page_8.md, Pages/cains_jawbone_page_10.md, Pages/cains_jawbone_page_19.md, Pages/cains_jawbone_page_22.md, Pages/cains_jawbone_page_39.md, Pages/cains_jawbone_page_46.md, Pages/cains_jawbone_page_48.md, Pages/cains_jawbone_page_79.md, Pages/cains_jawbone_page_88.md, Pages/cains_jawbone_page_99.md
   - **Rationale:** Repeated non-human bodily perspective and dog-specific constraints are strong enough to treat these as a standalone narrative strand.
   - **Key anchors:** pulled ears + low noise; “no vibration… of my latter end”; “lowered myself and made love”; “provided a chop for me”; “my mistress” framing; Tate sugar hoarding.
   - **Disconfirming evidence:** any page in this set is later shown to require an unambiguously human physical context (not idiom/metaphor).
@@ -32,7 +32,7 @@ These are **cross-narrator** groupings intended to reduce the search space for P
   - **Next falsification check:** treat this as an umbrella and explicitly maintain sub-strands (`N12` poison logistics; `N03` Clement/mission plants; `N06` flowers+documents/OGPU; `N13` host/guest poisoning), only merging across them when a non-botanical phrase/participant anchor repeats; people-index suggests `P03` Clement anchors Pages/cains_jawbone_page_3.md + Pages/cains_jawbone_page_24.md + Pages/cains_jawbone_page_27.md + Pages/cains_jawbone_page_32.md, `P16` May anchors Pages/cains_jawbone_page_71.md + Pages/cains_jawbone_page_75.md + Pages/cains_jawbone_page_80.md, and `P50` Sir Paul Trinder anchors Pages/cains_jawbone_page_59.md + Pages/cains_jawbone_page_80.md (potential bridge if Page 80 is confirmed in the host/guest poisoning sub-strand). Treat `P01` Henry as high-signal but high-noise (likely multiple Henrys across strands).
 
 - **Cluster:** Paper artifacts + money pressure strand (confidence: `MAYBE`)
-  - **Pages:** Pages/cains_jawbone_page_12.md, Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_18.md, Pages/cains_jawbone_page_28.md, Pages/cains_jawbone_page_33.md, Pages/cains_jawbone_page_34.md, Pages/cains_jawbone_page_50.md, Pages/cains_jawbone_page_52.md, Pages/cains_jawbone_page_53.md, Pages/cains_jawbone_page_57.md, Pages/cains_jawbone_page_68.md, Pages/cains_jawbone_page_69.md, Pages/cains_jawbone_page_70.md, Pages/cains_jawbone_page_72.md, Pages/cains_jawbone_page_78.md, Pages/cains_jawbone_page_89.md, Pages/cains_jawbone_page_95.md, Pages/cains_jawbone_page_96.md, Pages/cains_jawbone_page_98.md
+  - **Pages:** Pages/cains_jawbone_page_12.md, Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_18.md, Pages/cains_jawbone_page_23.md, Pages/cains_jawbone_page_28.md, Pages/cains_jawbone_page_33.md, Pages/cains_jawbone_page_34.md, Pages/cains_jawbone_page_50.md, Pages/cains_jawbone_page_52.md, Pages/cains_jawbone_page_53.md, Pages/cains_jawbone_page_57.md, Pages/cains_jawbone_page_68.md, Pages/cains_jawbone_page_69.md, Pages/cains_jawbone_page_70.md, Pages/cains_jawbone_page_72.md, Pages/cains_jawbone_page_78.md, Pages/cains_jawbone_page_89.md, Pages/cains_jawbone_page_95.md, Pages/cains_jawbone_page_96.md, Pages/cains_jawbone_page_98.md
   - **Rationale:** Multiple pages foreground documents/papers/letters (wills, interviews, “bits of paper”, magazines, signatures) tightly coupled to money pressure, leverage, or transaction-like scenes.
   - **Key anchors:** will/inheritance talk; forgery/handwriting manipulation; “papers” handled in an interview-like frame; “valuable services rendered”; franked letter/package to “the girl”; Café Royal time-budget + written account; “signatures were his business”; money changing hands “slowly” for later description.
   - **Disconfirming evidence:** paper artifacts are shown to be a generic, widely used prop with no consistent voice/participant continuity (e.g., May/Henry clearly differ across all instances).
@@ -40,7 +40,7 @@ These are **cross-narrator** groupings intended to reduce the search space for P
     - will/estate/forgery pages (Pages/cains_jawbone_page_12.md, Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_28.md, Pages/cains_jawbone_page_50.md, Pages/cains_jawbone_page_78.md)
     - interview/bills/papers pages (Pages/cains_jawbone_page_33.md, Pages/cains_jawbone_page_34.md, Pages/cains_jawbone_page_52.md, Pages/cains_jawbone_page_53.md, Pages/cains_jawbone_page_57.md)
     - old man/blackmail letter pages (Pages/cains_jawbone_page_68.md, Pages/cains_jawbone_page_69.md, Pages/cains_jawbone_page_70.md, Pages/cains_jawbone_page_95.md, Pages/cains_jawbone_page_96.md)
-    - singleton anchors: rupee chapter (Pages/cains_jawbone_page_18.md), magazine meta (Pages/cains_jawbone_page_72.md), signatures/death-warrant talk (Pages/cains_jawbone_page_89.md), medical-payoff meeting (Pages/cains_jawbone_page_98.md)
+    - singleton anchors: rupee chapter (Pages/cains_jawbone_page_18.md), bills-in-the-paper/matches (Pages/cains_jawbone_page_23.md), magazine meta (Pages/cains_jawbone_page_72.md), signatures/death-warrant talk (Pages/cains_jawbone_page_89.md), medical-payoff meeting (Pages/cains_jawbone_page_98.md)
     - check for cross-sub-strand bridges via repeated participants (people-index suggests `P16` May in Pages/cains_jawbone_page_14.md + Pages/cains_jawbone_page_98.md; `P01` Henry in Pages/cains_jawbone_page_14.md + Pages/cains_jawbone_page_68.md + Pages/cains_jawbone_page_78.md; and `P61` “poor old man” concentrated in Pages/cains_jawbone_page_68.md + Pages/cains_jawbone_page_69.md + Pages/cains_jawbone_page_70.md) before merging.
 
 - **Cluster:** Detective/police + violence scenes strand (confidence: `MAYBE`)
@@ -82,13 +82,13 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Disconfirming evidence:** Alexander (“Ecky”) is later shown to be a different POV than the Aquarius-pen narrator, or “bad for the hand” is a widely shared motif across voices.
 
 - **Cluster:** `N12` Calabar/digitalis poison-logistics + murder-as-genre voice (confidence: `LIKELY`)
-  - **Pages:** Pages/cains_jawbone_page_6.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_26.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_58.md, Pages/cains_jawbone_page_59.md, Pages/cains_jawbone_page_60.md (MAYBE: Pages/cains_jawbone_page_29.md)
+  - **Pages:** Pages/cains_jawbone_page_6.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_26.md, Pages/cains_jawbone_page_29.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_58.md, Pages/cains_jawbone_page_59.md, Pages/cains_jawbone_page_60.md
   - **Rationale:** Shared poison anchors (Calabar/digitalis) and a consistent practical, darkly comic “murder mechanics” register (counts, pursuit set-pieces, try-again planning) suggest a stable narrator signature.
   - **Key anchors:** Calabar bean/physostigma; digitalis; murder-counting language; “Murders were funny things”; “give him another day”.
   - **Disconfirming evidence:** Calabar/digitalis references recur widely across unrelated voices, or the pursuit/murder-count tone is shown to be a separate narrator from the poison-logistics pages.
 
 - **Cluster:** `N13` Host/guest poisoning + coastal-house segment (confidence: `LIKELY`)
-  - **Pages:** Pages/cains_jawbone_page_86.md, Pages/cains_jawbone_page_87.md (MAYBE: Pages/cains_jawbone_page_80.md)
+  - **Pages:** Pages/cains_jawbone_page_80.md, Pages/cains_jawbone_page_86.md, Pages/cains_jawbone_page_87.md
   - **Rationale:** Pages 86–87 share a continuous host/guest/patient poisoning frame with Yeats/Whitman quotations and a distinctive coastal-house setting; this reads as a coherent narrator segment.
   - **Key anchors:** Caroline Jasmine; Mithradates inoculation; Yeats “bent low and low…” continuation; bay landscape → corpse imagery.
   - **Disconfirming evidence:** the apparent continuation is later shown to be coincidental (e.g., cut-and-paste echo) with incompatible settings/participants.
@@ -154,7 +154,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Disconfirming evidence:** the collapse frame is purely rhetorical or the Scotland Yard/Kursaal layer is reused by other narrators.
 
 - **Cluster:** `N25` Quicksands-of-crime interviewer / papers voice (confidence: `LIKELY`)
-  - **Pages:** Pages/cains_jawbone_page_33.md, Pages/cains_jawbone_page_34.md, Pages/cains_jawbone_page_52.md, Pages/cains_jawbone_page_53.md (MAYBE: Pages/cains_jawbone_page_57.md)
+  - **Pages:** Pages/cains_jawbone_page_33.md, Pages/cains_jawbone_page_34.md, Pages/cains_jawbone_page_52.md, Pages/cains_jawbone_page_53.md, Pages/cains_jawbone_page_57.md
   - **Rationale:** Page 34’s “ironic comment” and “innocent child” moralising register matches Page 52’s crime/innocence rhetoric; Pages 52–53 then supply the same voice in a concrete “interview/papers” scene culminating in a contemptuous introduction of Sir Paul Trinder. Page 33 adds a compatible clandestine, debt-framed “papers/letter being read” vignette.
   - **Key anchors:** “I always pay my debts”; “behind the armchair”; “ironic comment”; “innocent child”; “end of my interview”; “make yourself comfortable with the papers”; “commentary… page after page”; “introduced to me”; “well-fed swine”; Westphalian ham.
   - **Disconfirming evidence:** Westphalian ham/papers language is shown to be a widely reused table-setting motif, or the “introduced to me” Trinder description is later anchored to a different narrator/setting.
@@ -236,6 +236,18 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Rationale:** A single-page narrator voice is anchored by a slow payoff-for-identification scene, heavy medical framing, and an explicit “May be” decision pun set against a distinctive sunset landscape.
   - **Key anchors:** “The money changed hands slowly… describe him”; “proper medical advice”; “He went. He went.”; “played the sedulous ape”; “May be. May be not.”; “Quarry hills”.
   - **Disconfirming evidence:** the scene is later shown to be recounted/quoted by another narrator, or the “May be” pun and medical-payoff framing recur under an incompatible voice elsewhere.
+
+- **Cluster:** `N39` Wilde/Earnest echoes + will/forgery voice (confidence: `MAYBE`)
+  - **Pages:** Pages/cains_jawbone_page_28.md, Pages/cains_jawbone_page_50.md
+  - **Rationale:** Both pages embed Wilde/Earnest material alongside will/forgery and pen/stationery attention, suggesting a shared narrator register rather than a generic allusion layer.
+  - **Key anchors:** Wilde/Earnest echoes; will/forgery talk; caseful of “strange pens”.
+  - **Disconfirming evidence:** Wilde/Earnest lines are shown to be a detachable quotation layer used across unrelated narrators, or the will/forgery contexts resolve to incompatible speakers/settings.
+
+- **Cluster:** `N40` Bills-in-paper / Bryant & May / Left Luggage voice (confidence: `MAYBE`)
+  - **Pages:** Pages/cains_jawbone_page_23.md
+  - **Rationale:** A single-page voice anchored by bills-in-the-paper framing plus match/brand and Left Luggage cues; keep as a placeholder until a second page repeats this combination.
+  - **Key anchors:** bills + “paper” framing; Bryant & May; Left Luggage Office.
+  - **Disconfirming evidence:** the bills/matches/Left Luggage cues recur under an existing narrator signature with stronger continuity markers (scene mechanics, named participants), making this a motif-only page.
 
 - **Cluster:** `N04` Great Lexicographer / fealty voice (confidence: `CERTAIN`)
   - **Pages:** Pages/cains_jawbone_page_61.md, Pages/cains_jawbone_page_64.md
@@ -322,7 +334,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Disconfirming evidence:** later pages show multiple unrelated Mr. Hall contexts or different mechanisms.
 
 - **Cluster:** `N10` Will/document eavesdropper voice (confidence: `MAYBE`)
-  - **Pages:** Pages/cains_jawbone_page_12.md, Pages/cains_jawbone_page_14.md (MAYBE: Pages/cains_jawbone_page_28.md, Pages/cains_jawbone_page_50.md, Pages/cains_jawbone_page_78.md)
+  - **Pages:** Pages/cains_jawbone_page_12.md, Pages/cains_jawbone_page_14.md
   - **Rationale:** Pages 12 and 14 share inheritance eavesdropping and legal/document language (including a May-addressed “leave everything to me” frame), suggesting a possible consistent narrator signature around estate manoeuvring.
   - **Key anchors:** will/inheritance talk addressed to May; “abstracted will” pun; document-reading setup.
   - **Disconfirming evidence:** May/Henry context proves incompatible across the two pages, or the will language is a one-off motif rather than a narrator signature.
@@ -370,9 +382,9 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Disconfirming evidence:** “to-day” references are purely decorative and do not resolve to dates or ordering constraints.
 
 - **Cluster:** `N02` Dog POV (confidence: `CERTAIN`)
-  - **Pages:** Pages/cains_jawbone_page_10.md, Pages/cains_jawbone_page_19.md, Pages/cains_jawbone_page_22.md, Pages/cains_jawbone_page_39.md, Pages/cains_jawbone_page_46.md, Pages/cains_jawbone_page_48.md, Pages/cains_jawbone_page_79.md, Pages/cains_jawbone_page_88.md, Pages/cains_jawbone_page_99.md
-  - **Rationale:** Explicit animal-coded reactions (ears pulled, “low noise”; tail “vibration” clue; mating/banishment behaviour) plus dog-coded details (chop; “nose” perspective) point to non-human narrator segments.
-  - **Key anchors:** pulled ears + low noise; “no vibration… of my latter end”; “lowered myself and made love”; “provided a chop for me”; “nearly fell on my nose”; “my mistress” framing + “could have howled”; coat/undercoat literalism (“inherited coat”) and “vicarious”→vicar misunderstanding; Tate sugar hoarding + “I did not entirely understand” register.
+  - **Pages:** Pages/cains_jawbone_page_8.md, Pages/cains_jawbone_page_10.md, Pages/cains_jawbone_page_19.md, Pages/cains_jawbone_page_22.md, Pages/cains_jawbone_page_39.md, Pages/cains_jawbone_page_46.md, Pages/cains_jawbone_page_48.md, Pages/cains_jawbone_page_79.md, Pages/cains_jawbone_page_88.md, Pages/cains_jawbone_page_99.md
+  - **Rationale:** Explicit animal-coded reactions (ears pulled, “low noise”; tail “vibration” clue; mating/banishment behaviour) plus dog-coded scene mechanics (Mr. Hall + knob/bell summons) point to non-human narrator segments.
+  - **Key anchors:** pulled ears + low noise; “no vibration… of my latter end”; “lowered myself and made love”; “provided a chop for me”; “nearly fell on my nose”; “my mistress” framing + “could have howled”; coat/undercoat literalism (“inherited coat”) and “vicarious”→vicar misunderstanding; Mr. Hall + knob/bell summons; Tate sugar hoarding + “I did not entirely understand” register.
   - **Disconfirming evidence:** later context shows these are human metaphors (or the POV is clearly human).
 
 - **Cluster:** `N03` Clement / pills / flowers-and-mercy register (confidence: `LIKELY`)
