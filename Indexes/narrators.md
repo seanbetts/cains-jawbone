@@ -71,3 +71,19 @@ Template:
   - **Confidence:** `CERTAIN`
   - **Disconfirming evidence:** “Bunny and Perry” are identified as literal recurring people rather than internal debate personae.
   - **Notes:** The phrase “hammer and tongs” is a strong anchor; watch for reuse elsewhere.
+
+- `N08` — King (“Kipling” name-jibe) narrator:
+  - **Signature tells:** self-conscious nameplay (schoolboy jibe “Kipling”); narrator sees their own name printed in a window-sign; Henry present in-scene; detective/allusion density (Holmes/Sexton Blake / Baker Street framing).
+  - **Likely identity (if any):** LIKELY surname King (see `Indexes/people.md` `P99`).
+  - **Pages:** Pages/cains_jawbone_page_85.md, Pages/cains_jawbone_page_94.md
+  - **Confidence:** `LIKELY`
+  - **Disconfirming evidence:** “Kipling” wordplay resolves differently, or the window-sign name is not the narrator’s.
+  - **Notes:** MAYBE overlaps: Pages/cains_jawbone_page_82.md (Henry + dog at table, London), Pages/cains_jawbone_page_100.md (Henry + Scotland Yard + collapse).
+
+- `N09` — “Old man” slow-death / letter-blackmail voice:
+  - **Signature tells:** paranoid “crucial meeting” with an “old man” + suspected eavesdropper; witnessed “done slowly to death”; franked letter/package to “the girl” discovered “in the morning”; fear of being “done in”; overheated associative wordplay around London landmarks and travel-names.
+  - **Likely identity (if any):** unknown.
+  - **Pages:** Pages/cains_jawbone_page_69.md, Pages/cains_jawbone_page_70.md
+  - **Confidence:** `LIKELY`
+  - **Disconfirming evidence:** “old man” and letter threads resolve to separate contexts/voices, or Page 70’s fear/wordplay is clearly in a different setting/narrator than Page 69’s death-witnessing.
+  - **Notes:** MAYBE includes Pages/cains_jawbone_page_68.md (shared “old man” + eavesdropper setup; possible voice pivot from `N05`).
