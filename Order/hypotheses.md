@@ -84,10 +84,16 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Disconfirming evidence:** bell references resolve to unrelated settings with no shared voice/tells.
 
 - **Cluster:** Detective/legal self-fashioning (confidence: `MAYBE`)
-  - **Pages:** Pages/cains_jawbone_page_6.md, Pages/cains_jawbone_page_7.md, Pages/cains_jawbone_page_81.md, Pages/cains_jawbone_page_91.md, Pages/cains_jawbone_page_100.md
+  - **Pages:** Pages/cains_jawbone_page_6.md, Pages/cains_jawbone_page_7.md, Pages/cains_jawbone_page_81.md, Pages/cains_jawbone_page_100.md
   - **Rationale:** Sherlock/detective framing + investigation/judgement language + literary allusion density.
-  - **Key anchors:** Speckled Band; Baker Street; Black Museum; Scotland Yard; “investigator/judge” motif; “thank goodness, I was no detective”.
+  - **Key anchors:** Speckled Band; Baker Street; Scotland Yard; “investigator/judge” motif; “thank goodness, I was no detective”.
   - **Disconfirming evidence:** later pages clearly separate narrators/contexts for these allusions.
+
+- **Cluster:** `N11` De’Ath (“Black Museum”) narrator (confidence: `LIKELY`)
+  - **Pages:** Pages/cains_jawbone_page_91.md (MAYBE: Pages/cains_jawbone_page_100.md)
+  - **Rationale:** Page 91 contains a high-signal narrator self-identification (DEATH → De’Ath/DeAth) paired with a distinctive “Black Museum” crime-collection voice.
+  - **Key anchors:** “Black Museum”; “capitalise my third letter” nameplay; macabre exhibit anecdote; “Smiler with the Knife”.
+  - **Disconfirming evidence:** the nameplay resolves to a different identity, or “Black Museum” is used generically with no stable narrator signature.
 
 - **Cluster:** Mid-August calendar hints (confidence: `LIKELY`)
   - **Pages:** Pages/cains_jawbone_page_8.md, Pages/cains_jawbone_page_10.md, Pages/cains_jawbone_page_19.md
