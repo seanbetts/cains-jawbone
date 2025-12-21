@@ -13,7 +13,60 @@ Template:
   - **Disconfirming evidence:** (what would falsify this cluster)  
   - **Next falsification check:** (next concrete test to run)  
 
-### Phase 3 narrator clusters (current focus)
+### Phase 3 macro clusters (draft narrative strands)
+
+These are **cross-narrator** groupings intended to reduce the search space for Phase 4. Overlap is allowed; **do not add within-cluster sequencing in Phase 3**.
+
+- **Cluster:** Dog POV strand (confidence: `CERTAIN`)
+  - **Pages:** Pages/cains_jawbone_page_10.md, Pages/cains_jawbone_page_19.md, Pages/cains_jawbone_page_22.md, Pages/cains_jawbone_page_39.md, Pages/cains_jawbone_page_46.md, Pages/cains_jawbone_page_48.md, Pages/cains_jawbone_page_79.md, Pages/cains_jawbone_page_88.md, Pages/cains_jawbone_page_99.md
+  - **Rationale:** Repeated non-human bodily perspective and dog-specific constraints are strong enough to treat these as a standalone narrative strand.
+  - **Key anchors:** pulled ears + low noise; “no vibration… of my latter end”; “lowered myself and made love”; “provided a chop for me”; “my mistress” framing; Tate sugar hoarding.
+  - **Disconfirming evidence:** any page in this set is later shown to require an unambiguously human physical context (not idiom/metaphor).
+  - **Next falsification check:** scan each page for hands/reading/writing/complex social roles that cannot be reframed as observed human action.
+
+- **Cluster:** Botany/poison + gardening expertise strand (confidence: `MAYBE`)
+  - **Pages:** Pages/cains_jawbone_page_3.md, Pages/cains_jawbone_page_6.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_24.md, Pages/cains_jawbone_page_26.md, Pages/cains_jawbone_page_27.md, Pages/cains_jawbone_page_29.md, Pages/cains_jawbone_page_30.md, Pages/cains_jawbone_page_32.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_40.md, Pages/cains_jawbone_page_54.md, Pages/cains_jawbone_page_58.md, Pages/cains_jawbone_page_59.md, Pages/cains_jawbone_page_60.md, Pages/cains_jawbone_page_71.md, Pages/cains_jawbone_page_73.md, Pages/cains_jawbone_page_74.md, Pages/cains_jawbone_page_75.md, Pages/cains_jawbone_page_80.md, Pages/cains_jawbone_page_83.md, Pages/cains_jawbone_page_86.md, Pages/cains_jawbone_page_87.md
+  - **Rationale:** Dense, recurring plant/poison specificity (often tied to deliberate action) plus a repeated “competence/plan/instructions” register suggests either a shared narrator or a small set of closely linked narrators.
+  - **Key anchors:** Calabar bean/physostigma; digitalis; hellebore; lobelia/Indian-tobacco; wild jasmine/roses; marigold/calendula; Mithradates inoculation; failing eyesight with “documents”; “job/instructions” framing.
+  - **Disconfirming evidence:** later evidence shows plant/poison talk is broadly distributed across unrelated voices with incompatible settings/participants.
+  - **Next falsification check:** look for a hard, repeated phrase-level anchor (beyond plant names) that ties 2+ of these pages together, or cleanly split into 2–3 sub-strands.
+
+- **Cluster:** Paper artifacts + money pressure strand (confidence: `MAYBE`)
+  - **Pages:** Pages/cains_jawbone_page_12.md, Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_18.md, Pages/cains_jawbone_page_28.md, Pages/cains_jawbone_page_33.md, Pages/cains_jawbone_page_34.md, Pages/cains_jawbone_page_50.md, Pages/cains_jawbone_page_52.md, Pages/cains_jawbone_page_53.md, Pages/cains_jawbone_page_57.md, Pages/cains_jawbone_page_68.md, Pages/cains_jawbone_page_69.md, Pages/cains_jawbone_page_70.md, Pages/cains_jawbone_page_72.md, Pages/cains_jawbone_page_78.md, Pages/cains_jawbone_page_89.md, Pages/cains_jawbone_page_95.md, Pages/cains_jawbone_page_96.md, Pages/cains_jawbone_page_98.md
+  - **Rationale:** Multiple pages foreground documents/papers/letters (wills, interviews, “bits of paper”, magazines, signatures) tightly coupled to money pressure, leverage, or transaction-like scenes.
+  - **Key anchors:** will/inheritance talk; forgery/handwriting manipulation; “papers” handled in an interview-like frame; “valuable services rendered”; franked letter/package to “the girl”; Café Royal time-budget + written account; “signatures were his business”; money changing hands “slowly” for later description.
+  - **Disconfirming evidence:** paper artifacts are shown to be a generic, widely used prop with no consistent voice/participant continuity (e.g., May/Henry clearly differ across all instances).
+  - **Next falsification check:** map recurring named entities (May/Henry/Caroline/Jasmine) across these pages and see whether they partition into distinct sub-strands.
+
+- **Cluster:** Detective/police + violence scenes strand (confidence: `MAYBE`)
+  - **Pages:** Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_31.md, Pages/cains_jawbone_page_81.md, Pages/cains_jawbone_page_82.md, Pages/cains_jawbone_page_85.md, Pages/cains_jawbone_page_91.md, Pages/cains_jawbone_page_94.md, Pages/cains_jawbone_page_100.md
+  - **Rationale:** These pages share a crime/detection frame (explicitly or via detective canon allusions) and/or hands-on violence/corpse familiarity, often with London-police texture.
+  - **Key anchors:** Sherlock/Mycroft and Sexton Blake; “Scotland Yard”; “Black Museum”; “Speckled Band” riff; window-throw vignette; “carnal, bloody and unnatural acts” frame.
+  - **Disconfirming evidence:** detective language resolves purely to decorative quotation collage and the surrounding voices/settings show no coherence.
+  - **Next falsification check:** isolate which pages have concrete shared participants (e.g., Henry) vs. merely shared detective allusions.
+
+- **Cluster:** Aesthetic / infatuation / high-society strand (confidence: `MAYBE`)
+  - **Pages:** Pages/cains_jawbone_page_37.md, Pages/cains_jawbone_page_38.md, Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_47.md, Pages/cains_jawbone_page_49.md, Pages/cains_jawbone_page_62.md, Pages/cains_jawbone_page_63.md, Pages/cains_jawbone_page_65.md, Pages/cains_jawbone_page_84.md, Pages/cains_jawbone_page_89.md, Pages/cains_jawbone_page_90.md, Pages/cains_jawbone_page_92.md
+  - **Rationale:** A shared social-register cluster: art-world and literary name-dropping, sensual description (hair/eyes/legs), and “soigné” interior scenes, with repeated jasmine and Wilde/Whistler anchoring.
+  - **Key anchors:** post‑Vorticists private view; Ronald Firbank; Wilde/Whistler “You will, Oscar, you will”; “soigné” parquet venue; yellow-jasmine/Barbara description; dessert-order banter + attribution obsession.
+  - **Disconfirming evidence:** these are shown to be multiple unrelated narrators using similar “learned allusion + attraction” techniques with no shared participants or setting markers.
+  - **Next falsification check:** track named women across this set (Babs/Babbie/Barbara) and see whether any two pages share a non-generic, falsifiable continuity cue.
+
+- **Cluster:** Time obsession + calendar anchors (confidence: `MAYBE`)
+  - **Pages:** Pages/cains_jawbone_page_15.md, Pages/cains_jawbone_page_20.md, Pages/cains_jawbone_page_25.md, Pages/cains_jawbone_page_32.md, Pages/cains_jawbone_page_52.md, Pages/cains_jawbone_page_54.md, Pages/cains_jawbone_page_55.md, Pages/cains_jawbone_page_60.md, Pages/cains_jawbone_page_77.md, Pages/cains_jawbone_page_84.md, Pages/cains_jawbone_page_99.md
+  - **Rationale:** These pages treat time as a puzzle surface (explicit “to-day” historic hooks, “closing day” framing, or overt time-factor/clock logic), suggesting a constraint layer that will later drive ordering.
+  - **Key anchors:** “coming of age hours” (21:00); “to-day” death-date hooks (e.g., Gainsborough); Nelson’s blind-eye/arm-loss “to-day” anchor; “closing day in Potsdam”; “time factor”.
+  - **Disconfirming evidence:** “to-day” and related time phrases are purely decorative and cannot be grounded to specific dates/events, or dates conflict irreconcilably when cross-checked.
+  - **Next falsification check:** extract a single explicit calendar date candidate per page (where possible) and test for duplication/consistency (without imposing sequence).
+
+- **Cluster:** Whitman quotation collage (confidence: `MAYBE`)
+  - **Pages:** Pages/cains_jawbone_page_32.md, Pages/cains_jawbone_page_40.md, Pages/cains_jawbone_page_51.md
+  - **Rationale:** Dense Whitman quotation runs (plus self-conscious commentary on scansion/fit) suggest either one Whitman-saturated narrator voice or a deliberate “Whitman layer” reused across a small subset of pages.
+  - **Key anchors:** “Henceforth I ask not good fortune…”; “What chemistry! That the winds are really not infectious”; “I dance with the dancers and drink with the drinkers.”
+  - **Disconfirming evidence:** Whitman quotations appear broadly across many narrators without other shared tells; treat as a motif cluster only.
+  - **Next falsification check:** identify whether the non-Whitman connective tissue (pills, travel posture, “instructions”) supports a single-voice merge or forces a split.
+
+### Phase 3 narrator clusters (detail)
 
 Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; **do not add within-cluster sequencing in Phase 3**.
 
