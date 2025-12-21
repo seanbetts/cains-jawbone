@@ -135,3 +135,27 @@ Template:
   - **Confidence:** `LIKELY`
   - **Disconfirming evidence:** “my first” refers to a non-lethal act, or “Green”/Perceval anchors resolve to separate narrators/contexts.
   - **Notes:** Do not merge into `N12` on “murder talk” alone; the tone and method cues differ.
+
+- `N16` — St. Bruno / smell-memory + incinerator-evidence voice:
+  - **Signature tells:** smell-triggered scene-shifts; tobacco fixation (St. Bruno); self-aware narration about telling/following a story; vivid brand/food list; stealth/eavesdropping register (“stealing at the doors”); evidence-destruction detail (half-burned marriage certificate in an incinerator).
+  - **Likely identity (if any):** unknown.
+  - **Pages:** Pages/cains_jawbone_page_44.md, Pages/cains_jawbone_page_45.md
+  - **Confidence:** `LIKELY`
+  - **Disconfirming evidence:** Page 44’s smell-memory + incinerator thread is later shown to be a different narrator/context than Page 45’s proverb/menu/stealth scene.
+  - **Notes:** Both pages treat Henry as a central “problem” and pivot via sensory triggers (smell/absinthe).
+
+- `N17` — Dog-watch/capstan + Kipling-quoting punster voice:
+  - **Signature tells:** nautical timekeeping register (dog-watch; capstan bar); heavy Kipling embedding (Mary Gloster / “Thy Servant a Dog”); literary name-dropping (Swift, De Quincey); punning London geography (Selfridges vs Bond Street).
+  - **Likely identity (if any):** unknown.
+  - **Pages:** Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_41.md
+  - **Confidence:** `LIKELY`
+  - **Disconfirming evidence:** the shared nautical/Kipling anchors are shown to be generic motifs reused across unrelated narrators, or the Henry relationship (husband vs teacher) proves incompatible.
+  - **Notes:** This voice may be the best candidate behind the “Nautical timekeeping register” motif cluster.
+
+- `N18` — Diary/verify + falser-hand forgery voice:
+  - **Signature tells:** explicit falsifiability framing (“verify… I never travel without my diary”); document/handwriting manipulation (“mimic artistry”; “falser hand”); tool/instrument emphasis; travel-as-alibi tone.
+  - **Likely identity (if any):** unknown.
+  - **Pages:** Pages/cains_jawbone_page_78.md
+  - **Confidence:** `MAYBE`
+  - **Disconfirming evidence:** “diary/verify” language appears elsewhere in an unmistakably different voice, or Page 78 is later shown to be quoting another speaker rather than the narrator.
+  - **Notes:** Thematically overlaps the will/forgery motif cluster but should not be merged without additional shared voice tells.
