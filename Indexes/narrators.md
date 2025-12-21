@@ -102,7 +102,7 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_91.md
   - **Confidence:** `LIKELY`
   - **Disconfirming evidence:** “capitalise my third letter” resolves to a different name, or “Black Museum” is purely metaphorical with no recurring narrator signature.
-  - **Notes:** MAYBE overlaps with police/detective-allusion pages (e.g., Pages/cains_jawbone_page_100.md) but keep separate until shared tells emerge.
+  - **Notes:** Singleton for now; next check: search for the “Black Museum” + orthographic name-instruction combo in other detective pages (esp. Pages/cains_jawbone_page_100.md) before proposing any merge.
 
 - `N12` — Calabar/digitalis poison-logistics + murder-as-genre voice:
   - **Signature tells:** poison-botany specificity (Calabar bean/physostigma; digitalis) embedded in murder logistics; darkly comic genre-aware murder framing (murder counts, pursuit set-pieces); pragmatic “try again tomorrow” planning language; wordplay/idiom-twisting tied to botany and deception (“botulist”; “up the garden path”).
@@ -126,7 +126,7 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_63.md
   - **Confidence:** `MAYBE`
   - **Disconfirming evidence:** the dessert/Lent and attribution habits are later shown to be incidental rather than a stable narrator signature.
-  - **Notes:** Keep separate from `N06` unless additional shared tells emerge beyond the single French-quotation overlap.
+  - **Notes:** Singleton for now; next check: search for a repeat of the Rainbow/Lent “second Sundae” rule plus the hair/attribution obsession (merge only if a phrase-level anchor recurs, not just dessert titles).
 
 - `N15` — “Green” victim + Compact syringe (first killing) voice:
   - **Signature tells:** self-justifying moral calculus around a named victim (Green); explicit first-killing admission; method/tool specificity (“Compact” hypodermic syringe); date-anchoring via Spencer Perceval assassination.
@@ -158,7 +158,7 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_78.md
   - **Confidence:** `MAYBE`
   - **Disconfirming evidence:** “diary/verify” language appears elsewhere in an unmistakably different voice, or Page 78 is later shown to be quoting another speaker rather than the narrator.
-  - **Notes:** Thematically overlaps the will/forgery motif cluster but should not be merged without additional shared voice tells.
+  - **Notes:** Singleton for now; next check: scan will/forgery pages for the exact “verify/diary” falsifiability framing and “falser hand” wording before merging into `N10`/`N39`.
 
 - `N19` — Comic coastal punster (buttonholes/lighthouse/brand riffs):
   - **Signature tells:** comic, pun-heavy narration; branded-food riffing (Bisto/Cerebos); suspicion framed as banter; coastal peril imagery (boy tumbling into sea; ruined lighthouse); drink/poison wordplay (“Emperor’s Peg” + vitriol/applejack); sound-mixup puns and initialism/punctuation decoding (O.M./M.O. → OM).
@@ -190,7 +190,7 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_2.md
   - **Confidence:** `MAYBE`
   - **Disconfirming evidence:** the plague-prose source is shown to be a widely reused quotation across multiple narrators, or the “figures and letters” motif recurs under a clearly different voice.
-  - **Notes:** If the plague quotation is identified as a specific author/date (as the text suggests), it may become a calendar/ordering anchor later; keep that separate from narrator identification.
+  - **Notes:** Singleton for now; next check: if the plague-prose quotation (once sourced) recurs elsewhere in the same “decoding finish-line + sepulchral London” register, merge; otherwise keep separate.
 
 - `N23` — Music-hall cosmetics / Highgate Empire voice:
   - **Signature tells:** theatre/music-hall venue specificity (Highgate Empire; performers/acts); cosmetics and prosthetic detail (false eyebrows; make-up artist); domestic supper detail; nostalgic tone.
@@ -198,7 +198,7 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_16.md
   - **Confidence:** `MAYBE`
   - **Disconfirming evidence:** later pages show the same eyebrow/cosmetics vignette is quoted/remembered by multiple narrators, or the Henry-relation here is incompatible with other Henry-linked scenes.
-  - **Notes:** MAYBE overlaps with `N19` only via cosmetic gestures (“powdered my nose”), which is too weak alone.
+  - **Notes:** Singleton for now; next check: search for “Highgate Empire” or the false-eyebrows mishap and named music-hall acts (Wilkie Bard/Lauder) before merging with any other cosmetic-gesture pages.
 
 - `N24` — Scotland Yard collapse / Kursaal voice:
   - **Signature tells:** narrator in physical extremis; police framing (Scotland Yard); gloating antagonist woman; Southend Kursaal landmark; buttonhole motif used as a fatalistic detail; valedictory address to Henry.
@@ -206,7 +206,7 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_100.md
   - **Confidence:** `MAYBE`
   - **Disconfirming evidence:** the collapse/death framing is later shown to be purely rhetorical, or “Scotland Yard/Kursaal” is a detachable allusive layer reused by other narrators.
-  - **Notes:** Watch for recurrence of the buttonhole motif and the specific Woolworth’s/Kursaal geography as stronger continuity hooks.
+  - **Notes:** Singleton for now; next check: search for the combined Southend Kursaal + Woolworth’s + buttonhole anchors; do not merge into other police voices unless at least two of these recur together.
 
 - `N25` — Quicksands-of-crime interviewer / papers voice:
   - **Signature tells:** moralising crime/innocence language; meta “commentary/ironic comment” framing; contemptuous epithets for the subject (“well-fed swine”); interview mechanics when present (door opens/shuts; “papers” handled); pointed food tells (Westphalian ham; cucumber sandwiches); money/blackmail pressure language (“Bills should always be met squarely”; “reward for valuable services rendered”).
@@ -230,7 +230,7 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_9.md
   - **Confidence:** `MAYBE`
   - **Disconfirming evidence:** “Peebles University” and the Day/Knight blackboard pun recur under a clearly different narrator voice, or Page 9 is later shown to be a quoted anecdote rather than the narrator’s lived scene.
-  - **Notes:** MAYBE character overlap with the “old mineralogist” target in Pages/cains_jawbone_page_29.md, but treat that as a cast hypothesis, not a narrator merge.
+  - **Notes:** Singleton for now; next check: search for Peebles University / Charles Day / Day‑Knight proverb-pun recurrence; treat the Page 29 “old mineralogist” link as cast only unless voice tells match.
 
 - `N28` — Window-throw / “no detective” voice:
   - **Signature tells:** black-humoured self-exculpation (“thank goodness, I was no detective”) embedded in a hands-on violence vignette (tidying socks, heaving a victim out of a window); quotation-stitching (Browning + Shakespeare) used as narration rather than decoration; misheard dying-words riff (“Band, Speckled”).
@@ -238,7 +238,7 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_81.md
   - **Confidence:** `MAYBE`
   - **Disconfirming evidence:** the scene is later shown to be metaphorical or an embedded quotation/story recounted by a different, identifiable narrator, or the same “no detective” self-exculpation appears under an incompatible voice elsewhere.
-  - **Notes:** Overlaps the Holmes/Speckled Band motif, but the narrator distances themself from detective identity.
+  - **Notes:** Singleton for now; next check: search for the exact “thank goodness, I was no detective” or “Band, Speckled” mishearing; don’t merge on generic Holmes/window props alone.
 
 - `N29` — Post‑Vorticists / Firbank / “chamber within chamber” anxiety voice:
   - **Signature tells:** art-world framing (post‑Vorticists private view); high-society decor cues (rococo mirror; brimming jasmine bowl); biographical name-drop (Ronald Firbank in Malta); weapon/evidence lexicon (“bores”; “chamber within chamber”) tied to fear of credibility (“who would believe me?”).
@@ -246,7 +246,7 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_37.md
   - **Confidence:** `MAYBE`
   - **Disconfirming evidence:** the art/Firbank layer is later shown to be detachable quotation collage used by multiple narrators, or the “bores/chambers” language is proven to be non-weapon and the voice aligns better with an existing narrator signature.
-  - **Notes:** Shares a yellow-jasmine motif with other pages but should not be merged on motif alone.
+  - **Notes:** Singleton for now; next check: search for Firbank-in-Malta / post‑Vorticists / “chamber within chamber” wording before merging with other jasmine/aesthetic pages.
 
 - `N30` — Southend “tragic fortnight” / Sonia Gordon + omelette-stab voice:
   - **Signature tells:** classical self-consciousness (“Video meliora proboque”) combined with covert observation (fixation on elbow “fossettes”) and a remembered Southend episode; abrupt violence language (“as I stabbed once”) colliding with culinary metaphor (omelette/eggs) and deliberate misnaming (Brontë for Corday in the Marat vignette).
@@ -254,7 +254,7 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_38.md
   - **Confidence:** `MAYBE`
   - **Disconfirming evidence:** “stabbed” is later shown to be purely culinary (cutting an omelette), or the Sonia Gordon/Southend anchors recur under a clearly different narrator voice.
-  - **Notes:** Southend also appears elsewhere (e.g., Pages/cains_jawbone_page_100.md), but the voice/register here is distinct.
+  - **Notes:** Singleton for now; next check: search for Sonia Gordon + Southend “tragic fortnight” anchors; don’t merge with Pages/cains_jawbone_page_100.md on “Southend” alone.
 
 - `N31` — Flecker/Whitman compost + Surrey place-pun + pill voice:
   - **Signature tells:** dense allusive weave with intentional substitution inside quotations (Flecker name inserted into a Flecker-ghazel line); Whitman’s compost imagery (“winds… not infectious”, bean/potato growth) used as narrative grounding; pill-taking + self-correction (“I had probably got it wrong… Yet it was all right.”); place-name punning (Thames Ditton/Long Ditton).
@@ -262,7 +262,7 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_40.md
   - **Confidence:** `MAYBE`
   - **Disconfirming evidence:** Whitman/Flecker quotation-stitching is shown to be a generic technique used across many narrators with no shared voice tells, or the pill/place-pun register aligns more cleanly with an existing narrator signature.
-  - **Notes:** Potential overlap with other Whitman-quoting pages; keep this as a voice hypothesis, not a poem-source cluster.
+  - **Notes:** Singleton for now; next check: search for the Flecker-name substitution + Ditton place-pun + pill/self-correction cluster; treat Whitman overlap as motif unless the non-Whitman connective tissue repeats.
 
 - `N32` — “Type” classifier / gilded metaphors + Wilde-allusion voice:
   - **Signature tells:** competitive reading/interpretation framed as “harvest/gleaning”; fixation on filing/typing people as “types”; recurring gilded/metallised visual metaphors (gold/silver/green leaf); macabre social observation; stitched-in Wilde context (Jack line + Earnest epigram; Whistler-to-Oscar jibe).
@@ -278,7 +278,7 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_72.md
   - **Confidence:** `MAYBE`
   - **Disconfirming evidence:** the magazine/short-story register is later shown to be a quoted inset rather than narrator voice, or the same cluster of anchors appears under an unmistakably different narrator elsewhere.
-  - **Notes:** Keep as a singleton until a second page repeats the “Medehamstede/Pasquier/Savage Conqueror” anchors.
+  - **Notes:** Singleton for now; next check: search for Medehamstede, Pasquier’s claret, Rue de la Harpe, or “Savage Conqueror” magazine references (merge only if ≥2 anchors recur together).
 
 - `N34` — Time-factor / Didling wordplay + antiquarian brass voice:
   - **Signature tells:** obsessive time/mortality rumination (“to-day”, “next day”, “time factor”); self-deprecating pun chains (Dolittle → Didlittle → Didling/didlet); antiquarian inscription fixation (oldest brass by the Mole); strong tea + “first pill” morning ritual.
@@ -294,7 +294,7 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_18.md
   - **Confidence:** `MAYBE`
   - **Disconfirming evidence:** “fall of the rupee” is later shown to be a detachable quotation or reference reused across narrators, or the “namesake” biblical-menu joke recurs under a different, stable narrator signature.
-  - **Notes:** Singleton for now; watch for reuse of the “omit the rupee chapter” editorial tell.
+  - **Notes:** Singleton for now; next check: watch for reuse of the “omit the rupee chapter” editorial tell together with the same money-suspicion/“wicked person” anxiety register.
 
 - `N36` — Passing-through travel + heartbeats + Whitman cadence voice:
   - **Signature tells:** “passing through” travel posture; precise sporting anecdote (All England for a thousand guineas; “twenty-nine times in ten years”); bodily self-monitoring (counting between heartbeats); exhaust-smoke simile; dense Whitman quotation cadence.
@@ -302,7 +302,7 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_51.md
   - **Confidence:** `MAYBE`
   - **Disconfirming evidence:** the Whitman-heavy phrasing is later shown to be a generic quotation collage used by multiple narrators, or the sporting/heartbeat anchors recur clearly under a different voice.
-  - **Notes:** Overlaps the Whitman-quotation motif cluster (Pages/cains_jawbone_page_32.md, Pages/cains_jawbone_page_40.md) but lacks the Clement (`N03`) and Ditton (`N31`) anchors.
+  - **Notes:** Singleton for now; next check: search for the “passing through” posture plus the heartbeat-counting (“distinct ninety”) combination; treat Whitman cadence as motif unless these anchors recur.
 
 - `N37` — Deceased-introduction + Barbara yellow-jasmine bathing voice:
   - **Signature tells:** anxious curiosity about why a “deceased” arranged an introduction; rapturous physical description of Barbara (yellow-jasmine one-piece; towel); named travel detail (Dagenham bus; converted oast-house); Nelson blind-eye/arm-loss “to-day” anchor.
@@ -310,7 +310,7 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_84.md
   - **Confidence:** `MAYBE`
   - **Disconfirming evidence:** “deceased” is later shown to be a dead author rather than an in-world person, or the Barbara/Alistair/Dagenham anchors recur under a clearly different narrator voice.
-  - **Notes:** This page participates in the “to-day as historical date marker” motif cluster; don’t merge narrators on date-anchoring alone.
+  - **Notes:** Singleton for now; next check: search for the Barbara + yellow‑jasmine bathing description and the Dagenham/oast-house travel detail; don’t merge narrators on date-anchoring alone.
 
 - `N38` — Medical-advice payoff + “May be” pun / Quarry hills voice:
   - **Signature tells:** slow money exchange used for later identification; physicians/medical-advice framing; emphatic repetition (“He went. He went.”); Shakespeare/Stevenson/Scott allusion weave; explicit “May be. May be not.” decision pun; vivid sunset “bruise” image over the Quarry hills.
@@ -318,7 +318,7 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_98.md
   - **Confidence:** `MAYBE`
   - **Disconfirming evidence:** the scene is later shown to be recounted/quoted by a different narrator, or the “May be” pun and medical-payoff framing recur under an incompatible voice elsewhere.
-  - **Notes:** Keep separate until the “Quarry hills” or “doctors and doctors” anchor repeats.
+  - **Notes:** Singleton for now; next check: search for the Quarry hills sunset “bruise” image and the “May be. May be not.” pun; merge only if the payoff-for-identification setup repeats.
 
 - `N39` — Wilde/Earnest echoes + will/forgery voice:
   - **Signature tells:** overt Wilde (*Importance of Being Earnest*) echoing embedded in legal-document attention (wills; “forging”); stationery/pen fixation (caseful of “strange pens”); macabre aside about a woman “not yet dead”; church/inscription noticing used as scene texture rather than pure quotation collage.
@@ -334,4 +334,4 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_23.md
   - **Confidence:** `MAYBE`
   - **Disconfirming evidence:** Page 23 is later shown to share a stable interview/table mechanic or repeated phrasing with an existing narrator (especially `N25`), making the match/Left Luggage layer incidental.
-  - **Notes:** Singleton for now; treat as a placeholder narrator until a second page repeats the same bills+matches+Left Luggage combination.
+  - **Notes:** Singleton for now; next check: search for Bryant & May matches + Left Luggage Office + the Blackwood name run; compare with `N25` only if interview/papers mechanics also recur.
