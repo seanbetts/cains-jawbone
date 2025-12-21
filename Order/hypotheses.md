@@ -96,9 +96,9 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Disconfirming evidence:** the collapse frame is purely rhetorical or the Scotland Yard/Kursaal layer is reused by other narrators.
 
 - **Cluster:** `N25` Quicksands-of-crime interviewer / papers voice (confidence: `LIKELY`)
-  - **Pages:** Pages/cains_jawbone_page_34.md, Pages/cains_jawbone_page_52.md, Pages/cains_jawbone_page_53.md (MAYBE: Pages/cains_jawbone_page_57.md)
-  - **Rationale:** Page 34’s “ironic comment” and “innocent child” moralising register matches Page 52’s crime/innocence rhetoric; Pages 52–53 then supply the same voice in a concrete “interview/papers” scene culminating in a contemptuous introduction of Sir Paul Trinder.
-  - **Key anchors:** “ironic comment”; “innocent child”; “end of my interview”; “make yourself comfortable with the papers”; “commentary… page after page”; “introduced to me”; “well-fed swine”; Westphalian ham.
+  - **Pages:** Pages/cains_jawbone_page_33.md, Pages/cains_jawbone_page_34.md, Pages/cains_jawbone_page_52.md, Pages/cains_jawbone_page_53.md (MAYBE: Pages/cains_jawbone_page_57.md)
+  - **Rationale:** Page 34’s “ironic comment” and “innocent child” moralising register matches Page 52’s crime/innocence rhetoric; Pages 52–53 then supply the same voice in a concrete “interview/papers” scene culminating in a contemptuous introduction of Sir Paul Trinder. Page 33 adds a compatible clandestine, debt-framed “papers/letter being read” vignette.
+  - **Key anchors:** “I always pay my debts”; “behind the armchair”; “ironic comment”; “innocent child”; “end of my interview”; “make yourself comfortable with the papers”; “commentary… page after page”; “introduced to me”; “well-fed swine”; Westphalian ham.
   - **Disconfirming evidence:** Westphalian ham/papers language is shown to be a widely reused table-setting motif, or the “introduced to me” Trinder description is later anchored to a different narrator/setting.
 
 - **Cluster:** `N26` “Awful and literal sense” breakfast-recapping / second-sight voice (confidence: `LIKELY`)
@@ -112,6 +112,30 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Rationale:** Page 9’s narrator is sharply characterised by a snobbish servant-bell frame and a specific academic self-positioning (mineralogy lectures at “Peebles University” with assistant Charles Day), plus an explicit Day/Knight pun.
   - **Key anchors:** “sound of the bell”; “lower orders”; “lectures on mineralogy at Peebles University”; “assistant Charles Day”; “Day… Knight cometh”.
   - **Disconfirming evidence:** the Peebles/mineralogy identity is later shown to belong to a different narrator, or the scene is revealed as a quoted anecdote.
+
+- **Cluster:** `N28` Window-throw / “no detective” voice (confidence: `MAYBE`)
+  - **Pages:** Pages/cains_jawbone_page_81.md
+  - **Rationale:** A distinctive black-humoured violence vignette culminates in a pointed narrator disavowal of detective identity, with stitched-in Browning/Shakespeare and a “Speckled Band” mishearing riff.
+  - **Key anchors:** “The victim… blocked… the window”; “Go find the bottom!”; “pulled up his socks… heaved outward”; “Band, Speckled”; “thank goodness, I was no detective”.
+  - **Disconfirming evidence:** the scene is later shown to be metaphorical or an embedded quotation recounted by another narrator, or the same “no detective” self-exculpation recurs under an incompatible voice elsewhere.
+
+- **Cluster:** `N29` Post‑Vorticists / Firbank / “chamber within chamber” anxiety voice (confidence: `MAYBE`)
+  - **Pages:** Pages/cains_jawbone_page_37.md
+  - **Rationale:** Page 37’s voice blends art-world framing and ornate decor with anxious weapon/evidence language and a credibility fear (“who would believe me?”), anchored by the Firbank/Malta name-drop.
+  - **Key anchors:** “yellow jasmine”; “rococo mirror”; “private view… post‑Vorticists”; Ronald Firbank in Malta; “chamber within chamber”; “open the bores”.
+  - **Disconfirming evidence:** the art/Firbank layer is shown to be detachable quotation collage used by multiple narrators, or the “bores/chambers” language is proven non-weapon and the voice aligns with an existing narrator signature.
+
+- **Cluster:** `N30` Southend “tragic fortnight” / Sonia Gordon + omelette-stab voice (confidence: `MAYBE`)
+  - **Pages:** Pages/cains_jawbone_page_38.md
+  - **Rationale:** Page 38 combines classical self-awareness, covert observation, and a Southend memory with abrupt violence language and deliberate misnaming in the Marat vignette.
+  - **Key anchors:** “Video meliora proboque”; Sonia Gordon; “tragic fortnight at Southend”; omelette/eggs metaphor; “as I stabbed once”; Brontë-for-Corday misnaming.
+  - **Disconfirming evidence:** “stabbed” is later shown to be purely culinary, or the Sonia Gordon/Southend anchors recur under a clearly different narrator voice.
+
+- **Cluster:** `N31` Flecker/Whitman compost + Surrey place-pun + pill voice (confidence: `MAYBE`)
+  - **Pages:** Pages/cains_jawbone_page_40.md
+  - **Rationale:** A dense allusive voice splices Flecker and Whitman quotations into narrative reflection, with pill-taking and Surrey place-name wordplay as recurring techniques.
+  - **Key anchors:** Flecker-ghazel substitution (“some to Flecker turn to pray…”); “What chemistry! That the winds are really not infectious”; “I took a pill”; Thames Ditton/Long Ditton pun.
+  - **Disconfirming evidence:** Whitman/Flecker quotation-stitching is shown to be a generic technique used across many narrators with no shared voice tells, or the pill/place-pun register aligns more cleanly with an existing narrator signature.
 
 - **Cluster:** `N04` Great Lexicographer / fealty voice (confidence: `CERTAIN`)
   - **Pages:** Pages/cains_jawbone_page_61.md, Pages/cains_jawbone_page_64.md
@@ -228,7 +252,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Disconfirming evidence:** Westphalian ham is merely decorative and appears across unrelated scenes with no consistent narrator/setting.
 
 - **Cluster:** Whitman quotations (confidence: `MAYBE`)
-  - **Pages:** Pages/cains_jawbone_page_32.md, Pages/cains_jawbone_page_51.md
+  - **Pages:** Pages/cains_jawbone_page_32.md, Pages/cains_jawbone_page_40.md, Pages/cains_jawbone_page_51.md
   - **Rationale:** Multiple explicit Whitman snippets suggest a shared narrator reading set or a deliberate “Whitman voice” cluster.
   - **Key anchors:** Page 32’s Whitman “good fortune” quote + scansion talk; Page 51’s “I dance with the dancers…” and other Whitman lines.
   - **Disconfirming evidence:** Whitman lines appear scattered across many unrelated narrators without other shared tells.
@@ -246,9 +270,9 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Disconfirming evidence:** “to-day” references are purely decorative and do not resolve to dates or ordering constraints.
 
 - **Cluster:** `N02` Dog POV (confidence: `CERTAIN`)
-  - **Pages:** Pages/cains_jawbone_page_19.md, Pages/cains_jawbone_page_22.md, Pages/cains_jawbone_page_46.md, Pages/cains_jawbone_page_48.md, Pages/cains_jawbone_page_79.md, Pages/cains_jawbone_page_99.md
+  - **Pages:** Pages/cains_jawbone_page_10.md, Pages/cains_jawbone_page_19.md, Pages/cains_jawbone_page_22.md, Pages/cains_jawbone_page_39.md, Pages/cains_jawbone_page_46.md, Pages/cains_jawbone_page_48.md, Pages/cains_jawbone_page_79.md, Pages/cains_jawbone_page_99.md
   - **Rationale:** Explicit animal-coded reactions (ears pulled, “low noise”; tail “vibration” clue; mating/banishment behaviour) plus dog-coded details (chop; “nose” perspective) point to non-human narrator segments.
-  - **Key anchors:** pulled ears + low noise; “no vibration… of my latter end”; “lowered myself and made love”; “provided a chop for me”; “nearly fell on my nose”.
+  - **Key anchors:** pulled ears + low noise; “no vibration… of my latter end”; “lowered myself and made love”; “provided a chop for me”; “nearly fell on my nose”; “my mistress” framing + “could have howled”; coat/undercoat literalism (“inherited coat”) and “vicarious”→vicar misunderstanding.
   - **Disconfirming evidence:** later context shows these are human metaphors (or the POV is clearly human).
 
 - **Cluster:** `N03` Clement / pills / flowers-and-mercy register (confidence: `LIKELY`)
