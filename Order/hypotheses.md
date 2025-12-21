@@ -43,15 +43,15 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
 
 - **Cluster:** `N05` School nostalgia + chapel (confidence: `LIKELY`)
   - **Pages:** Pages/cains_jawbone_page_66.md, Pages/cains_jawbone_page_67.md, Pages/cains_jawbone_page_68.md
-  - **Rationale:** Pages 66–67 are continuous text and all three pages share a school/chapel setting with a remembered Head and institutional details.
+  - **Rationale:** All three pages share a school/chapel setting with a remembered Head and institutional details, plus a consistent nostalgia/allusion-heavy voice (allowing for a possible pivot on Page 68).
   - **Key anchors:** fives courts; old Hall hung with Beardsley/Rops; “the Head”; Latham Chapel fire in 1906; “darling young” leaving.
   - **Disconfirming evidence:** later evidence shows Latham Chapel refers to a different institution than the Hall/fives-courts memories.
 
-- **Cluster:** Old man slow-death thread (confidence: `MAYBE`)
+- **Cluster:** `N09` “Old man” slow-death / letter-blackmail voice (confidence: `LIKELY`)
   - **Pages:** Pages/cains_jawbone_page_68.md, Pages/cains_jawbone_page_69.md, Pages/cains_jawbone_page_70.md
-  - **Rationale:** “Old man” appears as a key node (crucial meeting → witnessed slow death) followed by letter/retaliation anxiety.
-  - **Key anchors:** “old man”; “done slowly to death”; franked item to “the girl”; threat “do me in”; “old association” (arthritic knee anecdote).
-  - **Disconfirming evidence:** “done slowly to death” is figurative, or the “he” in Page 70 is not the same as the “old man” in Pages 68–69.
+  - **Rationale:** A recurring narrator signature links paranoia about an “old man” and a “crucial meeting” (with suspected eavesdropping) to an explicitly witnessed slow death and then to letter/retaliation anxiety.
+  - **Key anchors:** “old man”; “done slowly to death”; franked item to “the girl”; threat “do me in”; London landmarks (Eros / Queen’s Hall) amid fear-driven associative wordplay.
+  - **Disconfirming evidence:** “done slowly to death” is figurative, or the “he”/retaliation target in Page 70 is clearly not the same “old man” context as Pages 68–69.
 
 - **Cluster:** `N07` Bunny and Perry (Pro/Con) mental debate (confidence: `CERTAIN`)
   - **Pages:** Pages/cains_jawbone_page_93.md, Pages/cains_jawbone_page_97.md
@@ -59,9 +59,15 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Key anchors:** “Bunny and Perry”; “hammer and tongs”; explicit tennis/venue shifts.
   - **Disconfirming evidence:** later context shows “Bunny and Perry” refers to external people rather than an internal debate trope.
 
+- **Cluster:** `N08` King (“Kipling” name-jibe) narrator (confidence: `LIKELY`)
+  - **Pages:** Pages/cains_jawbone_page_85.md, Pages/cains_jawbone_page_94.md (MAYBE: Pages/cains_jawbone_page_82.md, Pages/cains_jawbone_page_100.md)
+  - **Rationale:** Pages 85 and 94 share a narrator-name clue (schoolboy “Kipling” jibe → King; narrator sees own name in a window-sign) and a recurring Henry-in-scene frame; additional detective/police allusions suggest nearby overlap with other Henry/detection pages.
+  - **Key anchors:** “Kipling” as a name-jibe; narrator seeing their own name printed in a window; Baker Street / detective framing.
+  - **Disconfirming evidence:** the name clue resolves differently, or the window-sign name refers to someone/something other than the narrator.
+
 - **Cluster:** `N06` Orator/artist + flowers/documents/OGPU voice (confidence: `LIKELY`)
   - **Pages:** Pages/cains_jawbone_page_73.md, Pages/cains_jawbone_page_74.md, Pages/cains_jawbone_page_75.md, Pages/cains_jawbone_page_83.md (MAYBE: Pages/cains_jawbone_page_71.md)
-  - **Rationale:** A stable 73→74→75 segment mixes art/oratory identity, French verse, and a secrecy/blackmail register; Pages 75 and 83 continue the flower/rose fixation and eyesight/“documents” concerns.
+  - **Rationale:** Pages 73, 74, and 75 mix art/oratory identity, French verse, and a secrecy/blackmail register; Pages 75 and 83 continue the flower/rose fixation and eyesight/“documents” concerns.
   - **Key anchors:** May/red-May scent; red/white roses + marigolds/calendula; red rose “sole survivor”; “orange tinted documents”; Goya reproduction confusion; “Will anyone know about them?”; Leningrad/OGPU mention; flower-seller interruption.
   - **Disconfirming evidence:** “May” resolves purely as the month/plant with no person continuity, or “them/documents” do not recur across pages.
 
