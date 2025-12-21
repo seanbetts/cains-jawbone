@@ -349,6 +349,10 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Pages:** Pages/cains_jawbone_page_43.md, Pages/cains_jawbone_page_60.md, Pages/cains_jawbone_page_63.md
   - **Rationale:** Repeated named desserts and explicit sundae rules (including Lent) suggest either shared venue/menu continuity or a deliberately reused motif across voices (e.g., `N01`/`N12`/`N14`).
   - **Key anchors:** “Lover’s Delight”; Banana Split; “Rainbow”; Lent “second Sundae” constraint.
+  - **Sub-strands (working):**
+    - `N01` bar/dessert titles: Pages/cains_jawbone_page_43.md
+    - `N12` poison-logistics voice with sweets motif: Pages/cains_jawbone_page_60.md
+    - `N14` Rainbow Sundae / hair voice: Pages/cains_jawbone_page_63.md
   - **Disconfirming evidence:** later context shows the terms are generic one-off jokes with no recurrence or shared setting.
 
 - **Cluster:** `N14` Babbie / Rainbow Sundae / hair-and-allusion voice (confidence: `MAYBE`)
@@ -357,11 +361,11 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Key anchors:** Babbie’s hair fixation; Baudelaire “La Chevelure”; “Rainbow” + Lent “second Sundae” rule; “I have always hated that these writers should be anonymous.”
   - **Disconfirming evidence:** later pages show the same motifs used casually by multiple unrelated narrators, or Page 63’s Henry is proven to be a different referent (not the recurring character-name).
 
-- **Cluster:** `N05` School nostalgia + chapel (confidence: `LIKELY`)
-  - **Pages:** Pages/cains_jawbone_page_66.md, Pages/cains_jawbone_page_67.md, Pages/cains_jawbone_page_68.md
-  - **Rationale:** All three pages share a school/chapel setting with a remembered Head and institutional details, plus a consistent nostalgia/allusion-heavy voice (allowing for a possible pivot on Page 68).
-  - **Key anchors:** fives courts; old Hall hung with Beardsley/Rops; “the Head”; Latham Chapel fire in 1906; “darling young” leaving.
-  - **Disconfirming evidence:** later evidence shows Latham Chapel refers to a different institution than the Hall/fives-courts memories.
+- **Cluster:** `N05` School colours / “the Head” voice (confidence: `CERTAIN`)
+  - **Pages:** Pages/cains_jawbone_page_66.md, Pages/cains_jawbone_page_67.md
+  - **Rationale:** Direct sentence continuation plus a consistent school-nostalgia register (the Head, school colours, fives courts, art-name dropping) supports a tight single-voice segment.
+  - **Key anchors:** fives courts; old Hall hung with Beardsley/Rops; “the Head”; celebration vs mourning register.
+  - **Disconfirming evidence:** only if the 66→67 sentence continuation is later shown to be a transcription artifact (unlikely given page integrity checks).
 
 - **Cluster:** `N09` “Old man” slow-death / letter-blackmail voice (confidence: `LIKELY`)
   - **Pages:** Pages/cains_jawbone_page_68.md, Pages/cains_jawbone_page_69.md, Pages/cains_jawbone_page_70.md, Pages/cains_jawbone_page_95.md, Pages/cains_jawbone_page_96.md
@@ -391,18 +395,29 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Pages:** Pages/cains_jawbone_page_1.md, Pages/cains_jawbone_page_4.md, Pages/cains_jawbone_page_5.md
   - **Rationale:** Repeated sea-adjacent cues (Chine, tumbling into sea, lighthouse) suggest a shared setting or narrator fixation.
   - **Key anchors:** “Chine”; boy tumbling into sea; ruined lighthouse.
+  - **Sub-strands (working):**
+    - `N01` chine/sea-bird lyric: Pages/cains_jawbone_page_1.md
+    - `N19` comic coastal punster + lighthouse: Pages/cains_jawbone_page_4.md, Pages/cains_jawbone_page_5.md
   - **Disconfirming evidence:** setting markers later place these pages in distinct, incompatible locations or show “sea” is figurative.
 
 - **Cluster:** Bells and summoning (confidence: `MAYBE`)
   - **Pages:** Pages/cains_jawbone_page_6.md, Pages/cains_jawbone_page_9.md
   - **Rationale:** Prominent bell/bell-wire focus; household-service dynamics and anxiety.
   - **Key anchors:** dangling bell-wire (Speckled Band echo); bell “as of a boding gnat”; “time was not unlimited”.
+  - **Sub-strands (working):**
+    - `N12` bell-wire anxiety + murder mechanics: Pages/cains_jawbone_page_6.md
+    - `N27` bell-summoning lecturer voice: Pages/cains_jawbone_page_9.md
   - **Disconfirming evidence:** bell references resolve to unrelated settings with no shared voice/tells.
 
 - **Cluster:** Detective/legal self-fashioning (confidence: `MAYBE`)
   - **Pages:** Pages/cains_jawbone_page_6.md, Pages/cains_jawbone_page_7.md, Pages/cains_jawbone_page_81.md, Pages/cains_jawbone_page_100.md
   - **Rationale:** Sherlock/detective framing + investigation/judgement language + literary allusion density.
   - **Key anchors:** Speckled Band; Baker Street; Scotland Yard; “investigator/judge” motif; “thank goodness, I was no detective”.
+  - **Sub-strands (working):**
+    - `N12` (Pages/cains_jawbone_page_6.md): Speckled Band echo + “murder mechanics” register
+    - `N16` (Pages/cains_jawbone_page_7.md): Baker Street + “investigating judge” framing
+    - `N28` (Pages/cains_jawbone_page_81.md): “thank goodness, I was no detective” in violence vignette
+    - `N24` (Pages/cains_jawbone_page_100.md): Scotland Yard collapse / Kursaal voice
   - **Disconfirming evidence:** later pages clearly separate narrators/contexts for these allusions.
 
 - **Cluster:** `N11` De’Ath (“Black Museum”) narrator (confidence: `LIKELY`)
@@ -439,12 +454,18 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Pages:** Pages/cains_jawbone_page_1.md, Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_41.md
   - **Rationale:** Sea setting + sailor diction; Page 11 has capstan + dog-watch time marker; Page 41 mentions “first dog” (possibly dog-watch).
   - **Key anchors:** sea/gulls/“sailor” cues; capstan bar; “second dog” watch; “first dog”.
+  - **Sub-strands (working):**
+    - `N17` dog-watch/capstan voice: Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_41.md
+    - `N01` sea imagery without explicit watchkeeping: Pages/cains_jawbone_page_1.md
   - **Disconfirming evidence:** “capstan”/“dog” language is shown to be metaphorical/non-nautical.
 
 - **Cluster:** Cocktail-bar seduction (confidence: `MAYBE`)
   - **Pages:** Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_43.md
   - **Rationale:** Both pages foreground a woman in a drinking/seduction setting, with strong sensory fixation and menu/venue vocabulary (“the Dawn”; named desserts/drinks).
   - **Key anchors:** “cocktail after cocktail”; cigarette; “the Dawn”; “Lover’s Delight” / Banana Split; Henry guiding narrator (Page 42); Alexander (“Ecky”) narrator voice (Page 43).
+  - **Sub-strands (working):**
+    - `N21` seduction + Henry-in-scene: Pages/cains_jawbone_page_42.md
+    - `N01` Ecky bar voice + dessert titles: Pages/cains_jawbone_page_43.md
   - **Disconfirming evidence:** later pages show these are separate narrators/venues and the drink/dessert titles do not recur together.
 
 - **Cluster:** Westphalian ham + paper-reading (confidence: `MAYBE`)

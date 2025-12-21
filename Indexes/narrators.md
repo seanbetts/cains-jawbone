@@ -51,10 +51,10 @@ Template:
 - `N05` — School colours / “the Head” / celebratory allusion-dense voice:
   - **Signature tells:** school nostalgia (fives courts, “old Hall”, “the Head”); art-name dropping (Beardsley, Rops); intense allusive “menu” of references; oscillation between mourning and celebration; bodily/identity meditation.
   - **Likely identity (if any):** former pupil/alumnus narrator; “celebration was one of my specialties.”
-  - **Pages:** Pages/cains_jawbone_page_66.md, Pages/cains_jawbone_page_67.md, Pages/cains_jawbone_page_68.md
-  - **Confidence:** `LIKELY`
-  - **Disconfirming evidence:** if Page 68’s “old man”/surveillance thread is shown to be a different speaker than the continuous 66→67 voice.
-  - **Notes:** Pages/cains_jawbone_page_74.md also references “the Head”; keep as possible overlap with `N06` until disentangled.
+  - **Pages:** Pages/cains_jawbone_page_66.md, Pages/cains_jawbone_page_67.md
+  - **Confidence:** `CERTAIN`
+  - **Disconfirming evidence:** only if the 66→67 sentence continuation is later shown to be a transcription artifact (unlikely given page integrity checks).
+  - **Notes:** Tightened to exclude Pages/cains_jawbone_page_68.md (now treated under `N09`) unless school-specific anchors recur there. Pages/cains_jawbone_page_74.md also references “the Head”; keep as possible overlap with `N06` until disentangled.
 
 - `N06` — Orator/artist + flowers/documents/OGPU voice:
   - **Signature tells:** performative rhetoric (“orator’s joys”); art-identity clue (Augustus John); French poetry; sensual “initiation” memory; secrecy/blackmail register; OGPU/Leningrad mention; failing eyesight; flower/rose fixation; Browning allusions.
@@ -86,7 +86,7 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_68.md, Pages/cains_jawbone_page_69.md, Pages/cains_jawbone_page_70.md, Pages/cains_jawbone_page_95.md, Pages/cains_jawbone_page_96.md
   - **Confidence:** `LIKELY`
   - **Disconfirming evidence:** “old man” and letter threads resolve to separate contexts/voices, or the Café Royal + written-confession pages (95–96) are later anchored to a clearly different narrator from the “old man” strand (68–70).
-  - **Notes:** Page 68 overlaps with `N05` (school nostalgia) and may be a voice pivot; keep falsifiable.
+  - **Notes:** Earlier overlap with `N05` was deprioritised; treat Pages/cains_jawbone_page_68.md as part of this voice unless school-specific anchors recur.
 
 - `N10` — Will/document eavesdropper voice (May/estate thread):
   - **Signature tells:** legal/estate vocabulary; document scrutiny; eavesdropping on inheritance talk (“leave everything to me… May”); opportunistic self-justification (“get what I wanted”) alongside “none of my business” retreats; legal double-definition wordplay (“abstracted will” style).
