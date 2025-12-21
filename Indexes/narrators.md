@@ -81,12 +81,12 @@ Template:
   - **Notes:** Page 82 shares the table/Henry + barking-dog frame with Page 85 but lacks the explicit nameplay/window-sign anchors; keep it under `N08` with `MAYBE` confidence. MAYBE overlaps: Pages/cains_jawbone_page_100.md (Henry + Scotland Yard + collapse).
 
 - `N09` — “Old man” slow-death / letter-blackmail voice:
-  - **Signature tells:** paranoid “crucial meeting” with an “old man” + suspected eavesdropper; witnessed “done slowly to death”; franked letter/package to “the girl” discovered “in the morning”; fear of being “done in”; overheated associative wordplay around London landmarks and travel-names.
+  - **Signature tells:** paranoid “crucial meeting” with an “old man” + suspected eavesdropper; witnessed “done slowly to death”; franked letter/package to “the girl” discovered “in the morning”; fear of being “done in”; overheated associative wordplay around London landmarks and travel-names; Café Royal/time-budgeting anchor paired with an explicit written account (“told him all, hour by hour, day by day”).
   - **Likely identity (if any):** unknown.
-  - **Pages:** Pages/cains_jawbone_page_69.md, Pages/cains_jawbone_page_70.md
+  - **Pages:** Pages/cains_jawbone_page_68.md, Pages/cains_jawbone_page_69.md, Pages/cains_jawbone_page_70.md, Pages/cains_jawbone_page_95.md, Pages/cains_jawbone_page_96.md
   - **Confidence:** `LIKELY`
-  - **Disconfirming evidence:** “old man” and letter threads resolve to separate contexts/voices, or Page 70’s fear/wordplay is clearly in a different setting/narrator than Page 69’s death-witnessing.
-  - **Notes:** MAYBE includes Pages/cains_jawbone_page_68.md (shared “old man” + eavesdropper setup; possible voice pivot from `N05`).
+  - **Disconfirming evidence:** “old man” and letter threads resolve to separate contexts/voices, or the Café Royal + written-confession pages (95–96) are later anchored to a clearly different narrator from the “old man” strand (68–70).
+  - **Notes:** Page 68 overlaps with `N05` (school nostalgia) and may be a voice pivot; keep falsifiable.
 
 - `N10` — Will/document eavesdropper voice (May/estate thread):
   - **Signature tells:** legal/estate vocabulary; document scrutiny; eavesdropping on inheritance talk (“leave everything to me… May”); opportunistic self-justification (“get what I wanted”) alongside “none of my business” retreats.
