@@ -101,6 +101,12 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Key anchors:** repeated Mr. Hall entrances; knob described as black/red vs polished.
   - **Disconfirming evidence:** later pages show multiple unrelated Mr. Hall contexts or different mechanisms.
 
+- **Cluster:** `N10` Will/document eavesdropper voice (confidence: `MAYBE`)
+  - **Pages:** Pages/cains_jawbone_page_12.md, Pages/cains_jawbone_page_14.md (MAYBE: Pages/cains_jawbone_page_28.md, Pages/cains_jawbone_page_50.md, Pages/cains_jawbone_page_78.md)
+  - **Rationale:** Pages 12 and 14 share inheritance eavesdropping and legal/document language (including a May-addressed “leave everything to me” frame), suggesting a possible consistent narrator signature around estate manoeuvring.
+  - **Key anchors:** will/inheritance talk addressed to May; “abstracted will” pun; document-reading setup.
+  - **Disconfirming evidence:** May/Henry context proves incompatible across the two pages, or the will language is a one-off motif rather than a narrator signature.
+
 - **Cluster:** Wills and inheritance (confidence: `MAYBE`)
   - **Pages:** Pages/cains_jawbone_page_12.md, Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_28.md, Pages/cains_jawbone_page_50.md, Pages/cains_jawbone_page_78.md
   - **Rationale:** Pages 12/14 centre wills/“leave everything” talk; Page 28 adds a “forging” scheme while “the woman was not yet dead”; Page 50 explicitly says “The will was there” with a man working over “strange pens”; Page 78 describes “mimic artistry” and a “soon to be dead woman’s” memorial being guided by a “falser hand”.
