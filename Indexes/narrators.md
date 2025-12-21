@@ -75,10 +75,10 @@ Template:
 - `N08` — King (“Kipling” name-jibe) narrator:
   - **Signature tells:** self-conscious nameplay (schoolboy jibe “Kipling”); narrator sees their own name printed in a window-sign; Henry present in-scene; detective/allusion density (Holmes/Sexton Blake / Baker Street framing).
   - **Likely identity (if any):** LIKELY surname King (see `Indexes/people.md` `P99`).
-  - **Pages:** Pages/cains_jawbone_page_85.md, Pages/cains_jawbone_page_94.md
+  - **Pages:** Pages/cains_jawbone_page_82.md, Pages/cains_jawbone_page_85.md, Pages/cains_jawbone_page_94.md
   - **Confidence:** `LIKELY`
   - **Disconfirming evidence:** “Kipling” wordplay resolves differently, or the window-sign name is not the narrator’s.
-  - **Notes:** MAYBE overlaps: Pages/cains_jawbone_page_82.md (Henry + dog at table, London), Pages/cains_jawbone_page_100.md (Henry + Scotland Yard + collapse).
+  - **Notes:** Page 82 shares the table/Henry + barking-dog frame with Page 85 but lacks the explicit nameplay/window-sign anchors; keep it under `N08` with `MAYBE` confidence. MAYBE overlaps: Pages/cains_jawbone_page_100.md (Henry + Scotland Yard + collapse).
 
 - `N09` — “Old man” slow-death / letter-blackmail voice:
   - **Signature tells:** paranoid “crucial meeting” with an “old man” + suspected eavesdropper; witnessed “done slowly to death”; franked letter/package to “the girl” discovered “in the morning”; fear of being “done in”; overheated associative wordplay around London landmarks and travel-names.
@@ -179,10 +179,10 @@ Template:
 - `N21` — Dazed infatuation + bar/tea imagery voice:
   - **Signature tells:** dazed, self-referential repetition (“I always…”); sensual fixation on surfaces/eyes/hair; social-table/bar settings with drink/tea naming; overt fascination with Henry (and Henry policing diction).
   - **Likely identity (if any):** unknown.
-  - **Pages:** Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_47.md, Pages/cains_jawbone_page_49.md
+  - **Pages:** Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_47.md, Pages/cains_jawbone_page_49.md, Pages/cains_jawbone_page_92.md
   - **Confidence:** `LIKELY`
   - **Disconfirming evidence:** the “dazed” and sensual-description style is shown to be a generic motif reused across unrelated narrators, or Henry’s role differs incompatibly across the pages.
-  - **Notes:** MAYBE overlaps: Pages/cains_jawbone_page_92.md (Browning “Saul” + heightened anticipation), Pages/cains_jawbone_page_82.md (table disorientation + guilt/weight imagery).
+  - **Notes:** Page 92 shares a Browning “Saul” excerpt and the “what … next?” anticipation framing with Page 42; treat as part of this voice unless the quotation is shown to be widely reused across narrators.
 
 - `N22` — Morbid London decoder (plague quotation voice):
   - **Signature tells:** decoding/reading completion framing (“figures and letters”); London homecoming with sepulchral beauty imagery; stitched-in historical plague prose used as an immediate interpretive lens.
