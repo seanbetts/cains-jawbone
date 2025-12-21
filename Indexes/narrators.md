@@ -107,7 +107,7 @@ Template:
 - `N12` — Calabar/digitalis poison-logistics + murder-as-genre voice:
   - **Signature tells:** poison-botany specificity (Calabar bean/physostigma; digitalis) embedded in murder logistics; darkly comic genre-aware murder framing (murder counts, pursuit set-pieces); pragmatic “try again tomorrow” planning language.
   - **Likely identity (if any):** unknown.
-  - **Pages:** Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_26.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_58.md, Pages/cains_jawbone_page_60.md
+  - **Pages:** Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_26.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_58.md, Pages/cains_jawbone_page_59.md, Pages/cains_jawbone_page_60.md
   - **Confidence:** `LIKELY`
   - **Disconfirming evidence:** Calabar/digitalis cues and the murder-counting/pursuit voice are shown to belong to different narrators with incompatible settings/biographies.
   - **Notes:** MAYBE overlap: Pages/cains_jawbone_page_29.md (Calabar bean + experimental plant/food poisoning register).
@@ -207,3 +207,19 @@ Template:
   - **Confidence:** `MAYBE`
   - **Disconfirming evidence:** the collapse/death framing is later shown to be purely rhetorical, or “Scotland Yard/Kursaal” is a detachable allusive layer reused by other narrators.
   - **Notes:** Watch for recurrence of the buttonhole motif and the specific Woolworth’s/Kursaal geography as stronger continuity hooks.
+
+- `N25` — Quicksands-of-crime interviewer / papers voice:
+  - **Signature tells:** interview framing (door opens/shuts; “papers” handled); moralising crime/innocence language; contemptuous epithets for the subject (“well-fed swine”); meta “commentary… page after page” line; pointed food tells (Westphalian ham; cucumber sandwiches).
+  - **Likely identity (if any):** unknown.
+  - **Pages:** Pages/cains_jawbone_page_52.md, Pages/cains_jawbone_page_53.md
+  - **Confidence:** `LIKELY`
+  - **Disconfirming evidence:** Page 53’s “introduced to me” scene is shown to be a different narrator/context from Page 52’s “interview… papers”, or the shared interview/papers framing recurs widely across unrelated pages without other shared tells.
+  - **Notes:** MAYBE overlap: Pages/cains_jawbone_page_57.md (Westphalian ham + “bits of paper” reading) if the table/reading scene is later shown to be the same narrator segment.
+
+- `N26` — “Awful and literal sense” breakfast-recapping / second-sight voice:
+  - **Signature tells:** the distinctive parenthetical aside “in the awful and literal sense of the word”; morning/breakfast domesticity; insomnia + “recapitulation” framing; claimed second-sight wordplay (“Clare” → clairvoyant/clairaudient).
+  - **Likely identity (if any):** unknown.
+  - **Pages:** Pages/cains_jawbone_page_54.md, Pages/cains_jawbone_page_56.md
+  - **Confidence:** `LIKELY`
+  - **Disconfirming evidence:** the shared parenthetical phrasing is shown to be a common quotation reused across multiple narrators, or the two pages’ surrounding voice/register proves incompatible beyond the single repeated phrase.
+  - **Notes:** Page 54 also participates in the plant/poison “to-day” date-anchor motif; keep that separate from narrator identification.
