@@ -24,7 +24,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Disconfirming evidence:** Alexander (“Ecky”) is later shown to be a different POV than the Aquarius-pen narrator, or “bad for the hand” is a widely shared motif across voices.
 
 - **Cluster:** `N12` Calabar/digitalis poison-logistics + murder-as-genre voice (confidence: `LIKELY`)
-  - **Pages:** Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_26.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_58.md, Pages/cains_jawbone_page_60.md (MAYBE: Pages/cains_jawbone_page_29.md)
+  - **Pages:** Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_26.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_58.md, Pages/cains_jawbone_page_59.md, Pages/cains_jawbone_page_60.md (MAYBE: Pages/cains_jawbone_page_29.md)
   - **Rationale:** Shared poison anchors (Calabar/digitalis) and a consistent practical, darkly comic “murder mechanics” register (counts, pursuit set-pieces, try-again planning) suggest a stable narrator signature.
   - **Key anchors:** Calabar bean/physostigma; digitalis; murder-counting language; “Murders were funny things”; “give him another day”.
   - **Disconfirming evidence:** Calabar/digitalis references recur widely across unrelated voices, or the pursuit/murder-count tone is shown to be a separate narrator from the poison-logistics pages.
@@ -94,6 +94,18 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Rationale:** Page 100’s narrator is physically incapacitated and frames a collapse scene via Scotland Yard and specific Southend Kursaal geography, with a gloating antagonist and a valedictory “Good-bye, Henry.”
   - **Key anchors:** Scotland Yard; Woolworth’s; Kursaal; buttonhole motif; “how ill… about my heart”.
   - **Disconfirming evidence:** the collapse frame is purely rhetorical or the Scotland Yard/Kursaal layer is reused by other narrators.
+
+- **Cluster:** `N25` Quicksands-of-crime interviewer / papers voice (confidence: `LIKELY`)
+  - **Pages:** Pages/cains_jawbone_page_52.md, Pages/cains_jawbone_page_53.md (MAYBE: Pages/cains_jawbone_page_57.md)
+  - **Rationale:** Pages 52–53 read as a continuous interview scene: the narrator frames an “interview” with “papers” while moralising about crime/innocence, then pivots to a contemptuous introduction of Sir Paul Trinder.
+  - **Key anchors:** “end of my interview”; “make yourself comfortable with the papers”; “commentary… page after page”; “introduced to me”; “well-fed swine”; Westphalian ham.
+  - **Disconfirming evidence:** Westphalian ham/papers language is shown to be a widely reused table-setting motif, or the “introduced to me” Trinder description is later anchored to a different narrator/setting.
+
+- **Cluster:** `N26` “Awful and literal sense” breakfast-recapping / second-sight voice (confidence: `LIKELY`)
+  - **Pages:** Pages/cains_jawbone_page_54.md, Pages/cains_jawbone_page_56.md
+  - **Rationale:** Both pages share the distinctive parenthetical aside “in the awful and literal sense of the word” and a morning/breakfast framing that mixes self-mocking wordplay with heightened mental-state reporting (recapitulation/second-sight).
+  - **Key anchors:** repeated “awful and literal sense” phrasing; breakfast setting (toast/marmalade; sausage); insomnia + “agony of recapitulation”; “Clare” (clairvoyant/clairaudient pun).
+  - **Disconfirming evidence:** the shared aside is shown to be a common quotation reused across multiple voices, or the surrounding diction/register proves incompatible beyond the single repeated phrase.
 
 - **Cluster:** `N04` Great Lexicographer / fealty voice (confidence: `CERTAIN`)
   - **Pages:** Pages/cains_jawbone_page_61.md, Pages/cains_jawbone_page_64.md
