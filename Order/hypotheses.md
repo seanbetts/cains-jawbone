@@ -71,6 +71,19 @@ These are **cross-narrator** groupings intended to reduce the search space for P
   - **Disconfirming evidence:** Whitman quotations appear broadly across many narrators without other shared tells; treat as a motif cluster only.
   - **Next falsification check:** identify whether the non-Whitman connective tissue (pills, travel posture, “instructions”) supports a single-voice merge or forces a split; people-index yields no multi-page person IDs across these pages, so treat Whitman as a motif layer until a second anchor emerges.
 
+**Macro overlap map (pages in 2+ macro strands)**
+
+This is descriptive only: overlaps here do not imply ordering or shared narrator without additional anchors.
+
+- Pages/cains_jawbone_page_32.md → Botany/poison + gardening expertise; Time obsession + calendar anchors; Whitman quotation collage
+- Pages/cains_jawbone_page_40.md → Botany/poison + gardening expertise; Whitman quotation collage
+- Pages/cains_jawbone_page_52.md → Paper artifacts + money pressure; Time obsession + calendar anchors
+- Pages/cains_jawbone_page_54.md → Botany/poison + gardening expertise; Time obsession + calendar anchors
+- Pages/cains_jawbone_page_60.md → Botany/poison + gardening expertise; Time obsession + calendar anchors
+- Pages/cains_jawbone_page_84.md → Aesthetic / infatuation / high-society; Time obsession + calendar anchors
+- Pages/cains_jawbone_page_89.md → Paper artifacts + money pressure; Aesthetic / infatuation / high-society
+- Pages/cains_jawbone_page_99.md → Dog POV; Time obsession + calendar anchors
+
 ### Phase 3 narrator clusters (detail)
 
 Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; **do not add within-cluster sequencing in Phase 3**.
