@@ -27,7 +27,7 @@ These are **cross-narrator** groupings intended to reduce the search space for P
   - **Next falsification check:** scan each page for hands/reading/writing/complex social roles that cannot be reframed as observed human action.
 
 - **Cluster:** Botany/poison + gardening expertise strand (confidence: `MAYBE`)
-  - **Pages:** Pages/cains_jawbone_page_3.md, Pages/cains_jawbone_page_6.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_24.md, Pages/cains_jawbone_page_26.md, Pages/cains_jawbone_page_27.md, Pages/cains_jawbone_page_29.md, Pages/cains_jawbone_page_30.md, Pages/cains_jawbone_page_32.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_40.md, Pages/cains_jawbone_page_54.md, Pages/cains_jawbone_page_58.md, Pages/cains_jawbone_page_59.md, Pages/cains_jawbone_page_60.md, Pages/cains_jawbone_page_71.md, Pages/cains_jawbone_page_73.md, Pages/cains_jawbone_page_74.md, Pages/cains_jawbone_page_75.md, Pages/cains_jawbone_page_80.md, Pages/cains_jawbone_page_83.md, Pages/cains_jawbone_page_86.md, Pages/cains_jawbone_page_87.md
+  - **Pages:** Pages/cains_jawbone_page_3.md, Pages/cains_jawbone_page_5.md, Pages/cains_jawbone_page_6.md, Pages/cains_jawbone_page_7.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_24.md, Pages/cains_jawbone_page_26.md, Pages/cains_jawbone_page_27.md, Pages/cains_jawbone_page_29.md, Pages/cains_jawbone_page_30.md, Pages/cains_jawbone_page_32.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_40.md, Pages/cains_jawbone_page_45.md, Pages/cains_jawbone_page_54.md, Pages/cains_jawbone_page_58.md, Pages/cains_jawbone_page_59.md, Pages/cains_jawbone_page_60.md, Pages/cains_jawbone_page_71.md, Pages/cains_jawbone_page_73.md, Pages/cains_jawbone_page_74.md, Pages/cains_jawbone_page_75.md, Pages/cains_jawbone_page_76.md, Pages/cains_jawbone_page_80.md, Pages/cains_jawbone_page_83.md, Pages/cains_jawbone_page_86.md, Pages/cains_jawbone_page_87.md, Pages/cains_jawbone_page_97.md
   - **Rationale:** Dense, recurring plant/poison specificity (often tied to deliberate action) plus a repeated “competence/plan/instructions” register suggests either a shared narrator or a small set of closely linked narrators.
   - **Key anchors:** Calabar bean/physostigma; digitalis; hellebore; lobelia/Indian-tobacco; wild jasmine/roses; marigold/calendula; Mithradates inoculation; failing eyesight with “documents”; “job/instructions” framing.
   - **Sub-strands (working):**
@@ -36,11 +36,12 @@ These are **cross-narrator** groupings intended to reduce the search space for P
     - `N06` flowers/documents/OGPU: Pages/cains_jawbone_page_71.md, Pages/cains_jawbone_page_73.md, Pages/cains_jawbone_page_74.md, Pages/cains_jawbone_page_75.md, Pages/cains_jawbone_page_83.md
     - `N13` host/guest poisoning: Pages/cains_jawbone_page_80.md, Pages/cains_jawbone_page_86.md, Pages/cains_jawbone_page_87.md
     - Bridge singleton candidates: `N26` (Pages/cains_jawbone_page_54.md), `N31` (Pages/cains_jawbone_page_40.md)
+    - Edge overlap promotions (low confidence): `N19` (Pages/cains_jawbone_page_5.md); `N16` (Pages/cains_jawbone_page_7.md, Pages/cains_jawbone_page_45.md); `N15` (Pages/cains_jawbone_page_76.md); `N07` (Pages/cains_jawbone_page_97.md)
   - **Disconfirming evidence:** later evidence shows plant/poison talk is broadly distributed across unrelated voices with incompatible settings/participants.
   - **Next falsification check:** treat this as an umbrella and explicitly maintain sub-strands (`N12` poison logistics; `N03` Clement/mission plants; `N06` flowers+documents/OGPU; `N13` host/guest poisoning), only merging across them when a non-botanical phrase/participant anchor repeats; people-index suggests `P03` Clement anchors Pages/cains_jawbone_page_3.md + Pages/cains_jawbone_page_24.md + Pages/cains_jawbone_page_27.md + Pages/cains_jawbone_page_32.md, `P16` May anchors Pages/cains_jawbone_page_71.md + Pages/cains_jawbone_page_75.md + Pages/cains_jawbone_page_80.md, and `P50` Sir Paul Trinder anchors Pages/cains_jawbone_page_59.md + Pages/cains_jawbone_page_80.md (potential bridge if Page 80 is confirmed in the host/guest poisoning sub-strand). Treat `P01` Henry as high-signal but high-noise (likely multiple Henrys across strands).
 
 - **Cluster:** Paper artifacts + money pressure strand (confidence: `MAYBE`)
-  - **Pages:** Pages/cains_jawbone_page_12.md, Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_18.md, Pages/cains_jawbone_page_23.md, Pages/cains_jawbone_page_28.md, Pages/cains_jawbone_page_33.md, Pages/cains_jawbone_page_34.md, Pages/cains_jawbone_page_50.md, Pages/cains_jawbone_page_52.md, Pages/cains_jawbone_page_53.md, Pages/cains_jawbone_page_57.md, Pages/cains_jawbone_page_68.md, Pages/cains_jawbone_page_69.md, Pages/cains_jawbone_page_70.md, Pages/cains_jawbone_page_72.md, Pages/cains_jawbone_page_78.md, Pages/cains_jawbone_page_89.md, Pages/cains_jawbone_page_95.md, Pages/cains_jawbone_page_96.md, Pages/cains_jawbone_page_98.md
+  - **Pages:** Pages/cains_jawbone_page_1.md, Pages/cains_jawbone_page_2.md, Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_12.md, Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_18.md, Pages/cains_jawbone_page_23.md, Pages/cains_jawbone_page_28.md, Pages/cains_jawbone_page_33.md, Pages/cains_jawbone_page_34.md, Pages/cains_jawbone_page_43.md, Pages/cains_jawbone_page_44.md, Pages/cains_jawbone_page_50.md, Pages/cains_jawbone_page_52.md, Pages/cains_jawbone_page_53.md, Pages/cains_jawbone_page_57.md, Pages/cains_jawbone_page_61.md, Pages/cains_jawbone_page_64.md, Pages/cains_jawbone_page_68.md, Pages/cains_jawbone_page_69.md, Pages/cains_jawbone_page_70.md, Pages/cains_jawbone_page_72.md, Pages/cains_jawbone_page_78.md, Pages/cains_jawbone_page_89.md, Pages/cains_jawbone_page_95.md, Pages/cains_jawbone_page_96.md, Pages/cains_jawbone_page_98.md
   - **Rationale:** Multiple pages foreground documents/papers/letters (wills, interviews, “bits of paper”, magazines, signatures) tightly coupled to money pressure, leverage, or transaction-like scenes.
   - **Key anchors:** will/inheritance talk; forgery/handwriting manipulation; “papers” handled in an interview-like frame; “valuable services rendered”; franked letter/package to “the girl”; Café Royal time-budget + written account; “signatures were his business”; money changing hands “slowly” for later description.
   - **Disconfirming evidence:** paper artifacts are shown to be a generic, widely used prop with no consistent voice/participant continuity (e.g., May/Henry clearly differ across all instances).
@@ -48,11 +49,13 @@ These are **cross-narrator** groupings intended to reduce the search space for P
     - will/estate/forgery (`N10`/`N39`/`N18`): Pages/cains_jawbone_page_12.md, Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_28.md, Pages/cains_jawbone_page_50.md, Pages/cains_jawbone_page_78.md
     - interview/bills/papers (`N25`): Pages/cains_jawbone_page_33.md, Pages/cains_jawbone_page_34.md, Pages/cains_jawbone_page_52.md, Pages/cains_jawbone_page_53.md, Pages/cains_jawbone_page_57.md
     - old man/blackmail letters (`N09`): Pages/cains_jawbone_page_68.md, Pages/cains_jawbone_page_69.md, Pages/cains_jawbone_page_70.md, Pages/cains_jawbone_page_95.md, Pages/cains_jawbone_page_96.md
-    - singletons: rupee chapter (`N35`) (Pages/cains_jawbone_page_18.md); bills-in-the-paper/matches (`N40`) (Pages/cains_jawbone_page_23.md); magazine meta (`N33`) (Pages/cains_jawbone_page_72.md); signatures/death-warrant talk (`N32`) (Pages/cains_jawbone_page_89.md); medical-payoff meeting (`N38`) (Pages/cains_jawbone_page_98.md)
+    - pen/handwriting + venue title-list (`N01`): Pages/cains_jawbone_page_1.md, Pages/cains_jawbone_page_43.md
+    - lexicographer/letters/postman (`N04`): Pages/cains_jawbone_page_61.md, Pages/cains_jawbone_page_64.md
+    - singletons: rupee chapter (`N35`) (Pages/cains_jawbone_page_18.md); bills-in-the-paper/matches (`N40`) (Pages/cains_jawbone_page_23.md); magazine meta (`N33`) (Pages/cains_jawbone_page_72.md); signatures/death-warrant talk (`N32`) (Pages/cains_jawbone_page_89.md); medical-payoff meeting (`N38`) (Pages/cains_jawbone_page_98.md); Sunday paper anchor (`N17`) (Pages/cains_jawbone_page_11.md); burned marriage certificate (`N16`) (Pages/cains_jawbone_page_44.md); Defoe death-day decoding (`N22`) (Pages/cains_jawbone_page_2.md)
   - **Next falsification check:** maintain the sub-strands above and only merge across them when a shared participant/object or repeated non-generic phrasing recurs; check for cross-sub-strand bridges via repeated participants (people-index suggests `P16` May in Pages/cains_jawbone_page_14.md + Pages/cains_jawbone_page_98.md; `P01` Henry in Pages/cains_jawbone_page_14.md + Pages/cains_jawbone_page_68.md + Pages/cains_jawbone_page_78.md; and `P61` “poor old man” concentrated in Pages/cains_jawbone_page_68.md + Pages/cains_jawbone_page_69.md + Pages/cains_jawbone_page_70.md) before merging.
 
 - **Cluster:** Detective/police + violence scenes strand (confidence: `MAYBE`)
-  - **Pages:** Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_31.md, Pages/cains_jawbone_page_81.md, Pages/cains_jawbone_page_82.md, Pages/cains_jawbone_page_85.md, Pages/cains_jawbone_page_91.md, Pages/cains_jawbone_page_94.md, Pages/cains_jawbone_page_100.md
+  - **Pages:** Pages/cains_jawbone_page_7.md, Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_31.md, Pages/cains_jawbone_page_44.md, Pages/cains_jawbone_page_45.md, Pages/cains_jawbone_page_76.md, Pages/cains_jawbone_page_81.md, Pages/cains_jawbone_page_82.md, Pages/cains_jawbone_page_85.md, Pages/cains_jawbone_page_91.md, Pages/cains_jawbone_page_93.md, Pages/cains_jawbone_page_94.md, Pages/cains_jawbone_page_97.md, Pages/cains_jawbone_page_100.md
   - **Rationale:** These pages share a crime/detection frame (explicitly or via detective canon allusions) and/or hands-on violence/corpse familiarity, often with London-police texture.
   - **Key anchors:** Sherlock/Mycroft and Sexton Blake; “Scotland Yard”; “Black Museum”; “Speckled Band” riff; window-throw vignette; “carnal, bloody and unnatural acts” frame.
   - **Sub-strands (working):**
@@ -61,22 +64,28 @@ These are **cross-narrator** groupings intended to reduce the search space for P
     - `N11` (De’Ath / “Black Museum”): Pages/cains_jawbone_page_91.md
     - `N24` (Scotland Yard collapse / Kursaal): Pages/cains_jawbone_page_100.md
     - `N28` (window-throw / “no detective”): Pages/cains_jawbone_page_81.md
+    - `N07` (proof/surveillance + pro/con reasoning): Pages/cains_jawbone_page_93.md, Pages/cains_jawbone_page_97.md
+    - `N15` (“Green” victim / murder contemplation): Pages/cains_jawbone_page_76.md
+    - `N16` (smell-memory + evidence destruction / corpse proximity): Pages/cains_jawbone_page_7.md, Pages/cains_jawbone_page_44.md, Pages/cains_jawbone_page_45.md
   - **Disconfirming evidence:** detective language resolves purely to decorative quotation collage and the surrounding voices/settings show no coherence.
   - **Next falsification check:** treat as an umbrella: keep the sub-strands above separate unless a shared participant/object or a repeated, non-generic phrasing ties them; people-index suggests `P99` (King narrator) anchors Pages/cains_jawbone_page_85.md + Pages/cains_jawbone_page_94.md, while `P01` Henry is widespread and should not be used as a sole bridge.
 
 - **Cluster:** Aesthetic / infatuation / high-society strand (confidence: `MAYBE`)
-  - **Pages:** Pages/cains_jawbone_page_37.md, Pages/cains_jawbone_page_38.md, Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_47.md, Pages/cains_jawbone_page_49.md, Pages/cains_jawbone_page_62.md, Pages/cains_jawbone_page_63.md, Pages/cains_jawbone_page_65.md, Pages/cains_jawbone_page_84.md, Pages/cains_jawbone_page_89.md, Pages/cains_jawbone_page_90.md, Pages/cains_jawbone_page_92.md
+  - **Pages:** Pages/cains_jawbone_page_4.md, Pages/cains_jawbone_page_5.md, Pages/cains_jawbone_page_16.md, Pages/cains_jawbone_page_17.md, Pages/cains_jawbone_page_37.md, Pages/cains_jawbone_page_38.md, Pages/cains_jawbone_page_41.md, Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_43.md, Pages/cains_jawbone_page_47.md, Pages/cains_jawbone_page_49.md, Pages/cains_jawbone_page_56.md, Pages/cains_jawbone_page_61.md, Pages/cains_jawbone_page_62.md, Pages/cains_jawbone_page_63.md, Pages/cains_jawbone_page_65.md, Pages/cains_jawbone_page_66.md, Pages/cains_jawbone_page_67.md, Pages/cains_jawbone_page_84.md, Pages/cains_jawbone_page_89.md, Pages/cains_jawbone_page_90.md, Pages/cains_jawbone_page_92.md
   - **Rationale:** A shared social-register cluster: art-world and literary name-dropping, sensual description (hair/eyes/legs), and “soigné” interior scenes, with repeated jasmine and Wilde/Whistler anchoring.
   - **Key anchors:** post‑Vorticists private view; Ronald Firbank; Wilde/Whistler “You will, Oscar, you will”; “soigné” parquet venue; yellow-jasmine/Barbara description; dessert-order banter + attribution obsession.
   - **Sub-strands (working):**
     - `N21` (dazed infatuation + bar/tea imagery): Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_47.md, Pages/cains_jawbone_page_49.md, Pages/cains_jawbone_page_92.md
     - `N32` (“Type” classifier / Wilde-allusion voice): Pages/cains_jawbone_page_62.md, Pages/cains_jawbone_page_65.md, Pages/cains_jawbone_page_89.md, Pages/cains_jawbone_page_90.md
-    - Singletons: `N29` (Pages/cains_jawbone_page_37.md), `N30` (Pages/cains_jawbone_page_38.md), `N14` (Pages/cains_jawbone_page_63.md), `N37` (Pages/cains_jawbone_page_84.md)
+    - `N01` (Aquarius pen / “Ecky” bar voice): Pages/cains_jawbone_page_17.md, Pages/cains_jawbone_page_43.md
+    - `N05` (Haslemere/school + art register): Pages/cains_jawbone_page_66.md, Pages/cains_jawbone_page_67.md
+    - `N19` (comic coastal punster): Pages/cains_jawbone_page_4.md, Pages/cains_jawbone_page_5.md
+    - Singletons: `N29` (Pages/cains_jawbone_page_37.md), `N30` (Pages/cains_jawbone_page_38.md), `N14` (Pages/cains_jawbone_page_63.md), `N37` (Pages/cains_jawbone_page_84.md), `N23` (Pages/cains_jawbone_page_16.md), `N17` (Pages/cains_jawbone_page_41.md), `N26` (Pages/cains_jawbone_page_56.md), `N04` (Pages/cains_jawbone_page_61.md)
   - **Disconfirming evidence:** these are shown to be multiple unrelated narrators using similar “learned allusion + attraction” techniques with no shared participants or setting markers.
   - **Next falsification check:** maintain the sub-strands above and only merge across them when a shared participant or phrase-level anchor repeats (not just “jasmine” or general name-dropping); people-index shows only one multi-page bridge inside this set: `P01` Henry across Pages/cains_jawbone_page_42.md + Pages/cains_jawbone_page_47.md + Pages/cains_jawbone_page_49.md + Pages/cains_jawbone_page_63.md + Pages/cains_jawbone_page_92.md, so treat any broader merge as `MAYBE` unless Henry is clearly the same figure and a second anchor emerges.
 
 - **Cluster:** Time obsession + calendar anchors (confidence: `MAYBE`)
-  - **Pages:** Pages/cains_jawbone_page_15.md, Pages/cains_jawbone_page_20.md, Pages/cains_jawbone_page_25.md, Pages/cains_jawbone_page_32.md, Pages/cains_jawbone_page_52.md, Pages/cains_jawbone_page_54.md, Pages/cains_jawbone_page_55.md, Pages/cains_jawbone_page_60.md, Pages/cains_jawbone_page_77.md, Pages/cains_jawbone_page_84.md, Pages/cains_jawbone_page_99.md
+  - **Pages:** Pages/cains_jawbone_page_1.md, Pages/cains_jawbone_page_2.md, Pages/cains_jawbone_page_9.md, Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_15.md, Pages/cains_jawbone_page_17.md, Pages/cains_jawbone_page_20.md, Pages/cains_jawbone_page_25.md, Pages/cains_jawbone_page_32.md, Pages/cains_jawbone_page_41.md, Pages/cains_jawbone_page_52.md, Pages/cains_jawbone_page_54.md, Pages/cains_jawbone_page_55.md, Pages/cains_jawbone_page_56.md, Pages/cains_jawbone_page_60.md, Pages/cains_jawbone_page_64.md, Pages/cains_jawbone_page_67.md, Pages/cains_jawbone_page_77.md, Pages/cains_jawbone_page_84.md, Pages/cains_jawbone_page_99.md
   - **Rationale:** These pages treat time as a puzzle surface (explicit “to-day” historic hooks, “closing day” framing, or overt time-factor/clock logic), suggesting a constraint layer that will later drive ordering.
   - **Key anchors:** “coming of age hours” (21:00); “to-day” death-date hooks (e.g., Gainsborough); Nelson’s blind-eye/arm-loss “to-day” anchor; “closing day in Potsdam”; “time factor”.
   - **Sub-strands (working):**
@@ -84,7 +93,13 @@ These are **cross-narrator** groupings intended to reduce the search space for P
     - `N08` clock-hour pun: Pages/cains_jawbone_page_15.md
     - `N03` Clement voice time hook (also botany/Whitman overlap): Pages/cains_jawbone_page_32.md
     - `N25` papers/interview date hook (also paper/money overlap): Pages/cains_jawbone_page_52.md
-    - `N26` breakfast/second-sight + “to-day” (also botany overlap): Pages/cains_jawbone_page_54.md
+    - `N26` breakfast/second-sight + “to-day” (also botany overlap): Pages/cains_jawbone_page_54.md, Pages/cains_jawbone_page_56.md
+    - `N01` pen/handwriting + “to-day is the day”: Pages/cains_jawbone_page_1.md, Pages/cains_jawbone_page_17.md
+    - `N22` Defoe death-day hook: Pages/cains_jawbone_page_2.md
+    - `N27` Day/Knight pun + time-limit frame: Pages/cains_jawbone_page_9.md
+    - `N17` dog-watch / “first dog” timekeeping: Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_41.md
+    - `N04` letters/postman “to-day/last day” frame: Pages/cains_jawbone_page_64.md
+    - `N05` Columbus/Palos date cue: Pages/cains_jawbone_page_67.md
     - `N16` smell-memory + calendar hint: Pages/cains_jawbone_page_55.md
     - `N12` poison logistics + time constraint (also botany overlap): Pages/cains_jawbone_page_60.md
     - `N15` assassination-date hook / “first” frame: Pages/cains_jawbone_page_77.md
@@ -108,40 +123,34 @@ These are **cross-narrator** groupings intended to reduce the search space for P
 
 This is descriptive only: overlaps here do not imply ordering or shared narrator without additional anchors.
 
+- Pages/cains_jawbone_page_1.md → Paper artifacts + money pressure; Time obsession + calendar anchors
+- Pages/cains_jawbone_page_2.md → Paper artifacts + money pressure; Time obsession + calendar anchors
+- Pages/cains_jawbone_page_5.md → Botany/poison + gardening expertise; Aesthetic / infatuation / high-society
+- Pages/cains_jawbone_page_7.md → Botany/poison + gardening expertise; Detective/police + violence scenes
+- Pages/cains_jawbone_page_11.md → Paper artifacts + money pressure; Time obsession + calendar anchors
+- Pages/cains_jawbone_page_17.md → Aesthetic / infatuation / high-society; Time obsession + calendar anchors
 - Pages/cains_jawbone_page_32.md → Botany/poison + gardening expertise; Time obsession + calendar anchors; Whitman quotation collage
 - Pages/cains_jawbone_page_40.md → Botany/poison + gardening expertise; Whitman quotation collage
+- Pages/cains_jawbone_page_41.md → Aesthetic / infatuation / high-society; Time obsession + calendar anchors
+- Pages/cains_jawbone_page_43.md → Paper artifacts + money pressure; Aesthetic / infatuation / high-society
+- Pages/cains_jawbone_page_44.md → Paper artifacts + money pressure; Detective/police + violence scenes
+- Pages/cains_jawbone_page_45.md → Botany/poison + gardening expertise; Detective/police + violence scenes
 - Pages/cains_jawbone_page_52.md → Paper artifacts + money pressure; Time obsession + calendar anchors
 - Pages/cains_jawbone_page_54.md → Botany/poison + gardening expertise; Time obsession + calendar anchors
+- Pages/cains_jawbone_page_56.md → Aesthetic / infatuation / high-society; Time obsession + calendar anchors
 - Pages/cains_jawbone_page_60.md → Botany/poison + gardening expertise; Time obsession + calendar anchors
+- Pages/cains_jawbone_page_61.md → Paper artifacts + money pressure; Aesthetic / infatuation / high-society
+- Pages/cains_jawbone_page_64.md → Paper artifacts + money pressure; Time obsession + calendar anchors
+- Pages/cains_jawbone_page_67.md → Aesthetic / infatuation / high-society; Time obsession + calendar anchors
+- Pages/cains_jawbone_page_76.md → Botany/poison + gardening expertise; Detective/police + violence scenes
 - Pages/cains_jawbone_page_84.md → Aesthetic / infatuation / high-society; Time obsession + calendar anchors
 - Pages/cains_jawbone_page_89.md → Paper artifacts + money pressure; Aesthetic / infatuation / high-society
+- Pages/cains_jawbone_page_97.md → Botany/poison + gardening expertise; Detective/police + violence scenes
 - Pages/cains_jawbone_page_99.md → Dog POV; Time obsession + calendar anchors
 
 **Macro coverage audit (pages currently in 0 macro strands)**
 
-These are pages that are not yet listed in any macro strand above. Assignments here are hypotheses only; overlap is allowed.
-
-- Pages/cains_jawbone_page_1.md → `MAYBE` Time obsession + calendar anchors (explicit “to-day is the day” framing); `MAYBE` Paper artifacts + money pressure (pen/hand-writing fixation). Falsifier: “to-day” never behaves like a date/constraint layer; pen/hand motif stays purely decorative.
-- Pages/cains_jawbone_page_2.md → `LIKELY` Time obsession + calendar anchors (“to-day” as an author-death-day hook); `MAYBE` Paper artifacts + money pressure (letters/figures reading/decoding finish line). Falsifier: the plague-quote does not point to a checkable date, and the letters/figures motif does not recur.
-- Pages/cains_jawbone_page_4.md → `MAYBE` Aesthetic / infatuation / high-society strand (social banter + name-heavy, punning narration; church/buttonhole commerce). Falsifier: later context forces a purely non-social/legal frame (or the name-heavy comedy proves detachable quotation collage).
-- Pages/cains_jawbone_page_5.md → `MAYBE` Botany/poison + gardening expertise strand (poisoned-drink / vitriol register); `MAYBE` Aesthetic / infatuation / high-society strand (cosmetics + social irritation). Falsifier: “vitriol” is metaphorical and the drink register has no continuity hooks elsewhere.
-- Pages/cains_jawbone_page_7.md → `LIKELY` Detective/police + violence scenes strand (Baker Street + investigation/judge framing); `MAYBE` Botany/poison + gardening expertise strand (horticultural “Jew’s-lime” engrafting wax). Falsifier: Baker Street is incidental and the investigation language is purely decorative quotation.
-- Pages/cains_jawbone_page_9.md → `MAYBE` Time obsession + calendar anchors (Day/Knight pun + “time was not unlimited”). Falsifier: the time language is pure scene texture with no constraint-like behaviour.
-- Pages/cains_jawbone_page_11.md → `LIKELY` Time obsession + calendar anchors (dog-watch timekeeping); `MAYBE` Paper artifacts + money pressure strand (yesterday’s Sunday paper anchor). Falsifier: “dog” is literal (not nautical time), and the newspaper reference never reappears as a tell.
-- Pages/cains_jawbone_page_16.md → `LIKELY` Aesthetic / infatuation / high-society strand (music-hall + cosmetics + romance register). Falsifier: the theatre/cosmetics details are entirely in quoted inset rather than the narrator’s scene.
-- Pages/cains_jawbone_page_17.md → `LIKELY` Aesthetic / infatuation / high-society strand (“Moon/Dawn” venue framing + tea/courtship); `MAYBE` Time obsession + calendar anchors (repeated “to-day”). Falsifier: “Moon/Dawn” resolves as pure time-of-day metaphor and “to-day” never grounds to a constraint.
-- Pages/cains_jawbone_page_41.md → `MAYBE` Aesthetic / infatuation / high-society strand (Selfridges/Bond Street register); `MAYBE` Time obsession + calendar anchors (“first dog”/dog-watch timekeeping possibility). Falsifier: shopping references are incidental and the “dog” phrasing is clearly literal.
-- Pages/cains_jawbone_page_43.md → `LIKELY` Aesthetic / infatuation / high-society strand (bar/cocktail/dessert “titles”; “the Dawn”); `MAYBE` Paper artifacts + money pressure strand (hand/pen/handwriting sensitivity). Falsifier: the “titles” are only brand-list texture and the hand motif is unrelated to writing/paper handling.
-- Pages/cains_jawbone_page_44.md → `LIKELY` Paper artifacts + money pressure strand (marriage certificate + incinerator/burned evidence); `MAYBE` Detective/police + violence scenes strand (suspicion + evidence-destruction frame). Falsifier: the certificate/burning is metaphorical and no investigative consequences attach.
-- Pages/cains_jawbone_page_45.md → `LIKELY` Detective/police + violence scenes strand (corpse + stealth/eavesdropping register); `MAYBE` Botany/poison + gardening expertise strand (“led up the garden path” deception literalised). Falsifier: the corpse is purely figurative/quoted and the garden phrasing is a generic idiom with no shared anchors.
-- Pages/cains_jawbone_page_56.md → `MAYBE` Time obsession + calendar anchors (morning + “six hours” + “Morning’s at seven” allusion); `MAYBE` Aesthetic / infatuation / high-society strand (Browning/Pippa allusive register). Falsifier: the time span is narrative filler and the Browning hook never functions as a clustering anchor elsewhere.
-- Pages/cains_jawbone_page_61.md → `MAYBE` Paper artifacts + money pressure strand (Great Lexicographer/wordcraft focus); `MAYBE` Aesthetic / infatuation / high-society strand (learned bilingual quotation density). Falsifier: lexicographer/wordcraft is a one-off and there is no venue/social continuity.
-- Pages/cains_jawbone_page_64.md → `LIKELY` Paper artifacts + money pressure strand (letters/postman/bait/hook metaphors); `MAYBE` Time obsession + calendar anchors (explicit “to-day” + “last day” framing). Falsifier: “to-day/last day” is generic and the letters-of-Bellerophon motif does not align to paper leverage elsewhere.
-- Pages/cains_jawbone_page_66.md → `MAYBE` Aesthetic / infatuation / high-society strand (art-nostalgia register; Beardsley/Rops context in the same narrator segment). Falsifier: the art references are incidental and no other aesthetic-cluster hooks recur.
-- Pages/cains_jawbone_page_67.md → `MAYBE` Aesthetic / infatuation / high-society strand (Beardsley/Rops art-world register); `LIKELY` Time obsession + calendar anchors (explicit Columbus/Palos date cue). Falsifier: the “Palos” reference is metaphorical (not calendar-facing) and the art references do not align with any other aesthetic pages.
-- Pages/cains_jawbone_page_76.md → `LIKELY` Detective/police + violence scenes strand (named victim + murder contemplation + billhook precedent); `MAYBE` Botany/poison + gardening expertise strand (Green/plant metaphors used as justification). Falsifier: Green is not an in-world victim and the violence framing is purely literary quotation.
-- Pages/cains_jawbone_page_93.md → `MAYBE` Detective/police + violence scenes strand (proof/surveillance/wire-tapping register; suspects-as-arguments framing). Falsifier: “proof/surveillance” language resolves entirely to metaphor with no scene-level crime/detection continuity.
-- Pages/cains_jawbone_page_97.md → `MAYBE` Detective/police + violence scenes strand (evidence/pro-con reasoning; “a thing I had never done before”); `MAYBE` Botany/poison + gardening expertise strand (pills/self-dosing). Falsifier: the “thing” is explicitly non-violent and the pills are routine rather than instrumental.
+Macro coverage is complete (0 pages currently in 0 macro strands). Treat the newly promoted “edge overlap” assignments as `MAYBE` unless a second independent anchor appears.
 
 **Bridge audit (candidate cross-strand connectors)**
 
