@@ -84,6 +84,24 @@ This is descriptive only: overlaps here do not imply ordering or shared narrator
 - Pages/cains_jawbone_page_89.md → Paper artifacts + money pressure; Aesthetic / infatuation / high-society
 - Pages/cains_jawbone_page_99.md → Dog POV; Time obsession + calendar anchors
 
+**Bridge audit (candidate cross-strand connectors)**
+
+Goal: highlight likely “join surfaces” between macro strands (people/place/object anchors) without proposing order. Treat everything here as `MAYBE` until a stronger continuity hook appears.
+
+- **Overlap-page bridges (highest-signal joins):**
+  - Botany/poison ↔ Time/calendar: Pages/cains_jawbone_page_32.md, Pages/cains_jawbone_page_54.md, Pages/cains_jawbone_page_60.md (check that each “to-day”/calendar anchor resolves cleanly and that botany content is not generic scene texture).
+  - Botany/poison ↔ Whitman: Pages/cains_jawbone_page_32.md, Pages/cains_jawbone_page_40.md (check whether Whitman is a narrator tell vs a detachable quotation layer; confirm whether the non-Whitman connective tissue matches).
+  - Paper/money ↔ Time/calendar: Pages/cains_jawbone_page_52.md (check that the date-anchor mechanism is the same kind used elsewhere in the time layer, not a one-off allusion).
+  - Paper/money ↔ Aesthetic/high-society: Pages/cains_jawbone_page_89.md (check whether the “signatures/death‑warrant” register is a stable voice tell, not merely a thematic prop).
+  - Aesthetic/high-society ↔ Time/calendar: Pages/cains_jawbone_page_84.md (check whether the “to-day” anchor behaves like the other time pages and whether the social/attraction register remains coherent).
+  - Dog POV ↔ Time/calendar: Pages/cains_jawbone_page_99.md (check whether the time anchor is being *observed* by the dog vs requires human abstraction).
+
+- **Cross-page bridges (non-overlap; higher-signal named anchors):**
+  - `P16` May (see `Indexes/people.md`): Paper/money pages (14/98; plus any additional May pages) ↔ Botany/poison pages (71/75/80). Falsifier: “May” resolves as month/pun in one strand, or May’s role/relationships are incompatible across strands.
+  - `P50` Sir Paul Trinder (see `Indexes/people.md`): Paper/money interview pages (52/53) ↔ Botany/poison host/poison pages (59/80). Falsifier: Sir Paul’s identifying details (title/context/behaviour) clearly differ between strands.
+  - Southend-on-Sea / Kursaal geography (see `Indexes/places.md`): Aesthetic page (38: Southend memory) ↔ Detective/violence page (100: Kursaal at Southend). Falsifier: one reference points to a different “Southend” or the Kursaal is not Southend’s Kursaal in context.
+  - Aconite mention (see `Indexes/objects_motifs.md`): Botany/poison page (80) ↔ Detective/violence page (91). Falsifier: aconite is incidental on one side and does not participate in the same “means/method” register.
+
 ### Phase 3 narrator clusters (detail)
 
 Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; **do not add within-cluster sequencing in Phase 3**.
