@@ -183,3 +183,27 @@ Template:
   - **Confidence:** `LIKELY`
   - **Disconfirming evidence:** the “dazed” and sensual-description style is shown to be a generic motif reused across unrelated narrators, or Henry’s role differs incompatibly across the pages.
   - **Notes:** MAYBE overlaps: Pages/cains_jawbone_page_92.md (Browning “Saul” + heightened anticipation), Pages/cains_jawbone_page_82.md (table disorientation + guilt/weight imagery).
+
+- `N22` — Morbid London decoder (plague quotation voice):
+  - **Signature tells:** decoding/reading completion framing (“figures and letters”); London homecoming with sepulchral beauty imagery; stitched-in historical plague prose used as an immediate interpretive lens.
+  - **Likely identity (if any):** unknown.
+  - **Pages:** Pages/cains_jawbone_page_2.md
+  - **Confidence:** `MAYBE`
+  - **Disconfirming evidence:** the plague-prose source is shown to be a widely reused quotation across multiple narrators, or the “figures and letters” motif recurs under a clearly different voice.
+  - **Notes:** If the plague quotation is identified as a specific author/date (as the text suggests), it may become a calendar/ordering anchor later; keep that separate from narrator identification.
+
+- `N23` — Music-hall cosmetics / Highgate Empire voice:
+  - **Signature tells:** theatre/music-hall venue specificity (Highgate Empire; performers/acts); cosmetics and prosthetic detail (false eyebrows; make-up artist); domestic supper detail; nostalgic tone.
+  - **Likely identity (if any):** unknown.
+  - **Pages:** Pages/cains_jawbone_page_16.md
+  - **Confidence:** `MAYBE`
+  - **Disconfirming evidence:** later pages show the same eyebrow/cosmetics vignette is quoted/remembered by multiple narrators, or the Henry-relation here is incompatible with other Henry-linked scenes.
+  - **Notes:** MAYBE overlaps with `N19` only via cosmetic gestures (“powdered my nose”), which is too weak alone.
+
+- `N24` — Scotland Yard collapse / Kursaal voice:
+  - **Signature tells:** narrator in physical extremis; police framing (Scotland Yard); gloating antagonist woman; Southend Kursaal landmark; buttonhole motif used as a fatalistic detail; valedictory address to Henry.
+  - **Likely identity (if any):** unknown.
+  - **Pages:** Pages/cains_jawbone_page_100.md
+  - **Confidence:** `MAYBE`
+  - **Disconfirming evidence:** the collapse/death framing is later shown to be purely rhetorical, or “Scotland Yard/Kursaal” is a detachable allusive layer reused by other narrators.
+  - **Notes:** Watch for recurrence of the buttonhole motif and the specific Woolworth’s/Kursaal geography as stronger continuity hooks.
