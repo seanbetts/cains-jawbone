@@ -27,7 +27,7 @@ Template:
 - `N02` — Dog POV (domestic + hunting):
   - **Signature tells:** explicit dog-coded bodily perspective (ears pulled; “low noise”; “nose” POV); mating/banishment narrative; hunting/retrieval register (Lagopus scoticus/red grouse); dog medicine ingestion (Bob Martin); secret sugar stash; self-description as a dog.
   - **Likely identity (if any):** a dog narrator (breed MAYBE Skye terrier).
-  - **Pages:** Pages/cains_jawbone_page_10.md, Pages/cains_jawbone_page_19.md, Pages/cains_jawbone_page_22.md, Pages/cains_jawbone_page_39.md, Pages/cains_jawbone_page_46.md, Pages/cains_jawbone_page_48.md, Pages/cains_jawbone_page_79.md, Pages/cains_jawbone_page_99.md
+  - **Pages:** Pages/cains_jawbone_page_10.md, Pages/cains_jawbone_page_19.md, Pages/cains_jawbone_page_22.md, Pages/cains_jawbone_page_39.md, Pages/cains_jawbone_page_46.md, Pages/cains_jawbone_page_48.md, Pages/cains_jawbone_page_79.md, Pages/cains_jawbone_page_88.md, Pages/cains_jawbone_page_99.md
   - **Confidence:** `CERTAIN`
   - **Disconfirming evidence:** any page in this set gives an unequivocal human-only physical situation (not idiom/metaphor) incompatible with dog POV.
   - **Notes:** Pages/cains_jawbone_page_8.md has overlapping “Mr. Hall”/bell-push mechanics and self-deprecation; keep as MAYBE overlap until a stronger tie-breaker appears. Pages 10 and 39 lean on “mistress/coat” language and naive literalism (e.g., “vicarious”→vicar) consistent with dog POV.
@@ -263,3 +263,11 @@ Template:
   - **Confidence:** `MAYBE`
   - **Disconfirming evidence:** Whitman/Flecker quotation-stitching is shown to be a generic technique used across many narrators with no shared voice tells, or the pill/place-pun register aligns more cleanly with an existing narrator signature.
   - **Notes:** Potential overlap with other Whitman-quoting pages; keep this as a voice hypothesis, not a poem-source cluster.
+
+- `N32` — “Type” classifier / gilded metaphors + Wilde-allusion voice:
+  - **Signature tells:** competitive reading/interpretation framed as “harvest/gleaning”; fixation on filing/typing people as “types”; recurring gilded/metallised visual metaphors (gold/silver/green leaf); macabre social observation; stitched-in Wilde context (Jack line + Earnest epigram; Whistler-to-Oscar jibe).
+  - **Likely identity (if any):** unknown (MAYBE Oscar-adjacent, but treat quotations as voice markers, not identity proof).
+  - **Pages:** Pages/cains_jawbone_page_65.md, Pages/cains_jawbone_page_89.md, Pages/cains_jawbone_page_90.md
+  - **Confidence:** `LIKELY`
+  - **Disconfirming evidence:** the repeated “learned in a macabre way, even distinguished” type-judgement is shown to be a reused quotation across multiple narrators, or Pages 89–90’s dining/hunting vignette is later anchored to a clearly different narrator from Page 65’s reading/typing competition.
+  - **Notes:** MAYBE overlap with other Wilde-quote pages (e.g., Pages/cains_jawbone_page_23.md) if the “type/classification” register recurs.
