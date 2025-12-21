@@ -137,12 +137,12 @@ Template:
   - **Notes:** Do not merge into `N12` on “murder talk” alone; the tone and method cues differ.
 
 - `N16` — St. Bruno / smell-memory + incinerator-evidence voice:
-  - **Signature tells:** smell-triggered scene-shifts; tobacco fixation (St. Bruno); self-aware narration about telling/following a story; vivid brand/food list; stealth/eavesdropping register (“stealing at the doors”); evidence-destruction detail (half-burned marriage certificate in an incinerator).
+  - **Signature tells:** smell-triggered scene-shifts; tobacco fixation (St. Bruno) and other pungent “relief” smells; synaesthetic sensory metaphors (smell→colour/sound); self-aware narration about telling/following a story; vivid brand/food list; stealth/eavesdropping register (“stealing at the doors”); evidence-destruction detail (half-burned marriage certificate in an incinerator).
   - **Likely identity (if any):** unknown.
-  - **Pages:** Pages/cains_jawbone_page_44.md, Pages/cains_jawbone_page_45.md
+  - **Pages:** Pages/cains_jawbone_page_7.md, Pages/cains_jawbone_page_44.md, Pages/cains_jawbone_page_45.md, Pages/cains_jawbone_page_55.md
   - **Confidence:** `LIKELY`
-  - **Disconfirming evidence:** Page 44’s smell-memory + incinerator thread is later shown to be a different narrator/context than Page 45’s proverb/menu/stealth scene.
-  - **Notes:** Both pages treat Henry as a central “problem” and pivot via sensory triggers (smell/absinthe).
+  - **Disconfirming evidence:** Page 7’s armchair-investigator framing or Page 55’s Bramley smell-chord vignette is later shown to be a different narrator/context than the St. Bruno/incinerator thread (Pages 44–45).
+  - **Notes:** Pages 7 and 55 share the smell-first, self-correcting sensory register but lack the explicit Henry/Hodge anchors of Pages 44–45; keep falsifiable.
 
 - `N17` — Dog-watch/capstan + Kipling-quoting punster voice:
   - **Signature tells:** nautical timekeeping register (dog-watch; capstan bar); heavy Kipling embedding (Mary Gloster / “Thy Servant a Dog”); literary name-dropping (Swift, De Quincey); punning London geography (Selfridges vs Bond Street).
