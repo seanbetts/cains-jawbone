@@ -48,7 +48,7 @@ These are **cross-narrator** groupings intended to reduce the search space for P
   - **Rationale:** These pages share a crime/detection frame (explicitly or via detective canon allusions) and/or hands-on violence/corpse familiarity, often with London-police texture.
   - **Key anchors:** Sherlock/Mycroft and Sexton Blake; “Scotland Yard”; “Black Museum”; “Speckled Band” riff; window-throw vignette; “carnal, bloody and unnatural acts” frame.
   - **Disconfirming evidence:** detective language resolves purely to decorative quotation collage and the surrounding voices/settings show no coherence.
-  - **Next falsification check:** treat as an umbrella: keep `N20` (13/31), `N08` (82/85/94), `N11` (91), `N24` (100), and `N28` (81) separate unless a shared participant/object or a repeated, non-generic phrasing ties them.
+  - **Next falsification check:** treat as an umbrella: keep `N20` (13/31), `N08` (82/85/94), `N11` (91), `N24` (100), and `N28` (81) separate unless a shared participant/object or a repeated, non-generic phrasing ties them; people-index suggests `P99` (King narrator) anchors Pages/cains_jawbone_page_85.md + Pages/cains_jawbone_page_94.md, while `P01` Henry is widespread and should not be used as a sole bridge.
 
 - **Cluster:** Aesthetic / infatuation / high-society strand (confidence: `MAYBE`)
   - **Pages:** Pages/cains_jawbone_page_37.md, Pages/cains_jawbone_page_38.md, Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_47.md, Pages/cains_jawbone_page_49.md, Pages/cains_jawbone_page_62.md, Pages/cains_jawbone_page_63.md, Pages/cains_jawbone_page_65.md, Pages/cains_jawbone_page_84.md, Pages/cains_jawbone_page_89.md, Pages/cains_jawbone_page_90.md, Pages/cains_jawbone_page_92.md
@@ -62,14 +62,14 @@ These are **cross-narrator** groupings intended to reduce the search space for P
   - **Rationale:** These pages treat time as a puzzle surface (explicit “to-day” historic hooks, “closing day” framing, or overt time-factor/clock logic), suggesting a constraint layer that will later drive ordering.
   - **Key anchors:** “coming of age hours” (21:00); “to-day” death-date hooks (e.g., Gainsborough); Nelson’s blind-eye/arm-loss “to-day” anchor; “closing day in Potsdam”; “time factor”.
   - **Disconfirming evidence:** “to-day” and related time phrases are purely decorative and cannot be grounded to specific dates/events, or dates conflict irreconcilably when cross-checked.
-  - **Next falsification check:** extract a single explicit calendar date candidate per page (where possible) and test for duplication/consistency (without imposing sequence).
+  - **Next falsification check:** extract a single explicit calendar date candidate per page (where possible) and test for duplication/consistency (without imposing sequence); people-index suggests no stable multi-page bridges inside this set beyond `P01` Henry, supporting the interpretation that this is primarily a constraint/motif layer rather than a single narrative strand.
 
 - **Cluster:** Whitman quotation collage (confidence: `MAYBE`)
   - **Pages:** Pages/cains_jawbone_page_32.md, Pages/cains_jawbone_page_40.md, Pages/cains_jawbone_page_51.md
   - **Rationale:** Dense Whitman quotation runs (plus self-conscious commentary on scansion/fit) suggest either one Whitman-saturated narrator voice or a deliberate “Whitman layer” reused across a small subset of pages.
   - **Key anchors:** “Henceforth I ask not good fortune…”; “What chemistry! That the winds are really not infectious”; “I dance with the dancers and drink with the drinkers.”
   - **Disconfirming evidence:** Whitman quotations appear broadly across many narrators without other shared tells; treat as a motif cluster only.
-  - **Next falsification check:** identify whether the non-Whitman connective tissue (pills, travel posture, “instructions”) supports a single-voice merge or forces a split.
+  - **Next falsification check:** identify whether the non-Whitman connective tissue (pills, travel posture, “instructions”) supports a single-voice merge or forces a split; people-index yields no multi-page person IDs across these pages, so treat Whitman as a motif layer until a second anchor emerges.
 
 ### Phase 3 narrator clusters (detail)
 
