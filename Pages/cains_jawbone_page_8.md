@@ -8,7 +8,7 @@ Could I be developing a green-eyed streak? I investigated the body before me wit
 - **Time markers:**
   - CERTAIN: “to-day” (Guido Reni died in Bologna on 18 Aug 1642; Kilmarnock + Balmerino were beheaded on 18 Aug 1746 → “to-day” ≈ Aug 18).
 - **Quotes & allusions:**
-  - MAYBE: “green-eyed streak” jealousy idiom (unresolved; queued — see `Indexes/research_queue.md`).
+  - CERTAIN: “green-eyed streak” alludes to jealousy as the “green-ey’d monster” (Iago, Shakespeare’s *Othello*; see `Indexes/research_queue.md`).
   - CERTAIN: “Guido” = Guido Reni; “sausage place” = Bologna (pun).
   - CERTAIN: Kilmarnock + Balmerino were beheaded on the same date as Guido Reni’s death (18 Aug).
 - **Wordplay (synthesis):**
@@ -43,4 +43,4 @@ LIKELY WORDPLAY
 - **Research needed:**
   - Resolved: Guido/Bologna + Kilmarnock/Balmerino both point to Aug 18 (see Indexes/research_queue.md).
   - Resolved: “black knobby thing” is a call-bell/bell-push; Mr. Hall is the summoned servant (see Indexes/research_queue.md).
-  - Queued: identify the “green-eyed streak” source/idiom (see `Indexes/research_queue.md`).
+  - Resolved: “green-eyed streak” jealousy phrase (see `Indexes/research_queue.md`).

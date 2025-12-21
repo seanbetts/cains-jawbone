@@ -90,6 +90,20 @@ Template:
   - **Confidence:** `CERTAIN`
   - **Research needed:** no
 
+- **Snippet:** “green-eyed streak”
+  - **Likely source/author:** Shakespeare, *Othello*, Act III, Scene III (Iago: “It is the green-ey’d monster…”): https://www.gutenberg.org/cache/epub/1531/pg1531.txt
+  - **Why it matters:** Idiom/allusion marker (jealousy) that may help cluster narrator voice.
+  - **Pages:** Pages/cains_jawbone_page_8.md
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
+
+- **Snippet:** “herb of grace”
+  - **Likely source/author:** Shakespeare, *Hamlet*, Act IV, Scene V (Ophelia: “There’s rue for you… We may call it herb of grace o’ Sundays…”): https://www.gutenberg.org/cache/epub/1524/pg1524.txt
+  - **Why it matters:** Identifies the phrase as rue and reinforces the narrator’s Shakespeare-allusion register.
+  - **Pages:** Pages/cains_jawbone_page_67.md
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
+
 - **Snippet:** “winter … from the lips of Cressida”
   - **Likely source/author:** Shakespeare, *Troilus and Cressida* (Act 4, Scene 5) — Achilles: “I’ll take what winter from your lips, fair lady: / Achilles bids you welcome.”
   - **Why it matters:** Confirms a precise Shakespeare anchor and reinforces the narrator’s smoking/“venerable” cigar/cigarette metaphor.

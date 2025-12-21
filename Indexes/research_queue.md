@@ -135,8 +135,8 @@ Template:
   - **Type:** quote/term
   - **Pages:** Pages/cains_jawbone_page_8.md
   - **Why it matters:** Possible idiom/allusion anchor for narrator voice clustering.
-  - **Status:** `open`
-  - **Result:** Pending.
+  - **Status:** `resolved`
+  - **Result:** Alludes to Shakespeare’s jealousy line: “It is the green-ey’d monster…” (Iago, *Othello*, Act III, Scene III). Source: Shakespeare, *Othello* (Gutenberg #1531): https://www.gutenberg.org/cache/epub/1531/pg1531.txt
 
 - **Item:** Identify the knob/mechanism and action sequence (Page 8 “black knobby thing”; Page 19 “polished knob”) and who Mr. Hall is
   - **Type:** other
@@ -870,8 +870,8 @@ Template:
   - **Type:** quote/name/other
   - **Pages:** Pages/cains_jawbone_page_67.md
   - **Why it matters:** Could clarify narrator cultural reference-set and strengthen clustering of this voice.
-  - **Status:** `open`
-  - **Result:** Pending.
+  - **Status:** `stalled`
+  - **Result:** Partially resolved: “herb of grace” = rue (Ophelia: “There’s rue for you… We may call it herb of grace o’ Sundays…”) — Shakespeare, *Hamlet*, Act IV, Scene V (Gutenberg #1524): https://www.gutenberg.org/cache/epub/1524/pg1524.txt. “prejudicial Menkin” is LIKELY H. L. **Mencken** (surname misspelled) + his essay-collection series titled *Prejudices* (e.g., *Prejudices: First Series* (1919): https://archive.org/details/prejudicesfirst00mencgoog). Remaining items (“Helen and crooning”, “Poe and Prohibition”, “canvas-backed clams”) not yet pinned to a single specific referent; quick Wikisource/Archive searches did not yield a unique match.
 
 - **Item:** Identify the “joy’s crown of sorrow / sorrow’s crown of joy” phrase (Page 66)
   - **Type:** quote
@@ -1003,8 +1003,8 @@ Template:
   - **Type:** quote
   - **Pages:** Pages/cains_jawbone_page_76.md
   - **Why it matters:** Likely a deliberate proverb/quotation variant embedded in the narrator’s moral calculus; could cluster voices/pages.
-  - **Status:** `open`
-  - **Result:** Pending.
+  - **Status:** `stalled`
+  - **Result:** No direct match found for the exact phrase in quick Wikisource/Gutenberg searches; reads like deliberate proverb-scrambling echoing Hosea 8:7 “sown the wind… reap the whirlwind” (KJV: https://en.wikisource.org/wiki/Bible_(King_James)/Hosea) plus the “scorpions” chastisement motif (1 Kings 12:11: https://en.wikisource.org/wiki/Bible_(King_James)/1_Kings). Treat as an intentional composite unless a specific ≤1934 source turns up.
 
 - **Item:** Identify what “Compact” refers to (Page 77)
   - **Type:** term/other
