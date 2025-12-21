@@ -13,13 +13,23 @@ Template:
   - **Disconfirming evidence:** (what would falsify this cluster)  
   - **Next falsification check:** (next concrete test to run)  
 
+### Phase 3 narrator clusters (current focus)
+
+Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; **do not add within-cluster sequencing in Phase 3**.
+
+- **Cluster:** `N01` Aquarius pen / “Ecky” bar voice (confidence: `LIKELY`)
+  - **Pages:** Pages/cains_jawbone_page_1.md, Pages/cains_jawbone_page_17.md, Pages/cains_jawbone_page_43.md
+  - **Rationale:** Pen/hand/income fixation + astrology wordplay + “Dawn/Moon” venue language suggest a consistent narrator signature.
+  - **Key anchors:** “mottled black and silver Aquarius”; “ruin my hand”; desserts/cocktails treated as titled items; “the Dawn”.
+  - **Disconfirming evidence:** Alexander (“Ecky”) is later shown to be a different POV than the Aquarius-pen narrator, or “bad for the hand” is a widely shared motif across voices.
+
 - **Cluster:** Henry name occurrences (confidence: `MAYBE`)
   - **Pages:** Pages/cains_jawbone_page_2.md, Pages/cains_jawbone_page_4.md, Pages/cains_jawbone_page_5.md, Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_16.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_26.md, Pages/cains_jawbone_page_31.md, Pages/cains_jawbone_page_32.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_41.md, Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_44.md, Pages/cains_jawbone_page_45.md, Pages/cains_jawbone_page_47.md, Pages/cains_jawbone_page_49.md, Pages/cains_jawbone_page_58.md, Pages/cains_jawbone_page_60.md, Pages/cains_jawbone_page_63.md, Pages/cains_jawbone_page_68.md, Pages/cains_jawbone_page_71.md, Pages/cains_jawbone_page_76.md, Pages/cains_jawbone_page_77.md, Pages/cains_jawbone_page_78.md, Pages/cains_jawbone_page_80.md, Pages/cains_jawbone_page_82.md, Pages/cains_jawbone_page_83.md, Pages/cains_jawbone_page_85.md, Pages/cains_jawbone_page_86.md, Pages/cains_jawbone_page_87.md, Pages/cains_jawbone_page_91.md, Pages/cains_jawbone_page_92.md, Pages/cains_jawbone_page_94.md, Pages/cains_jawbone_page_97.md, Pages/cains_jawbone_page_100.md
   - **Rationale:** “Henry” appears across multiple scenes with shifting roles; may be one person or multiple people sharing the name.
   - **Key anchors:** “Lesurques” (Courier of Lyons?) role reference; ruined lighthouse + “Emperor’s Peg”; capstan-bar / dog-watch nautical register; Henry stooping/cleaning and handling bodies; Page 21’s “latest victim” + blood; Page 26’s “first two killings” + companion/rector’s aunt; Page 35’s police manhunt; Page 36’s buried corpse detail + “made up”; Pages 41–45 marriage/murder framing (certificate/corpse); Pages 47/49 attraction + “doomed to destroy… for family reasons”; Page 58’s “third/fourth” victims; Page 60’s “peerless investigator” role.
   - **Disconfirming evidence:** later pages give different surnames/biographical details for each “Henry”, or show mutually exclusive locations/timelines.
 
-- **Cluster:** Great Lexicographer voice (confidence: `MAYBE`)
+- **Cluster:** `N04` Great Lexicographer / fealty voice (confidence: `CERTAIN`)
   - **Pages:** Pages/cains_jawbone_page_61.md, Pages/cains_jawbone_page_64.md
   - **Rationale:** Both pages use the distinctive “Great Lexicographer” anchor and similar learned, punning diction; fealty/reading-aloud framing suggests a consistent narrator segment.
   - **Key anchors:** “Great Lexicographer”; Ockham’s razor joke; McLeod of that ilk; Bellerophon letters / bait/hook metaphor.
@@ -31,7 +41,7 @@ Template:
   - **Key anchors:** “Lover’s Delight” sundae; Banana Split; “Rainbow”; Lent constraint on sundaes; recurring “Henry” mention in the same cluster.
   - **Disconfirming evidence:** later context shows these are isolated jokes with no shared setting/characters.
 
-- **Cluster:** School nostalgia + chapel (confidence: `LIKELY`)
+- **Cluster:** `N05` School nostalgia + chapel (confidence: `LIKELY`)
   - **Pages:** Pages/cains_jawbone_page_66.md, Pages/cains_jawbone_page_67.md, Pages/cains_jawbone_page_68.md
   - **Rationale:** Pages 66–67 are continuous text and all three pages share a school/chapel setting with a remembered Head and institutional details.
   - **Key anchors:** fives courts; old Hall hung with Beardsley/Rops; “the Head”; Latham Chapel fire in 1906; “darling young” leaving.
@@ -43,15 +53,15 @@ Template:
   - **Key anchors:** “old man”; “done slowly to death”; franked item to “the girl”; threat “do me in”; “old association” (arthritic knee anecdote).
   - **Disconfirming evidence:** “done slowly to death” is figurative, or the “he” in Page 70 is not the same as the “old man” in Pages 68–69.
 
-- **Cluster:** Bunny and Perry (Pro/Con) mental debate (confidence: `LIKELY`)
+- **Cluster:** `N07` Bunny and Perry (Pro/Con) mental debate (confidence: `CERTAIN`)
   - **Pages:** Pages/cains_jawbone_page_93.md, Pages/cains_jawbone_page_97.md
   - **Rationale:** Both pages personify internal argument as “Bunny and Perry” going at it “hammer and tongs”, with tennis/venue imagery.
   - **Key anchors:** “Bunny and Perry”; “hammer and tongs”; explicit tennis/venue shifts.
   - **Disconfirming evidence:** later context shows “Bunny and Perry” refers to external people rather than an internal debate trope.
 
-- **Cluster:** Flowers + documents + failing eyesight (confidence: `MAYBE`)
-  - **Pages:** Pages/cains_jawbone_page_71.md, Pages/cains_jawbone_page_74.md, Pages/cains_jawbone_page_75.md, Pages/cains_jawbone_page_83.md
-  - **Rationale:** Multiple pages combine courtship-by-flowers and a recurring red-rose thread, with secrecy around “them”/documents and impaired vision in the core subset (Pages 74–75).
+- **Cluster:** `N06` Orator/artist + flowers/documents/OGPU voice (confidence: `LIKELY`)
+  - **Pages:** Pages/cains_jawbone_page_73.md, Pages/cains_jawbone_page_74.md, Pages/cains_jawbone_page_75.md, Pages/cains_jawbone_page_83.md (MAYBE: Pages/cains_jawbone_page_71.md)
+  - **Rationale:** A stable 73→74→75 segment mixes art/oratory identity, French verse, and a secrecy/blackmail register; Pages 75 and 83 continue the flower/rose fixation and eyesight/“documents” concerns.
   - **Key anchors:** May/red-May scent; red/white roses + marigolds/calendula; red rose “sole survivor”; “orange tinted documents”; Goya reproduction confusion; “Will anyone know about them?”; Leningrad/OGPU mention; flower-seller interruption.
   - **Disconfirming evidence:** “May” resolves purely as the month/plant with no person continuity, or “them/documents” do not recur across pages.
 
@@ -127,13 +137,13 @@ Template:
   - **Key anchors:** Diamond Necklace cardinal acquittal; “meeting at La Belle Alliance”; “James… the Earl and his brother Alexander”; Francis Ferdinand’s murder reference.
   - **Disconfirming evidence:** “to-day” references are purely decorative and do not resolve to dates or ordering constraints.
 
-- **Cluster:** Animal POV (confidence: `MAYBE`)
+- **Cluster:** `N02` Dog POV (confidence: `CERTAIN`)
   - **Pages:** Pages/cains_jawbone_page_19.md, Pages/cains_jawbone_page_22.md, Pages/cains_jawbone_page_46.md, Pages/cains_jawbone_page_48.md, Pages/cains_jawbone_page_79.md, Pages/cains_jawbone_page_99.md
   - **Rationale:** Explicit animal-coded reactions (ears pulled, “low noise”; tail “vibration” clue; mating/banishment behaviour) plus dog-coded details (chop; “nose” perspective) point to non-human narrator segments.
   - **Key anchors:** pulled ears + low noise; “no vibration… of my latter end”; “lowered myself and made love”; “provided a chop for me”; “nearly fell on my nose”.
   - **Disconfirming evidence:** later context shows these are human metaphors (or the POV is clearly human).
 
-- **Cluster:** Clement name clue (confidence: `MAYBE`)
+- **Cluster:** `N03` Clement / pills / flowers-and-mercy register (confidence: `LIKELY`)
   - **Pages:** Pages/cains_jawbone_page_3.md, Pages/cains_jawbone_page_24.md, Pages/cains_jawbone_page_27.md, Pages/cains_jawbone_page_32.md
   - **Rationale:** Page 24 explicitly frames a name shared by “fourteen popes and two anti-popes” and mentions Giulio de Medici (Clement VII), aligning with the character name Clement on Page 3; Page 27 recalls “tiny Clem”; Page 32 has Henry meeting with “Clément” yesterday.
   - **Key anchors:** pope-count clue + Giulio de Medici; Page 3’s “meeting with Clement”; Page 27’s “tiny Clem”.
@@ -146,6 +156,8 @@ Template:
   - **Disconfirming evidence:** later pages show the phrasing is purely proverbial and does not recur or connect to the will/forgery thread.
 
 ## Candidate sequences
+
+Phase 3 note: sequencing work is deferred (Phase 4+). Keep this section as a historical scratchpad only; do not extend it during clustering.
 
 Template:
 
