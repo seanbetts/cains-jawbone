@@ -159,3 +159,27 @@ Template:
   - **Confidence:** `MAYBE`
   - **Disconfirming evidence:** “diary/verify” language appears elsewhere in an unmistakably different voice, or Page 78 is later shown to be quoting another speaker rather than the narrator.
   - **Notes:** Thematically overlaps the will/forgery motif cluster but should not be merged without additional shared voice tells.
+
+- `N19` — Comic coastal punster (buttonholes/lighthouse/brand riffs):
+  - **Signature tells:** comic, pun-heavy narration; branded-food riffing (Bisto/Cerebos); suspicion framed as banter; coastal peril imagery (boy tumbling into sea; ruined lighthouse); drink/poison wordplay (“Emperor’s Peg” + vitriol/applejack).
+  - **Likely identity (if any):** unknown.
+  - **Pages:** Pages/cains_jawbone_page_4.md, Pages/cains_jawbone_page_5.md
+  - **Confidence:** `LIKELY`
+  - **Disconfirming evidence:** Page 5’s brand/initialism wordplay and lighthouse setting are later shown to be a different narrator/scene from Page 4’s church/buttonhole vignette.
+  - **Notes:** Both pages treat Henry as a colourful figure and lean on rapid punning.
+
+- `N20` — Bloomsbury/nomenclature + grim-scene voice:
+  - **Signature tells:** self-conscious class register (“Bloomsbury”); fixation on naming/nomenclature and soundalike jokes; familiarity with bodies/corpses and threat/weapon cues.
+  - **Likely identity (if any):** unknown.
+  - **Pages:** Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_31.md
+  - **Confidence:** `LIKELY`
+  - **Disconfirming evidence:** the “nomenclature” focus and grim-scene familiarity are shown to belong to separate narrators with incompatible backstory (e.g., Paris night vs Grantham corpse scene).
+  - **Notes:** Watch for recurrence of “naming business” and pocket/weapon gestures as stronger anchors.
+
+- `N21` — Dazed infatuation + bar/tea imagery voice:
+  - **Signature tells:** dazed, self-referential repetition (“I always…”); sensual fixation on surfaces/eyes/hair; social-table/bar settings with drink/tea naming; overt fascination with Henry (and Henry policing diction).
+  - **Likely identity (if any):** unknown.
+  - **Pages:** Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_47.md, Pages/cains_jawbone_page_49.md
+  - **Confidence:** `LIKELY`
+  - **Disconfirming evidence:** the “dazed” and sensual-description style is shown to be a generic motif reused across unrelated narrators, or Henry’s role differs incompatibly across the pages.
+  - **Notes:** MAYBE overlaps: Pages/cains_jawbone_page_92.md (Browning “Saul” + heightened anticipation), Pages/cains_jawbone_page_82.md (table disorientation + guilt/weight imagery).
