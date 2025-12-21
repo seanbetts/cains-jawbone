@@ -59,10 +59,28 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Key anchors:** “verify… I never travel without my diary”; “mimic artistry”; “falser hand”; “new instrument”.
   - **Disconfirming evidence:** “diary/verify” language appears elsewhere in an unmistakably different voice, or Page 78 is later shown to be quoting another speaker rather than the narrator.
 
+- **Cluster:** `N19` Comic coastal punster (buttonholes/lighthouse/brand riffs) (confidence: `LIKELY`)
+  - **Pages:** Pages/cains_jawbone_page_4.md, Pages/cains_jawbone_page_5.md
+  - **Rationale:** Both pages use a rapid-fire punning, brand-name riffing voice and share coastal danger markers (sea/lighthouse) while positioning Henry as a colourful centre of attention.
+  - **Key anchors:** buttonhole scene behind the church; boy about to tumble into the sea; ruined lighthouse; “Emperor’s Peg” + vitriol/applejack; Bisto/Cerebos riffing; O.M./M.O./OM wordplay.
+  - **Disconfirming evidence:** Page 5’s narrator voice proves incompatible with Page 4’s (different social position/setting with no shared tells beyond generic puns).
+
+- **Cluster:** `N20` Bloomsbury/nomenclature + grim-scene voice (confidence: `LIKELY`)
+  - **Pages:** Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_31.md
+  - **Rationale:** Both pages foreground classed self-consciousness and wordplay about naming, framed against grim bodily/violent contexts and “reckon with Henry” pressure.
+  - **Key anchors:** “Bloomsbury”; “Newdigate fringe”; “nomenclature business”; “Caseus, ah!”; hand dropping to hip pocket.
+  - **Disconfirming evidence:** the naming/wordplay is shown to be incidental, or the scenes are later explicitly narrated by different named speakers.
+
+- **Cluster:** `N21` Dazed infatuation + bar/tea imagery voice (confidence: `LIKELY`)
+  - **Pages:** Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_47.md, Pages/cains_jawbone_page_49.md (MAYBE: Pages/cains_jawbone_page_92.md, Pages/cains_jawbone_page_82.md)
+  - **Rationale:** A recurring narrator signature combines self-described dazedness with sensual fixation on surfaces/hair and a social drink/tea register, with Henry repeatedly serving as the axis of fascination or correction.
+  - **Key anchors:** “electrically aware” bar presence; cocktail after cocktail + cigarette; Babs copper hair + first rain; “I always feel a bit dazed”; Henry policing diction (“got me”).
+  - **Disconfirming evidence:** these are shown to be separate narrators sharing only general “sensual description” tropes.
+
 - **Cluster:** Henry occurrences (unassigned to narrator IDs) (confidence: `MAYBE`)
-  - **Pages:** Pages/cains_jawbone_page_2.md, Pages/cains_jawbone_page_4.md, Pages/cains_jawbone_page_5.md, Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_16.md, Pages/cains_jawbone_page_31.md, Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_47.md, Pages/cains_jawbone_page_49.md, Pages/cains_jawbone_page_82.md, Pages/cains_jawbone_page_92.md, Pages/cains_jawbone_page_100.md
-  - **Rationale:** “Henry” remains a cross-cutting name that appears in multiple voices and roles; treat this as a residual bucket while narrator-signature clusters (e.g., `N03`, `N06`, `N07`, `N08`, `N09`, `N10`, `N11`, `N12`, `N13`, `N15`, `N16`, `N17`, `N18`) are used to disambiguate.
-  - **Key anchors:** ruined lighthouse + “Emperor’s Peg”; corpse-handling scenes; cocktail-bar jealousy; Scotland Yard/collapse framing.
+  - **Pages:** Pages/cains_jawbone_page_2.md, Pages/cains_jawbone_page_16.md, Pages/cains_jawbone_page_82.md, Pages/cains_jawbone_page_92.md, Pages/cains_jawbone_page_100.md
+  - **Rationale:** Remaining “Henry” uses are not yet stably attributable to a narrator signature; keep as a residual bucket while narrator-signature clusters (`N01`–`N21`) continue to absorb pages.
+  - **Key anchors:** London morbid quotation + “figures and letters”; theatre/cosmetics + Highgate Empire; table disorientation + dog; oysters/watch/clock anticipation; Scotland Yard + collapse.
   - **Disconfirming evidence:** a single stable surname/biography links the remaining occurrences as one Henry across incompatible settings, or clear textual evidence splits them into multiple different Henrys.
 
 - **Cluster:** `N04` Great Lexicographer / fealty voice (confidence: `CERTAIN`)
