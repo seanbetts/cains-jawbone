@@ -138,10 +138,46 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Disconfirming evidence:** Whitman/Flecker quotation-stitching is shown to be a generic technique used across many narrators with no shared voice tells, or the pill/place-pun register aligns more cleanly with an existing narrator signature.
 
 - **Cluster:** `N32` “Type” classifier / gilded metaphors + Wilde-allusion voice (confidence: `LIKELY`)
-  - **Pages:** Pages/cains_jawbone_page_65.md, Pages/cains_jawbone_page_89.md, Pages/cains_jawbone_page_90.md
-  - **Rationale:** A consistent narrator voice frames people as “types” and treats interpretation as competitive “harvest/gleaning”, with recurring gold/silver/green-leaf metaphors and embedded Wilde context (Earnest epigram; Whistler-to-Oscar jibe).
-  - **Key anchors:** “I thought I knew the type”; “learned in a macabre way, even distinguished”; “pigeon-holing by type”; gold/silver visual metaphors; “You will, Oscar, you will.”
-  - **Disconfirming evidence:** the repeated “type” judgement is shown to be a reused quotation, or the dining/hunting vignette (Pages 89–90) is later anchored to a clearly different narrator from Page 65’s reading/typing competition.
+  - **Pages:** Pages/cains_jawbone_page_62.md, Pages/cains_jawbone_page_65.md, Pages/cains_jawbone_page_89.md, Pages/cains_jawbone_page_90.md
+  - **Rationale:** A consistent narrator voice frames people as “types” and treats interpretation as competitive “harvest/gleaning”, with recurring gold/silver/green-leaf metaphors and embedded Wilde context (Earnest epigram; Whistler-to-Oscar jibe). Page 62 is a `MAYBE` extension on the gold/silver separation framing.
+  - **Key anchors:** “I thought I knew the type”; “learned in a macabre way, even distinguished”; “pigeon-holing by type”; gold/silver visual metaphors (“gold… silver…”; “dissociate… gold… from the silver”); “You will, Oscar, you will.”
+  - **Disconfirming evidence:** the repeated “type” judgement is shown to be a reused quotation, the dining/hunting vignette (Pages 89–90) is later anchored to a clearly different narrator from Page 65’s reading/typing competition, or Page 62’s gold/silver dissociation proves to be an unrelated one-off metaphor.
+
+- **Cluster:** `N33` Medehamstede / Pasquier claret + short-story meta voice (confidence: `MAYBE`)
+  - **Pages:** Pages/cains_jawbone_page_72.md
+  - **Rationale:** A distinctive, meta-fictional narrator voice frames a travel pause with claret-as-remedy and a Paris/Rue de la Harpe anecdote, then riffs on story structure (“embrace first, plot after”) via a “complete novel” magazine.
+  - **Key anchors:** “old Medehamstede”; Pasquier’s claret; Rue de la Harpe; “last paragraphs of the short stories”; “The complete novel length… Savage Conqueror.”
+  - **Disconfirming evidence:** the magazine/short-story register is later shown to be a quoted inset rather than narrator voice, or the anchor set recurs under an unmistakably different narrator elsewhere.
+
+- **Cluster:** `N34` Time-factor / Didling wordplay + antiquarian brass voice (confidence: `MAYBE`)
+  - **Pages:** Pages/cains_jawbone_page_20.md, Pages/cains_jawbone_page_25.md
+  - **Rationale:** Both pages share obsessive time/mortality rumination and self-deprecating punning (“Didlittle” chain), with an antiquarian bent (brass inscription) and a morning-routine framing.
+  - **Key anchors:** “time factor”; Dolittle → Didlittle → Didling/didlet; “by the Mole” + “oldest brass in England”; “my waking, my strong tea, and my first pill”.
+  - **Disconfirming evidence:** the wordplay/time register is shown to be a generic technique across multiple narrators, or the pages are later anchored to incompatible settings/participants.
+
+- **Cluster:** `N35` Rupee chapter / money suspicion + wickedness anxiety voice (confidence: `MAYBE`)
+  - **Pages:** Pages/cains_jawbone_page_18.md
+  - **Rationale:** A single-page narrator voice is anchored by editorial/manuscript talk, money-motive introspection, and a distinctive metaphor chain that turns biblical “fishes/birds” into a menu-course suspicion.
+  - **Key anchors:** “chapter on the fall of the rupee… omit”; “metallic problems”; “no single dish would satisfy the man… soup… fishes… birds”; “really wicked person”.
+  - **Disconfirming evidence:** the editorial “rupee chapter” anchor is later shown to be a detachable quotation/reused reference, or the surrounding voice aligns more cleanly with an existing narrator signature.
+
+- **Cluster:** `N36` Passing-through travel + heartbeats + Whitman cadence voice (confidence: `MAYBE`)
+  - **Pages:** Pages/cains_jawbone_page_51.md
+  - **Rationale:** Page 51 is strongly characterised by a “passing through” travel posture, bodily self-monitoring (counting between heartbeats), and dense Whitman quotation cadence.
+  - **Key anchors:** “passing through”; “All England for a thousand guineas… twenty-nine times in ten years”; “counted a distinct ninety between each beat of my heart”; “I dance with the dancers and drink with the drinkers.”
+  - **Disconfirming evidence:** the Whitman-heavy phrasing is later shown to be a generic quotation collage used by multiple narrators, or the sporting/heartbeat anchors recur clearly under a different voice.
+
+- **Cluster:** `N37` Deceased-introduction + Barbara yellow-jasmine bathing voice (confidence: `MAYBE`)
+  - **Pages:** Pages/cains_jawbone_page_84.md
+  - **Rationale:** A single-page narrator voice mixes anxious curiosity about a “deceased” who arranged an introduction with rapturous beach/poolside description and a crisp Nelson “to-day” date anchor.
+  - **Key anchors:** “the deceased wished us to know each other”; Barbara “yellow jasmine” one-piece; Dagenham bus; converted oast-house; “what the blind sailor said”; “Off went his arm to-day.”
+  - **Disconfirming evidence:** “deceased” is later shown to be a dead author rather than an in-world person, or the Barbara/Alistair/Dagenham anchors recur under a clearly different narrator voice.
+
+- **Cluster:** `N38` Medical-advice payoff + “May be” pun / Quarry hills voice (confidence: `MAYBE`)
+  - **Pages:** Pages/cains_jawbone_page_98.md
+  - **Rationale:** A single-page narrator voice is anchored by a slow payoff-for-identification scene, heavy medical framing, and an explicit “May be” decision pun set against a distinctive sunset landscape.
+  - **Key anchors:** “The money changed hands slowly… describe him”; “proper medical advice”; “He went. He went.”; “played the sedulous ape”; “May be. May be not.”; “Quarry hills”.
+  - **Disconfirming evidence:** the scene is later shown to be recounted/quoted by another narrator, or the “May be” pun and medical-payoff framing recur under an incompatible voice elsewhere.
 
 - **Cluster:** `N04` Great Lexicographer / fealty voice (confidence: `CERTAIN`)
   - **Pages:** Pages/cains_jawbone_page_61.md, Pages/cains_jawbone_page_64.md
@@ -180,10 +216,10 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Disconfirming evidence:** later context shows “Bunny and Perry” refers to external people rather than an internal debate trope.
 
 - **Cluster:** `N08` King (“Kipling” name-jibe) narrator (confidence: `LIKELY`)
-  - **Pages:** Pages/cains_jawbone_page_82.md, Pages/cains_jawbone_page_85.md, Pages/cains_jawbone_page_94.md (MAYBE: Pages/cains_jawbone_page_100.md)
+  - **Pages:** Pages/cains_jawbone_page_82.md, Pages/cains_jawbone_page_85.md, Pages/cains_jawbone_page_94.md (MAYBE: Pages/cains_jawbone_page_15.md, Pages/cains_jawbone_page_100.md)
   - **Rationale:** Pages 85 and 94 share a narrator-name clue (schoolboy “Kipling” jibe → King; narrator sees own name in a window-sign) and a recurring Henry-in-scene frame; additional detective/police allusions suggest nearby overlap with other Henry/detection pages.
-  - **Key anchors:** “Kipling” as a name-jibe; narrator seeing their own name printed in a window; Baker Street / detective framing.
-  - **Disconfirming evidence:** the name clue resolves differently, or the window-sign name refers to someone/something other than the narrator.
+  - **Key anchors:** “Kipling” as a name-jibe; narrator seeing their own name printed in a window; Baker Street / detective framing; Bartholomew dog at the table (Page 82) ↔ “Bart” chewing moccasins at a familiar table (Page 15).
+  - **Disconfirming evidence:** the name clue resolves differently, the window-sign name refers to someone/something other than the narrator, or Page 15’s “Bart” is shown not to be the same dog as Bartholomew in Page 82.
 
 - **Cluster:** `N06` Orator/artist + flowers/documents/OGPU voice (confidence: `LIKELY`)
   - **Pages:** Pages/cains_jawbone_page_73.md, Pages/cains_jawbone_page_74.md, Pages/cains_jawbone_page_75.md, Pages/cains_jawbone_page_83.md (MAYBE: Pages/cains_jawbone_page_71.md)
@@ -282,7 +318,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Disconfirming evidence:** later context shows these are human metaphors (or the POV is clearly human).
 
 - **Cluster:** `N03` Clement / pills / flowers-and-mercy register (confidence: `LIKELY`)
-  - **Pages:** Pages/cains_jawbone_page_3.md, Pages/cains_jawbone_page_24.md, Pages/cains_jawbone_page_27.md, Pages/cains_jawbone_page_32.md
+  - **Pages:** Pages/cains_jawbone_page_3.md, Pages/cains_jawbone_page_24.md, Pages/cains_jawbone_page_27.md, Pages/cains_jawbone_page_32.md (MAYBE: Pages/cains_jawbone_page_30.md)
   - **Rationale:** Page 24 explicitly frames a name shared by “fourteen popes and two anti-popes” and mentions Giulio de Medici (Clement VII), aligning with the character name Clement on Page 3; Page 27 recalls “tiny Clem”; Page 32 has Henry meeting with “Clément” yesterday.
   - **Key anchors:** pope-count clue + Giulio de Medici; Page 3’s “meeting with Clement”; Page 27’s “tiny Clem”.
   - **Disconfirming evidence:** Page 24 narrator is explicitly named something else later, or “Clement” is purely thematic.
