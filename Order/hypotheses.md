@@ -41,10 +41,28 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Key anchors:** victim named Green; “it was my first”; “Compact” syringe; Spencer Perceval assassination reference.
   - **Disconfirming evidence:** “my first” is non-lethal, or Green/Perceval anchors resolve as unrelated allusions in different voices.
 
+- **Cluster:** `N16` St. Bruno / smell-memory + incinerator-evidence voice (confidence: `LIKELY`)
+  - **Pages:** Pages/cains_jawbone_page_44.md, Pages/cains_jawbone_page_45.md
+  - **Rationale:** Both pages pivot via sensory triggers and self-aware narration while tracking “Henry’s problem”, mixing evidence-destruction detail with proverb-twisting and brand/food listing.
+  - **Key anchors:** “first St. Bruno”; Vera Cruz fonda memory; half-burned marriage certificate in an incinerator; Epicam/Royans aux Achard/Villacabras list; “stealing at the doors”.
+  - **Disconfirming evidence:** Page 44’s smell-memory + incinerator thread is later shown to be a different narrator/context than Page 45’s proverb/menu/stealth scene.
+
+- **Cluster:** `N17` Dog-watch/capstan + Kipling-quoting punster voice (confidence: `LIKELY`)
+  - **Pages:** Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_41.md
+  - **Rationale:** A shared nautical timekeeping register (dog-watch/capstan) and heavy Kipling embedding, alongside punny London geography, suggests a consistent narrator signature.
+  - **Key anchors:** dog-watch time marker; capstan bar; Kipling’s “The Mary Gloster”; Selfridges/Bond Street wordplay; Swift/De Quincey name-drops.
+  - **Disconfirming evidence:** the shared nautical/Kipling anchors are shown to be generic motifs reused across unrelated narrators.
+
+- **Cluster:** `N18` Diary/verify + falser-hand forgery voice (confidence: `MAYBE`)
+  - **Pages:** Pages/cains_jawbone_page_78.md
+  - **Rationale:** Page 78’s narrator voice is tightly anchored by explicit falsifiability framing and document/handwriting manipulation language.
+  - **Key anchors:** “verify… I never travel without my diary”; “mimic artistry”; “falser hand”; “new instrument”.
+  - **Disconfirming evidence:** “diary/verify” language appears elsewhere in an unmistakably different voice, or Page 78 is later shown to be quoting another speaker rather than the narrator.
+
 - **Cluster:** Henry occurrences (unassigned to narrator IDs) (confidence: `MAYBE`)
-  - **Pages:** Pages/cains_jawbone_page_2.md, Pages/cains_jawbone_page_4.md, Pages/cains_jawbone_page_5.md, Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_16.md, Pages/cains_jawbone_page_31.md, Pages/cains_jawbone_page_41.md, Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_44.md, Pages/cains_jawbone_page_45.md, Pages/cains_jawbone_page_47.md, Pages/cains_jawbone_page_49.md, Pages/cains_jawbone_page_78.md, Pages/cains_jawbone_page_82.md, Pages/cains_jawbone_page_92.md, Pages/cains_jawbone_page_100.md
-  - **Rationale:** “Henry” remains a cross-cutting name that appears in multiple voices and roles; treat this as a residual bucket while narrator-signature clusters (e.g., `N03`, `N06`, `N07`, `N08`, `N09`, `N10`, `N11`, `N12`, `N13`, `N15`) are used to disambiguate.
-  - **Key anchors:** early coastal/lighthouse + “Emperor’s Peg”; capstan-bar / dog-watch nautical register; corpse-handling scenes; marriage certificate/incinerator detail; Scotland Yard/collapse framing.
+  - **Pages:** Pages/cains_jawbone_page_2.md, Pages/cains_jawbone_page_4.md, Pages/cains_jawbone_page_5.md, Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_16.md, Pages/cains_jawbone_page_31.md, Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_47.md, Pages/cains_jawbone_page_49.md, Pages/cains_jawbone_page_82.md, Pages/cains_jawbone_page_92.md, Pages/cains_jawbone_page_100.md
+  - **Rationale:** “Henry” remains a cross-cutting name that appears in multiple voices and roles; treat this as a residual bucket while narrator-signature clusters (e.g., `N03`, `N06`, `N07`, `N08`, `N09`, `N10`, `N11`, `N12`, `N13`, `N15`, `N16`, `N17`, `N18`) are used to disambiguate.
+  - **Key anchors:** ruined lighthouse + “Emperor’s Peg”; corpse-handling scenes; cocktail-bar jealousy; Scotland Yard/collapse framing.
   - **Disconfirming evidence:** a single stable surname/biography links the remaining occurrences as one Henry across incompatible settings, or clear textual evidence splits them into multiple different Henrys.
 
 - **Cluster:** `N04` Great Lexicographer / fealty voice (confidence: `CERTAIN`)
