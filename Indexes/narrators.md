@@ -87,3 +87,11 @@ Template:
   - **Confidence:** `LIKELY`
   - **Disconfirming evidence:** “old man” and letter threads resolve to separate contexts/voices, or Page 70’s fear/wordplay is clearly in a different setting/narrator than Page 69’s death-witnessing.
   - **Notes:** MAYBE includes Pages/cains_jawbone_page_68.md (shared “old man” + eavesdropper setup; possible voice pivot from `N05`).
+
+- `N10` — Will/document eavesdropper voice (May/estate thread):
+  - **Signature tells:** legal/estate vocabulary; document scrutiny; eavesdropping on inheritance talk (“leave everything to me… May”); opportunistic self-justification (“get what I wanted”) alongside “none of my business” retreats.
+  - **Likely identity (if any):** unknown (context suggests proximity to May + a subordinate Henry, but names may vary across scenes).
+  - **Pages:** Pages/cains_jawbone_page_12.md, Pages/cains_jawbone_page_14.md
+  - **Confidence:** `MAYBE`
+  - **Disconfirming evidence:** May/Henry context proves incompatible across the two pages, or will/document language is shown to be a one-off motif rather than a recurring narrator signature.
+  - **Notes:** Potential thematic overlap with will/forgery pages (Pages/cains_jawbone_page_28.md, Pages/cains_jawbone_page_50.md, Pages/cains_jawbone_page_78.md), but do not merge on motif alone.
