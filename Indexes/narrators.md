@@ -103,3 +103,35 @@ Template:
   - **Confidence:** `LIKELY`
   - **Disconfirming evidence:** “capitalise my third letter” resolves to a different name, or “Black Museum” is purely metaphorical with no recurring narrator signature.
   - **Notes:** MAYBE overlaps with police/detective-allusion pages (e.g., Pages/cains_jawbone_page_100.md) but keep separate until shared tells emerge.
+
+- `N12` — Calabar/digitalis poison-logistics + murder-as-genre voice:
+  - **Signature tells:** poison-botany specificity (Calabar bean/physostigma; digitalis) embedded in murder logistics; darkly comic genre-aware murder framing (murder counts, pursuit set-pieces); pragmatic “try again tomorrow” planning language.
+  - **Likely identity (if any):** unknown.
+  - **Pages:** Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_26.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_58.md, Pages/cains_jawbone_page_60.md
+  - **Confidence:** `LIKELY`
+  - **Disconfirming evidence:** Calabar/digitalis cues and the murder-counting/pursuit voice are shown to belong to different narrators with incompatible settings/biographies.
+  - **Notes:** MAYBE overlap: Pages/cains_jawbone_page_29.md (Calabar bean + experimental plant/food poisoning register).
+
+- `N13` — Host/guest poisoning + coastal-house segment:
+  - **Signature tells:** host/guest/patient framing; poison/immunity talk (e.g., Mithradates); Yeats/Whitman quotation run; coastal-house/bay landscape shifting into visceral corpse imagery; named helper (Caroline Jasmine).
+  - **Likely identity (if any):** unknown.
+  - **Pages:** Pages/cains_jawbone_page_86.md, Pages/cains_jawbone_page_87.md
+  - **Confidence:** `LIKELY`
+  - **Disconfirming evidence:** Pages 86–87 are later shown to be different speakers/settings despite the apparent direct continuation.
+  - **Notes:** MAYBE overlap: Pages/cains_jawbone_page_80.md (host + May + Henry + implied poisoning setup).
+
+- `N14` — Babbie / Rainbow Sundae / hair-and-allusion voice:
+  - **Signature tells:** rapturous hair fixation punctuated by French verse; dessert-order banter (Rainbow; Lent “second Sundae” rule); insistence on naming/attributing writers; guest watching Henry handled (cap on/off).
+  - **Likely identity (if any):** unknown.
+  - **Pages:** Pages/cains_jawbone_page_63.md
+  - **Confidence:** `MAYBE`
+  - **Disconfirming evidence:** the dessert/Lent and attribution habits are later shown to be incidental rather than a stable narrator signature.
+  - **Notes:** Keep separate from `N06` unless additional shared tells emerge beyond the single French-quotation overlap.
+
+- `N15` — “Green” victim + Compact syringe (first killing) voice:
+  - **Signature tells:** self-justifying moral calculus around a named victim (Green); explicit first-killing admission; method/tool specificity (“Compact” hypodermic syringe); date-anchoring via Spencer Perceval assassination.
+  - **Likely identity (if any):** unknown.
+  - **Pages:** Pages/cains_jawbone_page_76.md, Pages/cains_jawbone_page_77.md
+  - **Confidence:** `LIKELY`
+  - **Disconfirming evidence:** “my first” refers to a non-lethal act, or “Green”/Perceval anchors resolve to separate narrators/contexts.
+  - **Notes:** Do not merge into `N12` on “murder talk” alone; the tone and method cues differ.
