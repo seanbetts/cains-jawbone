@@ -72,16 +72,28 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Disconfirming evidence:** the naming/wordplay is shown to be incidental, or the scenes are later explicitly narrated by different named speakers.
 
 - **Cluster:** `N21` Dazed infatuation + bar/tea imagery voice (confidence: `LIKELY`)
-  - **Pages:** Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_47.md, Pages/cains_jawbone_page_49.md (MAYBE: Pages/cains_jawbone_page_92.md, Pages/cains_jawbone_page_82.md)
+  - **Pages:** Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_47.md, Pages/cains_jawbone_page_49.md, Pages/cains_jawbone_page_92.md
   - **Rationale:** A recurring narrator signature combines self-described dazedness with sensual fixation on surfaces/hair and a social drink/tea register, with Henry repeatedly serving as the axis of fascination or correction.
-  - **Key anchors:** “electrically aware” bar presence; cocktail after cocktail + cigarette; Babs copper hair + first rain; “I always feel a bit dazed”; Henry policing diction (“got me”).
+  - **Key anchors:** “electrically aware” bar presence; cocktail after cocktail + cigarette; Babs copper hair + first rain; “I always feel a bit dazed”; Henry policing diction (“got me”); Browning “Saul” excerpt + “what Henry would think of next” anticipation.
   - **Disconfirming evidence:** these are shown to be separate narrators sharing only general “sensual description” tropes.
 
-- **Cluster:** Henry occurrences (unassigned to narrator IDs) (confidence: `MAYBE`)
-  - **Pages:** Pages/cains_jawbone_page_2.md, Pages/cains_jawbone_page_16.md, Pages/cains_jawbone_page_82.md, Pages/cains_jawbone_page_92.md, Pages/cains_jawbone_page_100.md
-  - **Rationale:** Remaining “Henry” uses are not yet stably attributable to a narrator signature; keep as a residual bucket while narrator-signature clusters (`N01`–`N21`) continue to absorb pages.
-  - **Key anchors:** London morbid quotation + “figures and letters”; theatre/cosmetics + Highgate Empire; table disorientation + dog; oysters/watch/clock anticipation; Scotland Yard + collapse.
-  - **Disconfirming evidence:** a single stable surname/biography links the remaining occurrences as one Henry across incompatible settings, or clear textual evidence splits them into multiple different Henrys.
+- **Cluster:** `N22` Morbid London decoder (plague quotation voice) (confidence: `MAYBE`)
+  - **Pages:** Pages/cains_jawbone_page_2.md
+  - **Rationale:** Page 2 combines a distinctive “figures and letters” decoding finish line with a sepulchral London observation filtered through an embedded plague quotation.
+  - **Key anchors:** “figures and letters swam”; “There were no more”; plague prose snippets + “writer had strangely died to-day.”
+  - **Disconfirming evidence:** the plague quotation and decoding framing recur as generic motifs across unrelated narrators.
+
+- **Cluster:** `N23` Music-hall cosmetics / Highgate Empire voice (confidence: `MAYBE`)
+  - **Pages:** Pages/cains_jawbone_page_16.md
+  - **Rationale:** A distinctive theatre/cosmetics vignette voice (false eyebrows, make-up artist, Highgate Empire) stands apart from other Henry-linked scenes.
+  - **Key anchors:** Highgate Empire; Russian ballet; false eyebrows in clear soup; “man who made up”.
+  - **Disconfirming evidence:** later pages show this is a quoted anecdote recounted by multiple narrators with different voices.
+
+- **Cluster:** `N24` Scotland Yard collapse / Kursaal voice (confidence: `MAYBE`)
+  - **Pages:** Pages/cains_jawbone_page_100.md
+  - **Rationale:** Page 100’s narrator is physically incapacitated and frames a collapse scene via Scotland Yard and specific Southend Kursaal geography, with a gloating antagonist and a valedictory “Good-bye, Henry.”
+  - **Key anchors:** Scotland Yard; Woolworth’s; Kursaal; buttonhole motif; “how ill… about my heart”.
+  - **Disconfirming evidence:** the collapse frame is purely rhetorical or the Scotland Yard/Kursaal layer is reused by other narrators.
 
 - **Cluster:** `N04` Great Lexicographer / fealty voice (confidence: `CERTAIN`)
   - **Pages:** Pages/cains_jawbone_page_61.md, Pages/cains_jawbone_page_64.md
@@ -120,7 +132,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Disconfirming evidence:** later context shows “Bunny and Perry” refers to external people rather than an internal debate trope.
 
 - **Cluster:** `N08` King (“Kipling” name-jibe) narrator (confidence: `LIKELY`)
-  - **Pages:** Pages/cains_jawbone_page_85.md, Pages/cains_jawbone_page_94.md (MAYBE: Pages/cains_jawbone_page_82.md, Pages/cains_jawbone_page_100.md)
+  - **Pages:** Pages/cains_jawbone_page_82.md, Pages/cains_jawbone_page_85.md, Pages/cains_jawbone_page_94.md (MAYBE: Pages/cains_jawbone_page_100.md)
   - **Rationale:** Pages 85 and 94 share a narrator-name clue (schoolboy “Kipling” jibe → King; narrator sees own name in a window-sign) and a recurring Henry-in-scene frame; additional detective/police allusions suggest nearby overlap with other Henry/detection pages.
   - **Key anchors:** “Kipling” as a name-jibe; narrator seeing their own name printed in a window; Baker Street / detective framing.
   - **Disconfirming evidence:** the name clue resolves differently, or the window-sign name refers to someone/something other than the narrator.
