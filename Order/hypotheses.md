@@ -157,18 +157,26 @@ Macro coverage is complete (0 pages currently in 0 macro strands). Treat the new
 Goal: highlight likely “join surfaces” between macro strands (people/place/object anchors) without proposing order. Treat everything here as `MAYBE` until a stronger continuity hook appears.
 
 - **Overlap-page bridges (highest-signal joins):**
-  - Botany/poison ↔ Time/calendar: Pages/cains_jawbone_page_32.md, Pages/cains_jawbone_page_54.md, Pages/cains_jawbone_page_60.md (check that each “to-day”/calendar anchor resolves cleanly and that botany content is not generic scene texture).
+  - Botany/poison ↔ Detective/violence: Pages/cains_jawbone_page_7.md, Pages/cains_jawbone_page_45.md, Pages/cains_jawbone_page_76.md, Pages/cains_jawbone_page_97.md (check whether “crime/detection” framing is scene-level vs literary; and whether botany content is instrumental vs metaphor).
+  - Paper/money ↔ Time/calendar: Pages/cains_jawbone_page_1.md, Pages/cains_jawbone_page_2.md, Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_52.md, Pages/cains_jawbone_page_64.md (check whether the time anchors are the same mechanism across pages (death-day hooks vs clock/time-budget vs “last day”) and whether paper motifs are real documents vs decorative).
+  - Aesthetic/high-society ↔ Time/calendar: Pages/cains_jawbone_page_17.md, Pages/cains_jawbone_page_41.md, Pages/cains_jawbone_page_56.md, Pages/cains_jawbone_page_67.md, Pages/cains_jawbone_page_84.md (check whether calendar hooks behave like the time-layer elsewhere and whether the social/arts register stays coherent).
+  - Aesthetic/high-society ↔ Paper/money: Pages/cains_jawbone_page_43.md, Pages/cains_jawbone_page_61.md, Pages/cains_jawbone_page_89.md (check whether writing/hand/signature language is a stable voice tell vs a thematic prop).
+  - Botany/poison ↔ Time/calendar: Pages/cains_jawbone_page_32.md (triple overlap incl. Whitman), Pages/cains_jawbone_page_54.md, Pages/cains_jawbone_page_60.md (check that each calendar anchor resolves cleanly and that botany content is not generic scene texture).
   - Botany/poison ↔ Whitman: Pages/cains_jawbone_page_32.md, Pages/cains_jawbone_page_40.md (check whether Whitman is a narrator tell vs a detachable quotation layer; confirm whether the non-Whitman connective tissue matches).
-  - Paper/money ↔ Time/calendar: Pages/cains_jawbone_page_52.md (check that the date-anchor mechanism is the same kind used elsewhere in the time layer, not a one-off allusion).
-  - Paper/money ↔ Aesthetic/high-society: Pages/cains_jawbone_page_89.md (check whether the “signatures/death‑warrant” register is a stable voice tell, not merely a thematic prop).
-  - Aesthetic/high-society ↔ Time/calendar: Pages/cains_jawbone_page_84.md (check whether the “to-day” anchor behaves like the other time pages and whether the social/attraction register remains coherent).
   - Dog POV ↔ Time/calendar: Pages/cains_jawbone_page_99.md (check whether the time anchor is being *observed* by the dog vs requires human abstraction).
+  - One-off overlaps (treat as low-confidence bridges): Aesthetic ↔ Botany (Pages/cains_jawbone_page_5.md); Detective/violence ↔ Paper/money (Pages/cains_jawbone_page_44.md).
 
 - **Cross-page bridges (non-overlap; higher-signal named anchors):**
   - `P16` May (see `Indexes/people.md`): Paper/money pages (14/98; plus any additional May pages) ↔ Botany/poison pages (71/75/80). Falsifier: “May” resolves as month/pun in one strand, or May’s role/relationships are incompatible across strands.
   - `P50` Sir Paul Trinder (see `Indexes/people.md`): Paper/money interview pages (52/53) ↔ Botany/poison host/poison pages (59/80). Falsifier: Sir Paul’s identifying details (title/context/behaviour) clearly differ between strands.
   - Southend-on-Sea / Kursaal geography (see `Indexes/places.md`): Aesthetic page (38: Southend memory) ↔ Detective/violence page (100: Kursaal at Southend). Falsifier: one reference points to a different “Southend” or the Kursaal is not Southend’s Kursaal in context.
   - Aconite mention (see `Indexes/objects_motifs.md`): Botany/poison page (80) ↔ Detective/violence page (91). Falsifier: aconite is incidental on one side and does not participate in the same “means/method” register.
+
+- **Narrator bridges (multi-macro join surfaces):**
+  - `N01` (Pages/cains_jawbone_page_1.md, Pages/cains_jawbone_page_17.md, Pages/cains_jawbone_page_43.md) spans Paper/money, Aesthetic/high-society, and Time/calendar via pen/handwriting + venue/menu-title register.
+  - `N16` (Pages/cains_jawbone_page_7.md, Pages/cains_jawbone_page_44.md, Pages/cains_jawbone_page_45.md, Pages/cains_jawbone_page_55.md) spans Botany/poison, Paper/money, Detective/violence, and Time/calendar via smell-memory + evidence/violence framing; treat as a high-signal bridge unless the voice splits.
+  - `N17` (Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_41.md) spans Paper/money and Aesthetic/high-society through the shared Time/calendar register (dog-watch “first dog” timekeeping + London geography).
+  - `N26` (Pages/cains_jawbone_page_54.md, Pages/cains_jawbone_page_56.md) bridges Botany/poison ↔ Aesthetic/high-society under the Time/calendar layer (breakfast/second-sight voice).
 
 ### Phase 3 narrator clusters (detail)
 
