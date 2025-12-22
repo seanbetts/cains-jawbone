@@ -134,7 +134,7 @@ Template:
 - **Optics / “powerful glass”**
   - **Instances / variants:** “powerful glass” + measurement obsession; “heliographic record” taken from folding steps
   - **Pages:** Pages/cains_jawbone_page_8.md, Pages/cains_jawbone_page_60.md
-  - **Notes:** Possible profession clue (photography/science) or scene-specific prop; heliography implies photography.
+  - **Notes:** “powerful glass” (Page 8) is ambiguous (LIKELY a lens/magnifier mentioned in a domestic scene; do not treat as decisive human POV evidence on its own). “heliographic record” (Page 60) is explicit photography; don’t conflate the two beyond a broad “optics” motif.
 
 - **Smells / scent memory**
   - **Instances / variants:** “Smells meant a lot to me” triggering a vivid recall (Vera Cruz fonda + blood on guitar strings)

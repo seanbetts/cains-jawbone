@@ -36,10 +36,11 @@ LIKELY WORDPLAY
   - Bells/summoning: “black knobby thing” is LIKELY a call-bell/bell-push used to summon Mr. Hall (cf. Pages/cains_jawbone_page_9.md bell opening).
 - **Voice/tells:**
   - Naïve about optics (“never could quite understand how it worked”); self-deprecating (“better brain”).
+  - LIKELY dog-coded appetite tell: “sausage place… furtively I knew how excellent” reads more naturally as a non-human POV (secret food knowledge) than as human travel-talk.
 - **Ordering hypotheses:**
   - MAYBE: date adjacency with Pages/cains_jawbone_page_10.md if “Hyacinth’s day” is Aug 17 and this “to-day” is Aug 18.
 - **Disconfirming evidence:**
-  - If “powerful glass” is a literal magnifying glass/tool used by the narrator (human-only action), this page may not be Dog POV and should be treated as an adjacent domestic-scene overlap rather than core `N02`.
+  - If later evidence makes “powerful glass” an unequivocally hand-held optical tool operated by the narrator (human-only physical action), treat this page as a shared domestic-scene overlap rather than core `N02`.
   - If Guido/Kilmarnock/Belmerino are later tied to a different date or not intended as calendar anchors.
 - **Research needed:**
   - Resolved: Guido/Bologna + Kilmarnock/Balmerino both point to Aug 18 (see Indexes/research_queue.md).
