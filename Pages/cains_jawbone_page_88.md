@@ -8,6 +8,7 @@ I always liked to listen to him. It was St. Wigbert’s day, I was told, and Aug
   - CERTAIN: “she” (unnamed interlocutor in the “He said… She said…” pattern).
   - MAYBE: stepson / third son (offstage family references).
   - MAYBE: Tom and Flora (as referenced in “Tom and Flora’s Jasmine”).
+  - MAYBE: Jasmine (LIKELY the cat from Pages/cains_jawbone_page_22.md; possessive phrasing suggests a household pet).
 - **Time markers:**
   - CERTAIN: St. Wigbert’s day = Aug 13 (*Catholic Encyclopedia*, “St. Wigbert”: recorded in the *Martyrologium Romanum* under 13 August).
   - CERTAIN: “to-day”.
@@ -19,8 +20,9 @@ I always liked to listen to him. It was St. Wigbert’s day, I was told, and Aug
   - CERTAIN: distemper = water-based paint (“for distemper water is employed”; *Encyclopaedia Britannica* 1911, “PAINTER-WORK”, Page:EB1911_-_Volume_20.djvu/496).
   - Distemper colour debate (Dark French Grey vs Egg Shell Green) suggests decorating quarrel (or a coded colour clue).
   - Mice imagery (“mice were dancing on my little slab”) echoes other pages’ mouse-pressure imagery (Pages/cains_jawbone_page_82.md).
-  - Jasmine reference (“Tom and Flora’s Jasmine”) continues the jasmine motif.
+  - Jasmine reference (“Tom and Flora’s Jasmine”) LIKELY refers to the named cat on Pages/cains_jawbone_page_22.md (bridge to Pages/cains_jawbone_page_46.md / Pages/cains_jawbone_page_99.md), but keep as MAYBE until another page ties Flora/Tom to that household.
 - **Voice/tells:**
   - Social-observer stance: repetitive “He said… She said…” with narrator not fully understanding.
 - **Disconfirming evidence:**
   - If St. Wigbert’s day is shown to be an in-world nickname rather than a calendar marker.
+  - If “Tom and Flora’s Jasmine” is shown to be a different Jasmine (person/plant/paint) unrelated to the Page 22 cat.

@@ -62,9 +62,9 @@ Template:
   - **Notes:** Advertised as a sweetmeat made from Devonshire/clotted cream and sold in 1d/3d packets (E. Skuse, *Skuse’s Complete Confectioner* (1894): https://books.google.co.uk/books?id=jdFH7L3xLjwC&pg=PT9; *Home Notes* (1895): https://books.google.co.uk/books?id=FVC2AAAAMAAJ&pg=PA233).
 
 - **Cats**
-  - **Instances / variants:** Jasmine (named cat); unnamed sleek cat curled “dime shape”
-  - **Pages:** Pages/cains_jawbone_page_22.md, Pages/cains_jawbone_page_62.md
-  - **Notes:** Household/companionship cue; track if the same domestic setting recurs.
+  - **Instances / variants:** Jasmine (named cat; LIKELY the same cat referenced on Pages/cains_jawbone_page_46.md / Pages/cains_jawbone_page_88.md / Pages/cains_jawbone_page_99.md); unnamed sleek cat curled “dime shape”
+  - **Pages:** Pages/cains_jawbone_page_22.md, Pages/cains_jawbone_page_46.md, Pages/cains_jawbone_page_62.md, Pages/cains_jawbone_page_88.md, Pages/cains_jawbone_page_99.md
+  - **Notes:** Household/companionship cue; dog‑POV pages treat “Jasmine” as a remembered “her” and a “matter” linked to killing a “Tom” (read as tomcat) → keep as LIKELY until a second explicit “cat” reference appears.
 
 - **Westphalian ham**
   - **Instances / variants:** coffee + Westphalian ham sandwiches; “over the Westphalian ham…”

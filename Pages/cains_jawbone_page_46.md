@@ -6,7 +6,8 @@ In one way, of course, I was glad they were married. I had always been rather a 
   - CERTAIN: narrator called “Hal” (detests the name; imposed by “she”).
   - MAYBE: “murderous doctor” (quoted speaker in a book).
   - LIKELY: “Some Tom” = **Thomas** (De Quincey) as author of the quoted “murderous doctor” line; contrasted with a literal “tom” elsewhere in the jasmine thread.
-  - MAYBE: Tom (explicitly “not the one I killed in the matter of Jasmine”).
+  - MAYBE: “Tom” (explicitly “not the one I killed in the matter of Jasmine”) = a literal tom/tomcat, contrasted with Thomas De Quincey.
+  - MAYBE: Jasmine (LIKELY the cat from Pages/cains_jawbone_page_22.md).
   - MAYBE: “they” (a married couple; context unclear).
   - LIKELY: narrator is a dog (breed/pedigree register; “chop for me”).
 - **Time markers:**

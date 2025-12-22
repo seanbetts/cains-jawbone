@@ -90,11 +90,11 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_10.md
   - **Notes:** MAYBE person vs saint-day marker; if it’s St Hyacinth’s day, Chambers’ *Book of Days* and the *Catholic Encyclopedia* (1913) place it on Aug 16.
 
-- `P14` — Names/aliases: Jasmine (female, uncertain)
+- `P14` — Names/aliases: Jasmine (day-name marker; uncertain)
   - **Tells:** associated with “Jasmine’s day” (said to be “too late” for it).
-  - **Pronouns/relationships:** referenced as “she” in a bet context; not confirmed same as “Jasmine”.
-  - **Pages:** Pages/cains_jawbone_page_10.md, Pages/cains_jawbone_page_99.md
-  - **Notes:** MAYBE person vs day-name marker; “Jasmine’s day” not yet mapped to a known calendar anchor (not in Chambers); Page 99 uses “Jasmine” as a person-reference (do not merge with other Jasmine mentions without anchors).
+  - **Pronouns/relationships:** referenced as “she” in a bet context; not confirmed to be a person.
+  - **Pages:** Pages/cains_jawbone_page_10.md
+  - **Notes:** Keep separate from `P24` cat Jasmine unless “Jasmine’s day” is anchored or reappears with explicit identity.
 
 - `P15` — Names/aliases: Charles Victor Hugo Renard-Beinsky (uncertain)
   - **Tells:** rose “untimely” “for the sake of the investigating judge”.
@@ -153,8 +153,8 @@ Template:
 - `P24` — Names/aliases: Jasmine (cat)
   - **Tells:** explicitly “that cat Jasmine”.
   - **Pronouns/relationships:** pet in Page 22 household.
-  - **Pages:** Pages/cains_jawbone_page_22.md
-  - **Notes:** Not necessarily the same as `P14` “Jasmine” (day-name marker).
+  - **Pages:** Pages/cains_jawbone_page_22.md, Pages/cains_jawbone_page_46.md, Pages/cains_jawbone_page_88.md, Pages/cains_jawbone_page_99.md
+  - **Notes:** Pages 46/88/99 are not explicit, but “matter of Jasmine” + “remember her” reads most parsimoniously as the same household cat; falsifier: later text makes Jasmine clearly human or otherwise non-cat in this strand.
 
 - `P25` — Names/aliases: Tusitala (uncertain)
   - **Tells:** “Tusitala… come over to our place” (visitor; could be allusion or pet name).

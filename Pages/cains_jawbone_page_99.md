@@ -7,11 +7,12 @@ And she wore a mauve love-knot on her breast, and the ends were unequal. He said
   - CERTAIN: “she” (mauve love-knot; asks questions).
   - CERTAIN: “he” (tries to adjust the love-knot; reads out an eye-description passage).
   - CERTAIN: Father Fred (named; LIKELY Friedrich/Frederick the Great; see Quotes & allusions).
-  - MAYBE: Jasmine (referenced as someone who would call old men “jossers”).
+  - MAYBE: Jasmine (LIKELY the cat from Pages/cains_jawbone_page_22.md; narrator “remembers her” and distinguishes her from the one he killed).
 - **Death/violence cues:**
   - CERTAIN: narrator admits a prior killing (“she wasn’t the one I’d killed”).
 - **Motifs/continuity hooks:**
   - Bow/love-knot ends unequal + attempted trimming mirrors earlier bow/left-end trimming language (compare Pages/cains_jawbone_page_8.md).
+  - Jasmine/cat thread: compare Pages/cains_jawbone_page_22.md (“that cat Jasmine”) and Pages/cains_jawbone_page_46.md (“matter of Jasmine”).
   - “Put my foot in it… Still I had three more left” suggests a non-human POV (four-footed) or heavy idiom/wordplay.
   - Grooming: “dry shampoo… on the old chest” (voice/POV tell).
   - “Closing day in Potsdam” (date/place anchor candidate).
