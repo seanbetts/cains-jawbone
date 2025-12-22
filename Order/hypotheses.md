@@ -35,7 +35,8 @@ These are **cross-narrator** groupings intended to reduce the search space for P
         - Pages/cains_jawbone_page_10.md’s “went back two days” clearly refers to a different prior scene (not the Pages/cains_jawbone_page_39.md bet context).
         - The bow/“jossers” and Mr. Hall/knob motifs resolve to unrelated props/settings (coincidental repetition).
       - **Resolved check:** Pages/cains_jawbone_page_19.md’s Falkland/Queen-of-Bohemia hint is treated as an identification clue (Elizabeth Stuart) rather than a competing day-anchor, because the page’s explicit “to-day” allusion points to Balzac’s 18 Aug death-date; keep Pages/cains_jawbone_page_19.md in the Aug 18 group (after Pages/cains_jawbone_page_8.md).
-      - **Next falsification check:** confirm Pages/cains_jawbone_page_8.md → Pages/cains_jawbone_page_19.md continuity by checking whether the call-bell/knob + Mr. Hall interruption motif recurs with additional shared scene-props (beyond “knob”/“Hall”) elsewhere in this Dog POV set; if it does not, downgrade it as a sequencing hook.
+      - **Resolved check:** the call-bell/knob + Mr. Hall interruption motif appears only on Pages/cains_jawbone_page_8.md and Pages/cains_jawbone_page_19.md, and Pages/cains_jawbone_page_19.md explicitly has Mr. Hall come in “again” after the knob is twiddled, making Pages/cains_jawbone_page_8.md → Pages/cains_jawbone_page_19.md the simplest continuity (first interruption, then again).
+      - **Next falsification check:** confirm Pages/cains_jawbone_page_99.md → Pages/cains_jawbone_page_8.md bow continuity by checking whether any other Dog POV page mentions the same bow/ends/jossers/trimming; if none, keep the bow link but downgrade it to motif-only.
     - **Sequence B — Flora subchain** (confidence: `LIKELY`)
       - **Pages (ordered):** Pages/cains_jawbone_page_22.md → Pages/cains_jawbone_page_79.md.
       - **Why:**
