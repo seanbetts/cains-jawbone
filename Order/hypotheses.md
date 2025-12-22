@@ -157,10 +157,22 @@ Macro coverage is complete (0 pages currently in 0 macro strands). Treat the new
 Goal: highlight likely “join surfaces” between macro strands (people/place/object anchors) without proposing order. Treat everything here as `MAYBE` until a stronger continuity hook appears.
 
 - **Overlap-page bridges (highest-signal joins):**
-  - Botany/poison ↔ Detective/violence: Pages/cains_jawbone_page_7.md, Pages/cains_jawbone_page_45.md, Pages/cains_jawbone_page_76.md, Pages/cains_jawbone_page_97.md (check whether “crime/detection” framing is scene-level vs literary; and whether botany content is instrumental vs metaphor).
-  - Paper/money ↔ Time/calendar: Pages/cains_jawbone_page_1.md, Pages/cains_jawbone_page_2.md, Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_52.md, Pages/cains_jawbone_page_64.md (check whether the time anchors are the same mechanism across pages (death-day hooks vs clock/time-budget vs “last day”) and whether paper motifs are real documents vs decorative).
-  - Aesthetic/high-society ↔ Time/calendar: Pages/cains_jawbone_page_17.md, Pages/cains_jawbone_page_41.md, Pages/cains_jawbone_page_56.md, Pages/cains_jawbone_page_67.md, Pages/cains_jawbone_page_84.md (check whether calendar hooks behave like the time-layer elsewhere and whether the social/arts register stays coherent).
-  - Aesthetic/high-society ↔ Paper/money: Pages/cains_jawbone_page_43.md, Pages/cains_jawbone_page_61.md, Pages/cains_jawbone_page_89.md (check whether writing/hand/signature language is a stable voice tell vs a thematic prop).
+  - Paper/money ↔ Time/calendar (5 overlaps): Pages/cains_jawbone_page_1.md, Pages/cains_jawbone_page_2.md, Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_52.md, Pages/cains_jawbone_page_64.md.
+    - `N01` (Pages/cains_jawbone_page_1.md): pen/handwriting + “to-day is the day” (in-world appointment/ritual; not yet tied to a public calendar date).
+    - `N22` (Pages/cains_jawbone_page_2.md): Defoe plague-quote → Defoe death-day “to-day” (explicit historic date hook layered over a “figures/letters” decoding register).
+    - `N17` (Pages/cains_jawbone_page_11.md): dog-watch timekeeping (“end of the second dog”) + “yesterday’s Sunday paper” spoonerism anchor.
+    - `N25` (Pages/cains_jawbone_page_52.md): interview papers + Cardinal de Rohan acquittal “to-day” (explicit historic date hook).
+    - `N04` (Pages/cains_jawbone_page_64.md): letters/postman/hook metaphors + “to-day” + retrospective “last day” frame (date hook not yet pinned).
+    - **Tightening check:** treat this as a *cross-cutting time layer* over document-handling; for each page, classify the time hook as (a) historic/date-derivable, (b) timekeeping/clock, or (c) in-world “appointment day”. Demote any page where “to-day/last day” remains purely generic or where “paper” is only decorative.
+  - Aesthetic/high-society ↔ Time/calendar (5 overlaps): Pages/cains_jawbone_page_17.md, Pages/cains_jawbone_page_41.md, Pages/cains_jawbone_page_56.md, Pages/cains_jawbone_page_67.md, Pages/cains_jawbone_page_84.md.
+    - `N01` (Pages/cains_jawbone_page_17.md): tea/venues (Moon/Dawn) + courtship/marriage framing + repeated “to-day” (not yet a public calendar anchor).
+    - `N17` (Pages/cains_jawbone_page_41.md): Selfridges/Bond Street social register + “first dog” (LIKELY dog-watch timekeeping).
+    - `N26` (Pages/cains_jawbone_page_56.md): breakfast domesticity + Pippa/“Morning’s at seven” allusion + “that morning/six hours” (time-of-day, not yet a date hook).
+    - `N05` (Pages/cains_jawbone_page_67.md): art references (Beardsley/Rops) + Columbus leaving Palos (3 Aug) date hook.
+    - `N37` (Pages/cains_jawbone_page_84.md): rapturous Barbara/beachwear register + Nelson “blind sailor” + arm-loss “to-day” (explicit historic date hook).
+    - **Tightening check:** split these into (a) explicit historic date hooks (`N05`/`N37`) vs (b) time-of-day/“to-day” scene texture (`N01`/`N17`/`N26`), and treat (b) as edge-overlap unless another independent calendar anchor appears.
+  - Botany/poison ↔ Detective/violence (4 overlaps): Pages/cains_jawbone_page_7.md, Pages/cains_jawbone_page_45.md, Pages/cains_jawbone_page_76.md, Pages/cains_jawbone_page_97.md (check whether “crime/detection” framing is scene-level vs literary; and whether botany content is instrumental vs metaphor).
+  - Aesthetic/high-society ↔ Paper/money (3 overlaps): Pages/cains_jawbone_page_43.md, Pages/cains_jawbone_page_61.md, Pages/cains_jawbone_page_89.md (check whether writing/hand/signature language is a stable voice tell vs a thematic prop).
   - Botany/poison ↔ Time/calendar: Pages/cains_jawbone_page_32.md (triple overlap incl. Whitman), Pages/cains_jawbone_page_54.md, Pages/cains_jawbone_page_60.md (check that each calendar anchor resolves cleanly and that botany content is not generic scene texture).
   - Botany/poison ↔ Whitman: Pages/cains_jawbone_page_32.md, Pages/cains_jawbone_page_40.md (check whether Whitman is a narrator tell vs a detachable quotation layer; confirm whether the non-Whitman connective tissue matches).
   - Dog POV ↔ Time/calendar: Pages/cains_jawbone_page_99.md (check whether the time anchor is being *observed* by the dog vs requires human abstraction).
