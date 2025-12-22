@@ -7,7 +7,7 @@ I always liked to listen to him. It was St. Wigbert’s day, I was told, and Aug
   - CERTAIN: “he” (unnamed speaker; mentions stepson/sons).
   - CERTAIN: “she” (unnamed interlocutor in the “He said… She said…” pattern).
   - MAYBE: stepson / third son (offstage family references).
-  - MAYBE: Tom and Flora (as referenced in “Tom and Flora’s Jasmine”).
+  - LIKELY: Tom (the “he”) and Flora (the “she”) are the quarrelling couple being observed/listened to (named explicitly in “Tom and Flora’s Jasmine”; compare unnamed couple on Pages/cains_jawbone_page_48.md).
   - MAYBE: Jasmine (LIKELY the cat from Pages/cains_jawbone_page_22.md; possessive phrasing suggests a household pet).
 - **Time markers:**
   - CERTAIN: St. Wigbert’s day = Aug 13 (*Catholic Encyclopedia*, “St. Wigbert”: recorded in the *Martyrologium Romanum* under 13 August).

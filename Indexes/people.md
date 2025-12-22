@@ -165,8 +165,8 @@ Template:
 - `P26` — Names/aliases: Flora (uncertain)
   - **Tells:** object of narrator’s mating/banishment story; “came over to our place”.
   - **Pronouns/relationships:** linked to Tusitala; returned with “he”.
-  - **Pages:** Pages/cains_jawbone_page_22.md, Pages/cains_jawbone_page_79.md
-  - **Notes:** Not necessarily the same “Flora” element inside “Fidelia Faustina Flora Blackwood” (Page 23); Page 79 continues the animal-mating thread.
+  - **Pages:** Pages/cains_jawbone_page_22.md, Pages/cains_jawbone_page_79.md, Pages/cains_jawbone_page_88.md
+  - **Notes:** Pages/cains_jawbone_page_88.md names a “Tom and Flora” couple; MAYBE the same Flora as Pages/cains_jawbone_page_22.md/Pages/cains_jawbone_page_79.md, but keep this link falsifiable because other “Flora” uses exist (e.g., Pages/cains_jawbone_page_29.md).
 
 - `P27` — Names/aliases: Fidelia Faustina Flora Blackwood
   - **Tells:** described marching by on “muscular pink hocks”.
@@ -605,3 +605,9 @@ Template:
   - **Pronouns/relationships:** interacts with Henry in social scenes.
   - **Pages:** Pages/cains_jawbone_page_85.md, Pages/cains_jawbone_page_94.md
   - **Notes:** Treat as a LIKELY identity anchor; confirm if an explicit forename/surname form appears elsewhere.
+
+- `P100` — Names/aliases: Tom (uncertain)
+  - **Tells:** named as part of “Tom and Flora’s Jasmine”; appears as the “he” in a couple’s first quarrel about distemper colours.
+  - **Pronouns/relationships:** paired with `P26` Flora; MAYBE co-owner of `P24` Jasmine (cat).
+  - **Pages:** Pages/cains_jawbone_page_88.md
+  - **Notes:** Keep separate from “Some Tom” = Thomas De Quincey reference (Pages/cains_jawbone_page_46.md) and from generic “tom” = male cat usage.
