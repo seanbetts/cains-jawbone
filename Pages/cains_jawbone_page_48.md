@@ -6,7 +6,7 @@ I had always thought that Tate essentially meant sugar. This I liked almost next
   - CERTAIN: Ecky (met “that evening”).
   - CERTAIN: “Tate” = sugar brand (Henry Tate made “Tate’s Cube Sugar” famous; *Encyclopaedia Britannica* 1911, “TATE, SIR HENRY”, Page:EB1911_-_Volume_26.djvu/478).
   - MAYBE: “another” = Nahum Tate (1652–1715), coauthor of Tate & Brady’s “New Version of the Psalms” (often printed with the Book of Common Prayer): https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Tate,_Nahum
-  - MAYBE: unnamed “he” and “her” (a couple; narrator thinks they are together too much; MAYBE the same couple named “Tom” and “Flora” on Pages/cains_jawbone_page_88.md).
+  - MAYBE: unnamed “he” and “her” (a couple; narrator thinks they are together too much; MAYBE the same couple as `P100` Tom + `P101` Flora on Pages/cains_jawbone_page_88.md).
 - **Time markers:**
   - CERTAIN: “to-day”; “that evening”.
   - MAYBE: if “another” is Nahum Tate, “to-day” may be his death date (12 Aug 1715; DNB), yielding a candidate Aug 12 anchor for this page.
