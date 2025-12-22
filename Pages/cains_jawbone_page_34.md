@@ -12,8 +12,10 @@ It was a petty employ for one of my reputation ; you would not hear, I felt, muc
   - Confident, coercive social control; reputation-conscious.
   - Physical tell for the man: “throat… full of jelly” / “quag” speech.
 - **Ordering hypotheses:**
-  - MAYBE: debt/bill motif link to Page 33 (“I always pay my debts”).
+  - LIKELY: follows Pages/cains_jawbone_page_33.md within the `N25` debts/bills vignette (covert observation → “petty employ” / “play one tool against another”).
+  - MAYBE: close to Pages/cains_jawbone_page_52.md in the `N25` strand via shared “ironic comment” + “innocent child” phrasing (treat as same-voice evidence, not a sequence claim).
 - **Disconfirming evidence:**
   - If the “bills” language is purely proverbial with no continuity in other pages.
+  - If the “ironic comment” / “innocent child” overlap with Pages/cains_jawbone_page_52.md is shown to be a detachable quotation/register used across narrators.
 - **Research needed:**
   - Identify whether “pretending to be wicked… hypocrisy” is a quotation/allusion.

@@ -13,8 +13,9 @@ So far the mind had been ambling, if I may dare the expression ; moving forward 
 - **Voice/tells:**
   - Contemptuous, ornate metaphor (“white bear” beard; “well-fed swine”).
 - **Ordering hypotheses:**
-  - LIKELY: belongs to the interview sequence foreshadowed on Pages/cains_jawbone_page_52.md.
+  - LIKELY: follows Pages/cains_jawbone_page_52.md as a subsequent “subject introduced” beat in the same `N25` inquiry.
+  - MAYBE: Pages/cains_jawbone_page_57.md belongs between Pages/cains_jawbone_page_52.md and this page as part of the forecast “commentary… page after page” papers run.
 - **Disconfirming evidence:**
-  - If Page 52’s “man who entered” is clearly someone else (different age/role) and no interview continuity appears.
+  - If Pages/cains_jawbone_page_52.md’s interview scene and this Trinder introduction are later anchored to incompatible settings/participants, indicating different narrators.
 - **Research needed:**
   - Determine whether the “white bear” beard detail also appears in *Herr Paulus* (vs being CJ-specific satire layered onto the borrowed name).

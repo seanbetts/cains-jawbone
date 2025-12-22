@@ -20,9 +20,11 @@ He was picking round among all she had left behind and found a box with his name
 - **Voice/tells:**
   - Voyeur/observer behind the armchair; melodramatic biblical phrasing.
 - **Ordering hypotheses:**
-  - LIKELY: links to Page 10’s Gourdoulis and the brand/cigarette motif.
+  - MAYBE: within `N25`, precedes Pages/cains_jawbone_page_34.md (debts/bills + “petty employ” / covert manipulation register).
+  - MAYBE: overlaps Pages/cains_jawbone_page_10.md via the Gourdoulis cigarette brand; do not use for cross-strand sequencing unless a second independent continuity anchor appears.
 - **Disconfirming evidence:**
   - If “Gourdoulis” is later shown to be something other than cigarettes.
+  - If the debt/bills framing proves generic and no additional phrase-level anchor links this scene to Pages/cains_jawbone_page_34.md.
 - **Research needed:**
   - (Resolved) The quoted letter is Lady Mary Wortley Montagu (published letters from the Constantinople period): “I had yours but yesterday… dated the third of February… I look upon my present circumstances to be exactly the same with those of departed spirits…” https://books.google.co.uk/books?id=SYktgDb_eXQC&pg=PA100&dq=%22I+had+yours+but+yesterday%22. In Page 33’s framing, “dead the same day” most likely refers to the in-world woman whose effects include the letter (ironic against the letter’s “still alive” claim).
   - (Resolved) “black pineapple” is LIKELY loose dark tobacco spilled from the cigarette box; “pine-apple” is noted as an old English term for “fir-cone” (EB1911 “Heraldry”: “armorists have not surrendered this, our ancient word for the ‘fir-cone,’ to the foreign ananas”: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Heraldry).

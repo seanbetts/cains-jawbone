@@ -295,6 +295,23 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Rationale:** Page 34’s “ironic comment” and “innocent child” moralising register matches Page 52’s crime/innocence rhetoric; Pages 52–53 then supply the same voice in a concrete “interview/papers” scene culminating in a contemptuous introduction of Sir Paul Trinder. Page 33 adds a compatible clandestine, debt-framed “papers/letter being read” vignette.
   - **Key anchors:** “I always pay my debts”; “behind the armchair”; “ironic comment”; “innocent child”; “end of my interview”; “make yourself comfortable with the papers”; “commentary… page after page”; “introduced to me”; “well-fed swine”; Westphalian ham.
   - **Disconfirming evidence:** Westphalian ham/papers language is shown to be a widely reused table-setting motif, or the “introduced to me” Trinder description is later anchored to a different narrator/setting.
+  - **Phase 4 internal ordering hypotheses (N25):**
+    - **Sequence A — interview/papers run** (confidence: `LIKELY`)
+      - **Pages (ordered):** Pages/cains_jawbone_page_52.md → (MAYBE: Pages/cains_jawbone_page_57.md) → Pages/cains_jawbone_page_53.md
+      - **Why:**
+        - Pages/cains_jawbone_page_52.md establishes an interview mechanic (“make yourself comfortable with the papers”; “end of my interview”) and forecasts “commentary… page after page”; Pages/cains_jawbone_page_53.md reads naturally as a later/next “subject introduced” beat in the same enquiry (contempt register + “introduced to me”).
+        - Pages/cains_jawbone_page_57.md repeats Westphalian ham and “bits of paper” reading, which fits the p52 table/papers setup, but lacks the explicit interview framing; keep it as an optional middle page until a stronger phrase-level continuity anchor appears.
+      - **Disconfirming evidence:**
+        - Pages/cains_jawbone_page_57.md is later anchored to a different narrator/setting with no shared interview mechanics beyond ham/papers.
+        - Pages/cains_jawbone_page_53.md’s Sir Paul Trinder introduction is shown to be a separate narrator/setting (e.g., incompatible participants or contradictory scene mechanics).
+    - **Sequence B — debts/bills clandestine vignette** (confidence: `MAYBE`)
+      - **Pages (ordered):** Pages/cains_jawbone_page_33.md → Pages/cains_jawbone_page_34.md
+      - **Why:**
+        - Both pages foreground debt/bills language (“I always pay my debts” / “Bills should always be met squarely”) and a covert/manipulative register (p33 narrator hidden behind the armchair; p34 “play one tool against another”).
+        - Pages/cains_jawbone_page_34.md’s opener (“petty employ…”) can be read as a meta nod to the concealment/eavesdropping vignette in Pages/cains_jawbone_page_33.md.
+      - **Disconfirming evidence:**
+        - The bills/debts phrasing is shown to be generic across unrelated voices and no phrase-level anchor links the two scenes.
+  - **Next falsification check:** look for a phrase-level anchor tying the p33/p34 debt vignette to the p52/p53 interview run (beyond generic “papers”); if none emerges, treat them as parallel sub-strands within `N25`.
 
 - **Cluster:** `N26` “Awful and literal sense” breakfast-recapping / second-sight voice (confidence: `LIKELY`)
   - **Pages:** Pages/cains_jawbone_page_54.md, Pages/cains_jawbone_page_56.md

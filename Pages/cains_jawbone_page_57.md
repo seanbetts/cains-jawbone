@@ -25,8 +25,8 @@ It seemed from what I heard that Felton’s meat had been delivered at Brookesle
 - **Voice/tells:**
   - Discomfort with meat; attentive to companion’s verbal framing.
 - **Ordering hypotheses:**
-  - MAYBE: links to Pages/cains_jawbone_page_52.md via Westphalian ham + papers/interview vibe.
+  - MAYBE: continuation of the `N25` interview/papers strand: could follow Pages/cains_jawbone_page_52.md (Westphalian ham + papers) as part of the forecast “commentary… page after page”, and (MAYBE) precede Pages/cains_jawbone_page_53.md as the next “introduced” subject beat.
 - **Disconfirming evidence:**
-  - If the Westphalian ham and paper-reading are shown to be unrelated, common details across multiple narrators.
+  - If the Westphalian-ham + paper-reading details are shown to be unrelated, common scene dressing across multiple narrators (no shared interview mechanics beyond food/papers).
 - **Research needed:**
   - Clarify the South Africa route reference (if more specific than Union-Castle mail steamers).
