@@ -11,6 +11,7 @@ In one way, of course, I was glad they were married. I had always been rather a 
   - LIKELY: narrator is a dog (breed/pedigree register; “chop for me”).
 - **Time markers:**
   - CERTAIN: “to-day”; “that day”.
+  - LIKELY: “visited England to-day for the first time” is a calendar-style “to-day” anchor: Chambers, *Book of Days* (Dec 14, “Albert, Prince Consort”) notes that Albert “visited England in 1836…”, so “to-day” likely points to **Dec 14** (Albert’s death date).
 - **Places:**
   - CERTAIN: England (visited “to-day for the first time” by an unnamed “he”).
   - MAYBE: “Maltese” is breed-wordplay (Maltese dog is a listed toy breed: EB1911 “Dog”: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Dog) rather than literal Malta.

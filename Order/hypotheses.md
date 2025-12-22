@@ -42,13 +42,15 @@ These are **cross-narrator** groupings intended to reduce the search space for P
         - Pages/cains_jawbone_page_79.md’s “made love to Flora again” presupposes an earlier Flora encounter on Pages/cains_jawbone_page_22.md.
       - **Disconfirming evidence:** “again” on Pages/cains_jawbone_page_79.md is shown to refer to a different earlier Flora encounter not present in this Dog POV set.
       - **Next falsification check:** scan the Dog POV pages for any Flora reference earlier than Pages/cains_jawbone_page_22.md; if found, reposition this subchain.
-    - **Sequence C — full 10-page draft (stitch A+B; leaves one weak link)** (confidence: `MAYBE`)
-      - **Pages (ordered):** Pages/cains_jawbone_page_46.md → Pages/cains_jawbone_page_22.md → Pages/cains_jawbone_page_79.md → Pages/cains_jawbone_page_48.md → Pages/cains_jawbone_page_88.md → Pages/cains_jawbone_page_39.md → Pages/cains_jawbone_page_10.md → Pages/cains_jawbone_page_99.md → Pages/cains_jawbone_page_8.md → Pages/cains_jawbone_page_19.md.
+    - **Sequence C — combined draft (stitch A+B; leaves p46 unplaced)** (confidence: `MAYBE`)
+      - **Pages (ordered):** Pages/cains_jawbone_page_22.md → Pages/cains_jawbone_page_79.md → Pages/cains_jawbone_page_48.md → Pages/cains_jawbone_page_88.md → Pages/cains_jawbone_page_39.md → Pages/cains_jawbone_page_10.md → Pages/cains_jawbone_page_99.md → Pages/cains_jawbone_page_8.md → Pages/cains_jawbone_page_19.md.
+      - **Unplaced:** Pages/cains_jawbone_page_46.md (Dec 14 “to-day” anchor; see below).
       - **Why:**
         - Sequence A supplies a date-ordered spine; Sequence B locks Pages/cains_jawbone_page_22.md before Pages/cains_jawbone_page_79.md.
         - Pages/cains_jawbone_page_48.md adds a candidate Aug 12 anchor (Nahum Tate/Book-of-Common-Prayer clue) and shares the Tate-sugar + “sick of the way they went on” motif with Pages/cains_jawbone_page_88.md, supporting Pages/cains_jawbone_page_48.md → Pages/cains_jawbone_page_88.md.
       - **Disconfirming evidence:** Pages/cains_jawbone_page_48.md’s “another Tate” reading is falsified (or “to-day” resolves to a different date) such that it cannot precede Pages/cains_jawbone_page_88.md’s Aug 13 anchor.
-      - **Next falsification check:** resolve Pages/cains_jawbone_page_46.md’s “visited England to-day for the first time” into a date anchor (or explicitly downgrade Pages/cains_jawbone_page_46.md to “unplaced”).
+      - **Resolved check:** Pages/cains_jawbone_page_46.md’s “visited England to-day for the first time” is LIKELY a Chambers-*Book of Days* daybook hook for **Dec 14** (Albert, Prince Consort), so it does not currently integrate cleanly into the Aug 12→18 date spine.
+      - **Next falsification check:** scan the Dog POV set for any second Dec 14 anchor (or explicit Albert/Prince Consort reference); if none, keep Pages/cains_jawbone_page_46.md separate from the Aug 12→18 chain and treat its placement as open.
   - **Disconfirming evidence:** any page in this set is later shown to require an unambiguously human physical context (not idiom/metaphor).
   - **Next falsification check:** (a) scan each page for hands/reading/writing/complex social roles that cannot be reframed as observed human action, and (b) validate the Aug 12→18 date spine by checking each “to-day” anchor is unambiguous inside the page.
 

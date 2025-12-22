@@ -628,6 +628,13 @@ Template:
   - **Status:** `resolved`
   - **Result:** Reads as dog/pedigree wordplay: “Maltese” is a dog breed (listed under “Ladies’ toy dogs” in EB1911 “Dog”: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Dog), and Chambers 1908 defines “Skye” as “for Skye terrier” (suggesting “our island” = Skye and the narrator is LIKELY a Skye terrier worrying about purity): https://en.wikisource.org/wiki/Chambers%27s_Twentieth_Century_Dictionary_1908/Simon-pure_Slope. “Some Tom” is LIKELY “Thomas” (De Quincey) as the preceding quoted sentence is from Thomas De Quincey’s “Second Paper…”: https://en.wikisource.org/wiki/Second_Paper_on_Murder_considered_as_One_of_the_Fine_Arts, contrasted with a literal “tom” (tomcat) in the jasmine thread.
 
+- **Item:** Interpret Page 46’s “visited England to-day for the first time” (calendar/date anchor)
+  - **Type:** date/other
+  - **Pages:** Pages/cains_jawbone_page_46.md
+  - **Why it matters:** If “to-day” is a daybook hook, it should anchor the page’s position relative to other calendar-key pages inside this narrator/cluster.
+  - **Status:** `resolved`
+  - **Result:** Chambers, *Book of Days* entry for **Dec 14** (“Albert, Prince Consort”) includes the line “Visited England in 1836…,” describing Albert’s first visit; CJ’s “to-day” phrasing therefore LIKELY points to **Dec 14** as the anchor. Source: https://books.google.co.uk/books?id=VEcJAAAAIAAJ&pg=PA697
+
 - **Item:** Identify whether “Special Orange Supreme” is a specific tea/venue/menu item (Page 47)
   - **Type:** term/other
   - **Pages:** Pages/cains_jawbone_page_47.md
