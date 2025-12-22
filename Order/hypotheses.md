@@ -430,6 +430,11 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Rationale:** Direct sentence continuation plus a consistent school-nostalgia register (the Head, school colours, fives courts, art-name dropping) supports a tight single-voice segment.
   - **Key anchors:** fives courts; old Hall hung with Beardsley/Rops; “the Head”; celebration vs mourning register.
   - **Disconfirming evidence:** only if the 66→67 sentence continuation is later shown to be a transcription artifact (unlikely given page integrity checks).
+  - **Phase 4 internal ordering hypotheses (N05):**
+    - **Sequence A — sentence continuation lock** (confidence: `CERTAIN`)
+      - **Pages (ordered):** Pages/cains_jawbone_page_66.md → Pages/cains_jawbone_page_67.md
+      - **Why:** Pages/cains_jawbone_page_66.md ends “hung round with” and Pages/cains_jawbone_page_67.md begins “the darker works…”, creating an unambiguous syntactic continuation.
+      - **Disconfirming evidence:** only if a later integrity check shows a transcription/scan error creating a false continuation (very unlikely).
 
 - **Cluster:** `N09` “Old man” slow-death / letter-blackmail voice (confidence: `LIKELY`)
   - **Pages:** Pages/cains_jawbone_page_68.md, Pages/cains_jawbone_page_69.md, Pages/cains_jawbone_page_70.md, Pages/cains_jawbone_page_95.md, Pages/cains_jawbone_page_96.md
