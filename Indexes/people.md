@@ -152,7 +152,7 @@ Template:
 
 - `P24` — Names/aliases: Jasmine (cat)
   - **Tells:** explicitly “that cat Jasmine”.
-  - **Pronouns/relationships:** pet in Page 22 household.
+  - **Pronouns/relationships:** pet in Page 22 household; in Page 88 phrased as “Tom and Flora’s”.
   - **Pages:** Pages/cains_jawbone_page_22.md, Pages/cains_jawbone_page_46.md, Pages/cains_jawbone_page_88.md, Pages/cains_jawbone_page_99.md
   - **Notes:** Pages 46/88/99 are not explicit, but “matter of Jasmine” + “remember her” reads most parsimoniously as the same household cat; falsifier: later text makes Jasmine clearly human or otherwise non-cat in this strand.
 
@@ -165,8 +165,8 @@ Template:
 - `P26` — Names/aliases: Flora (uncertain)
   - **Tells:** object of narrator’s mating/banishment story; “came over to our place”.
   - **Pronouns/relationships:** linked to Tusitala; returned with “he”.
-  - **Pages:** Pages/cains_jawbone_page_22.md, Pages/cains_jawbone_page_79.md, Pages/cains_jawbone_page_88.md
-  - **Notes:** Pages/cains_jawbone_page_88.md names a “Tom and Flora” couple; MAYBE the same Flora as Pages/cains_jawbone_page_22.md/Pages/cains_jawbone_page_79.md, but keep this link falsifiable because other “Flora” uses exist (e.g., Pages/cains_jawbone_page_29.md).
+  - **Pages:** Pages/cains_jawbone_page_22.md, Pages/cains_jawbone_page_79.md
+  - **Notes:** LIKELY a dog mate (mating language + “colouring up” on Page 79); keep separate from `P101` Flora (Tom’s partner) and from `P36` Flora (household staff).
 
 - `P27` — Names/aliases: Fidelia Faustina Flora Blackwood
   - **Tells:** described marching by on “muscular pink hocks”.
@@ -608,6 +608,12 @@ Template:
 
 - `P100` — Names/aliases: Tom (uncertain)
   - **Tells:** named as part of “Tom and Flora’s Jasmine”; appears as the “he” in a couple’s first quarrel about distemper colours.
-  - **Pronouns/relationships:** paired with `P26` Flora; MAYBE co-owner of `P24` Jasmine (cat).
+  - **Pronouns/relationships:** paired with `P101` Flora; MAYBE co-owner of `P24` Jasmine (cat).
   - **Pages:** Pages/cains_jawbone_page_88.md
   - **Notes:** Keep separate from “Some Tom” = Thomas De Quincey reference (Pages/cains_jawbone_page_46.md) and from generic “tom” = male cat usage.
+
+- `P101` — Names/aliases: Flora (Tom’s partner; uncertain)
+  - **Tells:** named in “Tom and Flora’s Jasmine”; part of a couple’s first quarrel about distemper colours.
+  - **Pronouns/relationships:** paired with `P100` Tom; MAYBE co-owner of `P24` Jasmine (cat).
+  - **Pages:** Pages/cains_jawbone_page_88.md
+  - **Notes:** Keep separate from `P26` Flora (dog mate) and `P36` Flora (household staff) unless an explicit cross-anchor appears.

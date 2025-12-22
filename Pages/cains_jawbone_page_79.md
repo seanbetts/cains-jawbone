@@ -7,7 +7,7 @@ It was that day my friend Sandy told me he was sure he wouldn’t sleep all nigh
   - CERTAIN: Lagopus scoticus (red grouse; object of retrieval/hunting).
   - CERTAIN: Flora (recipient of narrator’s mating; likely dog/animal).
   - CERTAIN: Bob Martin (dog medicine product; “tasteless condition powders”): https://books.google.co.uk/books?id=mxHOAAAAMAAJ&pg=RA6-PA5&dq=Bob+Martin.
-  - MAYBE: “she” (unnamed; narrator “loathed her”; blushes; hair in curls).
+  - LIKELY: Flora is the “she/her”; “colouring up” may be a bitch‑in‑season cue (supports the dog‑mate reading).
   - MAYBE: “he” (unnamed; administers Bob Martin; “always right”).
 - **Time markers:**
   - CERTAIN: “that day” / “next day” (anticipation of being allowed to retrieve again).
