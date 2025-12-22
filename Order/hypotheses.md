@@ -436,6 +436,28 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Rationale:** A recurring narrator signature links paranoia about an “old man” and a “crucial meeting” (with suspected eavesdropping) to an explicitly witnessed slow death, letter/retaliation anxiety, and a Café Royal time-budget strand tied to an explicit written account.
   - **Key anchors:** “old man”; “done slowly to death”; franked item to “the girl”; threat “do me in”; Café Royal; “told him all, hour by hour, day by day”.
   - **Disconfirming evidence:** “done slowly to death” is figurative, the “he”/retaliation target in Page 70 is clearly not the same “old man” context as Pages 68–69, or the Café Royal + written-account pages (95–96) are shown to be a distinct voice.
+  - **Phase 4 internal ordering hypotheses (N09):**
+    - **Sequence A — written account → retaliation fear** (confidence: `LIKELY`)
+      - **Pages (ordered):** Pages/cains_jawbone_page_95.md → Pages/cains_jawbone_page_70.md
+      - **Why:**
+        - Pages/cains_jawbone_page_95.md explicitly narrates the act of writing a full account (“told him all, hour by hour, day by day…”) with pen/ink ritual.
+        - Pages/cains_jawbone_page_70.md reads as the immediate aftermath: the narrator has “told all I knew”, leaves a franked item to be found “in the morning” by “the girl”, and fears retaliation (“do me in”).
+      - **Disconfirming evidence:**
+        - Pages/cains_jawbone_page_70.md’s “franked” item is shown to be unrelated to Pages/cains_jawbone_page_95.md’s written account (different recipient/object), or the timing can’t accommodate a write-then-leave sequence.
+    - **Sequence B — café waiting/tea near the writing** (confidence: `MAYBE`)
+      - **Pages (ordered):** Pages/cains_jawbone_page_96.md ↔ Pages/cains_jawbone_page_95.md
+      - **Why:**
+        - Pages/cains_jawbone_page_96.md’s menu/tea + “waiting… for the possible her” reads as the kind of idle café interval that could bracket Pages/cains_jawbone_page_95.md’s decision to write.
+      - **Disconfirming evidence:**
+        - Pages/cains_jawbone_page_96.md’s setting is later shown to be incompatible with the Café Royal context implied by Pages/cains_jawbone_page_95.md.
+    - **Sequence C — old-man thread → written account** (confidence: `MAYBE`)
+      - **Pages (ordered):** Pages/cains_jawbone_page_68.md → Pages/cains_jawbone_page_69.md → Pages/cains_jawbone_page_95.md → Pages/cains_jawbone_page_70.md
+      - **Why:**
+        - Pages/cains_jawbone_page_68.md supplies the “last crucial meeting with the old man” + suspected eavesdropper setup; Pages/cains_jawbone_page_69.md gives the late-night psychological aftermath of witnessing the old man “done slowly to death”.
+        - Pages/cains_jawbone_page_95.md’s “hour by hour, day by day” account is compatible with a slow-death timeline; Pages/cains_jawbone_page_70.md then moves into the blackmail/retaliation fear after “told all I knew”.
+      - **Disconfirming evidence:**
+        - Pages/cains_jawbone_page_69.md’s “done slowly to death” proves figurative, or Pages/cains_jawbone_page_95.md’s “horrid act” is later shown to be unrelated to the old-man strand.
+  - **Next falsification check:** search for a second phrase-level anchor that ties Pages/cains_jawbone_page_68.md/Pages/cains_jawbone_page_69.md directly to the Pages/cains_jawbone_page_95.md/Pages/cains_jawbone_page_70.md letter thread (beyond generic “old man/he”).
 
 - **Cluster:** `N07` Bunny and Perry (Pro/Con) mental debate (confidence: `CERTAIN`)
   - **Pages:** Pages/cains_jawbone_page_93.md, Pages/cains_jawbone_page_97.md

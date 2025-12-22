@@ -20,7 +20,8 @@ Out cascaded the darling young. It was no tragedy ; that was, no tragedy compara
 - **Voice/tells:**
   - Irritated, inward; sensory trigger (stepped-on foot → memory chord).
 - **Ordering hypotheses:**
-  - MAYBE: links to Pages/cains_jawbone_page_69.md / Pages/cains_jawbone_page_70.md via “old man” thread and escalating threat.
+  - MAYBE: precedes Pages/cains_jawbone_page_69.md as a daytime/awake trigger that leads into the late-night “collect myself” aftermath reflection.
+  - MAYBE: earlier than the Pages/cains_jawbone_page_95.md → Pages/cains_jawbone_page_70.md letter thread as setup (crucial meeting + suspected eavesdropper).
 - **Disconfirming evidence:**
   - If the “old man” is unrelated (generic) and no shared unique details emerge.
 - **Research needed:**

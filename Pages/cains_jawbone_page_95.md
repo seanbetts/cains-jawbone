@@ -42,6 +42,9 @@ LIKELY WORDPLAY
   - Writing/ink/pen ritual (repeatedly laying pen down; checking ink; “plunged in”).
 - **Voice/tells:**
   - Decision-point framing (“I had decided what to do”) followed by procedural recounting.
+- **Ordering hypotheses:**
+  - LIKELY: precedes Pages/cains_jawbone_page_70.md (writes the full account, then Page 70’s “I had told all I knew” + franked item found “in the morning” reads as aftermath).
+  - MAYBE: adjacent to Pages/cains_jawbone_page_96.md (shared café/food register; tea/menu waiting may bracket the writing decision).
 - **Disconfirming evidence:**
   - If the “horrid act” is later shown to be non-violent (e.g., fraud/prank) rather than murder.
 - **Research needed:**

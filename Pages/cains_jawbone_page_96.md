@@ -22,6 +22,8 @@ Now I think I will try a cup of what they insolently call Golden Tips, a find yo
   - CERTAIN: “turning a Somerset” = doing a somersault (“Somerset” is a variant spelling of “somersault”): Webster 1913 “Somerset”: https://www.websters1913.com/words/Somerset.
 - **Voice/tells:**
   - Menu-sleuthing + wartime memory intrusions; frames the meeting as “mysterious”.
+- **Ordering hypotheses:**
+  - MAYBE: adjacent to Pages/cains_jawbone_page_95.md (Café Royal strand): a menu/tea waiting beat that could precede or follow the decision to write the “hour by hour, day by day” account.
 - **Disconfirming evidence:**
   - If “Catharine” and “Padre” are purely anecdotal/allusive with no recurrence.
 - **Research needed:**
