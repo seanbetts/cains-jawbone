@@ -5,9 +5,11 @@ I had always thought that Tate essentially meant sugar. This I liked almost next
 - **Entities:**
   - CERTAIN: Ecky (met “that evening”).
   - CERTAIN: “Tate” = sugar brand (Henry Tate made “Tate’s Cube Sugar” famous; *Encyclopaedia Britannica* 1911, “TATE, SIR HENRY”, Page:EB1911_-_Volume_26.djvu/478).
+  - MAYBE: “another” = Nahum Tate (1652–1715), coauthor of Tate & Brady’s “New Version of the Psalms” (often printed with the Book of Common Prayer): https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Tate,_Nahum
   - MAYBE: unnamed “he” and “her” (a couple; narrator thinks they are together too much).
 - **Time markers:**
   - CERTAIN: “to-day”; “that evening”.
+  - MAYBE: if “another” is Nahum Tate, “to-day” may be his death date (12 Aug 1715; DNB), yielding a candidate Aug 12 anchor for this page.
 - **Quotes & allusions:**
   - LIKELY: “wormed his way into the Book of Common Prayer” points to the Psalter line “I am a worm, and no man” (Psalm 22:6 in the BCP Psalms): https://www.gutenberg.org/cache/epub/29622/pg29622.txt.
 - **Motifs/continuity hooks:**
@@ -22,4 +24,4 @@ I had always thought that Tate essentially meant sugar. This I liked almost next
 - **Disconfirming evidence:**
   - If later context makes the “nose” and “sad dog” language purely idiomatic (human narrator).
 - **Research needed:**
-  - Clarify what “another had begun to-day” refers to (the “wormed his way into the Book of Common Prayer” line is now identified, but the “begun” referent is still unclear).
+  - Resolved (candidate): “another” is LIKELY a different Tate (Nahum Tate) rather than Henry Tate; treat “to-day” as a candidate 12 Aug death-day anchor unless later context contradicts.
