@@ -9,6 +9,8 @@ She said it didn’t matter what they had done, because she was still an M.D., a
   - CERTAIN: Combe.
   - LIKELY: George Combe (phrenologist) as the intended referent: https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Combe,_George.
   - LIKELY: “Free Knowledgist” echoes “free-knowledgist” in Henry Clay Work, *Upshot Family: A Serio-comic Poem* (p. 16): https://books.google.co.uk/books?id=IK1cAAAAcAAJ&pg=PA16&dq=free-knowledgist.
+- **Time markers:**
+  - LIKELY: “He said this was his last day” → George Combe’s death day (14 Aug 1858), consistent with a daybook “to-day” framing (DNB: https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Combe,_George).
 - **Motifs/continuity hooks:**
   - Credentials: “still an M.D.” + “got another one”.
   - Clothes: undercoats “raw liver colour”; narrator’s single inherited coat.

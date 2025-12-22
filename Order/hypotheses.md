@@ -23,8 +23,33 @@ These are **cross-narrator** groupings intended to reduce the search space for P
   - **Key anchors:** pulled ears + low noise; “no vibration… of my latter end”; “lowered myself and made love”; “provided a chop for me”; “my mistress” framing; Tate sugar hoarding.
   - **Sub-strands (working):**
     - Currently identical to narrator cluster `N02` (treat as single-voice macro until falsified).
+  - **Phase 4 internal ordering hypotheses (Dog POV):**
+    - **Sequence A — date-anchored spine (Aug 13→18)** (confidence: `LIKELY`)
+      - **Pages (ordered):** Pages/cains_jawbone_page_88.md (St Wigbert’s day = Aug 13) → Pages/cains_jawbone_page_39.md (George Combe “last day” = Aug 14) → Pages/cains_jawbone_page_10.md (Hyacinth’s day = Aug 16; “went back two days… bet”) → Pages/cains_jawbone_page_99.md (“closing day in Potsdam” = Aug 17) → Pages/cains_jawbone_page_8.md (Guido Reni + Kilmarnock/Balmerino “to-day” = Aug 18) → Pages/cains_jawbone_page_19.md (“Human Comedy”/Balzac “to-day” = Aug 18).
+      - **Why:**
+        - Explicit calendar/saint-day anchors step forward across 88/39/10/99/8/19.
+        - Pages/cains_jawbone_page_10.md’s “went back two days… bet” aligns cleanly with Pages/cains_jawbone_page_39.md’s bet + Aug 14 Combe anchor.
+        - Pages/cains_jawbone_page_99.md bow ends unequal + missing “jossers” → Pages/cains_jawbone_page_8.md later “same bow… trimmed the left end”; Pages/cains_jawbone_page_8.md + Pages/cains_jawbone_page_19.md share the call-bell/knob → Mr. Hall interruption motif.
+      - **Disconfirming evidence:**
+        - Pages/cains_jawbone_page_39.md’s “last day” is shown to be a different historic/daybook anchor than Combe’s 14 Aug death-day.
+        - Pages/cains_jawbone_page_10.md’s “went back two days” clearly refers to a different prior scene (not the Pages/cains_jawbone_page_39.md bet context).
+        - The bow/“jossers” and Mr. Hall/knob motifs resolve to unrelated props/settings (coincidental repetition).
+      - **Next falsification check:** decide whether Pages/cains_jawbone_page_19.md’s Falkland/Queen-of-Bohemia hint is intended as a competing day-anchor (Aug 19) that would force Pages/cains_jawbone_page_19.md after the Aug 18 pages, or is only an identification clue.
+    - **Sequence B — Flora subchain** (confidence: `LIKELY`)
+      - **Pages (ordered):** Pages/cains_jawbone_page_22.md → Pages/cains_jawbone_page_79.md.
+      - **Why:**
+        - Pages/cains_jawbone_page_79.md’s “made love to Flora again” presupposes an earlier Flora encounter on Pages/cains_jawbone_page_22.md.
+      - **Disconfirming evidence:** “again” on Pages/cains_jawbone_page_79.md is shown to refer to a different earlier Flora encounter not present in this Dog POV set.
+      - **Next falsification check:** scan the Dog POV pages for any Flora reference earlier than Pages/cains_jawbone_page_22.md; if found, reposition this subchain.
+    - **Sequence C — full 10-page draft (stitch A+B; leaves one weak link)** (confidence: `MAYBE`)
+      - **Pages (ordered):** Pages/cains_jawbone_page_46.md → Pages/cains_jawbone_page_22.md → Pages/cains_jawbone_page_79.md → Pages/cains_jawbone_page_88.md → Pages/cains_jawbone_page_39.md → Pages/cains_jawbone_page_10.md → Pages/cains_jawbone_page_48.md → Pages/cains_jawbone_page_99.md → Pages/cains_jawbone_page_8.md → Pages/cains_jawbone_page_19.md.
+      - **Why:**
+        - Sequence A supplies a date-ordered spine; Sequence B locks Pages/cains_jawbone_page_22.md before Pages/cains_jawbone_page_79.md.
+        - Pages/cains_jawbone_page_48.md’s “that evening” plausibly precedes Pages/cains_jawbone_page_99.md’s “that morning”, and both share the Tate-sugar motif.
+      - **Disconfirming evidence:** Pages/cains_jawbone_page_48.md’s “to-day/that evening” anchors are identified as a different date-context incompatible with Pages/cains_jawbone_page_99.md’s Aug 17 “closing day in Potsdam”.
+      - **Next falsification check:** resolve Pages/cains_jawbone_page_48.md’s “another had begun to-day” referent into a date-derivable anchor (or explicitly downgrade Pages/cains_jawbone_page_48.md to “unplaced”).
   - **Disconfirming evidence:** any page in this set is later shown to require an unambiguously human physical context (not idiom/metaphor).
-  - **Next falsification check:** scan each page for hands/reading/writing/complex social roles that cannot be reframed as observed human action.
+  - **Next falsification check:** (a) scan each page for hands/reading/writing/complex social roles that cannot be reframed as observed human action, and (b) validate the Aug 13→18 date spine by checking each “to-day” anchor is unambiguous inside the page.
 
 - **Cluster:** Botany/poison + gardening expertise strand (confidence: `MAYBE`)
   - **Pages:** Pages/cains_jawbone_page_3.md, Pages/cains_jawbone_page_5.md, Pages/cains_jawbone_page_6.md, Pages/cains_jawbone_page_7.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_24.md, Pages/cains_jawbone_page_26.md, Pages/cains_jawbone_page_27.md, Pages/cains_jawbone_page_29.md, Pages/cains_jawbone_page_30.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_40.md, Pages/cains_jawbone_page_45.md, Pages/cains_jawbone_page_54.md, Pages/cains_jawbone_page_58.md, Pages/cains_jawbone_page_59.md, Pages/cains_jawbone_page_71.md, Pages/cains_jawbone_page_73.md, Pages/cains_jawbone_page_74.md, Pages/cains_jawbone_page_75.md, Pages/cains_jawbone_page_80.md, Pages/cains_jawbone_page_83.md, Pages/cains_jawbone_page_86.md, Pages/cains_jawbone_page_87.md
