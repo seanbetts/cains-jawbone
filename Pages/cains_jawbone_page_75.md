@@ -16,7 +16,8 @@ I saw to it that I should be for a moment alone among the marigolds. Thinking ki
 - **Voice/tells:**
   - Botanically literate; mixes classical/philological flexing with practical horticulture and courtship strategy.
 - **Ordering hypotheses:**
-  - MAYBE: pairs with Pages/cains_jawbone_page_74.md (eyes + secret “them” + flowers/documents) within a single narrator segment.
+  - LIKELY: follows Pages/cains_jawbone_page_74.md (red+white flowers → “two other flowers”; secret purchases → “orange tinted documents”; eyesight failure continues).
+  - MAYBE: preceded by Pages/cains_jawbone_page_71.md as an “eye trouble / May” prelude (treat as tentative unless a stronger scene-continuity anchor appears).
 - **Disconfirming evidence:**
   - If the “documents” are unrelated to Page 74’s “them”, and the blight is purely metaphorical.
 - **Research needed:**

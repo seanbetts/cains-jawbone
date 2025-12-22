@@ -23,7 +23,7 @@ But next day that religious fellow’s head drapery, if I might thus unscientifi
 - **Voice/tells:**
   - Determined, moralising self-casting (“no intention of letting up”); classical-name register.
 - **Ordering hypotheses:**
-  - LIKELY: clusters with Pages/cains_jawbone_page_75.md (May/blight + plant language) and Pages/cains_jawbone_page_74.md (eyes failing) via eyesight/flower motifs.
+  - MAYBE: prelude to Pages/cains_jawbone_page_74.md–Pages/cains_jawbone_page_75.md within `N06` (eye strike → later eyesight failure; “red May” → “blight on the May”).
 - **Disconfirming evidence:**
   - If “May” is clearly only the calendar month and has no continuity with later “May” references.
 - **Research needed:**

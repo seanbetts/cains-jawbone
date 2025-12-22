@@ -476,6 +476,27 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Rationale:** Pages 73, 74, and 75 mix art/oratory identity, French verse, and a secrecy/blackmail register; Pages 75 and 83 continue the flower/rose fixation and eyesight/“documents” concerns.
   - **Key anchors:** May/red-May scent; red/white roses + marigolds/calendula; red rose “sole survivor”; “orange tinted documents”; Goya reproduction confusion; “Will anyone know about them?”; Leningrad/OGPU mention; flower-seller interruption.
   - **Disconfirming evidence:** “May” resolves purely as the month/plant with no person continuity, or “them/documents” do not recur across pages.
+  - **Phase 4 internal ordering hypotheses (N06):**
+    - **Sequence A — Marseille initiation → OGPU purchases → documents** (confidence: `LIKELY`)
+      - **Pages (ordered):** Pages/cains_jawbone_page_73.md → Pages/cains_jawbone_page_74.md → Pages/cains_jawbone_page_75.md
+      - **Why:**
+        - Pages/cains_jawbone_page_73.md ends mid-sentence (“hung round with…”) and Pages/cains_jawbone_page_74.md begins with the completion (“photographs…”), making `73 → 74` a hard adjacency.
+        - Pages/cains_jawbone_page_74.md’s “them” (secretly bought items) + failing eyesight (“wretched eyes”) aligns with Pages/cains_jawbone_page_75.md’s “orange tinted documents” and inability to read them (“searchlights of my eyes… not good enough”), and Pages/cains_jawbone_page_75.md’s “two other flowers” naturally picks up Pages/cains_jawbone_page_74.md’s “red rose and the white only remained.”
+      - **Disconfirming evidence:**
+        - Pages/cains_jawbone_page_75.md’s documents/flowers are later anchored to a different setting or narrative purpose from Pages/cains_jawbone_page_74.md’s “them” (coincidental overlap).
+    - **Sequence B — late-night red-rose extension** (confidence: `MAYBE`)
+      - **Pages (ordered):** Pages/cains_jawbone_page_73.md → Pages/cains_jawbone_page_74.md → Pages/cains_jawbone_page_75.md → (MAYBE: Pages/cains_jawbone_page_83.md)
+      - **Why:**
+        - Pages/cains_jawbone_page_83.md returns to the red-rose motif (“red rose, the sole survivor”), plausibly a later state after Pages/cains_jawbone_page_74.md’s “red rose and the white only remained,” and keeps an “old man” + Henry present in a group scene.
+      - **Disconfirming evidence:**
+        - Pages/cains_jawbone_page_83.md’s “old man”/Henry context is later shown to be incompatible with Pages/cains_jawbone_page_74.md’s OGPU/Leningrad scene (distinct voices or settings).
+    - **Sequence C — May/eye prelude (tentative)** (confidence: `MAYBE`)
+      - **Pages (ordered):** (MAYBE: Pages/cains_jawbone_page_71.md) → Pages/cains_jawbone_page_73.md → Pages/cains_jawbone_page_74.md → Pages/cains_jawbone_page_75.md
+      - **Why:**
+        - Pages/cains_jawbone_page_71.md supplies “red May” language and a concrete eye-strike by Henry (“hit me… in the eye”), which could explain Pages/cains_jawbone_page_74.md/Pages/cains_jawbone_page_75.md’s repeated eyesight failure and the “May” hinge (“blight on the May”).
+      - **Disconfirming evidence:**
+        - Pages/cains_jawbone_page_71.md’s Henry/May context is later anchored to a different narrator/setting, or “May” resolves as purely seasonal with no cross-page continuity.
+  - **Next falsification check:** find a phrase-level anchor that ties Pages/cains_jawbone_page_83.md to the `73 → 74 → 75` run (beyond generic “old man”/rose), and a second independent anchor that links Pages/cains_jawbone_page_71.md to the same narrator beyond “May” + eyesight.
 
 - **Cluster:** Coastal imagery (confidence: `MAYBE`)
   - **Pages:** Pages/cains_jawbone_page_1.md, Pages/cains_jawbone_page_4.md, Pages/cains_jawbone_page_5.md

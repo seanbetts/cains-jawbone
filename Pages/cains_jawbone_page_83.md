@@ -22,7 +22,7 @@ A flower-seller, fed ruddily, it seemed, on hope, broke in and would have made a
 - **Voice/tells:**
   - Lyrical flower-cataloguing + abrupt attention shifts (newsboys, “news?” anxiety).
 - **Ordering hypotheses:**
-  - MAYBE: extends the red-rose/flower thread in Pages/cains_jawbone_page_71.md and Pages/cains_jawbone_page_74.md–Pages/cains_jawbone_page_75.md.
+  - MAYBE: later extension of the `N06` flower/documents run, following Pages/cains_jawbone_page_74.md–Pages/cains_jawbone_page_75.md (red rose “sole survivor” as a later state after “red rose and the white only remained”; “old man” + Henry in-scene).
 - **Disconfirming evidence:**
   - If the red-rose phrasing is generic and no other shared props/voices recur.
 - **Research needed:**

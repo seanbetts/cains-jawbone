@@ -24,7 +24,8 @@ photographs of young and laughing athletes, lads who had profited and gone on, a
   - Sensual + political; charged metaphors (“tense half-crowns… on marble”).
 - **Ordering hypotheses:**
   - CERTAIN: follows Pages/cains_jawbone_page_73.md (direct continuation).
-  - MAYBE: links to Pages/cains_jawbone_page_75.md (documents/eyes + plant context) and to the “Head”/school-colours cluster (Pages/cains_jawbone_page_66.md–Pages/cains_jawbone_page_68.md).
+  - LIKELY: precedes Pages/cains_jawbone_page_75.md (red+white flowers remain → “two other flowers” + marigolds; “them” bought secretly → “orange tinted documents”; eyesight failure persists).
+  - MAYBE: links to the “Head”/school-colours cluster (Pages/cains_jawbone_page_66.md–Pages/cains_jawbone_page_67.md) (treat as overlap-only unless a second school-specific anchor appears).
 - **Disconfirming evidence:**
   - If “Head” here is a different figure than the earlier headmaster, or if the “them” are not documents/objects that recur.
 - **Research needed:**
