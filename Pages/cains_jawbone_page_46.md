@@ -29,6 +29,7 @@ In one way, of course, I was glad they were married. I had always been rather a 
 - **Ordering hypotheses:**
   - MAYBE: animal POV segment (chop + naming + naïve register).
   - MAYBE: connects to jasmine motif thread and to “murderous doctor”/doctor-leading-old-man pages.
+  - Resolved: no second Dec 14 (Albert/Prince Consort) anchor found in the Dog POV set, so keep this page separate from the Aug date spine pending a non-date continuity bridge.
 - **Disconfirming evidence:**
   - If “chop” and “Hal” prove metaphorical and the narrator is clearly human in later linked pages.
 - **Research needed:**
