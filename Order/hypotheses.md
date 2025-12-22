@@ -171,10 +171,26 @@ Goal: highlight likely “join surfaces” between macro strands (people/place/o
     - `N05` (Pages/cains_jawbone_page_67.md): art references (Beardsley/Rops) + Columbus leaving Palos (3 Aug) date hook.
     - `N37` (Pages/cains_jawbone_page_84.md): rapturous Barbara/beachwear register + Nelson “blind sailor” + arm-loss “to-day” (explicit historic date hook).
     - **Tightening check:** split these into (a) explicit historic date hooks (`N05`/`N37`) vs (b) time-of-day/“to-day” scene texture (`N01`/`N17`/`N26`), and treat (b) as edge-overlap unless another independent calendar anchor appears.
-  - Botany/poison ↔ Detective/violence (4 overlaps): Pages/cains_jawbone_page_7.md, Pages/cains_jawbone_page_45.md, Pages/cains_jawbone_page_76.md, Pages/cains_jawbone_page_97.md (check whether “crime/detection” framing is scene-level vs literary; and whether botany content is instrumental vs metaphor).
-  - Aesthetic/high-society ↔ Paper/money (3 overlaps): Pages/cains_jawbone_page_43.md, Pages/cains_jawbone_page_61.md, Pages/cains_jawbone_page_89.md (check whether writing/hand/signature language is a stable voice tell vs a thematic prop).
-  - Botany/poison ↔ Time/calendar: Pages/cains_jawbone_page_32.md (triple overlap incl. Whitman), Pages/cains_jawbone_page_54.md, Pages/cains_jawbone_page_60.md (check that each calendar anchor resolves cleanly and that botany content is not generic scene texture).
-  - Botany/poison ↔ Whitman: Pages/cains_jawbone_page_32.md, Pages/cains_jawbone_page_40.md (check whether Whitman is a narrator tell vs a detachable quotation layer; confirm whether the non-Whitman connective tissue matches).
+  - Botany/poison ↔ Detective/violence (4 overlaps): Pages/cains_jawbone_page_7.md, Pages/cains_jawbone_page_45.md, Pages/cains_jawbone_page_76.md, Pages/cains_jawbone_page_97.md.
+    - `N16` (Pages/cains_jawbone_page_7.md): Baker Street / “investigation” framing (Typhoon/Taifun scene texture) + horticultural “Jew’s-lime” engrafting-wax odour (botany-as-practical remedy, not poison).
+    - `N16` (Pages/cains_jawbone_page_45.md): corpse proximity + stealth/eavesdropping + “led up the garden (path)” idiom literalised (botany-as-garden/deception phrasing; violence is in-scene).
+    - `N15` (Pages/cains_jawbone_page_76.md): explicit violence contemplation + victim-name “Green” + “green/ripeness/fruit” moralising (botany largely name/metaphor; keep as edge unless a specific plant/poison anchor appears).
+    - `N07` (Pages/cains_jawbone_page_97.md): pills + pro/con “Bunny and Perry” combat + “a thing I had never done before” (botany = medicine/pills; violence is implied, not explicit).
+    - **Tightening check:** treat this as primarily a narrator-specific join (`N16`) plus two edge promotions (`N15`/`N07`); keep the overlap only where botany is concrete (named plant/substance or explicit “poison work”) and the detective/violence frame is more than a detachable literary allusion.
+  - Aesthetic/high-society ↔ Paper/money (3 overlaps): Pages/cains_jawbone_page_43.md, Pages/cains_jawbone_page_61.md, Pages/cains_jawbone_page_89.md.
+    - `N01` (Pages/cains_jawbone_page_43.md): bar/venue “menu-title” register + hand/income dependence (paper as writing/hand metaphor; aesthetic as nightlife/venue texture).
+    - `N04` (Pages/cains_jawbone_page_61.md): learned bilingual verse + lexicographer/razor micro-voice (paper as letters/documents/etymology; aesthetic as poetic imagery).
+    - `N32` (Pages/cains_jawbone_page_89.md): dining/whisky scene + “signatures were his business” + “death warrant” pun (paper as signatures/legal; aesthetic as table/drink texture).
+    - **Tightening check:** separate (a) paper-as-document/signature (`N04`/`N32`) vs (b) paper-as-handwriting/income metaphor (`N01`), and keep overlap only where the paper layer is structural (not a single throwaway phrase).
+  - Botany/poison ↔ Time/calendar: Pages/cains_jawbone_page_32.md (triple overlap incl. Whitman), Pages/cains_jawbone_page_54.md, Pages/cains_jawbone_page_60.md.
+    - `N03` (Pages/cains_jawbone_page_32.md): Gainsborough “gone out to-day” death-date hook + Clément “instructions” voice (botany may be inherited from the Clement/pills/flowers strand; treat as edge unless plant/pill specificity appears on-page).
+    - `N26` (Pages/cains_jawbone_page_54.md): explicit horticulture/poison work + “to-day… La Belle Alliance” → Waterloo day (June 18) date hook.
+    - `N12` (Pages/cains_jawbone_page_60.md): “to-day” + Francis Ferdinand assassination (June 28) date hook inside a “successful completion” register tied to the poison-logistics umbrella.
+    - **Tightening check:** require both (a) a date-derivable time hook and (b) a non-generic botany/poison element (named plant/substance, pill/poison preparation, or “instructions” concretely tied to means); otherwise treat as Time-only with Botany as edge.
+  - Botany/poison ↔ Whitman: Pages/cains_jawbone_page_32.md, Pages/cains_jawbone_page_40.md.
+    - `N03` (Pages/cains_jawbone_page_32.md): Whitman “good fortune” quote + Clément “instructions” voice (confirm whether the non-Whitman connective tissue ties into the plant/pill register).
+    - `N31` (Pages/cains_jawbone_page_40.md): Whitman “This Compost” (bean/potato growth) + pill-taking + Surrey place-pun (Whitman and botany are fused in-scene).
+    - **Tightening check:** decide whether Whitman is a narrator tell within each voice (`N03`/`N31`) or a reusable motif layer; keep Botany↔Whitman overlap only where Whitman is integrated with plant/poison talk (not just a free-floating quote).
   - Dog POV ↔ Time/calendar: Pages/cains_jawbone_page_99.md (check whether the time anchor is being *observed* by the dog vs requires human abstraction).
   - One-off overlaps (treat as low-confidence bridges): Aesthetic ↔ Botany (Pages/cains_jawbone_page_5.md); Detective/violence ↔ Paper/money (Pages/cains_jawbone_page_44.md).
 
