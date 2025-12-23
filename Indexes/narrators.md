@@ -118,7 +118,7 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_80.md, Pages/cains_jawbone_page_86.md, Pages/cains_jawbone_page_87.md
   - **Confidence:** `LIKELY`
   - **Disconfirming evidence:** Pages 86–87 are later shown to be different speakers/settings despite the apparent direct continuation.
-  - **Notes:** Pages/cains_jawbone_page_80.md is a `MAYBE` extension keyed by the host/guest table register + implied poisoning setup; drop it if the “Sir Paul/May/Henry” cast anchors resolve to a clearly different voice.
+  - **Notes:** Pages/cains_jawbone_page_80.md is a `MAYBE` extension keyed by the host/guest table register + implied poisoning setup; current linkage to the coastal-house segment is unsupported (no phrase-level anchor; Pages/cains_jawbone_page_87.md’s guest is explicitly “she” vs Pages/cains_jawbone_page_80.md’s “Sir Paul”), so treat it as overlap-only unless a stronger shared anchor appears.
 
 - `N14` — Babbie / Rainbow Sundae / hair-and-allusion voice:
   - **Signature tells:** rapturous hair fixation punctuated by French verse; dessert-order banter (Rainbow; Lent “second Sundae” rule); insistence on naming/attributing writers; guest watching Henry handled (cap on/off).

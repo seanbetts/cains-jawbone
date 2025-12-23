@@ -265,13 +265,8 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - The same coastal-house/guest/patient frame continues without a scene break (Caroline Jasmine care → bay landscape + “my guest…” + death-letter imagery).
       - **Disconfirming evidence:**
         - If the Yeats lines are later found to be repeated elsewhere in the puzzle in a way that makes this “continuation” non-unique, or if the “guest/patient” is shown to switch incompatibly between pages.
-    - **Sequence B — aconite hospitality setup as prior episode (tentative)** (confidence: `MAYBE`)
-      - **Pages (ordered):** (MAYBE: Pages/cains_jawbone_page_80.md) → Pages/cains_jawbone_page_86.md → Pages/cains_jawbone_page_87.md
-      - **Why:**
-        - Pages/cains_jawbone_page_80.md stages a host administering a likely poison dose (aconite/Fleming’s tincture via sherry) to a guest; Pages/cains_jawbone_page_86.md opens “Next day… for my guest,” consistent with an aftercare/aftermath beat.
-      - **Disconfirming evidence:**
-        - Pages/cains_jawbone_page_80.md’s guest (“Sir Paul”) is proven to be a different incident/household from Pages/cains_jawbone_page_86.md–Pages/cains_jawbone_page_87.md’s guest (“she” + bay house), or the poison method is purely demonstrative rather than administered.
-  - **Next falsification check:** find a phrase-level anchor that links Pages/cains_jawbone_page_80.md to the Pages/cains_jawbone_page_86.md → Pages/cains_jawbone_page_87.md run (beyond generic host/guest/poison), or drop Pages/cains_jawbone_page_80.md from `N13`.
+  - **Resolved check:** attempted to link Pages/cains_jawbone_page_80.md into the Pages/cains_jawbone_page_86.md → Pages/cains_jawbone_page_87.md run by searching for a phrase-level anchor (e.g., “bottled worms,” “inviolate spring,” “Fleming’s tincture,” “sherry”) and found **no repeats** on Pages/cains_jawbone_page_86.md/Pages/cains_jawbone_page_87.md; additionally, Pages/cains_jawbone_page_87.md’s guest is explicitly “she,” while Pages/cains_jawbone_page_80.md’s guest is “Sir Paul.” Treat Pages/cains_jawbone_page_80.md as **overlap-only** until a stronger shared anchor appears.
+  - **Next falsification check:** if Pages/cains_jawbone_page_80.md is kept in `N13`, require a second independent anchor to the coastal-house segment (e.g., Caroline Jasmine, Sanders/bay house, or a distinctive repeated phrasing) before using it for ordering.
 
 - **Cluster:** `N15` “Green” victim + Compact syringe (first killing) voice (confidence: `LIKELY`)
   - **Pages:** Pages/cains_jawbone_page_76.md, Pages/cains_jawbone_page_77.md
