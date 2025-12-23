@@ -639,7 +639,13 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - Pages/cains_jawbone_page_15.md’s explicit clock-wordplay (“coming of age hours” = 21:00) fits the `N08` signature’s time/wordplay habits.
       - **Disconfirming evidence:**
         - “Bart” is later shown not to be the same dog as Bartholomew, or Pages/cains_jawbone_page_15.md’s voice proves incompatible with the King narrator.
-  - **Next falsification check:** look for a phrase-level anchor tying Pages/cains_jawbone_page_82.md into the Pages/cains_jawbone_page_94.md → Pages/cains_jawbone_page_85.md sequence (beyond generic table/dog/Henry).
+    - **Sequence C — table aftermath (tentative)** (confidence: `MAYBE`)
+      - **Pages (ordered):** Pages/cains_jawbone_page_94.md → Pages/cains_jawbone_page_85.md → (MAYBE: Pages/cains_jawbone_page_82.md)
+      - **Why:**
+        - Pages/cains_jawbone_page_85.md ends with concealment at a table (“put Henry’s keenness… below the… salt-cellar”) and “weary business” resolution; Pages/cains_jawbone_page_82.md reads like a stationary comedown at a table (Lapsang + dog) with “cold weight of my certainty” after witnessing “carnal, bloody and unnatural acts.”
+      - **Disconfirming evidence:**
+        - Pages/cains_jawbone_page_82.md’s Henry/dog/table context is later anchored as a different narrator/setting from Pages/cains_jawbone_page_85.md (overlap only, no adjacency).
+  - **Next falsification check:** look for a shared prop/phrase that ties Pages/cains_jawbone_page_82.md to Pages/cains_jawbone_page_85.md (e.g., concealment under a table object, or a repeat of the “certainty/pressure” imagery) before treating the table vignettes as a true run.
 
 - **Cluster:** `N06` Orator/artist + flowers/documents/OGPU voice (confidence: `LIKELY`)
   - **Pages:** Pages/cains_jawbone_page_73.md, Pages/cains_jawbone_page_74.md, Pages/cains_jawbone_page_75.md, Pages/cains_jawbone_page_83.md (MAYBE: Pages/cains_jawbone_page_71.md)

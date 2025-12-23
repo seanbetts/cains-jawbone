@@ -55,8 +55,8 @@ LIKELY WORDPLAY
 - **Voice/tells:**
   - Disoriented (“forgot why I was… staring”); guilt/weight-of-certainty framing.
 - **Ordering hypotheses:**
-  - MAYBE: table-setting continues into Pages/cains_jawbone_page_85.md (both feature table, Henry, and a nearby barking dog).
+  - MAYBE: could follow Pages/cains_jawbone_page_85.md within `N08` as a post-business table comedown (p85 ends with table concealment + resolution; here the narrator is again table-bound with “cold weight of my certainty” after witnessing “carnal, bloody and unnatural acts”).
 - **Disconfirming evidence:**
-  - If Henry in Page 85 is clearly a different figure (e.g., different setting/role).
+  - If Henry/dog/setting here is clearly incompatible with Pages/cains_jawbone_page_85.md, or a stronger anchor places this page in a different narrator cluster.
 - **Research needed:**
   - (none)

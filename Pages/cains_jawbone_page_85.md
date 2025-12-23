@@ -41,8 +41,8 @@ LIKELY WORDPLAY
   - Self-referential about name-jibes; detective/allusion density; calm after stress.
 - **Ordering hypotheses:**
   - LIKELY: follows Pages/cains_jawbone_page_94.md (p94 ends “Henry was waiting for me”; here the narrator then “drove Henry home, and left him”).
-  - MAYBE: pairs with Pages/cains_jawbone_page_82.md as another table/dog/Henry vignette, but lacks a phrase-level continuation.
+  - MAYBE: precedes Pages/cains_jawbone_page_82.md as the “weary business” resolution + table-concealment scene that Page 82’s table-staring comedown could echo (treat as tentative until a shared prop/phrase appears).
 - **Disconfirming evidence:**
-  - If “Henry” here is not the same kind of figure as in Page 82 (or the settings diverge).
+  - If Pages/cains_jawbone_page_82.md is later anchored to a different narrator/setting (overlap only, no adjacency).
 - **Research needed:**
   - (none)
