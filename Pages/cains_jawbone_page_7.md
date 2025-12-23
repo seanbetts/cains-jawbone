@@ -16,6 +16,7 @@ I had gone to sleep the night before after rereading Typhoon. It had always stru
 - **Voice/tells:**
   - Self-mocking, literary; blends detective/legal identity with armchair immobility (Baker Street).
 - **Ordering hypotheses:**
+  - MAYBE: prelude to Pages/cains_jawbone_page_45.md (*Typhoon* reread + “investigating judge” framing → *Typhoon* quote opening + Hélène/absinthe).
   - MAYBE: Sherlock/detective-allusion cluster with Pages/cains_jawbone_page_6.md.
 - **Disconfirming evidence:**
   - If “Baker Steet” is later shown as non-Sherlock/address pun only.

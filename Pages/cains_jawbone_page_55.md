@@ -18,7 +18,7 @@ The picture of the Old Mill at Bramley, with its medlar tree overhanging the wat
   - Sensory (smell → colour/sound) and self-correcting (“or did I mean…”).
 - **Ordering hypotheses:**
   - MAYBE: links to other smell-centric narrator pages (e.g., Pages/cains_jawbone_page_44.md).
-  - MAYBE: a date-anchor page if the “fifth” holiday is identified.
+  - MAYBE: a date-anchor page (Aug 5 via Gowrie Conspiracy) for `N16`, but unplaced within the cluster until another `N16` page has a compatible calendar anchor.
 - **Disconfirming evidence:**
   - If the “holiday” reference is merely associative and the hard/gentle pattern never reappears or yields structure.
 - **Research needed:**
