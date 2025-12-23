@@ -357,6 +357,21 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Rationale:** Both pages use a rapid-fire punning, brand-name riffing voice and share coastal danger markers (sea/lighthouse) while positioning Henry as a colourful centre of attention.
   - **Key anchors:** buttonhole scene behind the church; boy about to tumble into the sea; ruined lighthouse; “Emperor’s Peg” + vitriol/applejack; Bisto/Cerebos riffing; O.M./M.O./OM wordplay.
   - **Disconfirming evidence:** Page 5’s narrator voice proves incompatible with Page 4’s (different social position/setting with no shared tells beyond generic puns).
+  - **Phase 4 internal ordering hypotheses (N19):**
+    - **Sequence A — church-side comedy → lighthouse-side distraction** (confidence: `LIKELY`)
+      - **Pages (ordered):** Pages/cains_jawbone_page_4.md → Pages/cains_jawbone_page_5.md
+      - **Why:**
+        - Pages/cains_jawbone_page_4.md establishes the coastal setting with church/puddles + “boy… to tumble into the sea,” while Pages/cains_jawbone_page_5.md shifts to the ruined lighthouse as the next major location-beat in the same seaside strip.
+        - Pages/cains_jawbone_page_4.md’s suspicion of a “beautiful” woman (“Can I suspect her?”) aligns with Pages/cains_jawbone_page_5.md’s irritation at distractions while “poor Henry” pursues an “intended fifth,” reading like an escalation from social comedy to stakes.
+      - **Disconfirming evidence:**
+        - The church/buttonhole and ruined lighthouse are later anchored to incompatible places/timelines, or the “boy” incident is shown to be a different scene from the “new young man” in Pages/cains_jawbone_page_5.md.
+    - **Sequence B — scene order uncertain (keep reverse alive)** (confidence: `MAYBE`)
+      - **Pages (ordered):** Pages/cains_jawbone_page_5.md → Pages/cains_jawbone_page_4.md
+      - **Why:**
+        - Without a hard sentence/quote continuation, the two vignettes could be non-adjacent beats in the same coastal day; keep the reverse available until a stronger anchor appears.
+      - **Disconfirming evidence:**
+        - Any phrase-level continuation is found (shared “new young man”/boy rescue, repeated objects, or an explicit “after/before” marker) that fixes Pages/cains_jawbone_page_4.md as the earlier scene.
+  - **Next falsification check:** search for a third page that repeats one of the unique N19 anchors (Sir Roland Mowthalorn / gin-faced Annie / “Emperor’s Peg” / ruined lighthouse / Lesurques↔Cirque pun) to decide whether Pages/cains_jawbone_page_4.md and Pages/cains_jawbone_page_5.md are adjacent or merely co-clustered.
 
 - **Cluster:** `N20` Bloomsbury/nomenclature + grim-scene voice (confidence: `LIKELY`)
   - **Pages:** Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_31.md

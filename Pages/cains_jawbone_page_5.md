@@ -35,6 +35,7 @@ LIKELY WORDPLAY
   - Social irritation; fast associative brand-name riffs; possibly feminine-coded gesture (“powdered my nose”).
 - **Ordering hypotheses:**
   - MAYBE: same Henry as Pages/cains_jawbone_page_2.md and Pages/cains_jawbone_page_4.md; track Henry’s serial “intended” count.
+  - MAYBE: follows Pages/cains_jawbone_page_4.md (coastal strip: church-side comedy → ruined lighthouse scene). Falsifier: the “new young man”/letters scene is proven to be unrelated to Page 4’s cast/setting.
 - **Disconfirming evidence:**
   - If “Henry” becomes clearly distinct by surname/setting later.
   - Identify “Emperor’s Peg” (period recipe/associations).

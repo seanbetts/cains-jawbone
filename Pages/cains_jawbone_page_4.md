@@ -36,6 +36,7 @@ LIKELY WORDPLAY
   - Comic, name-heavy, punning narration; suspicion aimed at a “beautiful” woman.
 - **Ordering hypotheses:**
   - MAYBE: coastal cluster with Pages/cains_jawbone_page_1.md and Pages/cains_jawbone_page_5.md (sea/lighthouse imagery + Henry continuity).
+  - MAYBE: Pages/cains_jawbone_page_4.md → Pages/cains_jawbone_page_5.md (church/puddles + boy-near-sea vignette → ruined lighthouse scene). Falsifier: the settings are later anchored to incompatible locales/timelines.
 - **Disconfirming evidence:**
   - If later identifies this as inland/figurative “sea” or Henry differs.
 - **Research needed:**
