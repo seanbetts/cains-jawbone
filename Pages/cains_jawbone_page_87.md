@@ -25,6 +25,7 @@ My guest has, I think, a Byzantine beauty, as of a golden snake. Is she, or is s
   - Lyrical landscape description abruptly flips into visceral corpse-imagery.
 - **Ordering hypotheses:**
   - CERTAIN: preceded by Pages/cains_jawbone_page_86.md (quote continuation).
+  - MAYBE: Pages/cains_jawbone_page_80.md is another `N13` episode (host/guest poisoning) but not necessarily adjacent; keep pending until a phrase-level anchor repeats.
 - **Disconfirming evidence:**
   - If “Of the old bold mate of Henry Morgan” is a separate allusion rather than the continuation of the prior quotation.
 - **Research needed:**

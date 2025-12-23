@@ -32,5 +32,6 @@ Next day I let Caroline Jasmine---what a name!---do her very damnedest for my gu
   - Over-precision/insistence about death (“and I know it”) + casual malice.
 - **Ordering hypotheses:**
   - CERTAIN: Pages/cains_jawbone_page_86.md → Pages/cains_jawbone_page_87.md (direct continuation of the quoted lines).
+  - MAYBE: preceded by Pages/cains_jawbone_page_80.md as a prior-day poisoning setup (aconite in sherry). Falsifier: Pages/cains_jawbone_page_80.md’s guest/cast is incompatible with the Pages/cains_jawbone_page_86.md–Pages/cains_jawbone_page_87.md “guest” and coastal-house scene.
 - **Disconfirming evidence:**
   - If the poem quotation is reproduced elsewhere in full (no actual page-break continuity).

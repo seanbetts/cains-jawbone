@@ -253,10 +253,25 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Next falsification check:** stress-test whether “Henry” is a single consistent in-world person across the `N12` sub-strands (killer/manhunt vs “peerless investigator”); if incompatible, split the cluster into two narrators and keep only the Calabar/digitalis pages in `N12`.
 
 - **Cluster:** `N13` Host/guest poisoning + coastal-house segment (confidence: `LIKELY`)
-  - **Pages:** Pages/cains_jawbone_page_80.md, Pages/cains_jawbone_page_86.md, Pages/cains_jawbone_page_87.md
+  - **Pages:** Pages/cains_jawbone_page_86.md, Pages/cains_jawbone_page_87.md (MAYBE: Pages/cains_jawbone_page_80.md)
   - **Rationale:** Pages 86–87 share a continuous host/guest/patient poisoning frame with Yeats/Whitman quotations and a distinctive coastal-house setting; this reads as a coherent narrator segment.
   - **Key anchors:** Caroline Jasmine; Mithradates inoculation; Yeats “bent low and low…” continuation; bay landscape → corpse imagery.
   - **Disconfirming evidence:** the apparent continuation is later shown to be coincidental (e.g., cut-and-paste echo) with incompatible settings/participants.
+  - **Phase 4 internal ordering hypotheses (N13):**
+    - **Sequence A — Yeats quotation continuation** (confidence: `CERTAIN`)
+      - **Pages (ordered):** Pages/cains_jawbone_page_86.md → Pages/cains_jawbone_page_87.md
+      - **Why:**
+        - Pages/cains_jawbone_page_86.md ends mid-quotation (“But we have all bent low and low and kissed the quiet feet”), and Pages/cains_jawbone_page_87.md begins with the completion (with CJ’s substitution), making `86 → 87` a hard adjacency.
+        - The same coastal-house/guest/patient frame continues without a scene break (Caroline Jasmine care → bay landscape + “my guest…” + death-letter imagery).
+      - **Disconfirming evidence:**
+        - If the Yeats lines are later found to be repeated elsewhere in the puzzle in a way that makes this “continuation” non-unique, or if the “guest/patient” is shown to switch incompatibly between pages.
+    - **Sequence B — aconite hospitality setup as prior episode (tentative)** (confidence: `MAYBE`)
+      - **Pages (ordered):** (MAYBE: Pages/cains_jawbone_page_80.md) → Pages/cains_jawbone_page_86.md → Pages/cains_jawbone_page_87.md
+      - **Why:**
+        - Pages/cains_jawbone_page_80.md stages a host administering a likely poison dose (aconite/Fleming’s tincture via sherry) to a guest; Pages/cains_jawbone_page_86.md opens “Next day… for my guest,” consistent with an aftercare/aftermath beat.
+      - **Disconfirming evidence:**
+        - Pages/cains_jawbone_page_80.md’s guest (“Sir Paul”) is proven to be a different incident/household from Pages/cains_jawbone_page_86.md–Pages/cains_jawbone_page_87.md’s guest (“she” + bay house), or the poison method is purely demonstrative rather than administered.
+  - **Next falsification check:** find a phrase-level anchor that links Pages/cains_jawbone_page_80.md to the Pages/cains_jawbone_page_86.md → Pages/cains_jawbone_page_87.md run (beyond generic host/guest/poison), or drop Pages/cains_jawbone_page_80.md from `N13`.
 
 - **Cluster:** `N15` “Green” victim + Compact syringe (first killing) voice (confidence: `LIKELY`)
   - **Pages:** Pages/cains_jawbone_page_76.md, Pages/cains_jawbone_page_77.md
