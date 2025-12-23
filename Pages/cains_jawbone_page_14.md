@@ -16,7 +16,8 @@ My ears were becoming attuned, and for the first time I heard clearly what the w
 - **Voice/tells:**
   - Eavesdropping, then retreat (“none of my business”); memory-driven associative leaps.
 - **Ordering hypotheses:**
-  - MAYBE: paired with Pages/cains_jawbone_page_12.md (documents/will framing + poet quote).
+  - MAYBE: Pages/cains_jawbone_page_14.md → Pages/cains_jawbone_page_12.md (overheard “leave everything… May” → “abstracted will” document scene; spilled wine ↔ “bad head” hangover texture; see `Order/hypotheses.md` `N10` block).
+  - MAYBE: Pages/cains_jawbone_page_12.md → Pages/cains_jawbone_page_14.md remains possible if “ears becoming attuned” is a later payoff of earlier document intelligence-gathering.
   - MAYBE: Henry-appears-as-assistant cluster with Pages/cains_jawbone_page_13.md (Henry dealing with bodies/cleanup).
 - **Disconfirming evidence:**
   - If “May” later appears in a clearly different social circle/time than Page 12’s documents scene.

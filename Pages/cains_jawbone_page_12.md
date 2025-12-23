@@ -40,7 +40,8 @@ LIKELY WORDPLAY
 - **Voice/tells:**
   - Legal/estate language + social niceties; opportunistic (“get what I wanted”).
 - **Ordering hypotheses:**
-  - MAYBE: will/inheritance cluster with Pages/cains_jawbone_page_14.md (overheard “leave everything to me… May”).
+  - MAYBE: Pages/cains_jawbone_page_14.md → Pages/cains_jawbone_page_12.md (will-talk to May + spilled wine → this “bad head” document scene; see `Order/hypotheses.md` `N10` block).
+  - MAYBE: paired with Pages/cains_jawbone_page_14.md more loosely as a will/document motif cluster if the scenes prove distinct.
 - **Disconfirming evidence:**
   - If Page 14’s “leave everything” is unrelated (different people/context).
 - **Research needed:**
