@@ -18,6 +18,8 @@ I considered that venerable whose winter Achilles thought to take from the lips 
 - **Voice/tells:**
   - Cheerfully menacing “generosity”; poison-by-gardening vibe; heavy literary reference density.
 - **Ordering hypotheses:**
+  - MAYBE: prelude to Pages/cains_jawbone_page_21.md (foxgloves/digitalis here ↔ “proved digitalis purpurea” there).
+  - MAYBE: gelsemium/electric-febrifuge let-down ↔ Pages/cains_jawbone_page_59.md (explicit gelsemium), but ordering is unclear.
   - MAYBE: bell motif cluster with Pages/cains_jawbone_page_9.md (bells + summoning “the man”).
   - MAYBE: garden/flower motif cluster with Pages/cains_jawbone_page_10.md (garden walk + flower-days).
 - **Disconfirming evidence:**

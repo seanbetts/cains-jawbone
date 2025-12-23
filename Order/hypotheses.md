@@ -223,6 +223,34 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Rationale:** Shared poison anchors (Calabar/digitalis) and a consistent practical, darkly comic “murder mechanics” register (counts, pursuit set-pieces, try-again planning) suggest a stable narrator signature.
   - **Key anchors:** Calabar bean/physostigma; digitalis; murder-counting language; “Murders were funny things”; “give him another day”.
   - **Disconfirming evidence:** Calabar/digitalis references recur widely across unrelated voices, or the pursuit/murder-count tone is shown to be a separate narrator from the poison-logistics pages.
+  - **Phase 4 internal ordering hypotheses (N12):**
+    - **Sequence A — Calabar introduced → next-morning doubt** (confidence: `LIKELY`)
+      - **Pages (ordered):** Pages/cains_jawbone_page_21.md → Pages/cains_jawbone_page_36.md
+      - **Why:**
+        - Pages/cains_jawbone_page_21.md explicitly “brought in… Calabar Bean” after the victim scene, while Pages/cains_jawbone_page_36.md opens “on the morning after I had introduced him to the person most concerned…,” making p36 read like the follow-on reflection.
+        - Both pages bind Calabar/digitalis to Henry-in-scene + corpse-handling language (blood/body; burial with eyes showing).
+      - **Disconfirming evidence:**
+        - “introduced him to the person most concerned” in Pages/cains_jawbone_page_36.md is later shown to refer to a different “him”/recipient than the Calabar/digitalis action in Pages/cains_jawbone_page_21.md.
+    - **Sequence B — Henry spree escalation (counted murders → knock → manhunt)** (confidence: `LIKELY`)
+      - **Pages (ordered):** Pages/cains_jawbone_page_26.md → Pages/cains_jawbone_page_58.md → Pages/cains_jawbone_page_35.md
+      - **Why:**
+        - Pages/cains_jawbone_page_26.md references Henry’s “first two killings,” Pages/cains_jawbone_page_58.md counts a third and fourth victim and ends with an “official knock,” and Pages/cains_jawbone_page_35.md continues into an active police pursuit with the flying squad and an escape attempt.
+      - **Disconfirming evidence:**
+        - Any of the “killings/victim” language is proven figurative, or the Pages/cains_jawbone_page_35.md pursuit is later revealed as an embedded/imagined story unrelated to the corpse scenes.
+    - **Sequence C — Trinder outcome (failed → succeeded)** (confidence: `LIKELY`)
+      - **Pages (ordered):** Pages/cains_jawbone_page_59.md → Pages/cains_jawbone_page_60.md
+      - **Why:**
+        - Pages/cains_jawbone_page_59.md states the “bane… failed” and notes it is awkward with Trinder about; Pages/cains_jawbone_page_60.md opens with the narrator realising they “succeeded” and declares a “figurehead beard” (plausibly Trinder) will “plough… seas no more.”
+        - Both pages keep the same arch, punning murder‑logistics register (meals/time markers, investigation language, death-by-plan framing).
+      - **Disconfirming evidence:**
+        - “Trinder” in Pages/cains_jawbone_page_59.md is unrelated to the “figurehead beard” in Pages/cains_jawbone_page_60.md, or the “failed/succeeded” contrast is shown to refer to different acts.
+    - **Sequence D — gelsemium let-down → digitalis proof (tentative)** (confidence: `MAYBE`)
+      - **Pages (ordered):** Pages/cains_jawbone_page_6.md → Pages/cains_jawbone_page_21.md
+      - **Why:**
+        - Pages/cains_jawbone_page_6.md frames a prior poison (“Electric Febrifuge” active ingredient) as having “let me down” before shifting someone onto foxgloves (digitalis), while Pages/cains_jawbone_page_21.md explicitly says “on the very day” the narrator “proved digitalis purpurea.”
+      - **Disconfirming evidence:**
+        - Foxgloves/digitalis in Pages/cains_jawbone_page_6.md are shown to be ornamental (not an operational poison thread), or “proved digitalis” in Pages/cains_jawbone_page_21.md refers to an unrelated experiment.
+  - **Next falsification check:** stress-test whether “Henry” is a single consistent in-world person across the `N12` sub-strands (killer/manhunt vs “peerless investigator”); if incompatible, split the cluster into two narrators and keep only the Calabar/digitalis pages in `N12`.
 
 - **Cluster:** `N13` Host/guest poisoning + coastal-house segment (confidence: `LIKELY`)
   - **Pages:** Pages/cains_jawbone_page_80.md, Pages/cains_jawbone_page_86.md, Pages/cains_jawbone_page_87.md

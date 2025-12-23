@@ -20,6 +20,7 @@ What was it I held in my fingers? Looked at in one way it could just be a kea. I
 - **Voice/tells:**
   - Arch, punning; disdain for detective-sergeants’ vocabulary tolerance.
 - **Ordering hypotheses:**
+  - LIKELY: Pages/cains_jawbone_page_59.md → Pages/cains_jawbone_page_60.md (failed “bane” → narrator “succeeded”; “figurehead beard” likely Trinder).
   - LIKELY: connects to Sir Paul Trinder pages (Pages/cains_jawbone_page_53.md) and to a Trinder-outcome page (Pages/cains_jawbone_page_60.md).
   - CERTAIN: strengthens plant/poison thread via explicit gelsemium.
 - **Disconfirming evidence:**

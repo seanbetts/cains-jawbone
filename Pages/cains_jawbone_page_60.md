@@ -23,6 +23,7 @@ I had sufficient knowledge to realise that I had succeeded. I ordered Charles to
 - **Voice/tells:**
   - Self-congratulatory “work of noble note” framing; mixes moralising with logistics (dessert order, photo).
 - **Ordering hypotheses:**
+  - LIKELY: follows Pages/cains_jawbone_page_59.md (failed “bane” → “succeeded”; Trinder present/targeted).
   - LIKELY: links to Trinder thread (Pages/cains_jawbone_page_53.md, Pages/cains_jawbone_page_59.md).
   - MAYBE: links to Lover’s Delight / bar-menu cluster (Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_43.md).
 - **Disconfirming evidence:**

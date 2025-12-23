@@ -16,7 +16,8 @@ The girl had left Henry by this time, thank God. She was an obvious whey-face. S
   - Darkly amused, judgemental (“whey-face”); punning on “killing time”.
   - “bee with a sore bonnet” reads like a “foreign touch”/malapropism of the idiom “bear with a sore head” (Kipling, *The Light That Failed*, Ch. 12: https://en.wikisource.org/wiki/The_Light_That_Failed/Chapter_12).
 - **Ordering hypotheses:**
-  - LIKELY: another Henry-occurrence that intensifies “killings/victim” framing (compare Pages/cains_jawbone_page_21.md).
+  - LIKELY: Pages/cains_jawbone_page_26.md → Pages/cains_jawbone_page_58.md (first two killings → third/fourth victims + “official knock”).
+  - MAYBE: another Henry-occurrence that intensifies “killings/victim” framing (compare Pages/cains_jawbone_page_21.md; falsifier: Henry-role/setting incompatibility).
 - **Disconfirming evidence:**
   - If later context shows “killings” is figurative (e.g., stage/role talk) rather than literal murder.
 - **Research needed:**
