@@ -23,6 +23,7 @@ Then against a possible invasion of my privacy, I touched my white cheeks until 
 - **Voice/tells:**
   - Self-conscious, classed description (“Bloomsbury”); familiarity with grim scenes (“native to me”).
 - **Ordering hypotheses:**
+  - LIKELY: follows Pages/cains_jawbone_page_31.md (p31 “reckon with Henry” + “two like these two” → p13’s two-body tableau with Henry “stooping over the other body”). Falsifier: p31’s “these two” is proven non-human/non-body (sounds only) or “this very place” is not Grantham.
   - MAYBE: Henry-handling-bodies cluster with Pages/cains_jawbone_page_14.md (Henry cleaning flesh/wine remnants).
 - **Disconfirming evidence:**
   - If Henry here is later clearly distinct from Henry elsewhere (different role/setting).

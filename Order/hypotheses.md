@@ -378,6 +378,21 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Rationale:** Both pages foreground classed self-consciousness and wordplay about naming, framed against grim bodily/violent contexts and “reckon with Henry” pressure.
   - **Key anchors:** “Bloomsbury”; “Newdigate fringe”; “nomenclature business”; “Caseus, ah!”; hand dropping to hip pocket.
   - **Disconfirming evidence:** the naming/wordplay is shown to be incidental, or the scenes are later explicitly narrated by different named speakers.
+  - **Phase 4 internal ordering hypotheses (N20):**
+    - **Sequence A — “reckon with Henry” → two bodies in the market place** (confidence: `LIKELY`)
+      - **Pages (ordered):** Pages/cains_jawbone_page_31.md → Pages/cains_jawbone_page_13.md
+      - **Why:**
+        - Pages/cains_jawbone_page_31.md culminates in action-readiness (“My hand dropped to my hip pocket… I had to reckon with Henry”), and Pages/cains_jawbone_page_13.md presents the immediate grim tableau with Henry “stooping over the other body,” consistent with an aftermath beat.
+        - Both pages imply a paired-loss/bodies frame: Pages/cains_jawbone_page_31.md (“even two like these two”) ↔ Pages/cains_jawbone_page_13.md (“the other body”), which naturally reads as the same two-person incident.
+      - **Disconfirming evidence:**
+        - Pages/cains_jawbone_page_31.md’s “these two” is later shown to refer to something other than two people/bodies (e.g., two sounds/voices only), or Pages/cains_jawbone_page_13.md’s “other body” is shown to be unrelated (different place/timeline than Pages/cains_jawbone_page_31.md).
+    - **Sequence B — scene order uncertain (keep reverse alive)** (confidence: `MAYBE`)
+      - **Pages (ordered):** Pages/cains_jawbone_page_13.md → Pages/cains_jawbone_page_31.md
+      - **Why:**
+        - If Pages/cains_jawbone_page_31.md’s “these two” refers to sounds/voices rather than bodies, it could be a later reflective preface rather than a lead-in to Pages/cains_jawbone_page_13.md’s corpse scene.
+      - **Disconfirming evidence:**
+        - A clearer continuity marker appears tying Pages/cains_jawbone_page_31.md’s “this very place” to Pages/cains_jawbone_page_13.md’s named location (Grantham market place), or a direct phrase-level echo fixes the sequence.
+  - **Next falsification check:** try to pin “this very place” on Pages/cains_jawbone_page_31.md to Grantham (conduit/market-place anchor) or to a different named location; if it’s not Grantham, downgrade Sequence A to `MAYBE`.
 
 - **Cluster:** `N21` Dazed infatuation + bar/tea imagery voice (confidence: `LIKELY`)
   - **Pages:** Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_47.md, Pages/cains_jawbone_page_49.md, Pages/cains_jawbone_page_92.md
