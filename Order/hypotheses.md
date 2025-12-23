@@ -273,6 +273,21 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Rationale:** A consistent self-justifying voice frames a named target (Green) and an explicitly admitted “first” killing, with a specific method/tool cue (Compact hypodermic) and a shared date-anchor habit (Perceval).
   - **Key anchors:** victim named Green; “it was my first”; “Compact” syringe; Spencer Perceval assassination reference.
   - **Disconfirming evidence:** “my first” is non-lethal, or Green/Perceval anchors resolve as unrelated allusions in different voices.
+  - **Phase 4 internal ordering hypotheses (N15):**
+    - **Sequence A — resolve-to-act → first killing** (confidence: `LIKELY`)
+      - **Pages (ordered):** Pages/cains_jawbone_page_76.md → Pages/cains_jawbone_page_77.md
+      - **Why:**
+        - Pages/cains_jawbone_page_76.md ends with the narrator weighing that they may have to “do the thing” themselves and “think it over,” while Pages/cains_jawbone_page_77.md immediately presents the narrator having used a specific “tool” (“Compact”) and calling it “my first,” which reads like the follow-through beat.
+        - Pages/cains_jawbone_page_76.md’s “young women are green… Green was the name of the victim” is compatible with Pages/cains_jawbone_page_77.md’s tactile, personal aftermath tone (“last little contact with the bony ankles… so warm and so soon… so cold”).
+      - **Disconfirming evidence:**
+        - Pages/cains_jawbone_page_77.md’s victim is later identified as someone other than the “Green” target in Pages/cains_jawbone_page_76.md (different gender/identity/context), or Pages/cains_jawbone_page_76.md’s “do the thing” is later shown to refer to a non-lethal act.
+    - **Sequence B — first-killing memory → later planning** (confidence: `MAYBE`)
+      - **Pages (ordered):** Pages/cains_jawbone_page_77.md → Pages/cains_jawbone_page_76.md
+      - **Why:**
+        - Pages/cains_jawbone_page_77.md’s reflective tone (“alone again… visualise… detached calm”) could be a retrospective preface to a later decision about a new named victim (Pages/cains_jawbone_page_76.md).
+      - **Disconfirming evidence:**
+        - If Pages/cains_jawbone_page_76.md’s “Green… victim” is shown to be the same person killed with the “Compact” tool, the more natural progression is Pages/cains_jawbone_page_76.md → Pages/cains_jawbone_page_77.md.
+  - **Next falsification check:** look for a later page that names “Green” in a clearly post‑mortem register or repeats the “Compact” tool cue; without a third anchor, keep both internal orders alive but treat Pages/cains_jawbone_page_76.md → Pages/cains_jawbone_page_77.md as the default.
 
 - **Cluster:** `N16` St. Bruno / smell-memory + incinerator-evidence voice (confidence: `LIKELY`)
   - **Pages:** Pages/cains_jawbone_page_7.md, Pages/cains_jawbone_page_44.md, Pages/cains_jawbone_page_45.md, Pages/cains_jawbone_page_55.md
