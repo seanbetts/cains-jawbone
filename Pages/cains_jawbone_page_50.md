@@ -21,7 +21,9 @@ I wondered if I should succeed in hurting the girl. But think of her no more. Th
 - **Voice/tells:**
   - Pedantic insistence on order (“begin at the beginning”); admiration of writerly facility.
 - **Ordering hypotheses:**
-  - MAYBE: links to wills/forgery cluster (Pages/cains_jawbone_page_12.md, Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_28.md).
+  - LIKELY: `N39` will/forgery voice pairing with Pages/cains_jawbone_page_28.md (shared *Importance of Being Earnest* echo + active will/pen work; see `Order/hypotheses.md` `N39` block).
+  - LIKELY: follows Pages/cains_jawbone_page_28.md as the operational forgery scene (“The will was there… caseful of strange pens”) after the church-window “ticklish business” prelude.
+  - MAYBE: overlaps wills/forgery cluster (Pages/cains_jawbone_page_12.md, Pages/cains_jawbone_page_14.md) via the same Greek Anthology epigram (Homonoea) — treat as a Phase 5 join-candidate only.
   - MAYBE: links to pens/handwriting pages (Pages/cains_jawbone_page_1.md, Pages/cains_jawbone_page_43.md).
 - **Disconfirming evidence:**
   - If the “will” and pen-work are later revealed to be unrelated (metaphorical) rather than document-writing/forgery.

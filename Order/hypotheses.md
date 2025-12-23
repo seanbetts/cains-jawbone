@@ -552,6 +552,22 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Rationale:** Both pages embed Wilde/Earnest material alongside will/forgery and pen/stationery attention, suggesting a shared narrator register rather than a generic allusion layer.
   - **Key anchors:** Wilde/Earnest echoes; will/forgery talk; caseful of “strange pens”.
   - **Disconfirming evidence:** Wilde/Earnest lines are shown to be a detachable quotation layer used across unrelated narrators, or the will/forgery contexts resolve to incompatible speakers/settings.
+  - **Phase 4 internal ordering hypotheses (N39):**
+    - **Sequence A — church-window prelude → will-at-table forging scene** (confidence: `LIKELY`)
+      - **Pages (ordered):** Pages/cains_jawbone_page_28.md → Pages/cains_jawbone_page_50.md
+      - **Why:**
+        - Pages/cains_jawbone_page_28.md reads as a waiting/prep beat (“Not a woman had entered as yet… ticklish business… Forging ahead… since the woman was not yet dead”), while Pages/cains_jawbone_page_50.md shows the operational scene (“The will was there… caseful of strange pens… wonderful hands at work”).
+        - The embedded *Importance of Being Earnest* quotations progress plausibly within Act I (Lane’s “married once… misunderstanding” material on Pages/cains_jawbone_page_28.md vs the later “handbag” material on Pages/cains_jawbone_page_50.md), consistent with a narrator reading/echoing the same text across the two pages.
+      - **Disconfirming evidence:**
+        - The “woman” on Pages/cains_jawbone_page_28.md and the “girl” on Pages/cains_jawbone_page_50.md are clearly different people/plots (making the forgery framing coincidental), or the table/participants are incompatible with Pages/cains_jawbone_page_28.md’s setting.
+        - The Earnest quotations are shown to be used non-sequentially (or widely reused), removing the “Act I progression” support.
+    - **Sequence B — alternative ordering (unresolved)** (confidence: `MAYBE`)
+      - **Pages (ordered):** Pages/cains_jawbone_page_50.md → Pages/cains_jawbone_page_28.md
+      - **Why:**
+        - If Pages/cains_jawbone_page_28.md’s “Not a woman had entered as yet” is a later return to the same plan (new location, still awaiting the target), Pages/cains_jawbone_page_50.md could be an earlier attempt at the will/pen work.
+      - **Disconfirming evidence:**
+        - Any concrete time marker anchors one scene as “next day/after” the other.
+  - **Next falsification check:** search for a non-quotation anchor shared by both pages (e.g., the green binding device “single star above… sea,” “ticklish business,” “wonderful hands,” or a repeat of Pluckley/Kent) before treating the pairing as more than “forgery + Earnest” motif overlap; separately, note that Pages/cains_jawbone_page_50.md’s Greek Anthology “Homonoea” line overlaps Pages/cains_jawbone_page_12.md (Phase 5 join-candidate, not a Phase 4 ordering claim).
 
 - **Cluster:** `N40` Bills-in-paper / Bryant & May / Left Luggage voice (confidence: `MAYBE`)
   - **Pages:** Pages/cains_jawbone_page_23.md
