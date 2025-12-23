@@ -24,7 +24,7 @@ Hospitality, when I came to consider it, was indeed a funny thing. I wanted to d
   - Naturalist/collector: “bottled worms” collection.
   - Hospitality as cover for exposure to poisons.
 - **Ordering hypotheses:**
-  - MAYBE: overlaps `N13` (host/guest poisoning register) but no phrase-level anchor ties it to Pages/cains_jawbone_page_86.md → Pages/cains_jawbone_page_87.md; treat as overlap-only unless a second independent anchor appears (Caroline Jasmine / Sanders+b ay house / repeated distinctive phrasing).
+  - MAYBE: overlaps `N13` (host/guest poisoning register) but no phrase-level anchor ties it to Pages/cains_jawbone_page_86.md → Pages/cains_jawbone_page_87.md; treat as overlap-only unless a second independent anchor appears (Caroline Jasmine / Sanders/bay house / repeated distinctive phrasing).
   - LIKELY: links Sir Paul to the plant/poison method thread.
 - **Disconfirming evidence:**
   - If aconitum is only being shown as a specimen with no ingestion/administration implied, or if Fleming’s tincture mention is purely didactic.
