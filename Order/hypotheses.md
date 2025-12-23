@@ -66,7 +66,7 @@ These are **cross-narrator** groupings intended to reduce the search space for P
   - **Key anchors:** Calabar bean/physostigma; digitalis; hellebore; lobelia/Indian-tobacco; wild jasmine/roses; marigold/calendula; Mithradates inoculation; failing eyesight with “documents”; “job/instructions” framing.
   - **Sub-strands (working):**
     - `N12` poison logistics: Pages/cains_jawbone_page_6.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_26.md, Pages/cains_jawbone_page_29.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_58.md, Pages/cains_jawbone_page_59.md
-    - `N03` Clement/pills/flowers: Pages/cains_jawbone_page_3.md, Pages/cains_jawbone_page_24.md, Pages/cains_jawbone_page_27.md, Pages/cains_jawbone_page_30.md
+    - `N03` Clement/pills/flowers: Pages/cains_jawbone_page_3.md, Pages/cains_jawbone_page_24.md, Pages/cains_jawbone_page_27.md, Pages/cains_jawbone_page_32.md (MAYBE: Pages/cains_jawbone_page_30.md)
     - `N06` flowers/documents/OGPU: Pages/cains_jawbone_page_71.md, Pages/cains_jawbone_page_73.md, Pages/cains_jawbone_page_74.md, Pages/cains_jawbone_page_75.md, Pages/cains_jawbone_page_83.md
     - `N13` host/guest poisoning: Pages/cains_jawbone_page_80.md, Pages/cains_jawbone_page_86.md, Pages/cains_jawbone_page_87.md
     - Bridge singleton candidates: `N26` (Pages/cains_jawbone_page_54.md), `N31` (Pages/cains_jawbone_page_40.md)
@@ -817,6 +817,27 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Rationale:** Page 24 explicitly frames a name shared by “fourteen popes and two anti-popes” and mentions Giulio de Medici (Clement VII), aligning with the character name Clement on Page 3; Page 27 recalls “tiny Clem”; Page 32 has Henry meeting with “Clément” yesterday.
   - **Key anchors:** pope-count clue + Giulio de Medici; Page 3’s “meeting with Clement”; Page 27’s “tiny Clem”.
   - **Disconfirming evidence:** Page 24 narrator is explicitly named something else later, or “Clement” is purely thematic.
+  - **Phase 4 internal ordering hypotheses (N03):**
+    - **Sequence A — instruction-giver / pills setup** (confidence: `MAYBE`)
+      - **Pages (ordered):** Pages/cains_jawbone_page_32.md → Pages/cains_jawbone_page_3.md
+      - **Why:**
+        - Both pages pivot on a key meeting “yesterday” in which the narrator receives detailed instructions for a “job” and/or dosing (“assassin’s wonderful substance”).
+        - Pages/cains_jawbone_page_32.md reads as a morning-after reflection at/near the appointment location, while Pages/cains_jawbone_page_3.md reads like the narrator is already en route (“I was on my way…”) and on pill #2.
+      - **Disconfirming evidence:**
+        - The “yesterday” meeting/appointment is shown to involve different people/contexts on the two pages, or the physical setting markers make the pages incompatible as adjacent.
+    - **Sequence B — jasmine/house suspicion beat** (confidence: `MAYBE`)
+      - **Pages (ordered):** (MAYBE: Pages/cains_jawbone_page_30.md) → Pages/cains_jawbone_page_24.md
+      - **Why:**
+        - Pages/cains_jawbone_page_24.md’s explicit “Next day…” implies a prior suspicion scene; Pages/cains_jawbone_page_30.md ends with active suspicion (“Can she be guilty?”) and shares a botanical jasmine focus (Cape Jasmine ↔ wild jasmine) plus domestic/household texture.
+      - **Disconfirming evidence:**
+        - Page 24’s “Next day” is anchored to a different prior scene than Page 30’s soup test, or the “she/Caroline” cast is clearly incompatible.
+    - **Sequence C — “tiny Clem” backstory (unplaced)** (confidence: `MAYBE`)
+      - **Pages:** Pages/cains_jawbone_page_27.md
+      - **Why:**
+        - Reads as retrospective character-history for “Clem” (childhood), useful context but lacking a hard entry/exit cue that ties it to the instruction or house beats.
+      - **Disconfirming evidence:**
+        - A later page repeats a phrase-level anchor from Pages/cains_jawbone_page_27.md (lock-up on the Severn; Peaberry Mysore/Blue Mountain; “hushed my brat”), allowing firm placement.
+  - **Next falsification check:** verify whether “Caroline” on Pages/cains_jawbone_page_24.md corresponds to “Caroline Jasmine” on Pages/cains_jawbone_page_86.md and whether Pages/cains_jawbone_page_24.md’s opening Yeats line (“Cathleen… Houlihan”) is being used as a cross-page substitution key with Pages/cains_jawbone_page_87.md; if so, treat Pages/cains_jawbone_page_24.md as pending overlap with `N13` rather than a stable `N03` anchor.
 
 - **Cluster:** Debts and bills (confidence: `MAYBE`)
   - **Pages:** Pages/cains_jawbone_page_33.md, Pages/cains_jawbone_page_34.md

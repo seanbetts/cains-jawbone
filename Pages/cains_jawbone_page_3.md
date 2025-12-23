@@ -36,7 +36,8 @@ LIKELY WORDPLAY
 - **Voice/tells:**
   - Transactional, self-satisfied tone; mixes commerce (publishers) with menace (assassin substance).
 - **Ordering hypotheses:**
-  - MAYBE: belongs with other pill/poison pages (track “wonderful substance” and Clement across the book).
+  - MAYBE: Pages/cains_jawbone_page_32.md nearby (both hinge on a key “yesterday” instructions meeting + job framing; Sequence A in `Order/hypotheses.md`’s `N03` block).
+  - MAYBE: Clement/Clément/Clem continuity across Pages/cains_jawbone_page_24.md + Pages/cains_jawbone_page_27.md + Pages/cains_jawbone_page_32.md (pending disambiguation: Clement-as-met-person vs Clement-as-narrator-name clue).
 - **Disconfirming evidence:**
   - If later context shows “pills” are benign/medical and “assassin” is figurative.
 - **Research needed:**

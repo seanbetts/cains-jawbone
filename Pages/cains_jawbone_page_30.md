@@ -20,9 +20,11 @@ I see that old dandy has purchased Cape Jasmine. Your gardenia is difficult at a
 - **Voice/tells:**
   - Botanical precision; detective/quotational reflex (Watson).
 - **Ordering hypotheses:**
-  - MAYBE: fits the plant-savvy narrator cluster (Pages/cains_jawbone_page_24.md, Pages/cains_jawbone_page_29.md).
+  - MAYBE: Pages/cains_jawbone_page_30.md → Pages/cains_jawbone_page_24.md (“Can she be guilty?” → “Next day I saw that my suspicions… had been well-founded”; shared jasmine + domestic suspicion register; Sequence B in `Order/hypotheses.md`’s `N03` block).
+  - MAYBE: fits the plant-savvy narrator cluster (Pages/cains_jawbone_page_24.md, Pages/cains_jawbone_page_29.md), with Pages/cains_jawbone_page_30.md as a `MAYBE` extension of `N03` pending disambiguation of who “she” is.
 - **Disconfirming evidence:**
   - If the botanical detail is purely decorative and the voice differs sharply from other plant/poison pages.
+  - If the suspected “she” on this page is clearly not the “Caroline” on Pages/cains_jawbone_page_24.md, weakening the “Next day” adjacency read.
 - **Research needed:**
   - (Resolved) “this savours not of death, this hath a relish of eternity.” — William Watson, “The Sovereign Poet” (in *The Collected Poems of William Watson*, 1899): https://books.google.co.uk/books?id=vidXAAAAYAAJ&pg=PA166&dq=%22savours+not+of+death%22
   - (Resolved) “Lo, how these fair immaculate women… jocund maker… De Mauves… Gressie…” — Robert Louis Stevenson, *Underwoods* (1887), poem “Henry James” (title explains the “by James!” probe): https://en.wikisource.org/wiki/Underwoods/Henry_James

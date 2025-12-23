@@ -15,7 +15,7 @@ Next day I saw that my suspicions of Caroline had been well-founded. This was an
 - **Time markers:**
   - CERTAIN: “Next day…”
 - **Quotes & allusions:**
-  - CERTAIN: “Of Cathleen, the daughter of Houlihan” appears to be a deliberate substitution for Masefield’s “Says the old bold mate of Henry Morgan” (*Captain Stratton’s Fancy*): https://en.wikisource.org/wiki/Captain_Stratton%27s_Fancy.
+  - CERTAIN: Yeats continuation line: “Of Cathleen the daughter of Houlihan” — “The Song of Red Hanrahan” (*In the Seven Woods*, 1903), Page:In_the_Seven_Woods,_Yeats,_1903.djvu/32; compare the CJ substitution on Pages/cains_jawbone_page_87.md (“Of the old bold mate of Henry Morgan.”).
   - CERTAIN: “the quality of mercy” (Shakespeare, Merchant of Venice).
   - CERTAIN: name clue: “fourteen popes and two anti-popes” → “Clement” (EB1911 “Clement” opens “the name of fourteen popes and two anti-popes”). https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Clement
 - **Motifs/continuity hooks:**
@@ -25,10 +25,13 @@ Next day I saw that my suspicions of Caroline had been well-founded. This was an
   - Gardener/plant-person voice; moral hardness (“quality of mercy… little exerted”).
 - **Ordering hypotheses:**
   - LIKELY: connects to “Clement” thread (Pages/cains_jawbone_page_3.md) via the pope-name clue.
+  - MAYBE: Pages/cains_jawbone_page_30.md → Pages/cains_jawbone_page_24.md (Page 24 opens “Next day…”, and both pages share a domestic suspicion beat + jasmine register; Sequence B in `Order/hypotheses.md`’s `N03` block).
+  - MAYBE: overlap with `N13` (Caroline Jasmine + Yeats substitution key): “Caroline” here could be Caroline Jasmine (Pages/cains_jawbone_page_86.md), and the Yeats line at the top of this page is the source-text counterpart of the substituted line on Pages/cains_jawbone_page_87.md.
   - MAYBE: jasmine motif link to Pages/cains_jawbone_page_22.md (cat Jasmine) and Pages/cains_jawbone_page_10.md (Jasmine’s day).
   - MAYBE: poison/plant cluster with Pages/cains_jawbone_page_6.md and Pages/cains_jawbone_page_21.md.
 - **Disconfirming evidence:**
   - If later text explicitly gives a different narrator name (not Clement) or shows the pope-count is a red herring.
+  - If “Caroline” is explicitly a different person from Caroline Jasmine (Pages/cains_jawbone_page_86.md), weakening the `N13` overlap read.
 - **Research needed:**
   - (Resolved) EB1911 “Clement” matches the “fourteen popes and two anti-popes” formulation.
   - (Resolved) Ahkoond of Swat = Abdul Ghafur (1794–1877) per EB1911 “Swat”.
