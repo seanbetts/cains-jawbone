@@ -354,6 +354,27 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Rationale:** A recurring narrator signature combines self-described dazedness with sensual fixation on surfaces/hair and a social drink/tea register, with Henry repeatedly serving as the axis of fascination or correction.
   - **Key anchors:** “electrically aware” bar presence; cocktail after cocktail + cigarette; Babs copper hair + first rain; “I always feel a bit dazed”; Henry policing diction (“got me”); Browning “Saul” excerpt + “what Henry would think of next” anticipation.
   - **Disconfirming evidence:** these are shown to be separate narrators sharing only general “sensual description” tropes.
+  - **Phase 4 internal ordering hypotheses (N21):**
+    - **Sequence A — Browning “Saul” line continuation lock** (confidence: `CERTAIN`)
+      - **Pages (ordered):** Pages/cains_jawbone_page_92.md → Pages/cains_jawbone_page_42.md
+      - **Why:**
+        - Pages/cains_jawbone_page_92.md quotes Browning “Saul” up to “those lilies still living and blue,” and Pages/cains_jawbone_page_42.md begins with the immediate next line (“Just broken to twine round thy harp-strings…”), creating a stanza-continuation lock.
+        - The prose also fits as a beat progression: Pages/cains_jawbone_page_92.md anticipates a “cardiac revelation,” and Pages/cains_jawbone_page_42.md opens “What could come next?” before the “electrically aware” encounter.
+      - **Disconfirming evidence:**
+        - If another page is found that quotes the missing intervening line(s) (making this continuation non-unique), or if Pages/cains_jawbone_page_92.md’s Browning header is shown to be a non-adjacent epigraph convention reused across unrelated scenes.
+    - **Sequence B — first introduction to Henry → later guided scene** (confidence: `LIKELY`)
+      - **Pages (ordered):** Pages/cains_jawbone_page_49.md → Pages/cains_jawbone_page_92.md → Pages/cains_jawbone_page_42.md
+      - **Why:**
+        - Pages/cains_jawbone_page_49.md frames the narrator’s “first introduction” to Henry and early fascination; Pages/cains_jawbone_page_92.md and Pages/cains_jawbone_page_42.md treat Henry as an established reference-point/guide.
+      - **Disconfirming evidence:**
+        - “first introduction” in Pages/cains_jawbone_page_49.md is later shown to refer to a different Henry than the guide/axis figure in Pages/cains_jawbone_page_92.md/Pages/cains_jawbone_page_42.md.
+    - **Sequence C — post‑encounter fixation at tea (tentative)** (confidence: `MAYBE`)
+      - **Pages (ordered):** Pages/cains_jawbone_page_92.md → Pages/cains_jawbone_page_42.md → (MAYBE: Pages/cains_jawbone_page_47.md)
+      - **Why:**
+        - Pages/cains_jawbone_page_47.md intensifies the “she has got me” register and keeps Henry’s policing/correction role, reading plausibly as a later beat after the first “electrically aware” encounter.
+      - **Disconfirming evidence:**
+        - “she” in Pages/cains_jawbone_page_47.md is proven to be someone other than the woman in Pages/cains_jawbone_page_42.md, or the tea vocabulary is shown to be coded and unrelated to the seduction scene.
+  - **Next falsification check:** resolve whether “she” in Pages/cains_jawbone_page_47.md is the same woman as Pages/cains_jawbone_page_42.md’s tall “Julienne?” (need a phrase-level or attribute-level repeat beyond generic infatuation language).
 
 - **Cluster:** `N22` Morbid London decoder (plague quotation voice) (confidence: `MAYBE`)
   - **Pages:** Pages/cains_jawbone_page_2.md

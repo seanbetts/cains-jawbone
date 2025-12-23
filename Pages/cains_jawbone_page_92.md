@@ -22,6 +22,8 @@ My earlier days had been so different. There hadn’t been the comfort, the sens
 - **Voice/tells:**
   - Nostalgic self-comparison (childhood frustration → present indulgence) + heightened anticipatory mood (“cardiac revelation”).
 - **Ordering hypotheses:**
+  - CERTAIN: Pages/cains_jawbone_page_92.md → Pages/cains_jawbone_page_42.md (Browning “Saul” stanza continues directly into p42).
+  - MAYBE: preceded by Pages/cains_jawbone_page_49.md (p49 “first introduction to Henry” → p92 familiarity/anticipation). Falsifier: Henry identity/role is incompatible across the pages.
   - MAYBE: sits near other timepiece-driven planning pages (watch/clock emphasis).
 - **Disconfirming evidence:**
   - If Henry here is clearly a different “Henry” than adjacent segments (setting/role divergence).
