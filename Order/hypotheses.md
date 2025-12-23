@@ -446,21 +446,21 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Disconfirming evidence:** Westphalian ham/papers language is shown to be a widely reused table-setting motif, or the “introduced to me” Trinder description is later anchored to a different narrator/setting.
   - **Phase 4 internal ordering hypotheses (N25):**
     - **Sequence A — interview/papers run** (confidence: `LIKELY`)
-      - **Pages (ordered):** Pages/cains_jawbone_page_52.md → (MAYBE: Pages/cains_jawbone_page_57.md) → Pages/cains_jawbone_page_53.md
+      - **Pages (ordered):** Pages/cains_jawbone_page_52.md → Pages/cains_jawbone_page_57.md → Pages/cains_jawbone_page_53.md
       - **Why:**
         - Pages/cains_jawbone_page_52.md establishes an interview mechanic (“make yourself comfortable with the papers”; “end of my interview”) and forecasts “commentary… page after page”; Pages/cains_jawbone_page_53.md reads naturally as a later/next “subject introduced” beat in the same enquiry (contempt register + “introduced to me”).
-        - Pages/cains_jawbone_page_57.md repeats Westphalian ham and “bits of paper” reading, which fits the p52 table/papers setup, but lacks the explicit interview framing; keep it as an optional middle page until a stronger phrase-level continuity anchor appears.
+        - Pages/cains_jawbone_page_57.md repeats Westphalian ham and “bits of paper” reading, which fits the p52 table/papers setup and supplies an additional “paper-by-paper” beat before the Trinder introduction.
       - **Disconfirming evidence:**
-        - Pages/cains_jawbone_page_57.md is later anchored to a different narrator/setting with no shared interview mechanics beyond ham/papers.
+        - Pages/cains_jawbone_page_57.md is later anchored to a different narrator/setting with no shared interview mechanics beyond ham/papers; if so, drop it and revert to Pages/cains_jawbone_page_52.md → Pages/cains_jawbone_page_53.md.
         - Pages/cains_jawbone_page_53.md’s Sir Paul Trinder introduction is shown to be a separate narrator/setting (e.g., incompatible participants or contradictory scene mechanics).
-    - **Sequence B — debts/bills clandestine vignette** (confidence: `MAYBE`)
+    - **Sequence B — debts/bills clandestine vignette** (confidence: `LIKELY`)
       - **Pages (ordered):** Pages/cains_jawbone_page_33.md → Pages/cains_jawbone_page_34.md
       - **Why:**
         - Both pages foreground debt/bills language (“I always pay my debts” / “Bills should always be met squarely”) and a covert/manipulative register (p33 narrator hidden behind the armchair; p34 “play one tool against another”).
         - Pages/cains_jawbone_page_34.md’s opener (“petty employ…”) can be read as a meta nod to the concealment/eavesdropping vignette in Pages/cains_jawbone_page_33.md.
       - **Disconfirming evidence:**
         - The bills/debts phrasing is shown to be generic across unrelated voices and no phrase-level anchor links the two scenes.
-  - **Next falsification check:** look for a phrase-level anchor tying the p33/p34 debt vignette to the p52/p53 interview run (beyond generic “papers”); if none emerges, treat them as parallel sub-strands within `N25`.
+  - **Next falsification check:** confirm whether the “innocent child” echo between Pages/cains_jawbone_page_34.md and Pages/cains_jawbone_page_52.md functions as narrator self-echo (same voice) rather than a detachable quotation, and seek a second independent continuity marker (shared participant/setting prop) before asserting adjacency between the debt vignette and the interview run.
 
 - **Cluster:** `N26` “Awful and literal sense” breakfast-recapping / second-sight voice (confidence: `LIKELY`)
   - **Pages:** Pages/cains_jawbone_page_54.md, Pages/cains_jawbone_page_56.md

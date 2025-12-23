@@ -20,7 +20,7 @@ He was picking round among all she had left behind and found a box with his name
 - **Voice/tells:**
   - Voyeur/observer behind the armchair; melodramatic biblical phrasing.
 - **Ordering hypotheses:**
-  - MAYBE: within `N25`, precedes Pages/cains_jawbone_page_34.md (debts/bills + “petty employ” / covert manipulation register).
+  - LIKELY: within `N25`, precedes Pages/cains_jawbone_page_34.md (debts/bills + “petty employ” / covert manipulation register).
   - MAYBE: overlaps Pages/cains_jawbone_page_10.md via the Gourdoulis cigarette brand; do not use for cross-strand sequencing unless a second independent continuity anchor appears.
 - **Disconfirming evidence:**
   - If “Gourdoulis” is later shown to be something other than cigarettes.
