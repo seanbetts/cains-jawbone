@@ -315,6 +315,21 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Rationale:** A shared nautical timekeeping register (dog-watch/capstan) and heavy Kipling embedding, alongside punny London geography, suggests a consistent narrator signature.
   - **Key anchors:** dog-watch time marker; capstan bar; Kipling’s “The Mary Gloster”; Selfridges/Bond Street wordplay; Swift/De Quincey name-drops.
   - **Disconfirming evidence:** the shared nautical/Kipling anchors are shown to be generic motifs reused across unrelated narrators.
+  - **Phase 4 internal ordering hypotheses (N17):**
+    - **Sequence A — first dog → end of second dog (same West‑End patch)** (confidence: `LIKELY`)
+      - **Pages (ordered):** Pages/cains_jawbone_page_41.md → Pages/cains_jawbone_page_11.md
+      - **Why:**
+        - Pages/cains_jawbone_page_41.md says “it was still the first dog,” while Pages/cains_jawbone_page_11.md places the scene “at the end of the second dog,” giving a natural within‑evening time progression.
+        - Location continuity is plausible: Pages/cains_jawbone_page_41.md’s Selfridges/Bond Street register aligns with Pages/cains_jawbone_page_11.md waiting “in Orchard” (MAYBE Orchard Street near Selfridges), suggesting the same London patch.
+      - **Disconfirming evidence:**
+        - “first dog”/“second dog” is later shown to be literal-dog framing (not nautical timekeeping), or “Orchard” is proven to be a different place/scene than the Selfridges/Bond Street setting.
+    - **Sequence B — timekeeping words are non-temporal (fallback)** (confidence: `MAYBE`)
+      - **Pages (ordered):** Pages/cains_jawbone_page_11.md → Pages/cains_jawbone_page_41.md
+      - **Why:**
+        - If “first dog” and “second dog” are revealed as non-temporal (e.g., a training/metaphor register), ordering must rest on other anchors; keep the reverse as a live alternative until timekeeping is secured.
+      - **Disconfirming evidence:**
+        - Any later `N17` page (if found) or a clarified nautical-time cue fixes “first dog” as a time-of-day marker, restoring Pages/cains_jawbone_page_41.md → Pages/cains_jawbone_page_11.md as default.
+  - **Next falsification check:** confirm whether “Orchard” can be pinned to the same London setting as the Selfridges/Bond Street references (phrase-level or explicit place marker); if not, keep the time-only ordering as `MAYBE`.
 
 - **Cluster:** `N18` Diary/verify + falser-hand forgery voice (confidence: `MAYBE`)
   - **Pages:** Pages/cains_jawbone_page_78.md

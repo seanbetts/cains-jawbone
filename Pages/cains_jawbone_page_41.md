@@ -33,6 +33,7 @@ And then with horrid clearness I had seen a woman---not actually, if I could tru
 - **Ordering hypotheses:**
   - CERTAIN: add to Henry-occurrence cluster.
   - MAYBE: links to dog-watch register pages (e.g., Pages/cains_jawbone_page_11.md).
+  - LIKELY: precedes Pages/cains_jawbone_page_11.md (first dog → end of second dog; Selfridges-side ↔ Orchard).
   - MAYBE: London/Surrey place-wordplay thread (Selfridges/Bond Street ↔ Dittons/Mole area pages).
 - **Disconfirming evidence:**
   - If “first dog” is later clearly literal (not timekeeping) and the Henry here is a distinct Henry.
