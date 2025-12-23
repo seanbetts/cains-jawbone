@@ -16,6 +16,7 @@ I sit down alone at the appointed table and take up my pen to give all whom it m
   - Fixation on objects (pen) + lyrical sea/bird imagery; abrupt disgust (“Ugh.”).
 - **Ordering hypotheses:**
   - MAYBE: coastal-setting cluster (sea + “Chine”); compare with Pages/cains_jawbone_page_4.md and Pages/cains_jawbone_page_5.md (sea/lighthouse motifs).
+  - MAYBE: `N01` Aquarius pen register overlap (Aquarius pen ↔ Aquarius/Gemini pun on Pages/cains_jawbone_page_43.md), but unplaced until Casy Ferris / St. Lazarus-in-the-Chine recurs.
 - **Disconfirming evidence:**
   - If “Chine” is metaphorical or later placed away from sea.
 - **Research needed:**

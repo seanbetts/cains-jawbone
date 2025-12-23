@@ -24,6 +24,7 @@ This is good. She accepts Lover’s Delight from me. She has spoken very little 
   - Self-referential wordplay; astrological/handwriting sensitivity (possible link to “Aquarius” pen voice).
 - **Ordering hypotheses:**
   - MAYBE: links to Pages/cains_jawbone_page_1.md via “Aquarius” motif.
+  - LIKELY: follows Pages/cains_jawbone_page_17.md (Moon/Dawn venue pair + “bad for the hand” ↔ “ruin my hand”; woman seated opposite → “Lover’s Delight”/Banana Split exchange).
   - MAYBE: links to Pages/cains_jawbone_page_42.md via cocktail/bar setting and the same woman.
 - **Disconfirming evidence:**
   - If “Aquarius/Gemini” is shown to be purely menu-wordplay with no pen/astrology continuity elsewhere.

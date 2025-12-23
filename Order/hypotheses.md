@@ -217,6 +217,21 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Rationale:** Pen/hand/income fixation + astrology wordplay + “Dawn/Moon” venue language suggest a consistent narrator signature.
   - **Key anchors:** “mottled black and silver Aquarius”; “ruin my hand”; desserts/cocktails treated as titled items; “the Dawn”.
   - **Disconfirming evidence:** Alexander (“Ecky”) is later shown to be a different POV than the Aquarius-pen narrator, or “bad for the hand” is a widely shared motif across voices.
+  - **Phase 4 internal ordering hypotheses (N01):**
+    - **Sequence A — Moon/Dawn table scene** (confidence: `LIKELY`)
+      - **Pages (ordered):** Pages/cains_jawbone_page_17.md → Pages/cains_jawbone_page_43.md
+      - **Why:**
+        - Both pages stage the narrator between “the Moon” and “the Dawn” and use near-identical hand/temperance logic (“bad for the hand” ↔ “ruin my hand”) alongside a woman seated opposite the narrator.
+        - Pages/cains_jawbone_page_17.md’s arrival beat (“Ah, here she is… into the chair opposite”) reads as a clean prelude to Pages/cains_jawbone_page_43.md’s continuation (“She accepts Lover’s Delight from me… urges… Banana Split… Ecky passes over to the Dawn”).
+      - **Disconfirming evidence:**
+        - “the Moon”/“the Dawn” is later shown to be time-of-day metaphor rather than a spatial venue pair, or the woman/cast on Pages/cains_jawbone_page_17.md is shown to be incompatible with the woman/cast on Pages/cains_jawbone_page_43.md.
+    - **Sequence B — Aquarius pen seaside scene (unplaced)** (confidence: `MAYBE`)
+      - **Pages:** Pages/cains_jawbone_page_1.md
+      - **Why:**
+        - Shares the distinctive Aquarius/handwriting register (Aquarius pen ↔ Aquarius/Gemini pun), but lacks a phrase-level setting/cast anchor to place it relative to Pages/cains_jawbone_page_17.md → Pages/cains_jawbone_page_43.md.
+      - **Disconfirming evidence:**
+        - Casy Ferris / St. Lazarus-in-the-Chine is shown to be a different narrator/setting altogether, forcing Pages/cains_jawbone_page_1.md out of `N01`.
+  - **Next falsification check:** search for a second anchor (Casy Ferris, St. Lazarus-in-the-Chine, “whaups,” or the “dead old man”) on any other `N01`-adjacent page before attempting to place Pages/cains_jawbone_page_1.md within the Moon/Dawn sequence.
 
 - **Cluster:** `N12` Calabar/digitalis poison-logistics + murder-as-genre voice (confidence: `LIKELY`)
   - **Pages:** Pages/cains_jawbone_page_6.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_26.md, Pages/cains_jawbone_page_29.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_58.md, Pages/cains_jawbone_page_59.md, Pages/cains_jawbone_page_60.md
