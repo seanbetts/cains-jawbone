@@ -287,6 +287,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
       - **Disconfirming evidence:**
         - If the Yeats lines are later found to be repeated elsewhere in the puzzle in a way that makes this “continuation” non-unique, or if the “guest/patient” is shown to switch incompatibly between pages.
   - **Resolved check:** attempted to link Pages/cains_jawbone_page_80.md into the Pages/cains_jawbone_page_86.md → Pages/cains_jawbone_page_87.md run by searching for a phrase-level anchor (e.g., “bottled worms,” “inviolate spring,” “Fleming’s tincture,” “sherry”) and found **no repeats** on Pages/cains_jawbone_page_86.md/Pages/cains_jawbone_page_87.md; additionally, Pages/cains_jawbone_page_87.md’s guest is explicitly “she,” while Pages/cains_jawbone_page_80.md’s guest is “Sir Paul.” Treat Pages/cains_jawbone_page_80.md as **overlap-only** until a stronger shared anchor appears.
+  - **Overlap candidate:** Pages/cains_jawbone_page_24.md shares “Caroline” and the Yeats source line that Pages/cains_jawbone_page_87.md substitutes, but lacks the coastal-house/Sanders/letter anchors; keep overlap-only unless a second independent `N13` anchor emerges.
   - **Next falsification check:** if Pages/cains_jawbone_page_80.md is kept in `N13`, require a second independent anchor to the coastal-house segment (e.g., Caroline Jasmine, Sanders/bay house, or a distinctive repeated phrasing) before using it for ordering.
 
 - **Cluster:** `N15` “Green” victim + Compact syringe (first killing) voice (confidence: `LIKELY`)
@@ -837,7 +838,8 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - Reads as retrospective character-history for “Clem” (childhood), useful context but lacking a hard entry/exit cue that ties it to the instruction or house beats.
       - **Disconfirming evidence:**
         - A later page repeats a phrase-level anchor from Pages/cains_jawbone_page_27.md (lock-up on the Severn; Peaberry Mysore/Blue Mountain; “hushed my brat”), allowing firm placement.
-  - **Next falsification check:** verify whether “Caroline” on Pages/cains_jawbone_page_24.md corresponds to “Caroline Jasmine” on Pages/cains_jawbone_page_86.md and whether Pages/cains_jawbone_page_24.md’s opening Yeats line (“Cathleen… Houlihan”) is being used as a cross-page substitution key with Pages/cains_jawbone_page_87.md; if so, treat Pages/cains_jawbone_page_24.md as pending overlap with `N13` rather than a stable `N03` anchor.
+  - **Resolved check:** Pages/cains_jawbone_page_24.md shares two high-signal overlap anchors with `N13` (Pages/cains_jawbone_page_86.md → Pages/cains_jawbone_page_87.md): (1) “Caroline” appears only here and as “Caroline Jasmine” on Pages/cains_jawbone_page_86.md, and (2) the header line (“Of Cathleen, the daughter of Houlihan.”) is the original Yeats continuation that Pages/cains_jawbone_page_87.md substitutes (“Of the old bold mate of Henry Morgan.”). Treat Pages/cains_jawbone_page_24.md as **pending overlap** with `N13` and avoid using it as a sole anchor for `N03` internal ordering until disambiguated.
+  - **Next falsification check:** require a second independent `N13` anchor on Pages/cains_jawbone_page_24.md (e.g., Sanders/bay-house setting, Mithradates inoculation, “dead man’s letter,” or the same guest/patient) before moving it out of `N03` entirely.
 
 - **Cluster:** Debts and bills (confidence: `MAYBE`)
   - **Pages:** Pages/cains_jawbone_page_33.md, Pages/cains_jawbone_page_34.md

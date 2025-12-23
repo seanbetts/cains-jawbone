@@ -33,5 +33,6 @@ Next day I let Caroline Jasmine---what a name!---do her very damnedest for my gu
 - **Ordering hypotheses:**
   - CERTAIN: Pages/cains_jawbone_page_86.md → Pages/cains_jawbone_page_87.md (direct continuation of the quoted lines).
   - MAYBE: Pages/cains_jawbone_page_80.md is a thematic overlap (host/guest poisoning) but is not supported as an adjacent predecessor without a stronger shared anchor.
+  - LIKELY: Pages/cains_jawbone_page_24.md overlaps via Caroline + the Yeats “Cathleen… Houlihan” source line (do not treat as adjacency without a second independent anchor).
 - **Disconfirming evidence:**
   - If the poem quotation is reproduced elsewhere in full (no actual page-break continuity).

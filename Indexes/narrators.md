@@ -38,7 +38,7 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_3.md, Pages/cains_jawbone_page_24.md, Pages/cains_jawbone_page_27.md, Pages/cains_jawbone_page_30.md, Pages/cains_jawbone_page_32.md
   - **Confidence:** `LIKELY`
   - **Disconfirming evidence:** Page 24’s pope-name clue is proven unrelated to narrator identity, or Page 3’s “Clement” is later clearly identified as a different person from Page 24’s name-bearer.
-  - **Notes:** This narrator overlaps heavily with plant/poison motifs; avoid merging on motif alone. Page 30 is a `MAYBE` extension keyed by gardenia/Cape Jasmine taxonomy + suspicion-testing voice. Pages/cains_jawbone_page_24.md opens with the Yeats “Cathleen… Houlihan” line that is substituted on Pages/cains_jawbone_page_87.md; “Caroline” on Page 24 may overlap Caroline Jasmine (Pages/cains_jawbone_page_86.md) → treat as pending overlap with `N13` until disambiguated.
+  - **Notes:** This narrator overlaps heavily with plant/poison motifs; avoid merging on motif alone. Page 30 is a `MAYBE` extension keyed by gardenia/Cape Jasmine taxonomy + suspicion-testing voice. Pages/cains_jawbone_page_24.md overlaps `N13` (Caroline appears only here and as Caroline Jasmine on Pages/cains_jawbone_page_86.md; Yeats “Cathleen… Houlihan” source line vs Pages/cains_jawbone_page_87.md’s substitution) → treat Pages/cains_jawbone_page_24.md as pending between `N03`/`N13` until a second independent anchor resolves it.
 
 - `N04` — Great Lexicographer / fealty voice:
   - **Signature tells:** “Great Lexicographer” (Johnson) family-namesake framing; Ockham “razor” pun; bilingual quotations; clan/fealty language; learned allusion interleaved with personal devotion.
@@ -118,7 +118,7 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_80.md, Pages/cains_jawbone_page_86.md, Pages/cains_jawbone_page_87.md
   - **Confidence:** `LIKELY`
   - **Disconfirming evidence:** Pages 86–87 are later shown to be different speakers/settings despite the apparent direct continuation.
-  - **Notes:** Pages/cains_jawbone_page_80.md is a `MAYBE` extension keyed by the host/guest table register + implied poisoning setup; current linkage to the coastal-house segment is unsupported (no phrase-level anchor; Pages/cains_jawbone_page_87.md’s guest is explicitly “she” vs Pages/cains_jawbone_page_80.md’s “Sir Paul”), so treat it as overlap-only unless a stronger shared anchor appears.
+  - **Notes:** Pages/cains_jawbone_page_80.md is a `MAYBE` extension keyed by the host/guest table register + implied poisoning setup; current linkage to the coastal-house segment is unsupported (no phrase-level anchor; Pages/cains_jawbone_page_87.md’s guest is explicitly “she” vs Pages/cains_jawbone_page_80.md’s “Sir Paul”), so treat it as overlap-only unless a stronger shared anchor appears. Pages/cains_jawbone_page_24.md is another overlap candidate (Caroline + Yeats source line) but lacks the coastal-house/Sanders/letter anchors so keep it overlap-only for now.
 
 - `N14` — Babbie / Rainbow Sundae / hair-and-allusion voice:
   - **Signature tells:** rapturous hair fixation punctuated by French verse; dessert-order banter (Rainbow; Lent “second Sundae” rule); insistence on naming/attributing writers; guest watching Henry handled (cap on/off).

@@ -26,7 +26,7 @@ Next day I saw that my suspicions of Caroline had been well-founded. This was an
 - **Ordering hypotheses:**
   - LIKELY: connects to “Clement” thread (Pages/cains_jawbone_page_3.md) via the pope-name clue.
   - MAYBE: Pages/cains_jawbone_page_30.md → Pages/cains_jawbone_page_24.md (Page 24 opens “Next day…”, and both pages share a domestic suspicion beat + jasmine register; Sequence B in `Order/hypotheses.md`’s `N03` block).
-  - MAYBE: overlap with `N13` (Caroline Jasmine + Yeats substitution key): “Caroline” here could be Caroline Jasmine (Pages/cains_jawbone_page_86.md), and the Yeats line at the top of this page is the source-text counterpart of the substituted line on Pages/cains_jawbone_page_87.md.
+  - LIKELY: overlap with `N13` (Caroline + Yeats substitution key): “Caroline” appears only here and as “Caroline Jasmine” on Pages/cains_jawbone_page_86.md, and this page’s header line is the Yeats original that Pages/cains_jawbone_page_87.md substitutes (“Of the old bold mate of Henry Morgan.”).
   - MAYBE: jasmine motif link to Pages/cains_jawbone_page_22.md (cat Jasmine) and Pages/cains_jawbone_page_10.md (Jasmine’s day).
   - MAYBE: poison/plant cluster with Pages/cains_jawbone_page_6.md and Pages/cains_jawbone_page_21.md.
 - **Disconfirming evidence:**

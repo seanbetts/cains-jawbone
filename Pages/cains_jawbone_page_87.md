@@ -16,6 +16,7 @@ My guest has, I think, a Byzantine beauty, as of a golden snake. Is she, or is s
   - MAYBE: Woodstock (as Henry’s home reference).
 - **Quotes & allusions:**
   - CERTAIN: Yeats continuation: “But we have all bent low and low and kissed the quiet feet / Of Cathleen the daughter of Houlihan” — “The Song of Red Hanrahan” (*In the Seven Woods*, 1903), Page:In_the_Seven_Woods,_Yeats,_1903.djvu/32; CJ substitutes “Of the old bold mate of Henry Morgan.”
+  - LIKELY: Pages/cains_jawbone_page_24.md preserves the original Yeats continuation line as a standalone header (“Of Cathleen, the daughter of Houlihan.”), serving as a substitution key for this page’s opening line.
   - MAYBE: Henry Morgan (historical privateer/pirate) invoked via the CJ substitution.
 - **Motifs/continuity hooks:**
   - Coastal/bay imagery (twisted trees, thick-windowed house, hills under cloud).
