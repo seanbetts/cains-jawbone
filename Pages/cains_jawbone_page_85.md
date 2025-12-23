@@ -40,7 +40,8 @@ LIKELY WORDPLAY
 - **Voice/tells:**
   - Self-referential about name-jibes; detective/allusion density; calm after stress.
 - **Ordering hypotheses:**
-  - MAYBE: pairs with Pages/cains_jawbone_page_82.md (table setting + Henry + nearby dog).
+  - LIKELY: follows Pages/cains_jawbone_page_94.md (p94 ends “Henry was waiting for me”; here the narrator then “drove Henry home, and left him”).
+  - MAYBE: pairs with Pages/cains_jawbone_page_82.md as another table/dog/Henry vignette, but lacks a phrase-level continuation.
 - **Disconfirming evidence:**
   - If “Henry” here is not the same kind of figure as in Page 82 (or the settings diverge).
 - **Research needed:**

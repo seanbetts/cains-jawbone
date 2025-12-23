@@ -20,7 +20,7 @@ Naturally I looked up. And I tell you I found it awe-inspiring enough to actuall
 - **Voice/tells:**
   - Self-conscious embarrassment (blush at seeing name) + impatience with children.
 - **Ordering hypotheses:**
-  - MAYBE: belongs with Henry segments where the narrator is time-pressured and easily distracted.
+  - LIKELY: precedes Pages/cains_jawbone_page_85.md (Henry is “waiting for me” here; p85 then “drove Henry home, and left him”).
 - **Disconfirming evidence:**
   - If the “name in the window” is not the narrator’s own but a place/sign misread.
 - **Research needed:**

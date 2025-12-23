@@ -475,6 +475,22 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Rationale:** Pages 85 and 94 share a narrator-name clue (schoolboy “Kipling” jibe → King; narrator sees own name in a window-sign) and a recurring Henry-in-scene frame; additional detective/police allusions suggest nearby overlap with other Henry/detection pages.
   - **Key anchors:** “Kipling” as a name-jibe; narrator seeing their own name printed in a window; Baker Street / detective framing; Bartholomew dog at the table (Page 82) ↔ “Bart” chewing moccasins at a familiar table (Page 15).
   - **Disconfirming evidence:** the name clue resolves differently, the window-sign name refers to someone/something other than the narrator, or Page 15’s “Bart” is shown not to be the same dog as Bartholomew in Page 82.
+  - **Phase 4 internal ordering hypotheses (N08):**
+    - **Sequence A — Henry waiting → driven home** (confidence: `LIKELY`)
+      - **Pages (ordered):** Pages/cains_jawbone_page_94.md → Pages/cains_jawbone_page_85.md
+      - **Why:**
+        - Pages/cains_jawbone_page_94.md ends with “Henry was waiting for me,” while Pages/cains_jawbone_page_85.md contains the follow-through action “I drove Henry home, and left him.”
+        - Both pages share the narrator’s self-consciousness and distractibility in Henry-adjacent scenes (window-sign blush + children interruptions in p94; time/automation + post‑business calm in p85).
+      - **Disconfirming evidence:**
+        - If “Henry” in Pages/cains_jawbone_page_94.md is shown to be a different figure from the Henry driven home in Pages/cains_jawbone_page_85.md (incompatible roles/setting).
+    - **Sequence B — dog-at-table continuity (tentative)** (confidence: `MAYBE`)
+      - **Pages (ordered):** (MAYBE: Pages/cains_jawbone_page_15.md) → (MAYBE: Pages/cains_jawbone_page_82.md)
+      - **Why:**
+        - Both pages stage the narrator at a “familiar” table with a dog in close contact (Bart chewing moccasins; Bartholomew pawing ankles), consistent with “Bart” as a short form for Bartholomew.
+        - Pages/cains_jawbone_page_15.md’s explicit clock-wordplay (“coming of age hours” = 21:00) fits the `N08` signature’s time/wordplay habits.
+      - **Disconfirming evidence:**
+        - “Bart” is later shown not to be the same dog as Bartholomew, or Pages/cains_jawbone_page_15.md’s voice proves incompatible with the King narrator.
+  - **Next falsification check:** look for a phrase-level anchor tying Pages/cains_jawbone_page_82.md into the Pages/cains_jawbone_page_94.md → Pages/cains_jawbone_page_85.md sequence (beyond generic table/dog/Henry).
 
 - **Cluster:** `N06` Orator/artist + flowers/documents/OGPU voice (confidence: `LIKELY`)
   - **Pages:** Pages/cains_jawbone_page_73.md, Pages/cains_jawbone_page_74.md, Pages/cains_jawbone_page_75.md, Pages/cains_jawbone_page_83.md (MAYBE: Pages/cains_jawbone_page_71.md)

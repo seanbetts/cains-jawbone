@@ -41,6 +41,7 @@ LIKELY WORDPLAY
   - Reflective, civic-minded (“mighty heart of England”); detail-heavy macabre reportage.
 - **Ordering hypotheses:**
   - MAYBE: calendar-anchor cluster with other “to-day” historical-death pages (e.g. Pages/cains_jawbone_page_8.md).
+  - MAYBE: belongs to `N08` (King narrator) as an early table/dog/timekeeping vignette (Bart chewing moccasins + 21:00 clock pun); treat as a tentative lead-in to Pages/cains_jawbone_page_82.md unless stronger voice anchors appear.
 - **Disconfirming evidence:**
   - If the John Hewit/Sarah Drew event cannot be tied to a specific date (or is fictionalised).
 - **Research needed:**
