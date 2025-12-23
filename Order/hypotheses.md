@@ -265,6 +265,12 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - Pages/cains_jawbone_page_6.md frames a prior poison (“Electric Febrifuge” active ingredient) as having “let me down” before shifting someone onto foxgloves (digitalis), while Pages/cains_jawbone_page_21.md explicitly says “on the very day” the narrator “proved digitalis purpurea.”
       - **Disconfirming evidence:**
         - Foxgloves/digitalis in Pages/cains_jawbone_page_6.md are shown to be ornamental (not an operational poison thread), or “proved digitalis” in Pages/cains_jawbone_page_21.md refers to an unrelated experiment.
+    - **Sequence E — spareroom/garden continuity (tentative)** (confidence: `MAYBE`)
+      - **Pages (ordered):** Pages/cains_jawbone_page_6.md → Pages/cains_jawbone_page_29.md
+      - **Why:**
+        - Both pages reference the spare-room in the same house (“old spare-room in this very house” / “unsatisfactory visit to the spareroom”) and share the same poison-by-gardening register (failed remedy → foxgloves; ordeal-bean disappointment → plant-combination testing).
+      - **Disconfirming evidence:**
+        - Pages/cains_jawbone_page_29.md’s “old mineralogist” scene is later anchored to a different narrator/setting, making the shared spare-room reference incidental.
   - **Next falsification check:** stress-test whether “Henry” is a single consistent in-world person across the `N12` sub-strands (killer/manhunt vs “peerless investigator”); if incompatible, split the cluster into two narrators and keep only the Calabar/digitalis pages in `N12`.
 
 - **Cluster:** `N13` Host/guest poisoning + coastal-house segment (confidence: `LIKELY`)
