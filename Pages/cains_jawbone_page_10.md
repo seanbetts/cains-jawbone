@@ -21,7 +21,7 @@ Then came Hyacinth’s day. He laughed when he remembered that, as we were walki
   - Social observation + mild contempt (Boots’ speech; “childish”); sexual/romantic weariness (“tire of her already”).
 - **Ordering hypotheses:**
   - MAYBE: follows Pages/cains_jawbone_page_39.md (p39 ends with a bet being made; this page explicitly “went back two days and formulated their bet…”).
-  - MAYBE: precedes Pages/cains_jawbone_page_99.md if the “Hyacinth’s day” (Aug 16) anchor is part of a consecutive mid‑August daybook run leading into the Aug 17 “closing day in Potsdam” anchor.
+  - MAYBE: precedes Pages/cains_jawbone_page_99.md if the “Hyacinth’s day” (Aug 16) anchor is part of a consecutive mid‑August daybook run leading into the Aug 17 “closing day in Potsdam” anchor. Weak support beyond dates: both pages use an object-naming aside in the same slot (“…, as my mother had called them” vs “…, as Jasmine might so easily have called them”) and both lean on dog-coded idiom (“could have howled” vs “three more left”).
 - **Disconfirming evidence:**
   - If “Hyacinth’s day/Jasmine’s day” are shown to be private nicknames rather than public calendar anchors.
 - **Research needed:**

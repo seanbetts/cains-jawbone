@@ -23,7 +23,7 @@ And she wore a mauve love-knot on her breast, and the ends were unequal. He said
   - CERTAIN: “closing day in Potsdam” points to Frederick II’s death at Sanssouci (Potsdam) on 17 Aug 1786 (EB1911): https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Frederick_II._of_Prussia.
 - **Ordering hypotheses:**
   - LIKELY: precedes Pages/cains_jawbone_page_8.md (this page has the bow ends unequal + missing “jossers”; Page 8 reads like a later repetition of the same bow moment where “that time he found them and trimmed the left end”).
-  - MAYBE: part of a consecutive mid‑August daybook run (Aug 17 anchor) leading into Pages/cains_jawbone_page_8.md / Pages/cains_jawbone_page_19.md (Aug 18 anchors).
+  - MAYBE: part of a consecutive mid‑August daybook run (Aug 17 anchor) following Pages/cains_jawbone_page_10.md (Aug 16 “Hyacinth’s day”) and leading into Pages/cains_jawbone_page_8.md / Pages/cains_jawbone_page_19.md (Aug 18 anchors). Weak support beyond dates: Pages/cains_jawbone_page_10.md shares the object-naming aside structure (“…, as … called them”) and dog-idiom framing.
 - **Disconfirming evidence:**
   - If “killed” refers to an animal kill or metaphor rather than one of the in-world murders.
 - **Research needed:**

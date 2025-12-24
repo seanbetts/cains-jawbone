@@ -882,7 +882,8 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - Pages/cains_jawbone_page_79.md says “I made love to Flora again…”, reading as a continuation from Pages/cains_jawbone_page_22.md’s explicit “made love to Flora” + banishment aftermath.
       - **Disconfirming evidence:**
         - “Flora” is shown to be different referents on the two pages, or “again” is anchored to an intervening page (showing Pages/cains_jawbone_page_79.md’s “again” points elsewhere).
-  - **Next falsification check:** test whether Pages/cains_jawbone_page_10.md’s Hyacinth’s day (Aug 16) and Pages/cains_jawbone_page_99.md’s “closing day in Potsdam” (Aug 17) are intended as consecutive daybook anchors by finding a second continuity marker between the scenes (beyond date adjacency).
+  - **Resolved check:** found a weak, non-date continuity marker linking Pages/cains_jawbone_page_10.md and Pages/cains_jawbone_page_99.md beyond calendar adjacency: both use an object-naming aside in the same syntactic slot (“…, as my mother had called them” vs “…, as Jasmine might so easily have called them”) and both have strong dog-coded idiom tells (“could have howled” vs “three more left”).
+  - **Next falsification check:** look for a second concrete prop/cast continuity between Pages/cains_jawbone_page_10.md and Pages/cains_jawbone_page_99.md (beyond narrator-style) before upgrading their adjacency from `MAYBE` to `LIKELY`.
 
 - **Cluster:** `N03` Clement / pills / flowers-and-mercy register (confidence: `LIKELY`)
   - **Pages:** Pages/cains_jawbone_page_3.md, Pages/cains_jawbone_page_24.md, Pages/cains_jawbone_page_27.md, Pages/cains_jawbone_page_32.md (MAYBE: Pages/cains_jawbone_page_30.md)
