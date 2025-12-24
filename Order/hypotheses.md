@@ -896,12 +896,14 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - Both pages share the same structural posture: morning-after / “yesterday” appointment recap → narrator in motion (“I was on my way…”) with concrete kit/conditions (“weeping weather” ↔ “rain-proof coat, good shoes”) and a Whitman layer.
       - **Disconfirming evidence:**
         - The “yesterday” meeting/appointment is shown to involve different people/contexts on the two pages, or the physical setting markers make the pages incompatible as adjacent.
-    - **Sequence B — jasmine/house suspicion beat** (confidence: `MAYBE`)
+    - **Sequence B — jasmine/house suspicion beat** (confidence: `LIKELY`)
       - **Pages (ordered):** (MAYBE: Pages/cains_jawbone_page_30.md) → Pages/cains_jawbone_page_24.md
       - **Why:**
-        - Pages/cains_jawbone_page_24.md’s explicit “Next day…” implies a prior suspicion scene; Pages/cains_jawbone_page_30.md ends with active suspicion (“Can she be guilty?”) and shares a botanical jasmine focus (Cape Jasmine ↔ wild jasmine) plus domestic/household texture.
+        - Pages/cains_jawbone_page_30.md ends with an explicit suspicion question (“Can she be guilty?”) after a soup-tasting “try her out” test; Pages/cains_jawbone_page_24.md opens “Next day…” with a direct resolution (“my suspicions… had been well-founded”), reading like the immediate follow-through.
+        - Both pages share the same plant-savvy register (Cape Jasmine/gardenia taxonomy ↔ wild jasmine + roses + hellebore) and a domestic in-house suspicion framing.
       - **Disconfirming evidence:**
-        - Page 24’s “Next day” is anchored to a different prior scene than Page 30’s soup test, or the “she/Caroline” cast is clearly incompatible.
+        - Pages/cains_jawbone_page_24.md’s “Next day” is anchored to a different prior scene than Pages/cains_jawbone_page_30.md’s soup test, or the “she” on Pages/cains_jawbone_page_30.md is clearly not “Caroline” on Pages/cains_jawbone_page_24.md.
+        - Pages/cains_jawbone_page_24.md is confirmed to belong entirely with the `N13` host/guest poisoning run (via a second independent `N13` anchor), making this a cross-narrator overlap rather than a within-voice adjacency.
     - **Sequence C — “tiny Clem” backstory (unplaced)** (confidence: `MAYBE`)
       - **Pages:** Pages/cains_jawbone_page_27.md
       - **Why:**
