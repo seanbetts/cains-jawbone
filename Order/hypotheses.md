@@ -867,6 +867,19 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - Pages/cains_jawbone_page_39.md ends with “They made a bet.” Pages/cains_jawbone_page_10.md says “They went back two days and formulated their bet…”, which can read as returning to (and expanding) that earlier bet.
       - **Disconfirming evidence:**
         - “They went back two days” is purely conversational (not chronological), or the bet described on the two pages is shown to be different.
+    - **Sequence C — Tate sugar / domestic dialogue beat** (confidence: `MAYBE`)
+      - **Pages (ordered):** Pages/cains_jawbone_page_48.md → Pages/cains_jawbone_page_88.md
+      - **Why:**
+        - “Tate” (as sugar stash) appears only on Pages/cains_jawbone_page_48.md and Pages/cains_jawbone_page_88.md, and both pages share the dog-as-observer “he said… she said…” domestic register.
+        - If the daybook anchors are intended, Pages/cains_jawbone_page_48.md’s candidate Aug 12 “to-day” could precede Pages/cains_jawbone_page_88.md’s Aug 13 (St. Wigbert’s day).
+      - **Disconfirming evidence:**
+        - “Tate” is shown to be a different referent on one of the pages (not sugar), or the couple/scene proves incompatible (different setting/props).
+    - **Sequence D — Flora mating continuation** (confidence: `LIKELY`)
+      - **Pages (ordered):** Pages/cains_jawbone_page_22.md → Pages/cains_jawbone_page_79.md
+      - **Why:**
+        - Pages/cains_jawbone_page_79.md says “I made love to Flora again…”, reading as a continuation from Pages/cains_jawbone_page_22.md’s explicit “made love to Flora” + banishment aftermath.
+      - **Disconfirming evidence:**
+        - “Flora” is shown to be different referents on the two pages, or “again” is anchored to an intervening page (showing Pages/cains_jawbone_page_79.md’s “again” points elsewhere).
   - **Next falsification check:** test whether Pages/cains_jawbone_page_10.md’s Hyacinth’s day (Aug 16) and Pages/cains_jawbone_page_99.md’s “closing day in Potsdam” (Aug 17) are intended as consecutive daybook anchors by finding a second continuity marker between the scenes (beyond date adjacency).
 
 - **Cluster:** `N03` Clement / pills / flowers-and-mercy register (confidence: `LIKELY`)

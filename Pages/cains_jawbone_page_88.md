@@ -23,6 +23,8 @@ I always liked to listen to him. It was St. Wigbert’s day, I was told, and Aug
   - Jasmine reference (“Tom and Flora’s Jasmine”) LIKELY refers to the named cat on Pages/cains_jawbone_page_22.md (bridge to Pages/cains_jawbone_page_46.md / Pages/cains_jawbone_page_99.md), but do not use the shared name “Flora” as an ordering bridge unless another non-name anchor appears.
 - **Voice/tells:**
   - Social-observer stance: repetitive “He said… She said…” with narrator not fully understanding.
+- **Ordering hypotheses:**
+  - MAYBE: follows Pages/cains_jawbone_page_48.md (shared Tate sugar + similar “he said… she said…” domestic register; see `Order/hypotheses.md` `N02` Sequence C).
 - **Disconfirming evidence:**
   - If St. Wigbert’s day is shown to be an in-world nickname rather than a calendar marker.
   - If “Tom and Flora’s Jasmine” is shown to be a different Jasmine (person/plant/paint) unrelated to the Page 22 cat.
