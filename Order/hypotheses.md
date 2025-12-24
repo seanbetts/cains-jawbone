@@ -432,7 +432,8 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
       - **Disconfirming evidence:**
         - “she” in Pages/cains_jawbone_page_47.md is proven to be someone other than the woman in Pages/cains_jawbone_page_42.md, or the tea vocabulary is shown to be coded and unrelated to the seduction scene.
   - **Resolved check:** searched for a phrase-level/attribute-level repeat tying Pages/cains_jawbone_page_47.md’s “she” to Pages/cains_jawbone_page_42.md’s tall “Julienne?” (name guess, lace/butterfly, jaguar imagery) and found no second anchor beyond Henry-in-scene + generic infatuation language; keep Pages/cains_jawbone_page_47.md as a `MAYBE` extension rather than an adjacency lock.
-  - **Next falsification check:** find any second, non-generic anchor that links Pages/cains_jawbone_page_47.md to the Pages/cains_jawbone_page_92.md → Pages/cains_jawbone_page_42.md sequence (e.g., repeated tea/menu naming, a repeat of the “surface”/eye imagery, or a shared descriptive phrase for “she”).
+  - **Resolved check:** searched corpus for non-generic Pages/cains_jawbone_page_47.md anchors (“Orange Pekoe”, “Special Orange Supreme”, “terrible conjunction of two little words”, Babs, “silver frogs”) and found them unique to Pages/cains_jawbone_page_47.md (no repeats on Pages/cains_jawbone_page_92.md / Pages/cains_jawbone_page_42.md or elsewhere), so no additional adjacency evidence emerged.
+  - **Next falsification check:** try to identify the hot-verandah drought→first-rain memory (place/time) to see if it aligns with another N21 page’s setting details (without assuming adjacency).
 
 - **Cluster:** `N22` Morbid London decoder (plague quotation voice) (confidence: `MAYBE`)
   - **Pages:** Pages/cains_jawbone_page_2.md
