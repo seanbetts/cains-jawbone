@@ -28,6 +28,7 @@ In one way, of course, I was glad they were married. I had always been rather a 
   - Naïve/undereducated self-description (“real education… just listening to him”); name/identity sensitivity (“Hal”).
 - **Ordering hypotheses:**
   - MAYBE: animal POV segment (chop + naming + naïve register).
+  - MAYBE: follows Pages/cains_jawbone_page_88.md as a later domestic dialogue beat (shares the “listening to him” phrasing + “he said to her, out of a book” dynamic; see `Order/hypotheses.md` `N02` Sequence C). Falsifier: “listening to him” is shown to be a generic tic, or the couple/setting is incompatible.
   - MAYBE: connects to jasmine motif thread and to “murderous doctor”/doctor-leading-old-man pages.
   - Resolved: no second Dec 14 (Albert/Prince Consort) anchor found in the Dog POV set, so keep this page separate from the Aug date spine pending a non-date continuity bridge.
 - **Disconfirming evidence:**

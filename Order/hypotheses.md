@@ -868,12 +868,14 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
       - **Disconfirming evidence:**
         - “They went back two days” is purely conversational (not chronological), or the bet described on the two pages is shown to be different.
     - **Sequence C — Tate sugar / domestic dialogue beat** (confidence: `MAYBE`)
-      - **Pages (ordered):** Pages/cains_jawbone_page_48.md → Pages/cains_jawbone_page_88.md
+      - **Pages (ordered):** Pages/cains_jawbone_page_48.md → Pages/cains_jawbone_page_88.md → (MAYBE: Pages/cains_jawbone_page_46.md)
       - **Why:**
         - “Tate” (as sugar stash) appears only on Pages/cains_jawbone_page_48.md and Pages/cains_jawbone_page_88.md, and both pages share the dog-as-observer “he said… she said…” domestic register.
         - If the daybook anchors are intended, Pages/cains_jawbone_page_48.md’s candidate Aug 12 “to-day” could precede Pages/cains_jawbone_page_88.md’s Aug 13 (St. Wigbert’s day).
+        - Pages/cains_jawbone_page_46.md shares the exact “listening to him” phrasing with Pages/cains_jawbone_page_88.md and the “he said to her, out of a book” quotation dynamic; treat it as a possible later domestic beat (its Dec 14 daybook anchor implies it is not adjacent to the mid‑August run).
       - **Disconfirming evidence:**
         - “Tate” is shown to be a different referent on one of the pages (not sugar), or the couple/scene proves incompatible (different setting/props).
+        - “listening to him” is shown to be a generic narrator tic reused across unrelated dog segments, or Pages/cains_jawbone_page_46.md’s couple/context proves incompatible with the Pages/cains_jawbone_page_48.md/Pages/cains_jawbone_page_88.md domestic setup.
     - **Sequence D — Flora mating continuation** (confidence: `LIKELY`)
       - **Pages (ordered):** Pages/cains_jawbone_page_22.md → Pages/cains_jawbone_page_79.md
       - **Why:**
