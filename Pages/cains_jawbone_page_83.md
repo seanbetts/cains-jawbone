@@ -18,7 +18,7 @@ A flower-seller, fed ruddily, it seemed, on hope, broke in and would have made a
 - **Motifs/continuity hooks:**
   - Flowers: countryside-flower catalogue; red rose “sole survivor”.
   - Sensory gesture: tasting dew from the rose.
-  - MAYBE: metallic object drop/retrieval is a continuity prop (LIKELY a coin/half-crown, echoing Pages/cains_jawbone_page_74.md’s “half-crowns dropped upon marble” phrasing).
+  - MAYBE: metallic object drop/retrieval is a continuity prop; LIKELY the object is a coin/half-crown (echoing Pages/cains_jawbone_page_74.md’s “half-crowns dropped upon marble” simile and fitting the public-floor drop/retrieval beat).
   - MAYBE: “mal de mer” (sea-sickness) simile echoes Pages/cains_jawbone_page_73.md’s Marseille/old-Port initiation memory (additional cosmopolitan/travel tell within `N06`).
 - **Voice/tells:**
   - Lyrical flower-cataloguing + abrupt attention shifts (newsboys, “news?” anxiety).
@@ -27,4 +27,4 @@ A flower-seller, fed ruddily, it seemed, on hope, broke in and would have made a
 - **Disconfirming evidence:**
   - If the red-rose phrasing is generic and no other shared props/voices recur.
 - **Research needed:**
-  - Identify what the metallic object is and whether it recurs.
+  - Confirm whether the “metallic object” is a coin/half-crown (vs key/utensil/case) via an explicit naming elsewhere.

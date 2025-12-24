@@ -124,7 +124,7 @@ Template:
 - **Coins / half-crowns / dropped metallic object**
   - **Instances / variants:** “words rang like tense half-crowns dropped upon marble”; “old man dropped some metallic object”
   - **Pages:** Pages/cains_jawbone_page_74.md, Pages/cains_jawbone_page_83.md
-  - **Notes:** MAYBE prop-level continuity within the `N06` flower/documents run (if the “metallic object” is a coin/half-crown rather than an unrelated item).
+  - **Notes:** LIKELY the “metallic object” in Pages/cains_jawbone_page_83.md is a coin/half-crown, giving prop-level continuity within the `N06` flower/documents run (disconfirm if later text identifies it as a key/utensil/case).
 
 - **Cigarettes (Nestor)**
   - **Instances / variants:** “lit a Nestor”
