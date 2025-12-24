@@ -24,8 +24,9 @@ I always liked to listen to him. It was St. Wigbert’s day, I was told, and Aug
 - **Voice/tells:**
   - Social-observer stance: repetitive “He said… She said…” with narrator not fully understanding.
 - **Ordering hypotheses:**
-  - MAYBE: follows Pages/cains_jawbone_page_48.md (shared Tate sugar + similar “he said… she said…” domestic register; see `Order/hypotheses.md` `N02` Sequence C).
+  - LIKELY: follows Pages/cains_jawbone_page_48.md (shared Tate sugar + similar “he said… she said…” domestic register; see `Order/hypotheses.md` `N02` Sequence C).
   - LIKELY: precedes Pages/cains_jawbone_page_46.md as a later domestic beat: this page’s “first quarrel” reads naturally as earlier than “glad they were married,” and both pages share the “listen to him” framing plus the Tom/Jasmine household reference (see `Order/hypotheses.md` `N02` Sequence C).
+  - LIKELY: precedes Pages/cains_jawbone_page_39.md (“how few the other had done so late in the year” → “two all for that year”; see `Order/hypotheses.md` `N02` Sequence B).
 - **Disconfirming evidence:**
   - If St. Wigbert’s day is shown to be an in-world nickname rather than a calendar marker.
   - If “Tom and Flora’s Jasmine” is shown to be a different Jasmine (person/plant/paint) unrelated to the Page 22 cat.

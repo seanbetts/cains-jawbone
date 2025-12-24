@@ -19,7 +19,8 @@ She said it didn’t matter what they had done, because she was still an M.D., a
   - Naïve literalism (vicarious → vicar); plain-spoken class contrast on clothing.
   - MAYBE: animal-coded voice (coat/undercoat language; “pottered after rabbits”).
 - **Ordering hypotheses:**
-  - MAYBE: precedes Pages/cains_jawbone_page_10.md (p39 ends “They made a bet.”; p10 explicitly “went back two days and formulated their bet…”).
+  - LIKELY: follows Pages/cains_jawbone_page_88.md (p88 ends with the couple arguing about how few the other had done “so late in the year”; this page continues with “two all for that year” + the same literalist misunderstanding register).
+  - LIKELY: precedes Pages/cains_jawbone_page_10.md (p39 ends “They made a bet.”; p10 explicitly “went back two days and formulated their bet…”).
   - MAYBE: belongs with other bet/points pages (e.g., Pages/cains_jawbone_page_22.md) if the “points” scoring language recurs as a shared domestic motif.
 - **Disconfirming evidence:**
   - If later reveals “M.D.” isn’t an academic degree but another acronym used repeatedly by this narrator.

@@ -861,12 +861,15 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
 	      - **Disconfirming evidence:**
 	        - A different page supplies the “same bow” setup that Pages/cains_jawbone_page_8.md’s “Later…” refers to, or “jossers” is shown to refer to something other than the scissors/implements used to trim/adjust the bow ends.
 	        - Mr. Hall/knob appears in two unrelated households, making the shared mechanism non-continuous.
-    - **Sequence B — bet backtracking beat** (confidence: `MAYBE`)
-      - **Pages (ordered):** Pages/cains_jawbone_page_39.md → Pages/cains_jawbone_page_10.md
+    - **Sequence B — year tally + bet beat** (confidence: `LIKELY`)
+      - **Pages (ordered):** Pages/cains_jawbone_page_88.md → Pages/cains_jawbone_page_39.md → Pages/cains_jawbone_page_10.md
       - **Why:**
-        - Pages/cains_jawbone_page_39.md ends with “They made a bet.” Pages/cains_jawbone_page_10.md says “They went back two days and formulated their bet…”, which can read as returning to (and expanding) that earlier bet.
+        - Pages/cains_jawbone_page_88.md ends with the couple arguing about “how few the other had done so late in the year,” and Pages/cains_jawbone_page_39.md continues with “two all for that year” + the same sort of literalist misunderstanding (vicarious → vicar).
+        - Pages/cains_jawbone_page_39.md then ends with “They made a bet.” Pages/cains_jawbone_page_10.md expands it (“went back two days and formulated their bet…”) with a fuller “third point” / stakes description.
+        - If the daybook anchors are intended, Pages/cains_jawbone_page_39.md’s Aug 14 “last day” (George Combe) and Pages/cains_jawbone_page_10.md’s Aug 16 (Hyacinth’s day) align with “went back two days”.
       - **Disconfirming evidence:**
-        - “They went back two days” is purely conversational (not chronological), or the bet described on the two pages is shown to be different.
+        - Pages/cains_jawbone_page_88.md’s “few… so late in the year” refers to a different tally than Pages/cains_jawbone_page_39.md’s “two all for that year,” or the cast/setting proves incompatible.
+        - “They went back two days” is purely conversational (not chronological), or the bet described on Pages/cains_jawbone_page_39.md and Pages/cains_jawbone_page_10.md is shown to be different.
     - **Sequence C — Tate sugar / domestic dialogue beat** (confidence: `LIKELY`)
       - **Pages (ordered):** Pages/cains_jawbone_page_48.md → Pages/cains_jawbone_page_88.md → Pages/cains_jawbone_page_46.md
       - **Why:**
