@@ -403,7 +403,8 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - If Pages/cains_jawbone_page_31.md’s “these two” refers to sounds/voices rather than bodies, it could be a later reflective preface rather than a lead-in to Pages/cains_jawbone_page_13.md’s corpse scene.
       - **Disconfirming evidence:**
         - A clearer continuity marker appears tying Pages/cains_jawbone_page_31.md’s “this very place” to Pages/cains_jawbone_page_13.md’s named location (Grantham market place), or a direct phrase-level echo fixes the sequence.
-  - **Next falsification check:** try to pin “this very place” on Pages/cains_jawbone_page_31.md to Grantham (conduit/market-place anchor) or to a different named location; if it’s not Grantham, downgrade Sequence A to `MAYBE`.
+  - **Resolved check:** Pages/cains_jawbone_page_13.md’s “conduit dating from 1597… in the market place” is a high-signal Grantham anchor; treat Pages/cains_jawbone_page_31.md’s “in this very place” as referring to the same Grantham setting within the `N20` incident, supporting Pages/cains_jawbone_page_31.md → Pages/cains_jawbone_page_13.md.
+  - **Next falsification check:** find a third page that repeats a unique N20 anchor (Grantham/conduit, “Newdigate fringe,” “hip pocket,” “Caseus, ah!”) to decide whether `N20` is a tight two-page incident or a broader run.
 
 - **Cluster:** `N21` Dazed infatuation + bar/tea imagery voice (confidence: `LIKELY`)
   - **Pages:** Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_47.md, Pages/cains_jawbone_page_49.md, Pages/cains_jawbone_page_92.md

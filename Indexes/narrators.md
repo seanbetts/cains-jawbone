@@ -174,7 +174,7 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_31.md
   - **Confidence:** `LIKELY`
   - **Disconfirming evidence:** the “nomenclature” focus and grim-scene familiarity are shown to belong to separate narrators with incompatible backstory (e.g., Paris night vs Grantham corpse scene).
-  - **Notes:** Watch for recurrence of “naming business” and pocket/weapon gestures as stronger anchors.
+  - **Notes:** Grantham is a high-signal location anchor on Pages/cains_jawbone_page_13.md (1597 market-place conduit), which likely pins Pages/cains_jawbone_page_31.md’s “this very place” in the same incident; watch for recurrence of “naming business” and pocket/weapon gestures as stronger anchors.
 
 - `N21` — Dazed infatuation + bar/tea imagery voice:
   - **Signature tells:** dazed, self-referential repetition (“I always…”); sensual fixation on surfaces/eyes/hair; social-table/bar settings with drink/tea naming; overt fascination with Henry (and Henry policing diction).
