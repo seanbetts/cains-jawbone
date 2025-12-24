@@ -24,6 +24,7 @@ But next day that religious fellow’s head drapery, if I might thus unscientifi
   - Determined, moralising self-casting (“no intention of letting up”); classical-name register.
 - **Ordering hypotheses:**
   - MAYBE: prelude beat for `N06` (not necessarily adjacent): eye strike → later eyesight failure on Pages/cains_jawbone_page_74.md / Pages/cains_jawbone_page_75.md; “red May” → “blight on the May” hinge.
+  - MAYBE: additional low-signal `N06` overlap via the inherited/descent framing + Hamlet: the coastguard’s “direct descent” joke + Hamlet quote sits near Pages/cains_jawbone_page_73.md’s “inherited” name discussion and “Hamlet’s one” comparison.
 - **Disconfirming evidence:**
   - If “May” is clearly only the calendar month and has no continuity with later “May” references.
 - **Research needed:**
