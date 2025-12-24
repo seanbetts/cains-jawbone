@@ -25,4 +25,4 @@ I had always thought that Tate essentially meant sugar. This I liked almost next
 - **Disconfirming evidence:**
   - If later context makes the “nose” and “sad dog” language purely idiomatic (human narrator).
 - **Research needed:**
-  - Resolved (candidate): “another” is LIKELY a different Tate (Nahum Tate) rather than Henry Tate; treat “to-day” as a candidate 12 Aug death-day anchor unless later context contradicts.
+  - Resolved: “another” is LIKELY Nahum Tate (not Henry Tate); treat “to-day” as a LIKELY Aug 12 (Tate died 12 Aug 1715; DNB) daybook anchor unless later context contradicts.
