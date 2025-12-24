@@ -853,14 +853,14 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Key anchors:** pulled ears + low noise; “no vibration… of my latter end”; “lowered myself and made love”; “provided a chop for me”; “nearly fell on my nose”; “my mistress” framing + “could have howled”; coat/undercoat literalism (“inherited coat”) and “vicarious”→vicar misunderstanding; Mr. Hall + knob/bell summons; Tate sugar hoarding + “I did not entirely understand” register.
   - **Disconfirming evidence:** later context shows these are human metaphors (or the POV is clearly human).
   - **Phase 4 internal ordering hypotheses (N02):**
-    - **Sequence A — bow + Mr. Hall/knob continuity** (confidence: `LIKELY`)
-      - **Pages (ordered):** Pages/cains_jawbone_page_99.md → Pages/cains_jawbone_page_8.md → Pages/cains_jawbone_page_19.md
-      - **Why:**
-        - Pages/cains_jawbone_page_99.md’s unequal love-knot ends + missing “jossers” reads as the earlier instance that Pages/cains_jawbone_page_8.md references (“Later she was wearing the same bow… and that time he found them and trimmed the left end”).
-        - Pages/cains_jawbone_page_8.md ends with “twiddled the black knobby thing” and Mr. Hall bursting in, and Pages/cains_jawbone_page_19.md immediately reuses the knob + Mr. Hall entry (“came into the room again”).
-      - **Disconfirming evidence:**
-        - A different page supplies the “same bow” setup that Pages/cains_jawbone_page_8.md’s “Later…” refers to, or “jossers” is shown to mean a different object than the bow ends.
-        - Mr. Hall/knob appears in two unrelated households, making the shared mechanism non-continuous.
+	    - **Sequence A — bow + Mr. Hall/knob continuity** (confidence: `LIKELY`)
+	      - **Pages (ordered):** Pages/cains_jawbone_page_99.md → Pages/cains_jawbone_page_8.md → Pages/cains_jawbone_page_19.md
+	      - **Why:**
+	        - Pages/cains_jawbone_page_99.md’s unequal love-knot ends + missing “jossers” reads as the earlier instance that Pages/cains_jawbone_page_8.md references (“Later she was wearing the same bow… and that time he found them and trimmed the left end”). (“Josser” is attested as slang “a simple fellow” (C. J. Dennis glossary), so “the silly old jossers” reads naturally as a jocular term for misplaced scissors/implements.)
+	        - Pages/cains_jawbone_page_8.md ends with “twiddled the black knobby thing” and Mr. Hall bursting in, and Pages/cains_jawbone_page_19.md immediately reuses the knob + Mr. Hall entry (“came into the room again”).
+	      - **Disconfirming evidence:**
+	        - A different page supplies the “same bow” setup that Pages/cains_jawbone_page_8.md’s “Later…” refers to, or “jossers” is shown to refer to something other than the scissors/implements used to trim/adjust the bow ends.
+	        - Mr. Hall/knob appears in two unrelated households, making the shared mechanism non-continuous.
     - **Sequence B — bet backtracking beat** (confidence: `MAYBE`)
       - **Pages (ordered):** Pages/cains_jawbone_page_39.md → Pages/cains_jawbone_page_10.md
       - **Why:**
@@ -882,8 +882,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - Pages/cains_jawbone_page_79.md says “I made love to Flora again…”, reading as a continuation from Pages/cains_jawbone_page_22.md’s explicit “made love to Flora” + banishment aftermath.
       - **Disconfirming evidence:**
         - “Flora” is shown to be different referents on the two pages, or “again” is anchored to an intervening page (showing Pages/cains_jawbone_page_79.md’s “again” points elsewhere).
-  - **Resolved check (Pages/cains_jawbone_page_10.md ↔ Pages/cains_jawbone_page_99.md):** upgraded their adjacency to `LIKELY` (still primarily date-driven). Beyond calendar adjacency they share (1) an object-naming aside in the same syntactic slot (“…, as my mother had called them” vs “…, as Jasmine might so easily have called them”), (2) a shared singular/plural vocabulary focus (Pages/cains_jawbone_page_10.md explicitly complains about singular/plural misuse around “Boots”; Pages/cains_jawbone_page_99.md foregrounds the plural-only “jossers” needed to fix unequal bow ends), and (3) strong dog-coded idiom (“could have howled” vs “three more left”).
-  - **Next falsification check:** confirm “jossers” is in fact the cutting/adjusting tool for the bow ends (not a different referent), otherwise downgrade this adjacency back to date-only `MAYBE`.
+  - **Resolved check (Pages/cains_jawbone_page_10.md ↔ Pages/cains_jawbone_page_99.md):** kept their adjacency as `LIKELY` (still primarily date-driven). Beyond calendar adjacency they share (1) an object-naming aside in the same syntactic slot (“…, as my mother had called them” vs “…, as Jasmine might so easily have called them”), (2) a shared singular/plural vocabulary focus (Pages/cains_jawbone_page_10.md explicitly complains about singular/plural misuse around “Boots”; Pages/cains_jawbone_page_99.md foregrounds the plural-only “jossers” needed to fix unequal bow ends; “josser” is attested as slang “a simple fellow” (C. J. Dennis glossary), supporting “the silly old jossers” as a jocular label for misplaced scissors/implements), and (3) strong dog-coded idiom (“could have howled” vs “three more left”).
 
 - **Cluster:** `N03` Clement / pills / flowers-and-mercy register (confidence: `LIKELY`)
   - **Pages:** Pages/cains_jawbone_page_3.md, Pages/cains_jawbone_page_24.md, Pages/cains_jawbone_page_27.md, Pages/cains_jawbone_page_32.md (MAYBE: Pages/cains_jawbone_page_30.md)

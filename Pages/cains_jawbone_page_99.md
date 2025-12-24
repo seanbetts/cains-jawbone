@@ -12,6 +12,7 @@ And she wore a mauve love-knot on her breast, and the ends were unequal. He said
   - CERTAIN: narrator admits a prior killing (“she wasn’t the one I’d killed”).
 - **Motifs/continuity hooks:**
   - Bow/love-knot ends unequal + attempted trimming mirrors earlier bow/left-end trimming language (compare Pages/cains_jawbone_page_8.md).
+  - Terminology: “josser” = “a simple fellow” (C. J. Dennis, *The Songs of a Sentimental Bloke* (1915), Glossary: https://en.wikisource.org/wiki/The_Songs_of_a_Sentimental_Bloke/The_Glossary). Here “the silly old jossers” reads as a jocular term for the missing scissors/implements needed to trim/adjust the bow ends (supports Pages/cains_jawbone_page_99.md → Pages/cains_jawbone_page_8.md).
   - Jasmine/cat thread: compare Pages/cains_jawbone_page_22.md (“that cat Jasmine”) and Pages/cains_jawbone_page_46.md (“matter of Jasmine”).
   - “Put my foot in it… Still I had three more left” suggests a non-human POV (four-footed) or heavy idiom/wordplay.
   - Grooming: “dry shampoo… on the old chest” (voice/POV tell).

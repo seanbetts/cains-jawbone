@@ -145,6 +145,13 @@ Template:
   - **Status:** `resolved`
   - **Result:** A household/service call-bell (bell-push/knob): it’s “twiddled” to ring and summon a servant; Mr. Hall is the responding “lower orders” man/servant who enters when the bell is rung (cf. Pages/cains_jawbone_page_9.md opening: “The sound of the bell…”).
 
+- **Item:** Define “josser/jossers” (Page 99) and confirm referent
+  - **Type:** term
+  - **Pages:** Pages/cains_jawbone_page_99.md, Pages/cains_jawbone_page_8.md
+  - **Why it matters:** Supports the bow/“jossers” continuity that links Pages/cains_jawbone_page_99.md → Pages/cains_jawbone_page_8.md within `N02` (Dog POV).
+  - **Status:** `resolved`
+  - **Result:** “Josser.—A simple fellow.” (C. J. Dennis, *The Songs of a Sentimental Bloke* (1915), Glossary): https://en.wikisource.org/wiki/The_Songs_of_a_Sentimental_Bloke/The_Glossary. In context, “the silly old jossers” reads as a jocular term for the missing scissors/implements needed to trim/adjust the bow ends, matching Pages/cains_jawbone_page_8.md’s “he found them and trimmed the left end.”
+
 - **Item:** Identify which date “Hyacinth’s day” refers to (St. Hyacinth)
   - **Type:** date
   - **Pages:** Pages/cains_jawbone_page_10.md

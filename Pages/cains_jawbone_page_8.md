@@ -32,7 +32,7 @@ LIKELY WORDPLAY
   - Guido/Kilmarnock/Balmerino are shown to be non-calendar allusions in this context
 - **Motifs/continuity hooks:**
   - Measuring/optics: “powerful glass”; careful measuring; “forty inches”.
-  - Bows; trimming/piercing; “black knobby thing… black and red” (mechanical detail).
+  - Bows; trimming/piercing; “he found them and trimmed the left end” likely refers to the missing scissors/implements (“jossers” on Pages/cains_jawbone_page_99.md) used to fix the unequal bow ends; “black knobby thing… black and red” (mechanical detail).
   - Bells/summoning: “black knobby thing” is LIKELY a call-bell/bell-push used to summon Mr. Hall (cf. Pages/cains_jawbone_page_9.md bell opening).
 - **Voice/tells:**
   - Naïve about optics (“never could quite understand how it worked”); self-deprecating (“better brain”).
