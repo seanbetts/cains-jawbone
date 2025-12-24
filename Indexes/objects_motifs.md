@@ -121,6 +121,11 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_74.md
   - **Notes:** LIKELY contrast between Goya portraits of the Countess of Chinchón and a hanging-scene print from *Los Desastres de la Guerra*; Calvert’s *Goya, an account of his life and works* (Gutenberg #64514) lists both: https://www.gutenberg.org/cache/epub/64514/pg64514.txt
 
+- **Coins / half-crowns / dropped metallic object**
+  - **Instances / variants:** “words rang like tense half-crowns dropped upon marble”; “old man dropped some metallic object”
+  - **Pages:** Pages/cains_jawbone_page_74.md, Pages/cains_jawbone_page_83.md
+  - **Notes:** MAYBE prop-level continuity within the `N06` flower/documents run (if the “metallic object” is a coin/half-crown rather than an unrelated item).
+
 - **Cigarettes (Nestor)**
   - **Instances / variants:** “lit a Nestor”
   - **Pages:** Pages/cains_jawbone_page_54.md

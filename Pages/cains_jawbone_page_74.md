@@ -19,6 +19,7 @@ photographs of young and laughing athletes, lads who had profited and gone on, a
   - Secrecy/blackmail risk: “Will anyone know about them?” / “no danger… bought them secretly”.
   - Eyes/vision failure: can’t tell “A hanging man? A countess?”
   - Red rose + white remaining (echoes earlier colour/flower triads).
+  - MAYBE: coin/metal-drop imagery (“half-crowns dropped upon marble”) is later literalised as the old man dropping a “metallic object” on Pages/cains_jawbone_page_83.md (prop-level continuity if the object is a coin/half-crown).
   - LIKELY: “them” = the plural items bought secretly in Leningrad (photographs/prints/reproductions and/or documents), with the Goya reproduction likely one of the set.
 - **Voice/tells:**
   - Sensual + political; charged metaphors (“tense half-crowns… on marble”).

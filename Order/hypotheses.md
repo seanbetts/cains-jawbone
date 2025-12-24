@@ -705,6 +705,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
       - **Why:**
         - Pages/cains_jawbone_page_83.md continues the flower-state progression from the `73 → 74 → 75` run: Pages/cains_jawbone_page_74.md says “The red rose and the white only remained,” Pages/cains_jawbone_page_75.md treats those “two other flowers” as key props, and Pages/cains_jawbone_page_83.md later has “the red rose, the sole survivor.”
         - Pages/cains_jawbone_page_83.md also preserves the same social triangle as Pages/cains_jawbone_page_74.md: an “old man” present, a “she” who asks what “he” meant, and Henry moving in-scene.
+        - MAYBE: Pages/cains_jawbone_page_74.md’s coin-drop image (“half-crowns dropped upon marble”) is literalised by Pages/cains_jawbone_page_83.md’s old man dropping a “metallic object” (prop-level continuity if it’s a coin/half-crown).
       - **Disconfirming evidence:**
         - Pages/cains_jawbone_page_83.md’s “old man”/Henry context is later shown to be incompatible with Pages/cains_jawbone_page_74.md’s OGPU/Leningrad scene (distinct voices or settings).
     - **Prelude beat — May/eye-strike (not adjacent)** (confidence: `MAYBE`)
@@ -713,7 +714,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - Pages/cains_jawbone_page_71.md supplies “red May” language and a concrete eye-strike by Henry (“hit me… in the eye”), which could explain Pages/cains_jawbone_page_74.md/Pages/cains_jawbone_page_75.md’s repeated eyesight failure and the “May” hinge (“blight on the May”).
       - **Disconfirming evidence:**
         - Pages/cains_jawbone_page_71.md’s Henry/May context is later anchored to a different narrator/setting, or “May” resolves as purely seasonal with no cross-page continuity.
-  - **Next falsification check:** find a prop/phrase-level anchor that ties Pages/cains_jawbone_page_83.md to the `73 → 74 → 75` run (e.g., the metallic object, the “flower-seller” interruption, or a repeat of the “old man”’s quoted speech register), and a second independent anchor that links Pages/cains_jawbone_page_71.md to the same narrator beyond “May” + eyesight.
+  - **Next falsification check:** confirm whether Pages/cains_jawbone_page_83.md’s “metallic object” is a coin/half-crown (echoing Pages/cains_jawbone_page_74.md’s “half-crowns dropped upon marble”), and find a second independent prop/phrase anchor tying Pages/cains_jawbone_page_83.md to the `73 → 74 → 75` run; also find a second independent anchor linking Pages/cains_jawbone_page_71.md to the same narrator beyond “May” + eyesight.
 
 - **Cluster:** Coastal imagery (confidence: `MAYBE`)
   - **Pages:** Pages/cains_jawbone_page_1.md, Pages/cains_jawbone_page_4.md, Pages/cains_jawbone_page_5.md
