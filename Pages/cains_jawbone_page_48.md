@@ -20,7 +20,7 @@ I had always thought that Tate essentially meant sugar. This I liked almost next
   - Strong animal/dog POV candidate (nose/body perspective); comic literalism.
 - **Ordering hypotheses:**
   - MAYBE: animal POV cluster.
-  - LIKELY: precedes Pages/cains_jawbone_page_88.md (Tate sugar appears only on Pages 48/88; see `Order/hypotheses.md` `N02` Sequence C).
+  - LIKELY: precedes Pages/cains_jawbone_page_88.md (Tate sugar appears only on Pages 48/88; see `Order/hypotheses.md` `N02` Spine).
   - MAYBE: links to Pages/cains_jawbone_page_43.md via Ecky/Alexander recurrence.
 - **Disconfirming evidence:**
   - If later context makes the “nose” and “sad dog” language purely idiomatic (human narrator).

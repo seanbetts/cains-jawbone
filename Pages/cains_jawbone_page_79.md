@@ -17,7 +17,7 @@ It was that day my friend Sandy told me he was sure he wouldn’t sleep all nigh
 - **Voice/tells:**
   - Non-human register (body-part framing; obedience to administered medicine; hunting anticipation).
 - **Ordering hypotheses:**
-  - LIKELY: follows Pages/cains_jawbone_page_22.md (p22 introduces Flora + first “made love”; this page repeats “made love to Flora again”; see `Order/hypotheses.md` `N02` Sequence D).
+  - LIKELY: follows Pages/cains_jawbone_page_22.md (p22 introduces Flora + first “made love”; this page repeats “made love to Flora again”; see `Order/hypotheses.md` `N02` Branch (Flora)).
   - LIKELY: adds to the animal POV cluster (cf. Pages/cains_jawbone_page_22.md, Pages/cains_jawbone_page_46.md, Pages/cains_jawbone_page_48.md).
 - **Disconfirming evidence:**
   - If “Bob Martin” is a human rather than a product, and the mating language is metaphorical (unlikely).

@@ -853,38 +853,34 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Key anchors:** pulled ears + low noise; “no vibration… of my latter end”; “lowered myself and made love”; “provided a chop for me”; “nearly fell on my nose”; “my mistress” framing + “could have howled”; coat/undercoat literalism (“inherited coat”) and “vicarious”→vicar misunderstanding; Mr. Hall + knob/bell summons; Tate sugar hoarding + “I did not entirely understand” register.
   - **Disconfirming evidence:** later context shows these are human metaphors (or the POV is clearly human).
   - **Phase 4 internal ordering hypotheses (N02):**
-	    - **Sequence A — bow + Mr. Hall/knob continuity** (confidence: `LIKELY`)
-	      - **Pages (ordered):** Pages/cains_jawbone_page_99.md → Pages/cains_jawbone_page_8.md → Pages/cains_jawbone_page_19.md
-	      - **Why:**
-	        - Pages/cains_jawbone_page_99.md’s unequal love-knot ends + missing “jossers” reads as the earlier instance that Pages/cains_jawbone_page_8.md references (“Later she was wearing the same bow… and that time he found them and trimmed the left end”). (“Josser” is attested as slang “a simple fellow” (C. J. Dennis glossary), so “the silly old jossers” reads naturally as a jocular term for misplaced scissors/implements.)
-	        - Pages/cains_jawbone_page_8.md ends with “twiddled the black knobby thing” and Mr. Hall bursting in, and Pages/cains_jawbone_page_19.md immediately reuses the knob + Mr. Hall entry (“came into the room again”).
-	      - **Disconfirming evidence:**
-	        - A different page supplies the “same bow” setup that Pages/cains_jawbone_page_8.md’s “Later…” refers to, or “jossers” is shown to refer to something other than the scissors/implements used to trim/adjust the bow ends.
-	        - Mr. Hall/knob appears in two unrelated households, making the shared mechanism non-continuous.
-    - **Sequence B — year tally + bet beat** (confidence: `LIKELY`)
-      - **Pages (ordered):** Pages/cains_jawbone_page_88.md → Pages/cains_jawbone_page_39.md → Pages/cains_jawbone_page_10.md
+    - **Spine — mid‑August daybook run** (confidence: `LIKELY`)
+      - **Pages (ordered):** Pages/cains_jawbone_page_48.md → Pages/cains_jawbone_page_88.md → Pages/cains_jawbone_page_39.md → Pages/cains_jawbone_page_10.md → Pages/cains_jawbone_page_99.md → Pages/cains_jawbone_page_8.md → Pages/cains_jawbone_page_19.md
       - **Why:**
-        - Pages/cains_jawbone_page_88.md ends with the couple arguing about “how few the other had done so late in the year,” and Pages/cains_jawbone_page_39.md continues with “two all for that year” + the same sort of literalist misunderstanding (vicarious → vicar).
-        - Pages/cains_jawbone_page_39.md then ends with “They made a bet.” Pages/cains_jawbone_page_10.md expands it (“went back two days and formulated their bet…”) with a fuller “third point” / stakes description.
-        - If the daybook anchors are intended, Pages/cains_jawbone_page_39.md’s Aug 14 “last day” (George Combe) and Pages/cains_jawbone_page_10.md’s Aug 16 (Hyacinth’s day) align with “went back two days”.
+        - Pages/cains_jawbone_page_48.md ↔ Pages/cains_jawbone_page_88.md: “Tate” (sugar stash) appears only on these pages, and both share the dog-as-observer domestic register.
+        - Pages/cains_jawbone_page_88.md ↔ Pages/cains_jawbone_page_39.md: “how few… so late in the year” continues naturally into “two all for that year” + the same literalist misunderstanding register.
+        - Pages/cains_jawbone_page_39.md ↔ Pages/cains_jawbone_page_10.md: bet setup (“They made a bet.”) → bet expansion (“went back two days and formulated their bet…”); the “two days” aligns with the Aug 14 → Aug 16 daybook anchors if intended.
+        - Pages/cains_jawbone_page_10.md ↔ Pages/cains_jawbone_page_99.md: consecutive mid‑August daybook anchors (Aug 16 → Aug 17) plus shared object-naming-aside structure and other weak non-date tells (see resolved check below).
+        - Pages/cains_jawbone_page_99.md ↔ Pages/cains_jawbone_page_8.md: unequal bow ends + missing “jossers” → “Later… same bow… trimmed the left end.”
+        - Pages/cains_jawbone_page_8.md ↔ Pages/cains_jawbone_page_19.md: call-bell/knob → Mr. Hall entry repeats (“burst in” → “came into the room again”); both pages carry Aug 18 “to-day” anchors, with Pages/cains_jawbone_page_19.md’s “Yesterday…” aligning naturally with the Aug 17 anchor on Pages/cains_jawbone_page_99.md.
       - **Disconfirming evidence:**
-        - Pages/cains_jawbone_page_88.md’s “few… so late in the year” refers to a different tally than Pages/cains_jawbone_page_39.md’s “two all for that year,” or the cast/setting proves incompatible.
-        - “They went back two days” is purely conversational (not chronological), or the bet described on Pages/cains_jawbone_page_39.md and Pages/cains_jawbone_page_10.md is shown to be different.
-    - **Sequence C — Tate sugar / domestic dialogue beat** (confidence: `LIKELY`)
-      - **Pages (ordered):** Pages/cains_jawbone_page_48.md → Pages/cains_jawbone_page_88.md → Pages/cains_jawbone_page_46.md
-      - **Why:**
-        - “Tate” (as sugar stash) appears only on Pages/cains_jawbone_page_48.md and Pages/cains_jawbone_page_88.md, and both pages share the dog-as-observer “he said… she said…” domestic register.
-        - If the daybook anchors are intended, Pages/cains_jawbone_page_48.md’s candidate Aug 12 “to-day” could precede Pages/cains_jawbone_page_88.md’s Aug 13 (St. Wigbert’s day).
-        - Pages/cains_jawbone_page_46.md reuses the “listen to him” phrasing from Pages/cains_jawbone_page_88.md and the same “he said to her, out of a book” quotation dynamic, and it continues the Tom/Jasmine household motif (“Tom and Flora’s Jasmine” ↔ “Some Tom… in the matter of Jasmine”). Its Dec 14 daybook anchor implies it is a later beat rather than adjacent to the mid‑August run.
-      - **Disconfirming evidence:**
-        - “Tate” is shown to be a different referent on one of the pages (not sugar), or the couple/scene proves incompatible (different setting/props).
-        - The Tom/Jasmine references are shown to be different referents across the pages, or Pages/cains_jawbone_page_46.md’s couple/context proves incompatible with the Pages/cains_jawbone_page_48.md/Pages/cains_jawbone_page_88.md domestic setup.
-    - **Sequence D — Flora mating continuation** (confidence: `LIKELY`)
+        - “Tate” is shown to be a different referent on one of the pages (not sugar), or the couple/scene proves incompatible across the run.
+        - The “year” tally on Pages/cains_jawbone_page_88.md/Pages/cains_jawbone_page_39.md is shown to be about different things (different people, different contest), breaking the bridge.
+        - “went back two days” is purely conversational (not chronological), or the bet described on Pages/cains_jawbone_page_39.md and Pages/cains_jawbone_page_10.md is shown to be different.
+        - A different page supplies the “same bow” setup that Pages/cains_jawbone_page_8.md’s “Later…” refers to, or “jossers” is shown to refer to something other than the scissors/implements used to trim/adjust the bow ends.
+        - Mr. Hall/knob appears in two unrelated households, making the shared mechanism non-continuous.
+    - **Branch — Flora mating continuation** (confidence: `LIKELY`)
       - **Pages (ordered):** Pages/cains_jawbone_page_22.md → Pages/cains_jawbone_page_79.md
       - **Why:**
         - Pages/cains_jawbone_page_79.md says “I made love to Flora again…”, reading as a continuation from Pages/cains_jawbone_page_22.md’s explicit “made love to Flora” + banishment aftermath.
       - **Disconfirming evidence:**
         - “Flora” is shown to be different referents on the two pages, or “again” is anchored to an intervening page (showing Pages/cains_jawbone_page_79.md’s “again” points elsewhere).
+    - **Continuation beat — Dec 14 domestic (not adjacent)** (confidence: `LIKELY`)
+      - **Pages:** Pages/cains_jawbone_page_46.md
+      - **Why:**
+        - Shared domestic observer register (“listen to him”; “he said to her, out of a book”) plus Tom/Jasmine household continuity (“Tom and Flora’s Jasmine” ↔ “Some Tom… in the matter of Jasmine”).
+        - “glad they were married” reads as a later relationship state than Pages/cains_jawbone_page_88.md’s “first quarrel”; its Dec 14 daybook anchor implies it is not adjacent to the mid‑August run.
+      - **Disconfirming evidence:**
+        - The Tom/Jasmine references are shown to be different referents, or Pages/cains_jawbone_page_46.md’s couple/context proves incompatible with the Pages/cains_jawbone_page_48.md/Pages/cains_jawbone_page_88.md domestic setup.
   - **Resolved check (Pages/cains_jawbone_page_10.md ↔ Pages/cains_jawbone_page_99.md):** kept their adjacency as `LIKELY` (still primarily date-driven). Beyond calendar adjacency they share (1) an object-naming aside in the same syntactic slot (“…, as my mother had called them” vs “…, as Jasmine might so easily have called them”), (2) a shared singular/plural vocabulary focus (Pages/cains_jawbone_page_10.md explicitly complains about singular/plural misuse around “Boots”; Pages/cains_jawbone_page_99.md foregrounds the plural-only “jossers” needed to fix unequal bow ends; “josser” is attested as slang “a simple fellow” (C. J. Dennis glossary), supporting “the silly old jossers” as a jocular label for misplaced scissors/implements), and (3) strong dog-coded idiom (“could have howled” vs “three more left”).
 
 - **Cluster:** `N03` Clement / pills / flowers-and-mercy register (confidence: `LIKELY`)

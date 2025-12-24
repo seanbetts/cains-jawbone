@@ -12,7 +12,7 @@ Yesterday he got in another of his own kind, who agreed she’d done it all hers
 - **Time markers:**
   - CERTAIN: “Yesterday…”
   - LIKELY: “to-day” is a historical-death anchor; “Human Comedy couldn’t… beyond to-day” suggests Balzac’s death date (ties to Page 8’s Guido/Kilmarnock/Balmerino “to-day”).
-  - MAYBE: “only just come to Falkland” points to Falkland Castle (Fife) and Elizabeth Stuart’s birth there (19 Aug 1596 per DNB), but conflicts with the Balzac Aug 18 “to-day” anchor; treat as an identification clue unless another page makes Aug 19 explicit.
+  - LIKELY: “only just come to Falkland” is a birthplace/identification clue for Elizabeth Stuart (born at Falkland Castle) rather than a daybook “to-day” anchor, so it need not conflict with the Balzac Aug 18 “to-day”.
 - **Quotes & allusions:**
   - LIKELY: “Human Comedy” = Balzac.
   - CERTAIN: Sir Henry Wotton, “You meaner Beauties of the Night” (“On his Mistris, the Queen of Bohemia”) — “By Vertue first, then Choyce a Queen… Tell me… Th’ Eclypse and Glory of her kind” (text reproduced in E. R. Eddison, *The Worm Ouroboros* (1922), ch. 30): https://en.wikisource.org/wiki/The_Worm_Ouroboros/Chapter_30.
@@ -23,7 +23,7 @@ Yesterday he got in another of his own kind, who agreed she’d done it all hers
   - Outsider/naïve social position (ears pulled); unexpected love of music with “my people” origin clue.
 - **Ordering hypotheses:**
   - LIKELY: follows Pages/cains_jawbone_page_8.md (p8 ends with the knob being twiddled and Mr. Hall bursting in; here Mr. Hall “came into the room again” after the polished knob is twiddled).
-  - MAYBE: “Yesterday” aligns with Pages/cains_jawbone_page_99.md’s Aug 17 “closing day in Potsdam” if this is part of a consecutive mid‑August daybook run.
+  - LIKELY: “Yesterday” aligns with Pages/cains_jawbone_page_99.md’s Aug 17 “closing day in Potsdam” if this is part of the consecutive mid‑August daybook spine (see `Order/hypotheses.md` `N02` Spine).
 - **Disconfirming evidence:**
   - If later pages show two different “Mr. Hall” contexts or incompatible settings.
 - **Research needed:**
