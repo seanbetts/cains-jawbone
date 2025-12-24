@@ -9,7 +9,7 @@ I had always thought that Tate essentially meant sugar. This I liked almost next
   - MAYBE: unnamed “he” and “her” (a couple; narrator thinks they are together too much; MAYBE the same couple as `P100` Tom + `P101` Flora on Pages/cains_jawbone_page_88.md).
 - **Time markers:**
   - CERTAIN: “to-day”; “that evening”.
-  - MAYBE: if “another” is Nahum Tate, “to-day” may be his death date (12 Aug 1715; DNB), yielding a candidate Aug 12 anchor for this page.
+  - LIKELY: “another” is Nahum Tate (Tate & Brady psalms “wormed… into the Book of Common Prayer”), so “to-day” likely points to his death date **12 Aug 1715** (DNB): https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Tate,_Nahum
 - **Quotes & allusions:**
   - LIKELY: “wormed his way into the Book of Common Prayer” points to the Psalter line “I am a worm, and no man” (Psalm 22:6 in the BCP Psalms): https://www.gutenberg.org/cache/epub/29622/pg29622.txt.
 - **Motifs/continuity hooks:**
