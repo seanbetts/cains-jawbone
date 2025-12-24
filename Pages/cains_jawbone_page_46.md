@@ -22,15 +22,14 @@ In one way, of course, I was glad they were married. I had always been rather a 
 - **Motifs/continuity hooks:**
   - Family/purity obsession.
   - Food: “provided a chop for me” (strong animal/dog POV cue).
-  - Murder continuity: “the one I killed in the matter of Jasmine” (links to jasmine motif pages).
-  - LIKELY: “matter of Jasmine” points to the jasmine/cat thread (cf. cat “Jasmine” on Pages/cains_jawbone_page_22.md).
+  - Murder continuity: “the one I killed in the matter of Jasmine” (links to jasmine motif pages; compare Pages/cains_jawbone_page_99.md’s “she wasn’t the one I’d killed” alongside a Jasmine reference).
+  - LIKELY: “matter of Jasmine” points to the jasmine/cat thread (cf. cat “Jasmine” on Pages/cains_jawbone_page_22.md) and to Pages/cains_jawbone_page_88.md’s “Tom and Flora’s Jasmine” household reference.
 - **Voice/tells:**
   - Naïve/undereducated self-description (“real education… just listening to him”); name/identity sensitivity (“Hal”).
 - **Ordering hypotheses:**
   - MAYBE: animal POV segment (chop + naming + naïve register).
-  - MAYBE: follows Pages/cains_jawbone_page_88.md as a later domestic dialogue beat (shares the “listening to him” phrasing + “he said to her, out of a book” dynamic; see `Order/hypotheses.md` `N02` Sequence C). Falsifier: “listening to him” is shown to be a generic tic, or the couple/setting is incompatible.
+  - LIKELY: follows Pages/cains_jawbone_page_88.md as a later domestic dialogue beat (shared “listen to him” phrasing + “he said to her, out of a book” quotation dynamic; plus Tom/Jasmine household continuity: “Tom and Flora’s Jasmine” ↔ “Some Tom… in the matter of Jasmine”) (see `Order/hypotheses.md` `N02` Sequence C). Note the Dec 14 daybook anchor implies it is not adjacent to the mid‑August run.
   - MAYBE: connects to jasmine motif thread and to “murderous doctor”/doctor-leading-old-man pages.
-  - Resolved: no second Dec 14 (Albert/Prince Consort) anchor found in the Dog POV set, so keep this page separate from the Aug date spine pending a non-date continuity bridge.
 - **Disconfirming evidence:**
   - If “chop” and “Hal” prove metaphorical and the narrator is clearly human in later linked pages.
 - **Research needed:**

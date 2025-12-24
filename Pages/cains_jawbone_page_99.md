@@ -7,7 +7,7 @@ And she wore a mauve love-knot on her breast, and the ends were unequal. He said
   - CERTAIN: “she” (mauve love-knot; asks questions).
   - CERTAIN: “he” (tries to adjust the love-knot; reads out an eye-description passage).
   - CERTAIN: Father Fred (named; LIKELY Friedrich/Frederick the Great; see Quotes & allusions).
-  - MAYBE: Jasmine (LIKELY the cat from Pages/cains_jawbone_page_22.md; narrator “remembers her” and distinguishes her from the one he killed).
+  - MAYBE: Jasmine (LIKELY the cat from Pages/cains_jawbone_page_22.md; narrator “remembers her” and distinguishes her from the one he killed; compare Pages/cains_jawbone_page_46.md’s “not the one I killed in the matter of Jasmine”).
 - **Death/violence cues:**
   - CERTAIN: narrator admits a prior killing (“she wasn’t the one I’d killed”).
 - **Motifs/continuity hooks:**
