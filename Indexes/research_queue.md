@@ -276,7 +276,7 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_19.md
   - **Why it matters:** Strengthens the mid-August calendar chain with Pages/cains_jawbone_page_8.md and Pages/cains_jawbone_page_10.md.
   - **Status:** `resolved`
-  - **Result:** Yes — “Human Comedy” points to Balzac’s *La Comédie humaine*; Balzac died 18 August 1850, so “to-day” is likely Aug 18 and corroborates the Aug 18 chain.
+  - **Result:** Yes — “Human Comedy” points to Balzac’s *La Comédie humaine*; Balzac died in Paris on **18 August 1850**, so “to-day” is likely Aug 18 and corroborates the Aug 18 chain. https://en.wikisource.org/wiki/The_New_International_Encyclop%C3%A6dia/Balzac,_Honor%C3%A9_de
 
 - **Item:** Identify the queen quotation (attributed to Wotton) and what “only just come to Falkland” refers to
   - **Type:** quote/place/other

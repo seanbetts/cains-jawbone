@@ -11,10 +11,10 @@ Yesterday he got in another of his own kind, who agreed she’d done it all hers
   - MAYBE: Wotton (attribution disputed by narrator).
 - **Time markers:**
   - CERTAIN: “Yesterday…”
-  - LIKELY: “to-day” is a historical-death anchor; “Human Comedy couldn’t… beyond to-day” suggests Balzac’s death date (ties to Page 8’s Guido/Kilmarnock/Balmerino “to-day”).
+  - CERTAIN: “to-day” is a historical-death anchor; “Human Comedy couldn’t… beyond to-day” points to Balzac’s death date (18 Aug 1850), aligning with Page 8’s Aug 18 “to-day” anchors. https://en.wikisource.org/wiki/The_New_International_Encyclop%C3%A6dia/Balzac,_Honor%C3%A9_de
   - LIKELY: “only just come to Falkland” is a birthplace/identification clue for Elizabeth Stuart (born at Falkland Castle) rather than a daybook “to-day” anchor, so it need not conflict with the Balzac Aug 18 “to-day”.
 - **Quotes & allusions:**
-  - LIKELY: “Human Comedy” = Balzac.
+  - CERTAIN: “Human Comedy” = Balzac’s *La Comédie humaine*.
   - CERTAIN: Sir Henry Wotton, “You meaner Beauties of the Night” (“On his Mistris, the Queen of Bohemia”) — “By Vertue first, then Choyce a Queen… Tell me… Th’ Eclypse and Glory of her kind” (text reproduced in E. R. Eddison, *The Worm Ouroboros* (1922), ch. 30): https://en.wikisource.org/wiki/The_Worm_Ouroboros/Chapter_30.
 - **Motifs/continuity hooks:**
   - Polished knob / repeated Mr. Hall entrances: LIKELY a call-bell/bell-push being rung to summon him.
