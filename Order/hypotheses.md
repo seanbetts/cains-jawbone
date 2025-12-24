@@ -646,6 +646,15 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
 
 - **Cluster:** `N07` Bunny and Perry (Pro/Con) mental debate (confidence: `CERTAIN`)
   - **Pages:** Pages/cains_jawbone_page_93.md, Pages/cains_jawbone_page_97.md
+  - **Phase 4 internal ordering hypotheses (N07):**
+    - **Sequence A — wake/day setup → later weighing of proof** (confidence: `MAYBE`)
+      - **Pages (ordered):** Pages/cains_jawbone_page_97.md → Pages/cains_jawbone_page_93.md
+      - **Why:**
+        - Pages/cains_jawbone_page_97.md frames “That was the day when I was going to do a thing I had never done before,” with physical nausea/pills and an explicit tennis→rowing venue shift, reading like an on-the-day setup beat.
+        - Pages/cains_jawbone_page_93.md reads like a later after-the-fact weighing of evidence (“tangible proof” vs “semi-conviction”) after the internal debate has “been at it hammer and tongs,” and its “Cambridge week” clue pairs naturally with Pages/cains_jawbone_page_97.md’s Cambridge wordplay layer.
+      - **Disconfirming evidence:**
+        - Pages/cains_jawbone_page_93.md’s “their hour had come and was now over” is shown to refer to something unrelated to the “never done before” day on Pages/cains_jawbone_page_97.md.
+        - The Cambridge references resolve to different targets/contexts (making the bridge coincidental).
   - **Rationale:** Both pages personify internal argument as “Bunny and Perry” going at it “hammer and tongs”, with tennis/venue imagery.
   - **Key anchors:** “Bunny and Perry”; “hammer and tongs”; explicit tennis/venue shifts.
   - **Disconfirming evidence:** later context shows “Bunny and Perry” refers to external people rather than an internal debate trope.
