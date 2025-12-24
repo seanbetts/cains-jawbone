@@ -21,9 +21,10 @@ Then came Hyacinth’s day. He laughed when he remembered that, as we were walki
   - Social observation + mild contempt (Boots’ speech; “childish”); sexual/romantic weariness (“tire of her already”).
 - **Ordering hypotheses:**
   - MAYBE: follows Pages/cains_jawbone_page_39.md (p39 ends with a bet being made; this page explicitly “went back two days and formulated their bet…”).
-  - MAYBE: precedes Pages/cains_jawbone_page_99.md if the “Hyacinth’s day” (Aug 16) anchor is part of a consecutive mid‑August daybook run leading into the Aug 17 “closing day in Potsdam” anchor. Weak support beyond dates: both pages use an object-naming aside in the same slot (“…, as my mother had called them” vs “…, as Jasmine might so easily have called them”) and both lean on dog-coded idiom (“could have howled” vs “three more left”).
+  - LIKELY: precedes Pages/cains_jawbone_page_99.md if the “Hyacinth’s day” (Aug 16) anchor is part of a consecutive mid‑August daybook run leading into the Aug 17 “closing day in Potsdam” anchor. Support beyond dates: both pages use an object-naming aside in the same slot (“…, as my mother had called them” vs “…, as Jasmine might so easily have called them”); Pages/cains_jawbone_page_10.md explicitly riffs on singular/plural misuse around “Boots”, which pairs naturally with Pages/cains_jawbone_page_99.md’s plural-only “jossers” needed to fix unequal bow ends; and both lean on dog-coded idiom (“could have howled” vs “three more left”).
 - **Disconfirming evidence:**
   - If “Hyacinth’s day/Jasmine’s day” are shown to be private nicknames rather than public calendar anchors.
+  - If “jossers” on Pages/cains_jawbone_page_99.md is not the cutting/adjusting tool for the bow ends (weakening the singular/plural vocabulary continuity read).
 - **Research needed:**
   - Identify what “Jasmine’s day” refers to (and whether it’s a public calendar anchor).
   - Stalled: confirm what “Etam dawn mist, ten inches” encodes (shade + the intended sizing/measurement system) (see `Indexes/research_queue.md`).
