@@ -38,7 +38,9 @@ LIKELY WORDPLAY
   - Naïve about optics (“never could quite understand how it worked”); self-deprecating (“better brain”).
   - LIKELY dog-coded appetite tell: “sausage place… furtively I knew how excellent” reads more naturally as a non-human POV (secret food knowledge) than as human travel-talk.
 - **Ordering hypotheses:**
-  - MAYBE: date adjacency with Pages/cains_jawbone_page_10.md if “Hyacinth’s day” is Aug 17 and this “to-day” is Aug 18.
+  - LIKELY: follows Pages/cains_jawbone_page_99.md (p99 has unequal love-knot ends + missing “jossers”; this page says “Later she was wearing the same bow… and that time he found them and trimmed the left end”).
+  - LIKELY: precedes Pages/cains_jawbone_page_19.md (both use the knob + Mr. Hall summons; p19 says he “came into the room again”).
+  - MAYBE: part of a mid‑August daybook run (Aug 18 anchor); could sit near Pages/cains_jawbone_page_10.md (Hyacinth’s day Aug 16) and Pages/cains_jawbone_page_99.md (Potsdam “closing day” Aug 17) if date anchors are consecutive for this narrator.
 - **Disconfirming evidence:**
   - If later evidence makes “powerful glass” an unequivocally hand-held optical tool operated by the narrator (human-only physical action), treat this page as a shared domestic-scene overlap rather than core `N02`.
   - If Guido/Kilmarnock/Belmerino are later tied to a different date or not intended as calendar anchors.

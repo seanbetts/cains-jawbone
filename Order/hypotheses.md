@@ -852,6 +852,22 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Rationale:** Explicit animal-coded reactions (ears pulled, “low noise”; tail “vibration” clue; mating/banishment behaviour) plus dog-coded scene mechanics (Mr. Hall + knob/bell summons) point to non-human narrator segments.
   - **Key anchors:** pulled ears + low noise; “no vibration… of my latter end”; “lowered myself and made love”; “provided a chop for me”; “nearly fell on my nose”; “my mistress” framing + “could have howled”; coat/undercoat literalism (“inherited coat”) and “vicarious”→vicar misunderstanding; Mr. Hall + knob/bell summons; Tate sugar hoarding + “I did not entirely understand” register.
   - **Disconfirming evidence:** later context shows these are human metaphors (or the POV is clearly human).
+  - **Phase 4 internal ordering hypotheses (N02):**
+    - **Sequence A — bow + Mr. Hall/knob continuity** (confidence: `LIKELY`)
+      - **Pages (ordered):** Pages/cains_jawbone_page_99.md → Pages/cains_jawbone_page_8.md → Pages/cains_jawbone_page_19.md
+      - **Why:**
+        - Pages/cains_jawbone_page_99.md’s unequal love-knot ends + missing “jossers” reads as the earlier instance that Pages/cains_jawbone_page_8.md references (“Later she was wearing the same bow… and that time he found them and trimmed the left end”).
+        - Pages/cains_jawbone_page_8.md ends with “twiddled the black knobby thing” and Mr. Hall bursting in, and Pages/cains_jawbone_page_19.md immediately reuses the knob + Mr. Hall entry (“came into the room again”).
+      - **Disconfirming evidence:**
+        - A different page supplies the “same bow” setup that Pages/cains_jawbone_page_8.md’s “Later…” refers to, or “jossers” is shown to mean a different object than the bow ends.
+        - Mr. Hall/knob appears in two unrelated households, making the shared mechanism non-continuous.
+    - **Sequence B — bet backtracking beat** (confidence: `MAYBE`)
+      - **Pages (ordered):** Pages/cains_jawbone_page_39.md → Pages/cains_jawbone_page_10.md
+      - **Why:**
+        - Pages/cains_jawbone_page_39.md ends with “They made a bet.” Pages/cains_jawbone_page_10.md says “They went back two days and formulated their bet…”, which can read as returning to (and expanding) that earlier bet.
+      - **Disconfirming evidence:**
+        - “They went back two days” is purely conversational (not chronological), or the bet described on the two pages is shown to be different.
+  - **Next falsification check:** test whether Pages/cains_jawbone_page_10.md’s Hyacinth’s day (Aug 16) and Pages/cains_jawbone_page_99.md’s “closing day in Potsdam” (Aug 17) are intended as consecutive daybook anchors by finding a second continuity marker between the scenes (beyond date adjacency).
 
 - **Cluster:** `N03` Clement / pills / flowers-and-mercy register (confidence: `LIKELY`)
   - **Pages:** Pages/cains_jawbone_page_3.md, Pages/cains_jawbone_page_24.md, Pages/cains_jawbone_page_27.md, Pages/cains_jawbone_page_32.md (MAYBE: Pages/cains_jawbone_page_30.md)

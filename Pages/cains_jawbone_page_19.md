@@ -22,7 +22,8 @@ Yesterday he got in another of his own kind, who agreed she’d done it all hers
 - **Voice/tells:**
   - Outsider/naïve social position (ears pulled); unexpected love of music with “my people” origin clue.
 - **Ordering hypotheses:**
-  - LIKELY: same scene/narrator as Pages/cains_jawbone_page_8.md (Mr. Hall + knob motif).
+  - LIKELY: follows Pages/cains_jawbone_page_8.md (p8 ends with the knob being twiddled and Mr. Hall bursting in; here Mr. Hall “came into the room again” after the polished knob is twiddled).
+  - MAYBE: “Yesterday” aligns with Pages/cains_jawbone_page_99.md’s Aug 17 “closing day in Potsdam” if this is part of a consecutive mid‑August daybook run.
 - **Disconfirming evidence:**
   - If later pages show two different “Mr. Hall” contexts or incompatible settings.
 - **Research needed:**

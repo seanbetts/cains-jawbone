@@ -19,6 +19,9 @@ Then came Hyacinth’s day. He laughed when he remembered that, as we were walki
   - Cross-page: calendar/offset language may recur with other “to-day”/feast-day anchors (keep as a continuity cue, not an ordering claim).
 - **Voice/tells:**
   - Social observation + mild contempt (Boots’ speech; “childish”); sexual/romantic weariness (“tire of her already”).
+- **Ordering hypotheses:**
+  - MAYBE: follows Pages/cains_jawbone_page_39.md (p39 ends with a bet being made; this page explicitly “went back two days and formulated their bet…”).
+  - MAYBE: precedes Pages/cains_jawbone_page_99.md if the “Hyacinth’s day” (Aug 16) anchor is part of a consecutive mid‑August daybook run leading into the Aug 17 “closing day in Potsdam” anchor.
 - **Disconfirming evidence:**
   - If “Hyacinth’s day/Jasmine’s day” are shown to be private nicknames rather than public calendar anchors.
 - **Research needed:**
