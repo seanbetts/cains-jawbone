@@ -530,12 +530,19 @@ Template:
   - **Status:** `resolved`
   - **Result:** Corpus check: “Charlotte Brontë” / “Marat” do not recur elsewhere in page bodies (search across `Pages/`), suggesting this is a one-off intentional misnaming of the Corday/Marat assassination scene rather than a repeated narrator tell.
 
-- **Item:** Confirm the intended “George Combe” / “Free Knowledgist” reference on Page 39 and what “two all for that year” refers to
-  - **Type:** name/other
+- **Item:** Confirm the intended “George Combe” / “Free Knowledgist” reference on Page 39 (and the death-day anchor)
+  - **Type:** name/date/other
   - **Pages:** Pages/cains_jawbone_page_39.md
-  - **Why it matters:** Could link to phrenology/education motifs or a dated sporting reference.
-  - **Status:** `stalled`
-  - **Result:** “George Combe” is LIKELY the Scottish phrenologist (DNB): https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Combe,_George. “Free Knowledgist” is attested as “free-knowledgist” in Henry Clay Work, *Upshot Family: A Serio-comic Poem* (p. 16): https://books.google.co.uk/books?id=IK1cAAAAcAAJ&pg=PA16&dq=free-knowledgist (possible source for the epithet). “two all for that year” remains unresolved.
+  - **Why it matters:** Supports the `N02` mid‑August spine via the daybook “last day” hook.
+  - **Status:** `resolved`
+  - **Result:** “George Combe” is the Scottish phrenologist (DNB): https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Combe,_George, which explicitly states “he died 14 Aug. 1858,” so “He said this was his last day” can anchor “to‑day” as **Aug 14**. “Free Knowledgist” is attested as “free-knowledgist” in Henry Clay Work, *Upshot Family: A Serio-comic Poem* (p. 16): https://books.google.co.uk/books?id=IK1cAAAAcAAJ&pg=PA16&dq=free-knowledgist (possible source for the epithet).
+
+- **Item:** Interpret “two all for that year” (Page 39)
+  - **Type:** other
+  - **Pages:** Pages/cains_jawbone_page_39.md
+  - **Why it matters:** Could identify the in-world contest/scoreboard and tighten the Pages/cains_jawbone_page_88.md → Pages/cains_jawbone_page_39.md bridge.
+  - **Status:** `resolved`
+  - **Result:** LIKELY just a tied running score (2–2) in the couple’s year‑to‑date “points” contest; “vicarious” implies one of his points was by proxy (Chambers 1908 defines “vicarious” as “filling the place of another: performed… in place of… another”: https://en.wikisource.org/wiki/Chambers%27s_Twentieth_Century_Dictionary_1908/Versed_Vying). This flows into Pages/cains_jawbone_page_10.md where the bet is about “the third point.”
 
 - **Item:** Identify the Flecker-related line (“some to Flecker turn to pray…”) and the “winds not infectious” quote on Page 40
   - **Type:** quote

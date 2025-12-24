@@ -10,19 +10,19 @@ She said it didn’t matter what they had done, because she was still an M.D., a
   - LIKELY: George Combe (phrenologist) as the intended referent: https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Combe,_George.
   - LIKELY: “Free Knowledgist” echoes “free-knowledgist” in Henry Clay Work, *Upshot Family: A Serio-comic Poem* (p. 16): https://books.google.co.uk/books?id=IK1cAAAAcAAJ&pg=PA16&dq=free-knowledgist.
 - **Time markers:**
-  - LIKELY: “He said this was his last day” → George Combe’s death day (14 Aug 1858), consistent with a daybook “to-day” framing (DNB: https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Combe,_George).
+  - CERTAIN: “He said this was his last day” → George Combe’s death day (14 Aug 1858), consistent with a daybook “to-day” framing (DNB: https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Combe,_George).
 - **Motifs/continuity hooks:**
   - Credentials: “still an M.D.” + “got another one”.
   - Clothes: undercoats “raw liver colour”; narrator’s single inherited coat.
-  - Betting + scoring: “two all for that year”; “vicarious” misunderstanding.
+  - Betting + scoring: “two all for that year” reads as a tied running score; “vicarious” suggests a point credited by proxy (Chambers 1908: “vicarious” = “performed… in place of… another”: https://en.wikisource.org/wiki/Chambers%27s_Twentieth_Century_Dictionary_1908/Versed_Vying).
 - **Voice/tells:**
   - Naïve literalism (vicarious → vicar); plain-spoken class contrast on clothing.
   - MAYBE: animal-coded voice (coat/undercoat language; “pottered after rabbits”).
 - **Ordering hypotheses:**
   - LIKELY: follows Pages/cains_jawbone_page_88.md (p88 ends with the couple arguing about how few the other had done “so late in the year”; this page continues with “two all for that year” + the same literalist misunderstanding register).
-  - LIKELY: precedes Pages/cains_jawbone_page_10.md (p39 ends “They made a bet.”; p10 explicitly “went back two days and formulated their bet…”).
+  - LIKELY: precedes Pages/cains_jawbone_page_10.md (p39 ends “They made a bet.”; p10 explicitly “went back two days and formulated their bet…”, and its “third point” reads like the next point after this page’s “two all” tie score).
   - MAYBE: belongs with other bet/points pages (e.g., Pages/cains_jawbone_page_22.md) if the “points” scoring language recurs as a shared domestic motif.
 - **Disconfirming evidence:**
   - If later reveals “M.D.” isn’t an academic degree but another acronym used repeatedly by this narrator.
 - **Research needed:**
-  - What does “two all for that year” refer to (sport/contest/scoreboard)?
+  - (Optional) Identify what the “points” are measuring (game/contest), if it recurs elsewhere.
