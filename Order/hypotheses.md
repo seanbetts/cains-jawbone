@@ -700,10 +700,11 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - Pages/cains_jawbone_page_74.md’s “them” (secretly bought items) + failing eyesight (“wretched eyes”) aligns with Pages/cains_jawbone_page_75.md’s “orange tinted documents” and inability to read them (“searchlights of my eyes… not good enough”), and Pages/cains_jawbone_page_75.md’s “two other flowers” naturally picks up Pages/cains_jawbone_page_74.md’s “red rose and the white only remained.”
       - **Disconfirming evidence:**
         - Pages/cains_jawbone_page_75.md’s documents/flowers are later anchored to a different setting or narrative purpose from Pages/cains_jawbone_page_74.md’s “them” (coincidental overlap).
-    - **Sequence B — late-night red-rose extension** (confidence: `MAYBE`)
-      - **Pages (ordered):** Pages/cains_jawbone_page_73.md → Pages/cains_jawbone_page_74.md → Pages/cains_jawbone_page_75.md → (MAYBE: Pages/cains_jawbone_page_83.md)
+    - **Sequence B — late-night red-rose extension** (confidence: `LIKELY`)
+      - **Pages (ordered):** Pages/cains_jawbone_page_73.md → Pages/cains_jawbone_page_74.md → Pages/cains_jawbone_page_75.md → Pages/cains_jawbone_page_83.md
       - **Why:**
-        - Pages/cains_jawbone_page_83.md returns to the red-rose motif (“red rose, the sole survivor”), plausibly a later state after Pages/cains_jawbone_page_74.md’s “red rose and the white only remained,” and keeps an “old man” + Henry present in a group scene.
+        - Pages/cains_jawbone_page_83.md continues the flower-state progression from the `73 → 74 → 75` run: Pages/cains_jawbone_page_74.md says “The red rose and the white only remained,” Pages/cains_jawbone_page_75.md treats those “two other flowers” as key props, and Pages/cains_jawbone_page_83.md later has “the red rose, the sole survivor.”
+        - Pages/cains_jawbone_page_83.md also preserves the same social triangle as Pages/cains_jawbone_page_74.md: an “old man” present, a “she” who asks what “he” meant, and Henry moving in-scene.
       - **Disconfirming evidence:**
         - Pages/cains_jawbone_page_83.md’s “old man”/Henry context is later shown to be incompatible with Pages/cains_jawbone_page_74.md’s OGPU/Leningrad scene (distinct voices or settings).
     - **Sequence C — May/eye prelude (tentative)** (confidence: `MAYBE`)

@@ -17,6 +17,7 @@ I saw to it that I should be for a moment alone among the marigolds. Thinking ki
   - Botanically literate; mixes classical/philological flexing with practical horticulture and courtship strategy.
 - **Ordering hypotheses:**
   - LIKELY: follows Pages/cains_jawbone_page_74.md (red+white flowers → “two other flowers”; secret purchases → “orange tinted documents”; eyesight failure continues).
+  - LIKELY: precedes Pages/cains_jawbone_page_83.md as a later follow-through beat where the flower-state has progressed to “the red rose, the sole survivor” (compare Pages/cains_jawbone_page_74.md’s “red rose and the white only remained” and this page’s “two other flowers”).
   - MAYBE: preceded by Pages/cains_jawbone_page_71.md as an “eye trouble / May” prelude (treat as tentative unless a stronger scene-continuity anchor appears).
 - **Disconfirming evidence:**
   - If the “documents” are unrelated to Page 74’s “them”, and the blight is purely metaphorical.
