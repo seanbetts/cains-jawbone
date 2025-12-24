@@ -707,13 +707,13 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - Pages/cains_jawbone_page_83.md also preserves the same social triangle as Pages/cains_jawbone_page_74.md: an “old man” present, a “she” who asks what “he” meant, and Henry moving in-scene.
       - **Disconfirming evidence:**
         - Pages/cains_jawbone_page_83.md’s “old man”/Henry context is later shown to be incompatible with Pages/cains_jawbone_page_74.md’s OGPU/Leningrad scene (distinct voices or settings).
-    - **Sequence C — May/eye prelude (tentative)** (confidence: `MAYBE`)
-      - **Pages (ordered):** (MAYBE: Pages/cains_jawbone_page_71.md) → Pages/cains_jawbone_page_73.md → Pages/cains_jawbone_page_74.md → Pages/cains_jawbone_page_75.md
+    - **Prelude beat — May/eye-strike (not adjacent)** (confidence: `MAYBE`)
+      - **Pages:** Pages/cains_jawbone_page_71.md
       - **Why:**
         - Pages/cains_jawbone_page_71.md supplies “red May” language and a concrete eye-strike by Henry (“hit me… in the eye”), which could explain Pages/cains_jawbone_page_74.md/Pages/cains_jawbone_page_75.md’s repeated eyesight failure and the “May” hinge (“blight on the May”).
       - **Disconfirming evidence:**
         - Pages/cains_jawbone_page_71.md’s Henry/May context is later anchored to a different narrator/setting, or “May” resolves as purely seasonal with no cross-page continuity.
-  - **Next falsification check:** find a phrase-level anchor that ties Pages/cains_jawbone_page_83.md to the `73 → 74 → 75` run (beyond generic “old man”/rose), and a second independent anchor that links Pages/cains_jawbone_page_71.md to the same narrator beyond “May” + eyesight.
+  - **Next falsification check:** find a prop/phrase-level anchor that ties Pages/cains_jawbone_page_83.md to the `73 → 74 → 75` run (e.g., the metallic object, the “flower-seller” interruption, or a repeat of the “old man”’s quoted speech register), and a second independent anchor that links Pages/cains_jawbone_page_71.md to the same narrator beyond “May” + eyesight.
 
 - **Cluster:** Coastal imagery (confidence: `MAYBE`)
   - **Pages:** Pages/cains_jawbone_page_1.md, Pages/cains_jawbone_page_4.md, Pages/cains_jawbone_page_5.md
