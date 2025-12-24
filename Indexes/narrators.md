@@ -326,7 +326,7 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_28.md, Pages/cains_jawbone_page_50.md
   - **Confidence:** `MAYBE`
   - **Disconfirming evidence:** the Wilde/Earnest material is shown to be a detachable quotation layer reused across multiple narrators, or the will/forgery/stationery cues in the two pages resolve to incompatible speakers/settings.
-  - **Notes:** Thematically overlaps `N10` (will/estate eavesdropping) and `N18` (forgery/handwriting) but should not be merged without a repeated non-quotation phrase/anchor.
+  - **Notes:** Thematically overlaps `N10` (will/estate eavesdropping) and `N18` (forgery/handwriting) but should not be merged without a repeated non-quotation phrase/anchor. Phase 4 ordering for Pages/cains_jawbone_page_28.md ↔ Pages/cains_jawbone_page_50.md is still `MAYBE` (no second non-quotation anchor beyond “forgery + Earnest”; Earnest fragments also recur on Pages/cains_jawbone_page_65.md).
 
 - `N40` — Bills-in-paper / Bryant & May / Left Luggage voice:
   - **Signature tells:** bills/debt language framed through newspapers/advertising; match/fire imagery with brand-like specificity (Bryant & May); station/Left Luggage framing; dense “named writers” run used as immediate interpretive glue.

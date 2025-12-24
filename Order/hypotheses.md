@@ -553,7 +553,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Key anchors:** Wilde/Earnest echoes; will/forgery talk; caseful of “strange pens”.
   - **Disconfirming evidence:** Wilde/Earnest lines are shown to be a detachable quotation layer used across unrelated narrators, or the will/forgery contexts resolve to incompatible speakers/settings.
   - **Phase 4 internal ordering hypotheses (N39):**
-    - **Sequence A — church-window prelude → will-at-table forging scene** (confidence: `LIKELY`)
+    - **Sequence A — church-window prelude → will-at-table forging scene** (confidence: `MAYBE`)
       - **Pages (ordered):** Pages/cains_jawbone_page_28.md → Pages/cains_jawbone_page_50.md
       - **Why:**
         - Pages/cains_jawbone_page_28.md reads as a waiting/prep beat (“Not a woman had entered as yet… ticklish business… Forging ahead… since the woman was not yet dead”), while Pages/cains_jawbone_page_50.md shows the operational scene (“The will was there… caseful of strange pens… wonderful hands at work”).
@@ -567,7 +567,8 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - If Pages/cains_jawbone_page_28.md’s “Not a woman had entered as yet” is a later return to the same plan (new location, still awaiting the target), Pages/cains_jawbone_page_50.md could be an earlier attempt at the will/pen work.
       - **Disconfirming evidence:**
         - Any concrete time marker anchors one scene as “next day/after” the other.
-  - **Next falsification check:** search for a non-quotation anchor shared by both pages (e.g., the green binding device “single star above… sea,” “ticklish business,” “wonderful hands,” or a repeat of Pluckley/Kent) before treating the pairing as more than “forgery + Earnest” motif overlap; separately, note that Pages/cains_jawbone_page_50.md’s Greek Anthology “Homonoea” line overlaps Pages/cains_jawbone_page_12.md (Phase 5 join-candidate, not a Phase 4 ordering claim).
+  - **Resolved check:** corpus search found no non-quotation phrase-level overlap between Pages/cains_jawbone_page_28.md and Pages/cains_jawbone_page_50.md beyond the general will/forgery + Earnest motifs; additionally, *Importance of Being Earnest* quotation fragments recur elsewhere (e.g., Pages/cains_jawbone_page_65.md), so do not treat “Act I progression” as a decisive adjacency proof. Keep internal ordering at `MAYBE` until a second independent anchor appears.
+  - **Next falsification check:** look for a second, non-quotation anchor shared by the two pages (e.g., the green binding device “single star above… sea,” “ticklish business,” “wonderful hands,” or a repeat of Pluckley/Kent); separately, note that Pages/cains_jawbone_page_50.md’s Greek Anthology “Homonoea” line overlaps Pages/cains_jawbone_page_12.md (Phase 5 join-candidate, not a Phase 4 ordering claim).
 
 - **Cluster:** `N40` Bills-in-paper / Bryant & May / Left Luggage voice (confidence: `MAYBE`)
   - **Pages:** Pages/cains_jawbone_page_23.md
