@@ -18,7 +18,8 @@ Then there disappeared the last rose flivers of the Prussian beast. He had died 
 - **Voice/tells:**
   - Suave self-assurance under threat; explicitly frames the situation as falsifiable (“verify… I never travel without my diary”).
 - **Ordering hypotheses:**
-  - LIKELY: belongs in the will/forgery cluster (Pages/cains_jawbone_page_28.md, Pages/cains_jawbone_page_50.md).
+  - LIKELY: thematically adjacent to the will/forgery cluster (Pages/cains_jawbone_page_28.md, Pages/cains_jawbone_page_50.md), but no phrase-level anchors currently connect it to those pages beyond generic forgery/will motifs.
+  - MAYBE: better treated as its own voice until a second non-quotation anchor recurs (e.g., “new instrument,” “lips were wiped clean,” “Prussian beast”).
 - **Disconfirming evidence:**
   - If “instrument” is non-writing (e.g., medical) and “mimic artistry” refers to something other than handwriting/documents.
 - **Research needed:**

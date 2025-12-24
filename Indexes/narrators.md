@@ -158,7 +158,7 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_78.md
   - **Confidence:** `MAYBE`
   - **Disconfirming evidence:** “diary/verify” language appears elsewhere in an unmistakably different voice, or Page 78 is later shown to be quoting another speaker rather than the narrator.
-  - **Notes:** Singleton for now; next check: scan will/forgery pages for the exact “verify/diary” falsifiability framing and “falser hand” wording before merging into `N10`/`N39`.
+  - **Notes:** Singleton for now. Resolved check: the exact “verify/diary” and “falser hand” phrasing appears only on Pages/cains_jawbone_page_78.md (no repeats on Pages/cains_jawbone_page_12.md, Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_28.md, Pages/cains_jawbone_page_50.md), so keep as overlap-only until a second non-quotation anchor recurs.
 
 - `N19` — Comic coastal punster (buttonholes/lighthouse/brand riffs):
   - **Signature tells:** comic, pun-heavy narration; branded-food riffing (Bisto/Cerebos); suspicion framed as banter; coastal peril imagery (boy tumbling into sea; ruined lighthouse); drink/poison wordplay (“Emperor’s Peg” + vitriol/applejack); sound-mixup puns and initialism/punctuation decoding (O.M./M.O. → OM).

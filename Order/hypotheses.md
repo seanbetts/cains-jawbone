@@ -358,6 +358,10 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Rationale:** Page 78’s narrator voice is tightly anchored by explicit falsifiability framing and document/handwriting manipulation language.
   - **Key anchors:** “verify… I never travel without my diary”; “mimic artistry”; “falser hand”; “new instrument”.
   - **Disconfirming evidence:** “diary/verify” language appears elsewhere in an unmistakably different voice, or Page 78 is later shown to be quoting another speaker rather than the narrator.
+  - **Phase 4 internal ordering hypotheses (N18):**
+    - Singleton page; no internal ordering possible yet.
+  - **Resolved check:** searched will/forgery pages (Pages/cains_jawbone_page_12.md, Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_28.md, Pages/cains_jawbone_page_50.md) for phrase-level anchors (“verify/diary,” “falser hand,” “mimic artistry,” “new instrument,” “lips were wiped clean”) and found **no repeats**; keep Pages/cains_jawbone_page_78.md as a standalone voice that is thematically adjacent to the will/forgery strand but not yet placeable within it.
+  - **Next falsification check:** look for a second non-quotation anchor that recurs with Pages/cains_jawbone_page_78.md (e.g., “new instrument,” “lips were wiped clean,” “Prussian beast”) before using it to stitch the will/forgery cluster (Phase 5).
 
 - **Cluster:** `N19` Comic coastal punster (buttonholes/lighthouse/brand riffs) (confidence: `LIKELY`)
   - **Pages:** Pages/cains_jawbone_page_4.md, Pages/cains_jawbone_page_5.md
