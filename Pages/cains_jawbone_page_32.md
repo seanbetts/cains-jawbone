@@ -22,7 +22,7 @@ I was a little consoled for the weeping weather by the fact that Gainsborough ha
 - **Voice/tells:**
   - Literate, self-critical about fit/metrics; suggests a “job” with ominous outcome (“hemp”).
 - **Ordering hypotheses:**
-  - MAYBE: Pages/cains_jawbone_page_32.md → Pages/cains_jawbone_page_3.md (both hinge on a key “yesterday” instructions meeting; p32 reads like morning-after reflection, p3 like on-the-road execution; Sequence A in `Order/hypotheses.md`’s `N03` block).
+  - LIKELY: precedes Pages/cains_jawbone_page_3.md (p32 frames the narrator’s “job” and the instruction-giver appointment “yesterday”, ending “My job might prove him right.”; p3 opens with the meeting “yesterday” and gives the detailed dosing/instructions; both also share a Whitman layer + weather/kit register (“weeping weather” ↔ “rain-proof coat, good shoes”); see `Order/hypotheses.md` `N03` Sequence A).
   - MAYBE: Henry↔Clément continuity thread (Pages/cains_jawbone_page_3.md, Pages/cains_jawbone_page_24.md, Pages/cains_jawbone_page_27.md), pending whether Henry is the same participant across these pages.
 - **Disconfirming evidence:**
   - If “Gainsborough gone out” is later shown to mean travel/departure rather than a death-date anchor.

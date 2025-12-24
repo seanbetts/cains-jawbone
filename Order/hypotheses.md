@@ -889,11 +889,11 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Key anchors:** pope-count clue + Giulio de Medici; Page 3’s “meeting with Clement”; Page 27’s “tiny Clem”.
   - **Disconfirming evidence:** Page 24 narrator is explicitly named something else later, or “Clement” is purely thematic.
   - **Phase 4 internal ordering hypotheses (N03):**
-    - **Sequence A — instruction-giver / pills setup** (confidence: `MAYBE`)
+    - **Sequence A — instruction-giver / pills setup** (confidence: `LIKELY`)
       - **Pages (ordered):** Pages/cains_jawbone_page_32.md → Pages/cains_jawbone_page_3.md
       - **Why:**
-        - Both pages pivot on a key meeting “yesterday” in which the narrator receives detailed instructions for a “job” and/or dosing (“assassin’s wonderful substance”).
-        - Pages/cains_jawbone_page_32.md reads as a morning-after reflection at/near the appointment location, while Pages/cains_jawbone_page_3.md reads like the narrator is already en route (“I was on my way…”) and on pill #2.
+        - Pages/cains_jawbone_page_32.md frames the narrator’s “job” (ending “My job might prove him right.”) immediately after describing the instruction-giver appointment “yesterday”; Pages/cains_jawbone_page_3.md opens with the instruction meeting “yesterday” and gives the detailed dosing/instructions (pills; “assassin’s wonderful substance”).
+        - Both pages share the same structural posture: morning-after / “yesterday” appointment recap → narrator in motion (“I was on my way…”) with concrete kit/conditions (“weeping weather” ↔ “rain-proof coat, good shoes”) and a Whitman layer.
       - **Disconfirming evidence:**
         - The “yesterday” meeting/appointment is shown to involve different people/contexts on the two pages, or the physical setting markers make the pages incompatible as adjacent.
     - **Sequence B — jasmine/house suspicion beat** (confidence: `MAYBE`)
