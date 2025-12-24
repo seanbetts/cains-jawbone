@@ -426,12 +426,13 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
       - **Disconfirming evidence:**
         - “first introduction” in Pages/cains_jawbone_page_49.md is later shown to refer to a different Henry than the guide/axis figure in Pages/cains_jawbone_page_92.md/Pages/cains_jawbone_page_42.md.
     - **Sequence C — post‑encounter fixation at tea (tentative)** (confidence: `MAYBE`)
-      - **Pages (ordered):** Pages/cains_jawbone_page_92.md → Pages/cains_jawbone_page_42.md → (MAYBE: Pages/cains_jawbone_page_47.md)
+      - **Pages (ordered):** Pages/cains_jawbone_page_49.md → Pages/cains_jawbone_page_92.md → Pages/cains_jawbone_page_42.md → (MAYBE: Pages/cains_jawbone_page_47.md)
       - **Why:**
-        - Pages/cains_jawbone_page_47.md intensifies the “she has got me” register and keeps Henry’s policing/correction role, reading plausibly as a later beat after the first “electrically aware” encounter.
+        - Extends Sequence B with a plausible later “coda” beat: Pages/cains_jawbone_page_47.md intensifies the “she has got me” register and keeps Henry’s policing/correction role, reading plausibly as a later moment after the first “electrically aware” encounter.
       - **Disconfirming evidence:**
         - “she” in Pages/cains_jawbone_page_47.md is proven to be someone other than the woman in Pages/cains_jawbone_page_42.md, or the tea vocabulary is shown to be coded and unrelated to the seduction scene.
-  - **Next falsification check:** resolve whether “she” in Pages/cains_jawbone_page_47.md is the same woman as Pages/cains_jawbone_page_42.md’s tall “Julienne?” (need a phrase-level or attribute-level repeat beyond generic infatuation language).
+  - **Resolved check:** searched for a phrase-level/attribute-level repeat tying Pages/cains_jawbone_page_47.md’s “she” to Pages/cains_jawbone_page_42.md’s tall “Julienne?” (name guess, lace/butterfly, jaguar imagery) and found no second anchor beyond Henry-in-scene + generic infatuation language; keep Pages/cains_jawbone_page_47.md as a `MAYBE` extension rather than an adjacency lock.
+  - **Next falsification check:** find any second, non-generic anchor that links Pages/cains_jawbone_page_47.md to the Pages/cains_jawbone_page_92.md → Pages/cains_jawbone_page_42.md sequence (e.g., repeated tea/menu naming, a repeat of the “surface”/eye imagery, or a shared descriptive phrase for “she”).
 
 - **Cluster:** `N22` Morbid London decoder (plague quotation voice) (confidence: `MAYBE`)
   - **Pages:** Pages/cains_jawbone_page_2.md

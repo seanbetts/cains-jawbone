@@ -23,6 +23,7 @@ I assure you I had not seen her enter  but suddenly I was electrically aware tha
   - Sensory, eroticised description; fixates on eyes/surface.
 - **Ordering hypotheses:**
   - CERTAIN: preceded by Pages/cains_jawbone_page_92.md (Browning “Saul” stanza continuation: “...living and blue” → “Just broken to twine...”).
+  - MAYBE: followed later by Pages/cains_jawbone_page_47.md as a “she has got me” tea beat (pending whether p47’s “she” is this same woman; see `Order/hypotheses.md` `N21` Sequence C).
   - MAYBE: links to Pages/cains_jawbone_page_43.md (same woman/cocktail-bar setting).
   - MAYBE: links to Flecker/allusion-heavy narrator thread (Pages/cains_jawbone_page_40.md) if the verse is related.
 - **Disconfirming evidence:**

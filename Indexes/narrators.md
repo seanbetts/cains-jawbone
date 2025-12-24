@@ -182,7 +182,7 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_47.md, Pages/cains_jawbone_page_49.md, Pages/cains_jawbone_page_92.md
   - **Confidence:** `LIKELY`
   - **Disconfirming evidence:** the “dazed” and sensual-description style is shown to be a generic motif reused across unrelated narrators, or Henry’s role differs incompatibly across the pages.
-  - **Notes:** Page 92 shares a Browning “Saul” excerpt and the “what … next?” anticipation framing with Page 42; treat as part of this voice unless the quotation is shown to be widely reused across narrators.
+  - **Notes:** Page 92 shares a Browning “Saul” excerpt and the “what … next?” anticipation framing with Page 42; treat as part of this voice unless the quotation is shown to be widely reused across narrators. Pages/cains_jawbone_page_47.md’s “she” remains unresolved (no second anchor tying her to Pages/cains_jawbone_page_42.md’s “Julienne?”), so keep it as a `MAYBE` extension within this voice.
 
 - `N22` — Morbid London decoder (plague quotation voice):
   - **Signature tells:** decoding/reading completion framing (“figures and letters”); London homecoming with sepulchral beauty imagery; stitched-in historical plague prose used as an immediate interpretive lens.
