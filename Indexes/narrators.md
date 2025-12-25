@@ -105,7 +105,7 @@ Template:
   - **Notes:** Singleton for now; next check: search for the “Black Museum” + orthographic name-instruction combo in other detective pages (esp. Pages/cains_jawbone_page_100.md) before proposing any merge.
 
 - `N12` — Calabar/digitalis poison-logistics + murder-as-genre voice:
-  - **Signature tells:** poison-botany specificity (Calabar bean/physostigma; digitalis) embedded in murder logistics; darkly comic genre-aware murder framing (murder counts, pursuit set-pieces); pragmatic “try again tomorrow” planning language; wordplay/idiom-twisting tied to botany and deception (“botulist”; “up the garden path”).
+  - **Signature tells:** poison-botany specificity (Calabar bean/physostigma; digitalis) embedded in murder logistics; darkly comic genre-aware murder framing (murder counts, pursuit set-pieces); pragmatic “try again tomorrow” planning language; wordplay/idiom-twisting tied to botany and deception (“botulist”; “up the garden path”); rare repeated phrasing (“drawing towards a close”; “awkward”).
   - **Likely identity (if any):** unknown.
   - **Pages:** Pages/cains_jawbone_page_6.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_26.md, Pages/cains_jawbone_page_29.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_58.md, Pages/cains_jawbone_page_59.md, Pages/cains_jawbone_page_60.md
   - **Confidence:** `LIKELY`

@@ -279,6 +279,18 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - Pages/cains_jawbone_page_36.md frames “old Calabar” as having “fail[ed]” the narrator (with a “give him another day” reprieve), while Pages/cains_jawbone_page_29.md treats the West African ordeal bean as a “disappointment” and explicitly “discard[s]” physostigma.
       - **Disconfirming evidence:**
         - “physostigma” on Pages/cains_jawbone_page_29.md is later shown to refer to something other than the ordeal-bean/Calabar thread, or the “discard” is explicitly prior to (not a follow-on from) the Pages/cains_jawbone_page_21.md → Pages/cains_jawbone_page_36.md run.
+    - **Sequence G — “drawing towards a close” echo (direction TBD)** (confidence: `LIKELY`)
+      - **Pages (linked):** Pages/cains_jawbone_page_29.md ↔ Pages/cains_jawbone_page_35.md
+      - **Why:**
+        - Both pages use the unusual phrase “drawing towards a close” in near-identical narrator voice contexts; Pages/cains_jawbone_page_29.md additionally pairs it with “one never knew,” which recurs on Pages/cains_jawbone_page_35.md.
+      - **Disconfirming evidence:**
+        - Another page is found to share the exact “drawing towards a close” phrasing, weakening its value as a bridge, or later evidence shows Pages/cains_jawbone_page_29.md is a quoted/embedded aside unrelated to the Henry pursuit strand.
+    - **Sequence H — “awkward” echo (direction TBD)** (confidence: `LIKELY`)
+      - **Pages (linked):** Pages/cains_jawbone_page_36.md ↔ Pages/cains_jawbone_page_59.md
+      - **Why:**
+        - “awkward” appears only on these two pages in the page bodies (“distinctly awkward…” / “awkward with Trinder”), suggesting a deliberate voice-level bridge between poison failure logistics and the later Trinder/gelsemium segment.
+      - **Disconfirming evidence:**
+        - A third page is found to share the same “awkward” phrasing in a clearly different narrator/setting, or one of the usages is shown to be a direct quotation.
   - **Resolved check (Henry identity):** within `N12`, “Henry” behaves like at least two incompatible roles: a killer/suspect under pursuit with explicit corpse-handling (Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_26.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_58.md) vs a narrator-controlled “peerless investigator” (Pages/cains_jawbone_page_60.md). Treat `P01` Henry as high-noise here: keep `N12` sub-strands ordered internally, but do not stitch them together on “Henry” alone.
   - **Next falsification check:** before using Pages/cains_jawbone_page_60.md to order within the broader `N12` umbrella, require a second non-name anchor linking it to the killer/manhunt strand (e.g., Wellington Crisp/flying squad, “crimson list”, “little blue door” knock) or linking the killer/manhunt pages to Trinder/gelsemium language.
 
