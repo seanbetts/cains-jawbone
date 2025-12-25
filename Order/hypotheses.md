@@ -640,10 +640,11 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
       - **Pages (ordered):** Pages/cains_jawbone_page_68.md → Pages/cains_jawbone_page_69.md → Pages/cains_jawbone_page_95.md → Pages/cains_jawbone_page_70.md
       - **Why:**
         - Pages/cains_jawbone_page_68.md supplies the “last crucial meeting with the old man” + suspected eavesdropper setup; Pages/cains_jawbone_page_69.md gives the late-night psychological aftermath of witnessing the old man “done slowly to death”.
+        - Pages/cains_jawbone_page_69.md’s “I had seen every minute of it” aligns with Pages/cains_jawbone_page_95.md’s “hour by hour, day by day” framing for the written account (time-granularity echo beyond the generic “old man/he”).
         - Pages/cains_jawbone_page_95.md’s “hour by hour, day by day” account is compatible with a slow-death timeline; Pages/cains_jawbone_page_70.md then moves into the blackmail/retaliation fear after “told all I knew”.
       - **Disconfirming evidence:**
         - Pages/cains_jawbone_page_69.md’s “done slowly to death” proves figurative, or Pages/cains_jawbone_page_95.md’s “horrid act” is later shown to be unrelated to the old-man strand.
-  - **Next falsification check:** search for a second phrase-level anchor that ties Pages/cains_jawbone_page_68.md/Pages/cains_jawbone_page_69.md directly to the Pages/cains_jawbone_page_95.md/Pages/cains_jawbone_page_70.md letter thread (beyond generic “old man/he”).
+  - **Next falsification check:** find a second phrase/prop-level anchor tying Pages/cains_jawbone_page_68.md/Pages/cains_jawbone_page_69.md directly to the Pages/cains_jawbone_page_95.md/Pages/cains_jawbone_page_70.md letter thread beyond time-granularity (“minute” ↔ “hour by hour, day by day”) and generic “old man/he”.
 
 - **Cluster:** `N07` Bunny and Perry (Pro/Con) mental debate (confidence: `CERTAIN`)
   - **Pages:** Pages/cains_jawbone_page_93.md, Pages/cains_jawbone_page_97.md
