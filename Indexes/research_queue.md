@@ -32,6 +32,13 @@ Template:
   - **Status:** `resolved`
   - **Result:** Rudyard Kipling, “The Conversion of Aurelian McGoggin” (*Plain Tales from the Hills*, 1888): “It was just before the Rains. We were sitting in the verandah in the dead, hot, close air…” https://en.wikisource.org/wiki/Plain_Tales_from_the_Hills/The_Conversion_of_Aurelian_McGoggin
 
+- **Item:** Identify the source of “little silver frogs” / “twin cataracts” (Page 47 weather/hair imagery)
+  - **Type:** quote
+  - **Pages:** Pages/cains_jawbone_page_47.md
+  - **Why it matters:** Used as potential continuity/setting texture inside `N21`; if it’s detachable allusion, it should not be used for sequencing.
+  - **Status:** `stalled`
+  - **Result:** No exact match for “silver frogs all along the road” / “split… into twin cataracts” found in Wikisource/Google Books. Phrase “little silver frogs” appears in *Notes and Queries* (1868) p. 261 as a charm/amulet phrase (http://books.google.co.uk/books?id=3vpm7Iz1MAsC&pg=PA261&dq=%22little+silver+frogs%22&hl=&as_brr=7&cd=1&source=gbs_api), but context does not match Page 47; keep as MAYBE allusion only.
+
 - **Item:** Identify the source of “graves of the martyrs… whaups… my heart remembers how”
   - **Type:** quote
   - **Pages:** Pages/cains_jawbone_page_1.md

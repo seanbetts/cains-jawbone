@@ -29,3 +29,4 @@ Babs now moves across the vision, crowned with two straight downfalls, as it wer
   - If “Orange Pekoe / Special Orange Supreme” turns out to be non-tea (menu/code) rather than beverage continuity.
 - **Research needed:**
   - Track whether Babs recurs (and whether Babs vs “she” are distinct).
+  - Identify whether “little silver frogs” / “twin cataracts” imagery is a quotation/collage (MAYBE lead: “little silver frogs” appears in *Notes and Queries* (1868) p. 261 as a charm phrase; no exact match to this page’s full wording yet): http://books.google.co.uk/books?id=3vpm7Iz1MAsC&pg=PA261&dq=%22little+silver+frogs%22&hl=&as_brr=7&cd=1&source=gbs_api
