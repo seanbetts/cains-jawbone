@@ -495,10 +495,20 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Disconfirming evidence:** the scene is later shown to be metaphorical or an embedded quotation recounted by another narrator, or the same “no detective” self-exculpation recurs under an incompatible voice elsewhere.
 
 - **Cluster:** `N29` Post‑Vorticists / Firbank / “chamber within chamber” anxiety voice (confidence: `MAYBE`)
-  - **Pages:** Pages/cains_jawbone_page_37.md
-  - **Rationale:** Page 37’s voice blends art-world framing and ornate decor with anxious weapon/evidence language and a credibility fear (“who would believe me?”), anchored by the Firbank/Malta name-drop.
-  - **Key anchors:** “yellow jasmine”; “rococo mirror”; “private view… post‑Vorticists”; Ronald Firbank in Malta; “chamber within chamber”; “open the bores”.
+  - **Pages:** Pages/cains_jawbone_page_37.md, Pages/cains_jawbone_page_27.md (MAYBE extension)
+  - **Rationale:** Page 37’s voice blends art-world framing and ornate decor with anxious weapon/evidence language and a credibility fear (“who would believe me?”), anchored by the Firbank/Malta name-drop. Pages/cains_jawbone_page_27.md is a `MAYBE` extension keyed by the unusual “Death… fingered” phrasing + Shrewsbury lock‑up/prison framing (“this time” the incarcerated person would/could not hear), but it lacks the Firbank/post‑Vorticist anchors, so keep it low-confidence.
+  - **Key anchors:** “yellow jasmine”; “rococo mirror”; “private view… post‑Vorticists”; Ronald Firbank in Malta; “chamber within chamber”; “open the bores”; “Death… fingered”; Shrewsbury lock‑up/prison “this time” hearing contrast.
   - **Disconfirming evidence:** the art/Firbank layer is shown to be detachable quotation collage used by multiple narrators, or the “bores/chambers” language is proven non-weapon and the voice aligns with an existing narrator signature.
+  - **Phase 4 internal ordering hypotheses (N29):**
+    - **Sequence A — Death-fingered / Shrewsbury lock-up echo** (confidence: `MAYBE`)
+      - **Pages (ordered):** Pages/cains_jawbone_page_27.md → Pages/cains_jawbone_page_37.md
+      - **Why:**
+        - Both pages use the rare “Death… fingered” metaphor and explicitly contrast what the incarcerated person can hear “this time”, with both implying Shrewsbury (county town on the Severn; Hotspur’s death).
+        - Both mix ornate scene texture (table/jasmine/bowls; domestic breakfast routine) with an anxious, forensic register (breach/opening; “open the bores”; “chamber within chamber” concealment).
+      - **Disconfirming evidence:**
+        - Pages/cains_jawbone_page_27.md’s “Clem” thread is later proven incompatible with the Page 37 narrator (e.g., Clem is identified as the narrator/actor in a way that contradicts Page 37’s Alexander/Firbank/Malta identity).
+        - A third page repeats the “Death… fingered” phrasing under a clearly different narrator, weakening it as a voice anchor.
+    - **Next falsification check:** seek a second independent continuity marker linking Pages/cains_jawbone_page_27.md ↔ Pages/cains_jawbone_page_37.md (repeated proper noun/prop/setting detail beyond Shrewsbury + “Death… fingered”) before promoting Pages/cains_jawbone_page_27.md from overlap to core N29.
 
 - **Cluster:** `N30` Southend “tragic fortnight” / Sonia Gordon + omelette-stab voice (confidence: `MAYBE`)
   - **Pages:** Pages/cains_jawbone_page_38.md

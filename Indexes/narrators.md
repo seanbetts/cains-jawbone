@@ -241,12 +241,12 @@ Template:
   - **Notes:** Singleton for now; next check: search for the exact “thank goodness, I was no detective” or “Band, Speckled” mishearing; don’t merge on generic Holmes/window props alone.
 
 - `N29` — Post‑Vorticists / Firbank / “chamber within chamber” anxiety voice:
-  - **Signature tells:** art-world framing (post‑Vorticists private view); high-society decor cues (rococo mirror; brimming jasmine bowl); biographical name-drop (Ronald Firbank in Malta); weapon/evidence lexicon (“bores”; “chamber within chamber”) tied to fear of credibility (“who would believe me?”).
+  - **Signature tells:** art-world framing (post‑Vorticists private view); high-society decor cues (rococo mirror; brimming jasmine bowl); biographical name-drop (Ronald Firbank in Malta); weapon/evidence lexicon (“bores”; “chamber within chamber”) tied to fear of credibility (“who would believe me?”). MAYBE overlap tell: rare “Death… fingered” metaphor + Shrewsbury lock‑up/prison “this time” hearing contrast (Pages/cains_jawbone_page_27.md ↔ Pages/cains_jawbone_page_37.md).
   - **Likely identity (if any):** unknown.
-  - **Pages:** Pages/cains_jawbone_page_37.md
+  - **Pages:** Pages/cains_jawbone_page_37.md, Pages/cains_jawbone_page_27.md (MAYBE extension)
   - **Confidence:** `MAYBE`
   - **Disconfirming evidence:** the art/Firbank layer is later shown to be detachable quotation collage used by multiple narrators, or the “bores/chambers” language is proven to be non-weapon and the voice aligns better with an existing narrator signature.
-  - **Notes:** Singleton for now; next check: search for Firbank-in-Malta / post‑Vorticists / “chamber within chamber” wording before merging with other jasmine/aesthetic pages.
+  - **Notes:** Pages/cains_jawbone_page_37.md is core; Pages/cains_jawbone_page_27.md is treated as overlap-only until a second independent continuity marker appears beyond Shrewsbury + “Death… fingered”. Next check: search for Firbank‑in‑Malta / post‑Vorticists / “chamber within chamber” wording and for reuse of “Death… fingered” under a different voice.
 
 - `N30` — Southend “tragic fortnight” / Sonia Gordon + omelette-stab voice:
   - **Signature tells:** classical self-consciousness (“Video meliora proboque”) combined with covert observation (fixation on elbow “fossettes”) and a remembered Southend episode; abrupt violence language (“as I stabbed once”) colliding with culinary metaphor (omelette/eggs) and deliberate misnaming (Brontë for Corday in the Marat vignette).

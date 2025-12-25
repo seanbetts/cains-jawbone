@@ -17,8 +17,10 @@ I had seen, day after day, every sunlit or night obscured detail of the funny ol
 - **Ordering hypotheses:**
   - LIKELY: connects to the Clement/Clem thread (Pages/cains_jawbone_page_3.md, Pages/cains_jawbone_page_24.md) via the nickname “Clem”.
   - MAYBE: functions as retrospective “Clem” backstory (Sequence C in `Order/hypotheses.md`’s `N03` block) that can sit adjacent to either the instruction/pills beat (Pages/cains_jawbone_page_32.md, Pages/cains_jawbone_page_3.md) or the house/jasmine suspicion beat (Pages/cains_jawbone_page_30.md, Pages/cains_jawbone_page_24.md) once a phrase-level anchor repeats.
+  - MAYBE: overlaps Pages/cains_jawbone_page_37.md via the rare “Death… fingered” phrasing + Shrewsbury lock‑up/prison framing (“this time” the incarcerated person would/could not hear).
 - **Disconfirming evidence:**
   - If “Clem” is later clearly a different person than “Clement” on Page 3 (surname/role mismatch).
+  - If the “Death… fingered” + Shrewsbury lock‑up echo is shown to be a detachable quotation or a reused motif across unrelated voices.
 - **Research needed:**
   - (Resolved/LIKELY) “county town on the Severn” likely refers to Shrewsbury (county town of Shropshire; situated on the river Severn) (EB1911 “Shrewsbury”: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Shrewsbury). “tapping… at the very walls” reads as Death-as-burglar metaphor rather than a specific named case (no clear external source yet).
   - Identify what “two on toast” refers to (food clue).

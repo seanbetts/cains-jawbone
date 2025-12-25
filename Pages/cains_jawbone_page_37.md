@@ -19,6 +19,7 @@ Death’s clumsy fingered, that was the really frightful thing : I had seen them
   - Forensic anxiety + ornate setting; identity remark (“my parents… I should be one… never… the other”) suggests a personal/biographical tell.
 - **Ordering hypotheses:**
   - MAYBE: fits the “jasmine” motif thread (Pages/cains_jawbone_page_10.md, Pages/cains_jawbone_page_22.md, Pages/cains_jawbone_page_24.md).
+  - MAYBE: overlaps Pages/cains_jawbone_page_27.md via the “Death… fingered” metaphor + Shrewsbury lock‑up/prison “this time” hearing contrast.
 - **Disconfirming evidence:**
   - If “bores/chambers” proves unrelated to a weapon/evidence mechanism.
 - **Research needed:**
