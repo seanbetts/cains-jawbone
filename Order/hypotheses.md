@@ -629,12 +629,13 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - Pages/cains_jawbone_page_70.md reads as the immediate aftermath: the narrator has “told all I knew”, leaves a franked item to be found “in the morning” by “the girl”, and fears retaliation (“do me in”).
       - **Disconfirming evidence:**
         - Pages/cains_jawbone_page_70.md’s “franked” item is shown to be unrelated to Pages/cains_jawbone_page_95.md’s written account (different recipient/object), or the timing can’t accommodate a write-then-leave sequence.
-    - **Sequence B — café waiting/tea near the writing** (confidence: `MAYBE`)
-      - **Pages (ordered):** Pages/cains_jawbone_page_96.md ↔ Pages/cains_jawbone_page_95.md
+    - **Sequence B — café waiting → decide to write** (confidence: `LIKELY`)
+      - **Pages (ordered):** Pages/cains_jawbone_page_96.md → Pages/cains_jawbone_page_95.md
       - **Why:**
-        - Pages/cains_jawbone_page_96.md’s menu/tea + “waiting… for the possible her” reads as the kind of idle café interval that could bracket Pages/cains_jawbone_page_95.md’s decision to write.
+        - Pages/cains_jawbone_page_96.md is an in-situ café beat: ordering tea, reading the menu (“the only literature before me”), and waiting “for the possible her” amid a “mysterious” meeting.
+        - Pages/cains_jawbone_page_95.md then supplies the follow-through decision/action (“I had decided what to do” → pen/ink ritual → “told him all, hour by hour, day by day”), which reads like the next thing that happens once the waiting resolves into a plan.
       - **Disconfirming evidence:**
-        - Pages/cains_jawbone_page_96.md’s setting is later shown to be incompatible with the Café Royal context implied by Pages/cains_jawbone_page_95.md.
+        - Pages/cains_jawbone_page_95.md’s opening time-budgeting is shown to be a pre-arrival travel beat incompatible with Pages/cains_jawbone_page_96.md’s already-seated tea/menu scene (forcing `95 → 96`), or Pages/cains_jawbone_page_96.md is later anchored to a non–Café Royal setting.
     - **Sequence C — old-man thread → written account** (confidence: `MAYBE`)
       - **Pages (ordered):** Pages/cains_jawbone_page_68.md → Pages/cains_jawbone_page_69.md → Pages/cains_jawbone_page_95.md → Pages/cains_jawbone_page_70.md
       - **Why:**
