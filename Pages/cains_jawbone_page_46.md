@@ -28,7 +28,7 @@ In one way, of course, I was glad they were married. I had always been rather a 
   - Naïve/undereducated self-description (“real education… just listening to him”); name/identity sensitivity (“Hal”).
 - **Ordering hypotheses:**
   - MAYBE: animal POV segment (chop + naming + naïve register).
-  - LIKELY: continuation beat tied to Pages/cains_jawbone_page_88.md (shared “listen to him” phrasing + “he said to her, out of a book” quotation dynamic; plus Tom/Jasmine household continuity: “Tom and Flora’s Jasmine” ↔ “Some Tom… in the matter of Jasmine”). Treat as **not adjacent** to the mid‑August spine due to its Dec 14 daybook anchor (see `Order/hypotheses.md` `N02` Continuation beat).
+  - LIKELY: continuation beat tied to Pages/cains_jawbone_page_88.md (shared “listen to him” framing + “he said to her, out of a book” quotation dynamic; plus Tom/Jasmine household continuity: “Tom and Flora’s Jasmine” ↔ “Some Tom… in the matter of Jasmine”). Treat as a late‑year `N02` coda (Dec 14 daybook anchor) rather than a mid‑August spine page (see `Order/hypotheses.md` `N02` Coda).
   - MAYBE: connects to jasmine motif thread and to “murderous doctor”/doctor-leading-old-man pages.
 - **Disconfirming evidence:**
   - If “chop” and “Hal” prove metaphorical and the narrator is clearly human in later linked pages.

@@ -896,19 +896,25 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - “went back two days” is purely conversational (not chronological), or the bet described on Pages/cains_jawbone_page_39.md and Pages/cains_jawbone_page_10.md is shown to be different.
         - A different page supplies the “same bow” setup that Pages/cains_jawbone_page_8.md’s “Later…” refers to, or “jossers” is shown to refer to something other than the scissors/implements used to trim/adjust the bow ends.
         - Mr. Hall/knob appears in two unrelated households, making the shared mechanism non-continuous.
-    - **Branch — Flora mating continuation** (confidence: `LIKELY`)
-      - **Pages (ordered):** Pages/cains_jawbone_page_22.md → Pages/cains_jawbone_page_79.md
+    - **Lead-in — Flora + grouse-season opener** (confidence: `MAYBE`)
+      - **Pages (ordered):** Pages/cains_jawbone_page_22.md → Pages/cains_jawbone_page_79.md → Pages/cains_jawbone_page_48.md
       - **Why:**
         - Pages/cains_jawbone_page_79.md says “I made love to Flora again…”, reading as a continuation from Pages/cains_jawbone_page_22.md’s explicit “made love to Flora” + banishment aftermath.
+        - Pages/cains_jawbone_page_79.md’s Sandy sleeplessness + “next day he would be allowed to fetch back Lagopus scoticus” reads like the eve of red-grouse retrieving being “allowed again” after a long closed season, which would naturally lead into Pages/cains_jawbone_page_48.md’s likely Aug 12 daybook anchor (“another” Tate).
+        - Pages/cains_jawbone_page_79.md’s “as flush as May” aligns with Pages/cains_jawbone_page_48.md’s botanical joke-name “Crataegus Oxyacantha” (hawthorn = “May”), strengthening the bridge beyond pure calendar reasoning.
       - **Disconfirming evidence:**
-        - “Flora” is shown to be different referents on the two pages, or “again” is anchored to an intervening page (showing Pages/cains_jawbone_page_79.md’s “again” points elsewhere).
-    - **Continuation beat — Dec 14 domestic (not adjacent)** (confidence: `LIKELY`)
-      - **Pages:** Pages/cains_jawbone_page_46.md
+        - “Flora” resolves to different referents across these pages (dog mate vs human), and no second shared household marker appears.
+        - The Lagopus line is shown not to refer to seasonal grouse retrieving (so it cannot act as an Aug‑12 lead-in).
+        - The “May” phrasing is shown to be unrelated to hawthorn/Crataegus wordplay (or occurs widely elsewhere).
+    - **Coda — Dec 14 domestic** (confidence: `MAYBE`)
+      - **Pages (ordered):** Pages/cains_jawbone_page_19.md → Pages/cains_jawbone_page_46.md
       - **Why:**
-        - Shared domestic observer register (“listen to him”; “he said to her, out of a book”) plus Tom/Jasmine household continuity (“Tom and Flora’s Jasmine” ↔ “Some Tom… in the matter of Jasmine”).
-        - “glad they were married” reads as a later relationship state than Pages/cains_jawbone_page_88.md’s “first quarrel”; its Dec 14 daybook anchor implies it is not adjacent to the mid‑August run.
+        - Pages/cains_jawbone_page_46.md’s Dec 14 “to-day” anchor (Albert, Prince Consort) is later in the year than the mid‑August daybook run, making it a plausible late capstone within `N02`.
+        - Shared domestic observer register (“listen to him”; “he said to her, out of a book”) plus Tom/Jasmine household continuity (“Tom and Flora’s Jasmine” ↔ “Some Tom… in the matter of Jasmine”) reads like a later domestic beat after the couple-argument pages.
       - **Disconfirming evidence:**
         - The Tom/Jasmine references are shown to be different referents, or Pages/cains_jawbone_page_46.md’s couple/context proves incompatible with the Pages/cains_jawbone_page_48.md/Pages/cains_jawbone_page_88.md domestic setup.
+        - Another `N02` page is found with an intermediate autumn date anchor and clear continuity that would need to sit between the Aug 18 pages and Pages/cains_jawbone_page_46.md.
+    - **Falsification check (2025-12-25):** searched the page corpus for `N02` anchors outside the dog set (Tate; Mr. Hall; “Hal”; Sandy; Bob Martin; Lagopus scoticus; Tusitala) and found no additional occurrences → treat the Lead-in and Coda as wordplay/date-driven until a second non-calendar continuity marker appears.
   - **Resolved check (Pages/cains_jawbone_page_10.md ↔ Pages/cains_jawbone_page_99.md):** kept their adjacency as `LIKELY` (still primarily date-driven). Beyond calendar adjacency they share (1) an object-naming aside in the same syntactic slot (“…, as my mother had called them” vs “…, as Jasmine might so easily have called them”), (2) a shared singular/plural vocabulary focus (Pages/cains_jawbone_page_10.md explicitly complains about singular/plural misuse around “Boots”; Pages/cains_jawbone_page_99.md foregrounds the plural-only “jossers” needed to fix unequal bow ends; “josser” is attested as slang “a simple fellow” (C. J. Dennis glossary), supporting “the silly old jossers” as a jocular label for misplaced scissors/implements), and (3) strong dog-coded idiom (“could have howled” vs “three more left”).
 
 - **Cluster:** `N03` Clement / pills / flowers-and-mercy register (confidence: `LIKELY`)
