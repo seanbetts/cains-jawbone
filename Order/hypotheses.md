@@ -409,7 +409,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
 - **Cluster:** `N21` Dazed infatuation + bar/tea imagery voice (confidence: `LIKELY`)
   - **Pages:** Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_47.md, Pages/cains_jawbone_page_49.md, Pages/cains_jawbone_page_92.md
   - **Rationale:** A recurring narrator signature combines self-described dazedness with sensual fixation on surfaces/hair and a social drink/tea register, with Henry repeatedly serving as the axis of fascination or correction.
-  - **Key anchors:** “electrically aware” bar presence; cocktail after cocktail + cigarette; Babs copper hair + first rain; “I always feel a bit dazed”; Henry policing diction (“got me”); Browning “Saul” excerpt + “what Henry would think of next” anticipation.
+  - **Key anchors:** “electrically aware” bar presence; cocktail after cocktail + cigarette; Kipling pre‑Rains verandah quote (“dead, hot, close air… black-blue clouds”); “I always feel a bit dazed”; Henry policing diction (“got me”); Browning “Saul” excerpt + “what Henry would think of next” anticipation.
   - **Disconfirming evidence:** these are shown to be separate narrators sharing only general “sensual description” tropes.
   - **Phase 4 internal ordering hypotheses (N21):**
     - **Sequence A — Browning “Saul” line continuation lock** (confidence: `CERTAIN`)
@@ -433,7 +433,8 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - “she” in Pages/cains_jawbone_page_47.md is proven to be someone other than the woman in Pages/cains_jawbone_page_42.md, or the tea vocabulary is shown to be coded and unrelated to the seduction scene.
   - **Resolved check:** searched for a phrase-level/attribute-level repeat tying Pages/cains_jawbone_page_47.md’s “she” to Pages/cains_jawbone_page_42.md’s tall “Julienne?” (name guess, lace/butterfly, jaguar imagery) and found no second anchor beyond Henry-in-scene + generic infatuation language; keep Pages/cains_jawbone_page_47.md as a `MAYBE` extension rather than an adjacency lock.
   - **Resolved check:** searched corpus for non-generic Pages/cains_jawbone_page_47.md anchors (“Orange Pekoe”, “Special Orange Supreme”, “terrible conjunction of two little words”, Babs, “silver frogs”) and found them unique to Pages/cains_jawbone_page_47.md (no repeats on Pages/cains_jawbone_page_92.md / Pages/cains_jawbone_page_42.md or elsewhere), so no additional adjacency evidence emerged.
-  - **Next falsification check:** try to identify the hot-verandah drought→first-rain memory (place/time) to see if it aligns with another N21 page’s setting details (without assuming adjacency).
+  - **Resolved check (2025-12-25):** Pages/cains_jawbone_page_47.md’s “verandah… dead, hot, close air… black-blue clouds” passage is a direct quotation from Rudyard Kipling, “The Conversion of Aurelian McGoggin” (*Plain Tales from the Hills*), set in Anglo-India “just before the Rains” → treat as a detachable quotation layer rather than a reliable scene-setting anchor for sequencing.
+  - **Next falsification check:** determine whether Pages/cains_jawbone_page_47.md’s remaining weather/hair imagery (“silver frogs”; “twin cataracts”) is also a quotation, and seek a second independent continuity marker tying its “she” to Pages/cains_jawbone_page_42.md’s woman beyond Henry’s presence.
 
 - **Cluster:** `N22` Morbid London decoder (plague quotation voice) (confidence: `MAYBE`)
   - **Pages:** Pages/cains_jawbone_page_2.md

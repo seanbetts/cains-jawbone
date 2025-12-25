@@ -177,12 +177,12 @@ Template:
   - **Notes:** Grantham is a high-signal location anchor on Pages/cains_jawbone_page_13.md (1597 market-place conduit), which likely pins Pages/cains_jawbone_page_31.md’s “this very place” in the same incident; watch for recurrence of “naming business” and pocket/weapon gestures as stronger anchors.
 
 - `N21` — Dazed infatuation + bar/tea imagery voice:
-  - **Signature tells:** dazed, self-referential repetition (“I always…”); sensual fixation on surfaces/eyes/hair; social-table/bar settings with drink/tea naming; overt fascination with Henry (and Henry policing diction).
+  - **Signature tells:** dazed, self-referential repetition (“I always…”); sensual fixation on surfaces/eyes/hair; social-table/bar settings with drink/tea naming; quotation-collage (Browning “Saul” + Kipling pre‑Rains verandah line); overt fascination with Henry (and Henry policing diction).
   - **Likely identity (if any):** unknown.
   - **Pages:** Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_47.md, Pages/cains_jawbone_page_49.md, Pages/cains_jawbone_page_92.md
   - **Confidence:** `LIKELY`
   - **Disconfirming evidence:** the “dazed” and sensual-description style is shown to be a generic motif reused across unrelated narrators, or Henry’s role differs incompatibly across the pages.
-  - **Notes:** Page 92 shares a Browning “Saul” excerpt and the “what … next?” anticipation framing with Page 42; treat as part of this voice unless the quotation is shown to be widely reused across narrators. Pages/cains_jawbone_page_47.md’s “she” remains unresolved (no second anchor tying her to Pages/cains_jawbone_page_42.md’s “Julienne?”), so keep it as a `MAYBE` extension within this voice.
+  - **Notes:** Page 92 shares a Browning “Saul” excerpt and the “what … next?” anticipation framing with Page 42; treat as part of this voice unless the quotation is shown to be widely reused across narrators. Pages/cains_jawbone_page_47.md’s verandah/Rains line is Kipling (*Plain Tales from the Hills*), so treat it as detachable allusion (not a firm location anchor); its “she” remains unresolved (no second anchor tying her to Pages/cains_jawbone_page_42.md’s “Julienne?”), so keep it as a `MAYBE` extension within this voice.
 
 - `N22` — Morbid London decoder (plague quotation voice):
   - **Signature tells:** decoding/reading completion framing (“figures and letters”); London homecoming with sepulchral beauty imagery; stitched-in historical plague prose used as an immediate interpretive lens.

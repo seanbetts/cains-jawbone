@@ -25,6 +25,13 @@ Template:
   - **Why it matters:** Used as a potential voice/adjacency anchor for the N29 overlap (p27↔p37); if it’s a detachable quotation reused elsewhere, it should not be used for narrator linkage.
   - **Status:** `open`
 
+- **Item:** Identify the source of “verandah… dead, hot, close air… black-blue clouds”
+  - **Type:** quote
+  - **Pages:** Pages/cains_jawbone_page_47.md
+  - **Why it matters:** Used as a potential setting clue inside `N21`; if it’s a detachable quotation, it should not be used as a scene-setting anchor for sequencing.
+  - **Status:** `resolved`
+  - **Result:** Rudyard Kipling, “The Conversion of Aurelian McGoggin” (*Plain Tales from the Hills*, 1888): “It was just before the Rains. We were sitting in the verandah in the dead, hot, close air…” https://en.wikisource.org/wiki/Plain_Tales_from_the_Hills/The_Conversion_of_Aurelian_McGoggin
+
 - **Item:** Identify the source of “graves of the martyrs… whaups… my heart remembers how”
   - **Type:** quote
   - **Pages:** Pages/cains_jawbone_page_1.md

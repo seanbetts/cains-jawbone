@@ -62,6 +62,13 @@ Template:
   - **Confidence:** `LIKELY`
   - **Research needed:** no
 
+- **Snippet:** “It was just before the Rains… sitting in the verandah…”
+  - **Likely source/author:** Rudyard Kipling, “The Conversion of Aurelian McGoggin” (*Plain Tales from the Hills*, 1888): https://en.wikisource.org/wiki/Plain_Tales_from_the_Hills/The_Conversion_of_Aurelian_McGoggin
+  - **Why it matters:** Identifies Page 47’s hot-verandah/black-blue-clouds memory as a Kipling quotation (Anglo-India pre-monsoon), so it should be treated as a detachable allusion layer rather than a firm scene-setting anchor.
+  - **Pages:** Pages/cains_jawbone_page_47.md
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
+
 - **Snippet:** “Be not afraid, thy help is near.”
   - **Likely source/author:** Chorus/anthem text in *Words of Anthems Used in Westminster Abbey* (1878), p. 109: https://books.google.co.uk/books?id=FD9GAAAAYAAJ&pg=PA109&vq=%22thy+help+is+near%22
   - **Why it matters:** Wordplay -> Page 58’s “Be not a Freud; thy help is near” is a near-homophone pun on this line.
