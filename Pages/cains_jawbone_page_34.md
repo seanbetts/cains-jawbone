@@ -13,9 +13,9 @@ It was a petty employ for one of my reputation ; you would not hear, I felt, muc
   - Physical tell for the man: “throat… full of jelly” / “quag” speech.
 - **Ordering hypotheses:**
   - LIKELY: follows Pages/cains_jawbone_page_33.md within the `N25` debts/bills vignette (covert observation → “petty employ” / “play one tool against another”).
-  - MAYBE: close to Pages/cains_jawbone_page_52.md in the `N25` strand via shared “ironic comment” + “innocent child” phrasing (treat as same-voice evidence, not a sequence claim).
+  - LIKELY: same-voice link to Pages/cains_jawbone_page_52.md in the `N25` strand via shared “innocent child” phrasing + “ironic” framing (treated as voice evidence, not a sequence claim; corpus scan found no other “innocent child” instances).
 - **Disconfirming evidence:**
   - If the “bills” language is purely proverbial with no continuity in other pages.
-  - If the “ironic comment” / “innocent child” overlap with Pages/cains_jawbone_page_52.md is shown to be a detachable quotation/register used across narrators.
+  - If the “innocent child” phrasing is identified as a detachable quotation reused elsewhere (or a third instance appears under a clearly different voice), weakening it as same-voice evidence.
 - **Research needed:**
   - Identify whether “pretending to be wicked… hypocrisy” is a quotation/allusion.
