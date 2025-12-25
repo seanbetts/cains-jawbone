@@ -636,15 +636,17 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - Pages/cains_jawbone_page_95.md then supplies the follow-through decision/action (“I had decided what to do” → pen/ink ritual → “told him all, hour by hour, day by day”), which reads like the next thing that happens once the waiting resolves into a plan.
       - **Disconfirming evidence:**
         - Pages/cains_jawbone_page_95.md’s opening time-budgeting is shown to be a pre-arrival travel beat incompatible with Pages/cains_jawbone_page_96.md’s already-seated tea/menu scene (forcing `95 → 96`), or Pages/cains_jawbone_page_96.md is later anchored to a non–Café Royal setting.
-    - **Sequence C — old-man thread → written account** (confidence: `MAYBE`)
-      - **Pages (ordered):** Pages/cains_jawbone_page_68.md → Pages/cains_jawbone_page_69.md → Pages/cains_jawbone_page_95.md → Pages/cains_jawbone_page_70.md
+    - **Sequence C — old-man thread → café meeting → written account** (confidence: `MAYBE`)
+      - **Pages (ordered):** Pages/cains_jawbone_page_68.md → Pages/cains_jawbone_page_69.md → Pages/cains_jawbone_page_96.md → Pages/cains_jawbone_page_95.md → Pages/cains_jawbone_page_70.md
       - **Why:**
         - Pages/cains_jawbone_page_68.md supplies the “last crucial meeting with the old man” + suspected eavesdropper setup; Pages/cains_jawbone_page_69.md gives the late-night psychological aftermath of witnessing the old man “done slowly to death”.
+        - MAYBE: Pages/cains_jawbone_page_68.md’s “touched a chord of memory” / “how often…” self-distraction echoes Pages/cains_jawbone_page_96.md’s “How vividly… How it all comes back” (same memory-trigger/digression habit), and both pages explicitly frame a central “meeting” as interpretively charged.
+        - Pages/cains_jawbone_page_96.md → Pages/cains_jawbone_page_95.md reads as the café waiting beat resolving into the decision to write the full account.
         - Pages/cains_jawbone_page_69.md’s “I had seen every minute of it” aligns with Pages/cains_jawbone_page_95.md’s “hour by hour, day by day” framing for the written account (time-granularity echo beyond the generic “old man/he”).
-        - Pages/cains_jawbone_page_95.md’s “hour by hour, day by day” account is compatible with a slow-death timeline; Pages/cains_jawbone_page_70.md then moves into the blackmail/retaliation fear after “told all I knew”.
+        - Pages/cains_jawbone_page_95.md → Pages/cains_jawbone_page_70.md reads as write-then-aftermath: the narrator “told him all” then has “told all I knew” and fears retaliation.
       - **Disconfirming evidence:**
-        - Pages/cains_jawbone_page_69.md’s “done slowly to death” proves figurative, or Pages/cains_jawbone_page_95.md’s “horrid act” is later shown to be unrelated to the old-man strand.
-  - **Next falsification check:** find a second phrase/prop-level anchor tying Pages/cains_jawbone_page_68.md/Pages/cains_jawbone_page_69.md directly to the Pages/cains_jawbone_page_95.md/Pages/cains_jawbone_page_70.md letter thread beyond time-granularity (“minute” ↔ “hour by hour, day by day”) and generic “old man/he”.
+        - Pages/cains_jawbone_page_69.md’s “done slowly to death” proves figurative, Pages/cains_jawbone_page_96.md is later anchored to a clearly different setting/voice from the Café Royal strand, or Pages/cains_jawbone_page_95.md’s “horrid act” is later shown to be unrelated to the old-man strand.
+  - **Next falsification check:** find a concrete prop/character anchor tying Pages/cains_jawbone_page_68.md/Pages/cains_jawbone_page_69.md to the Pages/cains_jawbone_page_96.md/Pages/cains_jawbone_page_95.md/Pages/cains_jawbone_page_70.md letter thread beyond generic “meeting” + time-granularity + memory-digression style.
 
 - **Cluster:** `N07` Bunny and Perry (Pro/Con) mental debate (confidence: `CERTAIN`)
   - **Pages:** Pages/cains_jawbone_page_93.md, Pages/cains_jawbone_page_97.md

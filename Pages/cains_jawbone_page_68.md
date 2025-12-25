@@ -17,6 +17,7 @@ Out cascaded the darling young. It was no tragedy ; that was, no tragedy compara
 - **Motifs/continuity hooks:**
   - Nostalgia/reversion (“old tunes… damned and dead”).
   - Surveillance/paranoia: eavesdropping at “last crucial meeting”.
+  - MAYBE: memory-trigger/digression habit: “touched a chord of memory” + “how often…” parallels Pages/cains_jawbone_page_96.md’s “How vividly… How it all comes back.”
 - **Voice/tells:**
   - Irritated, inward; sensory trigger (stepped-on foot → memory chord).
 - **Ordering hypotheses:**
