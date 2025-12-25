@@ -396,6 +396,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - Pages/cains_jawbone_page_31.md culminates in action-readiness (“My hand dropped to my hip pocket… I had to reckon with Henry”), and Pages/cains_jawbone_page_13.md presents the immediate grim tableau with Henry “stooping over the other body,” consistent with an aftermath beat.
         - Both pages imply a paired-loss/bodies frame: Pages/cains_jawbone_page_31.md (“even two like these two”) ↔ Pages/cains_jawbone_page_13.md (“the other body”), which naturally reads as the same two-person incident.
       - **Disconfirming evidence:**
+        - Pages/cains_jawbone_page_13.md’s opening Blake lines (“Rintrah… Ocalythron”) are treated as a direct quote-continuation lock from Pages/cains_jawbone_page_49.md (“Bring Palamabron… Elynittria”), implying a different immediate predecessor for Pages/cains_jawbone_page_13.md.
         - Pages/cains_jawbone_page_31.md’s “these two” is later shown to refer to something other than two people/bodies (e.g., two sounds/voices only), or Pages/cains_jawbone_page_13.md’s “other body” is shown to be unrelated (different place/timeline than Pages/cains_jawbone_page_31.md).
     - **Sequence B — scene order uncertain (keep reverse alive)** (confidence: `MAYBE`)
       - **Pages (ordered):** Pages/cains_jawbone_page_13.md → Pages/cains_jawbone_page_31.md
@@ -419,11 +420,12 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - The prose also fits as a beat progression: Pages/cains_jawbone_page_92.md anticipates a “cardiac revelation,” and Pages/cains_jawbone_page_42.md opens “What could come next?” before the “electrically aware” encounter.
       - **Disconfirming evidence:**
         - If another page is found that quotes the missing intervening line(s) (making this continuation non-unique), or if Pages/cains_jawbone_page_92.md’s Browning header is shown to be a non-adjacent epigraph convention reused across unrelated scenes.
-    - **Sequence B — first introduction to Henry → later guided scene** (confidence: `LIKELY`)
+    - **Sequence B — first introduction to Henry → later guided scene** (confidence: `MAYBE`)
       - **Pages (ordered):** Pages/cains_jawbone_page_49.md → Pages/cains_jawbone_page_92.md → Pages/cains_jawbone_page_42.md
       - **Why:**
         - Pages/cains_jawbone_page_49.md frames the narrator’s “first introduction” to Henry and early fascination; Pages/cains_jawbone_page_92.md and Pages/cains_jawbone_page_42.md treat Henry as an established reference-point/guide.
       - **Disconfirming evidence:**
+        - Pages/cains_jawbone_page_49.md’s Blake excerpt (“Bring Palamabron… Elynittria”) is shown to be directly continued on Pages/cains_jawbone_page_13.md (“Rintrah… Ocalythron”), implying Pages/cains_jawbone_page_49.md → Pages/cains_jawbone_page_13.md as the tighter join.
         - “first introduction” in Pages/cains_jawbone_page_49.md is later shown to refer to a different Henry than the guide/axis figure in Pages/cains_jawbone_page_92.md/Pages/cains_jawbone_page_42.md.
     - **Sequence C — post‑encounter fixation at tea (tentative)** (confidence: `MAYBE`)
       - **Pages (ordered):** Pages/cains_jawbone_page_49.md → Pages/cains_jawbone_page_92.md → Pages/cains_jawbone_page_42.md → (MAYBE: Pages/cains_jawbone_page_47.md)

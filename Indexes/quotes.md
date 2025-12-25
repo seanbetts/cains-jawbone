@@ -154,8 +154,8 @@ Template:
   - **Research needed:** no
 
 - **Snippet:** “Rintrah, where has thou hid thy bride? … Ocalythron.”
-  - **Likely source/author:** William Blake
-  - **Why it matters:** Voice/literary tell; potential cluster for Blake-quoting narrator.
+  - **Likely source/author:** William Blake, “Europe a Prophecy” — “A Prophecy”: https://en.wikisource.org/wiki/Europe_a_Prophecy/A_Prophecy
+  - **Why it matters:** Quote continuation lock: continues the Blake excerpt begun on Pages/cains_jawbone_page_49.md, supporting Pages/cains_jawbone_page_49.md → Pages/cains_jawbone_page_13.md.
   - **Pages:** Pages/cains_jawbone_page_13.md
   - **Confidence:** `CERTAIN`
   - **Research needed:** no
@@ -476,11 +476,11 @@ Template:
   - **Research needed:** no
 
 - **Snippet:** “Bring Palamabron, horned priest… And silent Elynittria, the silver-bowed queen,”
-  - **Likely source/author:** William Blake (likely *Milton*; needs confirmation)
-  - **Why it matters:** Strong allusion anchor for a Henry-introduction scene; may help cluster narrator voice.
+  - **Likely source/author:** William Blake, “Europe a Prophecy” — “A Prophecy”: https://en.wikisource.org/wiki/Europe_a_Prophecy/A_Prophecy
+  - **Why it matters:** Quote continuation lock: the next Blake lines (“Rintrah… Ocalythron”) appear on Pages/cains_jawbone_page_13.md, supporting Pages/cains_jawbone_page_49.md → Pages/cains_jawbone_page_13.md.
   - **Pages:** Pages/cains_jawbone_page_49.md
-  - **Confidence:** `LIKELY`
-  - **Research needed:** yes — confirm exact source.
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
 
 - **Snippet:** “I begin at the beginning… and go straight through to the end.”
   - **Likely source/author:** Lewis Carroll (echoes “Begin at the beginning…”; *Alice* trial scene)

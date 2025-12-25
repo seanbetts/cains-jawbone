@@ -16,14 +16,15 @@ Then against a possible invasion of my privacy, I touched my white cheeks until 
 - **Time markers:**
   - MAYBE: implied immediacy (“now”; no explicit date).
 - **Quotes & allusions:**
-  - CERTAIN: William Blake (“Rintrah… Ocalythron”).
+  - CERTAIN: William Blake, “Europe a Prophecy” — “A Prophecy” (“Rintrah… Ocalythron.”): https://en.wikisource.org/wiki/Europe_a_Prophecy/A_Prophecy
 - **Motifs/continuity hooks:**
   - Bodies/corpses; discomfort about privacy; empty pipe.
   - Need for water vs fixed infrastructure (historic conduit).
 - **Voice/tells:**
   - Self-conscious, classed description (“Bloomsbury”); familiarity with grim scenes (“native to me”).
 - **Ordering hypotheses:**
-  - LIKELY: follows Pages/cains_jawbone_page_31.md (p31 “reckon with Henry” + “two like these two” → p13’s two-body tableau with Henry “stooping over the other body”). Resolved check: p31’s “this very place” likely refers to this Grantham market place (conduit-1597 anchor).
+  - CERTAIN: follows Pages/cains_jawbone_page_49.md (Blake quote continuation lock: p49’s “Bring Palamabron… Elynittria…” → this page’s “Rintrah… Ocalythron.”).
+  - MAYBE: follows Pages/cains_jawbone_page_31.md (p31 “reckon with Henry” + “two like these two” → p13’s two-body tableau with Henry “stooping over the other body”). Resolved check: p31’s “this very place” likely refers to this Grantham market place (conduit-1597 anchor).
   - MAYBE: Henry-handling-bodies cluster with Pages/cains_jawbone_page_14.md (Henry cleaning flesh/wine remnants).
 - **Disconfirming evidence:**
   - If Henry here is later clearly distinct from Henry elsewhere (different role/setting).
