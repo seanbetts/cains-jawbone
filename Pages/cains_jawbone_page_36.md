@@ -20,7 +20,7 @@ Strange that old Calabar, as I called him, should fail me ; yet on the morning a
 - **Ordering hypotheses:**
   - LIKELY: follows Pages/cains_jawbone_page_21.md (“morning after I had introduced him…”).
   - LIKELY: precedes Pages/cains_jawbone_page_29.md (Calabar/physostigma “fail[ure]” → later “discarded… physostigma”).
-  - LIKELY: linked with Pages/cains_jawbone_page_59.md via unique “awkward” phrasing (direction TBD).
+  - MAYBE: Pages/cains_jawbone_page_36.md → Pages/cains_jawbone_page_59.md (unique “awkward” phrasing + poison-failure beats; p59 adds police attention).
   - LIKELY: strengthens plant/poison thread (Calabar/physostigma) and Henry-as-killer thread.
 - **Disconfirming evidence:**
   - If “Calabar” and corpse-burial are later shown to be figurative/embedded narrative.
