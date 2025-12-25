@@ -680,8 +680,8 @@ Template:
   - **Type:** name/other
   - **Pages:** Pages/cains_jawbone_page_47.md
   - **Why it matters:** If “Babs” is a detachable allusive name (borrowed character-name) vs an in-world person, it affects whether Page 47 can bridge to other pages via character continuity.
-  - **Status:** `open`
-  - **Result:** Initial scan: “Babs” appears only on Pages/cains_jawbone_page_47.md. MAYBE allusive: Sarah Grand’s *Babs the Impossible* (1900/1901) nicknames “Lorraine the younger” as “Babs the Impossible”: https://archive.org/details/babsimpossible00graniala. No phrase-level overlap found yet tying Page 47’s wording to the novel → keep open.
+  - **Status:** `resolved`
+  - **Result:** Corpus scan: “Babs” appears only on Pages/cains_jawbone_page_47.md. LIKELY allusive nickname to Sarah Grand’s *Babs the Impossible* (1900/1901): period review snippets identify the heroine as “Lorraine Kingconstance… alias ‘Babs the Impossible’”: https://books.google.co.uk/books?id=AAY4AQAAMAAJ&dq=%22Babs+the+Impossible%22&jscmd=SearchWithinVolume2. No phrase-level overlap found tying Page 47’s full wording to the novel beyond the name → treat as a detachable name-layer, not an adjacency anchor.
 
 - **Item:** Interpret Page 48’s Book of Common Prayer + “wormed his way” clue and the “Crataegus Oxyacantha” joke
   - **Type:** quote/other

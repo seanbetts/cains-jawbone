@@ -13,7 +13,7 @@ Babs now moves across the vision, crowned with two straight downfalls, as it wer
   - LIKELY: the hot-verandah “just before the Rains” scene is a Kipling allusion to Anglo-India pre-monsoon (treat as a detachable quotation layer, not a firm in-world location).
 - **Quotes & allusions:**
   - CERTAIN: Rudyard Kipling, “The Conversion of Aurelian McGoggin” (*Plain Tales from the Hills*, 1888) for the “verandah… dead, hot, close air… black-blue clouds… bring the cool” passage: https://en.wikisource.org/wiki/Plain_Tales_from_the_Hills/The_Conversion_of_Aurelian_McGoggin
-  - MAYBE: “Babs” is an allusive name (not an in-world anchor): Sarah Grand’s *Babs the Impossible* (1900/1901) nicknames “Lorraine the younger” as “Babs the Impossible”; no phrase-level overlap found yet: https://archive.org/details/babsimpossible00graniala
+  - MAYBE: “Babs” is an allusive nickname (not an in-world anchor): Sarah Grand’s *Babs the Impossible* (1900/1901) has heroine Lorraine Kingconstance “alias ‘Babs the Impossible’” (period review snippet): https://books.google.co.uk/books?id=AAY4AQAAMAAJ&dq=%22Babs+the+Impossible%22&jscmd=SearchWithinVolume2
 - **Motifs/continuity hooks:**
   - Weather shift: drought → first rain; “little silver frogs” on the road.
   - Hair description: “two… downfalls… of copper… twin cataracts”.
