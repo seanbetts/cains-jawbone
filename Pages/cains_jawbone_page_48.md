@@ -20,7 +20,7 @@ I had always thought that Tate essentially meant sugar. This I liked almost next
   - Strong animal/dog POV candidate (nose/body perspective); comic literalism.
 - **Ordering hypotheses:**
   - MAYBE: animal POV cluster.
-  - MAYBE: follows Pages/cains_jawbone_page_79.md as the start of the mid‑August run (p79’s Lagopus “allowed again” season transition + “flush as May” ↔ this page’s “Crataegus Oxyacantha” (hawthorn/May) joke-name).
+  - LIKELY: follows Pages/cains_jawbone_page_79.md as the start of the mid‑August run (p79’s Lagopus “allowed again” season transition + “flush as May” ↔ this page’s “Crataegus Oxyacantha” (hawthorn/May) joke-name).
   - LIKELY: precedes Pages/cains_jawbone_page_88.md (Tate sugar appears only on Pages 48/88; see `Order/hypotheses.md` `N02` Spine).
   - MAYBE: links to Pages/cains_jawbone_page_43.md via Ecky/Alexander recurrence.
 - **Disconfirming evidence:**
