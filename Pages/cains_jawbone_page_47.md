@@ -13,6 +13,7 @@ Babs now moves across the vision, crowned with two straight downfalls, as it wer
   - LIKELY: the hot-verandah “just before the Rains” scene is a Kipling allusion to Anglo-India pre-monsoon (treat as a detachable quotation layer, not a firm in-world location).
 - **Quotes & allusions:**
   - CERTAIN: Rudyard Kipling, “The Conversion of Aurelian McGoggin” (*Plain Tales from the Hills*, 1888) for the “verandah… dead, hot, close air… black-blue clouds… bring the cool” passage: https://en.wikisource.org/wiki/Plain_Tales_from_the_Hills/The_Conversion_of_Aurelian_McGoggin
+  - MAYBE: “Babs” is an allusive name (not an in-world anchor): Sarah Grand’s *Babs the Impossible* (1900/1901) nicknames “Lorraine the younger” as “Babs the Impossible”; no phrase-level overlap found yet: https://archive.org/details/babsimpossible00graniala
 - **Motifs/continuity hooks:**
   - Weather shift: drought → first rain; “little silver frogs” on the road.
   - Hair description: “two… downfalls… of copper… twin cataracts”.
@@ -28,5 +29,5 @@ Babs now moves across the vision, crowned with two straight downfalls, as it wer
 - **Disconfirming evidence:**
   - If “Orange Pekoe / Special Orange Supreme” turns out to be non-tea (menu/code) rather than beverage continuity.
 - **Research needed:**
-  - Track whether Babs recurs (and whether Babs vs “she” are distinct).
+  - Track whether Babs recurs (and whether Babs vs “she” are distinct); compare against other Barbara-diminutive names (e.g., “Babbie” on Pages/cains_jawbone_page_63.md) only if a second anchor appears.
   - Identify whether “little silver frogs” / “twin cataracts” imagery is a quotation/collage (MAYBE lead: “little silver frogs” appears in *Notes and Queries* (1868) p. 261 as a charm phrase; no exact match to this page’s full wording yet): http://books.google.co.uk/books?id=3vpm7Iz1MAsC&pg=PA261&dq=%22little+silver+frogs%22&hl=&as_brr=7&cd=1&source=gbs_api

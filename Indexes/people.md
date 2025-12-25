@@ -304,7 +304,7 @@ Template:
   - **Tells:** copper “twin cataracts” hair image; part of a verandah heat → rain scene; contrasted with an unnamed “she”.
   - **Pronouns/relationships:** distinct from the unnamed “she” who “has got” the narrator.
   - **Pages:** Pages/cains_jawbone_page_47.md
-  - **Notes:** Track for recurrence; may be an acquaintance vs focal woman.
+  - **Notes:** Track for recurrence; MAYBE an allusive nickname (Sarah Grand’s *Babs the Impossible* (1900/1901) nicknames “Lorraine the younger” as “Babs the Impossible”: https://archive.org/details/babsimpossible00graniala). MAYBE the same as `P55` Babbie (diminutive overlap); do not merge without stronger anchors.
 
 - `P50` — Names/aliases: Sir Paul Trinder
   - **Tells:** public talker (“furor loquendi”); loudly attaches to “every ebbing cause” for twenty years; appears drunk and useful to an interviewer; recognisable beard (“white bear”).

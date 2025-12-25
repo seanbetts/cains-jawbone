@@ -676,6 +676,13 @@ Template:
   - **Status:** `resolved`
   - **Result:** “Special Orange Supreme” is attested as a **menu item name** in *The Hotel Monthly* (menus section; “Special Orange Supreme” appears alongside “Orange Pekoe” tea listings): https://books.google.co.uk/books?id=uLvmAAAAMAAJ&pg=RA2-PA29&dq=Special+Orange+Supreme (also searchable via `jscmd=SearchWithinVolume2`). Treat as period menu language rather than a unique coded phrase.
 
+- **Item:** Identify Page 47’s “Babs” (name/allusion)
+  - **Type:** name/other
+  - **Pages:** Pages/cains_jawbone_page_47.md
+  - **Why it matters:** If “Babs” is a detachable allusive name (borrowed character-name) vs an in-world person, it affects whether Page 47 can bridge to other pages via character continuity.
+  - **Status:** `open`
+  - **Result:** Initial scan: “Babs” appears only on Pages/cains_jawbone_page_47.md. MAYBE allusive: Sarah Grand’s *Babs the Impossible* (1900/1901) nicknames “Lorraine the younger” as “Babs the Impossible”: https://archive.org/details/babsimpossible00graniala. No phrase-level overlap found yet tying Page 47’s wording to the novel → keep open.
+
 - **Item:** Interpret Page 48’s Book of Common Prayer + “wormed his way” clue and the “Crataegus Oxyacantha” joke
   - **Type:** quote/other
   - **Pages:** Pages/cains_jawbone_page_48.md
