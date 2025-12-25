@@ -38,7 +38,7 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_3.md, Pages/cains_jawbone_page_24.md, Pages/cains_jawbone_page_27.md, Pages/cains_jawbone_page_30.md, Pages/cains_jawbone_page_32.md
   - **Confidence:** `LIKELY`
   - **Disconfirming evidence:** Page 24’s pope-name clue is proven unrelated to narrator identity, or Page 3’s “Clement” is later clearly identified as a different person from Page 24’s name-bearer.
-  - **Notes:** This narrator overlaps heavily with plant/poison motifs; avoid merging on motif alone. Page 30 is a `MAYBE` extension keyed by gardenia/Cape Jasmine taxonomy + suspicion-testing voice. Pages/cains_jawbone_page_24.md overlaps `N13` (Caroline appears only here and as Caroline Jasmine on Pages/cains_jawbone_page_86.md; Yeats “Cathleen… Houlihan” source line vs Pages/cains_jawbone_page_87.md’s substitution) → treat Pages/cains_jawbone_page_24.md as pending between `N03`/`N13` until a second independent anchor resolves it.
+  - **Notes:** This narrator overlaps heavily with plant/poison motifs; avoid merging on motif alone. Pages/cains_jawbone_page_30.md ↔ Pages/cains_jawbone_page_24.md reads as a tight suspicion-resolution beat, but Pages/cains_jawbone_page_24.md also overlaps `N13` (Caroline appears only here and as Caroline Jasmine on Pages/cains_jawbone_page_86.md; Yeats “Cathleen… Houlihan” source line vs Pages/cains_jawbone_page_87.md’s substitution) → treat Pages/cains_jawbone_page_24.md as pending between `N03`/`N13` until a second independent anchor resolves it.
 
 - `N04` — Great Lexicographer / fealty voice:
   - **Signature tells:** “Great Lexicographer” (Johnson) family-namesake framing; Ockham “razor” pun; bilingual quotations; clan/fealty language; learned allusion interleaved with personal devotion.

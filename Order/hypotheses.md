@@ -926,9 +926,9 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Resolved check (Pages/cains_jawbone_page_10.md ↔ Pages/cains_jawbone_page_99.md):** kept their adjacency as `LIKELY` (still primarily date-driven). Beyond calendar adjacency they share (1) an object-naming aside in the same syntactic slot (“…, as my mother had called them” vs “…, as Jasmine might so easily have called them”), (2) a shared singular/plural vocabulary focus (Pages/cains_jawbone_page_10.md explicitly complains about singular/plural misuse around “Boots”; Pages/cains_jawbone_page_99.md foregrounds the plural-only “jossers” needed to fix unequal bow ends; “josser” is attested as slang “a simple fellow” (C. J. Dennis glossary), supporting “the silly old jossers” as a jocular label for misplaced scissors/implements), and (3) strong dog-coded idiom (“could have howled” vs “three more left”).
 
 - **Cluster:** `N03` Clement / pills / flowers-and-mercy register (confidence: `LIKELY`)
-  - **Pages:** Pages/cains_jawbone_page_3.md, Pages/cains_jawbone_page_24.md, Pages/cains_jawbone_page_27.md, Pages/cains_jawbone_page_32.md (MAYBE: Pages/cains_jawbone_page_30.md)
-  - **Rationale:** Page 24 explicitly frames a name shared by “fourteen popes and two anti-popes” and mentions Giulio de Medici (Clement VII), aligning with the character name Clement on Page 3; Page 27 recalls “tiny Clem”; Page 32 has Henry meeting with “Clément” yesterday.
-  - **Key anchors:** pope-count clue + Giulio de Medici; Page 3’s “meeting with Clement”; Page 27’s “tiny Clem”.
+  - **Pages:** Pages/cains_jawbone_page_3.md, Pages/cains_jawbone_page_24.md, Pages/cains_jawbone_page_27.md, Pages/cains_jawbone_page_30.md, Pages/cains_jawbone_page_32.md
+  - **Rationale:** Pages 32→3 form a tight “instructions + pills/job” beat anchored by a named meeting with Clément/Clement “yesterday,” while Pages 30→24 form a tight “house suspicion → next-day confirmation” beat anchored by botanical precision (Cape Jasmine/gardenia; hellebore; wild jasmine/roses) and the same suspicion framing. Page 27 reads as “Clem” backstory that is not yet placeable within either beat.
+  - **Key anchors:** Clément/Clement instruction appointment; “assassin’s wonderful substance” + pills; Cape Jasmine/gardenia + suspicion test; Caroline + “Next day… suspicions… well-founded”; pope-count clue + Giulio de Medici (Clement VII); “tiny Clem”.
   - **Disconfirming evidence:** Page 24 narrator is explicitly named something else later, or “Clement” is purely thematic.
   - **Phase 4 internal ordering hypotheses (N03):**
     - **Sequence A — instruction-giver / pills setup** (confidence: `LIKELY`)
@@ -939,7 +939,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
       - **Disconfirming evidence:**
         - The “yesterday” meeting/appointment is shown to involve different people/contexts on the two pages, or the physical setting markers make the pages incompatible as adjacent.
     - **Sequence B — jasmine/house suspicion beat** (confidence: `LIKELY`)
-      - **Pages (ordered):** (MAYBE: Pages/cains_jawbone_page_30.md) → Pages/cains_jawbone_page_24.md
+      - **Pages (ordered):** Pages/cains_jawbone_page_30.md → Pages/cains_jawbone_page_24.md
       - **Why:**
         - Pages/cains_jawbone_page_30.md ends with an explicit suspicion question (“Can she be guilty?”) after a soup-tasting “try her out” test; Pages/cains_jawbone_page_24.md opens “Next day…” with a direct resolution (“my suspicions… had been well-founded”), reading like the immediate follow-through.
         - Both pages share the same plant-savvy register (Cape Jasmine/gardenia taxonomy ↔ wild jasmine + roses + hellebore) and a domestic in-house suspicion framing.
@@ -952,6 +952,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - Reads as retrospective character-history for “Clem” (childhood), useful context but lacking a hard entry/exit cue that ties it to the instruction or house beats.
       - **Disconfirming evidence:**
         - A later page repeats a phrase-level anchor from Pages/cains_jawbone_page_27.md (lock-up on the Severn; Peaberry Mysore/Blue Mountain; “hushed my brat”), allowing firm placement.
+  - **Falsification check (2025-12-25):** scanned page bodies for the distinctive `N03` anchors (Gainsborough/“weeping weather”/Clément; “assassin’s wonderful substance”/Hodder; Cape Jasmine/gardenia/Mrs. Cave; Gianaclis/hellebore/Giulio de Medici) and found no third-page matches beyond the `N03` set. “Caroline” overlaps Pages/cains_jawbone_page_86.md (Caroline Jasmine) and “clement” appears on Pages/cains_jawbone_page_22.md as a likely adjective, so keep the `N03` beats separate and treat cross-strand merges as `MAYBE` until a stronger non-quotation anchor appears.
   - **Resolved check:** Pages/cains_jawbone_page_24.md shares two high-signal overlap anchors with `N13` (Pages/cains_jawbone_page_86.md → Pages/cains_jawbone_page_87.md): (1) “Caroline” appears only here and as “Caroline Jasmine” on Pages/cains_jawbone_page_86.md, and (2) the header line (“Of Cathleen, the daughter of Houlihan.”) is the original Yeats continuation that Pages/cains_jawbone_page_87.md substitutes (“Of the old bold mate of Henry Morgan.”). Treat Pages/cains_jawbone_page_24.md as **pending overlap** with `N13` and avoid using it as a sole anchor for `N03` internal ordering until disambiguated.
   - **Next falsification check:** require a second independent `N13` anchor on Pages/cains_jawbone_page_24.md (e.g., Sanders/bay-house setting, Mithradates inoculation, “dead man’s letter,” or the same guest/patient) before moving it out of `N03` entirely.
 
