@@ -28,5 +28,6 @@ I had sufficient knowledge to realise that I had succeeded. I ordered Charles to
   - MAYBE: links to Lover’s Delight / bar-menu cluster (Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_43.md).
 - **Disconfirming evidence:**
   - If “figurehead beard” is shown to be someone other than Trinder and Lover’s Delight is a generic term used widely.
+  - If “Henry” here is later shown to be the same in-world Henry as the killer/suspect under police pursuit on Pages/cains_jawbone_page_26.md → Pages/cains_jawbone_page_58.md → Pages/cains_jawbone_page_35.md (would expect shared pursuit/scene anchors beyond the name).
 - **Research needed:**
   - Clarify the parson/collaborator “did the trick” mechanism (sermon? marriage? execution?).

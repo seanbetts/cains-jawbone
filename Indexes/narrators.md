@@ -110,7 +110,7 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_6.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_26.md, Pages/cains_jawbone_page_29.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_58.md, Pages/cains_jawbone_page_59.md, Pages/cains_jawbone_page_60.md
   - **Confidence:** `LIKELY`
   - **Disconfirming evidence:** Calabar/digitalis cues and the murder-counting/pursuit voice are shown to belong to different narrators with incompatible settings/biographies.
-  - **Notes:** Pages/cains_jawbone_page_29.md is a `MAYBE` extension keyed by Calabar bean/physostigma + experimental plant/food-poisoning register; drop it if “old mineralogist”/setting anchors tie it elsewhere.
+  - **Notes:** Resolved check (2025-12-25): within this umbrella, “Henry” appears in incompatible roles (killer/suspect under pursuit vs “peerless investigator” on Pages/cains_jawbone_page_60.md) → do not stitch sub-strands together on the name alone. Pages/cains_jawbone_page_29.md remains falsifiable: keep it only while the physostigma/Calabar + experimental register stays anchored and the “old mineralogist”/setting doesn’t pull it elsewhere.
 
 - `N13` — Host/guest poisoning + coastal-house segment:
   - **Signature tells:** host/guest/patient framing; poison/immunity talk (e.g., Mithradates); Yeats/Whitman quotation run; coastal-house/bay landscape shifting into visceral corpse imagery; named helper (Caroline Jasmine).
