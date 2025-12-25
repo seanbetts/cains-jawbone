@@ -406,7 +406,8 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
       - **Disconfirming evidence:**
         - Any additional phrase-level continuation or “now/then” marker ties Pages/cains_jawbone_page_31.md directly as a reaction to Pages/cains_jawbone_page_13.md’s two-body tableau (making Pages/cains_jawbone_page_13.md → Pages/cains_jawbone_page_31.md the more natural internal order).
   - **Resolved check:** Pages/cains_jawbone_page_13.md’s “conduit dating from 1597… in the market place” is a high-signal Grantham anchor; treat Pages/cains_jawbone_page_31.md’s “in this very place” as referring to the same Grantham setting within the `N20` incident, supporting continuity and making Pages/cains_jawbone_page_13.md → Pages/cains_jawbone_page_31.md the default internal order under the Pages/cains_jawbone_page_49.md → Pages/cains_jawbone_page_13.md Blake lock.
-  - **Next falsification check:** find a third page that repeats a unique N20 anchor (Grantham/conduit, “Newdigate fringe,” “hip pocket,” “Caseus, ah!”) to decide whether `N20` is a tight two-page incident or a broader run.
+  - **Falsification check (2025-12-25):** scanned all page bodies for the unique N20 anchors (“Bloomsbury”, “Newdigate”, “conduit dating from 1597”, “nomenclature”, “Caseus”, “hip pocket”) and found no third-page matches beyond Pages/cains_jawbone_page_13.md and Pages/cains_jawbone_page_31.md → treat `N20` as a tight two-page incident unless a new bridge emerges.
+  - **Next falsification check:** only expand `N20` if a candidate page shares 2+ of the specific N20 anchors (not just generic Henry presence); otherwise keep it as a tight two-page incident.
 
 - **Cluster:** `N21` Dazed infatuation + bar/tea imagery voice (confidence: `LIKELY`)
   - **Pages:** Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_47.md, Pages/cains_jawbone_page_49.md, Pages/cains_jawbone_page_92.md
