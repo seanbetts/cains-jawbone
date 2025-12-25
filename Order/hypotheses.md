@@ -239,10 +239,11 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Key anchors:** Calabar bean/physostigma; digitalis; murder-counting language; “Murders were funny things”; “give him another day”.
   - **Disconfirming evidence:** Calabar/digitalis references recur widely across unrelated voices, or the pursuit/murder-count tone is shown to be a separate narrator from the poison-logistics pages.
   - **Phase 4 internal ordering hypotheses (N12):**
-    - **Sequence A — Calabar introduced → next-morning doubt** (confidence: `LIKELY`)
+    - **Sequence A — Calabar introduced → next-morning doubt** (confidence: `CERTAIN`)
       - **Pages (ordered):** Pages/cains_jawbone_page_21.md → Pages/cains_jawbone_page_36.md
       - **Why:**
         - Pages/cains_jawbone_page_21.md explicitly “brought in… Calabar Bean” after the victim scene, while Pages/cains_jawbone_page_36.md opens “on the morning after I had introduced him to the person most concerned…,” making p36 read like the follow-on reflection.
+        - In the page bodies, “Calabar” appears only on Pages/cains_jawbone_page_21.md and Pages/cains_jawbone_page_36.md, making this continuation unusually specific.
         - Both pages bind Calabar/digitalis to Henry-in-scene + corpse-handling language (blood/body; burial with eyes showing).
       - **Disconfirming evidence:**
         - “introduced him to the person most concerned” in Pages/cains_jawbone_page_36.md is later shown to refer to a different “him”/recipient than the Calabar/digitalis action in Pages/cains_jawbone_page_21.md.
@@ -265,12 +266,19 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - Pages/cains_jawbone_page_6.md frames a prior poison (“Electric Febrifuge” active ingredient) as having “let me down” before shifting someone onto foxgloves (digitalis), while Pages/cains_jawbone_page_21.md explicitly says “on the very day” the narrator “proved digitalis purpurea.”
       - **Disconfirming evidence:**
         - Foxgloves/digitalis in Pages/cains_jawbone_page_6.md are shown to be ornamental (not an operational poison thread), or “proved digitalis” in Pages/cains_jawbone_page_21.md refers to an unrelated experiment.
-    - **Sequence E — spareroom/garden continuity (tentative)** (confidence: `MAYBE`)
-      - **Pages (ordered):** Pages/cains_jawbone_page_6.md → Pages/cains_jawbone_page_29.md
+    - **Sequence E — spare-room continuity (direction TBD)** (confidence: `LIKELY`)
+      - **Pages (linked):** Pages/cains_jawbone_page_6.md ↔ Pages/cains_jawbone_page_29.md
       - **Why:**
-        - Both pages reference the spare-room in the same house (“old spare-room in this very house” / “unsatisfactory visit to the spareroom”) and share the same poison-by-gardening register (failed remedy → foxgloves; ordeal-bean disappointment → plant-combination testing).
+        - Both pages reference the spare-room in the same house (“old spare-room in this very house” / “unsatisfactory visit to the spareroom”).
+        - In the page bodies, “spare-room/spareroom” appears only on these two pages, suggesting a deliberate setting anchor (even if the within-strand direction is unclear).
       - **Disconfirming evidence:**
-        - Pages/cains_jawbone_page_29.md’s “old mineralogist” scene is later anchored to a different narrator/setting, making the shared spare-room reference incidental.
+        - Another page is found to use the same spare-room phrasing, or one of the spare-room mentions is shown to be quoted/idiomatic rather than situational.
+    - **Sequence F — Calabar failure → physostigma discarded** (confidence: `LIKELY`)
+      - **Pages (ordered):** Pages/cains_jawbone_page_36.md → Pages/cains_jawbone_page_29.md
+      - **Why:**
+        - Pages/cains_jawbone_page_36.md frames “old Calabar” as having “fail[ed]” the narrator (with a “give him another day” reprieve), while Pages/cains_jawbone_page_29.md treats the West African ordeal bean as a “disappointment” and explicitly “discard[s]” physostigma.
+      - **Disconfirming evidence:**
+        - “physostigma” on Pages/cains_jawbone_page_29.md is later shown to refer to something other than the ordeal-bean/Calabar thread, or the “discard” is explicitly prior to (not a follow-on from) the Pages/cains_jawbone_page_21.md → Pages/cains_jawbone_page_36.md run.
   - **Next falsification check:** stress-test whether “Henry” is a single consistent in-world person across the `N12` sub-strands (killer/manhunt vs “peerless investigator”); if incompatible, split the cluster into two narrators and keep only the Calabar/digitalis pages in `N12`.
 
 - **Cluster:** `N13` Host/guest poisoning + coastal-house segment (confidence: `LIKELY`)

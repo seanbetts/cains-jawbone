@@ -19,6 +19,7 @@ Strange that old Calabar, as I called him, should fail me ; yet on the morning a
   - Practical poison-garden logistics mixed with social marriage pressure.
 - **Ordering hypotheses:**
   - LIKELY: follows Pages/cains_jawbone_page_21.md (“morning after I had introduced him…”).
+  - LIKELY: precedes Pages/cains_jawbone_page_29.md (Calabar/physostigma “fail[ure]” → later “discarded… physostigma”).
   - LIKELY: strengthens plant/poison thread (Calabar/physostigma) and Henry-as-killer thread.
 - **Disconfirming evidence:**
   - If “Calabar” and corpse-burial are later shown to be figurative/embedded narrative.

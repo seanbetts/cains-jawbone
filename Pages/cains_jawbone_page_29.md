@@ -52,8 +52,8 @@ LIKELY WORDPLAY
   - Confident poison-botany register; experimental attitude (“see how the combination would suit him”).
 - **Ordering hypotheses:**
   - LIKELY: extends the plant/poison thread (Pages/cains_jawbone_page_6.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_24.md).
-  - MAYBE: follows Pages/cains_jawbone_page_6.md (shared spare-room anchor + continued poison-garden experimentation).
-  - MAYBE: prelude to the Calabar/digitalis run (Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_36.md) via physostigma/ordeal-bean experimentation; keep pending until a named person/household anchor repeats.
+  - LIKELY: linked with Pages/cains_jawbone_page_6.md via unique “spare-room/spareroom” house-setting anchor (direction TBD).
+  - LIKELY: follows Pages/cains_jawbone_page_36.md (Calabar/ordeal-bean “failure” → “discarded… physostigma”).
   - MAYBE: links to the mineralogy thread (Pages/cains_jawbone_page_9.md) via “old mineralogist”.
 - **Disconfirming evidence:**
   - If the plant list is later shown to be harmless gardening chatter with no victimization.
