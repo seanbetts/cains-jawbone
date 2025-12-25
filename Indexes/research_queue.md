@@ -19,6 +19,12 @@ Template:
 
 ## Open items
 
+- **Item:** Identify the source of “Death’s clumsy fingered” / “lightly fingering for the sign of a breach”
+  - **Type:** quote
+  - **Pages:** Pages/cains_jawbone_page_27.md, Pages/cains_jawbone_page_37.md
+  - **Why it matters:** Used as a potential voice/adjacency anchor for the N29 overlap (p27↔p37); if it’s a detachable quotation reused elsewhere, it should not be used for narrator linkage.
+  - **Status:** `open`
+
 - **Item:** Identify the source of “graves of the martyrs… whaups… my heart remembers how”
   - **Type:** quote
   - **Pages:** Pages/cains_jawbone_page_1.md

@@ -246,7 +246,7 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_37.md, Pages/cains_jawbone_page_27.md (MAYBE extension)
   - **Confidence:** `MAYBE`
   - **Disconfirming evidence:** the art/Firbank layer is later shown to be detachable quotation collage used by multiple narrators, or the “bores/chambers” language is proven to be non-weapon and the voice aligns better with an existing narrator signature.
-  - **Notes:** Pages/cains_jawbone_page_37.md is core; Pages/cains_jawbone_page_27.md is treated as overlap-only until a second independent continuity marker appears beyond Shrewsbury + “Death… fingered”. Next check: search for Firbank‑in‑Malta / post‑Vorticists / “chamber within chamber” wording and for reuse of “Death… fingered” under a different voice.
+  - **Notes:** Pages/cains_jawbone_page_37.md is core; Pages/cains_jawbone_page_27.md is overlap-only. Falsifier run (2025-12-25): no Firbank/Malta/post‑Vorticists/bores/chambers outside Pages/cains_jawbone_page_37.md; no Peaberry/Clem outside Pages/cains_jawbone_page_27.md; no third “Death… fingered” instance found. Next check: identify the source of the “Death… fingered” phrasing (if detachable quote, drop the overlap).
 
 - `N30` — Southend “tragic fortnight” / Sonia Gordon + omelette-stab voice:
   - **Signature tells:** classical self-consciousness (“Video meliora proboque”) combined with covert observation (fixation on elbow “fossettes”) and a remembered Southend episode; abrupt violence language (“as I stabbed once”) colliding with culinary metaphor (omelette/eggs) and deliberate misnaming (Brontë for Corday in the Marat vignette).
