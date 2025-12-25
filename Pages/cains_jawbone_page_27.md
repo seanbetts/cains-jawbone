@@ -24,3 +24,4 @@ I had seen, day after day, every sunlit or night obscured detail of the funny ol
 - **Research needed:**
   - (Resolved/LIKELY) “county town on the Severn” likely refers to Shrewsbury (county town of Shropshire; situated on the river Severn) (EB1911 “Shrewsbury”: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Shrewsbury). “tapping… at the very walls” reads as Death-as-burglar metaphor rather than a specific named case (no clear external source yet).
   - Identify what “two on toast” refers to (food clue).
+  - Identify whether “Death’s clumsy fingered” / “lightly fingering for the sign of a breach” is a detachable quotation (currently `stalled`; see `Indexes/research_queue.md`).

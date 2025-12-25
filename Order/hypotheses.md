@@ -516,7 +516,8 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - Pages/cains_jawbone_page_27.md’s “Clem” thread is later proven incompatible with the Page 37 narrator (e.g., Clem is identified as the narrator/actor in a way that contradicts Page 37’s Alexander/Firbank/Malta identity).
         - A third page repeats the “Death… fingered” phrasing under a clearly different narrator, weakening it as a voice anchor.
     - **Falsification check (2025-12-25):** searched the page corpus for any additional N29 anchor repetition beyond Pages/cains_jawbone_page_37.md (Firbank/Malta/post‑Vorticists/rococo mirror/jasmine bowl/bores/chambers) and any Pages/cains_jawbone_page_27.md-specific anchors beyond Pages/cains_jawbone_page_27.md (Peaberry Mysore/Blue Mountain/Clem) and found no cross-over beyond Shrewsbury + “Death… fingered” + “this time” hearing contrast → keep Pages/cains_jawbone_page_27.md overlap-only and do not increase confidence.
-    - **Next falsification check:** identify the source of the “Death… fingered” phrasing; if it’s a detachable quotation reused elsewhere, drop the p27 overlap from N29.
+    - **Falsification check (2025-12-25):** attempted to source “Death’s clumsy fingered” / “lightly fingering for the sign of a breach” via Wikisource full-text search (multiple variants) and found no clear match → research item marked `stalled`; keep the p27 overlap as overlap-only (do not upgrade) until sourced.
+    - **Next falsification check:** expand the quotation-source search to Gutenberg/Archive scans; if “Death… fingered” is found as a detachable quotation reused elsewhere, drop the p27 overlap from `N29`.
 
 - **Cluster:** `N30` Southend “tragic fortnight” / Sonia Gordon + omelette-stab voice (confidence: `MAYBE`)
   - **Pages:** Pages/cains_jawbone_page_38.md

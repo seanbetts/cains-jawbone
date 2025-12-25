@@ -922,3 +922,10 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_65.md
   - **Confidence:** `LIKELY`
   - **Research needed:** no
+
+- **Snippet:** “Death’s clumsy fingered… lightly fingering for the sign of a breach.”
+  - **Likely source/author:** Unknown (no match yet in ≤1934 sources; may be Torquemada’s own metaphor).
+  - **Why it matters:** Candidate quotation/allusion used as a potential N29 overlap anchor (p27↔p37); if detachable and reused elsewhere, it should not be used for narrator linkage.
+  - **Pages:** Pages/cains_jawbone_page_27.md, Pages/cains_jawbone_page_37.md
+  - **Confidence:** `MAYBE`
+  - **Research needed:** yes — identify a source or confirm it’s not a quotation (see `Indexes/research_queue.md`).

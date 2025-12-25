@@ -23,7 +23,8 @@ Template:
   - **Type:** quote
   - **Pages:** Pages/cains_jawbone_page_27.md, Pages/cains_jawbone_page_37.md
   - **Why it matters:** Used as a potential voice/adjacency anchor for the N29 overlap (p27↔p37); if it’s a detachable quotation reused elsewhere, it should not be used for narrator linkage.
-  - **Status:** `open`
+  - **Status:** `stalled`
+  - **Result:** Searched Wikisource full-text for variants (“Death’s clumsy finger(s)”, “clumsy-fingered”, “lightly fingering… sign of a breach”) and found no clear ≤1934 source match; nearest hits were unrelated. Keep this as a candidate detachable quotation and revisit via Gutenberg/Archive scans if it becomes load-bearing for ordering.
 
 - **Item:** Identify the source of “verandah… dead, hot, close air… black-blue clouds”
   - **Type:** quote
