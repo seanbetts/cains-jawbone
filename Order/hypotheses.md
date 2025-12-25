@@ -390,21 +390,22 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Key anchors:** “Bloomsbury”; “Newdigate fringe”; “nomenclature business”; “Caseus, ah!”; hand dropping to hip pocket.
   - **Disconfirming evidence:** the naming/wordplay is shown to be incidental, or the scenes are later explicitly narrated by different named speakers.
   - **Phase 4 internal ordering hypotheses (N20):**
-    - **Sequence A — “reckon with Henry” → two bodies in the market place** (confidence: `LIKELY`)
-      - **Pages (ordered):** Pages/cains_jawbone_page_31.md → Pages/cains_jawbone_page_13.md
-      - **Why:**
-        - Pages/cains_jawbone_page_31.md culminates in action-readiness (“My hand dropped to my hip pocket… I had to reckon with Henry”), and Pages/cains_jawbone_page_13.md presents the immediate grim tableau with Henry “stooping over the other body,” consistent with an aftermath beat.
-        - Both pages imply a paired-loss/bodies frame: Pages/cains_jawbone_page_31.md (“even two like these two”) ↔ Pages/cains_jawbone_page_13.md (“the other body”), which naturally reads as the same two-person incident.
-      - **Disconfirming evidence:**
-        - Pages/cains_jawbone_page_13.md’s opening Blake lines (“Rintrah… Ocalythron”) are treated as a direct quote-continuation lock from Pages/cains_jawbone_page_49.md (“Bring Palamabron… Elynittria”), implying a different immediate predecessor for Pages/cains_jawbone_page_13.md.
-        - Pages/cains_jawbone_page_31.md’s “these two” is later shown to refer to something other than two people/bodies (e.g., two sounds/voices only), or Pages/cains_jawbone_page_13.md’s “other body” is shown to be unrelated (different place/timeline than Pages/cains_jawbone_page_31.md).
-    - **Sequence B — scene order uncertain (keep reverse alive)** (confidence: `MAYBE`)
+    - **Sequence A — two bodies in the market place → “reckon with Henry”** (confidence: `LIKELY`)
       - **Pages (ordered):** Pages/cains_jawbone_page_13.md → Pages/cains_jawbone_page_31.md
       - **Why:**
-        - If Pages/cains_jawbone_page_31.md’s “these two” refers to sounds/voices rather than bodies, it could be a later reflective preface rather than a lead-in to Pages/cains_jawbone_page_13.md’s corpse scene.
+        - Pages/cains_jawbone_page_13.md’s opening Blake lines (“Rintrah… Ocalythron”) are a direct quote-continuation lock from Pages/cains_jawbone_page_49.md (“Bring Palamabron… Elynittria”), so Pages/cains_jawbone_page_31.md cannot be Pages/cains_jawbone_page_13.md’s immediate predecessor if these are adjacent in the final ordering.
+        - The prose progression also reads naturally: Pages/cains_jawbone_page_13.md sets the two-body tableau (Henry “stooping over the other body”) with the narrator still unsure of their own nerve, while Pages/cains_jawbone_page_31.md escalates to “square accounts” and “My hand dropped to my hip pocket… I had to reckon with Henry,” fitting as a follow-up decision beat.
+        - Pages/cains_jawbone_page_13.md supplies the high-signal Grantham anchor (1597 market-place conduit), and Pages/cains_jawbone_page_31.md’s “in this very place” deictic reference plausibly points to the same market place within the incident.
       - **Disconfirming evidence:**
-        - A clearer continuity marker appears tying Pages/cains_jawbone_page_31.md’s “this very place” to Pages/cains_jawbone_page_13.md’s named location (Grantham market place), or a direct phrase-level echo fixes the sequence.
-  - **Resolved check:** Pages/cains_jawbone_page_13.md’s “conduit dating from 1597… in the market place” is a high-signal Grantham anchor; treat Pages/cains_jawbone_page_31.md’s “in this very place” as referring to the same Grantham setting within the `N20` incident, supporting Pages/cains_jawbone_page_31.md → Pages/cains_jawbone_page_13.md.
+        - Pages/cains_jawbone_page_31.md’s “this very place” is later pinned to a different location/timeline than Pages/cains_jawbone_page_13.md’s Grantham market place, or Pages/cains_jawbone_page_31.md’s “these two” is shown to be non-human/non-body referents.
+        - A third page is found that directly continues the Grantham corpse tableau from Pages/cains_jawbone_page_13.md, making Pages/cains_jawbone_page_31.md a non-adjacent reflection rather than the next beat.
+    - **Sequence B — keep reverse alive only as non-adjacent** (confidence: `MAYBE`)
+      - **Pages (ordered):** Pages/cains_jawbone_page_31.md → Pages/cains_jawbone_page_13.md
+      - **Why:**
+        - If Pages/cains_jawbone_page_31.md is an earlier “reckon with Henry” prelude in the same Grantham episode, it could still precede Pages/cains_jawbone_page_13.md in broader order even though Pages/cains_jawbone_page_49.md appears to be the tighter immediate join into Pages/cains_jawbone_page_13.md.
+      - **Disconfirming evidence:**
+        - Any additional phrase-level continuation or “now/then” marker ties Pages/cains_jawbone_page_31.md directly as a reaction to Pages/cains_jawbone_page_13.md’s two-body tableau (making Pages/cains_jawbone_page_13.md → Pages/cains_jawbone_page_31.md the more natural internal order).
+  - **Resolved check:** Pages/cains_jawbone_page_13.md’s “conduit dating from 1597… in the market place” is a high-signal Grantham anchor; treat Pages/cains_jawbone_page_31.md’s “in this very place” as referring to the same Grantham setting within the `N20` incident, supporting continuity and making Pages/cains_jawbone_page_13.md → Pages/cains_jawbone_page_31.md the default internal order under the Pages/cains_jawbone_page_49.md → Pages/cains_jawbone_page_13.md Blake lock.
   - **Next falsification check:** find a third page that repeats a unique N20 anchor (Grantham/conduit, “Newdigate fringe,” “hip pocket,” “Caseus, ah!”) to decide whether `N20` is a tight two-page incident or a broader run.
 
 - **Cluster:** `N21` Dazed infatuation + bar/tea imagery voice (confidence: `LIKELY`)
