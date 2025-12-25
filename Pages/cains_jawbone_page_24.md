@@ -25,8 +25,8 @@ Next day I saw that my suspicions of Caroline had been well-founded. This was an
   - Gardener/plant-person voice; moral hardness (“quality of mercy… little exerted”).
 - **Ordering hypotheses:**
   - LIKELY: connects to “Clement” thread (Pages/cains_jawbone_page_3.md) via the pope-name clue.
-  - LIKELY: follows Pages/cains_jawbone_page_30.md (p30 ends with active suspicion “Can she be guilty?” after a soup-tasting test; this page opens “Next day…” with “my suspicions… had been well-founded,” reading as the next-day resolution; shared plant-savvy jasmine register; see `Order/hypotheses.md` `N03` Sequence B). Treat as reversible because this page overlaps `N13` via Caroline + the Yeats-line substitution key.
-  - LIKELY: overlap with `N13` (Caroline + Yeats substitution key): “Caroline” appears only here and as “Caroline Jasmine” on Pages/cains_jawbone_page_86.md, and this page’s header line is the Yeats original that Pages/cains_jawbone_page_87.md substitutes (“Of the old bold mate of Henry Morgan.”).
+  - LIKELY: follows Pages/cains_jawbone_page_30.md (p30 ends with active suspicion “Can she be guilty?” after a soup-tasting test; this page opens “Next day…” with “my suspicions… had been well-founded,” reading as the next-day resolution; shared plant-savvy jasmine register; see `Order/hypotheses.md` `N03` Sequence B).
+  - MAYBE: quote-key/homonym overlap with `N13`: this page preserves Yeats’s original continuation line that Pages/cains_jawbone_page_87.md substitutes (“Of the old bold mate of Henry Morgan.”), and “Caroline” overlaps with `N13`’s “Caroline Jasmine”, but this page lacks the distinctive `N13` anchors (Mithradates inoculation; Whitman “pail” line; Sanders/bay-house setting; dead man’s letter/corpse imagery) → do not treat as a within-narrator adjacency.
   - MAYBE: jasmine motif link to Pages/cains_jawbone_page_22.md (cat Jasmine) and Pages/cains_jawbone_page_10.md (Jasmine’s day).
   - MAYBE: poison/plant cluster with Pages/cains_jawbone_page_6.md and Pages/cains_jawbone_page_21.md.
 - **Disconfirming evidence:**
