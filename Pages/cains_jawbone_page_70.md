@@ -17,6 +17,7 @@ It flashed through my mind that the place between Eros and the Queen’s Hall ha
   - Letter/blackmail dynamics: “franked” item; narrator has “told all I knew” and waits for reaction.
   - Threat escalation: “try to do me in”.
   - Child-at-knee intimacy used as leverage (“old association”).
+  - LIKELY: the “old association”/childhood-contact thread matches Pages/cains_jawbone_page_95.md’s “neglecting my contact with his infancy” while writing the full account.
 - **Voice/tells:**
   - Overheated associative leaps; heavy wordplay (“Ming”/Munich/Efate) amid fear and fatigue.
 - **Ordering hypotheses:**

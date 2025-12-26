@@ -668,8 +668,10 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
       - **Why:**
         - Pages/cains_jawbone_page_95.md explicitly narrates the act of writing a full account (“told him all, hour by hour, day by day…”) with pen/ink ritual.
         - Pages/cains_jawbone_page_70.md reads as the immediate aftermath: the narrator has “told all I knew”, leaves a franked item to be found “in the morning” by “the girl”, and fears retaliation (“do me in”).
+        - Pages/cains_jawbone_page_95.md’s “neglecting my contact with his infancy” aligns with Pages/cains_jawbone_page_70.md’s “old association… babbled at me knee”, strengthening that the same “him/he” relationship thread continues across the pair.
       - **Disconfirming evidence:**
         - Pages/cains_jawbone_page_70.md’s “franked” item is shown to be unrelated to Pages/cains_jawbone_page_95.md’s written account (different recipient/object), or the timing can’t accommodate a write-then-leave sequence.
+        - Pages/cains_jawbone_page_95.md’s “him” and Pages/cains_jawbone_page_70.md’s “he” are shown to be different people (so the infancy/knee relationship doesn’t match).
     - **Sequence B — café waiting → decide to write** (confidence: `LIKELY`)
       - **Pages (ordered):** Pages/cains_jawbone_page_96.md → Pages/cains_jawbone_page_95.md
       - **Why:**
@@ -684,9 +686,16 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - MAYBE: Pages/cains_jawbone_page_68.md’s “touched a chord of memory” / “how often…” self-distraction echoes Pages/cains_jawbone_page_96.md’s “How vividly… How it all comes back” (same memory-trigger/digression habit), and both pages explicitly frame a central “meeting” as interpretively charged.
         - Pages/cains_jawbone_page_96.md → Pages/cains_jawbone_page_95.md reads as the café waiting beat resolving into the decision to write the full account.
         - Pages/cains_jawbone_page_69.md’s “I had seen every minute of it” aligns with Pages/cains_jawbone_page_95.md’s “hour by hour, day by day” framing for the written account (time-granularity echo beyond the generic “old man/he”).
-        - Pages/cains_jawbone_page_95.md → Pages/cains_jawbone_page_70.md reads as write-then-aftermath: the narrator “told him all” then has “told all I knew” and fears retaliation.
+        - Pages/cains_jawbone_page_95.md → Pages/cains_jawbone_page_70.md reads as write-then-aftermath: the narrator “told him all” then has “told all I knew” and fears retaliation; the shared infancy/knee relationship anchor strengthens that it’s the same recipient/antagonist thread.
       - **Disconfirming evidence:**
         - Pages/cains_jawbone_page_69.md’s “done slowly to death” proves figurative, Pages/cains_jawbone_page_96.md is later anchored to a clearly different setting/voice from the Café Royal strand, or Pages/cains_jawbone_page_95.md’s “horrid act” is later shown to be unrelated to the old-man strand.
+    - **Sequence D — crucial meeting → night aftermath** (confidence: `LIKELY`)
+      - **Pages (ordered):** Pages/cains_jawbone_page_68.md → Pages/cains_jawbone_page_69.md
+      - **Why:**
+        - Pages/cains_jawbone_page_68.md frames the narrator’s “last crucial meeting with the old man” (plus suspected eavesdropping), while Pages/cains_jawbone_page_69.md reads like the subsequent late-night attempt to “collect myself” after witnessing the old man “done slowly to death”.
+        - Pages/cains_jawbone_page_69.md’s Hamlet night-time cue (“yon same star…”) fits as a same-night aftermath beat after the “meeting” concern in Pages/cains_jawbone_page_68.md.
+      - **Disconfirming evidence:**
+        - The “old man” is shown to be different referents on Pages/cains_jawbone_page_68.md vs Pages/cains_jawbone_page_69.md, or Pages/cains_jawbone_page_68.md’s Selby/Latham Chapel setting is later shown to be incompatible with the witnessed-death situation on Pages/cains_jawbone_page_69.md.
   - **Next falsification check:** find a concrete prop/character anchor tying Pages/cains_jawbone_page_68.md/Pages/cains_jawbone_page_69.md to the Pages/cains_jawbone_page_96.md/Pages/cains_jawbone_page_95.md/Pages/cains_jawbone_page_70.md letter thread beyond generic “meeting” + time-granularity + memory-digression style.
 
 - **Cluster:** `N07` Bunny and Perry (Pro/Con) mental debate (confidence: `CERTAIN`)

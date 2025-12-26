@@ -40,6 +40,7 @@ LIKELY WORDPLAY
   - Time budgeting (minutes; “double the time”) + gaming-table allusion.
   - CERTAIN: “John Montagu’s arrangement for an uninterrupted session at the gaming table” = the sandwich (named from the Earl of Sandwich; origin-story: invented so he could remain at the gaming table): Webster 1913 “Sandwich” (https://www.websters1913.com/words/Sandwich); *The Past at Our Doors* (1911), “The Story of Our Food” (https://ia601501.us.archive.org/33/items/in.ernet.dli.2015.84533/2015.84533.The-Past-At-Our-Doors-Or-The-Old-In-The-New-Around-Us_djvu.txt).
   - Writing/ink/pen ritual (repeatedly laying pen down; checking ink; “plunged in”).
+  - LIKELY: “contact with his infancy” matches Pages/cains_jawbone_page_70.md’s “old association… babbled at me knee”, strengthening within-voice continuity beyond the generic “told all I knew” phrasing.
 - **Voice/tells:**
   - Decision-point framing (“I had decided what to do”) followed by procedural recounting.
 - **Ordering hypotheses:**
