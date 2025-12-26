@@ -338,17 +338,18 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Key anchors:** “Smells meant a lot to me”; “Jew’s lime… concomitant odour”; “first St. Bruno”; Vera Cruz fonda memory; half-burned marriage certificate in an incinerator; medlar+vine “two notes of a chord” (venetian red/peridot).
   - **Disconfirming evidence:** Page 7 or Page 55 is later shown to be a different narrator/scene using smell imagery incidentally, or the Henry/Hodge anchors in Pages 44–45 are proven to belong to a separate voice from the smell-synaesthesia register.
   - **Phase 4 internal ordering hypotheses (N16):**
-    - **Sequence A — Henry/incinerator flats episode** (confidence: `LIKELY`)
+    - **Sequence A — Henry/incinerator flats episode** (confidence: `MAYBE`)
       - **Pages (ordered):** Pages/cains_jawbone_page_44.md → Pages/cains_jawbone_page_45.md
       - **Why:**
         - Pages/cains_jawbone_page_44.md’s self-critique about failing to “tell… a story vividly” naturally leads into Pages/cains_jawbone_page_45.md’s disjointed “What had I actually seen?” evidence-dump.
         - Both pages share Henry-in-scene plus surveillance/evidence-destruction cues (incinerator + half-burned certificate ↔ “great building of many flats” + “stealing at the doors”).
       - **Disconfirming evidence:**
         - Pages/cains_jawbone_page_44.md’s incinerator/certificate is later shown to belong to a different episode/location than Pages/cains_jawbone_page_45.md’s flats scene, or Pages/cains_jawbone_page_45.md’s Henry/corpse scene is anchored to a different narrator.
-    - **Sequence B — Typhoon quotation hinge (tentative)** (confidence: `MAYBE`)
-      - **Pages (ordered):** (MAYBE: Pages/cains_jawbone_page_7.md) → Pages/cains_jawbone_page_45.md
+    - **Sequence B — Typhoon quotation hinge** (confidence: `LIKELY`)
+      - **Pages (ordered):** Pages/cains_jawbone_page_7.md → Pages/cains_jawbone_page_45.md
       - **Why:**
-        - Pages/cains_jawbone_page_7.md opens with rereading *Typhoon* and the “investigating judge” passage, while Pages/cains_jawbone_page_45.md begins with the “half Pole, half Frenchman…” line and continues with Typhoon-specific names (Hélène, absinthe), making p7 a plausible prelude to p45’s Typhoon digression.
+        - Pages/cains_jawbone_page_7.md frames “now” as the exact moment Renard‑Beinsky “had risen… for the sake of the investigating judge,” and Pages/cains_jawbone_page_45.md opens by restating that same moment (“It was when that half Pole, half Frenchman… got… out of bed”), then continues with Typhoon-specific names (Hélène, absinthe).
+        - In the page corpus, “Typhoon” appears only on Pages/cains_jawbone_page_7.md and Pages/cains_jawbone_page_45.md, supporting a tight within-voice pairing.
       - **Disconfirming evidence:**
         - *Typhoon* quotations are shown to recur broadly across unrelated narrators, or Pages/cains_jawbone_page_7.md’s “Baker Steet” immobility is literal and incompatible with Pages/cains_jawbone_page_45.md’s flats surveillance.
   - **Next falsification check:** place Pages/cains_jawbone_page_55.md (Aug 5 holiday anchor) only if a second independent link appears (repeat of the Bramley/medlar/vine chord register, or an explicit calendar anchor on another `N16` page).

@@ -19,7 +19,7 @@ I sometimes wish, and I wished then, that I had the gift of telling, or at least
   - Smell-centric perception (MAYBE animal-coded); self-critique about storytelling.
 - **Ordering hypotheses:**
   - CERTAIN: add to Henry-occurrence cluster.
-  - LIKELY: Pages/cains_jawbone_page_44.md → Pages/cains_jawbone_page_45.md (incinerator evidence + Henry problem ↔ “great building of many flats” + “stealing at the doors”).
+  - MAYBE: Pages/cains_jawbone_page_44.md → Pages/cains_jawbone_page_45.md (incinerator evidence + Henry problem ↔ “great building of many flats” + “stealing at the doors”).
   - MAYBE: links to document/will/forgery/burning-evidence motif pages.
 - **Disconfirming evidence:**
   - If later context shows the “marriage certificate” is metaphorical rather than literal evidence.
