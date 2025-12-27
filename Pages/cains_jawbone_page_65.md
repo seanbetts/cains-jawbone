@@ -22,6 +22,7 @@ I started to read Hardy’s exquisite production, and every muscle of my brain w
 - **Voice/tells:**
   - Triumphal, witty, and slightly cruel; frames people as “types”.
 - **Ordering hypotheses:**
+  - LIKELY: precedes Pages/cains_jawbone_page_90.md (“mind… enthralled” reading beat → “While my mind had been thus far away…” + repeated “type” phrase; see `Order/hypotheses.md` `N32` Sequence A).
   - MAYBE: links to wills/forgery/paperwork clusters via writing/typing + classification themes.
 - **Disconfirming evidence:**
   - If Wilde quotations are purely decorative and do not signal narrator identity/cluster.
