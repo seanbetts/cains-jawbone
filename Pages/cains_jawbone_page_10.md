@@ -9,12 +9,12 @@ Then came Hyacinth’s day. He laughed when he remembered that, as we were walki
   - MAYBE: narrator’s mistress (unnamed; wears seed-pearl ear-drops).
 - **Time markers:**
   - CERTAIN: “Hyacinth’s day” likely St Hyacinth’s feast day = Aug 16 (Chambers’ *Book of Days*; *Catholic Encyclopedia* 1913).
-  - MAYBE: “Jasmine’s day” remains unidentified (not found in Chambers; may not be a public calendar marker).
+  - LIKELY: “Jasmine’s day” is the narrator’s private label for **Aug 14** (two days before Hyacinth’s day), matching the explicit “went back two days” and aligning with Pages/cains_jawbone_page_39.md’s George Combe death-day anchor (14 Aug 1858).
   - CERTAIN: “They went back two days…” (explicit offset).
 - **Motifs/continuity hooks:**
   - Gardens/flowers (hyacinth/jasmine); betting/gifts.
   - Cigarettes: “a hundred Egyptian cigarettes—Gourdoulis” (advertised as “Gourdoulis’ Egyptian Cigarettes”, factory Alexandria) — *To-day* (1897) p. 86: http://books.google.co.uk/books?id=unhNAAAAYAAJ&pg=PA86&dq=Gourdoulis+Egyptian+cigarettes&hl=&cd=1&source=gbs_api.
-  - Hosiery/lingerie: “Etam dawn mist, ten inches” — Etam is associated with stockings/hosiery (e.g., *The British Market for Hosiery* (1927) p. 8 mentions “Etam” as a French hosiery firm): http://books.google.co.uk/books?id=h8-YuNzprAIC&pg=PA8&dq=Etam+stockings&hl=&cd=11&source=gbs_api. (“dawn mist” likely a shade name; “ten inches” likely a size measure, but exact product spec unresolved (stalled; see `Indexes/research_queue.md`).)
+  - Hosiery/lingerie: “Etam dawn mist, ten inches” — Etam is associated with stockings/hosiery (e.g., *The British Market for Hosiery* (1927) p. 8 mentions “Etam” as a French hosiery firm): http://books.google.co.uk/books?id=h8-YuNzprAIC&pg=PA8&dq=Etam+stockings&hl=&cd=11&source=gbs_api. “ten inches” matches hosiery sizing by foot-length inches (Clarence Hutton, *Kinks for Knitters* (1912), “Hosiery Sizes”): https://archive.org/download/kinksforknitters00hutt/kinksforknitters00hutt_djvu.txt. “dawn mist” reads as a shade name; exact Etam shade list remains unpinned.
   - Jewellery/ears: seed-pearl “ear-drops”.
   - Cross-page: calendar/offset language may recur with other “to-day”/feast-day anchors (keep as a continuity cue, not an ordering claim).
 - **Voice/tells:**
@@ -26,6 +26,4 @@ Then came Hyacinth’s day. He laughed when he remembered that, as we were walki
   - If “Hyacinth’s day/Jasmine’s day” are shown to be private nicknames rather than public calendar anchors.
   - If “jossers” on Pages/cains_jawbone_page_99.md is not the cutting/adjusting tool for the bow ends (weakening the singular/plural vocabulary continuity read).
 - **Research needed:**
-  - Identify what “Jasmine’s day” refers to (and whether it’s a public calendar anchor).
-  - Stalled: confirm what “Etam dawn mist, ten inches” encodes (shade + the intended sizing/measurement system) (see `Indexes/research_queue.md`).
   - Interpret the singular/plural reversal complaint (dialect/wordplay?).
