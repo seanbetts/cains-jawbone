@@ -338,20 +338,19 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Membership notes:** Pages/cains_jawbone_page_55.md is the least scene-anchored `N16` page (no Henry/Typhoon/incinerator/Hodge); treat as `MAYBE` extension until another distinctive `N16` tell recurs beyond smell-synaesthesia.
   - **Disconfirming evidence:** Page 7 or Page 55 is later shown to be a different narrator/scene using smell imagery incidentally, or the Henry/Hodge anchors in Pages 44–45 are proven to belong to a separate voice from the smell-synaesthesia register.
   - **Phase 4 internal ordering hypotheses (N16):**
-    - **Sequence A — Henry/incinerator flats episode** (confidence: `LIKELY`)
-      - **Pages (ordered):** Pages/cains_jawbone_page_44.md → Pages/cains_jawbone_page_45.md
-      - **Why:**
-        - Pages/cains_jawbone_page_44.md’s self-critique about failing to “tell… a story vividly” naturally leads into Pages/cains_jawbone_page_45.md’s disjointed “What had I actually seen?” evidence-dump.
-        - Both pages share Henry-in-scene plus surveillance/evidence-destruction cues (incinerator + half-burned certificate ↔ “great building of many flats” + “stealing at the doors”).
-      - **Disconfirming evidence:**
-        - Pages/cains_jawbone_page_44.md’s incinerator/certificate is later shown to belong to a different episode/location than Pages/cains_jawbone_page_45.md’s flats scene, or Pages/cains_jawbone_page_45.md’s Henry/corpse scene is anchored to a different narrator.
-    - **Sequence B — Typhoon quotation hinge** (confidence: `LIKELY`)
+    - **Sequence A — Typhoon lock (local adjacency)** (confidence: `CERTAIN`)
       - **Pages (ordered):** Pages/cains_jawbone_page_7.md → Pages/cains_jawbone_page_45.md
       - **Why:**
         - Pages/cains_jawbone_page_7.md frames “now” as the exact moment Renard‑Beinsky “had risen… for the sake of the investigating judge,” and Pages/cains_jawbone_page_45.md opens by restating that same moment (“It was when that half Pole, half Frenchman… got… out of bed”), then continues with Typhoon-specific names (Hélène, absinthe).
-        - In the page corpus, “Typhoon” appears only on Pages/cains_jawbone_page_7.md and Pages/cains_jawbone_page_45.md, supporting a tight within-voice pairing.
+        - In the page-body corpus, “Typhoon” appears only on Pages/cains_jawbone_page_7.md and Pages/cains_jawbone_page_45.md, supporting a tight within-voice continuation.
       - **Disconfirming evidence:**
-        - *Typhoon* quotations are shown to recur broadly across unrelated narrators, or Pages/cains_jawbone_page_7.md’s “Baker Steet” immobility is literal and incompatible with Pages/cains_jawbone_page_45.md’s flats surveillance.
+        - Another page is found to contain the same Typhoon/Renard‑Beinsky line in its page body, or the “half Pole…” passage is shown to be a detachable quotation unrelated to Pages/cains_jawbone_page_7.md’s setup.
+    - **Sequence B — Henry problem setup (placement around the Typhoon lock)** (confidence: `MAYBE`)
+      - **Pages (linked):** Pages/cains_jawbone_page_44.md ↔ Pages/cains_jawbone_page_7.md
+      - **Why:**
+        - Pages/cains_jawbone_page_44.md’s explicit “gift of telling… a story vividly” self-critique + smell-memory register reads like a prelude to Pages/cains_jawbone_page_7.md’s “gone to sleep… after rereading Typhoon” mood-setting the next morning; keep direction open until a phrase-level bridge appears.
+      - **Disconfirming evidence:**
+        - Any hard scene-continuity or explicit time marker forces Pages/cains_jawbone_page_44.md to sit after the flats/corpse surveillance episode (Pages/cains_jawbone_page_45.md), making it unlikely to directly precede the Typhoon read.
   - **Next falsification check:** keep Pages/cains_jawbone_page_55.md as edge-overlap unless a second distinctive `N16` anchor appears (e.g., St. Bruno/Hodge/incinerator-evidence cues, Typhoon-lock overlap, or a second date/holiday anchor in the same voice).
 
 - **Cluster:** `N17` Dog-watch/capstan + Kipling-quoting punster voice (confidence: `LIKELY`)
