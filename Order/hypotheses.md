@@ -990,12 +990,18 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
       - **Pages (ordered):** Pages/cains_jawbone_page_22.md → Pages/cains_jawbone_page_79.md → Pages/cains_jawbone_page_48.md
       - **Why:**
         - Pages/cains_jawbone_page_79.md says “I made love to Flora again…”, reading as a continuation from Pages/cains_jawbone_page_22.md’s explicit “made love to Flora” + banishment aftermath.
-        - Pages/cains_jawbone_page_79.md’s Sandy sleeplessness + “next day he would be allowed to fetch back Lagopus scoticus” reads like the eve of the Aug 12 red-grouse season opener (“Glorious Twelfth”; EB1911 “Grouse”: “season for grouse-shooting began (August 12th)”: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Grouse), leading cleanly into Pages/cains_jawbone_page_48.md’s Aug 12 “to-day” beat (“another” Tate).
-        - Pages/cains_jawbone_page_79.md’s “as flush as May” aligns with Pages/cains_jawbone_page_48.md’s botanical joke-name “Crataegus Oxyacantha” (hawthorn = “May”), strengthening the bridge beyond pure calendar reasoning.
+        - Lead-in: Pages/cains_jawbone_page_22.md → Pages/cains_jawbone_page_79.md → Pages/cains_jawbone_page_48.md reads as the on-ramp into the Aug 12 start (Flora “again”; Lagopus/Glorious Twelfth; hawthorn “May” pun) — see Lead-in sequence below.
       - **Disconfirming evidence:**
         - “Flora” resolves to different referents across these pages (dog mate vs human), and no second shared household marker appears.
         - The Lagopus line is shown not to refer to seasonal grouse retrieving (so it cannot act as an Aug‑12 lead-in).
         - The “May” phrasing is shown to be unrelated to hawthorn/Crataegus wordplay (or occurs widely elsewhere).
+    - **Lead-in — Flora banishment → Glorious Twelfth** (confidence: `LIKELY`)
+      - **Pages (ordered):** Pages/cains_jawbone_page_22.md → Pages/cains_jawbone_page_79.md → Pages/cains_jawbone_page_48.md
+      - **Why:**
+        - Pages/cains_jawbone_page_22.md introduces Flora + first “made love” + banishment; Pages/cains_jawbone_page_79.md repeats “made love to Flora again” and stays in the same dog‑mate register.
+        - Pages/cains_jawbone_page_79.md’s explicit “next day… allowed to fetch back Lagopus scoticus… after such a long time” reads like the eve of the Aug 12 grouse‑season opener (“Glorious Twelfth”; EB1911 “Grouse”: “season for grouse-shooting began (August 12th)”: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Grouse), and Pages/cains_jawbone_page_48.md is the Aug 12 “to-day” beat, giving a clean entry into the daybook spine.
+      - **Disconfirming evidence:**
+        - Flora is proven to be a different referent on Pages/cains_jawbone_page_22.md vs Pages/cains_jawbone_page_79.md (e.g., an in-world person/cat rather than the dog‑mate).
     - **Coda — Dec 14 domestic** (confidence: `LIKELY`)
       - **Pages (ordered):** Pages/cains_jawbone_page_19.md → Pages/cains_jawbone_page_46.md
       - **Why:**
@@ -1003,6 +1009,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - Shared domestic observer register (“listen to him”; “he said to her, out of a book”) plus Tom/Jasmine household continuity (“Tom and Flora’s Jasmine” ↔ “Some Tom… in the matter of Jasmine”) reads like a later domestic beat after the couple-argument pages.
         - Pages/cains_jawbone_page_46.md’s opening “glad they were married” reads naturally as a later state after the earlier “together too much”/“first quarrel” beats in the Aug chain.
         - Phrase-level anchor: “listen to him” / “listening to him” appears only on Pages/cains_jawbone_page_88.md and Pages/cains_jawbone_page_46.md (and is paired with the same quoted-book dynamic on both pages), strengthening the linkage beyond calendar reasoning.
+        - Pages/cains_jawbone_page_46.md’s “not the one I killed in the matter of Jasmine” echoes Pages/cains_jawbone_page_99.md’s “she wasn’t the one I’d killed” alongside a Jasmine reference, supporting shared narrator continuity across the dog segment.
       - **Disconfirming evidence:**
         - Pages/cains_jawbone_page_46.md’s “visited England…” clue is shown not to be a Chambers-*Book of Days* daybook hook (so the Dec 14 placement collapses).
         - The Tom/Jasmine references are shown to be different referents, or Pages/cains_jawbone_page_46.md’s couple/context proves incompatible with the Pages/cains_jawbone_page_48.md/Pages/cains_jawbone_page_88.md domestic setup.
