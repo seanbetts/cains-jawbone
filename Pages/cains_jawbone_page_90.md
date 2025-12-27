@@ -19,7 +19,7 @@ While my mind had been thus far away, a grotesque looking old gentleman had flut
   - Future vs present anxiety (endeavour always “in the future”).
 - **Ordering hypotheses:**
   - LIKELY: follows Pages/cains_jawbone_page_65.md (“mind… enthralled” reading beat → “While my mind had been thus far away…” + repeated “type” phrase; see `Order/hypotheses.md` `N32` Sequence A).
-  - MAYBE: follows Pages/cains_jawbone_page_89.md (same “old gentleman” / hunting-food register).
+  - MAYBE: precedes Pages/cains_jawbone_page_89.md (old gentleman arrives → collops/memory exchange; see `Order/hypotheses.md` `N32` Sequence B).
 - **Disconfirming evidence:**
   - If the “ancient” on Page 89 is clearly not the same figure as this old gentleman.
 - **Research needed:**
