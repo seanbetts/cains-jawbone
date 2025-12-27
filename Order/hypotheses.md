@@ -975,11 +975,11 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - “went back two days” is purely conversational (not chronological), or the bet described on Pages/cains_jawbone_page_39.md and Pages/cains_jawbone_page_10.md is shown to be different.
         - A different page supplies the “same bow” setup that Pages/cains_jawbone_page_8.md’s “Later…” refers to, or “jossers” is shown to refer to something other than the scissors/implements used to trim/adjust the bow ends.
         - Mr. Hall/knob appears in two unrelated households, making the shared mechanism non-continuous.
-    - **Lead-in — Flora + grouse-season opener** (confidence: `LIKELY`)
+    - **Lead-in — Flora + grouse-season opener** (confidence: `CERTAIN`)
       - **Pages (ordered):** Pages/cains_jawbone_page_22.md → Pages/cains_jawbone_page_79.md → Pages/cains_jawbone_page_48.md
       - **Why:**
         - Pages/cains_jawbone_page_79.md says “I made love to Flora again…”, reading as a continuation from Pages/cains_jawbone_page_22.md’s explicit “made love to Flora” + banishment aftermath.
-        - Pages/cains_jawbone_page_79.md’s Sandy sleeplessness + “next day he would be allowed to fetch back Lagopus scoticus” reads like the eve of red-grouse retrieving being “allowed again” after a long closed season, which would naturally lead into Pages/cains_jawbone_page_48.md’s likely Aug 12 daybook anchor (“another” Tate).
+        - Pages/cains_jawbone_page_79.md’s Sandy sleeplessness + “next day he would be allowed to fetch back Lagopus scoticus” reads like the eve of the Aug 12 red-grouse season opener (“Glorious Twelfth”; EB1911 “Grouse”: “season for grouse-shooting began (August 12th)”: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Grouse), leading cleanly into Pages/cains_jawbone_page_48.md’s Aug 12 “to-day” beat (“another” Tate).
         - Pages/cains_jawbone_page_79.md’s “as flush as May” aligns with Pages/cains_jawbone_page_48.md’s botanical joke-name “Crataegus Oxyacantha” (hawthorn = “May”), strengthening the bridge beyond pure calendar reasoning.
       - **Disconfirming evidence:**
         - “Flora” resolves to different referents across these pages (dog mate vs human), and no second shared household marker appears.
