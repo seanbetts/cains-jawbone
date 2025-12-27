@@ -17,7 +17,7 @@ The cardinal was acquitted to-day of all complicity in the affair of the Queen�
   - Moralising, self-analytical; anticipates irony/commentary while questioning someone.
 - **Ordering hypotheses:**
   - LIKELY: start of the `N25` interview/papers run; precedes Pages/cains_jawbone_page_53.md as a later/next “subject introduced” beat.
-  - LIKELY: Pages/cains_jawbone_page_57.md continues the Westphalian-ham + paper-reading scene dressing before the Trinder introduction on Pages/cains_jawbone_page_53.md (fallback: if p57 is falsified as a different setting/voice, keep Pages/cains_jawbone_page_52.md → Pages/cains_jawbone_page_53.md).
+  - MAYBE: Pages/cains_jawbone_page_57.md continues the Westphalian-ham + paper-reading scene dressing before the Trinder introduction on Pages/cains_jawbone_page_53.md (fallback: keep Pages/cains_jawbone_page_52.md → Pages/cains_jawbone_page_53.md unless a second shared interview mechanic appears on p57 beyond ham/papers).
   - MAYBE: same-voice echo with Pages/cains_jawbone_page_34.md via shared “innocent child” phrasing + “ironic” framing (voice evidence only; do not assume adjacency between the debts vignette and this interview run).
 - **Disconfirming evidence:**
   - Pages/cains_jawbone_page_53.md’s Sir Paul Trinder meeting is shown to be a different narrator/setting from this interview scene.

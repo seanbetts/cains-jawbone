@@ -492,16 +492,16 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Disconfirming evidence:** the collapse frame is purely rhetorical or the Scotland Yard/Kursaal layer is reused by other narrators.
 
 - **Cluster:** `N25` Quicksands-of-crime interviewer / papers voice (confidence: `LIKELY`)
-  - **Pages:** Pages/cains_jawbone_page_33.md, Pages/cains_jawbone_page_34.md, Pages/cains_jawbone_page_52.md, Pages/cains_jawbone_page_53.md, Pages/cains_jawbone_page_57.md
+  - **Pages:** Pages/cains_jawbone_page_33.md, Pages/cains_jawbone_page_34.md, Pages/cains_jawbone_page_52.md, Pages/cains_jawbone_page_53.md (MAYBE: Pages/cains_jawbone_page_57.md)
   - **Rationale:** Page 34’s “ironic comment” and “innocent child” moralising register matches Page 52’s crime/innocence rhetoric; Pages 52–53 then supply the same voice in a concrete “interview/papers” scene culminating in a contemptuous introduction of Sir Paul Trinder. Page 33 adds a compatible clandestine, debt-framed “papers/letter being read” vignette.
   - **Key anchors:** “I always pay my debts”; “behind the armchair”; “ironic comment”; “innocent child”; “end of my interview”; “make yourself comfortable with the papers”; “commentary… page after page”; “introduced to me”; “well-fed swine”; Westphalian ham.
   - **Disconfirming evidence:** Westphalian ham/papers language is shown to be a widely reused table-setting motif, or the “introduced to me” Trinder description is later anchored to a different narrator/setting.
   - **Phase 4 internal ordering hypotheses (N25):**
     - **Sequence A — interview/papers run** (confidence: `LIKELY`)
-      - **Pages (ordered):** Pages/cains_jawbone_page_52.md → Pages/cains_jawbone_page_57.md → Pages/cains_jawbone_page_53.md
+      - **Pages (ordered):** Pages/cains_jawbone_page_52.md → (MAYBE: Pages/cains_jawbone_page_57.md) → Pages/cains_jawbone_page_53.md
       - **Why:**
         - Pages/cains_jawbone_page_52.md establishes an interview mechanic (“make yourself comfortable with the papers”; “end of my interview”) and forecasts “commentary… page after page”; Pages/cains_jawbone_page_53.md reads naturally as a later/next “subject introduced” beat in the same enquiry (contempt register + “introduced to me”).
-        - Pages/cains_jawbone_page_57.md repeats Westphalian ham and “bits of paper” reading, which fits the p52 table/papers setup and supplies an additional “paper-by-paper” beat before the Trinder introduction.
+        - MAYBE: Pages/cains_jawbone_page_57.md repeats Westphalian ham and “bits of paper” reading, which could supply an additional “paper-by-paper” beat before the Trinder introduction; however, its voice-level fit is weaker than the Pages/cains_jawbone_page_52.md → Pages/cains_jawbone_page_53.md linkage, so keep it optional unless corroborated.
       - **Disconfirming evidence:**
         - Pages/cains_jawbone_page_57.md is later anchored to a different narrator/setting with no shared interview mechanics beyond ham/papers; if so, drop it and revert to Pages/cains_jawbone_page_52.md → Pages/cains_jawbone_page_53.md.
         - Pages/cains_jawbone_page_53.md’s Sir Paul Trinder introduction is shown to be a separate narrator/setting (e.g., incompatible participants or contradictory scene mechanics).
