@@ -355,13 +355,14 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
       - **Disconfirming evidence:**
         - A later phrase-level continuation places Pages/cains_jawbone_page_44.md clearly before Pages/cains_jawbone_page_7.md (or clearly after some other non-`N16` page), making this in-cluster tail placement unlikely.
         - If Pages/cains_jawbone_page_45.md’s “surely I had heard him called so” is shown to be ironic/stylistic (not genuine uncertainty), this knowledge-progression support for Pages/cains_jawbone_page_45.md → Pages/cains_jawbone_page_44.md weakens.
+        - If Pages/cains_jawbone_page_45.md is later shown to continue directly into a “girl has left Henry” passage on a non-`N16` page, treat Pages/cains_jawbone_page_45.md → Pages/cains_jawbone_page_44.md as non-adjacent (still compatible with a debrief reading, but less likely to be the next page).
     - **Sequence C — Henry problem (setup) → Typhoon lock** (confidence: `MAYBE`)
       - **Pages (ordered):** Pages/cains_jawbone_page_44.md → Pages/cains_jawbone_page_7.md → Pages/cains_jawbone_page_45.md
       - **Why:**
         - Pages/cains_jawbone_page_44.md’s “gift of telling… a story vividly” + smell-memory register can read as a prelude to Pages/cains_jawbone_page_7.md’s explicitly literary mood-setting (“gone to sleep… after rereading Typhoon”) before the Typhoon-anchored witness recap on Pages/cains_jawbone_page_45.md.
       - **Disconfirming evidence:**
         - Any explicit time/setting marker ties Pages/cains_jawbone_page_44.md’s incinerator/certificate episode to a later point that cannot precede the Typhoon sleep/wake beat on Pages/cains_jawbone_page_7.md.
-  - **Next falsification check:** keep Pages/cains_jawbone_page_55.md as edge-overlap unless a second distinctive `N16` anchor appears (e.g., St. Bruno/Hodge/incinerator-evidence cues, Typhoon-lock overlap, or a second date/holiday anchor in the same voice); for Pages/cains_jawbone_page_44.md, look for any page that reuses the “incinerator / marriage certificate / second wife’s brother” evidence bundle to lock its placement relative to the Typhoon lock.
+  - **Next falsification check:** keep Pages/cains_jawbone_page_55.md as edge-overlap unless a second distinctive `N16` anchor appears (e.g., St. Bruno/Hodge/incinerator-evidence cues, Typhoon-lock overlap, or a second date/holiday anchor in the same voice); for Pages/cains_jawbone_page_44.md, look for any page that reuses the “incinerator / marriage certificate / second wife’s brother” evidence bundle to lock its placement relative to the Typhoon lock; for Pages/cains_jawbone_page_45.md, watch for a phrase-level continuation of “The girl was no longer there” that would make Pages/cains_jawbone_page_45.md → Pages/cains_jawbone_page_44.md non-adjacent.
 
 - **Cluster:** `N17` Dog-watch/capstan + Kipling-quoting punster voice (confidence: `LIKELY`)
   - **Pages:** Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_41.md
