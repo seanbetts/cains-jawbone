@@ -829,11 +829,12 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Key anchors:** will/inheritance talk addressed to May; “abstracted will” pun; document-reading setup.
   - **Disconfirming evidence:** May/Henry context proves incompatible across the two pages, or the will language is a one-off motif rather than a narrator signature.
   - **Phase 4 internal ordering hypotheses (N10):**
-    - **Sequence A — eavesdropped will-talk → hangover document scene** (confidence: `MAYBE`)
+    - **Sequence A — eavesdropped will-talk → hangover document scene** (confidence: `LIKELY`)
       - **Pages (ordered):** Pages/cains_jawbone_page_14.md → Pages/cains_jawbone_page_12.md
       - **Why:**
         - Pages/cains_jawbone_page_14.md foregrounds overheard will/inheritance talk (“leave everything to me… May”), while Pages/cains_jawbone_page_12.md places the narrator opposite a man bent over “documents” and explicitly punning on an “abstracted will,” reading like the follow-on document scene.
-        - Pages/cains_jawbone_page_14.md’s spilled wine fits Pages/cains_jawbone_page_12.md’s “very bad head” + aspirin as plausible morning-after texture (tentative).
+        - Pages/cains_jawbone_page_14.md’s spilled wine fits Pages/cains_jawbone_page_12.md’s “very bad head” + aspirin as plausible morning-after texture.
+        - Pages/cains_jawbone_page_12.md’s Greek epigram about banquets (“The golden one is gone from the banquets…”) reads naturally as a quotation-layer callback in the wake of Pages/cains_jawbone_page_14.md’s table scene with spilled wine + food remnants (supportive, not decisive).
       - **Disconfirming evidence:**
         - Page 12’s vis-à-vis is shown to be unrelated to May’s companion (different role/setting), or Page 12’s “bad head” is clearly not post‑drinking.
         - Henry’s subordinate role on Page 14 is shown to be incompatible with the Page 12 setting (e.g., narrator status/household differs).
