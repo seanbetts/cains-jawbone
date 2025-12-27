@@ -26,7 +26,7 @@ I always liked to listen to him. It was St. Wigbert’s day, I was told, and Aug
 - **Ordering hypotheses:**
   - LIKELY: follows Pages/cains_jawbone_page_48.md (shared Tate sugar + similar “he said… she said…” domestic register; see `Order/hypotheses.md` `N02` Spine).
   - LIKELY: has a later continuation beat on Pages/cains_jawbone_page_46.md (shared “listen to him” framing + Tom/Jasmine household reference); treat Pages/cains_jawbone_page_46.md as a late‑year `N02` coda (Dec 14 “Albert, Prince Consort” anchor).
-  - LIKELY: precedes Pages/cains_jawbone_page_39.md (“how few the other had done so late in the year” → “two all for that year”; see `Order/hypotheses.md` `N02` Spine).
+  - CERTAIN: precedes Pages/cains_jawbone_page_39.md (unique year‑tally continuity: this page’s “how few the other had done so late in the year” carries directly into Pages/cains_jawbone_page_39.md’s “what they had done” + “two all for that year”; same “He said… She said…” cadence + naïve misunderstanding voice).
 - **Disconfirming evidence:**
   - If St. Wigbert’s day is shown to be an in-world nickname rather than a calendar marker.
   - If “Tom and Flora’s Jasmine” is shown to be a different Jasmine (person/plant/paint) unrelated to the Page 22 cat.
