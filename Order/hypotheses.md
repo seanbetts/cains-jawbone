@@ -18,11 +18,12 @@ Template:
 These are **cross-narrator** groupings intended to reduce the search space for Phase 4. Overlap is allowed; **do not add within-cluster sequencing in Phase 3**.
 
 - **Cluster:** Dog POV strand (confidence: `CERTAIN`)
-  - **Pages:** Pages/cains_jawbone_page_8.md, Pages/cains_jawbone_page_10.md, Pages/cains_jawbone_page_19.md, Pages/cains_jawbone_page_22.md, Pages/cains_jawbone_page_39.md, Pages/cains_jawbone_page_46.md, Pages/cains_jawbone_page_48.md, Pages/cains_jawbone_page_79.md, Pages/cains_jawbone_page_88.md, Pages/cains_jawbone_page_99.md
+  - **Pages:** Pages/cains_jawbone_page_8.md, Pages/cains_jawbone_page_10.md, Pages/cains_jawbone_page_19.md, Pages/cains_jawbone_page_22.md, Pages/cains_jawbone_page_39.md, Pages/cains_jawbone_page_46.md, Pages/cains_jawbone_page_48.md, Pages/cains_jawbone_page_57.md (MAYBE extension), Pages/cains_jawbone_page_79.md, Pages/cains_jawbone_page_88.md, Pages/cains_jawbone_page_99.md
   - **Rationale:** Repeated non-human bodily perspective and dog-specific constraints are strong enough to treat these as a standalone narrative strand.
   - **Key anchors:** pulled ears + low noise; “no vibration… of my latter end”; “lowered myself and made love”; “provided a chop for me”; “my mistress” framing; Tate sugar hoarding.
   - **Sub-strands (working):**
     - Currently identical to narrator cluster `N02` (treat as single-voice macro until falsified).
+  - **Membership notes:** Pages/cains_jawbone_page_57.md is low-signal on dog physicality but matches the dog-as-listener stance + “my people” Skye/pedigree hint (Armadale Castle); keep as `MAYBE` extension unless contradicted.
   - **Phase 4 internal ordering hypotheses (Dog POV):**
     - **Sequence A — date-anchored spine (Aug 12→18)** (confidence: `LIKELY`)
       - **Pages (ordered):** Pages/cains_jawbone_page_48.md (LIKELY: Nahum Tate “to-day” = Aug 12; DNB) → Pages/cains_jawbone_page_88.md (St Wigbert’s day = Aug 13) → Pages/cains_jawbone_page_39.md (George Combe died 14 Aug 1858; DNB: https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Combe,_George) → Pages/cains_jawbone_page_10.md (Hyacinth’s day = Aug 16; “went back two days… bet”) → Pages/cains_jawbone_page_99.md (“closing day in Potsdam” = Aug 17) → Pages/cains_jawbone_page_8.md (Guido Reni + Kilmarnock/Balmerino “to-day” = Aug 18) → Pages/cains_jawbone_page_19.md (“Human Comedy”/Balzac “to-day” = Aug 18).
@@ -80,7 +81,8 @@ These are **cross-narrator** groupings intended to reduce the search space for P
   - **Disconfirming evidence:** paper artifacts are shown to be a generic, widely used prop with no consistent voice/participant continuity (e.g., May/Henry clearly differ across all instances).
   - **Sub-strands (working):**
     - will/estate/forgery (`N10`/`N39`/`N18`): Pages/cains_jawbone_page_12.md, Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_28.md, Pages/cains_jawbone_page_50.md, Pages/cains_jawbone_page_78.md
-    - interview/bills/papers (`N25`): Pages/cains_jawbone_page_33.md, Pages/cains_jawbone_page_34.md, Pages/cains_jawbone_page_52.md, Pages/cains_jawbone_page_53.md, Pages/cains_jawbone_page_57.md
+    - interview/bills/papers (`N25`): Pages/cains_jawbone_page_33.md, Pages/cains_jawbone_page_34.md, Pages/cains_jawbone_page_52.md, Pages/cains_jawbone_page_53.md
+    - dog-as-listener “bits of paper” overlap (`N02`): Pages/cains_jawbone_page_57.md
     - old man/blackmail letters (`N09`): Pages/cains_jawbone_page_68.md, Pages/cains_jawbone_page_69.md, Pages/cains_jawbone_page_70.md, Pages/cains_jawbone_page_95.md, Pages/cains_jawbone_page_96.md
     - pen/handwriting (`N01`): Pages/cains_jawbone_page_1.md
     - lexicographer/letters/postman (`N04`): Pages/cains_jawbone_page_61.md, Pages/cains_jawbone_page_64.md
@@ -492,18 +494,16 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Disconfirming evidence:** the collapse frame is purely rhetorical or the Scotland Yard/Kursaal layer is reused by other narrators.
 
 - **Cluster:** `N25` Quicksands-of-crime interviewer / papers voice (confidence: `LIKELY`)
-  - **Pages:** Pages/cains_jawbone_page_33.md, Pages/cains_jawbone_page_34.md, Pages/cains_jawbone_page_52.md, Pages/cains_jawbone_page_53.md (MAYBE: Pages/cains_jawbone_page_57.md)
+  - **Pages:** Pages/cains_jawbone_page_33.md, Pages/cains_jawbone_page_34.md, Pages/cains_jawbone_page_52.md, Pages/cains_jawbone_page_53.md
   - **Rationale:** Page 34’s “ironic comment” and “innocent child” moralising register matches Page 52’s crime/innocence rhetoric; Pages 52–53 then supply the same voice in a concrete “interview/papers” scene culminating in a contemptuous introduction of Sir Paul Trinder. Page 33 adds a compatible clandestine, debt-framed “papers/letter being read” vignette.
   - **Key anchors:** “I always pay my debts”; “behind the armchair”; “ironic comment”; “innocent child”; “end of my interview”; “make yourself comfortable with the papers”; “commentary… page after page”; “introduced to me”; “well-fed swine”; Westphalian ham.
   - **Disconfirming evidence:** Westphalian ham/papers language is shown to be a widely reused table-setting motif, or the “introduced to me” Trinder description is later anchored to a different narrator/setting.
   - **Phase 4 internal ordering hypotheses (N25):**
     - **Sequence A — interview/papers run** (confidence: `LIKELY`)
-      - **Pages (ordered):** Pages/cains_jawbone_page_52.md → (MAYBE: Pages/cains_jawbone_page_57.md) → Pages/cains_jawbone_page_53.md
+      - **Pages (ordered):** Pages/cains_jawbone_page_52.md → Pages/cains_jawbone_page_53.md
       - **Why:**
         - Pages/cains_jawbone_page_52.md establishes an interview mechanic (“make yourself comfortable with the papers”; “end of my interview”) and forecasts “commentary… page after page”; Pages/cains_jawbone_page_53.md reads naturally as a later/next “subject introduced” beat in the same enquiry (contempt register + “introduced to me”).
-        - MAYBE: Pages/cains_jawbone_page_57.md repeats Westphalian ham and “bits of paper” reading, which could supply an additional “paper-by-paper” beat before the Trinder introduction; however, its voice-level fit is weaker than the Pages/cains_jawbone_page_52.md → Pages/cains_jawbone_page_53.md linkage, so keep it optional unless corroborated.
       - **Disconfirming evidence:**
-        - Pages/cains_jawbone_page_57.md is later anchored to a different narrator/setting with no shared interview mechanics beyond ham/papers; if so, drop it and revert to Pages/cains_jawbone_page_52.md → Pages/cains_jawbone_page_53.md.
         - Pages/cains_jawbone_page_53.md’s Sir Paul Trinder introduction is shown to be a separate narrator/setting (e.g., incompatible participants or contradictory scene mechanics).
     - **Sequence B — debts/bills clandestine vignette** (confidence: `LIKELY`)
       - **Pages (ordered):** Pages/cains_jawbone_page_33.md → Pages/cains_jawbone_page_34.md
@@ -512,7 +512,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - Pages/cains_jawbone_page_34.md’s opener (“petty employ…”) can be read as a meta nod to the concealment/eavesdropping vignette in Pages/cains_jawbone_page_33.md.
       - **Disconfirming evidence:**
         - The bills/debts phrasing is shown to be generic across unrelated voices and no phrase-level anchor links the two scenes.
-  - **Falsification check (2025-12-25):** searched the page corpus for the “innocent child” phrasing and found it only on Pages/cains_jawbone_page_34.md and Pages/cains_jawbone_page_52.md; together with their shared “ironic” framing, this supports a `LIKELY` same-voice link (vs a widely reused detachable quotation). However, no shared participant/prop/setting marker ties the debts vignette (Pages/cains_jawbone_page_33.md → Pages/cains_jawbone_page_34.md) to the interview run (Pages/cains_jawbone_page_52.md → Pages/cains_jawbone_page_57.md → Pages/cains_jawbone_page_53.md), so keep them as two internal sequences and do not assert adjacency between them yet.
+  - **Falsification check (2025-12-25):** searched the page corpus for the “innocent child” phrasing and found it only on Pages/cains_jawbone_page_34.md and Pages/cains_jawbone_page_52.md; together with their shared “ironic” framing, this supports a `LIKELY` same-voice link (vs a widely reused detachable quotation). However, no shared participant/prop/setting marker ties the debts vignette (Pages/cains_jawbone_page_33.md → Pages/cains_jawbone_page_34.md) to the interview run (Pages/cains_jawbone_page_52.md → Pages/cains_jawbone_page_53.md), so keep them as two internal sequences and do not assert adjacency between them yet.
   - **Next falsification check:** seek a second independent continuity marker bridging the debts vignette to the interview run (named participant, repeated prop, or consistent location detail), or find a third “innocent child” instance under a clearly different voice that would demote it to generic phrasing.
 
 - **Cluster:** `N26` “Awful and literal sense” breakfast-recapping / second-sight voice (confidence: `LIKELY`)
@@ -925,10 +925,11 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
 
 - **Cluster:** Westphalian ham + paper-reading (confidence: `MAYBE`)
   - **Pages:** Pages/cains_jawbone_page_52.md, Pages/cains_jawbone_page_57.md
-  - **Rationale:** Both pages use Westphalian ham as a table-setting while someone handles/reads “papers/bits of paper”, suggesting a shared interview or clue-reading scene.
+  - **Rationale:** Both pages use Westphalian ham as a table-setting while someone handles/reads “papers/bits of paper”, but the voice-level fit diverges (Pages/cains_jawbone_page_52.md reads like `N25`’s interviewer scene, while Pages/cains_jawbone_page_57.md reads like a dog-as-listener page); treat as a cross-narrator overlap until a second shared scene mechanic appears beyond ham/papers.
   - **Key anchors:** Westphalian ham; “papers” / “bits of paper”; shared table/companionship.
   - **Sub-strands (working):**
-    - `N25` interviewer/papers voice: Pages/cains_jawbone_page_52.md, Pages/cains_jawbone_page_57.md
+    - `N25` interviewer/papers voice: Pages/cains_jawbone_page_52.md
+    - `N02` dog-as-listener overlap: Pages/cains_jawbone_page_57.md
   - **Disconfirming evidence:** Westphalian ham is merely decorative and appears across unrelated scenes with no consistent narrator/setting.
 
 - **Cluster:** Whitman quotations (confidence: `MAYBE`)
@@ -965,11 +966,11 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Disconfirming evidence:** “to-day” references are purely decorative and do not resolve to dates or ordering constraints.
 
 - **Cluster:** `N02` Dog POV (confidence: `CERTAIN`)
-  - **Pages:** Pages/cains_jawbone_page_8.md, Pages/cains_jawbone_page_10.md, Pages/cains_jawbone_page_19.md, Pages/cains_jawbone_page_22.md, Pages/cains_jawbone_page_39.md, Pages/cains_jawbone_page_46.md, Pages/cains_jawbone_page_48.md, Pages/cains_jawbone_page_79.md, Pages/cains_jawbone_page_88.md, Pages/cains_jawbone_page_99.md
+  - **Pages:** Pages/cains_jawbone_page_8.md, Pages/cains_jawbone_page_10.md, Pages/cains_jawbone_page_19.md, Pages/cains_jawbone_page_22.md, Pages/cains_jawbone_page_39.md, Pages/cains_jawbone_page_46.md, Pages/cains_jawbone_page_48.md, Pages/cains_jawbone_page_57.md (MAYBE extension), Pages/cains_jawbone_page_79.md, Pages/cains_jawbone_page_88.md, Pages/cains_jawbone_page_99.md
   - **Rationale:** Explicit animal-coded reactions (ears pulled, “low noise”; tail “vibration” clue; mating/banishment behaviour) plus dog-coded scene mechanics (Mr. Hall + knob/bell summons) point to non-human narrator segments.
   - **Key anchors:** pulled ears + low noise; “no vibration… of my latter end”; “lowered myself and made love”; “provided a chop for me”; “nearly fell on my nose”; “my mistress” framing + “could have howled”; coat/undercoat literalism (“inherited coat”) and “vicarious”→vicar misunderstanding; Mr. Hall + knob/bell summons; Tate sugar hoarding + “I did not entirely understand” register.
-  - **Membership notes:** Pages/cains_jawbone_page_8.md is still the highest-risk fit (optics/“powerful glass”), but it also carries dog-coded tells (“sausage place… furtively I knew how excellent”; “never could quite understand how it worked”) and is hard-anchored by the bow + Mr. Hall call-bell continuity; treat as `LIKELY` member unless later evidence shows the narrator operating an optical instrument directly.
-  - **Bridge candidate (unresolved):** Pages/cains_jawbone_page_57.md shares the Skye/island register (Armadale Castle) and the “he read…”/listener dynamic, but is currently placed in `N25`; treat as `MAYBE` overlap and a Phase‑5 bridge candidate unless/until a stronger dog‑POV tell appears.
+  - **Membership notes:** Pages/cains_jawbone_page_8.md is still the highest-risk fit (optics/“powerful glass”), but it also carries dog-coded tells (“sausage place… furtively I knew how excellent”; “never could quite understand how it worked”) and is hard-anchored by the bow + Mr. Hall call-bell continuity; treat as `LIKELY` member unless later evidence shows the narrator operating an optical instrument directly. Pages/cains_jawbone_page_57.md is a lower-signal `N02` page (no explicit dog-physicality cue), but its dog-as-listener stance + “my people” Skye/pedigree hint (Armadale Castle) make it a plausible extension.
+  - **Bridge candidate (unresolved):** Pages/cains_jawbone_page_57.md is a `MAYBE` `N02` extension that shares table-setting overlap with the `N25` Westphalian-ham/papers scene; do not place it into the mid‑August spine unless a compatible date anchor emerges.
   - **Disconfirming evidence:** later context shows these are human metaphors (or the POV is clearly human).
   - **Phase 4 internal ordering hypotheses (N02):**
     - **Spine — mid‑August daybook run** (confidence: `LIKELY`)
