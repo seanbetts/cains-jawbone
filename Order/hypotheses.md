@@ -65,7 +65,7 @@ These are **cross-narrator** groupings intended to reduce the search space for P
   - **Rationale:** Dense, recurring plant/poison specificity (often tied to deliberate action) plus a repeated “competence/plan/instructions” register suggests either a shared narrator or a small set of closely linked narrators.
   - **Key anchors:** Calabar bean/physostigma; digitalis; hellebore; lobelia/Indian-tobacco; wild jasmine/roses; marigold/calendula; Mithradates inoculation; failing eyesight with “documents”; “job/instructions” framing.
   - **Sub-strands (working):**
-    - `N12` poison logistics: Pages/cains_jawbone_page_6.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_26.md, Pages/cains_jawbone_page_29.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_58.md, Pages/cains_jawbone_page_59.md
+    - `N12` poison logistics: Pages/cains_jawbone_page_6.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_29.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_58.md, Pages/cains_jawbone_page_59.md
     - `N03` Clement/pills/flowers: Pages/cains_jawbone_page_3.md, Pages/cains_jawbone_page_24.md, Pages/cains_jawbone_page_27.md, Pages/cains_jawbone_page_32.md (MAYBE: Pages/cains_jawbone_page_30.md)
     - `N06` flowers/documents/OGPU: Pages/cains_jawbone_page_71.md, Pages/cains_jawbone_page_73.md, Pages/cains_jawbone_page_74.md, Pages/cains_jawbone_page_75.md, Pages/cains_jawbone_page_83.md
     - `N13` host/guest poisoning: Pages/cains_jawbone_page_80.md, Pages/cains_jawbone_page_86.md, Pages/cains_jawbone_page_87.md
@@ -205,7 +205,7 @@ Goal: highlight likely “join surfaces” between macro strands (people/place/o
 
 - **Narrator bridges (multi-macro join surfaces):**
   - `N01` (Pages/cains_jawbone_page_1.md, Pages/cains_jawbone_page_17.md, Pages/cains_jawbone_page_43.md) spans Paper/money (pen/handwriting) ↔ Aesthetic/high-society (venue/menu-title register). Treat “to-day” phrasing on these pages as generic until a date-derivable anchor appears.
-  - `N16` (Pages/cains_jawbone_page_7.md, Pages/cains_jawbone_page_26.md, Pages/cains_jawbone_page_44.md, Pages/cains_jawbone_page_45.md, Pages/cains_jawbone_page_55.md) spans Botany/poison, Paper/money, Detective/violence, and Time/calendar via smell-memory + evidence/violence framing; treat Pages/cains_jawbone_page_26.md (overlaps `N12`) and Pages/cains_jawbone_page_55.md as lower-confidence edge-overlaps until reinforced by a second distinctive `N16` anchor beyond the smell/Hodge layer.
+  - `N16` (Pages/cains_jawbone_page_7.md, Pages/cains_jawbone_page_26.md, Pages/cains_jawbone_page_44.md, Pages/cains_jawbone_page_45.md, Pages/cains_jawbone_page_55.md) spans Botany/poison, Paper/money, Detective/violence, and Time/calendar via smell-memory + evidence/violence framing; treat Pages/cains_jawbone_page_26.md (thematic overlap with `N12`’s murder-counting thread) and Pages/cains_jawbone_page_55.md as lower-confidence edge-overlaps until reinforced by a second distinctive `N16` anchor beyond the smell/Hodge layer.
   - `N17` (Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_41.md) spans Paper/money and Aesthetic/high-society through the shared Time/calendar register (dog-watch “first dog” timekeeping + London geography).
   - `N26` (Pages/cains_jawbone_page_54.md, Pages/cains_jawbone_page_56.md) spans Botany/poison + Time/calendar (Waterloo-day “to-day”) and Aesthetic/high-society (breakfast/second-sight voice); treat the time layer as anchored on Pages/cains_jawbone_page_54.md unless reinforced elsewhere.
 
@@ -235,7 +235,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Next falsification check:** search for a second anchor (Casy Ferris, St. Lazarus-in-the-Chine, “whaups,” or the “dead old man”) on any other `N01`-adjacent page before attempting to place Pages/cains_jawbone_page_1.md within the Moon/Dawn sequence.
 
 - **Cluster:** `N12` Calabar/digitalis poison-logistics + murder-as-genre voice (confidence: `LIKELY`)
-  - **Pages:** Pages/cains_jawbone_page_6.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_26.md, Pages/cains_jawbone_page_29.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_58.md, Pages/cains_jawbone_page_59.md, Pages/cains_jawbone_page_60.md
+  - **Pages:** Pages/cains_jawbone_page_6.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_29.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_58.md, Pages/cains_jawbone_page_59.md, Pages/cains_jawbone_page_60.md
   - **Rationale:** Shared poison anchors (Calabar/digitalis) and a consistent practical, darkly comic “murder mechanics” register (counts, pursuit set-pieces, try-again planning) suggest a stable narrator signature.
   - **Key anchors:** Calabar bean/physostigma; digitalis; murder-counting language; “Murders were funny things”; “give him another day”.
   - **Disconfirming evidence:** Calabar/digitalis references recur widely across unrelated voices, or the pursuit/murder-count tone is shown to be a separate narrator from the poison-logistics pages.
@@ -248,10 +248,10 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - Both pages bind Calabar/digitalis to Henry-in-scene + corpse-handling language (blood/body; burial with eyes showing).
       - **Disconfirming evidence:**
         - “introduced him to the person most concerned” in Pages/cains_jawbone_page_36.md is later shown to refer to a different “him”/recipient than the Calabar/digitalis action in Pages/cains_jawbone_page_21.md.
-    - **Sequence B — Henry spree escalation (counted murders → knock → manhunt)** (confidence: `LIKELY`)
-      - **Pages (ordered):** Pages/cains_jawbone_page_26.md → Pages/cains_jawbone_page_58.md → Pages/cains_jawbone_page_35.md
+    - **Sequence B — Henry spree escalation (knock → manhunt)** (confidence: `LIKELY`)
+      - **Pages (ordered):** Pages/cains_jawbone_page_58.md → Pages/cains_jawbone_page_35.md
       - **Why:**
-        - Pages/cains_jawbone_page_26.md references Henry’s “first two killings,” Pages/cains_jawbone_page_58.md counts a third and fourth victim and ends with an “official knock,” and Pages/cains_jawbone_page_35.md continues into an active police pursuit with the flying squad and an escape attempt.
+        - Pages/cains_jawbone_page_58.md ends with a “horribly official knock,” and Pages/cains_jawbone_page_35.md continues into an active police pursuit with the flying squad and an escape attempt.
       - **Disconfirming evidence:**
         - Any of the “killings/victim” language is proven figurative, or the Pages/cains_jawbone_page_35.md pursuit is later revealed as an embedded/imagined story unrelated to the corpse scenes.
     - **Sequence C — Trinder outcome (failed → succeeded)** (confidence: `LIKELY`)
@@ -292,7 +292,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - Both pages are poison-failure beats (“Calabar… should fail me” / “bane… definitely failed”) and use the same rare “awkward” complaint; Pages/cains_jawbone_page_59.md additionally introduces external scrutiny (detective-sergeant visit about a strange death), which reads like a plausible later consequence of the earlier corpse-handling context on Pages/cains_jawbone_page_36.md.
       - **Disconfirming evidence:**
         - A third page is found to share the same “awkward” phrasing in a clearly different narrator/setting, or “that day” on Pages/cains_jawbone_page_59.md is anchored to an incompatible timeline from Pages/cains_jawbone_page_21.md → Pages/cains_jawbone_page_36.md.
-  - **Resolved check (Henry identity):** within `N12`, “Henry” behaves like at least two incompatible roles: a killer/suspect under pursuit with explicit corpse-handling (Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_26.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_58.md) vs a narrator-controlled “peerless investigator” (Pages/cains_jawbone_page_60.md). Treat `P01` Henry as high-noise here: keep `N12` sub-strands ordered internally, but do not stitch them together on “Henry” alone.
+  - **Resolved check (Henry identity):** within `N12`, “Henry” behaves like at least two incompatible roles: a killer/suspect under pursuit with explicit corpse-handling (Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_58.md) vs a narrator-controlled “peerless investigator” (Pages/cains_jawbone_page_60.md). Treat `P01` Henry as high-noise here: keep `N12` sub-strands ordered internally, but do not stitch them together on “Henry” alone.
   - **Next falsification check:** before using Pages/cains_jawbone_page_60.md to order within the broader `N12` umbrella, require a second non-name anchor linking it to the killer/manhunt strand (e.g., Wellington Crisp/flying squad, “crimson list”, “little blue door” knock) or linking the killer/manhunt pages to Trinder/gelsemium language.
 
 - **Cluster:** `N13` Host/guest poisoning + coastal-house segment (confidence: `LIKELY`)
@@ -337,7 +337,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Pages:** Pages/cains_jawbone_page_7.md, Pages/cains_jawbone_page_26.md, Pages/cains_jawbone_page_44.md, Pages/cains_jawbone_page_45.md, Pages/cains_jawbone_page_55.md
   - **Rationale:** A consistent narrator signature uses smell/odour as an organising device (including synaesthetic metaphors), with self-aware narration and abrupt associative pivots; Pages 44–45 add Henry-focused “problem/evidence” detail to the same sensory-first register, while Page 26 adds a shared named anchor (Hodge) that appears only in this cluster.
   - **Key anchors:** “Smells meant a lot to me”; “Jew’s lime… concomitant odour”; “first St. Bruno”; Vera Cruz fonda memory; half-burned marriage certificate in an incinerator; `P33` Hodge; medlar+vine “two notes of a chord” (venetian red/peridot); “The girl had left Henry…” echoing “The girl was no longer there.”
-  - **Membership notes:** Pages/cains_jawbone_page_55.md is still the least scene-anchored `N16` page (no Henry/Typhoon/incinerator/Hodge); keep it as an edge-extension unless/until another non-smell anchor recurs in the same voice. Pages/cains_jawbone_page_26.md overlaps `N12`’s murder-counting thread; keep it pending disambiguation (strong Hodge link, but different surrounding register).
+  - **Membership notes:** Pages/cains_jawbone_page_55.md is still the least scene-anchored `N16` page (no Henry/Typhoon/incinerator/Hodge); keep it as an edge-extension unless/until another non-smell anchor recurs in the same voice. Pages/cains_jawbone_page_26.md has a thematic overlap with `N12`’s murder-counting thread, but keep it in `N16` on the unique `P33` Hodge + “girl left Henry” echo; treat any `N12` linkage as cross-strand unless a second `N12`-specific anchor appears on the same page.
   - **Disconfirming evidence:** Pages/cains_jawbone_page_7.md or Pages/cains_jawbone_page_55.md is later shown to be a different narrator/scene using smell imagery incidentally; Pages/cains_jawbone_page_26.md’s “Hodge” is proven to be a different referent from Pages/cains_jawbone_page_44.md’s Hodge; or the Henry/Hodge anchors in Pages/cains_jawbone_page_44.md–Pages/cains_jawbone_page_45.md are shown to belong to a separate voice from the smell-synaesthesia register.
   - **Phase 4 internal ordering hypotheses (N16):**
     - **Sequence A — Typhoon lock (local adjacency)** (confidence: `CERTAIN`)
@@ -542,22 +542,14 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Disconfirming evidence:** the scene is later shown to be metaphorical or an embedded quotation recounted by another narrator, or the same “no detective” self-exculpation recurs under an incompatible voice elsewhere.
 
 - **Cluster:** `N29` Post‑Vorticists / Firbank / “chamber within chamber” anxiety voice (confidence: `MAYBE`)
-  - **Pages:** Pages/cains_jawbone_page_37.md, Pages/cains_jawbone_page_27.md (MAYBE extension)
-  - **Rationale:** Page 37’s voice blends art-world framing and ornate decor with anxious weapon/evidence language and a credibility fear (“who would believe me?”), anchored by the Firbank/Malta name-drop. Pages/cains_jawbone_page_27.md is a `MAYBE` extension keyed by the unusual “Death… fingered” phrasing + Shrewsbury lock‑up/prison framing (“this time” the incarcerated person would/could not hear), but it lacks the Firbank/post‑Vorticist anchors, so keep it low-confidence.
+  - **Pages:** Pages/cains_jawbone_page_37.md
+  - **Rationale:** Page 37’s voice blends art-world framing and ornate decor with anxious weapon/evidence language and a credibility fear (“who would believe me?”), anchored by the Firbank/Malta name-drop.
   - **Key anchors:** “yellow jasmine”; “rococo mirror”; “private view… post‑Vorticists”; Ronald Firbank in Malta; “chamber within chamber”; “open the bores”; “Death… fingered”; Shrewsbury lock‑up/prison “this time” hearing contrast.
   - **Disconfirming evidence:** the art/Firbank layer is shown to be detachable quotation collage used by multiple narrators, or the “bores/chambers” language is proven non-weapon and the voice aligns with an existing narrator signature.
-  - **Phase 4 internal ordering hypotheses (N29):**
-    - **Sequence A — Death-fingered / Shrewsbury lock-up echo** (confidence: `MAYBE`)
-      - **Pages (ordered):** Pages/cains_jawbone_page_27.md → Pages/cains_jawbone_page_37.md
-      - **Why:**
-        - Both pages use the rare “Death… fingered” metaphor and explicitly contrast what the incarcerated person can hear “this time”, with both implying Shrewsbury (county town on the Severn; Hotspur’s death).
-        - Both mix ornate scene texture (table/jasmine/bowls; domestic breakfast routine) with an anxious, forensic register (breach/opening; “open the bores”; “chamber within chamber” concealment).
-      - **Disconfirming evidence:**
-        - Pages/cains_jawbone_page_27.md’s “Clem” thread is later proven incompatible with the Page 37 narrator (e.g., Clem is identified as the narrator/actor in a way that contradicts Page 37’s Alexander/Firbank/Malta identity).
-        - A third page repeats the “Death… fingered” phrasing under a clearly different narrator, weakening it as a voice anchor.
-    - **Falsification check (2025-12-25):** searched the page corpus for any additional N29 anchor repetition beyond Pages/cains_jawbone_page_37.md (Firbank/Malta/post‑Vorticists/rococo mirror/jasmine bowl/bores/chambers) and any Pages/cains_jawbone_page_27.md-specific anchors beyond Pages/cains_jawbone_page_27.md (Peaberry Mysore/Blue Mountain/Clem) and found no cross-over beyond Shrewsbury + “Death… fingered” + “this time” hearing contrast → keep Pages/cains_jawbone_page_27.md overlap-only and do not increase confidence.
-    - **Falsification check (2025-12-25):** attempted to source “Death’s clumsy fingered” / “lightly fingering for the sign of a breach” via Wikisource full-text search (multiple variants) and found no clear match → research item marked `stalled`; keep the p27 overlap as overlap-only (do not upgrade) until sourced.
-    - **Next falsification check:** expand the quotation-source search to Gutenberg/Archive scans; if “Death… fingered” is found as a detachable quotation reused elsewhere, drop the p27 overlap from `N29`.
+  - **Overlap hinge (cross-narrator; do not treat as membership):** Pages/cains_jawbone_page_27.md shares the rare “Death… fingered” metaphor + Shrewsbury lock‑up/prison “this time” hearing contrast, but its Clem/coffee anchors align with `N03` → keep it as overlap-only.
+  - **Falsification check (2025-12-25):** searched the page corpus for any additional N29 anchor repetition beyond Pages/cains_jawbone_page_37.md (Firbank/Malta/post‑Vorticists/rococo mirror/jasmine bowl/bores/chambers) and any Pages/cains_jawbone_page_27.md-specific anchors beyond Pages/cains_jawbone_page_27.md (Peaberry Mysore/Blue Mountain/Clem) and found no cross-over beyond Shrewsbury + “Death… fingered” + “this time” hearing contrast → do not increase confidence.
+  - **Falsification check (2025-12-25):** attempted to source “Death’s clumsy fingered” / “lightly fingering for the sign of a breach” via Wikisource full-text search (multiple variants) and found no clear match → research item marked `stalled`; keep the p27 overlap as overlap-only (do not upgrade) until sourced.
+  - **Next falsification check:** expand the quotation-source search to Gutenberg/Archive scans; if “Death… fingered” is found as a detachable quotation reused elsewhere, drop the p27 overlap hinge.
 
 - **Cluster:** `N30` Southend “tragic fortnight” / Sonia Gordon + omelette-stab voice (confidence: `MAYBE`)
   - **Pages:** Pages/cains_jawbone_page_38.md
