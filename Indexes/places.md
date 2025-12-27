@@ -214,7 +214,7 @@ Template:
   - **Type:** landmark/estate
   - **Confidence:** `CERTAIN`
   - **Pages:** Pages/cains_jawbone_page_57.md
-  - **Notes:** EB1911 (“Skye”) calls it the modern seat of Lord Macdonald on the Sound of Sleat; contrasted on Page 57 with “the boat that went to South Africa” (cf. EB1911 “Steamship Lines” on the Union-Castle mail steamer “Armadale Castle”).
+  - **Notes:** EB1911 (“Skye”) calls it the modern seat of Lord Macdonald on the Sound of Sleat; contrasted on Page 57 with “the boat that went to South Africa” (cf. EB1911 “Steamship Lines” on the Union-Castle mail steamer “Armadale Castle”; Lloyd’s Register (1910) lists the steamer built 1903: https://books.google.co.uk/books?id=fkQgAQAAMAAJ&pg=PA911).
 
 - **Malta**
   - **Type:** island/country
@@ -336,11 +336,11 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_57.md
   - **Notes:** Mentioned as a boat route destination.
 
-- **Armadale Castle**
-  - **Type:** castle/ship (ambiguous)
-  - **Confidence:** `MAYBE`
+- **Armadale Castle (Union-Castle mail steamer)**
+  - **Type:** ship/route
+  - **Confidence:** `CERTAIN`
   - **Pages:** Pages/cains_jawbone_page_57.md
-  - **Notes:** Referred to as a “boat” to South Africa but also as an “old” place known by narrator’s people; likely castle vs ship ambiguity.
+  - **Notes:** The “boat that went to South Africa” in Page 57; Lloyd’s Register (1910) lists the Union-Castle steamer as 12,973 GRT, built 1903: https://books.google.co.uk/books?id=fkQgAQAAMAAJ&pg=PA911.
 
 - **Colney Hatch**
   - **Type:** institution/asylum

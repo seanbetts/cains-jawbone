@@ -780,7 +780,7 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_57.md
   - **Why it matters:** May disambiguate geography (Skye vs ship-route) and yield an ordering anchor.
   - **Status:** `resolved`
-  - **Result:** Two referents: Armadale Castle on Skye (seat of Lord Macdonald; EB1911 “Skye”) vs the mail steamer “Armadale Castle” in the Union-Castle mail fleet (EB1911 “Steamship Lines”)—hence “not the boat”.
+  - **Result:** Two referents: Armadale Castle on Skye (seat of Lord Macdonald; EB1911 “Skye”) vs the Union-Castle mail steamer “Armadale Castle” to South Africa; Lloyd’s Register (1910) lists the steamer at 12,973 GRT built 1903 (Google Books: https://books.google.co.uk/books?id=fkQgAQAAMAAJ&pg=PA911), giving a post‑1903 anchor.
 
 - **Item:** Interpret Page 58’s “name month” and the “Nuts in May” / Freud punning
   - **Type:** date/other

@@ -14,7 +14,7 @@ It seemed from what I heard that Felton’s meat had been delivered at Brookesle
   - CERTAIN: South Africa (as destination of a “boat”).
   - MAYBE: Amazon; Nagpur.
   - CERTAIN: Brookesley Hall, Leicestershire (Villiers family seat): https://en.wikisource.org/wiki/Notes_on_the_Anti-Corn_Law_Struggle/Chapter_3.
-  - CERTAIN: Armadale Castle (Skye) vs “Armadale Castle” (Union-Castle mail steamer) explains the castle/boat ambiguity (EB1911 “Skye”; EB1911 “Steamship Lines”).
+  - CERTAIN: Armadale Castle (Skye) vs “Armadale Castle” (Union-Castle mail steamer) explains the castle/boat ambiguity; Lloyd’s Register (1910) lists the Union-Castle steamer as 12,973 GRT, built 1903: https://books.google.co.uk/books?id=fkQgAQAAMAAJ&pg=PA911. (Cf. EB1911 “Skye”; EB1911 “Steamship Lines”.)
 - **Quotes & allusions:**
   - CERTAIN: “Hush’d be all things, no noise here… Cowslips for her covering.” (Robert Herrick, “An Epitaph upon a Virgin”).
   - Reference list: Hilary; Voltaire; Vandyck; Stella Polaris (as “bits of paper” topics).
@@ -31,4 +31,4 @@ It seemed from what I heard that Felton’s meat had been delivered at Brookesle
   - If the Westphalian-ham + paper-reading details are shown to be unrelated, common scene dressing across multiple narrators (no shared interview mechanics beyond food/papers).
   - If Pages/cains_jawbone_page_57.md’s voice is shown to be the same contemptuous interviewer as Pages/cains_jawbone_page_52.md/Pages/cains_jawbone_page_53.md (making the “share” phrasing purely rhetorical), weakening any `N02` overlap reading.
 - **Research needed:**
-  - Clarify the South Africa route reference (if more specific than Union-Castle mail steamers).
+  - MAYBE: If a specific voyage/date matters, find a period sailing notice for the Union-Castle mail steamer “Armadale Castle” (current anchor: built 1903).
