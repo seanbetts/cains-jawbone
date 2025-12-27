@@ -61,7 +61,7 @@ LIKELY WORDPLAY
   - Proverb-twisting; vivid menu/brand listing; self-described stealth/thievery.
 - **Ordering hypotheses:**
   - CERTAIN: add to Henry-occurrence cluster.
-  - MAYBE: follows Pages/cains_jawbone_page_44.md (shared Henry/evidence + flats-surveillance register).
+  - LIKELY: follows Pages/cains_jawbone_page_44.md (N16: incinerator evidence + Henry problem ↔ “great building of many flats” + “stealing at the doors”; see Order/hypotheses.md).
   - LIKELY: follows Pages/cains_jawbone_page_7.md (*Typhoon* reread → “now was the hour…” setup → opening Typhoon quote).
   - MAYBE: “led up the garden” echoes Pages/cains_jawbone_page_29.md (garden/deception/old man thread).
 - **Disconfirming evidence:**

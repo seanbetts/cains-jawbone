@@ -338,7 +338,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Key anchors:** “Smells meant a lot to me”; “Jew’s lime… concomitant odour”; “first St. Bruno”; Vera Cruz fonda memory; half-burned marriage certificate in an incinerator; medlar+vine “two notes of a chord” (venetian red/peridot).
   - **Disconfirming evidence:** Page 7 or Page 55 is later shown to be a different narrator/scene using smell imagery incidentally, or the Henry/Hodge anchors in Pages 44–45 are proven to belong to a separate voice from the smell-synaesthesia register.
   - **Phase 4 internal ordering hypotheses (N16):**
-    - **Sequence A — Henry/incinerator flats episode** (confidence: `MAYBE`)
+    - **Sequence A — Henry/incinerator flats episode** (confidence: `LIKELY`)
       - **Pages (ordered):** Pages/cains_jawbone_page_44.md → Pages/cains_jawbone_page_45.md
       - **Why:**
         - Pages/cains_jawbone_page_44.md’s self-critique about failing to “tell… a story vividly” naturally leads into Pages/cains_jawbone_page_45.md’s disjointed “What had I actually seen?” evidence-dump.
