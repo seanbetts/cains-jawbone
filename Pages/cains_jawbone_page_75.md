@@ -4,7 +4,7 @@ I saw to it that I should be for a moment alone among the marigolds. Thinking ki
 
 - **Entities:**
   - CERTAIN: “the girl” (unnamed; narrator believes flowers will “win” her).
-  - MAYBE: May (person vs hawthorn/“May” plant; referenced as the site of “blight”).
+  - LIKELY: “the May” = hawthorn/May-blossom (“white-thorn” / “may”) rather than the person `P16` May (EB1911 “Hawthorn (plant)”): https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Hawthorn_(plant).
 - **Quotes & allusions:**
   - CERTAIN: John Gerard, *The Herball, or Generall Historie of Plantes* (1597) (“The Marigolde is called Calendula: it is to be feene to flower in the Calends almoft of eueiie moneth”): https://archive.org/stream/herballorgeneral00gera_1/herballorgeneral00gera_1_djvu.txt
   - MAYBE: “ephphatha” vs “epea pteroenta” (philological joke; Mark 7:34 vs Homeric “winged words”).
@@ -21,5 +21,3 @@ I saw to it that I should be for a moment alone among the marigolds. Thinking ki
   - MAYBE: preceded by Pages/cains_jawbone_page_71.md as an “eye trouble / May” prelude (treat as tentative unless a stronger scene-continuity anchor appears).
 - **Disconfirming evidence:**
   - If the “documents” are unrelated to Page 74’s “them”, and the blight is purely metaphorical.
-- **Research needed:**
-  - Clarify whether “May” is a person or the hawthorn/May-blossom plant.

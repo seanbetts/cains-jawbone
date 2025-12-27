@@ -167,9 +167,9 @@ Template:
   - **Notes:** “Tate” reads as a sugar brand (Henry Tate made “Tate’s Cube Sugar” famous; *Encyclopaedia Britannica* 1911, “TATE, SIR HENRY”, Page:EB1911_-_Volume_26.djvu/478); may connect to secrecy/hoarding and domestic scenes.
 
 - **Hawthorn (“May” / “white-thorn”)**
-  - **Instances / variants:** “Crataegus Oxyacantha”
-  - **Pages:** Pages/cains_jawbone_page_48.md
-  - **Notes:** EB1911 identifies the hawthorn as “white-thorn” or “may” (and gives *C.* Oxyacantha): https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Hawthorn_(plant); may function as a botanical joke-name (MAYBE: “May” name-pun).
+  - **Instances / variants:** “Crataegus Oxyacantha”; “red May”; “blight on the May”
+  - **Pages:** Pages/cains_jawbone_page_48.md, Pages/cains_jawbone_page_71.md, Pages/cains_jawbone_page_75.md
+  - **Notes:** EB1911 identifies the hawthorn as “white-thorn” or “may” (and gives *C.* Oxyacantha): https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Hawthorn_(plant). Pages 71/75’s “red May” / “blight on the May” read as botanical usage (hawthorn blossom) with possible name-pun overlap where `P16` May is also in play.
 
 - **Burned documents / incinerator**
   - **Instances / variants:** half-burned marriage certificate in an incinerator; “charred lines”
