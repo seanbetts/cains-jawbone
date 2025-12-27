@@ -16,7 +16,7 @@ I had gone to sleep the night before after rereading Typhoon. It had always stru
 - **Voice/tells:**
   - Self-mocking, literary; blends detective/legal identity with armchair immobility (Baker Street).
 - **Ordering hypotheses:**
-  - LIKELY: prelude to Pages/cains_jawbone_page_45.md (*Typhoon* reread + “now was the hour… Renard‑Beinsky had risen…” → Pages/cains_jawbone_page_45.md’s opening restatement of that “got… out of bed” moment + Hélène/absinthe).
+  - CERTAIN: Pages/cains_jawbone_page_7.md → Pages/cains_jawbone_page_45.md (Typhoon lock: Renard‑Beinsky “got… out of bed” continuation + unique *Typhoon* anchor).
   - MAYBE: Sherlock/detective-allusion cluster with Pages/cains_jawbone_page_6.md.
 - **Disconfirming evidence:**
   - If “Baker Steet” is later shown as non-Sherlock/address pun only.
