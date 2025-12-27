@@ -247,3 +247,4 @@ date,agent,phase,task,start,end,minutes,branch,commit,notes
 2025-12-27,codex-cli,phase-4,phase-4 tighten (N02 Mr. Hall knob),2025-12-27T13:38:18Z,2025-12-27T13:40:22Z,2,run/20251215-codex-extraction-pass1,f767ca7,"Locked the Mr. Hall knob scene-mechanic adjacency (p8→p19) as CERTAIN and verified pages OK."
 2025-12-27,codex-cli,phase-4,phase-4 tighten (N02 ordering),2025-12-27T13:42:50Z,2025-12-27T13:49:30Z,7,run/20251215-codex-extraction-pass1,ee02285,"Locked N02 local adjacencies (p99→p8, p22→p79) as CERTAIN and verified pages OK."
 2025-12-27,codex-cli,phase-4,phase-4 tighten (N02 ordering),2025-12-27T14:00:31Z,2025-12-27T14:03:37Z,3,run/20251215-codex-extraction-pass1,dcf12f9,"Upgraded N02 weakest link (p10→p99) to LIKELY and verified pages OK."
+2025-12-27,codex-cli,phase-4,phase-4 tighten (N02 ordering),2025-12-27T14:16:44Z,2025-12-27T14:26:29Z,10,run/20251215-codex-extraction-pass1,c65499c,"Upgraded N02 adjacency (p10→p99) to CERTAIN and verified pages OK."
