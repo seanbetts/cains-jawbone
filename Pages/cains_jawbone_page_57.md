@@ -24,9 +24,10 @@ It seemed from what I heard that Felton’s meat had been delivered at Brookesle
   - Holiday/boats: narrator claims ignorance; contrasts castle vs ship.
 - **Voice/tells:**
   - Discomfort with meat; attentive to companion’s verbal framing.
+  - LIKELY: dog-as-listener register (“It seemed from what I heard”; “he read…”), with a Skye/pedigree hint (“Some of my people had known the old Armadale Castle…”) echoing Pages/cains_jawbone_page_19.md’s “my people” line.
 - **Ordering hypotheses:**
-  - MAYBE: overlap with the `N25` interview/papers strand: Westphalian ham + “bits of paper” reading fits the Pages/cains_jawbone_page_52.md setup, but the voice-level fit is weaker than Pages/cains_jawbone_page_52.md → Pages/cains_jawbone_page_53.md; keep optional unless corroborated.
-  - MAYBE: overlap with `N02` (dog POV) as a potential post‑August bridge toward Pages/cains_jawbone_page_46.md: “It seemed from what I heard…” + “he read bits of paper…” matches the dog‑as-listener pattern, “contrived to share” food reads as an animal-coded tell, and Armadale Castle (Skye) fits the `N02` Skye/island/pedigree register (cf. Pages/cains_jawbone_page_19.md McCrimmons; Pages/cains_jawbone_page_46.md “our island” + Maltese breed-rumour).
+  - LIKELY: `N02` (Dog POV) extension: “It seemed from what I heard…” + “he read…” matches the dog-as-listener pattern, “contrived to share” food reads as an animal-coded tell, and “Some of my people…” + Armadale Castle (Skye) reinforces the `N02` Skye/island/pedigree register (cf. Pages/cains_jawbone_page_19.md McCrimmons; Pages/cains_jawbone_page_46.md “our island” + Maltese breed-rumour).
+  - MAYBE: overlap with the `N25` interview/papers strand only as table-setting (Westphalian ham + “bits of paper” reading); current voice-level fit is weaker than Pages/cains_jawbone_page_52.md → Pages/cains_jawbone_page_53.md.
 - **Disconfirming evidence:**
   - If the Westphalian-ham + paper-reading details are shown to be unrelated, common scene dressing across multiple narrators (no shared interview mechanics beyond food/papers).
   - If Pages/cains_jawbone_page_57.md’s voice is shown to be the same contemptuous interviewer as Pages/cains_jawbone_page_52.md/Pages/cains_jawbone_page_53.md (making the “share” phrasing purely rhetorical), weakening any `N02` overlap reading.
