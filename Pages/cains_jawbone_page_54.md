@@ -18,6 +18,7 @@ I was feeling about as good as man could feel that day. Everything horticultural
 - **Voice/tells:**
   - Horticultural precision + moral irony; plans violence with literary/metrical framing.
 - **Ordering hypotheses:**
+  - LIKELY: follows Pages/cains_jawbone_page_56.md (shared “awful and literal sense” aside + breakfast progression; see `Order/hypotheses.md` `N26` Sequence A).
   - CERTAIN: strengthens plant/poison thread pages.
 - **Disconfirming evidence:**
   - If “poisoned poison” and “crimson lights” resolve to non-lethal horticulture/wordplay with no victim.
