@@ -12,6 +12,7 @@ The girl had left Henry by this time, thank God. She was an obvious whey-face. S
   - Murder fascination: narrator “liked a good murder”.
   - Accent/heredity: “An accent was a terrible thing”; “something in heredity”.
   - Physical tell: Hodge has a “wen” and scratches “left whisker”.
+  - LIKELY: `P33` Hodge appears only here and Pages/cains_jawbone_page_44.md, suggesting overlap with the `N16` Henry/Hodge thread; “The girl had left Henry…” also echoes Pages/cains_jawbone_page_45.md’s “The girl was no longer there.”
 - **Voice/tells:**
   - Darkly amused, judgemental (“whey-face”); punning on “killing time”.
   - “bee with a sore bonnet” reads like a “foreign touch”/malapropism of the idiom “bear with a sore head” (Kipling, *The Light That Failed*, Ch. 12: https://en.wikisource.org/wiki/The_Light_That_Failed/Chapter_12).
