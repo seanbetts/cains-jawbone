@@ -573,11 +573,11 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - Pages/cains_jawbone_page_90.md opens “While my mind had been thus far away…” and then repeats/extends Pages/cains_jawbone_page_65.md’s exact identifying phrase (“I thought I knew the type : learned in a macabre way, even distinguished”), reading like the immediate continuation/expansion of the same classification moment.
       - **Disconfirming evidence:**
         - “While my mind had been thus far away…” is later shown to refer to a different prior digression (not the Hardy-reading beat in Pages/cains_jawbone_page_65.md), or the “type” identifying phrase is found reused elsewhere in a clearly non-adjacent context.
-    - **Sequence B — old gentleman arrives → collops/memory test** (confidence: `MAYBE`)
+    - **Sequence B — old gentleman arrives → collops/memory test** (confidence: `CERTAIN`)
       - **Pages (ordered):** Pages/cains_jawbone_page_90.md → Pages/cains_jawbone_page_89.md
       - **Why:**
         - Pages/cains_jawbone_page_90.md introduces a grotesque old gentleman who “fluttered… to the seat between us”, drops a deer‑stalker on the parquet, and triggers the narrator’s “type” classification in the same “soigné” venue.
-        - Pages/cains_jawbone_page_89.md reads like the immediate follow-on beat: “The ancient had then sat down…” and the narrator turns to the man with case‑law puns and a memory question (“Have you a good memory?”), continuing the evaluation of the same “ancient” figure.
+        - Pages/cains_jawbone_page_89.md reads as the immediate follow-on beat: “The ancient had then sat down…” and the narrator turns to the man with case‑law puns and a memory question (“Have you a good memory?”), continuing the evaluation of the same figure; the distinctive deer/collops/Spey Royal + gold/silver “light” motifs stay in-register with Pages/cains_jawbone_page_90.md’s deer‑stalker + gold “chariots” metaphors.
       - **Disconfirming evidence:**
         - “among the heather” + moor/Spey Royal context on Pages/cains_jawbone_page_89.md is shown to be literal outdoors (not a restaurant/club scene), or the “ancient” is demonstrably a different person from Pages/cains_jawbone_page_90.md’s old gentleman.
 
