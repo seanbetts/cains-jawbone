@@ -142,7 +142,7 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_7.md, Pages/cains_jawbone_page_44.md, Pages/cains_jawbone_page_45.md, Pages/cains_jawbone_page_55.md
   - **Confidence:** `LIKELY`
   - **Disconfirming evidence:** Page 7’s armchair-investigator framing or Page 55’s Bramley smell-chord vignette is later shown to be a different narrator/context than the St. Bruno/incinerator thread (Pages 44–45).
-  - **Notes:** Pages 7 and 55 share the smell-first, self-correcting sensory register but lack the explicit Henry/Hodge anchors of Pages 44–45; keep falsifiable.
+  - **Notes:** Pages/cains_jawbone_page_7.md → Pages/cains_jawbone_page_45.md is a `CERTAIN` local adjacency (Typhoon/Renard‑Beinsky continuation + “Poles” → “half Pole” hinge). Pages 7 and 55 share the smell-first, self-correcting sensory register but lack the explicit Henry/Hodge anchors of Pages 44–45; keep Pages/cains_jawbone_page_55.md falsifiable/edge-overlap.
 
 - `N17` — Dog-watch/capstan + Kipling-quoting punster voice:
   - **Signature tells:** nautical timekeeping register (dog-watch; capstan bar); heavy Kipling embedding (Mary Gloster / “Thy Servant a Dog”); literary name-dropping (Swift, De Quincey); punning London geography (Selfridges vs Bond Street); spoonerism/cryptic newspaper-title transforms (“Grundy Sapphic” → Sunday Graphic).
