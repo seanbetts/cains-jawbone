@@ -187,6 +187,16 @@ Template:
     - the phrase is shown to be generic/incidental and appears widely with no other shared anchors
     - later context forces a purely literal reading with no deception framing
 
+  LIKELY WORDPLAY
+  - mechanism(s): allusion + homograph + orthography
+  - span: "half Pole, half Frenchman, and usually up the first half"
+  - best reading: "French polish" (French + polish (a Pole), with capitalization cue on the first word)
+  - confidence: med
+  - why it matters: narrator -> capitalization-sensitive homograph punning may recur as a voice tell
+  - falsifiers:
+    - “up the first half” is later shown to be purely literal (waking/sleeping or posture) with no capitalization cue
+    - no other “French polish”/finish/varnish wordplay appears nearby
+
 - `Pages/cains_jawbone_page_56.md`
 
   LIKELY WORDPLAY

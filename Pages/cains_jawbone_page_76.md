@@ -12,9 +12,9 @@ Looking over at the sly sideways smile which seemed to fill all the foreground o
   - CERTAIN: billhook + “welter” over a slain “lieutenant” (described as a precedent/example).
   - LIKELY: narrator contemplating personally doing “the thing” with a named victim (Green).
 - **Quotes & allusions:**
-  - CERTAIN: De Quincey “in the … sense” (likely *On Murder Considered as One of the Fine Arts*; confirm phrasing).
+  - CERTAIN: De Quincey’s “tooling” vocabulary for murder means/method (see “tooling” / “tooled with…” in “Second Paper on Murder considered as One of the Fine Arts” (1839)): https://en.wikisource.org/wiki/Second_Paper_on_Murder_considered_as_One_of_the_Fine_Arts.
   - CERTAIN: “stars upon some gloomy grove” = Henry Vaughan, “They are all gone into the world of light” (*The Poems of Henry Vaughan*, 1896), p. 182: https://books.google.co.uk/books?id=Tn4XAAAAYAAJ&pg=PA182&dq=some+gloomy+grove&source=gbs_api.
-  - LIKELY: “rob… a whirlwind… reap a scorpion” is deliberate proverb-scrambling (no fixed-source match yet; stalled — see `Indexes/research_queue.md`).
+  - LIKELY: “rob… a whirlwind… reap a scorpion” is deliberate proverb-scrambling (no single-source match found; see `Indexes/research_queue.md`).
 - **Motifs/continuity hooks:**
   - Green/ripeness/fruit metaphors used to justify action (“young women are green”).
   - “Green” as victim name + injury metaphor (“greenstick fracture”) + plant language.
@@ -24,5 +24,3 @@ Looking over at the sly sideways smile which seemed to fill all the foreground o
   - LIKELY: Pages/cains_jawbone_page_76.md → Pages/cains_jawbone_page_77.md (resolve-to-act on a named victim → “my first” aftermath with “Compact” tool). Falsifier: Pages/cains_jawbone_page_77.md’s victim is later clearly not Green / not a “young woman” context.
 - **Disconfirming evidence:**
   - If “Green” is revealed as a joke/reference rather than an in-world victim, or if the billhook scene is purely literary quotation.
-- **Research needed:**
-  - Stalled: no fixed-source match for “robbing a whirlwind to reap a scorpion” yet (see `Indexes/research_queue.md`).

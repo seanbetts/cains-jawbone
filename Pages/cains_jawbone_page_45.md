@@ -11,6 +11,7 @@ It was when that half Pole, half Frenchman, and usually up the first half, that 
   - MAYBE: “the girl” (gone).
 - **Quotes/allusions:**
   - CERTAIN: “half Pole, half Frenchman… drunken mongrel… lazy waster…” echoes Menyhért Lengyel, *Typhoon* (Methuen, 1913), p. 110 (tr. Laurence Irving): https://books.google.co.uk/books?id=fvY1AQAAIAAJ&dq=%22half%20Pole%22&jscmd=SearchWithinVolume2
+  - LIKELY: “half Pole, half Frenchman… usually up the first half” also reads as a pun on “French polish” (French + polish (a Pole), with capitalization cue): EB1911 “French Polish”: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/French_Polish.
 - **Wordplay (synthesis):**
 
 CANDIDATE
@@ -45,9 +46,19 @@ LIKELY WORDPLAY
 - best reading: "From CANDIDATE(double definition): literal garden-walking + “lead up the garden path” deception (echoes Page 29’s phrasing)"
 - confidence: med
 - why it matters: motif -> a cross-page phrase-level hook (Page 29/45) for a potential “garden deception” micro-strand
+  - falsifiers:
+    - the phrase is shown to be generic/incidental and appears widely with no other shared anchors
+    - later context forces a purely literal reading with no deception framing
+
+LIKELY WORDPLAY
+- mechanism(s): allusion + homograph + orthography
+- span: "half Pole, half Frenchman, and usually up the first half"
+- best reading: "French polish" (French + polish (a Pole), with capitalization cue on the first word)
+- confidence: med
+- why it matters: narrator -> capitalization-sensitive homograph punning may recur as a voice tell
 - falsifiers:
-  - the phrase is shown to be generic/incidental and appears widely with no other shared anchors
-  - later context forces a purely literal reading with no deception framing
+  - “up the first half” is later shown to be purely literal (waking/sleeping or posture) with no capitalization cue
+  - no other “French polish”/finish/varnish wordplay appears nearby
 - **Motifs/continuity hooks:**
   - Proverb punning: absinthe/absence (“made the heart grow fonder”).
   - Corpse: Henry over “an innocent corpse of his own making”.
@@ -69,5 +80,3 @@ LIKELY WORDPLAY
   - MAYBE: “led up the garden” echoes Pages/cains_jawbone_page_29.md (garden/deception/old man thread).
 - **Disconfirming evidence:**
   - If “up the garden” later proves purely figurative and unrelated to the plant/poison plotline.
-- **Research needed:**
-  - Clarify what “usually up the first half” adds to the Typhoon-derived phrase.

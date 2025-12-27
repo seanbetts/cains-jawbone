@@ -588,11 +588,11 @@ Template:
   - **Research needed:** yes — confirm exact wording/edition used.
 
 - **Snippet:** “Tools must be tooled in the de Quincey sense”
-  - **Likely source/author:** Thomas De Quincey (likely *On Murder Considered as One of the Fine Arts*; confirm)
+  - **Likely source/author:** Thomas De Quincey, “Second Paper on Murder considered as One of the Fine Arts” (1839) (uses “tooling” / “tooled with…” for murder means/method): https://en.wikisource.org/wiki/Second_Paper_on_Murder_considered_as_One_of_the_Fine_Arts
   - **Why it matters:** Signals a murder-aesthetics/justification register; may anchor narrator identity or reading set.
   - **Pages:** Pages/cains_jawbone_page_76.md
-  - **Confidence:** `MAYBE`
-  - **Research needed:** yes — confirm source/wording.
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
 
 - **Snippet:** “stars upon some gloomy grove”
   - **Likely source/author:** Henry Vaughan, “They are all gone into the world of light” (*The Poems of Henry Vaughan*, 1896), p. 182: https://books.google.co.uk/books?id=Tn4XAAAAYAAJ&pg=PA182&dq=some+gloomy+grove&source=gbs_api.
@@ -931,8 +931,8 @@ Template:
   - **Research needed:** no
 
 - **Snippet:** “Death’s clumsy fingered… lightly fingering for the sign of a breach.”
-  - **Likely source/author:** Unknown (no match yet in ≤1934 sources; may be Torquemada’s own metaphor).
-  - **Why it matters:** Candidate quotation/allusion used as a potential N29 overlap anchor (p27↔p37); if detachable and reused elsewhere, it should not be used for narrator linkage.
+  - **Likely source/author:** No external match found in ≤1934 sources (LIKELY Torquemada’s own metaphor).
+  - **Why it matters:** Treat as an internal voice/motif recurrence (not an external quote anchor) if used for linkage.
   - **Pages:** Pages/cains_jawbone_page_27.md, Pages/cains_jawbone_page_37.md
-  - **Confidence:** `MAYBE`
-  - **Research needed:** yes — identify a source or confirm it’s not a quotation (see `Indexes/research_queue.md`).
+  - **Confidence:** `LIKELY`
+  - **Research needed:** no

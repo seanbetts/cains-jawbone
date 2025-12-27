@@ -647,7 +647,7 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_45.md
   - **Why it matters:** Could identify a specific person, a nickname, or a repeated wordplay pattern.
   - **Status:** `resolved`
-  - **Result:** The phrasing “half Pole, half Frenchman… drunken mongrel… lazy waster…” appears in Menyhért Lengyel, *Typhoon* (Methuen, 1913), p. 110 (tr. Laurence Irving): https://books.google.co.uk/books?id=fvY1AQAAIAAJ&dq=%22half%20Pole%22&jscmd=SearchWithinVolume2. The CJ insertion “usually up the first half” remains unresolved.
+  - **Result:** The phrasing “half Pole, half Frenchman… drunken mongrel… lazy waster…” appears in Menyhért Lengyel, *Typhoon* (Methuen, 1913), p. 110 (tr. Laurence Irving): https://books.google.co.uk/books?id=fvY1AQAAIAAJ&dq=%22half%20Pole%22&jscmd=SearchWithinVolume2. The CJ insertion “usually up the first half” is LIKELY a capitalization/homograph cue for “French polish” (French + polish (a Pole)); EB1911 “French Polish” defines it as a wood‑polishing liquid: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/French_Polish.
 
 - **Item:** Identify the “murderous doctor… friend… dear to me” quotation on Page 46
   - **Type:** quote
@@ -1040,6 +1040,13 @@ Template:
   - **Why it matters:** Could be an in-world murderer exemplar or a literary allusion that anchors narrator reading set.
   - **Status:** `resolved`
   - **Result:** No clear pre‑1934 match found for “Lord Pentarry” as a person/title (outside modern *Cain’s Jawbone* editions). MAYBE related to the place-name **Penterry** (Monmouthshire; “3 miles N. from Chepstow”): *The English Counties Delineated* (1837), p. 57: https://books.google.co.uk/books?id=la0_AAAAcAAJ&pg=PA57&dq=Penterry&source=gbs_api. Treat as an in‑world name unless corroborated elsewhere.
+
+- **Item:** Clarify “Tools must be tooled in the de Quincey sense” (Page 76)
+  - **Type:** quote/other
+  - **Pages:** Pages/cains_jawbone_page_76.md
+  - **Why it matters:** Interprets De Quincey’s “tooling” jargon (murder means/method) and may anchor narrator reading set.
+  - **Status:** `resolved`
+  - **Result:** De Quincey uses “tooling” / “tooled with…” as jargon for murder weapons/methods in “Second Paper on Murder considered as One of the Fine Arts” (1839): https://en.wikisource.org/wiki/Second_Paper_on_Murder_considered_as_One_of_the_Fine_Arts.
 
 - **Item:** Identify the source of “stars upon some gloomy grove” (quoted via Henry on Page 76)
   - **Type:** quote
