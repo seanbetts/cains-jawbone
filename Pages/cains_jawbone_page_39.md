@@ -20,7 +20,7 @@ She said it didn’t matter what they had done, because she was still an M.D., a
   - MAYBE: animal-coded voice (coat/undercoat language; “pottered after rabbits”).
 - **Ordering hypotheses:**
   - CERTAIN: follows Pages/cains_jawbone_page_88.md (p88 ends with the couple arguing about how few the other had done “so late in the year”; this page immediately continues with “it didn’t matter what they had done” + “two all for that year” in the same “He said… She said…” register).
-  - LIKELY: precedes Pages/cains_jawbone_page_10.md (p39 ends “They made a bet.”; p10 explicitly “went back two days and formulated their bet…”, and its “third point” reads like the next point after this page’s “two all” tie score).
+  - CERTAIN: precedes Pages/cains_jawbone_page_10.md (bet/score continuity is unique in the corpus: this page’s “two all for that year… They made a bet.” is followed by Pages/cains_jawbone_page_10.md’s explicit “went back two days and formulated their bet… If he got the third point…”, reading like the immediate next beat in the same contest).
   - MAYBE: belongs with other bet/points pages (e.g., Pages/cains_jawbone_page_22.md) if the “points” scoring language recurs as a shared domestic motif.
 - **Disconfirming evidence:**
   - If later reveals “M.D.” isn’t an academic degree but another acronym used repeatedly by this narrator.
