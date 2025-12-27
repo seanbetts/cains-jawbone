@@ -19,8 +19,7 @@ I sometimes wish, and I wished then, that I had the gift of telling, or at least
   - Smell-centric perception (MAYBE animal-coded); self-critique about storytelling.
 - **Ordering hypotheses:**
   - CERTAIN: add to Henry-occurrence cluster.
-  - MAYBE: links to Pages/cains_jawbone_page_7.md (storytelling self-critique → rereading *Typhoon* mood-setting); direction TBD.
-  - MAYBE: linked (not necessarily adjacent) to Pages/cains_jawbone_page_45.md via Henry-in-scene + evidence/surveillance register; do not assume adjacency without a phrase-level bridge.
+  - MAYBE: placement relative to the Typhoon lock (Pages/cains_jawbone_page_7.md → Pages/cains_jawbone_page_45.md) is unresolved; keep both in-cluster options alive: Pages/cains_jawbone_page_44.md → Pages/cains_jawbone_page_7.md → Pages/cains_jawbone_page_45.md (setup) or Pages/cains_jawbone_page_7.md → Pages/cains_jawbone_page_45.md → Pages/cains_jawbone_page_44.md (debrief).
   - MAYBE: links to document/will/forgery/burning-evidence motif pages.
 - **Disconfirming evidence:**
   - If later context shows the “marriage certificate” is metaphorical rather than literal evidence.

@@ -346,13 +346,20 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - Link-word hinge: Pages/cains_jawbone_page_7.md ends “as far from English as the Poles,” and Pages/cains_jawbone_page_45.md begins “that half Pole, half Frenchman,” reading like an intentional boundary echo.
       - **Disconfirming evidence:**
         - Another page is found to contain the same Typhoon/Renard‑Beinsky line in its page body, or the “half Pole…” passage is shown to be a detachable quotation unrelated to Pages/cains_jawbone_page_7.md’s setup.
-    - **Sequence B — Henry problem setup (placement around the Typhoon lock)** (confidence: `MAYBE`)
-      - **Pages (linked):** Pages/cains_jawbone_page_44.md ↔ Pages/cains_jawbone_page_7.md
+    - **Sequence B — Typhoon lock → Henry problem (debrief)** (confidence: `MAYBE`)
+      - **Pages (ordered):** Pages/cains_jawbone_page_7.md → Pages/cains_jawbone_page_45.md → Pages/cains_jawbone_page_44.md
       - **Why:**
-        - Pages/cains_jawbone_page_44.md’s explicit “gift of telling… a story vividly” self-critique + smell-memory register reads like a prelude to Pages/cains_jawbone_page_7.md’s “gone to sleep… after rereading Typhoon” mood-setting the next morning; keep direction open until a phrase-level bridge appears.
+        - Pages/cains_jawbone_page_45.md’s “What had I actually seen?” witness-recap posture can naturally be followed by Pages/cains_jawbone_page_44.md’s meta “gift of telling… a story vividly” self-critique plus a more structured “Henry’s problem” summary.
+        - Pages/cains_jawbone_page_44.md’s incinerator evidence detail (half-burned marriage certificate) is compatible with Pages/cains_jawbone_page_45.md’s “great building of many flats” setting (shared-building disposal/incinerator is plausible, though not explicit).
       - **Disconfirming evidence:**
-        - Any hard scene-continuity or explicit time marker forces Pages/cains_jawbone_page_44.md to sit after the flats/corpse surveillance episode (Pages/cains_jawbone_page_45.md), making it unlikely to directly precede the Typhoon read.
-  - **Next falsification check:** keep Pages/cains_jawbone_page_55.md as edge-overlap unless a second distinctive `N16` anchor appears (e.g., St. Bruno/Hodge/incinerator-evidence cues, Typhoon-lock overlap, or a second date/holiday anchor in the same voice).
+        - A later phrase-level continuation places Pages/cains_jawbone_page_44.md clearly before Pages/cains_jawbone_page_7.md (or clearly after some other non-`N16` page), making this in-cluster tail placement unlikely.
+    - **Sequence C — Henry problem (setup) → Typhoon lock** (confidence: `MAYBE`)
+      - **Pages (ordered):** Pages/cains_jawbone_page_44.md → Pages/cains_jawbone_page_7.md → Pages/cains_jawbone_page_45.md
+      - **Why:**
+        - Pages/cains_jawbone_page_44.md’s “gift of telling… a story vividly” + smell-memory register can read as a prelude to Pages/cains_jawbone_page_7.md’s explicitly literary mood-setting (“gone to sleep… after rereading Typhoon”) before the Typhoon-anchored witness recap on Pages/cains_jawbone_page_45.md.
+      - **Disconfirming evidence:**
+        - Any explicit time/setting marker ties Pages/cains_jawbone_page_44.md’s incinerator/certificate episode to a later point that cannot precede the Typhoon sleep/wake beat on Pages/cains_jawbone_page_7.md.
+  - **Next falsification check:** keep Pages/cains_jawbone_page_55.md as edge-overlap unless a second distinctive `N16` anchor appears (e.g., St. Bruno/Hodge/incinerator-evidence cues, Typhoon-lock overlap, or a second date/holiday anchor in the same voice); for Pages/cains_jawbone_page_44.md, look for any page that reuses the “incinerator / marriage certificate / second wife’s brother” evidence bundle to lock its placement relative to the Typhoon lock.
 
 - **Cluster:** `N17` Dog-watch/capstan + Kipling-quoting punster voice (confidence: `LIKELY`)
   - **Pages:** Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_41.md
