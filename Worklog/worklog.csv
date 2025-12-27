@@ -241,3 +241,4 @@ date,agent,phase,task,start,end,minutes,branch,commit,notes
 2025-12-27,codex-cli,phase-4,phase-4 tighten (N10 ordering),2025-12-27T12:29:56Z,2025-12-27T12:45:24Z,15,run/20251215-codex-extraction-pass1,00571f9,"Promoted N10 within-cluster ordering (p14→p12) and verified pages OK."
 2025-12-27,codex-cli,phase-4,phase-4 tighten (N26 ordering),2025-12-27T12:53:07Z,2025-12-27T12:57:06Z,4,run/20251215-codex-extraction-pass1,5abf174,"Ordered N26 morning/breakfast pair (p56→p54) and verified pages OK."
 2025-12-27,codex-cli,phase-4,phase-4 tighten (N32 ordering),2025-12-27T12:59:36Z,2025-12-27T13:08:43Z,9,run/20251215-codex-extraction-pass1,fb805b7,"Ordered N32 internal join (p65→p90) and verified pages OK."
+2025-12-27,codex-cli,phase-4,phase-4 tighten (N34 ordering),2025-12-27T13:10:19Z,2025-12-27T13:15:29Z,5,run/20251215-codex-extraction-pass1,584351f,"Added N34 MAYBE ordering (p25→p20), updated page notes, and verified pages OK."
