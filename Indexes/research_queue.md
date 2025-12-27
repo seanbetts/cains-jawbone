@@ -1027,6 +1027,13 @@ Template:
   - **Status:** `resolved`
   - **Result:** “Them” most directly refers to the plural items “bought… secretly in Leningrad” (in the same exchange as the Goya reproduction); context suggests a bundle of purchasable physical objects (photographs/prints/reproductions and/or documents), rather than a person, with the Goya reproduction likely one of the set.
 
+- **Item:** Confirm Gerard’s calendula/calends quotation (Page 75)
+  - **Type:** quote
+  - **Pages:** Pages/cains_jawbone_page_75.md
+  - **Why it matters:** Strong horticultural anchor tying marigolds/calends to a calendar motif.
+  - **Status:** `resolved`
+  - **Result:** John Gerard, *The Herball, or Generall Historie of Plantes* (1597) says: “The Marigolde is called Calendula : it is to be feene to flower in the Calends almoft of eueiie moneth” (under “The names” for Marigold): https://archive.org/stream/herballorgeneral00gera_1/herballorgeneral00gera_1_djvu.txt
+
 - **Item:** Confirm what “Indian tobacco” denotes and how it’s used on Page 75 (blight remedy vs poison)
   - **Type:** term/other
   - **Pages:** Pages/cains_jawbone_page_75.md

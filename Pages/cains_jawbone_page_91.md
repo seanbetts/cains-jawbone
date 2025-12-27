@@ -15,7 +15,7 @@ In my youth I had been worried that I bore the same name as Newbolt’s admiral 
 - **Motifs/continuity hooks:**
   - Detective-crime collection: “Black Museum” + preserved body part.
   - “Green” detail embedded in the eyeball story (possible clue-word recurrence).
-  - LIKELY: “see any green (in my eye)” is a sceptical idiom (“do you take me for a greenhorn/fool?”), attested in Sabine Baring-Gould, *The Frobishers* (1901), Chapter 20: https://en.wikisource.org/wiki/The_Frobishers/Chapter_20 and Theodore Goodridge Roberts, “The Red Pirogue” (*Popular* magazine, 1922), Chapter 4: https://en.wikisource.org/wiki/The_Red_Pirogue/Chapter_4.
+  - LIKELY: “see any green (in my eye)” is a sceptical idiom (“do you take me for a greenhorn/fool?”), attested in Sabine Baring-Gould, *The Frobishers* (1901), Chapter 20: https://en.wikisource.org/wiki/The_Frobishers/Chapter_20 and Theodore Goodridge Roberts, “The Red Pirogue” (*Popular* magazine, 1922), Chapter 4: https://en.wikisource.org/wiki/The_Red_Pirogue/Chapter_4. No direct pre‑1934 match found for the specific Cadaver Charlie / Chicago sleuth framing; treat as in-world colour layered on the idiom.
   - CERTAIN: “Smiler with the Knife” is Chaucer’s phrase in *The Knight’s Tale* (Temple of Mars description): “the smiler with the knife under the mantle” (Page:The_Canterbury_tales_of_Geoffrey_Chaucer.djvu/67).
   - Name-play: “capitalise my third letter” (identity-cipher style).
 - **Wordplay (synthesis):**
@@ -44,5 +44,3 @@ LIKELY WORDPLAY
   - MAYBE: belongs with the detective/self-fashioning cluster (crime-museum + sleuth allusions).
 - **Disconfirming evidence:**
   - If “Black Museum” and Cadaver Charlie are purely figurative or offhand jokes with no recurrence.
-- **Research needed:**
-  - STALLED: No direct match found yet for the “Cadaver Charlie” / Chicago sleuth anecdote beyond the “green in my eye” idiom sources (see `Indexes/research_queue.md`).

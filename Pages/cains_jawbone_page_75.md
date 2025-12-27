@@ -6,7 +6,7 @@ I saw to it that I should be for a moment alone among the marigolds. Thinking ki
   - CERTAIN: “the girl” (unnamed; narrator believes flowers will “win” her).
   - MAYBE: May (person vs hawthorn/“May” plant; referenced as the site of “blight”).
 - **Quotes & allusions:**
-  - CERTAIN: John Gerard (*Herball*) on calendula/marigold flowering “in the calends of almost everie month” (quoted/paraphrased).
+  - CERTAIN: John Gerard, *The Herball, or Generall Historie of Plantes* (1597) (“The Marigolde is called Calendula: it is to be feene to flower in the Calends almoft of eueiie moneth”): https://archive.org/stream/herballorgeneral00gera_1/herballorgeneral00gera_1_djvu.txt
   - MAYBE: “ephphatha” vs “epea pteroenta” (philological joke; Mark 7:34 vs Homeric “winged words”).
 - **Motifs/continuity hooks:**
   - Flowers: marigolds / calendula; plus “two other flowers” (implied red/white from adjacent pages).

@@ -581,11 +581,11 @@ Template:
   - **Research needed:** no
 
 - **Snippet:** “Calendula… to flower in the calends of almost everie month”
-  - **Likely source/author:** John Gerard (*Herball* / *Herbal*)
+  - **Likely source/author:** John Gerard, *The Herball, or Generall Historie of Plantes* (1597) (“The names” for Marigold: “The Marigolde is called Calendula: it is to be feene to flower in the Calends almoft of eueiie moneth”): https://archive.org/stream/herballorgeneral00gera_1/herballorgeneral00gera_1_djvu.txt
   - **Why it matters:** Strong horticultural-literary anchor; ties marigolds/calends to a calendar motif.
   - **Pages:** Pages/cains_jawbone_page_75.md
-  - **Confidence:** `LIKELY`
-  - **Research needed:** yes — confirm exact wording/edition used.
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
 
 - **Snippet:** “Tools must be tooled in the de Quincey sense”
   - **Likely source/author:** Thomas De Quincey, “Second Paper on Murder considered as One of the Fine Arts” (1839) (uses “tooling” / “tooled with…” for murder means/method): https://en.wikisource.org/wiki/Second_Paper_on_Murder_considered_as_One_of_the_Fine_Arts
@@ -729,10 +729,10 @@ Template:
 
 - **Snippet:** “Do you see any green in my eye?” / “see any green”
   - **Likely source/author:** Colloquial scepticism (“do you take me for a greenhorn/fool?”), attested in Sabine Baring-Gould, *The Frobishers* (1901), Chapter 20: https://en.wikisource.org/wiki/The_Frobishers/Chapter_20 and Theodore Goodridge Roberts, “The Red Pirogue” (*Popular* magazine, 1922), Chapter 4: https://en.wikisource.org/wiki/The_Red_Pirogue/Chapter_4.
-  - **Why it matters:** Anchors the “green” clue-word in the Cadaver Charlie eyeball anecdote and provides a period source for the phrasing.
+  - **Why it matters:** Anchors the “green” clue-word in the Cadaver Charlie eyeball anecdote and provides a period source for the phrasing; no direct pre‑1934 match found for the specific “Cadaver Charlie / Chicago sleuth” framing.
   - **Pages:** Pages/cains_jawbone_page_91.md
   - **Confidence:** `LIKELY`
-  - **Research needed:** yes — confirm whether the Cadaver Charlie / “Chicago sleuth” framing is itself a specific source.
+  - **Research needed:** no
 
 - **Snippet:** “caddis-hoard”
   - **Likely source/author:** Rudyard Kipling, “Tomlinson” (*Ballads and Barrack-Room Ballads*, 1892): “As children rifle a caddis-case or the raven’s foolish hoard.” https://en.wikisource.org/wiki/Ballads_and_Barrack-Room_Ballads/Tomlinson.
@@ -778,10 +778,10 @@ Template:
 
 - **Snippet:** “Holy Mr. Herbert”
   - **Likely source/author:** Izaak Walton’s epithet for George Herbert in *The Complete Angler* (5th ed.), Chapter V (“Come let me tell you what holy Mr. Herbert says of such days and flowers as these”), quoting Herbert’s “Vertue” (“Sweet day, so cool, so calm, so bright…”): https://en.wikisource.org/wiki/The_Complete_Angler,_5th_edition/Chapter_V
-  - **Why it matters:** Possible narrator reading-set/voice tell (clerical/Herbert allusion); “Mr. Haddock” + “Meed kissing laces” may sharpen the exact source.
+  - **Why it matters:** Possible narrator reading-set/voice tell (clerical/Herbert allusion); no pre‑1934 match found for “Mr. Haddock” / “Meed kissing laces” beyond the angling/fish wordplay surface.
   - **Pages:** Pages/cains_jawbone_page_95.md
   - **Confidence:** `CERTAIN`
-  - **Research needed:** yes — identify “Mr. Haddock” and “Meed kissing laces”.
+  - **Research needed:** no
 
 - **Snippet:** “Leda and Hebe”
   - **Likely source/author:** Greek myth wordplay: EB1911 “Leda” (Zeus visits her “in the form of a swan”): https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Leda; EB1911 “Hebe” (acts as “cupbearer to the gods”): https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Hebe; likely used to frame “gave my swan a drink” as inking/filling a “Swan” fountain pen/ink (cf. “Swan” as fountain-pen ink name in *The Loudwater Mystery*, Chapter 16: https://en.wikisource.org/wiki/The_Loudwater_Mystery/Chapter_16).
