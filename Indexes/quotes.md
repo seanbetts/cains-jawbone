@@ -832,6 +832,13 @@ Template:
   - **Confidence:** `CERTAIN`
   - **Research needed:** no
 
+- **Snippet:** “as flush as May”
+  - **Likely source/author:** Shakespeare, *Hamlet* Act III, Scene 3 (“…broad blown, as flush as May”): https://en.wikisource.org/wiki/Hamlet_(1917)_Yale/Text/Act_III?action=render
+  - **Why it matters:** Confirms the Page 79 “flush as May” simile is a Hamlet lift (used for blushing/flushing), adding another Hamlet quotation to the corpus.
+  - **Pages:** Pages/cains_jawbone_page_79.md
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
+
 - **Snippet:** “Most excellent, potent, brilliant eyes, swift-darting as the stars, steadfast as the sun…”
   - **Likely source/author:** Thomas Carlyle (on “Friedrich”/Frederick the Great), quoted in James Thomson (“B.V.”), “The Ring and the Book”: https://en.wikisource.org/wiki/Biographical_and_critical_studies_by_James_Thomson_(%22B.V.%22)/%22The_Ring_and_the_Book%22
   - **Why it matters:** Identifies Page 99’s “Father Fred” as Friedrich/Frederick the Great and supports treating “closing day in Potsdam” as a death-day pointer (Sanssouci/Potsdam).

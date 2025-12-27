@@ -13,10 +13,12 @@ It was that day my friend Sandy told me he was sure he wouldn’t sleep all nigh
   - CERTAIN: “that day” / “next day” (anticipation of being allowed to retrieve again).
   - LIKELY: Sandy’s “won’t sleep all night” + “next day… allowed to fetch back Lagopus scoticus… after such a long time” suggests the eve of the red-grouse season opener on Aug 12 (“Glorious Twelfth”), setting up Pages/cains_jawbone_page_48.md’s Aug 12 “to-day” beat (EB1911 “Grouse”: “season for grouse-shooting began (August 12th)”: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Grouse).
   - LIKELY: if “next day” is Aug 12, this page’s “that day” is **Aug 11** (the eve).
+- **Quotes & allusions:**
+  - CERTAIN: Shakespeare, *Hamlet* Act III, Scene 3 (“…broad blown, as flush as May”) — matches the “colouring up” description; “flush” here ≈ lusty/full-blooded: https://en.wikisource.org/wiki/Hamlet_(1917)_Yale/Text/Act_III?action=render
 - **Motifs/continuity hooks:**
   - Strong animal POV signals: mating described anatomically; hunting/retrieval; medicine ingestion.
-  - May simile: “as flush as May” (could be month/flower or person-name echo).
-  - MAYBE: “flush as May” aligns with Pages/cains_jawbone_page_48.md’s botanical joke-name “Crataegus Oxyacantha” (hawthorn = “May”), supporting continuity beyond generic dog-voice.
+  - CERTAIN: “as flush as May” is a Hamlet simile (see above), used here for blushing/flushing.
+  - MAYBE: secondary echo of “May” = hawthorn/May-blossom (cf. Pages/cains_jawbone_page_48.md’s “Crataegus Oxyacantha” and Pages/cains_jawbone_page_75.md’s “the May”).
 - **Voice/tells:**
   - Non-human register (body-part framing; obedience to administered medicine; hunting anticipation).
 - **Ordering hypotheses:**
