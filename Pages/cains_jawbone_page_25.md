@@ -35,6 +35,7 @@ LIKELY WORDPLAY
   - Philosophical, self-lacerating; pun-driven.
 - **Ordering hypotheses:**
   - MAYBE: place anchor at Didling (if confirmed) could connect to other Sussex/Downs locations later.
+  - MAYBE: precedes Pages/cains_jawbone_page_20.md (N34) via self-laceration + “same way home” motif echoing “arrived home again” (see Order/hypotheses.md).
 - **Disconfirming evidence:**
   - If “Didling” is not meant as a place-name but purely a wordplay dead-end.
 - **Research needed:**

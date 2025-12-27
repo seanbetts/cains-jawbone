@@ -586,6 +586,14 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Rationale:** Both pages share obsessive time/mortality rumination and self-deprecating punning (“Didlittle” chain), with an antiquarian bent (brass inscription) and a morning-routine framing.
   - **Key anchors:** “time factor”; Dolittle → Didlittle → Didling/didlet; “by the Mole” + “oldest brass in England”; “my waking, my strong tea, and my first pill”.
   - **Disconfirming evidence:** the wordplay/time register is shown to be a generic technique across multiple narrators, or the pages are later anchored to incompatible settings/participants.
+  - **Phase 4 internal ordering hypotheses (N34):**
+    - **Sequence A — Didling wake → “home again” brass-circuit** (confidence: `MAYBE`)
+      - **Pages (ordered):** Pages/cains_jawbone_page_25.md → Pages/cains_jawbone_page_20.md
+      - **Why:**
+        - Both pages open from the same self-lacerating posture (“done very little” / “great thoughts… meagre”) and treat time/mortality as the frame, making Pages/cains_jawbone_page_25.md read like a morning “reset” that can preface Pages/cains_jawbone_page_20.md’s more concrete “waking… strong tea… first pill” + antiquarian-site detailing.
+        - The “same way home” motif on Pages/cains_jawbone_page_25.md (“gone the same way home”) is echoed by Pages/cains_jawbone_page_20.md’s closing “circled and circled… arrived home again, we two,” suggesting a deliberate internal rhyme between the two pages even if the locations differ.
+      - **Disconfirming evidence:**
+        - Pages/cains_jawbone_page_25.md’s explicit wake-location (Didling) and Pages/cains_jawbone_page_20.md’s “by the Mole” waking-routine are shown to be incompatible as a single-day progression (forcing these as non-adjacent beats or different voices).
 
 - **Cluster:** `N35` Rupee chapter / money suspicion + wickedness anxiety voice (confidence: `MAYBE`)
   - **Pages:** Pages/cains_jawbone_page_18.md

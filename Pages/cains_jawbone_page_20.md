@@ -22,6 +22,7 @@ The best I had done seemed to me blank and suspicious, my great thoughts as I su
   - Antiquarian/inscription interest; literary-name riddling (Will/Ben/bed).
 - **Ordering hypotheses:**
   - MAYBE: pill thread with Pages/cains_jawbone_page_3.md (pills) and other “first pill” narrators.
+  - MAYBE: follows Pages/cains_jawbone_page_25.md (N34) via shared “time factor” rumination + “same way home” / “arrived home again” echo (see Order/hypotheses.md).
 - **Disconfirming evidence:**
   - If “Mole” later resolves to something non-geographic (pet/name) rather than the river.
 - **Research needed:**
