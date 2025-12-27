@@ -552,11 +552,11 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_96.md
   - **Notes:** Spelling likely reflects transliteration/variant (“Jifjaffa”); G. H. Gullett (1923) describes Jifjafa as “a post situated in the Sinai Range… some fifty-two miles east of the Canal” and narrates the April 1916 “Jifjafa raid”: https://archive.org/stream/australianimperi07gulluoft/australianimperi07gulluoft_djvu.txt.
 
-- **Quarry hills (descriptive; not pinned)**
-  - **Type:** hills/landscape
+- **Quarry Hills (Weald boundary; “Red Hills”)**
+  - **Type:** hills/landscape (geology/topography)
   - **Confidence:** `MAYBE`
   - **Pages:** Pages/cains_jawbone_page_98.md
-  - **Notes:** Sunset described “above the Quarry hills”; treated as descriptive landscape wording unless another page supplies a stronger geographic anchor (stalled; see `Indexes/research_queue.md`).
+  - **Notes:** “Quarry Hills” appears as a named stretch of the Weald boundary in W. Topley, *The Geology of the Weald* (1875), p. 254: “The Quarry Hills; sometimes the ‘Red Hills,’ the Chalk range being then called the ‘White Hills’.” https://books.google.co.uk/books?id=I_G7AAAAIAAJ&pg=PA254.
 
 - **Woolworth’s (storefront; unspecified)**
   - **Type:** shop/landmark

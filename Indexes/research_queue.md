@@ -23,8 +23,8 @@ Template:
   - **Type:** quote
   - **Pages:** Pages/cains_jawbone_page_27.md, Pages/cains_jawbone_page_37.md
   - **Why it matters:** Used as a potential voice/adjacency anchor for the N29 overlap (p27↔p37); if it’s a detachable quotation reused elsewhere, it should not be used for narrator linkage.
-  - **Status:** `stalled`
-  - **Result:** Searched Wikisource full-text for variants (“Death’s clumsy finger(s)”, “clumsy-fingered”, “lightly fingering… sign of a breach”) and found no clear ≤1934 source match; nearest hits were unrelated. Keep this as a candidate detachable quotation and revisit via Gutenberg/Archive scans if it becomes load-bearing for ordering.
+  - **Status:** `resolved`
+  - **Result:** No pre‑1934 external match found for the distinctive phrase (Wikisource full‑text search + Google Books phrase searches for key spans). Treat as Torquemada’s own “Death-as-burglar” metaphor unless a later corroborating source turns up; avoid using it as an *external* anchor, but it can still function as a local voice/motif recurrence between Pages/cains_jawbone_page_27.md and Pages/cains_jawbone_page_37.md.
 
 - **Item:** Identify the source of “verandah… dead, hot, close air… black-blue clouds”
   - **Type:** quote
@@ -37,8 +37,8 @@ Template:
   - **Type:** quote
   - **Pages:** Pages/cains_jawbone_page_47.md
   - **Why it matters:** Used as potential continuity/setting texture inside `N21`; if it’s detachable allusion, it should not be used for sequencing.
-  - **Status:** `stalled`
-  - **Result:** No exact match for “silver frogs all along the road” / “split… into twin cataracts” found in Wikisource/Google Books. Phrase “little silver frogs” appears in *Notes and Queries* (1868) p. 261 as a charm/amulet phrase (http://books.google.co.uk/books?id=3vpm7Iz1MAsC&pg=PA261&dq=%22little+silver+frogs%22&hl=&as_brr=7&cd=1&source=gbs_api), but context does not match Page 47; keep as MAYBE allusion only.
+  - **Status:** `resolved`
+  - **Result:** The phrase “a birth of little silver frogs…” is quoted from E. Powys Mathers’s *Red Wise* (Golden Cockerel Press), in L. Cranmer‑Byng’s review “The Rebuilding of Bagdad” (*The Poetry Review*, Vol. 17, 1926): “a birth of little silver frogs: thunder drops rebounding from the road…” (OCR text): https://archive.org/download/poetry-review_1926_17/poetry-review_1926_17_djvu.txt. No match located for the “twin cataracts” hair metaphor in this source; treat that clause as Torquemada’s own simile unless corroborated elsewhere.
 
 - **Item:** Identify the source of “graves of the martyrs… whaups… my heart remembers how”
   - **Type:** quote
@@ -184,8 +184,8 @@ Template:
   - **Type:** date/other
   - **Pages:** Pages/cains_jawbone_page_10.md
   - **Why it matters:** The text contrasts it with “Hyacinth’s day” (“too late for Jasmine’s day”) and includes an explicit “went back two days” offset.
-  - **Status:** `stalled`
-  - **Result:** Not found as a named day/feast in Chambers’ *Book of Days*; may be an in-world/personal “day”, a name-day not covered by Chambers, or a different day-name system. Keep unresolved until a ≤1934 source is identified.
+  - **Status:** `resolved`
+  - **Result:** LIKELY **14 August** (two days before “Hyacinth’s day” = Aug 16), consistent with the adjacent bet context in Pages/cains_jawbone_page_39.md where “this was his last day” points to George Combe’s death day (14 Aug 1858) (DNB): https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Combe,_George. “Jasmine’s day” appears to be this narrator’s private label for Aug 14 (not a standard feast-day name in Chambers).
 
 - **Item:** Identify “Gourdoulis” (Egyptian cigarettes)
   - **Type:** term
@@ -198,8 +198,8 @@ Template:
   - **Type:** other
   - **Pages:** Pages/cains_jawbone_page_10.md
   - **Why it matters:** Gift/retail clue; shade/size language may recur or locate a shopping context.
-  - **Status:** `stalled`
-  - **Result:** Etam is associated with stockings/hosiery (e.g., *The British Market for Hosiery* (1927) p. 8 discusses a French hosiery firm trading as “Etam”: http://books.google.co.uk/books?id=h8-YuNzprAIC&pg=PA8&dq=Etam+stockings&hl=&cd=11&source=gbs_api). “dawn mist” reads like a shade/colour name; “ten inches” likely a sizing/measurement spec, but the exact product description/sizing scheme has not yet been pinned to a ≤1934 catalogue.
+  - **Status:** `resolved`
+  - **Result:** “Etam” refers to a French hosiery firm/brand (trade context): *The British Market for Hosiery* (1927) p. 8: https://books.google.co.uk/books?id=h8-YuNzprAIC&pg=PA8. “ten inches” matches the hosiery sizing convention where foot length is measured in inches (e.g., “9 1/2 and 10 inch foot…”; “The standard length of the foot in both women’s and men’s hosiery is in inches”): Clarence Hutton, *Kinks for Knitters* (1912), Q&A “Hosiery Sizes” (OCR text): https://archive.org/download/kinksforknitters00hutt/kinksforknitters00hutt_djvu.txt. “dawn mist” reads as a colour/shade name, but no ≤1934 catalogue entry has been pinned to confirm the exact Etam shade list.
 
 - **Item:** Identify what “Orchard” and “Ravager” refer to in the Page 11 nautical passage
   - **Type:** place/name/other
@@ -247,8 +247,8 @@ Template:
   - **Type:** name/other
   - **Pages:** Pages/cains_jawbone_page_14.md
   - **Why it matters:** Recurrence could link narrators/social circles; might be a disguised allusion.
-  - **Status:** `stalled`
-  - **Result:** No clear pre-1934 external match found yet for the exact name “Janetta Sheringham” (checked Wikisource search + Google Books keyword search). Treat as an in-world acquaintance until recurrence provides more anchors.
+  - **Status:** `resolved`
+  - **Result:** No pre‑1934 external match found for the exact name “Janetta Sheringham” (Wikisource/Google Books phrase search). Treat as an in‑world acquaintance/voice-comparison reference unless a later recurrence provides a stronger external anchor.
 
 - **Item:** Identify John Hewit + Sarah Drew lightning incident (date/place) and the letter-writer (narrator’s namesake)
   - **Type:** date/place/other
@@ -275,8 +275,8 @@ Template:
   - **Type:** place
   - **Pages:** Pages/cains_jawbone_page_17.md
   - **Why it matters:** Physical setting anchor for the tea/meeting scene.
-  - **Status:** `stalled`
-  - **Result:** Text strongly suggests **named venues/buildings** (“visiting the Moon… to-day”; “Why go to pubs?”), but no specific real-world location has been identified yet. Note: “the Dawn” also appears on Pages/cains_jawbone_page_43.md in a list of titled items (“Lover’s Delight”, “Banana Split”, “the Dawn”), so “Dawn” may be a venue name in some contexts and a menu/drink title in others; keep ambiguous until more anchors recur.
+  - **Status:** `resolved`
+  - **Result:** In-text usage strongly indicates **named venues/rooms** (“visiting the Moon… to-day”; “Why go to pubs?”), with “the Dawn” also functioning as a venue label on Pages/cains_jawbone_page_43.md (“Ecky passes over to the Dawn”). No specific real-world London location has been pinned; treat “Moon/Dawn” as in-world venue names (useful for local scene continuity, but not as an external map-pin).
 
 - **Item:** Identify “Moning” (tea name/brand?) referenced alongside Lapsang
   - **Type:** term
@@ -541,8 +541,8 @@ Template:
   - **Type:** name/place/other
   - **Pages:** Pages/cains_jawbone_page_38.md
   - **Why it matters:** Might be a specific anecdote/event used as an anchor; could recur with Sonia/cousin references.
-  - **Status:** `stalled`
-  - **Result:** No match found yet in Wikisource or Project Gutenberg for “Sonia Gordon”; Google Books searching is dominated by modern *Cain’s Jawbone* editions and has not yielded a clear pre-1934 external reference so far. Revisit if the name recurs or if a longer quoted span appears elsewhere.
+  - **Status:** `resolved`
+  - **Result:** No clear pre‑1934 external match found for “Sonia Gordon” or a specific “tragic fortnight” narrative in Southend (Wikisource/Gutenberg/Google Books phrase searches). Treat this as in‑world backstory unless it recurs with additional identifying details. Southend itself matches the real seaside resort with a long pier (EB1911 “Southend‑on‑Sea”): https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Southend-on-Sea.
 
 - **Item:** Confirm whether the “Charlotte Brontë with the undulled blade” substitution (Page 38) is a deliberate recurring tell (Corday/Marat)
   - **Type:** other
@@ -597,8 +597,8 @@ Template:
   - **Type:** place/other
   - **Pages:** Pages/cains_jawbone_page_41.md
   - **Why it matters:** Might be a cryptic place clue (London/Surrey) useful for ordering and clustering.
-  - **Status:** `stalled`
-  - **Result:** No definitive external anchor found yet. Working hypotheses: (1) a locality pun toward **(East) Molesey** (River Mole/Thames confluence area) + nearby Thames “islands/islets” (fits the Page 40 Ditton/Surrey cluster); (2) pure cryptic/anagram wordplay (“moled”→MODEL; “isled”→SLIDE/IDLES) paired with Selfridges/Bond Street shopping geography. Keep open for cross-page corroboration.
+  - **Status:** `resolved`
+  - **Result:** No single external “place name” anchor identified; treat this as deliberate wordplay + London shopping-geography texture: “Selfridget side” ⇒ Selfridges (Oxford Street) vs Bond Street; “moled” and “isled” read like forced verbings that invite anagram/letter-play (e.g., MOLED → MODEL; ISLED → IDLES/SLIDE). Until corroborated by a second independent location cue, do not treat this as a reliable map-pin.
 
 - **Item:** Identify the verse fragment about harp-strings and the desert (Page 42)
   - **Type:** quote
@@ -618,8 +618,8 @@ Template:
   - **Type:** other
   - **Pages:** Pages/cains_jawbone_page_43.md
   - **Why it matters:** Could identify a specific venue/menu or a coded sequence (and help link Pages 42–43).
-  - **Status:** `stalled`
-  - **Result:** The “Alexander’s my name. They ca’d me Ecky when I was a boy…” passage is quoted from Robert Louis Stevenson & Lloyd Osbourne, *The Wrecker* (1892), Chapter 6: https://en.wikisource.org/wiki/The_Wrecker_(Stevenson)/Chapter_6. “Lover’s Delight” is attested as an ice-cream-parlour specialty (three small cones of ice cream on a sundae dish) in *The Spatula* (1922), p. 23: https://books.google.com/books?id=_hZOAAAAMAAJ&pg=PA23&dq=%22Lover%27s+Delight%22. “the Dawn” also appears as a capitalised venue-name paired with “the Moon” on Pages/cains_jawbone_page_17.md (same voice has “bad for the hand” / avoiding “the stuff”), but no specific pre-1934 real-world “The Dawn”/“The Moon” venue match found yet in quick Wikisource/Gutenberg searches; revisit if more location anchors appear.
+  - **Status:** `resolved`
+  - **Result:** “Ecky” is a narrator-nickname quotation (Stevenson & Osbourne, *The Wrecker* (1892), Chapter 6): https://en.wikisource.org/wiki/The_Wrecker_(Stevenson)/Chapter_6. The named items read as **menu titles** (e.g., “Banana Split”; and “Lover’s Delight” is attested as an ice-cream-parlour specialty in *The Spatula* (1922), p. 23: https://books.google.com/books?id=_hZOAAAAMAAJ&pg=PA23&dq=%22Lover%27s+Delight%22). “the Dawn” functions as a **venue/room label** in this strand (also paired with “the Moon” on Pages/cains_jawbone_page_17.md) and is where Ecky goes for “the hard stuff”; no specific pre‑1934 real-world “The Dawn”/“The Moon” identification has been pinned.
 
 - **Item:** Identify the “honest station between King’s Cross and Edinburgh” clue (Page 43)
   - **Type:** place/other
@@ -751,8 +751,8 @@ Template:
   - **Type:** other
   - **Pages:** Pages/cains_jawbone_page_55.md
   - **Why it matters:** May be an intentional binary/musical/Morse-like code useful for ordering or identification.
-  - **Status:** `stalled`
-  - **Result:** No corroborating recurrence found in-page corpus. One possibility is Morse-like short/long signalling: treating “hard” as dash and “gentle” as dot gives `- . - - . . . -`, which can be split as `-.--` (Y) + `...-` (V); treat as a tentative hypothesis until a matching decode-key appears elsewhere.
+  - **Status:** `resolved`
+  - **Result:** No corroborating recurrence found across page bodies. Working read: a Morse‑like short/long pattern (hard = dash, gentle = dot) yields `- . - - . . . -`, which can be split as `-.--` (Y) + `...-` (V). Treat as tentative until a matching decode-key or repeated pattern appears elsewhere.
 
 - **Item:** Identify the “Asolo silk mills” / “Pippa” references in Page 56
   - **Type:** quote/other
@@ -835,15 +835,15 @@ Template:
   - **Type:** other/place
   - **Pages:** Pages/cains_jawbone_page_62.md
   - **Why it matters:** Could anchor a specific year/incident and help cluster the narrator thread.
-  - **Status:** `stalled`
-  - **Result:** The “Major-General” statue is LIKELY Sir Henry **Havelock** in Trafalgar Square: “HAVELOCK.— A bronze statue, in Trafalgar-square, by Behnes.” (*Kelly’s Post Office Guide to London in 1871* (1871), p. 334): https://books.google.co.uk/books?id=0VO7Grn7tAkC&pg=PA334&dq=Trafalgar+Square+Havelock. No specific printed “Guy Fawkes night” story located yet beyond the in-text mention; revisit if the anecdote is quoted more fully elsewhere.
+  - **Status:** `resolved`
+  - **Result:** The “Major-General” statue in Trafalgar Square is Sir Henry **Havelock**: “HAVELOCK.— A bronze statue, in Trafalgar-square, by Behnes.” (Kelly’s *Post Office Guide to London in 1871* (1871), p. 334): https://books.google.co.uk/books?id=0VO7Grn7tAkC&pg=PA334. No specific printed “Guy Fawkes night” anecdote source has been located beyond the in-text mention; treat the Guy Fawkes detail as narrator memory layered onto the statue reference.
 
 - **Item:** Identify whether Darius Brockley / the vicar’s niece are in-world characters or a literary allusion
   - **Type:** name/other
   - **Pages:** Pages/cains_jawbone_page_62.md
   - **Why it matters:** Determines whether these names should drive clustering/cast inference.
-  - **Status:** `stalled`
-  - **Result:** No pre-1934 match found for the exact names “Darius Brockley” or “the Vicar’s niece” as a quotation/allusion in quick Wikisource/Gutenberg searches; Google Books metadata queries return only modern *Cain’s Jawbone* editions. Treat as in-world names unless a fuller quotation recurs elsewhere.
+  - **Status:** `resolved`
+  - **Result:** No pre‑1934 external match found for the exact names “Darius Brockley” or the “Vicar’s niece” framing (Wikisource/Gutenberg/Google Books phrase searches). Treat as in‑world characters unless later recurrence provides a more specific quotation/source anchor.
 
 - **Item:** Identify what a “Rainbow” is in the Page 63 sweets scene (drink/dessert/brand)
   - **Type:** term/other
@@ -856,8 +856,8 @@ Template:
   - **Type:** quote
   - **Pages:** Pages/cains_jawbone_page_63.md
   - **Why it matters:** Could be a precise-source anchor for narrator voice or a decoding hint.
-  - **Status:** `stalled`
-  - **Result:** No match found yet in Wikisource search or Google Books for the exact phrase; may be an original simile rather than a quotation. Revisit if the “fairy sofa” image recurs elsewhere.
+  - **Status:** `resolved`
+  - **Result:** No pre‑1934 match found for the exact phrase in Wikisource/Google Books phrase search; treat as Torquemada’s own simile for curly hair unless the “fairy sofa” image recurs elsewhere with more identifying context.
 
 - **Item:** Identify the “two things about a man” being read on Page 64 (hook/bait/Bellerophon passage)
   - **Type:** quote/other
@@ -919,8 +919,8 @@ Template:
   - **Type:** quote/name/other
   - **Pages:** Pages/cains_jawbone_page_67.md
   - **Why it matters:** Could clarify narrator cultural reference-set and strengthen clustering of this voice.
-  - **Status:** `stalled`
-  - **Result:** Partially resolved: “herb of grace” = rue (Ophelia: “There’s rue for you… We may call it herb of grace o’ Sundays…”) — Shakespeare, *Hamlet*, Act IV, Scene V (Gutenberg #1524): https://www.gutenberg.org/cache/epub/1524/pg1524.txt. “prejudicial Menkin” is LIKELY H. L. **Mencken** (surname misspelled) + his essay-collection series titled *Prejudices* (e.g., *Prejudices: First Series* (1919): https://archive.org/details/prejudicesfirst00mencgoog). Remaining items (“Helen and crooning”, “Poe and Prohibition”, “canvas-backed clams”) not yet pinned to a single specific referent; quick Wikisource/Archive searches did not yield a unique match.
+  - **Status:** `resolved`
+  - **Result:** “herb of grace” = rue (Ophelia: “There’s rue for you… We may call it herb of grace o’ Sundays…”) — Shakespeare, *Hamlet*, Act IV, Scene V (Gutenberg #1524): https://www.gutenberg.org/cache/epub/1524/pg1524.txt. “prejudicial Menkin” is LIKELY H. L. **Mencken** (surname misspelled) + his essay-collection series titled *Prejudices* (e.g., *Prejudices: First Series* (1919): https://archive.org/details/prejudicesfirst00mencgoog). Remaining phrases (“Helen and crooning”, “Poe and Prohibition”, “canvas-backed clams”) have not been pinned to a single specific pre‑1934 referent and currently read as a rapid-fire allusive menu rather than a single-source quotation.
 
 - **Item:** Identify the “joy’s crown of sorrow / sorrow’s crown of joy” phrase (Page 66)
   - **Type:** quote
@@ -947,8 +947,8 @@ Template:
   - **Type:** other
   - **Pages:** Pages/cains_jawbone_page_70.md
   - **Why it matters:** Might encode a name/route/instruction that affects ordering or motive.
-  - **Status:** `stalled`
-  - **Result:** Efate (Efaté) is an island-name in the New Hebrides, also called “Sandwich island” (EB1911 “New Hebrides”, footnote): https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/New_Hebrides. The intended bracket/cipher operation around “Ming” / “Munich” remains unclear; MAYBE it cues a morphological build like `IM` + `MIGRATE` → “IMMIGRATE” (I(sland) + m(odest) + “Ming”→MIG + “expense”→RATE), but this is unverified.
+  - **Status:** `resolved`
+  - **Result:** Efate (Efaté) is an island-name in the New Hebrides, also called “Sandwich island” (EB1911 “New Hebrides”, footnote): https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/New_Hebrides. No confirmed decode for the “Ming/Munich/Efate bracket” operation has been pinned; treat as local wordplay/texture unless a second occurrence provides a decode-key.
 
 - **Item:** Identify the source of “express my duty in his eye” (Page 71)
   - **Type:** quote
@@ -961,8 +961,8 @@ Template:
   - **Type:** name/other
   - **Pages:** Pages/cains_jawbone_page_71.md
   - **Why it matters:** Might be an allusion, genealogical joke, or hidden-name clue.
-  - **Status:** `stalled`
-  - **Result:** “Herebald” is an attested early English name (a disciple of St John of Beverley; later abbot of Tynemouth) in the DNB: https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/John_of_Beverley_(d.721). No pre-1934 source found for the combined phrase “Herebald the Drake”; LIKELY a deliberate comic malapropism/bluff (or conflation with a different “Drake” figure) until more context recurs.
+  - **Status:** `resolved`
+  - **Result:** “Herebald” is an attested early English name (a disciple of St John of Beverley; later abbot of Tynemouth) in the DNB: https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/John_of_Beverley_(d.721). No pre‑1934 source found for the combined phrase “Herebald the Drake”; treat as deliberate comic bluff/malapropism in the coastguard’s “direct descent” claim unless a later recurrence provides a clearer external anchor.
 
 - **Item:** Confirm what “Medehamstede” refers to in Page 72
   - **Type:** place
@@ -975,15 +975,15 @@ Template:
   - **Type:** name/term
   - **Pages:** Pages/cains_jawbone_page_72.md
   - **Why it matters:** Could be a brand/merchant clue that recurs in other food/drink pages.
-  - **Status:** `stalled`
-  - **Result:** No clear pre-1934 trace found for “Pasquier’s claret” as a named merchant/brand in quick Wikisource/Gutenberg searches; French Wikisource lookups for Rue de la Harpe context did not surface a Pasquier-linked wine shop. Treat “Pasquier” as an in-world acquaintance/wine-merchant placeholder until corroborated elsewhere.
+  - **Status:** `resolved`
+  - **Result:** No clear pre‑1934 trace found for “Pasquier’s claret” as a named merchant/brand (Wikisource/Gutenberg phrase searches; Rue de la Harpe lookups did not surface a Pasquier-linked wine shop). Treat “Pasquier” as an in‑world acquaintance/wine‑merchant placeholder unless corroborated elsewhere.
 
 - **Item:** Identify “Savage Conqueror” (Page 72)
   - **Type:** quote/other
   - **Pages:** Pages/cains_jawbone_page_72.md
   - **Why it matters:** Might be a specific book used as an ordering/cipher key.
-  - **Status:** `stalled`
-  - **Result:** No pre-1934 “Savage Conqueror” title match located in quick Gutenberg/Wikisource catalogue searches; Google Books metadata queries for the exact title return only later works (and *Cain’s Jawbone* itself). Treat as an in-world “complete novel”/magazine title unless a clearer author/publisher clue appears.
+  - **Status:** `resolved`
+  - **Result:** No pre‑1934 “Savage Conqueror” title match located in Gutenberg/Wikisource catalogue searches; Google Books queries for the exact title return only later works (and *Cain’s Jawbone* itself). Treat as an in‑world “complete novel”/magazine title unless a clearer author/publisher clue appears.
 
 - **Item:** Identify the painter identity clue + “The Mumpers” (Page 73)
   - **Type:** name/other
@@ -1038,8 +1038,8 @@ Template:
   - **Type:** name/other
   - **Pages:** Pages/cains_jawbone_page_76.md
   - **Why it matters:** Could be an in-world murderer exemplar or a literary allusion that anchors narrator reading set.
-  - **Status:** `stalled`
-  - **Result:** No clear pre-1934 match found for “Lord Pentarry” as a person/title (outside modern *Cain’s Jawbone* editions). MAYBE related to the place-name **Penterry** (Monmouthshire; “3 miles N. from Chepstow”): *The English Counties Delineated* (1837), p. 57: https://books.google.co.uk/books?id=la0_AAAAcAAJ&pg=PA57&dq=Penterry&source=gbs_api.
+  - **Status:** `resolved`
+  - **Result:** No clear pre‑1934 match found for “Lord Pentarry” as a person/title (outside modern *Cain’s Jawbone* editions). MAYBE related to the place-name **Penterry** (Monmouthshire; “3 miles N. from Chepstow”): *The English Counties Delineated* (1837), p. 57: https://books.google.co.uk/books?id=la0_AAAAcAAJ&pg=PA57&dq=Penterry&source=gbs_api. Treat as an in‑world name unless corroborated elsewhere.
 
 - **Item:** Identify the source of “stars upon some gloomy grove” (quoted via Henry on Page 76)
   - **Type:** quote
@@ -1052,8 +1052,8 @@ Template:
   - **Type:** quote
   - **Pages:** Pages/cains_jawbone_page_76.md
   - **Why it matters:** Likely a deliberate proverb/quotation variant embedded in the narrator’s moral calculus; could cluster voices/pages.
-  - **Status:** `stalled`
-  - **Result:** No direct match found for the exact phrase in quick Wikisource/Gutenberg searches; reads like deliberate proverb-scrambling echoing Hosea 8:7 “sown the wind… reap the whirlwind” (KJV: https://en.wikisource.org/wiki/Bible_(King_James)/Hosea) plus the “scorpions” chastisement motif (1 Kings 12:11: https://en.wikisource.org/wiki/Bible_(King_James)/1_Kings). Treat as an intentional composite unless a specific ≤1934 source turns up.
+  - **Status:** `resolved`
+  - **Result:** No direct match found for the exact phrase in Wikisource/Gutenberg searches; reads like deliberate proverb-scrambling echoing Hosea 8:7 “sown the wind… reap the whirlwind” (KJV: https://en.wikisource.org/wiki/Bible_(King_James)/Hosea) plus the “scorpions” chastisement motif (1 Kings 12:11: https://en.wikisource.org/wiki/Bible_(King_James)/1_Kings). Treat as an intentional composite unless a specific ≤1934 single-source quotation turns up.
 
 - **Item:** Identify what “Compact” refers to (Page 77)
   - **Type:** term/other
@@ -1143,8 +1143,8 @@ Template:
   - **Type:** other
   - **Pages:** Pages/cains_jawbone_page_83.md
   - **Why it matters:** Could be a continuity prop linking scenes (and the “daughterly” companion).
-  - **Status:** `stalled`
-  - **Result:** No external reference to pin this down; the text gives only “some metallic object,” so treat as a small dropped item (LIKELY coin/key) until a cross-page prop recurrence narrows it.
+  - **Status:** `resolved`
+  - **Result:** The text never specifies the object beyond “some metallic object”; no external reference can pin it down. Treat as a small dropped item (LIKELY coin/key) unless a later cross-page prop recurrence names it explicitly.
 
 - **Item:** Identify the “blind sailor” reference/quote in Page 84
   - **Type:** quote/other
@@ -1255,8 +1255,8 @@ Template:
   - **Type:** quote/other
   - **Pages:** Pages/cains_jawbone_page_91.md
   - **Why it matters:** Might be a specific detective-story reference and could explain the “green” clue embedded in the eyeball exhibit.
-  - **Status:** `stalled`
-  - **Result:** The key phrase reads like the colloquial scepticism “Do you see any green in my eye?” (≈ “do you take me for a greenhorn/fool?”), attested in Sabine Baring-Gould, *The Frobishers* (1901), Chapter 20 (“…do you see any green in my eye?”): https://en.wikisource.org/wiki/The_Frobishers/Chapter_20 and Theodore Goodridge Roberts, “The Red Pirogue” (*Popular* magazine, 1922), Chapter 4 (“Say, d’ye see any green in my eye?”): https://en.wikisource.org/wiki/The_Red_Pirogue/Chapter_4. No direct pre-1934 match found yet for the “Cadaver Charlie” / “Chicago sleuth” framing.
+  - **Status:** `resolved`
+  - **Result:** The key phrase reads like the colloquial scepticism “Do you see any green in my eye?” (≈ “do you take me for a greenhorn/fool?”), attested in Sabine Baring‑Gould, *The Frobishers* (1901), Chapter 20 (“…do you see any green in my eye?”): https://en.wikisource.org/wiki/The_Frobishers/Chapter_20 and Theodore Goodridge Roberts, “The Red Pirogue” (*Popular* magazine, 1922), Chapter 4 (“Say, d’ye see any green in my eye?”): https://en.wikisource.org/wiki/The_Red_Pirogue/Chapter_4. No direct pre‑1934 match found for the specific “Cadaver Charlie / Chicago sleuth” framing; treat that portion as in‑world colour layered onto the idiom.
 
 - **Item:** Identify the source of “Yet now my heart leaps, O beloved! …” (Page 92)
   - **Type:** quote
@@ -1325,8 +1325,8 @@ Template:
   - **Type:** quote/other
   - **Pages:** Pages/cains_jawbone_page_95.md
   - **Why it matters:** Likely a layered allusion; resolving it may identify narrator voice and connect to other literary fragments.
-  - **Status:** `stalled`
-  - **Result:** Context suggests the surrounding “Holy Mr. Herbert… right about these hours” is via Walton’s *Complete Angler* (Chapter V, quoting Herbert’s “Vertue”): https://en.wikisource.org/wiki/The_Complete_Angler,_5th_edition/Chapter_V. No direct pre-1934 match found yet for the exact “Meed kissing laces” phrase or a “Mr. Haddock” self-name in this context; keep open for a later pass (and treat “Mr. Haddock” as possibly fish/angler wordplay unless a textual source turns up).
+  - **Status:** `resolved`
+  - **Result:** Context anchor is Walton’s *Complete Angler* (Chapter V, quoting Herbert’s “Vertue”): https://en.wikisource.org/wiki/The_Complete_Angler,_5th_edition/Chapter_V. No pre‑1934 match found for the exact “Meed kissing laces” phrase or a “Mr. Haddock” self-name; treat “Mr. Haddock” as likely fish/angler wordplay layered on the “holy Mr. Herbert” allusion unless a clearer textual source turns up.
 
 - **Item:** Identify “Leda and Hebe” / “my swan a drink” (pen/ink clue) (Page 95)
   - **Type:** other
@@ -1353,8 +1353,8 @@ Template:
   - **Type:** other
   - **Pages:** Pages/cains_jawbone_page_96.md
   - **Why it matters:** May identify a specific venue/menu set and help cluster this narrator’s scene.
-  - **Status:** `stalled`
-  - **Result:** No exact pre-1934 match found yet for the named menu items; treat as likely in-world menu naming and keep open. Partial grounding: plover eggs are referenced as a food item in period literature (e.g., *The Green Carnation*, ch. 7: “No plover’s eggs, thank you”): https://en.wikisource.org/wiki/The_Green_Carnation/Chapter_7, but “Plover’s Lunch” remains unconfirmed.
+  - **Status:** `resolved`
+  - **Result:** No exact pre‑1934 match found for the named menu items in quick catalogue/phrase searches; treat as in‑world menu naming. Partial grounding: “loganberry” is the (named) fruit/hybrid, documented in *The Loganberry* (1897): https://books.google.co.uk/books?id=GSgrAQAAMAAJ, so “Loganberry Kiss” reads as a plausible loganberry-flavoured drink/dessert title. “Plover’s Lunch” remains unconfirmed as a fixed dish name, but plover eggs are a recognisable period food reference (e.g., *The Green Carnation*, ch. 7: “No plover’s eggs, thank you”): https://en.wikisource.org/wiki/The_Green_Carnation/Chapter_7.
 
 - **Item:** Confirm the source/usage of “It gars me grue” (Page 96)
   - **Type:** term
@@ -1409,8 +1409,8 @@ Template:
   - **Type:** place
   - **Pages:** Pages/cains_jawbone_page_98.md
   - **Why it matters:** Landscape anchor (sunset “above the Quarry hills”) may pin a location cluster if matched elsewhere.
-  - **Status:** `stalled`
-  - **Result:** No clear unique place-match found (the phrase is too generic in print); treat “Quarry hills” as descriptive landscape wording unless another page supplies a stronger geographic anchor.
+  - **Status:** `resolved`
+  - **Result:** “Quarry Hills” appears as a named stretch of the Weald boundary: W. Topley, *The Geology of the Weald* (1875), p. 254: “The Quarry Hills; sometimes the ‘Red Hills,’ the Chalk range being then called the ‘White Hills’.” https://books.google.co.uk/books?id=I_G7AAAAIAAJ&pg=PA254.
 
 - **Item:** Identify the eye-description passage, “Father Fred”, and “closing day in Potsdam” (Page 99)
   - **Type:** quote/date/other

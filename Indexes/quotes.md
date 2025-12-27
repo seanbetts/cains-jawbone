@@ -69,6 +69,13 @@ Template:
   - **Confidence:** `CERTAIN`
   - **Research needed:** no
 
+- **Snippet:** “a birth of little silver frogs: thunder drops rebounding from the road”
+  - **Likely source/author:** E. Powys Mathers, *Red Wise* (Golden Cockerel Press), quoted in L. Cranmer‑Byng, “The Rebuilding of Bagdad” (*The Poetry Review*, Vol. 17, 1926): https://archive.org/download/poetry-review_1926_17/poetry-review_1926_17_djvu.txt
+  - **Why it matters:** Confirms the Page 47 rain/road imagery as a detachable quotation layer (Mathers’s earlier work), so it should not be treated as firm in-world scene-setting.
+  - **Pages:** Pages/cains_jawbone_page_47.md
+  - **Confidence:** `CERTAIN`
+  - **Research needed:** no
+
 - **Snippet:** “Be not afraid, thy help is near.”
   - **Likely source/author:** Chorus/anthem text in *Words of Anthems Used in Westminster Abbey* (1878), p. 109: https://books.google.co.uk/books?id=FD9GAAAAYAAJ&pg=PA109&vq=%22thy+help+is+near%22
   - **Why it matters:** Wordplay -> Page 58’s “Be not a Freud; thy help is near” is a near-homophone pun on this line.
