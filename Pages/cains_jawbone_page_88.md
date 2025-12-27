@@ -24,7 +24,7 @@ I always liked to listen to him. It was St. Wigbert’s day, I was told, and Aug
 - **Voice/tells:**
   - Social-observer stance: repetitive “He said… She said…” with narrator not fully understanding.
 - **Ordering hypotheses:**
-  - LIKELY: follows Pages/cains_jawbone_page_48.md (shared Tate sugar + similar “he said… she said…” domestic register; see `Order/hypotheses.md` `N02` Spine).
+  - CERTAIN: follows Pages/cains_jawbone_page_48.md as the next daybook beat (Aug 12 → Aug 13), reinforced by the unique shared Tate-sugar anchor and the same “he said… she said…” domestic-observer register.
   - LIKELY: has a later continuation beat on Pages/cains_jawbone_page_46.md (shared “listen to him” framing + Tom/Jasmine household reference); treat Pages/cains_jawbone_page_46.md as a late‑year `N02` coda (Dec 14 “Albert, Prince Consort” anchor).
   - CERTAIN: precedes Pages/cains_jawbone_page_39.md (unique year‑tally continuity: this page’s “how few the other had done so late in the year” carries directly into Pages/cains_jawbone_page_39.md’s “what they had done” + “two all for that year”; same “He said… She said…” cadence + naïve misunderstanding voice).
 - **Disconfirming evidence:**

@@ -21,7 +21,7 @@ I had always thought that Tate essentially meant sugar. This I liked almost next
 - **Ordering hypotheses:**
   - MAYBE: animal POV cluster.
   - CERTAIN: follows Pages/cains_jawbone_page_79.md as the start of the mid‑August run (p79’s “next day… allowed to fetch back Lagopus scoticus… after such a long time” implies the Aug 12 red-grouse season opener; this page is the Aug 12 “to-day” beat).
-  - LIKELY: precedes Pages/cains_jawbone_page_88.md (Tate sugar appears only on Pages 48/88; see `Order/hypotheses.md` `N02` Spine).
+  - CERTAIN: precedes Pages/cains_jawbone_page_88.md as the next daybook beat (Aug 12 → Aug 13), reinforced by the unique shared Tate-sugar anchor and the same “he said… she said…” domestic-observer register.
   - MAYBE: links to Pages/cains_jawbone_page_43.md via Ecky/Alexander recurrence.
 - **Disconfirming evidence:**
   - If later context makes the “nose” and “sad dog” language purely idiomatic (human narrator).
