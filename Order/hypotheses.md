@@ -196,14 +196,14 @@ Goal: highlight likely “join surfaces” between macro strands (people/place/o
   - Single-page overlaps (treat as low-confidence until a second independent anchor appears): Aesthetic ↔ Botany (Pages/cains_jawbone_page_5.md); Detective/violence ↔ Paper/money (Pages/cains_jawbone_page_44.md); Botany ↔ Time (Pages/cains_jawbone_page_54.md); Botany ↔ Whitman (Pages/cains_jawbone_page_40.md); Time ↔ Whitman (Pages/cains_jawbone_page_32.md); Aesthetic ↔ Paper/money (Pages/cains_jawbone_page_89.md); Dog POV ↔ Time (Pages/cains_jawbone_page_99.md).
 
 - **Cross-page bridges (non-overlap; higher-signal named anchors):**
-  - `P16` May (see `Indexes/people.md`): Paper/money pages (14/98; plus any additional May pages) ↔ Botany/poison pages (71/75/80). Falsifier: “May” resolves as month/pun in one strand, or May’s role/relationships are incompatible across strands.
+  - `P16` May (see `Indexes/people.md`; person vs month/May-blossom ambiguity): treat as a bridge only where May is directly addressed or invoked as an agent (Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_80.md, Pages/cains_jawbone_page_98.md); treat Pages/cains_jawbone_page_71.md/Pages/cains_jawbone_page_75.md/Pages/cains_jawbone_page_100.md as edge-overlap until clarified. Falsifier: “May” resolves as month/flower-only in the “red May”/“blight on the May” strand, or May’s role/relationships are incompatible across the direct-address pages.
   - `P50` Sir Paul Trinder (see `Indexes/people.md`): Paper/money interview pages (52/53) ↔ Botany/poison host/poison pages (59/80). Falsifier: Sir Paul’s identifying details (title/context/behaviour) clearly differ between strands.
   - Southend-on-Sea / Kursaal geography (see `Indexes/places.md`): Aesthetic page (38: Southend memory) ↔ Detective/violence page (100: Kursaal at Southend). Falsifier: one reference points to a different “Southend” or the Kursaal is not Southend’s Kursaal in context.
   - Aconite mention (see `Indexes/objects_motifs.md`): Botany/poison page (80) ↔ Detective/violence page (91). Falsifier: aconite is incidental on one side and does not participate in the same “means/method” register.
 
 - **Narrator bridges (multi-macro join surfaces):**
   - `N01` (Pages/cains_jawbone_page_1.md, Pages/cains_jawbone_page_17.md, Pages/cains_jawbone_page_43.md) spans Paper/money (pen/handwriting) ↔ Aesthetic/high-society (venue/menu-title register). Treat “to-day” phrasing on these pages as generic until a date-derivable anchor appears.
-  - `N16` (Pages/cains_jawbone_page_7.md, Pages/cains_jawbone_page_44.md, Pages/cains_jawbone_page_45.md, Pages/cains_jawbone_page_55.md) spans Botany/poison, Paper/money, Detective/violence, and Time/calendar via smell-memory + evidence/violence framing; treat as a high-signal bridge unless the voice splits.
+  - `N16` (Pages/cains_jawbone_page_7.md, Pages/cains_jawbone_page_44.md, Pages/cains_jawbone_page_45.md, Pages/cains_jawbone_page_55.md) spans Botany/poison, Paper/money, Detective/violence, and Time/calendar via smell-memory + evidence/violence framing; treat Pages/cains_jawbone_page_55.md as a lower-confidence edge-overlap until reinforced by a second distinctive `N16` anchor beyond the smell-synaesthesia layer.
   - `N17` (Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_41.md) spans Paper/money and Aesthetic/high-society through the shared Time/calendar register (dog-watch “first dog” timekeeping + London geography).
   - `N26` (Pages/cains_jawbone_page_54.md, Pages/cains_jawbone_page_56.md) spans Botany/poison + Time/calendar (Waterloo-day “to-day”) and Aesthetic/high-society (breakfast/second-sight voice); treat the time layer as anchored on Pages/cains_jawbone_page_54.md unless reinforced elsewhere.
 
@@ -335,6 +335,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Pages:** Pages/cains_jawbone_page_7.md, Pages/cains_jawbone_page_44.md, Pages/cains_jawbone_page_45.md, Pages/cains_jawbone_page_55.md
   - **Rationale:** A consistent narrator signature uses smell/odour as an organising device (including synaesthetic metaphors), with self-aware narration and abrupt associative pivots; Pages 44–45 add Henry-focused “problem/evidence” detail to the same sensory-first register.
   - **Key anchors:** “Smells meant a lot to me”; “Jew’s lime… concomitant odour”; “first St. Bruno”; Vera Cruz fonda memory; half-burned marriage certificate in an incinerator; medlar+vine “two notes of a chord” (venetian red/peridot).
+  - **Membership notes:** Pages/cains_jawbone_page_55.md is the least scene-anchored `N16` page (no Henry/Typhoon/incinerator/Hodge); treat as `MAYBE` extension until another distinctive `N16` tell recurs beyond smell-synaesthesia.
   - **Disconfirming evidence:** Page 7 or Page 55 is later shown to be a different narrator/scene using smell imagery incidentally, or the Henry/Hodge anchors in Pages 44–45 are proven to belong to a separate voice from the smell-synaesthesia register.
   - **Phase 4 internal ordering hypotheses (N16):**
     - **Sequence A — Henry/incinerator flats episode** (confidence: `LIKELY`)
@@ -351,7 +352,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - In the page corpus, “Typhoon” appears only on Pages/cains_jawbone_page_7.md and Pages/cains_jawbone_page_45.md, supporting a tight within-voice pairing.
       - **Disconfirming evidence:**
         - *Typhoon* quotations are shown to recur broadly across unrelated narrators, or Pages/cains_jawbone_page_7.md’s “Baker Steet” immobility is literal and incompatible with Pages/cains_jawbone_page_45.md’s flats surveillance.
-  - **Next falsification check:** place Pages/cains_jawbone_page_55.md (Aug 5 holiday anchor) only if a second independent link appears (repeat of the Bramley/medlar/vine chord register, or an explicit calendar anchor on another `N16` page).
+  - **Next falsification check:** keep Pages/cains_jawbone_page_55.md as edge-overlap unless a second distinctive `N16` anchor appears (e.g., St. Bruno/Hodge/incinerator-evidence cues, Typhoon-lock overlap, or a second date/holiday anchor in the same voice).
 
 - **Cluster:** `N17` Dog-watch/capstan + Kipling-quoting punster voice (confidence: `LIKELY`)
   - **Pages:** Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_41.md
@@ -957,6 +958,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Pages:** Pages/cains_jawbone_page_8.md, Pages/cains_jawbone_page_10.md, Pages/cains_jawbone_page_19.md, Pages/cains_jawbone_page_22.md, Pages/cains_jawbone_page_39.md, Pages/cains_jawbone_page_46.md, Pages/cains_jawbone_page_48.md, Pages/cains_jawbone_page_79.md, Pages/cains_jawbone_page_88.md, Pages/cains_jawbone_page_99.md
   - **Rationale:** Explicit animal-coded reactions (ears pulled, “low noise”; tail “vibration” clue; mating/banishment behaviour) plus dog-coded scene mechanics (Mr. Hall + knob/bell summons) point to non-human narrator segments.
   - **Key anchors:** pulled ears + low noise; “no vibration… of my latter end”; “lowered myself and made love”; “provided a chop for me”; “nearly fell on my nose”; “my mistress” framing + “could have howled”; coat/undercoat literalism (“inherited coat”) and “vicarious”→vicar misunderstanding; Mr. Hall + knob/bell summons; Tate sugar hoarding + “I did not entirely understand” register.
+  - **Membership notes:** Pages/cains_jawbone_page_8.md remains the weakest POV fit (optics/“powerful glass” risk); treat as `MAYBE` member pending a second dog-only physical tell (the bow/Mr. Hall continuity anchors are strong but could still represent overlap).
   - **Disconfirming evidence:** later context shows these are human metaphors (or the POV is clearly human).
   - **Phase 4 internal ordering hypotheses (N02):**
     - **Spine — mid‑August daybook run** (confidence: `LIKELY`)
