@@ -26,7 +26,9 @@ It seemed from what I heard that Felton’s meat had been delivered at Brookesle
   - Discomfort with meat; attentive to companion’s verbal framing.
 - **Ordering hypotheses:**
   - LIKELY: continuation of the `N25` interview/papers strand: follows Pages/cains_jawbone_page_52.md (Westphalian ham + papers) as part of the forecast “commentary… page after page”, and precedes Pages/cains_jawbone_page_53.md as the next “introduced” subject beat (fallback: treat as overlap-only if the boat/South Africa framing forces a distinct setting).
+  - MAYBE: overlap with `N02` (dog POV) as a potential post‑August bridge toward Pages/cains_jawbone_page_46.md: “It seemed from what I heard…” + “he read bits of paper…” matches the dog‑as-listener pattern, “contrived to share” food reads as an animal-coded tell, and Armadale Castle (Skye) fits the `N02` Skye/island/pedigree register (cf. Pages/cains_jawbone_page_19.md McCrimmons; Pages/cains_jawbone_page_46.md “our island” + Maltese breed-rumour).
 - **Disconfirming evidence:**
   - If the Westphalian-ham + paper-reading details are shown to be unrelated, common scene dressing across multiple narrators (no shared interview mechanics beyond food/papers).
+  - If Pages/cains_jawbone_page_57.md’s voice is shown to be the same contemptuous interviewer as Pages/cains_jawbone_page_52.md/Pages/cains_jawbone_page_53.md (making the “share” phrasing purely rhetorical), weakening any `N02` overlap reading.
 - **Research needed:**
   - Clarify the South Africa route reference (if more specific than Union-Castle mail steamers).
