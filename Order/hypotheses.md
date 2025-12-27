@@ -346,11 +346,11 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - Link-word hinge: Pages/cains_jawbone_page_7.md ends “as far from English as the Poles,” and Pages/cains_jawbone_page_45.md begins “that half Pole, half Frenchman,” reading like an intentional boundary echo.
       - **Disconfirming evidence:**
         - Another page is found to contain the same Typhoon/Renard‑Beinsky line in its page body, or the “half Pole…” passage is shown to be a detachable quotation unrelated to Pages/cains_jawbone_page_7.md’s setup.
-    - **Sequence B — Typhoon lock → Henry problem (debrief)** (confidence: `MAYBE`)
+    - **Sequence B — Typhoon lock → Henry problem (debrief)** (confidence: `LIKELY`)
       - **Pages (ordered):** Pages/cains_jawbone_page_7.md → Pages/cains_jawbone_page_45.md → Pages/cains_jawbone_page_44.md
       - **Why:**
-        - Pages/cains_jawbone_page_45.md’s “What had I actually seen?” witness-recap posture can naturally be followed by Pages/cains_jawbone_page_44.md’s meta “gift of telling… a story vividly” self-critique plus a more structured “Henry’s problem” summary.
-        - Pages/cains_jawbone_page_44.md’s incinerator evidence detail (half-burned marriage certificate) is compatible with Pages/cains_jawbone_page_45.md’s “great building of many flats” setting (shared-building disposal/incinerator is plausible, though not explicit).
+        - Pages/cains_jawbone_page_45.md’s “What had I actually seen?” witness-recap posture can naturally be followed by Pages/cains_jawbone_page_44.md’s meta “gift of telling… a story vividly” self-critique plus a more structured “The position was this…” Henry-problem summary.
+        - Pages/cains_jawbone_page_44.md’s incinerator evidence detail (half-burned marriage certificate) is compatible with Pages/cains_jawbone_page_45.md’s “great building of many flats” setting (shared-building disposal/incinerator is plausible, though not explicit), making the pair read like two passes over the same episode (raw recall → coherent restatement).
       - **Disconfirming evidence:**
         - A later phrase-level continuation places Pages/cains_jawbone_page_44.md clearly before Pages/cains_jawbone_page_7.md (or clearly after some other non-`N16` page), making this in-cluster tail placement unlikely.
     - **Sequence C — Henry problem (setup) → Typhoon lock** (confidence: `MAYBE`)

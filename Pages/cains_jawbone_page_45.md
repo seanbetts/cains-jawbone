@@ -63,7 +63,8 @@ LIKELY WORDPLAY
   - CERTAIN: add to Henry-occurrence cluster.
   - CERTAIN: follows Pages/cains_jawbone_page_7.md (*Typhoon* reread → “now was the hour…” setup → opening Typhoon quote).
     - Also reads as an intentional boundary echo: Pages/cains_jawbone_page_7.md ends “as far from English as the Poles,” and this page begins “half Pole, half Frenchman”.
-  - MAYBE: Pages/cains_jawbone_page_44.md could be an in-cluster setup (before Pages/cains_jawbone_page_7.md) or a debrief (after this page); keep open until an evidence-bundle repeat (incinerator/certificate/brother) locks it.
+  - LIKELY: followed (not necessarily immediately) by Pages/cains_jawbone_page_44.md as a debrief/structured restatement of Henry’s problem (witness-recap → “gift of telling… a story vividly” + “The position was this…”).
+  - MAYBE: alternative placement where Pages/cains_jawbone_page_44.md is an in-cluster setup before Pages/cains_jawbone_page_7.md.
   - MAYBE: “led up the garden” echoes Pages/cains_jawbone_page_29.md (garden/deception/old man thread).
 - **Disconfirming evidence:**
   - If “up the garden” later proves purely figurative and unrelated to the plant/poison plotline.
