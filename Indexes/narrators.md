@@ -137,7 +137,7 @@ Template:
   - **Notes:** Do not merge into `N12` on “murder talk” alone; the tone and method cues differ.
 
 - `N16` — St. Bruno / smell-memory + incinerator-evidence voice:
-  - **Signature tells:** smell-triggered scene-shifts; tobacco fixation (St. Bruno) and other pungent “relief” smells; synaesthetic sensory metaphors (smell→colour/sound); self-aware narration about telling/following a story; vivid brand/food list; stealth/eavesdropping register (“stealing at the doors”); evidence-destruction detail (half-burned marriage certificate in an incinerator); occasional punning inside the “menu list”.
+  - **Signature tells:** smell-triggered scene-shifts; tobacco fixation (St. Bruno) and other pungent “relief” smells; synaesthetic sensory metaphors (smell→colour/sound); self-interrupting self-corrections (e.g., “was it?”, “surely…”, “or did I mean…?”); self-aware narration about telling/following a story; vivid brand/food list; stealth/eavesdropping register (“stealing at the doors”); evidence-destruction detail (half-burned marriage certificate in an incinerator); occasional punning inside the “menu list”.
   - **Likely identity (if any):** unknown.
   - **Pages:** Pages/cains_jawbone_page_7.md, Pages/cains_jawbone_page_44.md, Pages/cains_jawbone_page_45.md, Pages/cains_jawbone_page_55.md
   - **Confidence:** `LIKELY`

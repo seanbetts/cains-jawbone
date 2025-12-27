@@ -17,7 +17,7 @@ The picture of the Old Mill at Bramley, with its medlar tree overhanging the wat
 - **Voice/tells:**
   - Sensory (smell → colour/sound) and self-correcting (“or did I mean…”).
 - **Ordering hypotheses:**
-  - MAYBE: `N16` smell-synaesthesia voice, but treat as edge-overlap until a second non-sensory anchor appears (Typhoon/incinerator/Henry/Hodge).
+  - MAYBE: `N16` smell-synaesthesia voice; also matches the self-correcting sensory-first register and tobacco routine (“first cigarette…”) seen in `N16`, but keep as edge-overlap until a second Henry/Hodge/incinerator/Typhoon anchor appears.
   - MAYBE: a date-anchor page (Aug 5 via Gowrie Conspiracy) for `N16`, but unplaced within the cluster unless a second calendar anchor appears in the same voice.
 - **Disconfirming evidence:**
   - If the “holiday” reference is merely associative and the hard/gentle pattern never reappears or yields structure.

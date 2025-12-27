@@ -351,8 +351,10 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
       - **Why:**
         - Pages/cains_jawbone_page_45.md’s “What had I actually seen?” witness-recap posture can naturally be followed by Pages/cains_jawbone_page_44.md’s meta “gift of telling… a story vividly” self-critique plus a more structured “The position was this…” Henry-problem summary.
         - Pages/cains_jawbone_page_44.md’s incinerator evidence detail (half-burned marriage certificate) is compatible with Pages/cains_jawbone_page_45.md’s “great building of many flats” setting (shared-building disposal/incinerator is plausible, though not explicit), making the pair read like two passes over the same episode (raw recall → coherent restatement).
+        - Pages/cains_jawbone_page_45.md hedges on the name (“Henry—surely I had heard him called so—”), while Pages/cains_jawbone_page_44.md treats Henry as a known figure with an explicit “problem” (second wife’s brother; marriage certificate), consistent with later clarification/reconstruction after the initial sighting.
       - **Disconfirming evidence:**
         - A later phrase-level continuation places Pages/cains_jawbone_page_44.md clearly before Pages/cains_jawbone_page_7.md (or clearly after some other non-`N16` page), making this in-cluster tail placement unlikely.
+        - If Pages/cains_jawbone_page_45.md’s “surely I had heard him called so” is shown to be ironic/stylistic (not genuine uncertainty), this knowledge-progression support for Pages/cains_jawbone_page_45.md → Pages/cains_jawbone_page_44.md weakens.
     - **Sequence C — Henry problem (setup) → Typhoon lock** (confidence: `MAYBE`)
       - **Pages (ordered):** Pages/cains_jawbone_page_44.md → Pages/cains_jawbone_page_7.md → Pages/cains_jawbone_page_45.md
       - **Why:**

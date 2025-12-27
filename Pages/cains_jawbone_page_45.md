@@ -63,7 +63,7 @@ LIKELY WORDPLAY
   - CERTAIN: add to Henry-occurrence cluster.
   - CERTAIN: follows Pages/cains_jawbone_page_7.md (*Typhoon* reread → “now was the hour…” setup → opening Typhoon quote).
     - Also reads as an intentional boundary echo: Pages/cains_jawbone_page_7.md ends “as far from English as the Poles,” and this page begins “half Pole, half Frenchman”.
-  - LIKELY: followed (not necessarily immediately) by Pages/cains_jawbone_page_44.md as a debrief/structured restatement of Henry’s problem (witness-recap → “gift of telling… a story vividly” + “The position was this…”).
+  - LIKELY: followed (not necessarily immediately) by Pages/cains_jawbone_page_44.md as a debrief/structured restatement of Henry’s problem (witness-recap → “gift of telling… a story vividly” + “The position was this…”), with the tentative “Henry—surely I had heard him called so—” resolving into a more informed “Henry’s problem” exposition.
   - MAYBE: alternative placement where Pages/cains_jawbone_page_44.md is an in-cluster setup before Pages/cains_jawbone_page_7.md.
   - MAYBE: “led up the garden” echoes Pages/cains_jawbone_page_29.md (garden/deception/old man thread).
 - **Disconfirming evidence:**

@@ -19,7 +19,7 @@ I sometimes wish, and I wished then, that I had the gift of telling, or at least
   - Smell-centric perception (MAYBE animal-coded); self-critique about storytelling.
 - **Ordering hypotheses:**
   - CERTAIN: add to Henry-occurrence cluster.
-  - LIKELY: debrief after the Typhoon lock (Pages/cains_jawbone_page_7.md → Pages/cains_jawbone_page_45.md → Pages/cains_jawbone_page_44.md): witness-recap (“What had I actually seen?”) → self-critique about telling/following a story vividly + structured “Henry’s problem” summary.
+  - LIKELY: debrief after the Typhoon lock (Pages/cains_jawbone_page_7.md → Pages/cains_jawbone_page_45.md → Pages/cains_jawbone_page_44.md): witness-recap (incl. unsure “Henry” naming) → self-critique about telling/following a story vividly + structured “Henry’s problem” summary.
   - MAYBE: alternative placement as a setup before the Typhoon lock (Pages/cains_jawbone_page_44.md → Pages/cains_jawbone_page_7.md → Pages/cains_jawbone_page_45.md).
   - MAYBE: links to document/will/forgery/burning-evidence motif pages.
 - **Disconfirming evidence:**
