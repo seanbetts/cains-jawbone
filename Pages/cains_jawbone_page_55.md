@@ -16,6 +16,7 @@ The picture of the Old Mill at Bramley, with its medlar tree overhanging the wat
   - Cigarette routine: “first cigarette of the day”.
 - **Voice/tells:**
   - Sensory (smell → colour/sound) and self-correcting (“or did I mean…”).
+  - LIKELY: same smell-forward voice as Pages/cains_jawbone_page_44.md (“Smells meant a lot to me”) and Pages/cains_jawbone_page_7.md (odour-as-relief).
 - **Ordering hypotheses:**
   - MAYBE: `N16` smell-synaesthesia voice; also matches the self-correcting sensory-first register and tobacco routine (“first cigarette…”) seen in `N16`, but keep as edge-overlap until a second Henry/Hodge/incinerator/Typhoon anchor appears.
   - MAYBE: a date-anchor page (Aug 5 via Gowrie Conspiracy) for `N16`, but unplaced within the cluster unless a second calendar anchor appears in the same voice.
