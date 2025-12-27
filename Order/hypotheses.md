@@ -343,6 +343,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
       - **Why:**
         - Pages/cains_jawbone_page_7.md frames “now” as the exact moment Renard‑Beinsky “had risen… for the sake of the investigating judge,” and Pages/cains_jawbone_page_45.md opens by restating that same moment (“It was when that half Pole, half Frenchman… got… out of bed”), then continues with Typhoon-specific names (Hélène, absinthe).
         - In the page-body corpus, “Typhoon” appears only on Pages/cains_jawbone_page_7.md and Pages/cains_jawbone_page_45.md, supporting a tight within-voice continuation.
+        - Link-word hinge: Pages/cains_jawbone_page_7.md ends “as far from English as the Poles,” and Pages/cains_jawbone_page_45.md begins “that half Pole, half Frenchman,” reading like an intentional boundary echo.
       - **Disconfirming evidence:**
         - Another page is found to contain the same Typhoon/Renard‑Beinsky line in its page body, or the “half Pole…” passage is shown to be a detachable quotation unrelated to Pages/cains_jawbone_page_7.md’s setup.
     - **Sequence B — Henry problem setup (placement around the Typhoon lock)** (confidence: `MAYBE`)
