@@ -42,7 +42,7 @@ LIKELY WORDPLAY
   - CERTAIN: precedes Pages/cains_jawbone_page_19.md (both use the knob + Mr. Hall summons; p19 says he “came into the room again” and “Mr. Hall” appears only on these two pages).
   - MAYBE: part of a mid‑August daybook run (Aug 18 anchor); could sit near Pages/cains_jawbone_page_10.md (Hyacinth’s day Aug 16) and Pages/cains_jawbone_page_99.md (Potsdam “closing day” Aug 17) if date anchors are consecutive for this narrator.
 - **Disconfirming evidence:**
-  - If later evidence makes “powerful glass” an unequivocally hand-held optical tool operated by the narrator (human-only physical action), treat this page as a shared domestic-scene overlap rather than core `N02`.
+  - If later evidence makes “powerful glass” an unequivocally hand-held optical tool operated by the narrator (human-only physical action), downgrade this page from core `N02` to shared domestic-scene overlap (it would still be adjacent to Pages/cains_jawbone_page_19.md by the Mr. Hall call-bell mechanic).
   - If Guido/Kilmarnock/Belmerino are later tied to a different date or not intended as calendar anchors.
 - **Research needed:**
   - Resolved: Guido/Bologna + Kilmarnock/Balmerino both point to Aug 18 (see Indexes/research_queue.md).
