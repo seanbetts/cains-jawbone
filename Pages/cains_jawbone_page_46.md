@@ -21,6 +21,7 @@ In one way, of course, I was glad they were married. I had always been rather a 
   - CERTAIN: Thomas De Quincey, “Second Paper on Murder Considered as One of the Fine Arts” (contains “The original ground of the transaction appears to have been sentimental: ‘He was my friend,’ says the murderous doctor; ‘he was dear to me.’”): https://en.wikisource.org/wiki/Second_Paper_on_Murder_considered_as_One_of_the_Fine_Arts
 - **Motifs/continuity hooks:**
   - Family/purity obsession.
+  - LIKELY: Skye/pedigree echo: compare Pages/cains_jawbone_page_19.md’s “my people… McCrimmons” line (Skye association) with this page’s “our island” + Maltese breed-rumour framing.
   - Food: “provided a chop for me” (strong animal/dog POV cue).
   - Murder continuity: “the one I killed in the matter of Jasmine” (links to jasmine motif pages; compare Pages/cains_jawbone_page_99.md’s “she wasn’t the one I’d killed” alongside a Jasmine reference).
   - LIKELY: “matter of Jasmine” points to the jasmine/cat thread (cf. cat “Jasmine” on Pages/cains_jawbone_page_22.md) and to Pages/cains_jawbone_page_88.md’s “Tom and Flora’s Jasmine” household reference.

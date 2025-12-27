@@ -1004,6 +1004,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - Shared domestic observer register (“listen to him”; “he said to her, out of a book”) plus Tom/Jasmine household continuity (“Tom and Flora’s Jasmine” ↔ “Some Tom… in the matter of Jasmine”) reads like a later domestic beat after the couple-argument pages.
         - Pages/cains_jawbone_page_46.md’s opening “glad they were married” reads naturally as a later state after the earlier “together too much”/“first quarrel” beats in the Aug chain.
         - Phrase-level anchor: “listen to him” / “listening to him” appears only on Pages/cains_jawbone_page_88.md and Pages/cains_jawbone_page_46.md (and is paired with the same quoted-book dynamic on both pages), strengthening the linkage beyond calendar reasoning.
+        - Shared Skye/pedigree register: Pages/cains_jawbone_page_19.md’s “my people… McCrimmons” (Skye association) aligns with Pages/cains_jawbone_page_46.md’s “our island” + Maltese breed-rumour framing, supporting continuity of the same dog narrator across the late-year beat.
         - Pages/cains_jawbone_page_46.md’s “not the one I killed in the matter of Jasmine” echoes Pages/cains_jawbone_page_99.md’s “she wasn’t the one I’d killed” alongside a Jasmine reference, supporting shared narrator continuity across the dog segment.
       - **Disconfirming evidence:**
         - Pages/cains_jawbone_page_46.md’s “visited England…” clue is shown not to be a Chambers-*Book of Days* daybook hook (so the Dec 14 placement collapses).
