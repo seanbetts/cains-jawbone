@@ -21,7 +21,7 @@ Then came Hyacinth’s day. He laughed when he remembered that, as we were walki
   - Social observation + mild contempt (Boots’ speech; “childish”); sexual/romantic weariness (“tire of her already”).
 - **Ordering hypotheses:**
   - LIKELY: follows Pages/cains_jawbone_page_39.md (p39 ends with a bet being made; p39’s “two all for that year” reads as a tied running score that this page’s “third point” would break; this page explicitly “went back two days and formulated their bet…”, and its “went back two days” aligns with p39’s Aug 14 anchor if this page’s Hyacinth day is Aug 16).
-  - LIKELY: precedes Pages/cains_jawbone_page_99.md as the next daybook beat (Hyacinth’s day → “closing day in Potsdam”), reinforced by the accessory/phrasing carry-over: this page ends “My mistress wore them” and Pages/cains_jawbone_page_99.md opens “And she wore…”, and both use the distinctive “…, as X … called them” parenthetical with a Jasmine reference (see Order/hypotheses.md `N02`).
+  - CERTAIN: precedes Pages/cains_jawbone_page_99.md as the next daybook beat (Hyacinth’s day → “closing day in Potsdam”), reinforced by the accessory/phrasing carry-over: this page ends “My mistress wore them” and Pages/cains_jawbone_page_99.md opens “And she wore…”, and both use the distinctive “…, as X … called them” parenthetical with a Jasmine reference (see Order/hypotheses.md `N02`).
 - **Disconfirming evidence:**
   - If “Hyacinth’s day/Jasmine’s day” are shown to be private nicknames rather than public calendar anchors.
   - If “jossers” on Pages/cains_jawbone_page_99.md is not the cutting/adjusting tool for the bow ends (weakening the singular/plural vocabulary continuity read).

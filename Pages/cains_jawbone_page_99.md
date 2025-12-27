@@ -24,7 +24,7 @@ And she wore a mauve love-knot on her breast, and the ends were unequal. He said
   - CERTAIN: “closing day in Potsdam” points to Frederick II’s death at Sanssouci (Potsdam) on 17 Aug 1786 (EB1911): https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Frederick_II._of_Prussia.
 - **Ordering hypotheses:**
   - CERTAIN: precedes Pages/cains_jawbone_page_8.md (the unequal love‑knot/bow + missing “jossers” appears only here; Page 8’s “Later… the same bow… trimmed the left end” reads as the immediate follow-on).
-  - LIKELY: follows Pages/cains_jawbone_page_10.md as the next daybook beat (Aug 16 → Aug 17), reinforced by the accessory/phrasing carry-over: Pages/cains_jawbone_page_10.md ends “My mistress wore them” and this page opens “And she wore…”, and both use the distinctive “…, as X … called them” parenthetical with a Jasmine reference (see Order/hypotheses.md `N02`).
+  - CERTAIN: follows Pages/cains_jawbone_page_10.md as the next daybook beat (Aug 16 → Aug 17), reinforced by the accessory/phrasing carry-over: Pages/cains_jawbone_page_10.md ends “My mistress wore them” and this page opens “And she wore…”, and both use the distinctive “…, as X … called them” parenthetical with a Jasmine reference (see Order/hypotheses.md `N02`).
 - **Disconfirming evidence:**
   - If “killed” refers to an animal kill or metaphor rather than one of the in-world murders.
   - If “jossers” is not the cutting/adjusting tool for the bow ends (weakening the plural-only noun continuity with Pages/cains_jawbone_page_10.md).
