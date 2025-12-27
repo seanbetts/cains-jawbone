@@ -846,13 +846,21 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
     - `N02` dog POV date-layer subset: Pages/cains_jawbone_page_8.md, Pages/cains_jawbone_page_10.md, Pages/cains_jawbone_page_19.md
   - **Disconfirming evidence:** dates don’t align when verified, or “day” terms are private nicknames rather than calendar anchors.
 
-- **Cluster:** Mr. Hall + knob mechanism (confidence: `LIKELY`)
+- **Cluster:** Mr. Hall + knob mechanism (confidence: `CERTAIN`)
   - **Pages:** Pages/cains_jawbone_page_8.md, Pages/cains_jawbone_page_19.md
   - **Rationale:** Both pages feature “twiddling” a (black/polished) knob followed by Mr. Hall entering; suggests the same scene/device.
   - **Key anchors:** repeated Mr. Hall entrances; knob described as black/red vs polished.
   - **Sub-strands (working):**
     - `N02` dog POV scene-mechanic anchor: Pages/cains_jawbone_page_8.md, Pages/cains_jawbone_page_19.md
   - **Disconfirming evidence:** later pages show multiple unrelated Mr. Hall contexts or different mechanisms.
+  - **Phase 4 internal ordering hypotheses (Mr. Hall + knob mechanism):**
+    - **Sequence A — knob twiddled → Mr. Hall “again”** (confidence: `CERTAIN`)
+      - **Pages (ordered):** Pages/cains_jawbone_page_8.md → Pages/cains_jawbone_page_19.md
+      - **Why:**
+        - Pages/cains_jawbone_page_8.md ends with “he twiddled the black knobby thing, and Mr. Hall burst in upon us,” while Pages/cains_jawbone_page_19.md opens with “He twiddled the polished knob and Mr. Hall came into the room again.”
+        - “Mr. Hall” appears only on these two pages in the corpus, making the “again” reference best explained as immediate continuity.
+      - **Disconfirming evidence:**
+        - Another page is found that uses the same knob/Mr. Hall entrance mechanic in a way that better accounts for Pages/cains_jawbone_page_19.md’s “again,” or later context forces these as different settings (two unrelated Mr. Halls).
 
 - **Cluster:** `N10` Will/document eavesdropper voice (confidence: `MAYBE`)
   - **Pages:** Pages/cains_jawbone_page_12.md, Pages/cains_jawbone_page_14.md
@@ -960,7 +968,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - Pages/cains_jawbone_page_39.md ↔ Pages/cains_jawbone_page_10.md: bet setup (“They made a bet.”) → bet expansion (“went back two days and formulated their bet…”); the “two all for that year” (tied running score) sets up Pages/cains_jawbone_page_10.md’s “third point”; and the “two days” aligns with the Aug 14 → Aug 16 daybook anchors if intended (George Combe died 14 Aug 1858; DNB: https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Combe,_George).
         - Pages/cains_jawbone_page_10.md ↔ Pages/cains_jawbone_page_99.md: `MAYBE` bridge via consecutive mid‑August daybook anchors (Aug 16 → Aug 17) plus light style echoes (see resolved check below); treat as the weakest link in the spine.
         - Pages/cains_jawbone_page_99.md ↔ Pages/cains_jawbone_page_8.md: unequal bow ends + missing “jossers” → “Later… same bow… trimmed the left end.”
-        - Pages/cains_jawbone_page_8.md ↔ Pages/cains_jawbone_page_19.md: call-bell/knob → Mr. Hall entry repeats (“burst in” → “came into the room again”); both pages carry Aug 18 “to-day” anchors (Pages/cains_jawbone_page_19.md’s “Human Comedy” points to Balzac’s death on 18 Aug 1850: https://en.wikisource.org/wiki/The_New_International_Encyclop%C3%A6dia/Balzac,_Honor%C3%A9_de), with Pages/cains_jawbone_page_19.md’s “Yesterday…” aligning naturally with the Aug 17 anchor on Pages/cains_jawbone_page_99.md.
+        - Pages/cains_jawbone_page_8.md ↔ Pages/cains_jawbone_page_19.md: the call-bell/knob → Mr. Hall entry mechanic is near-direct continuation (“burst in” → “came into the room again”); “Mr. Hall” appears only on these two pages, so treat Pages/cains_jawbone_page_8.md → Pages/cains_jawbone_page_19.md as a **CERTAIN local adjacency** even if the broader spine remains `LIKELY`. Both pages also carry Aug 18 “to-day” anchors (Pages/cains_jawbone_page_19.md’s “Human Comedy” points to Balzac’s death on 18 Aug 1850: https://en.wikisource.org/wiki/The_New_International_Encyclop%C3%A6dia/Balzac,_Honor%C3%A9_de), with Pages/cains_jawbone_page_19.md’s “Yesterday…” aligning naturally with the Aug 17 anchor on Pages/cains_jawbone_page_99.md.
       - **Disconfirming evidence:**
         - “Tate” is shown to be a different referent on one of the pages (not sugar), or the couple/scene proves incompatible across the run.
         - The “year” tally on Pages/cains_jawbone_page_88.md/Pages/cains_jawbone_page_39.md is shown to be about different things (different people, different contest), breaking the bridge.
