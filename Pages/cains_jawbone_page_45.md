@@ -62,6 +62,7 @@ LIKELY WORDPLAY
 - **Ordering hypotheses:**
   - CERTAIN: add to Henry-occurrence cluster.
   - CERTAIN: follows Pages/cains_jawbone_page_7.md (*Typhoon* reread → “now was the hour…” setup → opening Typhoon quote).
+    - Also reads as an intentional boundary echo: Pages/cains_jawbone_page_7.md ends “as far from English as the Poles,” and this page begins “half Pole, half Frenchman”.
   - MAYBE: linked to Pages/cains_jawbone_page_44.md (Henry problem/evidence register), but adjacency is not locked.
   - MAYBE: “led up the garden” echoes Pages/cains_jawbone_page_29.md (garden/deception/old man thread).
 - **Disconfirming evidence:**
