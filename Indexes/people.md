@@ -16,7 +16,7 @@ Template:
   - **Tells:** LIKELY actor (played Lesurques); LIKELY serial “intended” (has an “intended fifth”); associated with (possibly toxic) “Emperor’s Peg” at a ruined lighthouse; has a “great voice” linked to a “capstan bar”; appears as a subordinate who stoops/cleans and handles bodies; object of romance (“ready to love”); described as having multiple “killings” and a “latest victim” with blood present; later pursued by police (“flying squad”); linked to burying a corpse with “only the eyes” showing; also appears as a husband/guide in social scenes; linked to a half-burned marriage certificate; seen bending over a corpse of his own making; framed as “doomed to destroy… for family reasons”; explicit “third” (family lawyer) and “fourth” (chardlady) victims; described as an investigator (“peerless investigator”).
   - **Pronouns/relationships:** described as “the angel”; sometimes an absent advisor; sometimes an assistant obeying signals.
   - **Pages:** Pages/cains_jawbone_page_2.md, Pages/cains_jawbone_page_4.md, Pages/cains_jawbone_page_5.md, Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_16.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_26.md, Pages/cains_jawbone_page_31.md, Pages/cains_jawbone_page_32.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_41.md, Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_44.md, Pages/cains_jawbone_page_45.md, Pages/cains_jawbone_page_47.md, Pages/cains_jawbone_page_49.md, Pages/cains_jawbone_page_58.md, Pages/cains_jawbone_page_60.md, Pages/cains_jawbone_page_63.md, Pages/cains_jawbone_page_68.md, Pages/cains_jawbone_page_71.md, Pages/cains_jawbone_page_76.md, Pages/cains_jawbone_page_77.md, Pages/cains_jawbone_page_78.md, Pages/cains_jawbone_page_80.md, Pages/cains_jawbone_page_82.md, Pages/cains_jawbone_page_83.md, Pages/cains_jawbone_page_85.md, Pages/cains_jawbone_page_86.md, Pages/cains_jawbone_page_87.md, Pages/cains_jawbone_page_91.md, Pages/cains_jawbone_page_92.md, Pages/cains_jawbone_page_94.md, Pages/cains_jawbone_page_97.md, Pages/cains_jawbone_page_100.md
-  - **Notes:** MAYBE multiple different “Henrys” across the book; do not merge/split without stronger anchors (surname, role, setting continuity). Resolved check (2025-12-25, `N12` falsifier): “Henry” appears in incompatible roles across `N12` sub-strands (killer/suspect under pursuit vs “peerless investigator”) → treat name-only matches as non-binding.
+  - **Notes:** MAYBE multiple different “Henrys” across the book; do not merge/split without stronger anchors (surname, role, setting continuity). For clustering, treat “Henry” as an overloaded label and require a second non-name anchor (place/quote/object/voice tell) before linking pages. Resolved check (2025-12-25, `N12` falsifier): “Henry” appears in incompatible roles across `N12` sub-strands (killer/suspect under pursuit vs “peerless investigator”) → treat name-only matches as non-binding.
 
 - `P02` — Names/aliases: Casy Ferris
   - **Tells:** down-dropped eyes; “to-day is the day” (event day); father compared to a “valetudinarian walrus”.
@@ -106,7 +106,7 @@ Template:
   - **Tells:** addressed directly in will/inheritance talk (“leave everything to me?” / “do just as you think fit, May”).
   - **Pronouns/relationships:** “she” in overheard dialogue; companion (unnamed).
   - **Pages:** Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_71.md, Pages/cains_jawbone_page_75.md, Pages/cains_jawbone_page_80.md, Pages/cains_jawbone_page_98.md, Pages/cains_jawbone_page_100.md
-  - **Notes:** MAYBE linked to Page 12’s will/documents scene; Pages 71/75 may also be “May” as month/May-blossom rather than the person (treat cautiously).
+  - **Notes:** MAYBE linked to Page 12’s will/documents scene. CERTAIN May-as-person: Pages/cains_jawbone_page_14.md (direct address), Pages/cains_jawbone_page_80.md (“do my best for May”); LIKELY May-as-person but with pun-layer: Pages/cains_jawbone_page_98.md (“I thought of May. May be…”). MAYBE month/May-blossom (“red May” / “blight on the May”) or simile: Pages/cains_jawbone_page_71.md, Pages/cains_jawbone_page_75.md, Pages/cains_jawbone_page_100.md.
 
 - `P17` — Names/aliases: Janetta Sheringham
   - **Tells:** voice resemblance reference (“like and yet not like”).
@@ -253,10 +253,10 @@ Template:
   - **Notes:** Track whether this is an allusive “Kitchener” name or an in-world character.
 
 - `P41` — Names/aliases: Alexander; “Ecky” (nickname; uncertain)
-  - **Tells:** sends an invitation to a private view; appears in jasmine-bowl scene; calls himself Alexander and notes he was called “Ecky” when a boy; worries that “the hard stuff” would ruin his hand/income; Aquarius ↔ Gemini wordplay; met “that evening” and nearly falls on the narrator’s nose.
+  - **Tells:** sends an invitation to a private view; appears in jasmine-bowl scene (as “young Alexander”); Page 43 embeds a *The Wrecker* (1892) quotation (“Alexander’s my name… Ecky…”), plus “ruin my hand” and Aquarius↔Gemini wordplay; Page 48 (Dog POV) meets “Ecky” “that evening” (in-scene encounter).
   - **Pronouns/relationships:** called “young” in one context.
   - **Pages:** Pages/cains_jawbone_page_37.md, Pages/cains_jawbone_page_43.md, Pages/cains_jawbone_page_48.md
-  - **Notes:** MAYBE multiple different Alexanders; this entry tentatively links Pages 37 and 43 pending stronger anchors.
+  - **Notes:** MAYBE multiple different Alexanders. Treat Pages/cains_jawbone_page_43.md’s Alexander/Ecky line as a quotation-layer anchor (not proof of narrator identity) unless a second non-quotation tell recurs. Do not merge Page 37’s “young Alexander” with Page 48’s “Ecky” on name alone.
 
 - `P42` — Names/aliases: Sonia Gordon
   - **Tells:** referenced in “tragic fortnight” memory; elbow-dimple comparison.
