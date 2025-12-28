@@ -783,10 +783,10 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - MAYBE: Pages/cains_jawbone_page_83.md’s “mal de mer” (sea-sickness) simile echoes Pages/cains_jawbone_page_73.md’s Marseille/old-Port initiation memory (travel/foreign-language register continuity).
       - **Disconfirming evidence:**
         - Pages/cains_jawbone_page_83.md’s “old man”/Henry context is later shown to be incompatible with Pages/cains_jawbone_page_74.md’s OGPU/Leningrad scene (distinct voices or settings).
-    - **Prelude beat — May/eye-strike (not adjacent)** (confidence: `MAYBE`)
+    - **Related page — May/eye-strike (uncertain)** (confidence: `MAYBE`)
       - **Pages:** Pages/cains_jawbone_page_71.md
       - **Why:**
-        - Pages/cains_jawbone_page_71.md supplies “red May” language and a concrete eye-strike by Henry (“hit me… in the eye”), which could explain Pages/cains_jawbone_page_74.md/Pages/cains_jawbone_page_75.md’s repeated eyesight failure and the “May” hinge (“blight on the May”).
+        - Pages/cains_jawbone_page_71.md supplies “red May” language and a concrete eye/vision stressor by Henry (“hit me… in the eye”), aligning with `N06`’s flower register + recurring eyesight weakness (but without the OGPU/documents/old-man anchors).
         - MAYBE: Pages/cains_jawbone_page_71.md’s “direct descent” joke + Hamlet quote sits near Pages/cains_jawbone_page_73.md’s inherited-name framing (“inherited one… Hamlet’s one”), a compatible rhetorical/literary signature for `N06` (low-signal; many pages quote *Hamlet*).
       - **Disconfirming evidence:**
         - Pages/cains_jawbone_page_71.md’s Henry/May context is later anchored to a different narrator/setting, or “May” resolves as purely seasonal with no cross-page continuity.
