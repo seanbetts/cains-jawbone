@@ -66,7 +66,7 @@ These are **cross-narrator** groupings intended to reduce the search space for P
   - **Key anchors:** Calabar bean/physostigma; digitalis; hellebore; lobelia/Indian-tobacco; wild jasmine/roses; marigold/calendula; Mithradates inoculation; failing eyesight with “documents”; “job/instructions” framing.
   - **Sub-strands (working):**
     - `N12` poison logistics: Pages/cains_jawbone_page_6.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_29.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_58.md, Pages/cains_jawbone_page_59.md, Pages/cains_jawbone_page_80.md (MAYBE extension)
-    - `N03` Clement/pills/flowers: Pages/cains_jawbone_page_3.md, Pages/cains_jawbone_page_24.md, Pages/cains_jawbone_page_27.md, Pages/cains_jawbone_page_32.md (MAYBE: Pages/cains_jawbone_page_30.md)
+    - `N03` Clement/pills/flowers: Pages/cains_jawbone_page_3.md, Pages/cains_jawbone_page_24.md, Pages/cains_jawbone_page_27.md, Pages/cains_jawbone_page_30.md, Pages/cains_jawbone_page_32.md
     - `N06` flowers/documents/OGPU: Pages/cains_jawbone_page_73.md, Pages/cains_jawbone_page_74.md, Pages/cains_jawbone_page_75.md, Pages/cains_jawbone_page_83.md, Pages/cains_jawbone_page_71.md (MAYBE extension)
     - `N13` host/guest poisoning: Pages/cains_jawbone_page_86.md, Pages/cains_jawbone_page_87.md
     - Bridge singleton candidates: `N26` (Pages/cains_jawbone_page_54.md), `N31` (Pages/cains_jawbone_page_40.md)
@@ -94,7 +94,7 @@ These are **cross-narrator** groupings intended to reduce the search space for P
   - **Rationale:** These pages share a crime/detection frame (explicitly or via detective canon allusions) and/or hands-on violence/corpse familiarity, often with London-police texture.
   - **Key anchors:** Sherlock/Mycroft and Sexton Blake; “Scotland Yard”; “Black Museum”; “Speckled Band” riff; window-throw vignette; “carnal, bloody and unnatural acts” frame.
   - **Sub-strands (working):**
-    - `N20` (Bloomsbury/nomenclature + grim-scene): Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_31.md, Pages/cains_jawbone_page_49.md (MAYBE extension)
+    - `N20` (Bloomsbury/nomenclature + grim-scene): Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_31.md, Pages/cains_jawbone_page_49.md
     - `N08` (King narrator; Holmes/Blake + clock/transform habits): Pages/cains_jawbone_page_82.md, Pages/cains_jawbone_page_85.md, Pages/cains_jawbone_page_94.md
     - `N11` (De’Ath / “Black Museum”): Pages/cains_jawbone_page_91.md
     - `N24` (Scotland Yard collapse / Kursaal): Pages/cains_jawbone_page_100.md
@@ -418,8 +418,8 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Next falsification check:** search for a third page that repeats one of the unique N19 anchors (Sir Roland Mowthalorn / gin-faced Annie / “Emperor’s Peg” / ruined lighthouse / Lesurques↔Cirque pun) to decide whether Pages/cains_jawbone_page_4.md and Pages/cains_jawbone_page_5.md are adjacent or merely co-clustered.
 
 - **Cluster:** `N20` Bloomsbury/nomenclature + grim-scene voice (confidence: `LIKELY`)
-  - **Pages:** Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_31.md, Pages/cains_jawbone_page_49.md (MAYBE extension)
-  - **Rationale:** Both pages foreground classed self-consciousness and wordplay about naming, framed against grim bodily/violent contexts and “reckon with Henry” pressure.
+  - **Pages:** Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_31.md, Pages/cains_jawbone_page_49.md
+  - **Rationale:** Pages 13 and 31 foreground classed self-consciousness and wordplay about naming, framed against grim bodily/violent contexts and “reckon with Henry” pressure; Page 49 is retained via a direct Blake quote-continuation lock into Page 13.
   - **Key anchors:** “Bloomsbury”; “Newdigate fringe”; “nomenclature business”; “Caseus, ah!”; hand dropping to hip pocket.
   - **Disconfirming evidence:** the naming/wordplay is shown to be incidental, or the scenes are later explicitly narrated by different named speakers.
   - **Phase 4 internal ordering hypotheses (N20):**
@@ -552,7 +552,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
 
 - **Cluster:** `N32` “Type” classifier / gilded metaphors + Wilde-allusion voice (confidence: `LIKELY`)
   - **Pages:** Pages/cains_jawbone_page_62.md, Pages/cains_jawbone_page_65.md, Pages/cains_jawbone_page_89.md, Pages/cains_jawbone_page_90.md
-  - **Rationale:** A consistent narrator voice frames people as “types” and treats interpretation as competitive “harvest/gleaning”, with recurring gold/silver/green-leaf metaphors and embedded Wilde context (Earnest epigram; Whistler-to-Oscar jibe). Page 62 is a `MAYBE` extension on the gold/silver separation framing.
+  - **Rationale:** A consistent narrator voice frames people as “types” and treats interpretation as competitive “harvest/gleaning”, with recurring gold/silver/green-leaf metaphors and embedded Wilde context (Earnest epigram; Whistler-to-Oscar jibe). Page 62 is now treated as core due to the repeated gold/silver separation register (compare Page 89’s “gold… cleared out… remaining silver…”).
   - **Key anchors:** “I thought I knew the type”; “learned in a macabre way, even distinguished”; “pigeon-holing by type”; gold/silver visual metaphors (“gold… silver…”; “dissociate… gold… from the silver”); “You will, Oscar, you will.”
   - **Disconfirming evidence:** the repeated “type” judgement is shown to be a reused quotation, the dining/hunting vignette (Pages 89–90) is later anchored to a clearly different narrator from Page 65’s reading/typing competition, or Page 62’s gold/silver dissociation proves to be an unrelated one-off metaphor.
   - **Phase 4 internal ordering hypotheses (N32):**
