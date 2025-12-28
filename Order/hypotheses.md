@@ -132,6 +132,50 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
   - **Anchor:** `P33` Hodge appears only on these two pages, alongside the same Henry-focused “problem/evidence” register.
   - **Falsifier:** Hodge is shown to appear elsewhere (or is explicitly different across contexts), making the overlap coincidental rather than a shared episode.
 
+### Constraint cross-index (narrators)
+
+Directionless mapping from each constraint pair to narrator IDs (useful for cross-narrator joins).
+
+- **Cross-narrator constraints (current):** Pages/cains_jawbone_page_23.md ↔ Pages/cains_jawbone_page_24.md (`N40` ↔ `N03`); Pages/cains_jawbone_page_26.md ↔ Pages/cains_jawbone_page_58.md (`N16` ↔ `N12`).
+- Pages/cains_jawbone_page_3.md ↔ Pages/cains_jawbone_page_32.md — Narrator(s): N03 (confidence: `LIKELY`)
+- Pages/cains_jawbone_page_7.md ↔ Pages/cains_jawbone_page_45.md — Narrator(s): N16 (confidence: `CERTAIN`)
+- Pages/cains_jawbone_page_8.md ↔ Pages/cains_jawbone_page_19.md — Narrator(s): N02 (confidence: `CERTAIN`)
+- Pages/cains_jawbone_page_8.md ↔ Pages/cains_jawbone_page_99.md — Narrator(s): N02 (confidence: `LIKELY`)
+- Pages/cains_jawbone_page_10.md ↔ Pages/cains_jawbone_page_39.md — Narrator(s): N02 (confidence: `LIKELY`)
+- Pages/cains_jawbone_page_10.md ↔ Pages/cains_jawbone_page_99.md — Narrator(s): N02 (confidence: `CERTAIN`)
+- Pages/cains_jawbone_page_11.md ↔ Pages/cains_jawbone_page_41.md — Narrator(s): N17 (confidence: `LIKELY`)
+- Pages/cains_jawbone_page_12.md ↔ Pages/cains_jawbone_page_14.md — Narrator(s): N10 (confidence: `LIKELY`)
+- Pages/cains_jawbone_page_13.md ↔ Pages/cains_jawbone_page_31.md — Narrator(s): N20 (confidence: `LIKELY`)
+- Pages/cains_jawbone_page_13.md ↔ Pages/cains_jawbone_page_49.md — Narrator(s): N20 (confidence: `CERTAIN`)
+- Pages/cains_jawbone_page_17.md ↔ Pages/cains_jawbone_page_43.md — Narrator(s): N01 (confidence: `LIKELY`)
+- Pages/cains_jawbone_page_21.md ↔ Pages/cains_jawbone_page_36.md — Narrator(s): N12 (confidence: `LIKELY`)
+- Pages/cains_jawbone_page_22.md ↔ Pages/cains_jawbone_page_79.md — Narrator(s): N02 (confidence: `CERTAIN`)
+- Pages/cains_jawbone_page_23.md ↔ Pages/cains_jawbone_page_24.md — Narrator(s): N40 ↔ N03 (confidence: `CERTAIN`)
+- Pages/cains_jawbone_page_24.md ↔ Pages/cains_jawbone_page_30.md — Narrator(s): N03 (confidence: `LIKELY`)
+- Pages/cains_jawbone_page_26.md ↔ Pages/cains_jawbone_page_44.md — Narrator(s): N16 (confidence: `LIKELY`)
+- Pages/cains_jawbone_page_26.md ↔ Pages/cains_jawbone_page_58.md — Narrator(s): N16 ↔ N12 (confidence: `LIKELY`)
+- Pages/cains_jawbone_page_28.md ↔ Pages/cains_jawbone_page_50.md — Narrator(s): N39 (confidence: `LIKELY`)
+- Pages/cains_jawbone_page_29.md ↔ Pages/cains_jawbone_page_36.md — Narrator(s): N12 (confidence: `LIKELY`)
+- Pages/cains_jawbone_page_33.md ↔ Pages/cains_jawbone_page_34.md — Narrator(s): N25 (confidence: `LIKELY`)
+- Pages/cains_jawbone_page_35.md ↔ Pages/cains_jawbone_page_58.md — Narrator(s): N12 (confidence: `LIKELY`)
+- Pages/cains_jawbone_page_39.md ↔ Pages/cains_jawbone_page_88.md — Narrator(s): N02 (confidence: `LIKELY`)
+- Pages/cains_jawbone_page_42.md ↔ Pages/cains_jawbone_page_92.md — Narrator(s): N21 (confidence: `CERTAIN`)
+- Pages/cains_jawbone_page_48.md ↔ Pages/cains_jawbone_page_88.md — Narrator(s): N02 (confidence: `LIKELY`)
+- Pages/cains_jawbone_page_52.md ↔ Pages/cains_jawbone_page_53.md — Narrator(s): N25 (confidence: `LIKELY`)
+- Pages/cains_jawbone_page_54.md ↔ Pages/cains_jawbone_page_56.md — Narrator(s): N26 (confidence: `LIKELY`)
+- Pages/cains_jawbone_page_59.md ↔ Pages/cains_jawbone_page_60.md — Narrator(s): N12 (confidence: `LIKELY`)
+- Pages/cains_jawbone_page_61.md ↔ Pages/cains_jawbone_page_64.md — Narrator(s): N04 (confidence: `LIKELY`)
+- Pages/cains_jawbone_page_65.md ↔ Pages/cains_jawbone_page_90.md — Narrator(s): N32 (confidence: `LIKELY`)
+- Pages/cains_jawbone_page_66.md ↔ Pages/cains_jawbone_page_67.md — Narrator(s): N05 (confidence: `CERTAIN`)
+- Pages/cains_jawbone_page_68.md ↔ Pages/cains_jawbone_page_69.md — Narrator(s): N09 (confidence: `LIKELY`)
+- Pages/cains_jawbone_page_70.md ↔ Pages/cains_jawbone_page_95.md — Narrator(s): N09 (confidence: `LIKELY`)
+- Pages/cains_jawbone_page_73.md ↔ Pages/cains_jawbone_page_74.md — Narrator(s): N06 (confidence: `CERTAIN`)
+- Pages/cains_jawbone_page_76.md ↔ Pages/cains_jawbone_page_77.md — Narrator(s): N15 (confidence: `LIKELY`)
+- Pages/cains_jawbone_page_85.md ↔ Pages/cains_jawbone_page_94.md — Narrator(s): N08 (confidence: `LIKELY`)
+- Pages/cains_jawbone_page_86.md ↔ Pages/cains_jawbone_page_87.md — Narrator(s): N13 (confidence: `CERTAIN`)
+- Pages/cains_jawbone_page_89.md ↔ Pages/cains_jawbone_page_90.md — Narrator(s): N32 (confidence: `LIKELY`)
+- Pages/cains_jawbone_page_95.md ↔ Pages/cains_jawbone_page_96.md — Narrator(s): N09 (confidence: `LIKELY`)
+
 ## Clusters
 
 Template:
