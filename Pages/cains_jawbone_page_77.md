@@ -16,7 +16,7 @@ Compact, they call it ; but when I used it, I was feeling anything but so. Don�
 - **Voice/tells:**
   - Cool, reflective, slightly aesthetic about murder; distinguishes “public political” killing vs “my own”.
 - **Clustering hypotheses:**
-  - LIKELY: links strongly with Pages/cains_jawbone_page_76.md (named-victim setup → first killing).
+  - MAYBE: overlaps with Pages/cains_jawbone_page_76.md (named target “Green” ↔ “my first” + “Compact” tool) but lacks an explicit shared prop/phrase; treat as a candidate lock pending a third anchor (or an explicit Green mention).
 - **Disconfirming evidence:**
   - If “Perceval” is an in-world character rather than historical, or if “my first” refers to something non-lethal.
 - **Research needed:**

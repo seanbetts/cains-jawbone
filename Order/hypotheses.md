@@ -26,9 +26,6 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
 - **Constraint:** Pages/cains_jawbone_page_59.md ↔ Pages/cains_jawbone_page_60.md (confidence: `CERTAIN`)
   - **Anchor:** phrase-level failure→success pivot (“His silly bane had now definitely failed.” ↔ “I had sufficient knowledge to realise that I had succeeded.”) alongside the same Trinder/“figurehead beard” target framing.
   - **Falsifier:** “figurehead beard” is shown not to be Trinder and the “bane failed / succeeded” pivot is shown to be a generic rhetorical device reused elsewhere in a tighter match.
-- **Constraint:** Pages/cains_jawbone_page_76.md ↔ Pages/cains_jawbone_page_77.md (confidence: `LIKELY`)
-  - **Anchor:** victim explicitly named “Green” ↔ immediate aftermath of “my first” killing with the “Compact” tool.
-  - **Falsifier:** “my first” refers to something non-lethal, or the victim/context is later clearly not Green.
 - **Constraint:** Pages/cains_jawbone_page_85.md ↔ Pages/cains_jawbone_page_94.md (confidence: `CERTAIN`)
   - **Anchor:** unique self-name lock: Page 85’s schoolboy jibe “Kipling” as a transform of `KING` and Page 94’s explicit “my own name” seen in a window-sign (LIKELY `KING`), with Henry present in-scene on both pages.
   - **Falsifier:** the window-sign is shown not to be the narrator’s own name, or the “Kipling” name-jibe resolves to a different underlying name than `KING`.
@@ -149,6 +146,9 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
 - **Candidate:** Pages/cains_jawbone_page_95.md ↔ Pages/cains_jawbone_page_96.md (confidence: `MAYBE`)
   - **Anchor:** café/meeting beat: Page 96’s in-situ menu/tea waiting (“the only literature before me”) and “mysterious” meeting framing plausibly align with Page 95’s explicit Café Royal time-budget plus the immediate decision to write the hour-by-hour account.
   - **Falsifier:** Page 95’s opening is shown to be a pre-arrival travel beat incompatible with Page 96’s already-seated tea/menu scene, or Page 96 is later anchored to a non–Café Royal setting/voice.
+- **Candidate:** Pages/cains_jawbone_page_76.md ↔ Pages/cains_jawbone_page_77.md (confidence: `MAYBE`)
+  - **Anchor:** murder-as-genre voice overlap: Page 76 names “Green” as a target and debates “do the thing”, while Page 77 admits “it was my first” and names a specific tool (“Compact”); plausible continuity but lacks an explicit shared prop/phrase beyond generic “Henry” overlap.
+  - **Falsifier:** Page 77’s “my first” killing is later anchored to a different victim/episode than Page 76’s “Green” target, or Page 76’s “do the thing” resolves to a non-lethal act.
 
 ### Constraint cross-index (narrators)
 
@@ -187,7 +187,6 @@ Directionless mapping from each constraint pair to narrator IDs (useful for cros
 - Pages/cains_jawbone_page_66.md ↔ Pages/cains_jawbone_page_67.md — Narrator(s): N05 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_70.md ↔ Pages/cains_jawbone_page_95.md — Narrator(s): N09 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_73.md ↔ Pages/cains_jawbone_page_74.md — Narrator(s): N06 (confidence: `CERTAIN`)
-- Pages/cains_jawbone_page_76.md ↔ Pages/cains_jawbone_page_77.md — Narrator(s): N15 (confidence: `LIKELY`)
 - Pages/cains_jawbone_page_85.md ↔ Pages/cains_jawbone_page_94.md — Narrator(s): N08 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_86.md ↔ Pages/cains_jawbone_page_87.md — Narrator(s): N13 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_89.md ↔ Pages/cains_jawbone_page_90.md — Narrator(s): N32 (confidence: `CERTAIN`)
@@ -502,13 +501,13 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Resolved check:** Pages/cains_jawbone_page_80.md does not share phrase-level anchors with the coastal-house segment (86–87) and is now treated as a Sir Paul Trinder/aconite hosting scene (`N12` extension), not `N13` membership.
   - **Overlap candidate:** Pages/cains_jawbone_page_24.md preserves Yeats’s original continuation line (“Of Cathleen, the daughter of Houlihan.”) that Pages/cains_jawbone_page_87.md substitutes, and it shares a name overlap (“Caroline” vs “Caroline Jasmine”), but it lacks `N13`’s distinctive anchors (Mithradates inoculation; Whitman “pail” line; Sanders/bay-house setting; dead man’s letter/corpse imagery) → treat as quote-key/homonym overlap only and keep Pages/cains_jawbone_page_24.md in `N03` unless a second independent `N13` anchor emerges.
 
-- **Cluster:** `N15` “Green” victim + Compact syringe (first killing) voice (confidence: `LIKELY`)
+- **Cluster:** `N15` “Green” victim + Compact syringe (first killing) voice (confidence: `MAYBE`)
   - **Pages:** Pages/cains_jawbone_page_76.md, Pages/cains_jawbone_page_77.md
   - **Rationale:** A consistent self-justifying voice frames a named target (Green) and an explicitly admitted “first” killing, with a specific method/tool cue (Compact hypodermic) and a shared date-anchor habit (Perceval).
   - **Key anchors:** victim named Green; “it was my first”; “Compact” syringe; Spencer Perceval assassination reference.
   - **Disconfirming evidence:** “my first” is non-lethal, or Green/Perceval anchors resolve as unrelated allusions in different voices.
   - **Phase 4 internal ordering hypotheses (N15):**
-    - **Sequence A — resolve-to-act → first killing** (confidence: `LIKELY`)
+    - **Sequence A — resolve-to-act → first killing** (confidence: `MAYBE`)
       - **Pages (ordered):** Pages/cains_jawbone_page_76.md → Pages/cains_jawbone_page_77.md
       - **Why:**
         - Pages/cains_jawbone_page_76.md ends with the narrator weighing that they may have to “do the thing” themselves and “think it over,” while Pages/cains_jawbone_page_77.md immediately presents the narrator having used a specific “tool” (“Compact”) and calling it “my first,” which reads like the follow-through beat.
