@@ -104,6 +104,9 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
 
 ### Strong thread locks (not necessarily immediate neighbours)
 
+- **Constraint:** Pages/cains_jawbone_page_93.md ↔ Pages/cains_jawbone_page_97.md (confidence: `CERTAIN`)
+  - **Anchor:** unique internal-debate bundle: “Bunny and Perry” + “hammer and tongs” (tennis/venue metaphor) appears only on these two pages, alongside shared Cambridge wordplay (“Cambridge week” / “Cambridge or Thermopylae?”).
+  - **Falsifier:** only if a third page is found containing “Bunny and Perry” or the same “hammer and tongs” debate bundle, or later evidence anchors the two pages to incompatible narrators/settings.
 - **Constraint:** Pages/cains_jawbone_page_7.md ↔ Pages/cains_jawbone_page_45.md (confidence: `CERTAIN`)
   - **Anchor:** distinctive *Typhoon/Taifun* Renard‑Beinsky phrasing + Pole/half‑Pole framing.
   - **Falsifier:** the *Typhoon* layer is shown to be a detachable quotation reused by multiple narrators.
@@ -205,6 +208,7 @@ Directionless mapping from each constraint pair to narrator IDs (useful for cros
 - Pages/cains_jawbone_page_85.md ↔ Pages/cains_jawbone_page_94.md — Narrator(s): N08 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_86.md ↔ Pages/cains_jawbone_page_87.md — Narrator(s): N13 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_89.md ↔ Pages/cains_jawbone_page_90.md — Narrator(s): N32 (confidence: `CERTAIN`)
+- Pages/cains_jawbone_page_93.md ↔ Pages/cains_jawbone_page_97.md — Narrator(s): N07 (confidence: `CERTAIN`)
 
 ## Clusters
 

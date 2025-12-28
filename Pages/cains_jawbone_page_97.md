@@ -23,8 +23,7 @@ To have slept and to wake right up surrounded by an atmosphere in which Bunny an
   - CERTAIN: Leonidas is the Spartan king associated with Thermopylae (EB1911): https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Leonidas.
   - LIKELY: “Cambridge or Thermopylae?” contrasts Dr Paris (Cambridge) with Leonidas (Thermopylae).
 - **Clustering hypotheses:**
-  - LIKELY: clusters with Pages/cains_jawbone_page_93.md via the distinctive Bunny-and-Perry phrasing.
-  - MAYBE: links strongly with Pages/cains_jawbone_page_93.md (this page frames the “never done before” day setup + Cambridge wordplay; p93 reads like later evidence-weighing; see `Order/hypotheses.md` `N07` Sequence A).
+  - CERTAIN: links strongly with Pages/cains_jawbone_page_93.md via the distinctive Bunny-and-Perry “hammer and tongs” phrasing + Cambridge wordplay (“Cambridge week” / “Cambridge or Thermopylae?”). Treat as a continuity constraint `Pages/cains_jawbone_page_93.md ↔ Pages/cains_jawbone_page_97.md` (see `Order/hypotheses.md` constraints inventory; direction TBD).
 - **Disconfirming evidence:**
   - If “Bunny and Perry” is shown to be a generic metaphor independently reused by multiple narrators.
 - **Research needed:**

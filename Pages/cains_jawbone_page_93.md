@@ -25,7 +25,7 @@ Had not the author of Wails of a Tayside Inn said of them that they were the liv
 - **Voice/tells:**
   - Formal reasoning dramatised as internal tennis match (“Bunny and Perry, Pro and Con”).
 - **Clustering hypotheses:**
-  - MAYBE: links strongly with Pages/cains_jawbone_page_97.md (p97’s on-the-day “never done before” setup + Cambridge wordplay layer; this page reads like a later weighing of “tangible proof” vs “semi-conviction”; see `Order/hypotheses.md` `N07` Sequence A).
+  - CERTAIN: links strongly with Pages/cains_jawbone_page_97.md via the unique Bunny-and-Perry “hammer and tongs” phrasing + Cambridge wordplay (“Cambridge week” / “Cambridge or Thermopylae?”). Treat as a continuity constraint `Pages/cains_jawbone_page_93.md ↔ Pages/cains_jawbone_page_97.md` (see `Order/hypotheses.md` constraints inventory; direction TBD).
 - **Disconfirming evidence:**
   - If the “hat-cleaner” and “other” resolve as purely metaphorical (not actual suspects).
 - **Research needed:**
