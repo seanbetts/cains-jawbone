@@ -17,8 +17,8 @@ All the artist in me flared up. After all, my given name was world-famous as the
   - Initiation in “secret rooms” behind a port (continues into next page).
 - **Voice/tells:**
   - Performative and educated; toggles between art-identity, rhetoric, and sensual memory.
-- **Ordering hypotheses:**
-  - CERTAIN: continues directly into Pages/cains_jawbone_page_74.md (“hung round with photographs…”), implying adjacency `73 → 74`.
+- **Clustering hypotheses:**
+  - CERTAIN: `N06` orator/artist + flowers/documents voice; `Pages/cains_jawbone_page_73.md` and `Pages/cains_jawbone_page_74.md` share an explicit phrase-level continuation (“hung round with…”), treat as a high-signal continuity hook (Phase 4 adjacency check).
 - **Disconfirming evidence:**
   - Only if later evidence shows an editorial/transcription artifact (unlikely).
 - **Research needed:**

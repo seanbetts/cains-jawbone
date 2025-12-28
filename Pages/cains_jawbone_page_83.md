@@ -22,8 +22,9 @@ A flower-seller, fed ruddily, it seemed, on hope, broke in and would have made a
   - MAYBE: “mal de mer” (sea-sickness) simile echoes Pages/cains_jawbone_page_73.md’s Marseille/old-Port initiation memory (additional cosmopolitan/travel tell within `N06`).
 - **Voice/tells:**
   - Lyrical flower-cataloguing + abrupt attention shifts (newsboys, “news?” anxiety).
-- **Ordering hypotheses:**
-  - LIKELY: later extension of the `N06` flower/documents run, following Pages/cains_jawbone_page_73.md → Pages/cains_jawbone_page_74.md → Pages/cains_jawbone_page_75.md (flower-state progression: “red rose and the white only remained” → “two other flowers” → “red rose, the sole survivor”; plus shared “old man” + “she asked what he meant” conversational shape; see `Order/hypotheses.md` `N06` Sequence B). Not necessarily adjacent.
+- **Clustering hypotheses:**
+  - CERTAIN: `N06` flower/documents voice; shares Browning embedding (“Oh, to be in England”; “good news from Ghent”), an “old man” + companion scene frame, and a continuing flower-state motif (“red rose… sole survivor”).
+  - LIKELY: ties to Pages/cains_jawbone_page_74.md and Pages/cains_jawbone_page_75.md via the red-rose persistence + “old man”/conversation framing + the coin/metal-drop imagery (half-crowns simile ↔ dropped metallic object); treat as continuity hooks (Phase 4 placement checks), not asserted order in Phase 3.
 - **Disconfirming evidence:**
   - If the red-rose phrasing is generic and no other shared props/voices recur.
 - **Research needed:**

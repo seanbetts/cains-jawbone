@@ -23,10 +23,10 @@ photographs of young and laughing athletes, lads who had profited and gone on, a
   - LIKELY: “them” = the plural items bought secretly in Leningrad (photographs/prints/reproductions and/or documents), with the Goya reproduction likely one of the set.
 - **Voice/tells:**
   - Sensual + political; charged metaphors (“tense half-crowns… on marble”).
-- **Ordering hypotheses:**
-  - CERTAIN: follows Pages/cains_jawbone_page_73.md (direct continuation).
-  - LIKELY: precedes Pages/cains_jawbone_page_75.md (red+white flowers remain → “two other flowers” + marigolds; “them” bought secretly → “orange tinted documents”; eyesight failure persists).
-  - MAYBE: links to the “Head”/school-colours cluster (Pages/cains_jawbone_page_66.md–Pages/cains_jawbone_page_67.md) (treat as overlap-only unless a second school-specific anchor appears).
+- **Clustering hypotheses:**
+  - CERTAIN: `N06` orator/artist + flowers/documents/OGPU voice; ties strongly to Pages/cains_jawbone_page_73.md via phrase-level continuation plus shared rhetoric/sexual-politics register.
+  - LIKELY: ties to Pages/cains_jawbone_page_75.md via a shared bundle (flowers; “them” bought secretly ↔ “orange tinted documents”; eyesight failure) and to Pages/cains_jawbone_page_83.md via “red rose” persistence + “old man”/conversation framing; keep as continuity hooks (Phase 4 adjacency/placement checks), not asserted order in Phase 3.
+  - MAYBE: overlaps the “Head”/school-colours register; treat as overlap-only unless a second school-specific anchor recurs beyond “the Head”.
 - **Disconfirming evidence:**
   - If “Head” here is a different figure than the earlier headmaster, or if the “them” are not documents/objects that recur.
 - **Research needed:**

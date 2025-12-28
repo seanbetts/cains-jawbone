@@ -15,9 +15,9 @@ I saw to it that I should be for a moment alone among the marigolds. Thinking ki
   - Tobacco/plant remedies: “Indian tobacco” = “Indian-tobacco” (*Lobelia inflata*) (Grieve, *A Modern Herbal* (1931), “Indian-tobacco (Lobelia inflata LINN.)”): https://www.botanical.com/botanical/mgmh/l/lobeli38.html. Grieve notes tobacco-infusion is used as a horticultural insecticide (“An infusion of Tobacco is generally used in horticulture as an insecticide.”): https://www.botanical.com/botanical/mgmh/t/tobacc21.html, matching the surface “blight would be destroyed” reading.
 - **Voice/tells:**
   - Botanically literate; mixes classical/philological flexing with practical horticulture and courtship strategy.
-- **Ordering hypotheses:**
-  - LIKELY: follows Pages/cains_jawbone_page_74.md (red+white flowers → “two other flowers”; secret purchases → “orange tinted documents”; eyesight failure continues).
-  - LIKELY: precedes Pages/cains_jawbone_page_83.md as a later follow-through beat where the flower-state has progressed to “the red rose, the sole survivor” (compare Pages/cains_jawbone_page_74.md’s “red rose and the white only remained” and this page’s “two other flowers”).
-  - MAYBE: preceded by Pages/cains_jawbone_page_71.md as an “eye trouble / May” prelude (treat as tentative unless a stronger scene-continuity anchor appears).
+- **Clustering hypotheses:**
+  - CERTAIN: `N06` orator/artist + flowers/documents voice; shares the marigold/calendula + document/vision-failure bundle and “May”/hawthorn language with the surrounding `N06` pages.
+  - LIKELY: ties to Pages/cains_jawbone_page_74.md (flowers + secret purchases/documents + eyesight failure) and Pages/cains_jawbone_page_83.md (flower-state progression to a surviving red rose); treat as continuity hooks (Phase 4 placement checks), not asserted order in Phase 3.
+  - MAYBE: ties to Pages/cains_jawbone_page_71.md via May + eyesight/eye-stress (weaker fit; keep falsifiable).
 - **Disconfirming evidence:**
   - If the “documents” are unrelated to Page 74’s “them”, and the blight is purely metaphorical.
