@@ -20,9 +20,9 @@ Template:
   - **Signature tells:** fountain-pen fixation (“mottled black and silver Aquarius”); income tied to hand/skill (“ruin my hand”); desserts/cocktails treated as titled items; zodiac/astrology wordplay; occasional Scots-dialect quotation.
   - **Likely identity (if any):** Alexander (“Ecky”); MAYBE the same narrator who sits “between the Moon… and the Dawn.”
   - **Pages:** Pages/cains_jawbone_page_1.md, Pages/cains_jawbone_page_17.md, Pages/cains_jawbone_page_43.md
-  - **Confidence:** `LIKELY`
-  - **Disconfirming evidence:** the Aquarius/hand motif is later shown to be shared across unrelated narrators, or Alexander is explicitly a different POV than the Aquarius-pen narrator.
-  - **Notes:** Watch for recurring “Aquarius/Gemini” and “bad for the hand” phrases as hard anchors.
+  - **Confidence:** `CERTAIN`
+  - **Disconfirming evidence:** “Aquarius” is found elsewhere in page-body text, or Alexander (“Ecky”) is explicitly a different POV than the Aquarius-pen narrator.
+  - **Notes:** Hard locks: Pages/cains_jawbone_page_1.md ↔ Pages/cains_jawbone_page_43.md (Aquarius) and Pages/cains_jawbone_page_17.md ↔ Pages/cains_jawbone_page_43.md (Moon/Dawn + hand).
 
 - `N02` — Dog POV (domestic + hunting):
   - **Signature tells:** explicit dog-coded bodily perspective (ears pulled; “low noise”; “nose” POV); mating/banishment narrative; hunting/retrieval register (Lagopus scoticus/red grouse); dog medicine ingestion (Bob Martin); secret sugar stash; self-description as a dog.

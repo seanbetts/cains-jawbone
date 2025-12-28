@@ -107,6 +107,9 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
 - **Constraint:** Pages/cains_jawbone_page_93.md ↔ Pages/cains_jawbone_page_97.md (confidence: `CERTAIN`)
   - **Anchor:** unique internal-debate bundle: “Bunny and Perry” + “hammer and tongs” (tennis/venue metaphor) appears only on these two pages, alongside shared Cambridge wordplay (“Cambridge week” / “Cambridge or Thermopylae?”).
   - **Falsifier:** only if a third page is found containing “Bunny and Perry” or the same “hammer and tongs” debate bundle, or later evidence anchors the two pages to incompatible narrators/settings.
+- **Constraint:** Pages/cains_jawbone_page_1.md ↔ Pages/cains_jawbone_page_43.md (confidence: `CERTAIN`)
+  - **Anchor:** “Aquarius” appears only on these two pages (Aquarius pen on Page 1; Aquarius↔Gemini income/hand wordplay on Page 43).
+  - **Falsifier:** “Aquarius” is found elsewhere in page-body text, or Page 43’s Aquarius/Gemini line is proven to be a standalone zodiac/menu pun unrelated to Page 1’s pen.
 - **Constraint:** Pages/cains_jawbone_page_7.md ↔ Pages/cains_jawbone_page_45.md (confidence: `CERTAIN`)
   - **Anchor:** distinctive *Typhoon/Taifun* Renard‑Beinsky phrasing + Pole/half‑Pole framing.
   - **Falsifier:** the *Typhoon* layer is shown to be a detachable quotation reused by multiple narrators.
@@ -180,6 +183,7 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
 Directionless mapping from each constraint pair to narrator IDs (useful for cross-narrator joins).
 
 - **Cross-narrator constraints (current):** Pages/cains_jawbone_page_23.md ↔ Pages/cains_jawbone_page_24.md (`N40` ↔ `N03`).
+- Pages/cains_jawbone_page_1.md ↔ Pages/cains_jawbone_page_43.md — Narrator(s): N01 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_3.md ↔ Pages/cains_jawbone_page_32.md — Narrator(s): N03 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_7.md ↔ Pages/cains_jawbone_page_45.md — Narrator(s): N16 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_8.md ↔ Pages/cains_jawbone_page_19.md — Narrator(s): N02 (confidence: `CERTAIN`)
@@ -330,7 +334,7 @@ These are **cross-narrator** groupings intended to reduce the search space for P
   - **Sub-strands (working):**
     - `N21` (dazed infatuation + bar/tea imagery): Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_92.md, Pages/cains_jawbone_page_47.md
     - `N32` (“Type” classifier / Wilde-allusion voice): Pages/cains_jawbone_page_62.md, Pages/cains_jawbone_page_65.md, Pages/cains_jawbone_page_89.md, Pages/cains_jawbone_page_90.md
-    - `N01` (Aquarius pen / “Ecky” bar voice): Pages/cains_jawbone_page_17.md, Pages/cains_jawbone_page_43.md
+    - `N01` (Aquarius pen / “Ecky” bar voice): Pages/cains_jawbone_page_1.md, Pages/cains_jawbone_page_17.md, Pages/cains_jawbone_page_43.md
     - `N06` (school/Head + art register): Pages/cains_jawbone_page_66.md, Pages/cains_jawbone_page_67.md
     - `N19` (comic coastal punster): Pages/cains_jawbone_page_4.md, Pages/cains_jawbone_page_5.md
     - Singletons: `N29` (Pages/cains_jawbone_page_37.md), `N30` (Pages/cains_jawbone_page_38.md), `N14` (Pages/cains_jawbone_page_63.md), `N37` (Pages/cains_jawbone_page_84.md), `N23` (Pages/cains_jawbone_page_16.md), `N17` (Pages/cains_jawbone_page_41.md), `N26` (Pages/cains_jawbone_page_56.md)
@@ -432,11 +436,11 @@ Goal: highlight likely “join surfaces” between macro strands (people/place/o
 
 Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; **do not add within-cluster sequencing in Phase 3**.
 
-- **Cluster:** `N01` Aquarius pen / “Ecky” bar voice (confidence: `LIKELY`)
+- **Cluster:** `N01` Aquarius pen / “Ecky” bar voice (confidence: `CERTAIN`)
   - **Pages:** Pages/cains_jawbone_page_1.md, Pages/cains_jawbone_page_17.md, Pages/cains_jawbone_page_43.md
   - **Rationale:** Pen/hand/income fixation + astrology wordplay + “Dawn/Moon” venue language suggest a consistent narrator signature.
   - **Key anchors:** “mottled black and silver Aquarius”; “ruin my hand”; desserts/cocktails treated as titled items; “the Dawn”.
-  - **Disconfirming evidence:** Alexander (“Ecky”) is later shown to be a different POV than the Aquarius-pen narrator, or “bad for the hand” is a widely shared motif across voices.
+  - **Disconfirming evidence:** Alexander (“Ecky”) is later shown to be a different POV than the Aquarius-pen narrator, or “Aquarius” is found elsewhere in page-body text (making it a less specific signature anchor).
   - **Phase 4 internal ordering hypotheses (N01):**
     - **Sequence A — Moon/Dawn table scene** (confidence: `LIKELY`)
       - **Pages (ordered):** Pages/cains_jawbone_page_17.md → Pages/cains_jawbone_page_43.md
@@ -451,7 +455,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - Shares the distinctive Aquarius/handwriting register (Aquarius pen ↔ Aquarius/Gemini pun), but lacks a phrase-level setting/cast anchor to place it relative to Pages/cains_jawbone_page_17.md → Pages/cains_jawbone_page_43.md.
       - **Disconfirming evidence:**
         - Casy Ferris / St. Lazarus-in-the-Chine is shown to be a different narrator/setting altogether, forcing Pages/cains_jawbone_page_1.md out of `N01`.
-  - **Next falsification check:** search for a second anchor (Casy Ferris, St. Lazarus-in-the-Chine, “whaups,” or the “dead old man”) on any other `N01`-adjacent page before attempting to place Pages/cains_jawbone_page_1.md within the Moon/Dawn sequence.
+  - **Next falsification check:** search page bodies for Casy Ferris / St. Lazarus-in-the-Chine / “whaups” / “dead old man” to see whether the Aquarius-pen strand extends beyond Pages/cains_jawbone_page_1.md (without imposing order).
 
 - **Cluster:** `N12` Calabar/digitalis poison-logistics + murder-as-genre voice (confidence: `LIKELY`)
   - **Pages:** Pages/cains_jawbone_page_6.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_29.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_58.md, Pages/cains_jawbone_page_59.md, Pages/cains_jawbone_page_60.md, Pages/cains_jawbone_page_77.md, Pages/cains_jawbone_page_80.md
