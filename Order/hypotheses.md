@@ -38,6 +38,39 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
 - **Constraint:** Pages/cains_jawbone_page_58.md ↔ Pages/cains_jawbone_page_35.md (confidence: `LIKELY`)
   - **Anchor:** “horribly official knock” + flying-squad manhunt (surrounding the house; concealed passage/panel).
   - **Falsifier:** one page is shown to be an embedded/imagined chase scenario rather than the same in-world pursuit.
+- **Constraint:** Pages/cains_jawbone_page_3.md ↔ Pages/cains_jawbone_page_32.md (confidence: `LIKELY`)
+  - **Anchor:** “yesterday” instruction-giver appointment + job/instructions framing, with a shared Whitman/weather register (“weeping weather” ↔ “rain-proof coat, good shoes”).
+  - **Falsifier:** the “yesterday” meeting/instructions are shown to refer to different events (or different “Clement/Clément”) on the two pages.
+- **Constraint:** Pages/cains_jawbone_page_11.md ↔ Pages/cains_jawbone_page_41.md (confidence: `LIKELY`)
+  - **Anchor:** dog-watch/timekeeping framing (“first dog” ↔ “end of the second dog”) plus the Selfridges-side/Orchard London geography + Henry reference.
+  - **Falsifier:** “dog” references are shown to be literal (not watch-times) and/or the Selfridges/Orchard cues resolve to incompatible settings.
+- **Constraint:** Pages/cains_jawbone_page_13.md ↔ Pages/cains_jawbone_page_31.md (confidence: `LIKELY`)
+  - **Anchor:** Grantham market-place incident (“conduit dating from 1597”) + “in this very place” + “reckon with Henry” escalation.
+  - **Falsifier:** “in this very place” is later anchored to a different location than Grantham, or the Henry contexts are incompatible.
+- **Constraint:** Pages/cains_jawbone_page_24.md ↔ Pages/cains_jawbone_page_30.md (confidence: `LIKELY`)
+  - **Anchor:** suspicion test (“try her out… Can she be guilty?”) ↔ “Next day… my suspicions of Caroline had been well-founded.”
+  - **Falsifier:** “Caroline” is shown to be a different person from the suspected “she” on Page 30, making “Next day” refer to a different prior event.
+- **Constraint:** Pages/cains_jawbone_page_28.md ↔ Pages/cains_jawbone_page_50.md (confidence: `LIKELY`)
+  - **Anchor:** will/forgery operational scene (“woman not yet dead” ↔ “hurting the girl”) + “The will was there… caseful of strange pens” + shared *Importance of Being Earnest* quotation layer.
+  - **Falsifier:** “forging/hurting” is later shown to be metaphorical (not document harm), or the target woman/girl is clearly different across the two pages.
+- **Constraint:** Pages/cains_jawbone_page_33.md ↔ Pages/cains_jawbone_page_34.md (confidence: `LIKELY`)
+  - **Anchor:** debts/bills pressure (“I always pay my debts” ↔ “Bills should always be met squarely”) inside the same coercive “petty employ / play one tool against another” vignette.
+  - **Falsifier:** the debts/bills framing is shown to be generic and the scenes have no shared participant/setting anchors.
+- **Constraint:** Pages/cains_jawbone_page_52.md ↔ Pages/cains_jawbone_page_53.md (confidence: `LIKELY`)
+  - **Anchor:** interview-with-papers scene (door opens/shuts; “commentary… page after page”; Westphalian ham) ↔ Sir Paul Trinder introduction as the interview subject.
+  - **Falsifier:** the Trinder introduction is later anchored to a different narrator/setting from the Page 52 interview.
+- **Constraint:** Pages/cains_jawbone_page_54.md ↔ Pages/cains_jawbone_page_56.md (confidence: `LIKELY`)
+  - **Anchor:** shared phrase “awful and literal sense of the word” + breakfast/early-morning framing across both pages.
+  - **Falsifier:** the phrase is shown to be a detachable quotation reused by multiple narrators (reducing it to motif-level evidence only).
+- **Constraint:** Pages/cains_jawbone_page_65.md ↔ Pages/cains_jawbone_page_90.md (confidence: `LIKELY`)
+  - **Anchor:** reading beat (“every muscle… enthralled”) + “type” classifier phrasing, with Page 90 explicitly opening “While my mind had been thus far away…” and repeating “I thought I knew the type.”
+  - **Falsifier:** “type” is shown to be generic and Page 90’s “mind far away” refers to a different prior scene.
+- **Constraint:** Pages/cains_jawbone_page_68.md ↔ Pages/cains_jawbone_page_69.md (confidence: `LIKELY`)
+  - **Anchor:** “old man” crucial-meeting/eavesdropper trigger ↔ late-night aftermath (“collect myself… seen every minute… done slowly to death”).
+  - **Falsifier:** the “old man” is shown to be generic/non-continuous and no unique shared detail ties the two scenes.
+- **Constraint:** Pages/cains_jawbone_page_95.md ↔ Pages/cains_jawbone_page_96.md (confidence: `LIKELY`)
+  - **Anchor:** Café Royal strand: tea/menu waiting + “mysterious” meeting framing ↔ decision-point (“I had decided what to do”) and the start of the “hour by hour, day by day” written account.
+  - **Falsifier:** Café Royal/meeting cues are shown to refer to different contexts, making the similarity purely thematic.
 
 ### Hard quote continuations (including deliberate substitutions)
 
@@ -77,6 +110,9 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
 - **Constraint:** Pages/cains_jawbone_page_39.md ↔ Pages/cains_jawbone_page_88.md (confidence: `LIKELY`)
   - **Anchor:** shared year-tally + bet/quarrel register (“two all for that year” ↔ “how few the other had done so late in the year”).
   - **Falsifier:** the “so late in the year” tally phrasing is shown to belong to a different couple/contest than Page 39’s bet.
+- **Constraint:** Pages/cains_jawbone_page_70.md ↔ Pages/cains_jawbone_page_95.md (confidence: `LIKELY`)
+  - **Anchor:** “told him all, hour by hour, day by day” written account ↔ “I had told all I knew… the girl would find it in the morning, franked.”
+  - **Falsifier:** the “him” addressed by the written account is shown to be a different person/context on the two pages (letter/blackmail dynamics differ).
 
 ### Strong thread locks (not necessarily immediate neighbours)
 
@@ -86,6 +122,12 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
 - **Constraint:** Pages/cains_jawbone_page_21.md ↔ Pages/cains_jawbone_page_36.md (confidence: `LIKELY`)
   - **Anchor:** “Calabar” appears only on these pages; Page 36’s “morning after I had introduced him…” reads as the same Calabar/experiment thread.
   - **Falsifier:** the “introduced him…” reference is shown to refer to a different “him”/action than the Calabar Bean usage on Page 21.
+- **Constraint:** Pages/cains_jawbone_page_29.md ↔ Pages/cains_jawbone_page_36.md (confidence: `LIKELY`)
+  - **Anchor:** physostigma/ordeal-bean thread: “discarded my useless physostigma” ↔ “old Calabar… should fail me… could not rely on him.”
+  - **Falsifier:** “physostigma/Calabar” are shown to refer to different substances/threads across the two pages.
+- **Constraint:** Pages/cains_jawbone_page_61.md ↔ Pages/cains_jawbone_page_64.md (confidence: `LIKELY`)
+  - **Anchor:** “Great Lexicographer” (Samuel Johnson) as a namesake anchor + learned angling/fealty register that reads like the same narrator voice.
+  - **Falsifier:** “Great Lexicographer” is shown to refer to different people (or a purely decorative layer) across the two pages, with incompatible voice/setting tells.
 - **Constraint:** Pages/cains_jawbone_page_26.md ↔ Pages/cains_jawbone_page_44.md (confidence: `LIKELY`)
   - **Anchor:** `P33` Hodge appears only on these two pages, alongside the same Henry-focused “problem/evidence” register.
   - **Falsifier:** Hodge is shown to appear elsewhere (or is explicitly different across contexts), making the overlap coincidental rather than a shared episode.
