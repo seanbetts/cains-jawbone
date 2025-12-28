@@ -116,6 +116,9 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
 - **Constraint:** Pages/cains_jawbone_page_29.md ↔ Pages/cains_jawbone_page_35.md (confidence: `CERTAIN`)
   - **Anchor:** unique phrase-level echo: Page 29 ends “I felt I ought to be drawing towards a close ; but one never knew,” and Page 35 restates “Henry was drawing towards a close… But he might return. One never knew.”
   - **Falsifier:** only if later evidence anchors the two scenes/voices as incompatible (making the shared “drawing towards a close… one never knew” phrasing coincidental).
+- **Constraint:** Pages/cains_jawbone_page_35.md ↔ Pages/cains_jawbone_page_77.md (confidence: `CERTAIN`)
+  - **Anchor:** unique phrase-level echo: “Murders were funny things.” appears only on these two pages, in the same murder-as-genre register.
+  - **Falsifier:** only if a third page is found containing the same phrase in its page body, or later evidence anchors Pages/cains_jawbone_page_35.md and Pages/cains_jawbone_page_77.md to incompatible narrators/settings.
 - **Constraint:** Pages/cains_jawbone_page_61.md ↔ Pages/cains_jawbone_page_64.md (confidence: `CERTAIN`)
   - **Anchor:** “Great Lexicographer” (Dr Samuel Johnson) appears only on these two pages, in the same densely allusive register.
   - **Falsifier:** only if “Great Lexicographer” is shown to refer to different people across the two pages (unlikely without additional supporting text).
@@ -147,8 +150,8 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
   - **Anchor:** café/meeting beat: Page 96’s in-situ menu/tea waiting (“the only literature before me”) and “mysterious” meeting framing plausibly align with Page 95’s explicit Café Royal time-budget plus the immediate decision to write the hour-by-hour account.
   - **Falsifier:** Page 95’s opening is shown to be a pre-arrival travel beat incompatible with Page 96’s already-seated tea/menu scene, or Page 96 is later anchored to a non–Café Royal setting/voice.
 - **Candidate:** Pages/cains_jawbone_page_76.md ↔ Pages/cains_jawbone_page_77.md (confidence: `MAYBE`)
-  - **Anchor:** murder-as-genre voice overlap: Page 76 names “Green” as a target and debates “do the thing”, while Page 77 admits “it was my first” and names a specific tool (“Compact”); plausible continuity but lacks an explicit shared prop/phrase beyond generic “Henry” overlap.
-  - **Falsifier:** Page 77’s “my first” killing is later anchored to a different victim/episode than Page 76’s “Green” target, or Page 76’s “do the thing” resolves to a non-lethal act.
+  - **Anchor:** murder planning/aftermath overlap: Page 76 names “Green” as a target and debates “do the thing”, while Page 77 admits “it was my first” and names a specific tool (“Compact”); plausible continuity but lacks an explicit shared prop/phrase, and Page 77 is now tightly anchored to Pages/cains_jawbone_page_35.md via the unique “Murders were funny things” echo.
+  - **Falsifier:** Page 77’s “my first” killing is later anchored to the same victim/episode as Page 76’s “Green” target (or another page supplies a stronger Green/Compact bridge); otherwise treat as coincidental moral‑murder register overlap across narrators.
 
 ### Constraint cross-index (narrators)
 
@@ -176,6 +179,7 @@ Directionless mapping from each constraint pair to narrator IDs (useful for cros
 - Pages/cains_jawbone_page_29.md ↔ Pages/cains_jawbone_page_36.md — Narrator(s): N12 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_29.md ↔ Pages/cains_jawbone_page_35.md — Narrator(s): N12 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_33.md ↔ Pages/cains_jawbone_page_34.md — Narrator(s): N25 (confidence: `CERTAIN`)
+- Pages/cains_jawbone_page_35.md ↔ Pages/cains_jawbone_page_77.md — Narrator(s): N12 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_36.md ↔ Pages/cains_jawbone_page_59.md — Narrator(s): N12 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_39.md ↔ Pages/cains_jawbone_page_88.md — Narrator(s): N02 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_42.md ↔ Pages/cains_jawbone_page_92.md — Narrator(s): N21 (confidence: `CERTAIN`)
@@ -325,7 +329,7 @@ These are **cross-narrator** groupings intended to reduce the search space for P
     - `N05` Columbus/Palos date cue: Pages/cains_jawbone_page_67.md
     - `N16` smell-memory + calendar hint: Pages/cains_jawbone_page_55.md
     - `N12` poison logistics + time constraint (also botany overlap): Pages/cains_jawbone_page_60.md
-    - `N15` assassination-date hook / “first” frame: Pages/cains_jawbone_page_77.md
+    - `N12` assassination-date hook / “first” frame: Pages/cains_jawbone_page_77.md
     - `N37` deceased-introduction date hook (also aesthetic overlap): Pages/cains_jawbone_page_84.md
     - `N02` dog voice timekeeping (also dog overlap): Pages/cains_jawbone_page_99.md
   - **Disconfirming evidence:** “to-day” and related time phrases are purely decorative and cannot be grounded to specific dates/events, or dates conflict irreconcilably when cross-checked.
@@ -426,7 +430,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Next falsification check:** search for a second anchor (Casy Ferris, St. Lazarus-in-the-Chine, “whaups,” or the “dead old man”) on any other `N01`-adjacent page before attempting to place Pages/cains_jawbone_page_1.md within the Moon/Dawn sequence.
 
 - **Cluster:** `N12` Calabar/digitalis poison-logistics + murder-as-genre voice (confidence: `LIKELY`)
-  - **Pages:** Pages/cains_jawbone_page_6.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_29.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_58.md, Pages/cains_jawbone_page_59.md, Pages/cains_jawbone_page_60.md, Pages/cains_jawbone_page_80.md
+  - **Pages:** Pages/cains_jawbone_page_6.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_29.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_58.md, Pages/cains_jawbone_page_59.md, Pages/cains_jawbone_page_60.md, Pages/cains_jawbone_page_77.md, Pages/cains_jawbone_page_80.md
   - **Rationale:** Shared poison anchors (Calabar/digitalis) and a consistent practical, darkly comic “murder mechanics” register (counts, pursuit set-pieces, try-again planning) suggest a stable narrator signature.
   - **Key anchors:** Calabar bean/physostigma; digitalis; murder-counting language; “Murders were funny things”; “give him another day”.
   - **Disconfirming evidence:** Calabar/digitalis references recur widely across unrelated voices, or the pursuit/murder-count tone is shown to be a separate narrator from the poison-logistics pages.
@@ -502,26 +506,13 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Resolved check:** Pages/cains_jawbone_page_80.md does not share phrase-level anchors with the coastal-house segment (86–87) and is now treated as a Sir Paul Trinder/aconite hosting scene (`N12` extension), not `N13` membership.
   - **Overlap candidate:** Pages/cains_jawbone_page_24.md preserves Yeats’s original continuation line (“Of Cathleen, the daughter of Houlihan.”) that Pages/cains_jawbone_page_87.md substitutes, and it shares a name overlap (“Caroline” vs “Caroline Jasmine”), but it lacks `N13`’s distinctive anchors (Mithradates inoculation; Whitman “pail” line; Sanders/bay-house setting; dead man’s letter/corpse imagery) → treat as quote-key/homonym overlap only and keep Pages/cains_jawbone_page_24.md in `N03` unless a second independent `N13` anchor emerges.
 
-- **Cluster:** `N15` “Green” victim + Compact syringe (first killing) voice (confidence: `MAYBE`)
-  - **Pages:** Pages/cains_jawbone_page_76.md, Pages/cains_jawbone_page_77.md
-  - **Rationale:** A consistent self-justifying voice frames a named target (Green) and an explicitly admitted “first” killing, with a specific method/tool cue (Compact hypodermic) and a shared date-anchor habit (Perceval).
-  - **Key anchors:** victim named Green; “it was my first”; “Compact” syringe; Spencer Perceval assassination reference.
-  - **Disconfirming evidence:** “my first” is non-lethal, or Green/Perceval anchors resolve as unrelated allusions in different voices.
-  - **Phase 4 internal ordering hypotheses (N15):**
-    - **Sequence A — resolve-to-act → first killing** (confidence: `MAYBE`)
-      - **Pages (ordered):** Pages/cains_jawbone_page_76.md → Pages/cains_jawbone_page_77.md
-      - **Why:**
-        - Pages/cains_jawbone_page_76.md ends with the narrator weighing that they may have to “do the thing” themselves and “think it over,” while Pages/cains_jawbone_page_77.md immediately presents the narrator having used a specific “tool” (“Compact”) and calling it “my first,” which reads like the follow-through beat.
-        - Pages/cains_jawbone_page_76.md’s “young women are green… Green was the name of the victim” is compatible with Pages/cains_jawbone_page_77.md’s tactile, personal aftermath tone (“last little contact with the bony ankles… so warm and so soon… so cold”).
-      - **Disconfirming evidence:**
-        - Pages/cains_jawbone_page_77.md’s victim is later identified as someone other than the “Green” target in Pages/cains_jawbone_page_76.md (different gender/identity/context), or Pages/cains_jawbone_page_76.md’s “do the thing” is later shown to refer to a non-lethal act.
-    - **Sequence B — first-killing memory → later planning** (confidence: `MAYBE`)
-      - **Pages (ordered):** Pages/cains_jawbone_page_77.md → Pages/cains_jawbone_page_76.md
-      - **Why:**
-        - Pages/cains_jawbone_page_77.md’s reflective tone (“alone again… visualise… detached calm”) could be a retrospective preface to a later decision about a new named victim (Pages/cains_jawbone_page_76.md).
-      - **Disconfirming evidence:**
-        - If Pages/cains_jawbone_page_76.md’s “Green… victim” is shown to be the same person killed with the “Compact” tool, the more natural progression is Pages/cains_jawbone_page_76.md → Pages/cains_jawbone_page_77.md.
-  - **Next falsification check:** look for a later page that names “Green” in a clearly post‑mortem register or repeats the “Compact” tool cue; without a third anchor, keep both internal orders alive but treat Pages/cains_jawbone_page_76.md → Pages/cains_jawbone_page_77.md as the default.
+- **Cluster:** `N15` “Green” victim / De Quincey tooling moral‑calculus voice (confidence: `MAYBE`)
+  - **Pages:** Pages/cains_jawbone_page_76.md
+  - **Rationale:** A self-justifying, literate murder‑as‑art register frames a named target (“Green”) and debates personal responsibility (“do the thing myself”), with dense allusive support (De Quincey “tooling” vocabulary).
+  - **Key anchors:** victim named Green; De Quincey “tooling” murder‑means frame; “do the thing myself”; proverb-scramble (“rob a whirlwind… reap a scorpion”).
+  - **Disconfirming evidence:** “Green” resolves as a purely metaphorical reference (no in‑world victim), or the De Quincey/tooling layer is shown to be a detachable quotation with no stable narrator signature.
+  - **Notes:** Pages/cains_jawbone_page_77.md is now treated as `N12` due to the unique phrase-level lock `Pages/cains_jawbone_page_35.md ↔ Pages/cains_jawbone_page_77.md` (“Murders were funny things”).
+  - **Next falsification check:** search for another page naming “Green” as a victim in the same moral‑calculus register before expanding this beyond a singleton.
 
 - **Cluster:** `N16` St. Bruno / smell-memory + incinerator-evidence voice (confidence: `LIKELY`)
   - **Pages:** Pages/cains_jawbone_page_7.md, Pages/cains_jawbone_page_26.md, Pages/cains_jawbone_page_44.md, Pages/cains_jawbone_page_45.md, Pages/cains_jawbone_page_55.md
@@ -1133,7 +1124,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
     - `N26` breakfast/second-sight date hook: Pages/cains_jawbone_page_54.md
     - `N16` smell-memory date hook: Pages/cains_jawbone_page_55.md
     - `N12` poison logistics date hook: Pages/cains_jawbone_page_60.md
-    - `N15` assassination-date hook: Pages/cains_jawbone_page_77.md
+    - `N12` assassination-date hook: Pages/cains_jawbone_page_77.md
     - `N37` deceased-introduction date hook: Pages/cains_jawbone_page_84.md
   - **Disconfirming evidence:** “to-day” references are purely decorative and do not resolve to dates or ordering constraints.
 
@@ -1254,10 +1245,6 @@ Template:
 - **Sequence (confidence: MAYBE):** `Pages/cains_jawbone_page_74.md → Pages/cains_jawbone_page_75.md`
   - **Why:** Page 74’s secrecy about “them” (bought in Leningrad from an OGPU-linked seller) plausibly links to Page 75’s unreadable “orange tinted documents”.
   - **Disconfirming evidence:** “Them” refers to something other than documents and no shared objects/references recur.
-
-- **Sequence (confidence: MAYBE):** `Pages/cains_jawbone_page_76.md → Pages/cains_jawbone_page_77.md`
-  - **Why:** Page 76 frames a named victim (“Green”) and the need to “do the thing” personally; Page 77 immediately reflects on committing a first killing.
-  - **Disconfirming evidence:** “Green” is not an in-world victim, or Page 77’s “my first” refers to something non-lethal/unrelated.
 
 - **Sequence (confidence: MAYBE):** `Pages/cains_jawbone_page_82.md → Pages/cains_jawbone_page_85.md`
   - **Why:** Both are table scenes with Henry present and a nearby dog; Page 82’s disorientation could precede Page 85’s “weary business… ended” closure.

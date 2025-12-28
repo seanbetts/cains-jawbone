@@ -105,12 +105,12 @@ Template:
   - **Notes:** Singleton for now; next check: search for the “Black Museum” + orthographic name-instruction combo in other detective pages (esp. Pages/cains_jawbone_page_100.md) before proposing any merge.
 
 - `N12` — Calabar/digitalis poison-logistics + murder-as-genre voice:
-  - **Signature tells:** poison-botany specificity (Calabar bean/physostigma; digitalis) embedded in murder logistics; darkly comic genre-aware murder framing (murder counts, pursuit set-pieces); pragmatic “try again tomorrow” planning language; wordplay/idiom-twisting tied to botany and deception (“botulist”; “up the garden path”); rare repeated phrasing (“drawing towards a close”; “awkward”).
+  - **Signature tells:** poison-botany specificity (Calabar bean/physostigma; digitalis) embedded in murder logistics; darkly comic genre-aware murder framing (murder counts, pursuit set-pieces); pragmatic “try again tomorrow” planning language; wordplay/idiom-twisting tied to botany and deception (“botulist”; “up the garden path”); rare repeated phrasing (“drawing towards a close”; “awkward”; “Murders were funny things”).
   - **Likely identity (if any):** unknown.
-  - **Pages:** Pages/cains_jawbone_page_6.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_29.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_58.md, Pages/cains_jawbone_page_59.md, Pages/cains_jawbone_page_60.md, Pages/cains_jawbone_page_80.md
+  - **Pages:** Pages/cains_jawbone_page_6.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_29.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_58.md, Pages/cains_jawbone_page_59.md, Pages/cains_jawbone_page_60.md, Pages/cains_jawbone_page_77.md, Pages/cains_jawbone_page_80.md
   - **Confidence:** `LIKELY`
   - **Disconfirming evidence:** Calabar/digitalis cues and the murder-counting/pursuit voice are shown to belong to different narrators with incompatible settings/biographies.
-  - **Notes:** Resolved check (2025-12-25): within this umbrella, “Henry” appears in incompatible roles (killer/suspect under pursuit vs “peerless investigator” on Pages/cains_jawbone_page_60.md) → do not stitch sub-strands together on the name alone. Pages/cains_jawbone_page_80.md is treated as core due to the Trinder/Sir Paul continuity and the repeated “awkward” + poison-hosting register shared with Pages/cains_jawbone_page_59.md. Pages/cains_jawbone_page_26.md is currently assigned to `N16` via the named `P33` Hodge (only Pages/cains_jawbone_page_26.md and Pages/cains_jawbone_page_44.md mention him) + the “girl had left Henry” echo to Pages/cains_jawbone_page_45.md; treat it as a cross-strand overlap here unless/until a second `N12`-specific anchor (Calabar/digitalis/experiment register) is found on the same page. Pages/cains_jawbone_page_29.md remains falsifiable: keep it only while the physostigma/Calabar + experimental register stays anchored and the “old mineralogist”/setting doesn’t pull it elsewhere.
+  - **Notes:** Resolved check (2025-12-25): within this umbrella, “Henry” appears in incompatible roles (killer/suspect under pursuit vs “peerless investigator” on Pages/cains_jawbone_page_60.md) → do not stitch sub-strands together on the name alone. Pages/cains_jawbone_page_80.md is treated as core due to the Trinder/Sir Paul continuity and the repeated “awkward” + poison-hosting register shared with Pages/cains_jawbone_page_59.md. Pages/cains_jawbone_page_26.md is currently assigned to `N16` via the named `P33` Hodge (only Pages/cains_jawbone_page_26.md and Pages/cains_jawbone_page_44.md mention him) + the “girl had left Henry” echo to Pages/cains_jawbone_page_45.md; treat it as a cross-strand overlap here unless/until a second `N12`-specific anchor (Calabar/digitalis/experiment register) is found on the same page. Pages/cains_jawbone_page_29.md remains falsifiable: keep it only while the physostigma/Calabar + experimental register stays anchored and the “old mineralogist”/setting doesn’t pull it elsewhere. Resolved check (2025-12-28): Pages/cains_jawbone_page_35.md ↔ Pages/cains_jawbone_page_77.md (“Murders were funny things”) supports including Pages/cains_jawbone_page_77.md in this voice.
 
 - `N13` — Host/guest poisoning + coastal-house segment:
   - **Signature tells:** host/guest/patient framing; poison/immunity talk (e.g., Mithradates); Yeats/Whitman quotation run; coastal-house/bay landscape shifting into visceral corpse imagery; named helper (Caroline Jasmine).
@@ -128,13 +128,13 @@ Template:
   - **Disconfirming evidence:** the dessert/Lent and attribution habits are later shown to be incidental rather than a stable narrator signature.
   - **Notes:** Singleton for now; next check: search for a repeat of the Rainbow/Lent “second Sundae” rule plus the hair/attribution obsession (merge only if a phrase-level anchor recurs, not just dessert titles).
 
-- `N15` — “Green” victim + Compact syringe (first killing) voice:
-  - **Signature tells:** self-justifying moral calculus around a named victim (Green); explicit first-killing admission; method/tool specificity (“Compact” hypodermic syringe); date-anchoring via Spencer Perceval assassination.
+- `N15` — “Green” victim / De Quincey tooling moral‑calculus voice:
+  - **Signature tells:** self-justifying moral calculus around a named victim (Green); De Quincey “tooling” murder‑means frame; proverb-scrambling; explicit “do the thing myself” framing.
   - **Likely identity (if any):** unknown.
-  - **Pages:** Pages/cains_jawbone_page_76.md, Pages/cains_jawbone_page_77.md
-  - **Confidence:** `LIKELY`
-  - **Disconfirming evidence:** “my first” refers to a non-lethal act, or “Green”/Perceval anchors resolve to separate narrators/contexts.
-  - **Notes:** Do not merge into `N12` on “murder talk” alone; the tone and method cues differ.
+  - **Pages:** Pages/cains_jawbone_page_76.md
+  - **Confidence:** `MAYBE`
+  - **Disconfirming evidence:** “Green” resolves as a purely metaphorical reference (no in‑world victim), or the De Quincey/tooling layer is shown to be a detachable quotation with no stable narrator signature.
+  - **Notes:** Previously paired with Pages/cains_jawbone_page_77.md; Pages/cains_jawbone_page_77.md is now treated as `N12` due to the unique phrase-level echo with Pages/cains_jawbone_page_35.md (“Murders were funny things”).
 
 - `N16` — St. Bruno / smell-memory + incinerator-evidence voice:
   - **Signature tells:** smell-triggered scene-shifts; tobacco fixation (St. Bruno) and other pungent “relief” smells; synaesthetic sensory metaphors (smell→colour/sound); self-interrupting self-corrections (e.g., “was it?”, “surely…”, “or did I mean…?”); self-aware narration about telling/following a story; vivid brand/food list; stealth/eavesdropping register (“stealing at the doors”); evidence-destruction detail (half-burned marriage certificate in an incinerator); occasional punning inside the “menu list”.
