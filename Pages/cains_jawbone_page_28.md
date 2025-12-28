@@ -16,8 +16,7 @@ I found myself by that one of the windows which overlooked the stone broach spir
 - **Voice/tells:**
   - Dry evasiveness (“No, Sir; it is not a very interesting subject…”); self-contradictory marriage talk may be a quotation/echo.
 - **Clustering hypotheses:**
-  - LIKELY: `N39` will/forgery voice pairing with Pages/cains_jawbone_page_50.md (shared *Importance of Being Earnest* echo + explicit forgery framing; see `Order/hypotheses.md` `N39` block).
-  - LIKELY: links strongly with Pages/cains_jawbone_page_50.md as a waiting/prep beat (“Not a woman had entered as yet… Forging ahead… since the woman was not yet dead”) before the will/pen-work scene (“The will was there… caseful of strange pens”), with the same harm-to-target framing (“You might not hear of her again” ↔ “hurting the girl”); see `Order/hypotheses.md` `N39` Sequence A.
+  - CERTAIN: `N39` will/forgery voice pairing with Pages/cains_jawbone_page_50.md (unique will/forgery operational bundle + shared *Importance of Being Earnest* layer). Treat as a continuity constraint `Pages/cains_jawbone_page_28.md ↔ Pages/cains_jawbone_page_50.md` and resolve direction in Phase 4; see `Order/hypotheses.md` constraints inventory.
   - MAYBE: links to wills/inheritance/document cluster (Pages/cains_jawbone_page_12.md, Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_18.md).
 - **Disconfirming evidence:**
   - If “forging ahead” later proves to be a non-criminal metaphor unrelated to documents.

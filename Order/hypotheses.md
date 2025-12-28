@@ -47,9 +47,9 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
 - **Constraint:** Pages/cains_jawbone_page_24.md ↔ Pages/cains_jawbone_page_30.md (confidence: `CERTAIN`)
   - **Anchor:** unique suspicion-resolution hinge: Page 30’s “try her out… Can she be guilty?” is the only such “Can she be guilty?” test in the corpus, and Page 24 explicitly opens “Next day… my suspicions of Caroline had been well-founded.”
   - **Falsifier:** only if “Caroline” is shown to be a different person from the suspected “she” on Page 30, making “Next day” refer to a different prior event.
-- **Constraint:** Pages/cains_jawbone_page_28.md ↔ Pages/cains_jawbone_page_50.md (confidence: `LIKELY`)
-  - **Anchor:** will/forgery operational scene (“woman not yet dead” ↔ “hurting the girl”) + “The will was there… caseful of strange pens” + shared *Importance of Being Earnest* quotation layer.
-  - **Falsifier:** “forging/hurting” is later shown to be metaphorical (not document harm), or the target woman/girl is clearly different across the two pages.
+- **Constraint:** Pages/cains_jawbone_page_28.md ↔ Pages/cains_jawbone_page_50.md (confidence: `CERTAIN`)
+  - **Anchor:** unique will/forgery operational bundle: “woman not yet dead” + “forging ahead” (Page 28) aligns with “The will was there… caseful of strange pens” + “hurting the girl” (Page 50), alongside the shared *Importance of Being Earnest* quotation layer.
+  - **Falsifier:** only if “forging/hurting” is later shown to be metaphorical (not document harm), or the target woman/girl is clearly different across the two pages.
 - **Constraint:** Pages/cains_jawbone_page_33.md ↔ Pages/cains_jawbone_page_34.md (confidence: `CERTAIN`)
   - **Anchor:** debts/bills hinge: Page 33’s “I always pay my debts” label + covert observation (“behind the armchair”) matches Page 34’s “Bills should always be met squarely” + “petty employ / play one tool against another” coercion beat (unique in the corpus).
   - **Falsifier:** another page is found carrying the same debts/bills + covert-manipulation bundle in a tighter match, or the two scenes’ participants/setting are later shown to be incompatible.
@@ -172,7 +172,7 @@ Directionless mapping from each constraint pair to narrator IDs (useful for cros
 - Pages/cains_jawbone_page_24.md ↔ Pages/cains_jawbone_page_30.md — Narrator(s): N03 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_26.md ↔ Pages/cains_jawbone_page_44.md — Narrator(s): N16 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_26.md ↔ Pages/cains_jawbone_page_45.md — Narrator(s): N16 (confidence: `LIKELY`)
-- Pages/cains_jawbone_page_28.md ↔ Pages/cains_jawbone_page_50.md — Narrator(s): N39 (confidence: `LIKELY`)
+- Pages/cains_jawbone_page_28.md ↔ Pages/cains_jawbone_page_50.md — Narrator(s): N39 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_29.md ↔ Pages/cains_jawbone_page_36.md — Narrator(s): N12 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_33.md ↔ Pages/cains_jawbone_page_34.md — Narrator(s): N25 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_35.md ↔ Pages/cains_jawbone_page_58.md — Narrator(s): N12 (confidence: `LIKELY`)
