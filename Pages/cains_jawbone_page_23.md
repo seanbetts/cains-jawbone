@@ -18,7 +18,7 @@ I hate seeing things like this in the paper. Bill to Solve the Traffic Problem. 
   - CERTAIN: Oscar Wilde, “Requiescat”: “Tread lightly, she is near / Under the snow” → here adapted as “Rub gently, she is here, under the snow” (match-striking cue). https://en.wikisource.org/wiki/The_Writings_of_Oscar_Wilde/Volume_1/Requiescat
   - CERTAIN: Francis Thompson, “Dream-Tryst”: “Nor can her eyes go out.” https://en.wikisource.org/wiki/Poems_(Thompson)/Dream-Tryst
   - CERTAIN: Francis Thompson biographical detail: he “earn[ed] a few pence by selling matches” (Catholic Encyclopedia, 1913): https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Francis_Thompson
-  - CERTAIN: John Masefield, “Captain Stratton’s Fancy” — “But rum alone’s the tipple, and the heart’s delight …” (continues on Page 24 with a substituted next line): https://en.wikisource.org/wiki/Captain_Stratton%27s_Fancy.
+  - CERTAIN: John Masefield, “Captain Stratton’s Fancy” — “But rum alone’s the tipple, and the heart’s delight …” In *Cain’s Jawbone* this appears to be part of a deliberate cross-swap: Pages/cains_jawbone_page_24.md supplies Yeats’s “Cathleen…” continuation as a substituted next line, while the canonical Masefield continuation (“…old bold mate of Henry Morgan”) appears (without “Says”) on Pages/cains_jawbone_page_87.md where it continues Yeats’s preceding line from Pages/cains_jawbone_page_86.md. https://en.wikisource.org/wiki/Captain_Stratton%27s_Fancy.
 - **Motifs/continuity hooks:**
   - Matches: matchbox rhythm; “ends” not dropping; “eyes” not going out; “under the snow” (match head imagery).
   - Rail/travel: Left Luggage Office.
