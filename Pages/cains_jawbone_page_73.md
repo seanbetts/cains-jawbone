@@ -14,11 +14,11 @@ All the artist in me flared up. After all, my given name was world-famous as the
 - **Motifs/continuity hooks:**
   - Oratory/voice: “orator’s joys… roll the thunder… a cause d’une femme”.
   - Appetite vs performance: sandwich enjoyed but “bad for the stuff”.
-  - Initiation in “secret rooms” behind a port (continues into next page).
+  - Initiation in “secret rooms” behind a port (Marseille Old Port).
 - **Voice/tells:**
   - Performative and educated; toggles between art-identity, rhetoric, and sensual memory.
 - **Clustering hypotheses:**
-  - CERTAIN: `N06` orator/artist + flowers/documents voice; `Pages/cains_jawbone_page_73.md` and `Pages/cains_jawbone_page_74.md` share an explicit phrase-level continuation (“hung round with…”), treat as a high-signal continuity hook (Phase 4 adjacency check).
+  - CERTAIN: `N06` orator/artist + flowers/documents voice; `Pages/cains_jawbone_page_73.md` and `Pages/cains_jawbone_page_74.md` share an explicit phrase-level continuation (“hung round with…”). Treat as a continuity constraint `Pages/cains_jawbone_page_73.md ↔ Pages/cains_jawbone_page_74.md` (see `Order/hypotheses.md` constraints inventory; direction TBD).
   - LIKELY: `N06` merge anchor: shares the page-body unique phrase “I remembered the place of my initiation” with Pages/cains_jawbone_page_66.md, and the same “hung round with …” set-piece break occurs in both sub-strands (see `Order/hypotheses.md` “Merge decisions (Phase 3)”); treat as a merge anchor, not an adjacency claim.
 - **Disconfirming evidence:**
   - Only if later evidence shows an editorial/transcription artifact (unlikely).

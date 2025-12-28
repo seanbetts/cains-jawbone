@@ -110,6 +110,9 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
 - **Constraint:** Pages/cains_jawbone_page_1.md ↔ Pages/cains_jawbone_page_43.md (confidence: `CERTAIN`)
   - **Anchor:** “Aquarius” appears only on these two pages (Aquarius pen on Page 1; Aquarius↔Gemini income/hand wordplay on Page 43).
   - **Falsifier:** “Aquarius” is found elsewhere in page-body text, or Page 43’s Aquarius/Gemini line is proven to be a standalone zodiac/menu pun unrelated to Page 1’s pen.
+- **Constraint:** Pages/cains_jawbone_page_6.md ↔ Pages/cains_jawbone_page_29.md (confidence: `CERTAIN`)
+  - **Anchor:** “spare-room/spareroom” appears only on these two pages, each time as the same house-setting detail (old spare-room “in this very house” ↔ “unsatisfactory visit to the spareroom”).
+  - **Falsifier:** another page is found using the same spare-room phrasing, or one mention is shown to be idiomatic/quoted rather than situational.
 - **Constraint:** Pages/cains_jawbone_page_7.md ↔ Pages/cains_jawbone_page_45.md (confidence: `CERTAIN`)
   - **Anchor:** distinctive *Typhoon/Taifun* Renard‑Beinsky phrasing + Pole/half‑Pole framing.
   - **Falsifier:** the *Typhoon* layer is shown to be a detachable quotation reused by multiple narrators.
@@ -183,6 +186,7 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
 Directionless mapping from each constraint pair to narrator IDs (useful for cross-narrator joins).
 
 - **Cross-narrator constraints (current):** Pages/cains_jawbone_page_23.md ↔ Pages/cains_jawbone_page_24.md (`N40` ↔ `N03`).
+- Pages/cains_jawbone_page_6.md ↔ Pages/cains_jawbone_page_29.md — Narrator(s): N12 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_1.md ↔ Pages/cains_jawbone_page_43.md — Narrator(s): N01 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_3.md ↔ Pages/cains_jawbone_page_32.md — Narrator(s): N03 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_7.md ↔ Pages/cains_jawbone_page_45.md — Narrator(s): N16 (confidence: `CERTAIN`)
