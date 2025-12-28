@@ -27,10 +27,10 @@ Template:
 - `N02` — Dog POV (domestic + hunting):
   - **Signature tells:** explicit dog-coded bodily perspective (ears pulled; “low noise”; “nose” POV); mating/banishment narrative; hunting/retrieval register (Lagopus scoticus/red grouse); dog medicine ingestion (Bob Martin); secret sugar stash; self-description as a dog.
   - **Likely identity (if any):** a dog narrator (breed MAYBE Skye terrier).
-  - **Pages:** Pages/cains_jawbone_page_8.md, Pages/cains_jawbone_page_10.md, Pages/cains_jawbone_page_19.md, Pages/cains_jawbone_page_22.md, Pages/cains_jawbone_page_39.md, Pages/cains_jawbone_page_46.md, Pages/cains_jawbone_page_48.md, Pages/cains_jawbone_page_57.md (MAYBE extension), Pages/cains_jawbone_page_79.md, Pages/cains_jawbone_page_88.md, Pages/cains_jawbone_page_99.md
+  - **Pages:** Pages/cains_jawbone_page_8.md (MAYBE extension), Pages/cains_jawbone_page_10.md, Pages/cains_jawbone_page_19.md, Pages/cains_jawbone_page_22.md, Pages/cains_jawbone_page_39.md, Pages/cains_jawbone_page_46.md, Pages/cains_jawbone_page_48.md, Pages/cains_jawbone_page_57.md (MAYBE extension), Pages/cains_jawbone_page_79.md, Pages/cains_jawbone_page_88.md, Pages/cains_jawbone_page_99.md
   - **Confidence:** `CERTAIN`
   - **Disconfirming evidence:** any page in this set gives an unequivocal human-only physical situation (not idiom/metaphor) incompatible with dog POV.
-  - **Notes:** Core dog-physicality pages are Pages/cains_jawbone_page_19.md, Pages/cains_jawbone_page_22.md, Pages/cains_jawbone_page_48.md, Pages/cains_jawbone_page_79.md. Pages/cains_jawbone_page_8.md is a `LIKELY` extension: it is hard-anchored by the bow + Mr. Hall call-bell mechanics and also contains dog-coded tells (secret-food “sausage place… furtively I knew how excellent”; naïve optics confusion). Its “powerful glass” wording remains the main risk; don’t treat it as decisive human-POV evidence unless a later page shows the narrator operating an optical instrument directly. Wordplay on Page 8 (Bologna “sausage place”) may be a non-dog calendar anchor and should not be treated as dog-voice evidence by itself. Pages 10 and 39 lean on “mistress/coat” language and naive literalism (e.g., “vicarious”→vicar) consistent with dog POV. Pages/cains_jawbone_page_79.md’s “as flush as May” simile is a Hamlet lift (Act III), best treated as an allusion layer rather than a dog-voice tell. Pages/cains_jawbone_page_88.md is also lower-signal on physicality (mostly overheard dialogue) but fits the daybook/date spine. Pages/cains_jawbone_page_57.md is a `MAYBE` extension keyed by the dog-as-listener stance (“It seemed from what I heard”; “he read…”) plus the “my people” Skye/pedigree hint (Armadale Castle).
+  - **Notes:** Core dog-physicality pages are Pages/cains_jawbone_page_19.md, Pages/cains_jawbone_page_22.md, Pages/cains_jawbone_page_48.md, Pages/cains_jawbone_page_79.md. Pages/cains_jawbone_page_8.md is a `MAYBE` extension (weakest fit): it is hard-anchored by the bow + Mr. Hall call-bell mechanics and also contains dog-coded tells (secret-food “sausage place… furtively I knew how excellent”; naïve optics confusion). Its “powerful glass” wording remains the main risk; don’t treat it as decisive human-POV evidence unless a later page shows the narrator operating an optical instrument directly. Wordplay on Page 8 (Bologna “sausage place”) may be a non-dog calendar anchor and should not be treated as dog-voice evidence by itself. Pages 10 and 39 lean on “mistress/coat” language and naive literalism (e.g., “vicarious”→vicar) consistent with dog POV. Pages/cains_jawbone_page_79.md’s “as flush as May” simile is a Hamlet lift (Act III), best treated as an allusion layer rather than a dog-voice tell. Pages/cains_jawbone_page_88.md is also lower-signal on physicality (mostly overheard dialogue) but fits the daybook/date spine. Pages/cains_jawbone_page_57.md is a `MAYBE` extension keyed by the dog-as-listener stance (“It seemed from what I heard”; “he read…”) plus the “my people” Skye/pedigree hint (Armadale Castle).
 
 - `N03` — Clement / pills / flowers-and-mercy register:
   - **Signature tells:** transactional planning + pills/“assassin’s wonderful substance”; publisher/book-world references; plant/flower precision (hellebore, wild jasmine, roses); declared hardness (“quality of mercy… little exerted”); job/instructions framing; scansion/poetry awareness; wordplay via professional charade clues (e.g., publisher pairing).
@@ -59,7 +59,7 @@ Template:
 - `N06` — Orator/artist + flowers/documents/OGPU voice:
   - **Signature tells:** performative rhetoric (“orator’s joys”); art-identity clue (Augustus John); French poetry; sensual “initiation” memory; secrecy/blackmail register; OGPU/Leningrad mention; failing eyesight; flower/rose fixation; Browning allusions.
   - **Likely identity (if any):** educated, cosmopolitan narrator with art/theatre leanings.
-  - **Pages:** Pages/cains_jawbone_page_71.md, Pages/cains_jawbone_page_73.md, Pages/cains_jawbone_page_74.md, Pages/cains_jawbone_page_75.md, Pages/cains_jawbone_page_83.md
+  - **Pages:** Pages/cains_jawbone_page_73.md, Pages/cains_jawbone_page_74.md, Pages/cains_jawbone_page_75.md, Pages/cains_jawbone_page_83.md, Pages/cains_jawbone_page_71.md (MAYBE extension)
   - **Confidence:** `LIKELY`
   - **Disconfirming evidence:** if Pages/cains_jawbone_page_71.md’s May/eyes thread is shown to be a different narrator from the flower/documents segment (73–75/83), or if Pages/cains_jawbone_page_83.md’s flower thread is shown to be a different setting/voice than the 73→74→75 segment.
   - **Notes:** Pages/cains_jawbone_page_71.md is a `MAYBE` extension keyed by “red May” + eyesight trouble, with an additional low-signal inheritance/*Hamlet* echo to Pages/cains_jawbone_page_73.md. This cluster may intersect `N05` via “the Head” reference; do not merge without additional shared tells beyond that single anchor.
@@ -75,7 +75,7 @@ Template:
 - `N08` — King (“Kipling” name-jibe) narrator:
   - **Signature tells:** self-conscious nameplay (schoolboy jibe “Kipling”); narrator sees their own name printed in a window-sign; Henry present in-scene; detective/allusion density (Holmes/Sexton Blake / Baker Street framing); cryptic-style transforms (anagrams/insertion; 21→21:00 clock pun).
   - **Likely identity (if any):** LIKELY surname King (see `Indexes/people.md` `P99`).
-  - **Pages:** Pages/cains_jawbone_page_15.md, Pages/cains_jawbone_page_82.md, Pages/cains_jawbone_page_85.md, Pages/cains_jawbone_page_94.md
+  - **Pages:** Pages/cains_jawbone_page_15.md (MAYBE extension), Pages/cains_jawbone_page_82.md (MAYBE extension), Pages/cains_jawbone_page_85.md, Pages/cains_jawbone_page_94.md
   - **Confidence:** `LIKELY`
   - **Disconfirming evidence:** “Kipling” wordplay resolves differently, the window-sign name is not the narrator’s, or Page 15’s “Bart” is not the same dog as Bartholomew in Page 82.
   - **Notes:** Page 82 shares the table/Henry + barking-dog frame with Page 85 but lacks the explicit nameplay/window-sign anchors; keep it under `N08` with `MAYBE` confidence. Page 15 is a `MAYBE` extension keyed by the “Bart”/Bartholomew dog + table framing. MAYBE overlaps: Pages/cains_jawbone_page_100.md (Henry + Scotland Yard + collapse).
@@ -107,7 +107,7 @@ Template:
 - `N12` — Calabar/digitalis poison-logistics + murder-as-genre voice:
   - **Signature tells:** poison-botany specificity (Calabar bean/physostigma; digitalis) embedded in murder logistics; darkly comic genre-aware murder framing (murder counts, pursuit set-pieces); pragmatic “try again tomorrow” planning language; wordplay/idiom-twisting tied to botany and deception (“botulist”; “up the garden path”); rare repeated phrasing (“drawing towards a close”; “awkward”).
   - **Likely identity (if any):** unknown.
-  - **Pages:** Pages/cains_jawbone_page_6.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_29.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_58.md, Pages/cains_jawbone_page_59.md, Pages/cains_jawbone_page_60.md
+  - **Pages:** Pages/cains_jawbone_page_6.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_29.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_58.md, Pages/cains_jawbone_page_59.md, Pages/cains_jawbone_page_60.md, Pages/cains_jawbone_page_80.md (MAYBE extension)
   - **Confidence:** `LIKELY`
   - **Disconfirming evidence:** Calabar/digitalis cues and the murder-counting/pursuit voice are shown to belong to different narrators with incompatible settings/biographies.
   - **Notes:** Resolved check (2025-12-25): within this umbrella, “Henry” appears in incompatible roles (killer/suspect under pursuit vs “peerless investigator” on Pages/cains_jawbone_page_60.md) → do not stitch sub-strands together on the name alone. Pages/cains_jawbone_page_26.md is currently assigned to `N16` via the named `P33` Hodge (only Pages/cains_jawbone_page_26.md and Pages/cains_jawbone_page_44.md mention him) + the “girl had left Henry” echo to Pages/cains_jawbone_page_45.md; treat it as a cross-strand overlap here unless/until a second `N12`-specific anchor (Calabar/digitalis/experiment register) is found on the same page. Pages/cains_jawbone_page_29.md remains falsifiable: keep it only while the physostigma/Calabar + experimental register stays anchored and the “old mineralogist”/setting doesn’t pull it elsewhere.
@@ -115,10 +115,10 @@ Template:
 - `N13` — Host/guest poisoning + coastal-house segment:
   - **Signature tells:** host/guest/patient framing; poison/immunity talk (e.g., Mithradates); Yeats/Whitman quotation run; coastal-house/bay landscape shifting into visceral corpse imagery; named helper (Caroline Jasmine).
   - **Likely identity (if any):** unknown.
-  - **Pages:** Pages/cains_jawbone_page_80.md, Pages/cains_jawbone_page_86.md, Pages/cains_jawbone_page_87.md
-  - **Confidence:** `LIKELY`
+  - **Pages:** Pages/cains_jawbone_page_86.md, Pages/cains_jawbone_page_87.md
+  - **Confidence:** `CERTAIN`
   - **Disconfirming evidence:** Pages 86–87 are later shown to be different speakers/settings despite the apparent direct continuation.
-  - **Notes:** Pages/cains_jawbone_page_80.md is a `MAYBE` extension keyed by the host/guest table register + implied poisoning setup; current linkage to the coastal-house segment is unsupported (no phrase-level anchor; Pages/cains_jawbone_page_87.md’s guest is explicitly “she” vs Pages/cains_jawbone_page_80.md’s “Sir Paul”), so treat it as overlap-only unless a stronger shared anchor appears. Pages/cains_jawbone_page_24.md is another overlap candidate (Caroline + Yeats source line) but lacks the coastal-house/Sanders/letter anchors so keep it overlap-only for now.
+  - **Notes:** Pages/cains_jawbone_page_24.md is an overlap candidate (Caroline + Yeats source line) but lacks the coastal-house/Sanders/letter anchors so keep Pages/cains_jawbone_page_24.md in `N03` until a second independent `N13` anchor emerges. Pages/cains_jawbone_page_80.md is now treated as a separate Sir Paul Trinder/aconite hosting scene (`N12` extension) rather than part of this coastal-house segment.
 
 - `N14` — Babbie / Rainbow Sundae / hair-and-allusion voice:
   - **Signature tells:** rapturous hair fixation punctuated by French verse; dessert-order banter (Rainbow; Lent “second Sundae” rule); insistence on naming/attributing writers; guest watching Henry handled (cap on/off).
@@ -171,18 +171,18 @@ Template:
 - `N20` — Bloomsbury/nomenclature + grim-scene voice:
   - **Signature tells:** self-conscious class register (“Bloomsbury”); fixation on naming/nomenclature and soundalike jokes (e.g., classical name soundalikes); familiarity with bodies/corpses and threat/weapon cues.
   - **Likely identity (if any):** unknown.
-  - **Pages:** Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_31.md
+  - **Pages:** Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_31.md, Pages/cains_jawbone_page_49.md (MAYBE extension)
   - **Confidence:** `LIKELY`
   - **Disconfirming evidence:** the “nomenclature” focus and grim-scene familiarity are shown to belong to separate narrators with incompatible backstory (e.g., Paris night vs Grantham corpse scene).
-  - **Notes:** Grantham is a high-signal location anchor on Pages/cains_jawbone_page_13.md (1597 market-place conduit), which likely pins Pages/cains_jawbone_page_31.md’s “this very place” in the same incident; watch for recurrence of “naming business” and pocket/weapon gestures as stronger anchors.
+  - **Notes:** Grantham is a high-signal location anchor on Pages/cains_jawbone_page_13.md (1597 market-place conduit), which likely pins Pages/cains_jawbone_page_31.md’s “this very place” in the same incident; watch for recurrence of “naming business” and pocket/weapon gestures as stronger anchors. Pages/cains_jawbone_page_49.md is a `MAYBE` extension anchored by the direct Blake quotation continuation into Pages/cains_jawbone_page_13.md; treat its “dazed”/“yen for Henry” layer as cross-voice style overlap unless a second N20-specific anchor recurs.
 
 - `N21` — Dazed infatuation + bar/tea imagery voice:
   - **Signature tells:** dazed, self-referential repetition (“I always…”); sensual fixation on surfaces/eyes/hair; social-table/bar settings with drink/tea naming; quotation-collage (Browning “Saul” + Kipling pre‑Rains verandah line); overt fascination with Henry (and Henry policing diction).
   - **Likely identity (if any):** unknown.
-  - **Pages:** Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_47.md, Pages/cains_jawbone_page_49.md, Pages/cains_jawbone_page_92.md
+  - **Pages:** Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_47.md (MAYBE extension), Pages/cains_jawbone_page_92.md
   - **Confidence:** `LIKELY`
   - **Disconfirming evidence:** the “dazed” and sensual-description style is shown to be a generic motif reused across unrelated narrators, or Henry’s role differs incompatibly across the pages.
-  - **Notes:** Page 92 shares a Browning “Saul” excerpt and the “what … next?” anticipation framing with Page 42; treat as part of this voice unless the quotation is shown to be widely reused across narrators. Pages/cains_jawbone_page_47.md’s verandah/Rains line is Kipling (*Plain Tales from the Hills*), so treat it as detachable allusion (not a firm location anchor); its “she” remains unresolved (no second anchor tying her to Pages/cains_jawbone_page_42.md’s “Julienne?”), so keep it as a `MAYBE` extension within this voice. New complication: Pages/cains_jawbone_page_49.md’s Blake excerpt (“Bring Palamabron… Elynittria”) is directly continued on Pages/cains_jawbone_page_13.md (“Rintrah… Ocalythron”), suggesting Pages/cains_jawbone_page_49.md → Pages/cains_jawbone_page_13.md as a tighter join (treat as a potential cross-cluster quote-continuation constraint).
+  - **Notes:** Page 92 shares a Browning “Saul” excerpt and the “what … next?” anticipation framing with Page 42; treat as part of this voice unless the quotation is shown to be widely reused across narrators. Pages/cains_jawbone_page_47.md’s verandah/Rains line is Kipling (*Plain Tales from the Hills*), so treat it as detachable allusion (not a firm location anchor); its “she” remains unresolved (no second anchor tying her to Pages/cains_jawbone_page_42.md’s “Julienne?”), so keep it as a `MAYBE` extension within this voice. Note: Pages/cains_jawbone_page_49.md’s Blake excerpt (“Bring Palamabron… Elynittria”) is directly continued on Pages/cains_jawbone_page_13.md (“Rintrah… Ocalythron”) → treat that as a quote-continuation constraint and keep Pages/cains_jawbone_page_49.md assigned with Pages/cains_jawbone_page_13.md’s narrator cluster (`N20`).
 
 - `N22` — Morbid London decoder (plague quotation voice):
   - **Signature tells:** decoding/reading completion framing (“figures and letters”); London homecoming with sepulchral beauty imagery; stitched-in historical plague prose used as an immediate interpretive lens.
@@ -267,7 +267,7 @@ Template:
 - `N32` — “Type” classifier / gilded metaphors + Wilde-allusion voice:
   - **Signature tells:** competitive reading/interpretation framed as “harvest/gleaning”; fixation on filing/typing people as “types”; recurring gilded/metallised visual metaphors (gold/silver/green leaf); macabre social observation; stitched-in Wilde context (Jack line + Earnest epigram; Whistler-to-Oscar jibe).
   - **Likely identity (if any):** unknown (MAYBE Oscar-adjacent, but treat quotations as voice markers, not identity proof).
-  - **Pages:** Pages/cains_jawbone_page_62.md, Pages/cains_jawbone_page_65.md, Pages/cains_jawbone_page_89.md, Pages/cains_jawbone_page_90.md
+  - **Pages:** Pages/cains_jawbone_page_62.md (MAYBE extension), Pages/cains_jawbone_page_65.md, Pages/cains_jawbone_page_89.md, Pages/cains_jawbone_page_90.md
   - **Confidence:** `LIKELY`
   - **Disconfirming evidence:** the repeated “learned in a macabre way, even distinguished” type-judgement is shown to be a reused quotation across multiple narrators, Pages 89–90’s dining/hunting vignette is later anchored to a clearly different narrator from Page 65’s reading/typing competition, or Page 62’s gold/silver dissociation proves to be an unrelated one-off metaphor.
   - **Notes:** Page 62 is a `MAYBE` extension keyed by the gold/silver separation framing + the same moralising, macabre social observation register. MAYBE overlap with other Wilde-quote pages (e.g., Pages/cains_jawbone_page_23.md) if the “type/classification” register recurs.
@@ -284,7 +284,7 @@ Template:
   - **Signature tells:** obsessive time/mortality rumination (“to-day”, “next day”, “time factor”); self-deprecating pun chains (Dolittle → Didlittle → Didling/didlet); antiquarian inscription fixation (oldest brass by the Mole); strong tea + “first pill” morning ritual.
   - **Likely identity (if any):** unknown.
   - **Pages:** Pages/cains_jawbone_page_20.md, Pages/cains_jawbone_page_25.md
-  - **Confidence:** `MAYBE`
+  - **Confidence:** `LIKELY`
   - **Disconfirming evidence:** the shared time/wordplay register is shown to be a common technique across multiple narrators, or the two pages are later anchored to incompatible settings/participants.
   - **Notes:** MAYBE overlaps with `N31` on pill-taking + place-name logic, but keep separate until a repeated phrase/anchor ties them.
 
@@ -324,7 +324,7 @@ Template:
   - **Signature tells:** overt Wilde (*Importance of Being Earnest*) echoing embedded in legal-document attention (wills; “forging”); stationery/pen fixation (caseful of “strange pens”); macabre aside about a woman “not yet dead”; church/inscription noticing used as scene texture rather than pure quotation collage.
   - **Likely identity (if any):** unknown.
   - **Pages:** Pages/cains_jawbone_page_28.md, Pages/cains_jawbone_page_50.md
-  - **Confidence:** `MAYBE`
+  - **Confidence:** `LIKELY`
   - **Disconfirming evidence:** the Wilde/Earnest material is shown to be a detachable quotation layer reused across multiple narrators, or the will/forgery/stationery cues in the two pages resolve to incompatible speakers/settings.
   - **Notes:** Thematically overlaps `N10` (will/estate eavesdropping) and `N18` (forgery/handwriting) but should not be merged without a repeated non-quotation phrase/anchor. Phase 4 ordering for Pages/cains_jawbone_page_28.md ↔ Pages/cains_jawbone_page_50.md is still `MAYBE` (no second non-quotation anchor beyond “forgery + Earnest”; Earnest fragments also recur on Pages/cains_jawbone_page_65.md).
 
