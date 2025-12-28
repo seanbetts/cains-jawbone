@@ -17,7 +17,7 @@ Compact, they call it ; but when I used it, I was feeling anything but so. Don�
   - Cool, reflective, slightly aesthetic about murder; distinguishes “public political” killing vs “my own”.
 - **Clustering hypotheses:**
   - CERTAIN: links strongly with Pages/cains_jawbone_page_35.md via the unique phrase-level echo “Murders were funny things.” (page-body unique to these two pages); treat as a continuity constraint `Pages/cains_jawbone_page_35.md ↔ Pages/cains_jawbone_page_77.md` (see `Order/hypotheses.md` constraints inventory).
-  - MAYBE: overlaps with Pages/cains_jawbone_page_76.md (named target “Green” ↔ “my first” + “Compact” tool) but lacks an explicit shared prop/phrase; treat as a cross-narrator candidate now that Pages/cains_jawbone_page_77.md is tightly anchored to Pages/cains_jawbone_page_35.md.
+  - MAYBE: possible thematic proximity to Pages/cains_jawbone_page_76.md (named target “Green” ↔ “my first” + “Compact”), but no phrase-level overlap and no shared named entity/prop continuity; treat as non-binding unless bridged by a third anchor/page.
 - **Disconfirming evidence:**
   - If “Perceval” is an in-world character rather than historical, or if “my first” refers to something non-lethal.
 - **Research needed:**

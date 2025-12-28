@@ -159,9 +159,7 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
 
 ### Candidate cross-narrator overlap (falsify before treating as a constraint)
 
-- **Candidate:** Pages/cains_jawbone_page_26.md ↔ Pages/cains_jawbone_page_58.md (`N16` ↔ `N12`) (confidence: `MAYBE`)
-  - **Anchor:** complementary murder-count numbering around “Henry” (“first two killings” ↔ “third/fourth” victims) suggests a shared Henry-kill-count thread, but “Henry” is high-noise across the corpus and the narrator signatures differ.
-  - **Falsifier:** any additional anchor shows the “Henry” contexts are incompatible (distinct setting/cast/logistics), or “killings” is shown to be figurative on one side.
+_None currently._
 
 ### Falsified cross-narrator candidates (Phase 3)
 
@@ -173,15 +171,14 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
   - **Prior anchor:** unique phrase-level echo “to reckon with Henry” appears only on these two page bodies.
   - **Falsification check:** no additional overlap beyond that phrase plus generic “I did not know”; “Henry” is high-noise across the corpus and the surrounding scenes/voice tells do not cohere, so treat as a Henry‑motif overlap only (not a constraint).
   - **Revive if:** a tighter shared anchor is found (same location marker, same victim/prop, or a distinct shared quote/allusion beyond “Henry”).
+- **Candidate:** Pages/cains_jawbone_page_26.md ↔ Pages/cains_jawbone_page_58.md (`N16` ↔ `N12`) (confidence: `MAYBE`, disposition: `FALSIFIED`)
+  - **Prior anchor:** complementary murder-count numbering around “Henry” (“first two killings” ↔ “third/fourth” victims).
+  - **Falsification check:** no shared phrase-level anchor (no shared 3‑grams) and no shared unique props/cast beyond “Henry”; treat as a loose Henry-kill-count motif only (not a constraint).
+  - **Revive if:** a second independent anchor emerges (shared named pursuer, shared victim descriptor, shared location marker, or unique repeated quote/allusion).
 
 ### Candidate low-confidence locks already noted in page notes
 
-- **Candidate:** Pages/cains_jawbone_page_58.md ↔ Pages/cains_jawbone_page_35.md (confidence: `MAYBE`)
-  - **Anchor:** pursuit escalation candidate: Page 58’s “horribly official knock at the little blue door” plausibly leads into Page 35’s flying-squad surround and concealed-panel chase mechanics, but shared anchors are mostly thematic (police pressure + Henry corpse context).
-  - **Falsifier:** one page is shown to be an embedded/imagined chase scenario, or the two scenes’ setting/cast is later anchored as incompatible.
-- **Candidate:** Pages/cains_jawbone_page_76.md ↔ Pages/cains_jawbone_page_77.md (confidence: `MAYBE`)
-  - **Anchor:** murder planning/aftermath overlap: Page 76 names “Green” as a target and debates “do the thing”, while Page 77 admits “it was my first” and names a specific tool (“Compact”); plausible continuity but lacks an explicit shared prop/phrase, and Page 77 is now tightly anchored to Pages/cains_jawbone_page_35.md via the unique “Murders were funny things” echo.
-  - **Falsifier:** Page 77’s “my first” killing is later anchored to the same victim/episode as Page 76’s “Green” target (or another page supplies a stronger Green/Compact bridge); otherwise treat as coincidental moral‑murder register overlap across narrators.
+_None currently._
 
 ### Falsified low-confidence lock candidates (Phase 3)
 
@@ -197,6 +194,14 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
   - **Prior anchor:** café/meeting beat (Page 96’s menu/tea waiting + “mysterious” meeting framing ↔ Page 95’s explicit Café Royal time-budget + immediate decision to write the hour-by-hour account).
   - **Falsification check:** no shared phrase-level anchor (no shared 3‑grams); Page 96 is not explicitly anchored to Café Royal and shares no props/cast with Page 95, so treat as same macro‑strand possibility only (not a lock).
   - **Revive if:** Page 96 gains an explicit Café Royal anchor (or shares a specific person/prop with the Page 70 ↔ Page 95 letter thread).
+- **Candidate:** Pages/cains_jawbone_page_58.md ↔ Pages/cains_jawbone_page_35.md (confidence: `MAYBE`, disposition: `FALSIFIED`)
+  - **Prior anchor:** police pressure escalation (official knock at the little blue door ↔ flying-squad surround/chase mechanics).
+  - **Falsification check:** no shared phrase-level anchor (no shared 3‑grams) and no shared unique props/cast; treat as thematic “manhunt” overlap only (not a lock).
+  - **Revive if:** a specific shared identifier emerges (e.g., Inspector Barraclough or the “little blue door” appears in the same chase thread elsewhere).
+- **Candidate:** Pages/cains_jawbone_page_76.md ↔ Pages/cains_jawbone_page_77.md (confidence: `MAYBE`, disposition: `FALSIFIED`)
+  - **Prior anchor:** murder planning/aftermath overlap: Page 76 names victim “Green” and debates “do the thing”, while Page 77 admits “it was my first” and names a specific tool (“Compact”).
+  - **Falsification check:** no shared phrase-level anchor (no shared 3‑grams) and no shared named entity/prop continuity (Green absent from Page 77; Compact absent from Page 76); Page 77 is already tightly anchored to Pages/cains_jawbone_page_35.md, so treat as generic murder-register overlap only (not a lock).
+  - **Revive if:** Green/Compact continuity is found in a third page bridging the two, or one page explicitly references the other’s specifics.
 
 ### Constraint cross-index (narrators)
 

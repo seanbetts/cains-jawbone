@@ -19,8 +19,8 @@ Considering it was my name month, I wasn’t having too much luck. Henry, though
   - Darkly comic; enumerates murders; pun-heavy.
 - **Clustering hypotheses:**
   - CERTAIN: strengthens Henry-occurrence cluster (explicit corpse context).
-  - MAYBE: overlaps with Pages/cains_jawbone_page_35.md as a pursuit escalation (official knock ↔ flying squad manhunt); treat as a candidate lock pending a more unique shared anchor than police/pressure.
-  - MAYBE: overlaps with Pages/cains_jawbone_page_26.md via the “Henry” murder-count numbering (“first two killings” ↔ “third/fourth”), but treat as a cross-narrator candidate until corroborated by a second non-name anchor (see `Order/hypotheses.md` candidate cross-narrator overlap).
+  - MAYBE: shares a general “police pressure/manhunt” motif with Pages/cains_jawbone_page_35.md (official knock ↔ flying squad), but no phrase-level anchor found; treat as non-binding unless a shared identifier emerges.
+  - MAYBE: shares a Henry murder-count motif with Pages/cains_jawbone_page_26.md (“first two killings” ↔ “third/fourth” victims), but no phrase-level anchor found; treat as non-binding unless a second independent anchor emerges.
   - MAYBE: links to Browning-heavy pages (Pages/cains_jawbone_page_56.md).
 - **Disconfirming evidence:**
   - If later pages show this Henry is distinct (different setting/timeline) from other Henry clusters.

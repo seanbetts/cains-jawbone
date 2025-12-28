@@ -21,6 +21,6 @@ Looking over at the sly sideways smile which seemed to fill all the foreground o
 - **Voice/tells:**
   - Self-justifying moral calculus; frames murder as an adult/ripe duty; literate allusion density.
 - **Clustering hypotheses:**
-  - MAYBE: overlaps with Pages/cains_jawbone_page_77.md (named target “Green” ↔ “my first” + “Compact” tool) but lacks an explicit shared prop/phrase; treat as a candidate lock pending a third anchor (or an explicit Green mention post‑mortem).
+  - MAYBE: possible thematic proximity to Pages/cains_jawbone_page_77.md (murder deliberation ↔ “my first” + “Compact”), but no phrase-level overlap and no shared named entity/prop continuity; treat as non-binding unless bridged by a third anchor/page.
 - **Disconfirming evidence:**
   - If “Green” is revealed as a joke/reference rather than an in-world victim, or if the billhook scene is purely literary quotation.
