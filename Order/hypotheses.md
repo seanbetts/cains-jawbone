@@ -17,9 +17,9 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
 - **Constraint:** Pages/cains_jawbone_page_89.md ↔ Pages/cains_jawbone_page_90.md (confidence: `CERTAIN`)
   - **Anchor:** unique deer-set-piece bundle across the pair: “collops” + “Spey Royal” + deer focus (Pages/cains_jawbone_page_89.md) plus the “deer-stalker” + “soigné / glacial parquet” dining scene (Pages/cains_jawbone_page_90.md); this vocabulary cluster appears only here.
   - **Falsifier:** only if “among the heather / on a moor” is shown to be a literal outdoor setting incompatible with the indoor “soigné / glacial parquet” venue, and the “ancient” is shown to be a different figure from the old gentleman on Page 90.
-- **Constraint:** Pages/cains_jawbone_page_12.md ↔ Pages/cains_jawbone_page_14.md (confidence: `LIKELY`)
-  - **Anchor:** will/inheritance eavesdropping (“leave everything… May”) + spilled wine/flesh cleanup beat; aligns with Page 12’s “bad head” + documents/will frame.
-  - **Falsifier:** “May” is later anchored to an incompatible voice/setting/time than the documents scene on Page 12.
+- **Constraint:** Pages/cains_jawbone_page_12.md ↔ Pages/cains_jawbone_page_14.md (confidence: `CERTAIN`)
+  - **Anchor:** unique will-talk + aftermath bundle: “leave everything… May” + “spilled wine” + “fragments of… flesh” + Henry cleaning at a sign (Page 14) aligns with the same will/document surveillance posture on Page 12 (“documents” + “abstracted will”), with no competing page carrying the same bundle.
+  - **Falsifier:** only if “May” and the will-talk are shown to be a different in-world scene than Page 12’s document-watching (i.e., two separate will episodes).
 - **Constraint:** Pages/cains_jawbone_page_17.md ↔ Pages/cains_jawbone_page_43.md (confidence: `CERTAIN`)
   - **Anchor:** “the Moon”/“the Dawn” venue pair appears only on these two pages, alongside the shared “bad for the hand” ↔ “ruin my hand” cue.
   - **Falsifier:** only if “Moon/Dawn” are shown to be abstract metaphors (not venue names) and the cast/context is incompatible.
@@ -162,7 +162,7 @@ Directionless mapping from each constraint pair to narrator IDs (useful for cros
 - Pages/cains_jawbone_page_10.md ↔ Pages/cains_jawbone_page_39.md — Narrator(s): N02 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_10.md ↔ Pages/cains_jawbone_page_99.md — Narrator(s): N02 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_11.md ↔ Pages/cains_jawbone_page_41.md — Narrator(s): N17 (confidence: `CERTAIN`)
-- Pages/cains_jawbone_page_12.md ↔ Pages/cains_jawbone_page_14.md — Narrator(s): N10 (confidence: `LIKELY`)
+- Pages/cains_jawbone_page_12.md ↔ Pages/cains_jawbone_page_14.md — Narrator(s): N10 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_13.md ↔ Pages/cains_jawbone_page_31.md — Narrator(s): N20 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_13.md ↔ Pages/cains_jawbone_page_49.md — Narrator(s): N20 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_17.md ↔ Pages/cains_jawbone_page_43.md — Narrator(s): N01 (confidence: `CERTAIN`)

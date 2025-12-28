@@ -40,7 +40,7 @@ LIKELY WORDPLAY
 - **Voice/tells:**
   - Legal/estate language + social niceties; opportunistic (“get what I wanted”).
 - **Clustering hypotheses:**
-  - LIKELY: Pages/cains_jawbone_page_14.md ↔ Pages/cains_jawbone_page_12.md (will-talk to May + spilled wine → this “bad head” document scene; see `Order/hypotheses.md` `N10` block).
+  - CERTAIN: links strongly with Pages/cains_jawbone_page_14.md (will-talk to May + spilled wine/flesh cleanup beat aligns with this “documents/abstracted will” scene). Treat as a continuity constraint `Pages/cains_jawbone_page_12.md ↔ Pages/cains_jawbone_page_14.md` and resolve direction in Phase 4; see `Order/hypotheses.md` constraints inventory.
   - MAYBE: paired with Pages/cains_jawbone_page_14.md more loosely as a will/document motif cluster if the scenes prove distinct.
 - **Disconfirming evidence:**
   - If Page 14’s “leave everything” is unrelated (different people/context).
