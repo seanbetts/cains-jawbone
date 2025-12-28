@@ -152,7 +152,7 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
 
 ### Merge decisions (Phase 3)
 
-- **Merge:** `N05` + `N06` → `N06` (confidence: `LIKELY`)
+- **Merge:** `N05` + `N06` → `N06` (confidence: `CERTAIN`)
   - **Anchors:** phrase-level self-echo “I remembered the place of my initiation” (Pages/cains_jawbone_page_66.md ↔ Pages/cains_jawbone_page_73.md, page-body unique) plus the shared “the Head, as we called him”/“ringing with…” school-register phrasing (Pages/cains_jawbone_page_66.md + Pages/cains_jawbone_page_67.md ↔ Pages/cains_jawbone_page_74.md, page-body unique).
   - **Corroboration:** both strands use a near-identical mid-sentence “hung round with …” set-piece break (Pages/cains_jawbone_page_66.md → Pages/cains_jawbone_page_67.md; Pages/cains_jawbone_page_73.md → Pages/cains_jawbone_page_74.md), consistent with one narrator reusing a distinctive syntactic move in two different memories.
   - **Falsifier:** a new page-body instance of either anchor phrase appears elsewhere, or later evidence forces incompatible narrator self-identity/setting constraints across the school-colours/Head strand vs the OGPU/documents/flower strand.
@@ -985,7 +985,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - Pages/cains_jawbone_page_82.md’s Henry/dog/table context is later anchored as a different narrator/setting from Pages/cains_jawbone_page_85.md (overlap only, no adjacency).
   - **Next falsification check:** look for a shared prop/phrase that ties Pages/cains_jawbone_page_82.md to Pages/cains_jawbone_page_85.md (e.g., concealment under a table object, or a repeat of the “certainty/pressure” imagery) before treating the table vignettes as a true run.
 
-- **Cluster:** `N06` Orator/artist + flowers/documents/OGPU voice (confidence: `LIKELY`)
+- **Cluster:** `N06` Orator/artist + flowers/documents/OGPU voice (confidence: `CERTAIN`)
   - **Pages:** Pages/cains_jawbone_page_66.md, Pages/cains_jawbone_page_67.md, Pages/cains_jawbone_page_71.md, Pages/cains_jawbone_page_73.md, Pages/cains_jawbone_page_74.md, Pages/cains_jawbone_page_75.md, Pages/cains_jawbone_page_83.md
   - **Rationale:** Core Pages 73–75 (+83) mix art/oratory identity, French verse, and a secrecy/blackmail register with flowers/documents + failing eyesight. Pages 66–67 (school colours/“the Head” sub-strand) are merged in based on page-body unique phrase-level echoes to Pages 73–74 (see “Merge decisions (Phase 3)” above). Page 71 remains the weakest member (no OGPU/documents/old-man anchors) but keeps the same May/eye stress + botanical fixation register.
   - **Key anchors:** “the Head, as we called him” + school-colours register; art-name dropping (Beardsley/Rops; travel-guide Haslemere/Whympers); May/red-May scent; red/white roses + marigolds/calendula; red rose “sole survivor”; “orange tinted documents”; Goya reproduction confusion; “Will anyone know about them?”; Leningrad/OGPU mention; flower-seller interruption.
