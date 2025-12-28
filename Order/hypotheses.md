@@ -50,9 +50,9 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
 - **Constraint:** Pages/cains_jawbone_page_28.md ↔ Pages/cains_jawbone_page_50.md (confidence: `LIKELY`)
   - **Anchor:** will/forgery operational scene (“woman not yet dead” ↔ “hurting the girl”) + “The will was there… caseful of strange pens” + shared *Importance of Being Earnest* quotation layer.
   - **Falsifier:** “forging/hurting” is later shown to be metaphorical (not document harm), or the target woman/girl is clearly different across the two pages.
-- **Constraint:** Pages/cains_jawbone_page_33.md ↔ Pages/cains_jawbone_page_34.md (confidence: `LIKELY`)
-  - **Anchor:** debts/bills pressure (“I always pay my debts” ↔ “Bills should always be met squarely”) inside the same coercive “petty employ / play one tool against another” vignette.
-  - **Falsifier:** the debts/bills framing is shown to be generic and the scenes have no shared participant/setting anchors.
+- **Constraint:** Pages/cains_jawbone_page_33.md ↔ Pages/cains_jawbone_page_34.md (confidence: `CERTAIN`)
+  - **Anchor:** debts/bills hinge: Page 33’s “I always pay my debts” label + covert observation (“behind the armchair”) matches Page 34’s “Bills should always be met squarely” + “petty employ / play one tool against another” coercion beat (unique in the corpus).
+  - **Falsifier:** another page is found carrying the same debts/bills + covert-manipulation bundle in a tighter match, or the two scenes’ participants/setting are later shown to be incompatible.
 - **Constraint:** Pages/cains_jawbone_page_52.md ↔ Pages/cains_jawbone_page_53.md (confidence: `CERTAIN`)
   - **Anchor:** single interview episode: Page 52’s “door opened and shut… sit down… papers… interview” setup aligns with Page 53’s “introduced to me” beat identifying the subject as Sir Paul Trinder, in the same mind-movement metaphor voice (“mind’s feet” ↔ “mind… ambling”).
   - **Falsifier:** Page 53’s Trinder meeting is later anchored to an incompatible narrator/setting (making the shared “introduced/interview” mechanics coincidental).
@@ -158,7 +158,7 @@ Directionless mapping from each constraint pair to narrator IDs (useful for cros
 - Pages/cains_jawbone_page_26.md ↔ Pages/cains_jawbone_page_44.md — Narrator(s): N16 (confidence: `LIKELY`)
 - Pages/cains_jawbone_page_28.md ↔ Pages/cains_jawbone_page_50.md — Narrator(s): N39 (confidence: `LIKELY`)
 - Pages/cains_jawbone_page_29.md ↔ Pages/cains_jawbone_page_36.md — Narrator(s): N12 (confidence: `CERTAIN`)
-- Pages/cains_jawbone_page_33.md ↔ Pages/cains_jawbone_page_34.md — Narrator(s): N25 (confidence: `LIKELY`)
+- Pages/cains_jawbone_page_33.md ↔ Pages/cains_jawbone_page_34.md — Narrator(s): N25 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_35.md ↔ Pages/cains_jawbone_page_58.md — Narrator(s): N12 (confidence: `LIKELY`)
 - Pages/cains_jawbone_page_39.md ↔ Pages/cains_jawbone_page_88.md — Narrator(s): N02 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_42.md ↔ Pages/cains_jawbone_page_92.md — Narrator(s): N21 (confidence: `CERTAIN`)
