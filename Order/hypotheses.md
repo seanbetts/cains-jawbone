@@ -17,6 +17,27 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
 - **Constraint:** Pages/cains_jawbone_page_89.md ↔ Pages/cains_jawbone_page_90.md (confidence: `LIKELY`)
   - **Anchor:** the “soigné / glacial parquet” venue + grotesque old gentleman (“ancient”) spans the same scene (arrival + seated beat; shared conversational motif).
   - **Falsifier:** the “ancient” is shown to be a different figure/setting than the old gentleman introduced on Page 90.
+- **Constraint:** Pages/cains_jawbone_page_12.md ↔ Pages/cains_jawbone_page_14.md (confidence: `LIKELY`)
+  - **Anchor:** will/inheritance eavesdropping (“leave everything… May”) + spilled wine/flesh cleanup beat; aligns with Page 12’s “bad head” + documents/will frame.
+  - **Falsifier:** “May” is later anchored to an incompatible voice/setting/time than the documents scene on Page 12.
+- **Constraint:** Pages/cains_jawbone_page_17.md ↔ Pages/cains_jawbone_page_43.md (confidence: `LIKELY`)
+  - **Anchor:** “Moon”/“Dawn” venue pair + hand/income sensitivity (“bad for the hand” ↔ “ruin my hand”) + “Lover’s Delight”/“Banana Split” exchange.
+  - **Falsifier:** “Moon/Dawn” are shown to be abstract metaphors rather than stable venue names, or the cast/context is incompatible.
+- **Constraint:** Pages/cains_jawbone_page_59.md ↔ Pages/cains_jawbone_page_60.md (confidence: `LIKELY`)
+  - **Anchor:** “bane failed” ↔ “succeeded” pivot, with Trinder/“figurehead beard” target framing persisting across the two pages.
+  - **Falsifier:** “Trinder” and “figurehead beard” are later shown to be unrelated referents on the two pages.
+- **Constraint:** Pages/cains_jawbone_page_76.md ↔ Pages/cains_jawbone_page_77.md (confidence: `LIKELY`)
+  - **Anchor:** victim explicitly named “Green” ↔ immediate aftermath of “my first” killing with the “Compact” tool.
+  - **Falsifier:** “my first” refers to something non-lethal, or the victim/context is later clearly not Green.
+- **Constraint:** Pages/cains_jawbone_page_85.md ↔ Pages/cains_jawbone_page_94.md (confidence: `LIKELY`)
+  - **Anchor:** shared “King/Kipling” name-jibe register + Henry-in-scene pivot (“Henry was waiting for me” ↔ “I drove Henry home”).
+  - **Falsifier:** the name-in-window sign is later shown not to be the narrator’s, or “Henry” is clearly different across the two pages.
+- **Constraint:** Pages/cains_jawbone_page_26.md ↔ Pages/cains_jawbone_page_58.md (confidence: `LIKELY`)
+  - **Anchor:** Henry kill-count logistics (“first two killings” ↔ “third/fourth”) in the same darkly comic murder-as-genre register.
+  - **Falsifier:** “killings” language is shown to be figurative on one side, or the Henry contexts are incompatible.
+- **Constraint:** Pages/cains_jawbone_page_58.md ↔ Pages/cains_jawbone_page_35.md (confidence: `LIKELY`)
+  - **Anchor:** “horribly official knock” + flying-squad manhunt (surrounding the house; concealed passage/panel).
+  - **Falsifier:** one page is shown to be an embedded/imagined chase scenario rather than the same in-world pursuit.
 
 ### Hard quote continuations (including deliberate substitutions)
 
@@ -44,6 +65,18 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
 - **Constraint:** Pages/cains_jawbone_page_39.md ↔ Pages/cains_jawbone_page_10.md (confidence: `LIKELY`)
   - **Anchor:** the “bet / points” setup expands across the two pages in the same domestic/garden scene.
   - **Falsifier:** “bet/points” language is shown to recur as a generic motif across other pages with clearer continuity.
+- **Constraint:** Pages/cains_jawbone_page_10.md ↔ Pages/cains_jawbone_page_99.md (confidence: `CERTAIN`)
+  - **Anchor:** phrase-level “My mistress wore them” ↔ “And she wore…” continuation, reinforced by shared Jasmine parenthetical.
+  - **Falsifier:** another page is found that begins with the same “And she wore…” continuation in a way that better accounts for Page 10’s terminal line.
+- **Constraint:** Pages/cains_jawbone_page_22.md ↔ Pages/cains_jawbone_page_79.md (confidence: `CERTAIN`)
+  - **Anchor:** “made love to Flora” ↔ “made love to Flora again” (explicit “again” hinge).
+  - **Falsifier:** a different page contains the missing “made love to Flora” setup, or “Flora” is shown to refer to different entities on the two pages.
+- **Constraint:** Pages/cains_jawbone_page_48.md ↔ Pages/cains_jawbone_page_88.md (confidence: `LIKELY`)
+  - **Anchor:** Tate sugar + “He said… She said…” domestic observer register persists across both pages.
+  - **Falsifier:** “Tate” and the “He said… She said…” register are shown to recur widely in unrelated scenes.
+- **Constraint:** Pages/cains_jawbone_page_39.md ↔ Pages/cains_jawbone_page_88.md (confidence: `LIKELY`)
+  - **Anchor:** shared year-tally + bet/quarrel register (“two all for that year” ↔ “how few the other had done so late in the year”).
+  - **Falsifier:** the “so late in the year” tally phrasing is shown to belong to a different couple/contest than Page 39’s bet.
 
 ### Strong thread locks (not necessarily immediate neighbours)
 
@@ -53,6 +86,9 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
 - **Constraint:** Pages/cains_jawbone_page_21.md ↔ Pages/cains_jawbone_page_36.md (confidence: `LIKELY`)
   - **Anchor:** “Calabar” appears only on these pages; Page 36’s “morning after I had introduced him…” reads as the same Calabar/experiment thread.
   - **Falsifier:** the “introduced him…” reference is shown to refer to a different “him”/action than the Calabar Bean usage on Page 21.
+- **Constraint:** Pages/cains_jawbone_page_26.md ↔ Pages/cains_jawbone_page_44.md (confidence: `LIKELY`)
+  - **Anchor:** `P33` Hodge appears only on these two pages, alongside the same Henry-focused “problem/evidence” register.
+  - **Falsifier:** Hodge is shown to appear elsewhere (or is explicitly different across contexts), making the overlap coincidental rather than a shared episode.
 
 ## Clusters
 
