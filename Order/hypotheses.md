@@ -62,9 +62,6 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
 - **Constraint:** Pages/cains_jawbone_page_65.md ↔ Pages/cains_jawbone_page_90.md (confidence: `CERTAIN`)
   - **Anchor:** phrase-level continuation: Page 65’s “every muscle… enthralled” reading beat is picked up by Page 90’s opening “While my mind had been thus far away…”, and both share the identical “I thought I knew the type : learned in a macabre way, even distinguished …” wording (unique in the corpus).
   - **Falsifier:** only if a third page is found containing the same “type : learned in a macabre way…” phrasing in a way that better accounts for Page 65/90 context.
-- **Constraint:** Pages/cains_jawbone_page_68.md ↔ Pages/cains_jawbone_page_69.md (confidence: `LIKELY`)
-  - **Anchor:** “old man” crucial-meeting/eavesdropper trigger ↔ late-night aftermath (“collect myself… seen every minute… done slowly to death”).
-  - **Falsifier:** the “old man” is shown to be generic/non-continuous and no unique shared detail ties the two scenes.
 - **Constraint:** Pages/cains_jawbone_page_95.md ↔ Pages/cains_jawbone_page_96.md (confidence: `LIKELY`)
   - **Anchor:** Café Royal strand: tea/menu waiting + “mysterious” meeting framing ↔ decision-point (“I had decided what to do”) and the start of the “hour by hour, day by day” written account.
   - **Falsifier:** Café Royal/meeting cues are shown to refer to different contexts, making the similarity purely thematic.
@@ -149,6 +146,9 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
 - **Candidate:** Pages/cains_jawbone_page_36.md ↔ Pages/cains_jawbone_page_59.md (confidence: `MAYBE`)
   - **Anchor:** “awkward” phrasing + poison-failure beats (with Page 59 adding police attention).
   - **Falsifier:** “awkward” resolves to a generic aside with no shared poison-thread continuity, or a better-matching “awkward” page appears.
+- **Candidate:** Pages/cains_jawbone_page_68.md ↔ Pages/cains_jawbone_page_69.md (confidence: `MAYBE`)
+  - **Anchor:** “old man” strand: crucial-meeting/eavesdropping paranoia (Pages/cains_jawbone_page_68.md) ↔ late-night aftermath of witnessing a “poor old man” “done slowly to death” (Pages/cains_jawbone_page_69.md).
+  - **Falsifier:** the “old man” is shown to be different referents, or no non-generic shared anchor emerges (prop/setting/character) to tighten the link.
 
 ### Constraint cross-index (narrators)
 
@@ -185,7 +185,6 @@ Directionless mapping from each constraint pair to narrator IDs (useful for cros
 - Pages/cains_jawbone_page_61.md ↔ Pages/cains_jawbone_page_64.md — Narrator(s): N04 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_65.md ↔ Pages/cains_jawbone_page_90.md — Narrator(s): N32 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_66.md ↔ Pages/cains_jawbone_page_67.md — Narrator(s): N05 (confidence: `CERTAIN`)
-- Pages/cains_jawbone_page_68.md ↔ Pages/cains_jawbone_page_69.md — Narrator(s): N09 (confidence: `LIKELY`)
 - Pages/cains_jawbone_page_70.md ↔ Pages/cains_jawbone_page_95.md — Narrator(s): N09 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_73.md ↔ Pages/cains_jawbone_page_74.md — Narrator(s): N06 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_76.md ↔ Pages/cains_jawbone_page_77.md — Narrator(s): N15 (confidence: `LIKELY`)
