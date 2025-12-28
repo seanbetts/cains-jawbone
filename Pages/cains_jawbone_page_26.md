@@ -6,18 +6,19 @@ The girl had left Henry by this time, thank God. She was an obvious whey-face. S
   - CERTAIN: Henry.
   - MAYBE: “the girl” (Henry’s companion; “whey-face”; unnamed).
   - MAYBE: rector’s aunt (unnamed).
-  - MAYBE: Hodge (asks narrator about “Ben Wade”).
+  - CERTAIN: Hodge (asks narrator about “Ben Wade”).
   - LIKELY: Ben Wade (pipe brand; see *Life*, 1912: “What could be sweeter than a Ben Wade pipe?” https://books.google.co.uk/books?id=oE6vVC1I8TYC&pg=PA1&vq=%22Ben+Wade%22).
 - **Motifs/continuity hooks:**
   - Murder fascination: narrator “liked a good murder”.
   - Accent/heredity: “An accent was a terrible thing”; “something in heredity”.
   - Physical tell: Hodge has a “wen” and scratches “left whisker”.
-  - LIKELY: `P33` Hodge appears only here and Pages/cains_jawbone_page_44.md, suggesting overlap with the `N16` Henry/Hodge thread; “The girl had left Henry…” also echoes Pages/cains_jawbone_page_45.md’s “The girl was no longer there.”
+  - CERTAIN: `P33` Hodge appears only here and Pages/cains_jawbone_page_44.md; treat as a continuity constraint `Pages/cains_jawbone_page_26.md ↔ Pages/cains_jawbone_page_44.md` (see `Order/hypotheses.md` constraints inventory).
+  - LIKELY: phrase echo to Pages/cains_jawbone_page_45.md (“The girl had left Henry…” ↔ “The girl was no longer there.”); treat as a thread lock `Pages/cains_jawbone_page_26.md ↔ Pages/cains_jawbone_page_45.md` (direction TBD in Phase 4; see `Order/hypotheses.md` constraints inventory).
 - **Voice/tells:**
   - Darkly amused, judgemental (“whey-face”); punning on “killing time”.
   - “bee with a sore bonnet” reads like a “foreign touch”/malapropism of the idiom “bear with a sore head” (Kipling, *The Light That Failed*, Ch. 12: https://en.wikisource.org/wiki/The_Light_That_Failed/Chapter_12).
 - **Clustering hypotheses:**
-  - CERTAIN: `N16` smell-memory + incinerator-evidence umbrella via `P33` Hodge (appears only here and Pages/cains_jawbone_page_44.md) plus the “The girl…” echo (“The girl had left Henry…” ↔ Pages/cains_jawbone_page_45.md’s “The girl was no longer there”).
+  - LIKELY: `N16` Henry/Hodge thread; anchored by the `P33` Hodge lock to Pages/cains_jawbone_page_44.md and the “The girl…” echo to Pages/cains_jawbone_page_45.md (resolve direction in Phase 4).
   - MAYBE: overlaps with Pages/cains_jawbone_page_58.md via the “Henry” murder-count numbering (“first two killings” ↔ “third/fourth”), but treat Henry identity as high-noise across the corpus and keep this as a cross-narrator candidate until corroborated by a second non-name anchor (see `Order/hypotheses.md` candidate cross-narrator overlap).
 - **Disconfirming evidence:**
   - If later context shows “killings” is figurative (e.g., stage/role talk) rather than literal murder.

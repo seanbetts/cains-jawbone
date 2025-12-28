@@ -19,7 +19,8 @@ I sometimes wish, and I wished then, that I had the gift of telling, or at least
   - Smell-centric perception (MAYBE animal-coded); self-critique about storytelling.
 - **Clustering hypotheses:**
   - CERTAIN: `N16` smell-memory + incinerator-evidence voice (Hodge + first St. Bruno + smell-triggered Vera Cruz memory + incinerator marriage-certificate evidence).
-  - LIKELY: tight in-cluster ties to Pages/cains_jawbone_page_26.md (Hodge appears only on these two pages) and Pages/cains_jawbone_page_45.md (shared Henry-focused “problem/evidence” framing; likely same episode, ordering TBD in Phase 4).
+  - CERTAIN: tight in-cluster tie to Pages/cains_jawbone_page_26.md (Hodge appears only on these two pages); treat as a continuity constraint `Pages/cains_jawbone_page_26.md ↔ Pages/cains_jawbone_page_44.md` (see `Order/hypotheses.md` constraints inventory).
+  - LIKELY: ties to Pages/cains_jawbone_page_45.md (shared Henry-focused “problem/evidence” framing; likely same episode, ordering TBD in Phase 4).
   - MAYBE: overlaps other burned-paper / will / forgery motifs; keep separate until a second non-generic phrase/participant anchor recurs.
 - **Disconfirming evidence:**
   - If later context shows the “marriage certificate” is metaphorical rather than literal evidence.
