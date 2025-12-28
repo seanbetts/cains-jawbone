@@ -154,7 +154,7 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
 
 - **Merge:** `N05` + `N06` → `N06` (confidence: `CERTAIN`)
   - **Anchors:** phrase-level self-echo “I remembered the place of my initiation” (Pages/cains_jawbone_page_66.md ↔ Pages/cains_jawbone_page_73.md, page-body unique) plus the shared “the Head, as we called him”/“ringing with…” school-register phrasing (Pages/cains_jawbone_page_66.md + Pages/cains_jawbone_page_67.md ↔ Pages/cains_jawbone_page_74.md, page-body unique).
-  - **Corroboration:** both strands use a near-identical mid-sentence “hung round with …” set-piece break (Pages/cains_jawbone_page_66.md → Pages/cains_jawbone_page_67.md; Pages/cains_jawbone_page_73.md → Pages/cains_jawbone_page_74.md), consistent with one narrator reusing a distinctive syntactic move in two different memories.
+  - **Corroboration:** both strands use a near-identical mid-sentence “hung round with …” set-piece break (Pages/cains_jawbone_page_66.md ↔ Pages/cains_jawbone_page_67.md; Pages/cains_jawbone_page_73.md ↔ Pages/cains_jawbone_page_74.md), consistent with one narrator reusing a distinctive syntactic move in two different memories.
   - **Falsifier:** a new page-body instance of either anchor phrase appears elsewhere, or later evidence forces incompatible narrator self-identity/setting constraints across the school-colours/Head strand vs the OGPU/documents/flower strand.
 
 ### Candidate cross-narrator overlap (falsify before treating as a constraint)
@@ -407,22 +407,22 @@ These are **cross-narrator** groupings intended to reduce the search space for P
 
 This is descriptive only: overlaps here do not imply ordering or shared narrator without additional anchors.
 
-- Pages/cains_jawbone_page_2.md → Paper artifacts + money pressure; Time obsession + calendar anchors
-- Pages/cains_jawbone_page_5.md → Botany/poison + gardening expertise; Aesthetic / infatuation / high-society
-- Pages/cains_jawbone_page_7.md → Botany/poison + gardening expertise; Detective/police + violence scenes
-- Pages/cains_jawbone_page_11.md → Paper artifacts + money pressure; Time obsession + calendar anchors
-- Pages/cains_jawbone_page_32.md → Time obsession + calendar anchors; Whitman quotation collage
-- Pages/cains_jawbone_page_40.md → Botany/poison + gardening expertise; Whitman quotation collage
-- Pages/cains_jawbone_page_41.md → Aesthetic / infatuation / high-society; Time obsession + calendar anchors
-- Pages/cains_jawbone_page_44.md → Paper artifacts + money pressure; Detective/police + violence scenes
-- Pages/cains_jawbone_page_45.md → Botany/poison + gardening expertise; Detective/police + violence scenes
-- Pages/cains_jawbone_page_52.md → Paper artifacts + money pressure; Time obsession + calendar anchors
-- Pages/cains_jawbone_page_54.md → Botany/poison + gardening expertise; Time obsession + calendar anchors
-- Pages/cains_jawbone_page_57.md → Dog POV; Paper artifacts + money pressure
-- Pages/cains_jawbone_page_67.md → Aesthetic / infatuation / high-society; Time obsession + calendar anchors
-- Pages/cains_jawbone_page_84.md → Aesthetic / infatuation / high-society; Time obsession + calendar anchors
-- Pages/cains_jawbone_page_89.md → Paper artifacts + money pressure; Aesthetic / infatuation / high-society
-- Pages/cains_jawbone_page_99.md → Dog POV; Time obsession + calendar anchors
+- Pages/cains_jawbone_page_2.md: Paper artifacts + money pressure; Time obsession + calendar anchors
+- Pages/cains_jawbone_page_5.md: Botany/poison + gardening expertise; Aesthetic / infatuation / high-society
+- Pages/cains_jawbone_page_7.md: Botany/poison + gardening expertise; Detective/police + violence scenes
+- Pages/cains_jawbone_page_11.md: Paper artifacts + money pressure; Time obsession + calendar anchors
+- Pages/cains_jawbone_page_32.md: Time obsession + calendar anchors; Whitman quotation collage
+- Pages/cains_jawbone_page_40.md: Botany/poison + gardening expertise; Whitman quotation collage
+- Pages/cains_jawbone_page_41.md: Aesthetic / infatuation / high-society; Time obsession + calendar anchors
+- Pages/cains_jawbone_page_44.md: Paper artifacts + money pressure; Detective/police + violence scenes
+- Pages/cains_jawbone_page_45.md: Botany/poison + gardening expertise; Detective/police + violence scenes
+- Pages/cains_jawbone_page_52.md: Paper artifacts + money pressure; Time obsession + calendar anchors
+- Pages/cains_jawbone_page_54.md: Botany/poison + gardening expertise; Time obsession + calendar anchors
+- Pages/cains_jawbone_page_57.md: Dog POV; Paper artifacts + money pressure
+- Pages/cains_jawbone_page_67.md: Aesthetic / infatuation / high-society; Time obsession + calendar anchors
+- Pages/cains_jawbone_page_84.md: Aesthetic / infatuation / high-society; Time obsession + calendar anchors
+- Pages/cains_jawbone_page_89.md: Paper artifacts + money pressure; Aesthetic / infatuation / high-society
+- Pages/cains_jawbone_page_99.md: Dog POV; Time obsession + calendar anchors
 
 **Macro coverage audit (pages currently in 0 macro strands)**
 
@@ -603,7 +603,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - Pages/cains_jawbone_page_44.md’s “gift of telling… a story vividly” + smell-memory register can read as a prelude to Pages/cains_jawbone_page_7.md’s explicitly literary mood-setting (“gone to sleep… after rereading Typhoon”) before the Typhoon-anchored witness recap on Pages/cains_jawbone_page_45.md.
       - **Disconfirming evidence:**
         - Any explicit time/setting marker ties Pages/cains_jawbone_page_44.md’s incinerator/certificate episode to a later point that cannot precede the Typhoon sleep/wake beat on Pages/cains_jawbone_page_7.md.
-  - **Next falsification check:** keep Pages/cains_jawbone_page_55.md as edge-overlap unless a second distinctive `N16` anchor appears (e.g., St. Bruno/Hodge/incinerator-evidence cues, Typhoon-lock overlap, or a second date/holiday anchor in the same voice); for Pages/cains_jawbone_page_44.md, look for any page that reuses the “incinerator / marriage certificate / second wife’s brother” evidence bundle to lock its placement relative to the Typhoon lock; for Pages/cains_jawbone_page_45.md, watch for a phrase-level continuation of “The girl was no longer there” that would make Pages/cains_jawbone_page_45.md → Pages/cains_jawbone_page_44.md non-adjacent.
+  - **Next falsification check:** keep Pages/cains_jawbone_page_55.md as edge-overlap unless a second distinctive `N16` anchor appears (e.g., St. Bruno/Hodge/incinerator-evidence cues, Typhoon-lock overlap, or a second date/holiday anchor in the same voice); for Pages/cains_jawbone_page_44.md, look for any page that reuses the “incinerator / marriage certificate / second wife’s brother” evidence bundle to lock its placement relative to the Typhoon lock; for Pages/cains_jawbone_page_45.md, watch for a phrase-level continuation of “The girl was no longer there” that would make Pages/cains_jawbone_page_45.md and Pages/cains_jawbone_page_44.md non-adjacent.
 
 - **Cluster:** `N17` Dog-watch/capstan + Kipling-quoting punster voice (confidence: `LIKELY`)
   - **Pages:** Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_41.md
@@ -679,7 +679,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - If Pages/cains_jawbone_page_31.md is an earlier “reckon with Henry” prelude in the same Grantham episode, it could still precede Pages/cains_jawbone_page_13.md in broader order even though Pages/cains_jawbone_page_49.md appears to be the tighter immediate join into Pages/cains_jawbone_page_13.md.
       - **Disconfirming evidence:**
         - Any additional phrase-level continuation or “now/then” marker ties Pages/cains_jawbone_page_31.md directly as a reaction to Pages/cains_jawbone_page_13.md’s two-body tableau (making Pages/cains_jawbone_page_13.md → Pages/cains_jawbone_page_31.md the more natural internal order).
-  - **Resolved check:** Pages/cains_jawbone_page_13.md’s “conduit dating from 1597… in the market place” is a high-signal Grantham anchor; treat Pages/cains_jawbone_page_31.md’s “in this very place” as referring to the same Grantham setting within the `N20` incident, supporting continuity and making Pages/cains_jawbone_page_13.md → Pages/cains_jawbone_page_31.md the default internal order under the Pages/cains_jawbone_page_49.md → Pages/cains_jawbone_page_13.md Blake lock.
+  - **Resolved check:** Pages/cains_jawbone_page_13.md’s “conduit dating from 1597… in the market place” is a high-signal Grantham anchor; treat Pages/cains_jawbone_page_31.md’s “in this very place” as referring to the same Grantham setting within the `N20` incident, supporting continuity with the Pages/cains_jawbone_page_49.md ↔ Pages/cains_jawbone_page_13.md Blake lock (direction resolved in Phase 4).
   - **Falsification check (2025-12-25):** scanned all page bodies for the unique N20 anchors (“Bloomsbury”, “Newdigate”, “conduit dating from 1597”, “nomenclature”, “Caseus”, “hip pocket”) and found no third-page matches beyond Pages/cains_jawbone_page_13.md and Pages/cains_jawbone_page_31.md; Pages/cains_jawbone_page_49.md is retained only via the Blake quote-continuation lock into Pages/cains_jawbone_page_13.md.
   - **Next falsification check:** only expand `N20` beyond Pages/cains_jawbone_page_49.md if a candidate page shares 2+ of the specific N20 anchors (not just generic Henry presence).
 
@@ -740,7 +740,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - Pages/cains_jawbone_page_34.md’s opener (“petty employ…”) can be read as a meta nod to the concealment/eavesdropping vignette in Pages/cains_jawbone_page_33.md.
       - **Disconfirming evidence:**
         - The bills/debts phrasing is shown to be generic across unrelated voices and no phrase-level anchor links the two scenes.
-  - **Falsification check (2025-12-25):** searched the page corpus for the “innocent child” phrasing and found it only on Pages/cains_jawbone_page_34.md and Pages/cains_jawbone_page_52.md; together with their shared “ironic” framing, this supports a `LIKELY` same-voice link (vs a widely reused detachable quotation). However, no shared participant/prop/setting marker ties the debts vignette (Pages/cains_jawbone_page_33.md → Pages/cains_jawbone_page_34.md) to the interview run (Pages/cains_jawbone_page_52.md → Pages/cains_jawbone_page_53.md), so keep them as two internal sequences and do not assert adjacency between them yet.
+  - **Falsification check (2025-12-25):** searched the page corpus for the “innocent child” phrasing and found it only on Pages/cains_jawbone_page_34.md and Pages/cains_jawbone_page_52.md; together with their shared “ironic” framing, this supports a `LIKELY` same-voice link (vs a widely reused detachable quotation). However, no shared participant/prop/setting marker ties the debts vignette (Pages/cains_jawbone_page_33.md + Pages/cains_jawbone_page_34.md) to the interview run (Pages/cains_jawbone_page_52.md + Pages/cains_jawbone_page_53.md), so keep them as two internal pairings and do not assert adjacency between them yet.
   - **Next falsification check:** seek a second independent continuity marker bridging the debts vignette to the interview run (named participant, repeated prop, or consistent location detail), or find a third “innocent child” instance under a clearly different voice that would demote it to generic phrasing.
 
 - **Cluster:** `N26` “Awful and literal sense” breakfast-recapping / second-sight voice (confidence: `LIKELY`)
@@ -876,7 +876,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - If Pages/cains_jawbone_page_28.md’s “Not a woman had entered as yet” is a later return to the same plan (new location, still awaiting the target), Pages/cains_jawbone_page_50.md could be an earlier attempt at the will/pen work.
       - **Disconfirming evidence:**
         - Any concrete time marker anchors one scene as “next day/after” the other.
-  - **Resolved check:** *Importance of Being Earnest* fragments recur elsewhere (e.g., Pages/cains_jawbone_page_65.md), so treat “Act I progression” as supportive only; confidence for Pages/cains_jawbone_page_28.md → Pages/cains_jawbone_page_50.md rests primarily on the shared forgery/target-harm framing (“woman not yet dead” ↔ “hurting the girl” + the will/pen-work scene).
+  - **Resolved check:** *Importance of Being Earnest* fragments recur elsewhere (e.g., Pages/cains_jawbone_page_65.md), so treat “Act I progression” as supportive only; confidence for the Pages/cains_jawbone_page_28.md / Pages/cains_jawbone_page_50.md pairing rests primarily on the shared forgery/target-harm framing (“woman not yet dead” ↔ “hurting the girl” + the will/pen-work scene).
   - **Next falsification check:** look for a second, non-quotation anchor shared by the two pages (e.g., the green binding device “single star above… sea,” “ticklish business,” “wonderful hands,” or a repeat of Pluckley/Kent); separately, note that Pages/cains_jawbone_page_50.md’s Greek Anthology “Homonoea” line overlaps Pages/cains_jawbone_page_12.md (Phase 5 join-candidate, not a Phase 4 ordering claim).
 
 - **Cluster:** `N40` Bills-in-paper / Bryant & May / Left Luggage voice (confidence: `MAYBE`)
@@ -911,7 +911,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Pages:** Pages/cains_jawbone_page_66.md, Pages/cains_jawbone_page_67.md
   - **Rationale:** Direct sentence continuation plus a consistent school-nostalgia register (the Head, school colours, fives courts, art-name dropping) supports a tight single-voice segment.
   - **Key anchors:** fives courts; old Hall hung with Beardsley/Rops; “the Head”; celebration vs mourning register.
-  - **Disconfirming evidence:** only if the 66→67 sentence continuation is later shown to be a transcription artifact (unlikely given page integrity checks).
+  - **Disconfirming evidence:** only if the 66↔67 sentence continuation is later shown to be a transcription artifact (unlikely given page integrity checks).
   - **Phase 4 internal ordering hypotheses (N05; sub-strand within `N06`):**
     - **Sequence A — sentence continuation lock** (confidence: `CERTAIN`)
       - **Pages (ordered):** Pages/cains_jawbone_page_66.md → Pages/cains_jawbone_page_67.md
@@ -1033,7 +1033,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - Caveat: no phrase-level overlap with the rest of `N06` has been found yet, so treat this as an edge-fit until a second independent anchor emerges.
       - **Disconfirming evidence:**
         - Pages/cains_jawbone_page_71.md’s Henry/May context is later anchored to a different narrator/setting, or “May” resolves as purely seasonal with no cross-page continuity.
-  - **Next falsification check:** confirm whether Pages/cains_jawbone_page_83.md’s “metallic object” is a coin/half-crown (echoing Pages/cains_jawbone_page_74.md’s “half-crowns dropped upon marble”); corpus scan: “half-crowns” appears only on Pages/cains_jawbone_page_74.md, and “metallic object”/“daughterly” only on Pages/cains_jawbone_page_83.md, but the object is still unnamed. Also find a second independent prop/phrase anchor tying Pages/cains_jawbone_page_83.md to the `73 → 74 → 75` run, and a second independent anchor linking Pages/cains_jawbone_page_71.md to the same narrator beyond “May” + eyesight.
+  - **Next falsification check:** confirm whether Pages/cains_jawbone_page_83.md’s “metallic object” is a coin/half-crown (echoing Pages/cains_jawbone_page_74.md’s “half-crowns dropped upon marble”); corpus scan: “half-crowns” appears only on Pages/cains_jawbone_page_74.md, and “metallic object”/“daughterly” only on Pages/cains_jawbone_page_83.md, but the object is still unnamed. Also find a second independent prop/phrase anchor tying Pages/cains_jawbone_page_83.md to the `73/74/75` run, and a second independent anchor linking Pages/cains_jawbone_page_71.md to the same narrator beyond “May” + eyesight.
 
 - **Cluster:** Coastal imagery (confidence: `MAYBE`)
   - **Pages:** Pages/cains_jawbone_page_1.md, Pages/cains_jawbone_page_4.md, Pages/cains_jawbone_page_5.md
@@ -1241,7 +1241,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
 
 - **Cluster:** `N03` Clement / pills / flowers-and-mercy register (confidence: `LIKELY`)
   - **Pages:** Pages/cains_jawbone_page_3.md, Pages/cains_jawbone_page_24.md, Pages/cains_jawbone_page_27.md, Pages/cains_jawbone_page_30.md, Pages/cains_jawbone_page_32.md
-  - **Rationale:** Pages 32→3 form a tight “instructions + pills/job” beat anchored by a named meeting with Clément/Clement “yesterday,” while Pages 30→24 form a tight “house suspicion → next-day confirmation” beat anchored by botanical precision (Cape Jasmine/gardenia; hellebore; wild jasmine/roses) and the same suspicion framing. Page 27 reads as “Clem” backstory that is not yet placeable within either beat.
+  - **Rationale:** Pages 32 and 3 share a tight “instructions + pills/job” beat anchored by a named meeting with Clément/Clement “yesterday,” while Pages 30 and 24 share a tight “house suspicion / next-day confirmation” beat anchored by botanical precision (Cape Jasmine/gardenia; hellebore; wild jasmine/roses) and the same suspicion framing. Page 27 reads as “Clem” backstory that is not yet placeable within either beat.
   - **Key anchors:** Clément/Clement instruction appointment; “assassin’s wonderful substance” + pills; Cape Jasmine/gardenia + suspicion test; Caroline + “Next day… suspicions… well-founded”; pope-count clue + Giulio de Medici (Clement VII); “tiny Clem”.
   - **Disconfirming evidence:** Page 24 narrator is explicitly named something else later, or “Clement” is purely thematic.
   - **Phase 4 internal ordering hypotheses (N03):**

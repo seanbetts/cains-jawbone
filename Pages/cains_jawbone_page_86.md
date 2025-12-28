@@ -24,7 +24,7 @@ Next day I let Caroline Jasmine---what a name!---do her very damnedest for my gu
   - MAYBE: the “tool” echoes Whitman’s surgical image (anatomist’s/surgeon’s knife/saw) in “What is removed drops horribly in a pail.”
 - **Quotes & allusions:**
   - CERTAIN: “What is removed drops horribly in a pail.” — Walt Whitman, *Leaves of Grass* (“Song of Myself”), Page:Leaves_of_Grass_(1882).djvu/45.
-  - CERTAIN: “But we have all bent low and low and kissed the quiet feet …” — W. B. Yeats, “The Song of Red Hanrahan” (*In the Seven Woods*, 1903), Page:In_the_Seven_Woods,_Yeats,_1903.djvu/32 (continues on Pages/cains_jawbone_page_87.md with altered wording).
+  - CERTAIN: “But we have all bent low and low and kissed the quiet feet …” — W. B. Yeats, “The Song of Red Hanrahan” (*In the Seven Woods*, 1903), Page:In_the_Seven_Woods,_Yeats,_1903.djvu/32 (quotation is split across Pages/cains_jawbone_page_86.md and Pages/cains_jawbone_page_87.md; wording altered in the continuation).
 - **Motifs/continuity hooks:**
   - Jasmine name motif (Caroline Jasmine) in a run already heavy with jasmine/flowers.
   - Host/guest/patient framing echoes other “guest” poisoning setups (compare Pages/cains_jawbone_page_80.md).
