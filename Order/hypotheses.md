@@ -92,11 +92,11 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
 - **Constraint:** Pages/cains_jawbone_page_8.md ↔ Pages/cains_jawbone_page_19.md (confidence: `CERTAIN`)
   - **Anchor:** the knob/call-bell is twiddled and Mr. Hall enters; Page 19 explicitly says he comes in “again.”
   - **Falsifier:** another page introduces an incompatible “Mr. Hall” + bell mechanism, implying two unrelated households.
-- **Constraint:** Pages/cains_jawbone_page_99.md ↔ Pages/cains_jawbone_page_8.md (confidence: `LIKELY`)
+- **Constraint:** Pages/cains_jawbone_page_99.md ↔ Pages/cains_jawbone_page_8.md (confidence: `CERTAIN`)
   - **Anchor:** unique bow/ends-unequal + missing “jossers” ↔ later trimming “the left end” of the same bow.
   - **Falsifier:** “jossers” is shown to be unrelated to the bow/adjustment action, weakening the uniqueness of the link.
-- **Constraint:** Pages/cains_jawbone_page_39.md ↔ Pages/cains_jawbone_page_10.md (confidence: `LIKELY`)
-  - **Anchor:** the “bet / points” setup expands across the two pages in the same domestic/garden scene.
+- **Constraint:** Pages/cains_jawbone_page_39.md ↔ Pages/cains_jawbone_page_10.md (confidence: `CERTAIN`)
+  - **Anchor:** phrase-level bet follow-through (“They made a bet.” ↔ “formulated their bet… third point”).
   - **Falsifier:** “bet/points” language is shown to recur as a generic motif across other pages with clearer continuity.
 - **Constraint:** Pages/cains_jawbone_page_10.md ↔ Pages/cains_jawbone_page_99.md (confidence: `CERTAIN`)
   - **Anchor:** phrase-level “My mistress wore them” ↔ “And she wore…” continuation, reinforced by shared Jasmine parenthetical.
@@ -105,10 +105,10 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
   - **Anchor:** “made love to Flora” ↔ “made love to Flora again” (explicit “again” hinge).
   - **Falsifier:** a different page contains the missing “made love to Flora” setup, or “Flora” is shown to refer to different entities on the two pages.
 - **Constraint:** Pages/cains_jawbone_page_48.md ↔ Pages/cains_jawbone_page_88.md (confidence: `LIKELY`)
-  - **Anchor:** Tate sugar + “He said… She said…” domestic observer register persists across both pages.
+  - **Anchor:** Tate-sugar cue (unique to these pages) + “He said… She said…” domestic observer register persists across both pages.
   - **Falsifier:** “Tate” and the “He said… She said…” register are shown to recur widely in unrelated scenes.
-- **Constraint:** Pages/cains_jawbone_page_39.md ↔ Pages/cains_jawbone_page_88.md (confidence: `LIKELY`)
-  - **Anchor:** shared year-tally + bet/quarrel register (“two all for that year” ↔ “how few the other had done so late in the year”).
+- **Constraint:** Pages/cains_jawbone_page_39.md ↔ Pages/cains_jawbone_page_88.md (confidence: `CERTAIN`)
+  - **Anchor:** unique year-tally/score phrases (“two all for that year” ↔ “how few the other had done so late in the year”).
   - **Falsifier:** the “so late in the year” tally phrasing is shown to belong to a different couple/contest than Page 39’s bet.
 - **Constraint:** Pages/cains_jawbone_page_70.md ↔ Pages/cains_jawbone_page_95.md (confidence: `LIKELY`)
   - **Anchor:** “told him all, hour by hour, day by day” written account ↔ “I had told all I knew… the girl would find it in the morning, franked.”
@@ -140,8 +140,8 @@ Directionless mapping from each constraint pair to narrator IDs (useful for cros
 - Pages/cains_jawbone_page_3.md ↔ Pages/cains_jawbone_page_32.md — Narrator(s): N03 (confidence: `LIKELY`)
 - Pages/cains_jawbone_page_7.md ↔ Pages/cains_jawbone_page_45.md — Narrator(s): N16 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_8.md ↔ Pages/cains_jawbone_page_19.md — Narrator(s): N02 (confidence: `CERTAIN`)
-- Pages/cains_jawbone_page_8.md ↔ Pages/cains_jawbone_page_99.md — Narrator(s): N02 (confidence: `LIKELY`)
-- Pages/cains_jawbone_page_10.md ↔ Pages/cains_jawbone_page_39.md — Narrator(s): N02 (confidence: `LIKELY`)
+- Pages/cains_jawbone_page_8.md ↔ Pages/cains_jawbone_page_99.md — Narrator(s): N02 (confidence: `CERTAIN`)
+- Pages/cains_jawbone_page_10.md ↔ Pages/cains_jawbone_page_39.md — Narrator(s): N02 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_10.md ↔ Pages/cains_jawbone_page_99.md — Narrator(s): N02 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_11.md ↔ Pages/cains_jawbone_page_41.md — Narrator(s): N17 (confidence: `LIKELY`)
 - Pages/cains_jawbone_page_12.md ↔ Pages/cains_jawbone_page_14.md — Narrator(s): N10 (confidence: `LIKELY`)
@@ -158,7 +158,7 @@ Directionless mapping from each constraint pair to narrator IDs (useful for cros
 - Pages/cains_jawbone_page_29.md ↔ Pages/cains_jawbone_page_36.md — Narrator(s): N12 (confidence: `LIKELY`)
 - Pages/cains_jawbone_page_33.md ↔ Pages/cains_jawbone_page_34.md — Narrator(s): N25 (confidence: `LIKELY`)
 - Pages/cains_jawbone_page_35.md ↔ Pages/cains_jawbone_page_58.md — Narrator(s): N12 (confidence: `LIKELY`)
-- Pages/cains_jawbone_page_39.md ↔ Pages/cains_jawbone_page_88.md — Narrator(s): N02 (confidence: `LIKELY`)
+- Pages/cains_jawbone_page_39.md ↔ Pages/cains_jawbone_page_88.md — Narrator(s): N02 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_42.md ↔ Pages/cains_jawbone_page_92.md — Narrator(s): N21 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_48.md ↔ Pages/cains_jawbone_page_88.md — Narrator(s): N02 (confidence: `LIKELY`)
 - Pages/cains_jawbone_page_52.md ↔ Pages/cains_jawbone_page_53.md — Narrator(s): N25 (confidence: `LIKELY`)
