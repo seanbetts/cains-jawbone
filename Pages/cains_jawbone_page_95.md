@@ -45,6 +45,6 @@ LIKELY WORDPLAY
   - Decision-point framing (“I had decided what to do”) followed by procedural recounting.
 - **Clustering hypotheses:**
   - CERTAIN: links strongly with Pages/cains_jawbone_page_70.md (writes the full account, then Page 70’s “I had told all I knew” + franked item found “in the morning” reads as aftermath); treat as a continuity constraint `Pages/cains_jawbone_page_70.md ↔ Pages/cains_jawbone_page_95.md` (see `Order/hypotheses.md` constraints inventory).
-  - MAYBE: overlaps with Pages/cains_jawbone_page_96.md as a café/meeting strand (menu/tea waiting beat ↔ “I had decided what to do” → write the full account); treat as a candidate lock pending a second shared anchor.
+  - MAYBE: café/meeting motif overlap with Pages/cains_jawbone_page_96.md, but no phrase-level overlap found; treat as non-binding unless a shared person/prop/venue marker emerges.
 - **Disconfirming evidence:**
   - If the “horrid act” is later shown to be non-violent (e.g., fraud/prank) rather than murder.

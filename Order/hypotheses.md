@@ -162,30 +162,41 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
 - **Candidate:** Pages/cains_jawbone_page_26.md ↔ Pages/cains_jawbone_page_58.md (`N16` ↔ `N12`) (confidence: `MAYBE`)
   - **Anchor:** complementary murder-count numbering around “Henry” (“first two killings” ↔ “third/fourth” victims) suggests a shared Henry-kill-count thread, but “Henry” is high-noise across the corpus and the narrator signatures differ.
   - **Falsifier:** any additional anchor shows the “Henry” contexts are incompatible (distinct setting/cast/logistics), or “killings” is shown to be figurative on one side.
-- **Candidate:** Pages/cains_jawbone_page_29.md ↔ Pages/cains_jawbone_page_96.md (`N12` ↔ `N09`) (confidence: `MAYBE`)
-  - **Anchor:** shared aside phrase: “if I may be permitted the expression” appears only on these two pages, each time as a self-conscious idiom/phrase marker.
-  - **Falsifier:** the phrase is found elsewhere in the page bodies (making it a generic tic), or additional voice/scene anchors show the two uses are unrelated coincidence.
-- **Candidate:** Pages/cains_jawbone_page_21.md ↔ Pages/cains_jawbone_page_31.md (`N12` ↔ `N20`) (confidence: `MAYBE`)
-  - **Anchor:** unique phrase-level echo: “to reckon with Henry” appears only on these two pages, each time as a high-stakes confrontation framing (corpse/poison logistics ↔ hip-pocket threat).
-  - **Falsifier:** the phrase is found elsewhere in the page bodies (making it a generic idiom), or “Henry” is shown to be different referents/roles across the two pages, making the match coincidental.
+
+### Falsified cross-narrator candidates (Phase 3)
+
+- **Candidate:** Pages/cains_jawbone_page_29.md ↔ Pages/cains_jawbone_page_96.md (`N12` ↔ `N09`) (confidence: `MAYBE`, disposition: `FALSIFIED`)
+  - **Prior anchor:** shared aside phrase “if I may be permitted the expression” is a page-body unique 7‑gram across the corpus.
+  - **Falsification check:** no second shared anchor (no shared 3–6 word phrases beyond the aside, no shared setting/cast/prop); the aside is applied to unrelated rhetorical contexts (garden-path idiom pun ↔ Scots “gars me grue” gloss), so treat as a stylistic echo only (not a constraint).
+  - **Revive if:** a second independent anchor emerges (shared named entity, shared venue, shared object continuity) that ties the scenes rather than the phrasing.
+- **Candidate:** Pages/cains_jawbone_page_21.md ↔ Pages/cains_jawbone_page_31.md (`N12` ↔ `N20`) (confidence: `MAYBE`, disposition: `FALSIFIED`)
+  - **Prior anchor:** unique phrase-level echo “to reckon with Henry” appears only on these two page bodies.
+  - **Falsification check:** no additional overlap beyond that phrase plus generic “I did not know”; “Henry” is high-noise across the corpus and the surrounding scenes/voice tells do not cohere, so treat as a Henry‑motif overlap only (not a constraint).
+  - **Revive if:** a tighter shared anchor is found (same location marker, same victim/prop, or a distinct shared quote/allusion beyond “Henry”).
 
 ### Candidate low-confidence locks already noted in page notes
 
-- **Candidate:** Pages/cains_jawbone_page_4.md ↔ Pages/cains_jawbone_page_5.md (confidence: `MAYBE`)
-  - **Anchor:** shared church/puddles + boy-near-sea vignette overlaps with the ruined lighthouse scene imagery.
-  - **Falsifier:** the settings are later anchored to incompatible locales/timelines.
 - **Candidate:** Pages/cains_jawbone_page_58.md ↔ Pages/cains_jawbone_page_35.md (confidence: `MAYBE`)
   - **Anchor:** pursuit escalation candidate: Page 58’s “horribly official knock at the little blue door” plausibly leads into Page 35’s flying-squad surround and concealed-panel chase mechanics, but shared anchors are mostly thematic (police pressure + Henry corpse context).
   - **Falsifier:** one page is shown to be an embedded/imagined chase scenario, or the two scenes’ setting/cast is later anchored as incompatible.
-- **Candidate:** Pages/cains_jawbone_page_68.md ↔ Pages/cains_jawbone_page_69.md (confidence: `MAYBE`)
-  - **Anchor:** “old man” strand: crucial-meeting/eavesdropping paranoia (Pages/cains_jawbone_page_68.md) ↔ late-night aftermath of witnessing a “poor old man” “done slowly to death” (Pages/cains_jawbone_page_69.md).
-  - **Falsifier:** the “old man” is shown to be different referents, or no non-generic shared anchor emerges (prop/setting/character) to tighten the link.
-- **Candidate:** Pages/cains_jawbone_page_95.md ↔ Pages/cains_jawbone_page_96.md (confidence: `MAYBE`)
-  - **Anchor:** café/meeting beat: Page 96’s in-situ menu/tea waiting (“the only literature before me”) and “mysterious” meeting framing plausibly align with Page 95’s explicit Café Royal time-budget plus the immediate decision to write the hour-by-hour account.
-  - **Falsifier:** Page 95’s opening is shown to be a pre-arrival travel beat incompatible with Page 96’s already-seated tea/menu scene, or Page 96 is later anchored to a non–Café Royal setting/voice.
 - **Candidate:** Pages/cains_jawbone_page_76.md ↔ Pages/cains_jawbone_page_77.md (confidence: `MAYBE`)
   - **Anchor:** murder planning/aftermath overlap: Page 76 names “Green” as a target and debates “do the thing”, while Page 77 admits “it was my first” and names a specific tool (“Compact”); plausible continuity but lacks an explicit shared prop/phrase, and Page 77 is now tightly anchored to Pages/cains_jawbone_page_35.md via the unique “Murders were funny things” echo.
   - **Falsifier:** Page 77’s “my first” killing is later anchored to the same victim/episode as Page 76’s “Green” target (or another page supplies a stronger Green/Compact bridge); otherwise treat as coincidental moral‑murder register overlap across narrators.
+
+### Falsified low-confidence lock candidates (Phase 3)
+
+- **Candidate:** Pages/cains_jawbone_page_4.md ↔ Pages/cains_jawbone_page_5.md (confidence: `MAYBE`, disposition: `FALSIFIED`)
+  - **Prior anchor:** shared coastal/Henry framing (church/puddles + boy-near-sea vignette ↔ ruined lighthouse + Henry).
+  - **Falsification check:** no shared phrase-level anchor (only a generic 3‑gram overlap); no shared named entity/prop continuity beyond “Henry”, so treat as a loose motif overlap only (not a lock).
+  - **Revive if:** a unique shared name/prop/quote emerges that ties the two scenes.
+- **Candidate:** Pages/cains_jawbone_page_68.md ↔ Pages/cains_jawbone_page_69.md (confidence: `MAYBE`, disposition: `FALSIFIED`)
+  - **Prior anchor:** “old man” strand (crucial meeting/eavesdropping paranoia ↔ late-night aftermath of witnessing a “poor old man” “done slowly to death”).
+  - **Falsification check:** no shared phrase-level anchor (no shared 3‑grams); “old man” is too generic without a second independent anchor, so do not treat as a lock.
+  - **Revive if:** a specific shared identifier for the “old man” appears (name, place marker, repeated quote, or distinctive prop).
+- **Candidate:** Pages/cains_jawbone_page_95.md ↔ Pages/cains_jawbone_page_96.md (confidence: `MAYBE`, disposition: `FALSIFIED`)
+  - **Prior anchor:** café/meeting beat (Page 96’s menu/tea waiting + “mysterious” meeting framing ↔ Page 95’s explicit Café Royal time-budget + immediate decision to write the hour-by-hour account).
+  - **Falsification check:** no shared phrase-level anchor (no shared 3‑grams); Page 96 is not explicitly anchored to Café Royal and shares no props/cast with Page 95, so treat as same macro‑strand possibility only (not a lock).
+  - **Revive if:** Page 96 gains an explicit Café Royal anchor (or shares a specific person/prop with the Page 70 ↔ Page 95 letter thread).
 
 ### Constraint cross-index (narrators)
 

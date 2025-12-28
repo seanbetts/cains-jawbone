@@ -34,7 +34,7 @@ LIKELY WORDPLAY
   - Fixation on naming (“nomenclature business”); oscillates between suddenness vs “triturative” slowness (bomb vs “exceeding small”).
 - **Clustering hypotheses:**
   - CERTAIN: links strongly with Pages/cains_jawbone_page_13.md (unique Grantham marker: “conduit dating from 1597” in the market place ↔ “in this very place… reckon with Henry”). Treat as a continuity constraint `Pages/cains_jawbone_page_13.md ↔ Pages/cains_jawbone_page_31.md` and resolve direction in Phase 4; see `Order/hypotheses.md` constraints inventory.
-  - MAYBE: cross-narrator overlap candidate with Pages/cains_jawbone_page_21.md via the unique phrase “to reckon with Henry” (appears only on these two page bodies); treat as a cross-narrator candidate `Pages/cains_jawbone_page_21.md ↔ Pages/cains_jawbone_page_31.md` (`N12` ↔ `N20`) pending any second non-name anchor.
+  - MAYBE: cross-narrator phrase echo with Pages/cains_jawbone_page_21.md (“to reckon with Henry” is page-body unique), but no second anchor found; treat as a Henry‑motif overlap only (not a constraint) unless a tighter shared prop/place emerges.
   - MAYBE: connects to other Henry “reckon with Henry” pages (Pages/cains_jawbone_page_26.md).
 - **Disconfirming evidence:**
   - If “Caseus”/Cassius reading doesn’t recur and “hip pocket” is purely idiomatic (not weapon).
