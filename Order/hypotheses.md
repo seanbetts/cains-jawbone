@@ -35,9 +35,9 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
 - **Constraint:** Pages/cains_jawbone_page_58.md ↔ Pages/cains_jawbone_page_35.md (confidence: `LIKELY`)
   - **Anchor:** “horribly official knock” + flying-squad manhunt (surrounding the house; concealed passage/panel).
   - **Falsifier:** one page is shown to be an embedded/imagined chase scenario rather than the same in-world pursuit.
-- **Constraint:** Pages/cains_jawbone_page_3.md ↔ Pages/cains_jawbone_page_32.md (confidence: `LIKELY`)
-  - **Anchor:** “yesterday” instruction-giver appointment + job/instructions framing, with a shared Whitman/weather register (“weeping weather” ↔ “rain-proof coat, good shoes”).
-  - **Falsifier:** the “yesterday” meeting/instructions are shown to refer to different events (or different “Clement/Clément”) on the two pages.
+- **Constraint:** Pages/cains_jawbone_page_3.md ↔ Pages/cains_jawbone_page_32.md (confidence: `CERTAIN`)
+  - **Anchor:** same instruction-giver episode: Page 3’s meeting with Clement “yesterday” (precise dosing/plan + travel “signs”) is reprised by Page 32’s “yesterday’s… place of appointment with the man who gave me my instructions”, with a shared Whitman/weather/scansion register (“weeping weather” ↔ “rain-proof coat, good shoes”).
+  - **Falsifier:** only if the “yesterday” instructions/appointment are shown to be different events (or different “Clement/Clément”) on the two pages.
 - **Constraint:** Pages/cains_jawbone_page_11.md ↔ Pages/cains_jawbone_page_41.md (confidence: `CERTAIN`)
   - **Anchor:** unique West-End + dog-watch bundle: “Orchard” waiting + “end of the second dog” (capstan-bar dog-watch register) matches the same voice’s “first dog” timekeeping plus Selfridges/Bond Street geography (Orchard Street is adjacent to Selfridges).
   - **Falsifier:** “Orchard” is shown to be literal (not London geography) and “first/second dog” are shown to be literal dogs (not watch-times), making the overlap coincidental.
@@ -155,7 +155,7 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
 Directionless mapping from each constraint pair to narrator IDs (useful for cross-narrator joins).
 
 - **Cross-narrator constraints (current):** Pages/cains_jawbone_page_23.md ↔ Pages/cains_jawbone_page_24.md (`N40` ↔ `N03`).
-- Pages/cains_jawbone_page_3.md ↔ Pages/cains_jawbone_page_32.md — Narrator(s): N03 (confidence: `LIKELY`)
+- Pages/cains_jawbone_page_3.md ↔ Pages/cains_jawbone_page_32.md — Narrator(s): N03 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_7.md ↔ Pages/cains_jawbone_page_45.md — Narrator(s): N16 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_8.md ↔ Pages/cains_jawbone_page_19.md — Narrator(s): N02 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_8.md ↔ Pages/cains_jawbone_page_99.md — Narrator(s): N02 (confidence: `CERTAIN`)
