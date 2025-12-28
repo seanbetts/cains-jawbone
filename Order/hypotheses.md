@@ -62,9 +62,6 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
 - **Constraint:** Pages/cains_jawbone_page_65.md ↔ Pages/cains_jawbone_page_90.md (confidence: `CERTAIN`)
   - **Anchor:** phrase-level continuation: Page 65’s “every muscle… enthralled” reading beat is picked up by Page 90’s opening “While my mind had been thus far away…”, and both share the identical “I thought I knew the type : learned in a macabre way, even distinguished …” wording (unique in the corpus).
   - **Falsifier:** only if a third page is found containing the same “type : learned in a macabre way…” phrasing in a way that better accounts for Page 65/90 context.
-- **Constraint:** Pages/cains_jawbone_page_95.md ↔ Pages/cains_jawbone_page_96.md (confidence: `LIKELY`)
-  - **Anchor:** Café Royal strand: tea/menu waiting + “mysterious” meeting framing ↔ decision-point (“I had decided what to do”) and the start of the “hour by hour, day by day” written account.
-  - **Falsifier:** Café Royal/meeting cues are shown to refer to different contexts, making the similarity purely thematic.
 
 ### Hard quote continuations (including deliberate substitutions)
 
@@ -149,6 +146,9 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
 - **Candidate:** Pages/cains_jawbone_page_68.md ↔ Pages/cains_jawbone_page_69.md (confidence: `MAYBE`)
   - **Anchor:** “old man” strand: crucial-meeting/eavesdropping paranoia (Pages/cains_jawbone_page_68.md) ↔ late-night aftermath of witnessing a “poor old man” “done slowly to death” (Pages/cains_jawbone_page_69.md).
   - **Falsifier:** the “old man” is shown to be different referents, or no non-generic shared anchor emerges (prop/setting/character) to tighten the link.
+- **Candidate:** Pages/cains_jawbone_page_95.md ↔ Pages/cains_jawbone_page_96.md (confidence: `MAYBE`)
+  - **Anchor:** café/meeting beat: Page 96’s in-situ menu/tea waiting (“the only literature before me”) and “mysterious” meeting framing plausibly align with Page 95’s explicit Café Royal time-budget plus the immediate decision to write the hour-by-hour account.
+  - **Falsifier:** Page 95’s opening is shown to be a pre-arrival travel beat incompatible with Page 96’s already-seated tea/menu scene, or Page 96 is later anchored to a non–Café Royal setting/voice.
 
 ### Constraint cross-index (narrators)
 
@@ -191,7 +191,6 @@ Directionless mapping from each constraint pair to narrator IDs (useful for cros
 - Pages/cains_jawbone_page_85.md ↔ Pages/cains_jawbone_page_94.md — Narrator(s): N08 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_86.md ↔ Pages/cains_jawbone_page_87.md — Narrator(s): N13 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_89.md ↔ Pages/cains_jawbone_page_90.md — Narrator(s): N32 (confidence: `CERTAIN`)
-- Pages/cains_jawbone_page_95.md ↔ Pages/cains_jawbone_page_96.md — Narrator(s): N09 (confidence: `LIKELY`)
 
 ## Clusters
 
@@ -884,7 +883,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
       - **Disconfirming evidence:**
         - Pages/cains_jawbone_page_70.md’s “franked” item is shown to be unrelated to Pages/cains_jawbone_page_95.md’s written account (different recipient/object), or the timing can’t accommodate a write-then-leave sequence.
         - Pages/cains_jawbone_page_95.md’s “him” and Pages/cains_jawbone_page_70.md’s “he” are shown to be different people (so the infancy/knee relationship doesn’t match).
-    - **Sequence B — café waiting → decide to write** (confidence: `LIKELY`)
+    - **Sequence B — café waiting → decide to write** (confidence: `MAYBE`)
       - **Pages (ordered):** Pages/cains_jawbone_page_96.md → Pages/cains_jawbone_page_95.md
       - **Why:**
         - Pages/cains_jawbone_page_96.md is an in-situ café beat: ordering tea, reading the menu (“the only literature before me”), and waiting “for the possible her” amid a “mysterious” meeting.
@@ -901,7 +900,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - Pages/cains_jawbone_page_95.md → Pages/cains_jawbone_page_70.md reads as write-then-aftermath: the narrator “told him all” then has “told all I knew” and fears retaliation; the shared infancy/knee relationship anchor strengthens that it’s the same recipient/antagonist thread.
       - **Disconfirming evidence:**
         - Pages/cains_jawbone_page_69.md’s “done slowly to death” proves figurative, Pages/cains_jawbone_page_96.md is later anchored to a clearly different setting/voice from the Café Royal strand, or Pages/cains_jawbone_page_95.md’s “horrid act” is later shown to be unrelated to the old-man strand.
-    - **Sequence D — crucial meeting → night aftermath** (confidence: `LIKELY`)
+    - **Sequence D — crucial meeting → night aftermath** (confidence: `MAYBE`)
       - **Pages (ordered):** Pages/cains_jawbone_page_68.md → Pages/cains_jawbone_page_69.md
       - **Why:**
         - Pages/cains_jawbone_page_68.md frames the narrator’s “last crucial meeting with the old man” (plus suspected eavesdropping), while Pages/cains_jawbone_page_69.md reads like the subsequent late-night attempt to “collect myself” after witnessing the old man “done slowly to death”.
