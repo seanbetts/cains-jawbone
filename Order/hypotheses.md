@@ -20,9 +20,9 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
 - **Constraint:** Pages/cains_jawbone_page_12.md ↔ Pages/cains_jawbone_page_14.md (confidence: `LIKELY`)
   - **Anchor:** will/inheritance eavesdropping (“leave everything… May”) + spilled wine/flesh cleanup beat; aligns with Page 12’s “bad head” + documents/will frame.
   - **Falsifier:** “May” is later anchored to an incompatible voice/setting/time than the documents scene on Page 12.
-- **Constraint:** Pages/cains_jawbone_page_17.md ↔ Pages/cains_jawbone_page_43.md (confidence: `LIKELY`)
-  - **Anchor:** “Moon”/“Dawn” venue pair + hand/income sensitivity (“bad for the hand” ↔ “ruin my hand”) + “Lover’s Delight”/“Banana Split” exchange.
-  - **Falsifier:** “Moon/Dawn” are shown to be abstract metaphors rather than stable venue names, or the cast/context is incompatible.
+- **Constraint:** Pages/cains_jawbone_page_17.md ↔ Pages/cains_jawbone_page_43.md (confidence: `CERTAIN`)
+  - **Anchor:** “the Moon”/“the Dawn” venue pair appears only on these two pages, alongside the shared “bad for the hand” ↔ “ruin my hand” cue.
+  - **Falsifier:** only if “Moon/Dawn” are shown to be abstract metaphors (not venue names) and the cast/context is incompatible.
 - **Constraint:** Pages/cains_jawbone_page_59.md ↔ Pages/cains_jawbone_page_60.md (confidence: `CERTAIN`)
   - **Anchor:** phrase-level failure→success pivot (“His silly bane had now definitely failed.” ↔ “I had sufficient knowledge to realise that I had succeeded.”) alongside the same Trinder/“figurehead beard” target framing.
   - **Falsifier:** “figurehead beard” is shown not to be Trinder and the “bane failed / succeeded” pivot is shown to be a generic rhetorical device reused elsewhere in a tighter match.
@@ -165,7 +165,7 @@ Directionless mapping from each constraint pair to narrator IDs (useful for cros
 - Pages/cains_jawbone_page_12.md ↔ Pages/cains_jawbone_page_14.md — Narrator(s): N10 (confidence: `LIKELY`)
 - Pages/cains_jawbone_page_13.md ↔ Pages/cains_jawbone_page_31.md — Narrator(s): N20 (confidence: `LIKELY`)
 - Pages/cains_jawbone_page_13.md ↔ Pages/cains_jawbone_page_49.md — Narrator(s): N20 (confidence: `CERTAIN`)
-- Pages/cains_jawbone_page_17.md ↔ Pages/cains_jawbone_page_43.md — Narrator(s): N01 (confidence: `LIKELY`)
+- Pages/cains_jawbone_page_17.md ↔ Pages/cains_jawbone_page_43.md — Narrator(s): N01 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_21.md ↔ Pages/cains_jawbone_page_36.md — Narrator(s): N12 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_22.md ↔ Pages/cains_jawbone_page_79.md — Narrator(s): N02 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_23.md ↔ Pages/cains_jawbone_page_24.md — Narrator(s): N40 ↔ N03 (confidence: `CERTAIN`)
