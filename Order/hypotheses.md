@@ -38,9 +38,9 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
 - **Constraint:** Pages/cains_jawbone_page_3.md ↔ Pages/cains_jawbone_page_32.md (confidence: `LIKELY`)
   - **Anchor:** “yesterday” instruction-giver appointment + job/instructions framing, with a shared Whitman/weather register (“weeping weather” ↔ “rain-proof coat, good shoes”).
   - **Falsifier:** the “yesterday” meeting/instructions are shown to refer to different events (or different “Clement/Clément”) on the two pages.
-- **Constraint:** Pages/cains_jawbone_page_11.md ↔ Pages/cains_jawbone_page_41.md (confidence: `LIKELY`)
-  - **Anchor:** dog-watch/timekeeping framing (“first dog” ↔ “end of the second dog”) plus the Selfridges-side/Orchard London geography + Henry reference.
-  - **Falsifier:** “dog” references are shown to be literal (not watch-times) and/or the Selfridges/Orchard cues resolve to incompatible settings.
+- **Constraint:** Pages/cains_jawbone_page_11.md ↔ Pages/cains_jawbone_page_41.md (confidence: `CERTAIN`)
+  - **Anchor:** unique West-End + dog-watch bundle: “Orchard” waiting + “end of the second dog” (capstan-bar dog-watch register) matches the same voice’s “first dog” timekeeping plus Selfridges/Bond Street geography (Orchard Street is adjacent to Selfridges).
+  - **Falsifier:** “Orchard” is shown to be literal (not London geography) and “first/second dog” are shown to be literal dogs (not watch-times), making the overlap coincidental.
 - **Constraint:** Pages/cains_jawbone_page_13.md ↔ Pages/cains_jawbone_page_31.md (confidence: `CERTAIN`)
   - **Anchor:** unique Grantham marker: the “conduit dating from 1597” in the market place (Page 13) is the only explicit location anchor for Page 31’s “in this very place… reckon with Henry” escalation.
   - **Falsifier:** only if “in this very place” is later anchored to a different location than Grantham, or another page is found containing the same conduit/1597 market-place marker in a tighter continuity fit.
@@ -161,7 +161,7 @@ Directionless mapping from each constraint pair to narrator IDs (useful for cros
 - Pages/cains_jawbone_page_8.md ↔ Pages/cains_jawbone_page_99.md — Narrator(s): N02 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_10.md ↔ Pages/cains_jawbone_page_39.md — Narrator(s): N02 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_10.md ↔ Pages/cains_jawbone_page_99.md — Narrator(s): N02 (confidence: `CERTAIN`)
-- Pages/cains_jawbone_page_11.md ↔ Pages/cains_jawbone_page_41.md — Narrator(s): N17 (confidence: `LIKELY`)
+- Pages/cains_jawbone_page_11.md ↔ Pages/cains_jawbone_page_41.md — Narrator(s): N17 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_12.md ↔ Pages/cains_jawbone_page_14.md — Narrator(s): N10 (confidence: `LIKELY`)
 - Pages/cains_jawbone_page_13.md ↔ Pages/cains_jawbone_page_31.md — Narrator(s): N20 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_13.md ↔ Pages/cains_jawbone_page_49.md — Narrator(s): N20 (confidence: `CERTAIN`)
