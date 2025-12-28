@@ -56,9 +56,9 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
 - **Constraint:** Pages/cains_jawbone_page_33.md ↔ Pages/cains_jawbone_page_34.md (confidence: `LIKELY`)
   - **Anchor:** debts/bills pressure (“I always pay my debts” ↔ “Bills should always be met squarely”) inside the same coercive “petty employ / play one tool against another” vignette.
   - **Falsifier:** the debts/bills framing is shown to be generic and the scenes have no shared participant/setting anchors.
-- **Constraint:** Pages/cains_jawbone_page_52.md ↔ Pages/cains_jawbone_page_53.md (confidence: `LIKELY`)
-  - **Anchor:** interview-with-papers scene (door opens/shuts; “commentary… page after page”; Westphalian ham) ↔ Sir Paul Trinder introduction as the interview subject.
-  - **Falsifier:** the Trinder introduction is later anchored to a different narrator/setting from the Page 52 interview.
+- **Constraint:** Pages/cains_jawbone_page_52.md ↔ Pages/cains_jawbone_page_53.md (confidence: `CERTAIN`)
+  - **Anchor:** single interview episode: Page 52’s “door opened and shut… sit down… papers… interview” setup aligns with Page 53’s “introduced to me” beat identifying the subject as Sir Paul Trinder, in the same mind-movement metaphor voice (“mind’s feet” ↔ “mind… ambling”).
+  - **Falsifier:** Page 53’s Trinder meeting is later anchored to an incompatible narrator/setting (making the shared “introduced/interview” mechanics coincidental).
 - **Constraint:** Pages/cains_jawbone_page_54.md ↔ Pages/cains_jawbone_page_56.md (confidence: `CERTAIN`)
   - **Anchor:** exact parenthetical “in the awful and literal sense of the word” (unique in the corpus) + shared morning/breakfast domesticity in the same reflective voice.
   - **Falsifier:** a third page is found with the same exact parenthetical (or it’s shown to be a stock quotation deliberately reused across unrelated narrators), reducing it to motif-only evidence.
@@ -161,7 +161,7 @@ Directionless mapping from each constraint pair to narrator IDs (useful for cros
 - Pages/cains_jawbone_page_39.md ↔ Pages/cains_jawbone_page_88.md — Narrator(s): N02 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_42.md ↔ Pages/cains_jawbone_page_92.md — Narrator(s): N21 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_48.md ↔ Pages/cains_jawbone_page_88.md — Narrator(s): N02 (confidence: `LIKELY`)
-- Pages/cains_jawbone_page_52.md ↔ Pages/cains_jawbone_page_53.md — Narrator(s): N25 (confidence: `LIKELY`)
+- Pages/cains_jawbone_page_52.md ↔ Pages/cains_jawbone_page_53.md — Narrator(s): N25 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_54.md ↔ Pages/cains_jawbone_page_56.md — Narrator(s): N26 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_59.md ↔ Pages/cains_jawbone_page_60.md — Narrator(s): N12 (confidence: `LIKELY`)
 - Pages/cains_jawbone_page_61.md ↔ Pages/cains_jawbone_page_64.md — Narrator(s): N04 (confidence: `LIKELY`)
