@@ -75,10 +75,10 @@ Template:
 - `N08` — King (“Kipling” name-jibe) narrator:
   - **Signature tells:** self-conscious nameplay (schoolboy jibe “Kipling”); narrator sees their own name printed in a window-sign; Henry present in-scene; detective/allusion density (Holmes/Sexton Blake / Baker Street framing); cryptic-style transforms (anagrams/insertion; 21→21:00 clock pun).
   - **Likely identity (if any):** LIKELY surname King (see `Indexes/people.md` `P99`).
-  - **Pages:** Pages/cains_jawbone_page_15.md (MAYBE extension), Pages/cains_jawbone_page_82.md, Pages/cains_jawbone_page_85.md, Pages/cains_jawbone_page_94.md
+  - **Pages:** Pages/cains_jawbone_page_15.md, Pages/cains_jawbone_page_82.md, Pages/cains_jawbone_page_85.md, Pages/cains_jawbone_page_94.md
   - **Confidence:** `LIKELY`
   - **Disconfirming evidence:** “Kipling” wordplay resolves differently, the window-sign name is not the narrator’s, or Page 15’s “Bart” is not the same dog as Bartholomew in Page 82.
-  - **Notes:** Page 82 shares the table/Henry + barking-dog frame with Page 85 and repeats `N08`’s cryptic-transform habits, so treat it as core even though it lacks the explicit nameplay/window-sign anchors. Page 15 is a `MAYBE` extension keyed by the “Bart”/Bartholomew dog + table framing plus the same clock-wordplay habits. MAYBE overlaps: Pages/cains_jawbone_page_100.md (Henry + Scotland Yard + collapse).
+  - **Notes:** Page 82 shares the table/Henry + barking-dog frame with Page 85 and repeats `N08`’s cryptic-transform habits, so treat it as core even though it lacks the explicit nameplay/window-sign anchors. Page 15 shares the same table/dog framing (Bart ↔ Bartholomew) plus the explicit 21→21:00 clock pun; treat it as core even though it lacks the window-sign/name-jibe anchors. MAYBE overlaps: Pages/cains_jawbone_page_100.md (Henry + Scotland Yard + collapse).
 
 - `N09` — “Old man” slow-death / letter-blackmail voice:
   - **Signature tells:** paranoid “crucial meeting” with an “old man” + suspected eavesdropper; witnessed “done slowly to death”; franked letter/package to “the girl” discovered “in the morning”; fear of being “done in”; overheated associative wordplay around London landmarks and travel-names; Café Royal/time-budgeting anchor paired with an explicit written account (“told him all, hour by hour, day by day”); occasional mythic charade for stationery/letter-writing.

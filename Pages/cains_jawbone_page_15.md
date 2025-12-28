@@ -3,7 +3,7 @@ Now, I considered, in my dear Lyons it would be coming of age hours, and I wonde
 ## Notes
 
 - **Entities:**
-  - MAYBE: Bart (likely a dog; “chewing… moccasins”).
+  - LIKELY: Bart (dog; short for Bartholomew on Pages/cains_jawbone_page_82.md).
   - CERTAIN: B.B.C. (reference).
   - CERTAIN: John Hewit; Sarah Drew (killed by lightning; Steeple Ashton; last day of July 1718).
   - CERTAIN: Alexander Pope (poet; wrote an epitaph for Hewit/Drew, showing he was “affected”).
@@ -39,9 +39,9 @@ LIKELY WORDPLAY
   - Domestic scene marker: dog chewing footwear.
 - **Voice/tells:**
   - Reflective, civic-minded (“mighty heart of England”); detail-heavy macabre reportage.
-- **Ordering hypotheses:**
-  - MAYBE: calendar-anchor cluster with other “to-day” historical-death pages (e.g. Pages/cains_jawbone_page_8.md).
-  - MAYBE: belongs to `N08` (King narrator) as an early table/dog/timekeeping vignette (Bart chewing moccasins + 21:00 clock pun); treat as a tentative lead-in to Pages/cains_jawbone_page_82.md unless stronger voice anchors appear.
+- **Clustering hypotheses:**
+  - MAYBE: calendar-anchor motif cluster with other historical-death/daybook pages (e.g. Pages/cains_jawbone_page_8.md).
+  - LIKELY: `N08` (King narrator): 21:00 clock pun + table/dog vignette (Bart ↔ Bartholomew) matches `N08`’s cryptic/time obsession profile, even though this page lacks the explicit window-sign/name-jibe anchors seen on Pages/cains_jawbone_page_94.md and Pages/cains_jawbone_page_85.md.
 - **Disconfirming evidence:**
   - If the John Hewit/Sarah Drew event cannot be tied to a specific date (or is fictionalised).
 - **Research needed:**

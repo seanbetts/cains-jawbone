@@ -734,8 +734,8 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Disconfirming evidence:** later context shows “Bunny and Perry” refers to external people rather than an internal debate trope.
 
 - **Cluster:** `N08` King (“Kipling” name-jibe) narrator (confidence: `LIKELY`)
-  - **Pages:** Pages/cains_jawbone_page_82.md, Pages/cains_jawbone_page_85.md, Pages/cains_jawbone_page_94.md (MAYBE: Pages/cains_jawbone_page_15.md, Pages/cains_jawbone_page_100.md)
-  - **Rationale:** Pages 85 and 94 share a narrator-name clue (schoolboy “Kipling” jibe → King; narrator sees own name in a window-sign) and a recurring Henry-in-scene frame; Page 82 shares the same Henry-at-table setting plus the same cryptic-transform habits, making it a strong voice-level match even without the explicit window-sign anchor.
+  - **Pages:** Pages/cains_jawbone_page_15.md, Pages/cains_jawbone_page_82.md, Pages/cains_jawbone_page_85.md, Pages/cains_jawbone_page_94.md (MAYBE: Pages/cains_jawbone_page_100.md)
+  - **Rationale:** Pages 85 and 94 share a narrator-name clue (schoolboy “Kipling” jibe → King; narrator sees own name in a window-sign) and a recurring Henry-in-scene frame; Page 82 shares the same Henry-at-table setting plus the same cryptic-transform habits, and Page 15 adds an explicit 21→21:00 clock pun plus the same table/dog framing (Bart ↔ Bartholomew).
   - **Key anchors:** “Kipling” as a name-jibe; narrator seeing their own name printed in a window; Baker Street / detective framing; Bartholomew dog at the table (Page 82) ↔ “Bart” chewing moccasins at a familiar table (Page 15).
   - **Disconfirming evidence:** the name clue resolves differently, the window-sign name refers to someone/something other than the narrator, or Page 15’s “Bart” is shown not to be the same dog as Bartholomew in Page 82.
   - **Phase 4 internal ordering hypotheses (N08):**
