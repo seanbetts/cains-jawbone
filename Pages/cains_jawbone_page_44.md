@@ -17,11 +17,10 @@ I sometimes wish, and I wished then, that I had the gift of telling, or at least
   - Suspicion around Henry’s marriage history (second wife’s brother).
 - **Voice/tells:**
   - Smell-centric perception (MAYBE animal-coded); self-critique about storytelling.
-- **Ordering hypotheses:**
-  - CERTAIN: add to Henry-occurrence cluster.
-  - LIKELY: debrief after the Typhoon lock (Pages/cains_jawbone_page_7.md → Pages/cains_jawbone_page_45.md → Pages/cains_jawbone_page_44.md): witness-recap (incl. unsure “Henry” naming) → self-critique about telling/following a story vividly + structured “Henry’s problem” summary.
-  - MAYBE: alternative placement as a setup before the Typhoon lock (Pages/cains_jawbone_page_44.md → Pages/cains_jawbone_page_7.md → Pages/cains_jawbone_page_45.md).
-  - MAYBE: links to document/will/forgery/burning-evidence motif pages.
+- **Clustering hypotheses:**
+  - CERTAIN: `N16` smell-memory + incinerator-evidence voice (Hodge + first St. Bruno + smell-triggered Vera Cruz memory + incinerator marriage-certificate evidence).
+  - LIKELY: tight in-cluster ties to Pages/cains_jawbone_page_26.md (Hodge appears only on these two pages) and Pages/cains_jawbone_page_45.md (shared Henry-focused “problem/evidence” framing; likely same episode, ordering TBD in Phase 4).
+  - MAYBE: overlaps other burned-paper / will / forgery motifs; keep separate until a second non-generic phrase/participant anchor recurs.
 - **Disconfirming evidence:**
   - If later context shows the “marriage certificate” is metaphorical rather than literal evidence.
 - **Research needed:**

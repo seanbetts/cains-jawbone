@@ -15,9 +15,9 @@ I had gone to sleep the night before after rereading Typhoon. It had always stru
   - Odour/remedy: “a Jew’s lime” likely “Jew’s‑lime” (hort.) engrafting wax (pitch + turpentine) with strong “concomitant odour” (see research queue).
 - **Voice/tells:**
   - Self-mocking, literary; blends detective/legal identity with armchair immobility (Baker Street).
-- **Ordering hypotheses:**
-  - CERTAIN: Pages/cains_jawbone_page_7.md → Pages/cains_jawbone_page_45.md (Typhoon lock: Renard‑Beinsky “got… out of bed” continuation + unique *Typhoon* anchor; “Poles” → “half Pole” hinge).
-  - MAYBE: Sherlock/detective-allusion cluster with Pages/cains_jawbone_page_6.md.
+- **Clustering hypotheses:**
+  - CERTAIN: `N16` smell-memory + incinerator-evidence voice; shares unique *Typhoon*/Renard‑Beinsky framing with Pages/cains_jawbone_page_45.md (phrase-level continuity hook).
+  - MAYBE: overlaps Detective/police + violence macro via Baker Street / investigator-judge framing; don’t merge on motif alone.
 - **Disconfirming evidence:**
   - If “Baker Steet” is later shown as non-Sherlock/address pun only.
 - **Research needed:**

@@ -70,13 +70,9 @@ LIKELY WORDPLAY
   - Setting: “great building of many flats”; “stealing at the doors” (sneaking/eavesdropping/theft).
 - **Voice/tells:**
   - Proverb-twisting; vivid menu/brand listing; self-described stealth/thievery.
-- **Ordering hypotheses:**
-  - CERTAIN: add to Henry-occurrence cluster.
-  - CERTAIN: follows Pages/cains_jawbone_page_7.md (*Typhoon* reread → “now was the hour…” setup → opening Typhoon quote).
-    - Also reads as an intentional boundary echo: Pages/cains_jawbone_page_7.md ends “as far from English as the Poles,” and this page begins “half Pole, half Frenchman”.
-  - LIKELY: followed (not necessarily immediately) by Pages/cains_jawbone_page_44.md as a debrief/structured restatement of Henry’s problem (witness-recap → “gift of telling… a story vividly” + “The position was this…”), with the tentative “Henry—surely I had heard him called so—” resolving into a more informed “Henry’s problem” exposition.
-  - MAYBE: followed by Pages/cains_jawbone_page_26.md (opens “The girl had left Henry by this time…”), echoing this page’s “The girl was no longer there”; treat as a Phase 5 stitching candidate (Pages/cains_jawbone_page_26.md is currently clustered under `N12`).
-  - MAYBE: alternative placement where Pages/cains_jawbone_page_44.md is an in-cluster setup before Pages/cains_jawbone_page_7.md.
-  - MAYBE: “led up the garden” echoes Pages/cains_jawbone_page_29.md (garden/deception/old man thread).
+- **Clustering hypotheses:**
+  - CERTAIN: `N16` smell-memory + incinerator-evidence voice; shares unique *Typhoon*/Renard‑Beinsky phrasing with Pages/cains_jawbone_page_7.md and the Henry/witness-evidence + stealth/doors register with Pages/cains_jawbone_page_44.md.
+  - LIKELY: connects to Pages/cains_jawbone_page_26.md via the “The girl…” echo (“The girl was no longer there” ↔ “The girl had left Henry…”); treat as same-situation candidate (ordering TBD in Phase 4).
+  - MAYBE: “led up the garden” phrasing echoes Pages/cains_jawbone_page_29.md; treat as cross-strand motif unless reinforced by a second shared anchor.
 - **Disconfirming evidence:**
-  - If “up the garden” later proves purely figurative and unrelated to the plant/poison plotline.
+  - If the Typhoon/Renard‑Beinsky passage proves to be a detachable quotation layer shared across multiple voices, or if Henry/setting details become incompatible with the `N16` Henry/Hodge/incinerator thread.
