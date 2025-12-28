@@ -113,6 +113,9 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
 - **Constraint:** Pages/cains_jawbone_page_6.md ↔ Pages/cains_jawbone_page_29.md (confidence: `CERTAIN`)
   - **Anchor:** “spare-room/spareroom” appears only on these two pages, each time as the same house-setting detail (old spare-room “in this very house” ↔ “unsatisfactory visit to the spareroom”).
   - **Falsifier:** another page is found using the same spare-room phrasing, or one mention is shown to be idiomatic/quoted rather than situational.
+- **Constraint:** Pages/cains_jawbone_page_12.md ↔ Pages/cains_jawbone_page_75.md (confidence: `CERTAIN`)
+  - **Anchor:** “searchlights” eye-metaphor over “documents” appears only on these two pages (small topaz “searchlights” over documents/writing ↔ “searchlights of my eyes” on “orange tinted documents”).
+  - **Falsifier:** “searchlights” or the documents-reading metaphor is found elsewhere in page bodies, or later evidence shows the two scenes/voices cannot share even a deliberate reused image.
 - **Constraint:** Pages/cains_jawbone_page_66.md ↔ Pages/cains_jawbone_page_73.md (confidence: `CERTAIN`)
   - **Anchor:** page-body unique phrase-level self-echo “I remembered the place of my initiation”.
   - **Falsifier:** a third page-body instance of the phrase appears, or later evidence shows the phrase is quoted/embedded (not narrator self-echo).
@@ -159,9 +162,6 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
 - **Candidate:** Pages/cains_jawbone_page_26.md ↔ Pages/cains_jawbone_page_58.md (`N16` ↔ `N12`) (confidence: `MAYBE`)
   - **Anchor:** complementary murder-count numbering around “Henry” (“first two killings” ↔ “third/fourth” victims) suggests a shared Henry-kill-count thread, but “Henry” is high-noise across the corpus and the narrator signatures differ.
   - **Falsifier:** any additional anchor shows the “Henry” contexts are incompatible (distinct setting/cast/logistics), or “killings” is shown to be figurative on one side.
-- **Candidate:** Pages/cains_jawbone_page_12.md ↔ Pages/cains_jawbone_page_75.md (`N10` ↔ `N06`) (confidence: `MAYBE`)
-  - **Anchor:** unique shared “searchlights” eye-metaphor over documents/writing: Page 12’s “small topaz searchlights” bent over “documents” and Page 75’s “strong searchlights of my eyes” turned on “orange tinted documents”; in page bodies, “searchlights” and “documents” occur only on these two pages.
-  - **Falsifier:** “searchlights” or the documents-reading eye-metaphor is found elsewhere in the page bodies (making this a generic image), or the pages’ voice/scene anchors are shown to be incompatible beyond a shared metaphor.
 - **Candidate:** Pages/cains_jawbone_page_29.md ↔ Pages/cains_jawbone_page_96.md (`N12` ↔ `N09`) (confidence: `MAYBE`)
   - **Anchor:** shared aside phrase: “if I may be permitted the expression” appears only on these two pages, each time as a self-conscious idiom/phrase marker.
   - **Falsifier:** the phrase is found elsewhere in the page bodies (making it a generic tic), or additional voice/scene anchors show the two uses are unrelated coincidence.
@@ -191,7 +191,7 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
 
 Directionless mapping from each constraint pair to narrator IDs (useful for cross-narrator joins).
 
-- **Cross-narrator constraints (current):** Pages/cains_jawbone_page_23.md ↔ Pages/cains_jawbone_page_24.md (`N40` ↔ `N03`).
+- **Cross-narrator constraints (current):** Pages/cains_jawbone_page_12.md ↔ Pages/cains_jawbone_page_75.md (`N10` ↔ `N06`); Pages/cains_jawbone_page_23.md ↔ Pages/cains_jawbone_page_24.md (`N40` ↔ `N03`).
 - Pages/cains_jawbone_page_6.md ↔ Pages/cains_jawbone_page_29.md — Narrator(s): N12 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_1.md ↔ Pages/cains_jawbone_page_43.md — Narrator(s): N01 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_3.md ↔ Pages/cains_jawbone_page_32.md — Narrator(s): N03 (confidence: `CERTAIN`)
@@ -202,6 +202,7 @@ Directionless mapping from each constraint pair to narrator IDs (useful for cros
 - Pages/cains_jawbone_page_10.md ↔ Pages/cains_jawbone_page_99.md — Narrator(s): N02 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_11.md ↔ Pages/cains_jawbone_page_41.md — Narrator(s): N17 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_12.md ↔ Pages/cains_jawbone_page_14.md — Narrator(s): N10 (confidence: `CERTAIN`)
+- Pages/cains_jawbone_page_12.md ↔ Pages/cains_jawbone_page_75.md — Narrator(s): N10 ↔ N06 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_13.md ↔ Pages/cains_jawbone_page_31.md — Narrator(s): N20 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_13.md ↔ Pages/cains_jawbone_page_49.md — Narrator(s): N20 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_17.md ↔ Pages/cains_jawbone_page_43.md — Narrator(s): N01 (confidence: `CERTAIN`)
