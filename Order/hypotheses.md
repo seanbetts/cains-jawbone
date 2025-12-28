@@ -116,12 +116,12 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
 - **Constraint:** Pages/cains_jawbone_page_7.md ↔ Pages/cains_jawbone_page_45.md (confidence: `CERTAIN`)
   - **Anchor:** distinctive *Typhoon/Taifun* Renard‑Beinsky phrasing + Pole/half‑Pole framing.
   - **Falsifier:** the *Typhoon* layer is shown to be a detachable quotation reused by multiple narrators.
-- **Constraint:** Pages/cains_jawbone_page_21.md ↔ Pages/cains_jawbone_page_36.md (confidence: `LIKELY`)
-  - **Anchor:** “Calabar” appears only on these pages; Page 36’s “morning after I had introduced him…” reads as the same Calabar/experiment thread.
-  - **Falsifier:** the “introduced him…” reference is shown to refer to a different “him”/action than the Calabar Bean usage on Page 21.
-- **Constraint:** Pages/cains_jawbone_page_29.md ↔ Pages/cains_jawbone_page_36.md (confidence: `LIKELY`)
-  - **Anchor:** physostigma/ordeal-bean thread: “discarded my useless physostigma” ↔ “old Calabar… should fail me… could not rely on him.”
-  - **Falsifier:** “physostigma/Calabar” are shown to refer to different substances/threads across the two pages.
+- **Constraint:** Pages/cains_jawbone_page_21.md ↔ Pages/cains_jawbone_page_36.md (confidence: `CERTAIN`)
+  - **Anchor:** unique Calabar-bean personification: Page 21’s “Calabar Bean” is the same “old Calabar” on Page 36, and Page 36 explicitly frames itself as the “morning after I had introduced him to the person most concerned.”
+  - **Falsifier:** “old Calabar” is shown to be a different “him”/object than the Calabar Bean introduced on Page 21 (or a third page is found with the same Calabar setup that better accounts for Page 36’s “morning after” reference).
+- **Constraint:** Pages/cains_jawbone_page_29.md ↔ Pages/cains_jawbone_page_36.md (confidence: `CERTAIN`)
+  - **Anchor:** ordeal-bean/physostigma thread: Page 29’s “discarded my useless physostigma” (West African ordeal beans) aligns with Page 36’s “old Calabar… should fail me… could not rely on him.”
+  - **Falsifier:** “physostigma/ordeal bean” is shown to refer to a different substance/plan than Page 36’s “old Calabar” (or the failure/discard beats are shown to be separate experiments).
 - **Constraint:** Pages/cains_jawbone_page_61.md ↔ Pages/cains_jawbone_page_64.md (confidence: `LIKELY`)
   - **Anchor:** “Great Lexicographer” (Samuel Johnson) as a namesake anchor + learned angling/fealty register that reads like the same narrator voice.
   - **Falsifier:** “Great Lexicographer” is shown to refer to different people (or a purely decorative layer) across the two pages, with incompatible voice/setting tells.
@@ -151,13 +151,13 @@ Directionless mapping from each constraint pair to narrator IDs (useful for cros
 - Pages/cains_jawbone_page_13.md ↔ Pages/cains_jawbone_page_31.md — Narrator(s): N20 (confidence: `LIKELY`)
 - Pages/cains_jawbone_page_13.md ↔ Pages/cains_jawbone_page_49.md — Narrator(s): N20 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_17.md ↔ Pages/cains_jawbone_page_43.md — Narrator(s): N01 (confidence: `LIKELY`)
-- Pages/cains_jawbone_page_21.md ↔ Pages/cains_jawbone_page_36.md — Narrator(s): N12 (confidence: `LIKELY`)
+- Pages/cains_jawbone_page_21.md ↔ Pages/cains_jawbone_page_36.md — Narrator(s): N12 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_22.md ↔ Pages/cains_jawbone_page_79.md — Narrator(s): N02 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_23.md ↔ Pages/cains_jawbone_page_24.md — Narrator(s): N40 ↔ N03 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_24.md ↔ Pages/cains_jawbone_page_30.md — Narrator(s): N03 (confidence: `LIKELY`)
 - Pages/cains_jawbone_page_26.md ↔ Pages/cains_jawbone_page_44.md — Narrator(s): N16 (confidence: `LIKELY`)
 - Pages/cains_jawbone_page_28.md ↔ Pages/cains_jawbone_page_50.md — Narrator(s): N39 (confidence: `LIKELY`)
-- Pages/cains_jawbone_page_29.md ↔ Pages/cains_jawbone_page_36.md — Narrator(s): N12 (confidence: `LIKELY`)
+- Pages/cains_jawbone_page_29.md ↔ Pages/cains_jawbone_page_36.md — Narrator(s): N12 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_33.md ↔ Pages/cains_jawbone_page_34.md — Narrator(s): N25 (confidence: `LIKELY`)
 - Pages/cains_jawbone_page_35.md ↔ Pages/cains_jawbone_page_58.md — Narrator(s): N12 (confidence: `LIKELY`)
 - Pages/cains_jawbone_page_39.md ↔ Pages/cains_jawbone_page_88.md — Narrator(s): N02 (confidence: `CERTAIN`)

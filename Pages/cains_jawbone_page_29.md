@@ -53,7 +53,7 @@ LIKELY WORDPLAY
 - **Clustering hypotheses:**
   - LIKELY: extends the plant/poison thread (Pages/cains_jawbone_page_6.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_24.md).
   - LIKELY: linked with Pages/cains_jawbone_page_6.md via unique “spare-room/spareroom” house-setting anchor (direction TBD).
-  - LIKELY: links strongly with Pages/cains_jawbone_page_36.md (Calabar/ordeal-bean “failure” → “discarded… physostigma”).
+  - CERTAIN: links strongly with Pages/cains_jawbone_page_36.md (ordeal-bean/physostigma thread: “discarded my useless physostigma” ↔ “old Calabar… should fail me”; treat as a continuity constraint `Pages/cains_jawbone_page_29.md ↔ Pages/cains_jawbone_page_36.md`; see `Order/hypotheses.md` constraints inventory).
   - MAYBE: Pages/cains_jawbone_page_29.md ↔ Pages/cains_jawbone_page_35.md (shared rare phrasing “drawing towards a close” + “one never knew”; p35 reads like a more explicit reprise).
   - MAYBE: links to the mineralogy thread (Pages/cains_jawbone_page_9.md) via “old mineralogist”.
 - **Disconfirming evidence:**
