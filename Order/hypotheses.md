@@ -29,9 +29,9 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
 - **Constraint:** Pages/cains_jawbone_page_76.md ↔ Pages/cains_jawbone_page_77.md (confidence: `LIKELY`)
   - **Anchor:** victim explicitly named “Green” ↔ immediate aftermath of “my first” killing with the “Compact” tool.
   - **Falsifier:** “my first” refers to something non-lethal, or the victim/context is later clearly not Green.
-- **Constraint:** Pages/cains_jawbone_page_85.md ↔ Pages/cains_jawbone_page_94.md (confidence: `LIKELY`)
-  - **Anchor:** shared “King/Kipling” name-jibe register + Henry-in-scene pivot (“Henry was waiting for me” ↔ “I drove Henry home”).
-  - **Falsifier:** the name-in-window sign is later shown not to be the narrator’s, or “Henry” is clearly different across the two pages.
+- **Constraint:** Pages/cains_jawbone_page_85.md ↔ Pages/cains_jawbone_page_94.md (confidence: `CERTAIN`)
+  - **Anchor:** unique self-name lock: Page 85’s schoolboy jibe “Kipling” as a transform of `KING` and Page 94’s explicit “my own name” seen in a window-sign (LIKELY `KING`), with Henry present in-scene on both pages.
+  - **Falsifier:** the window-sign is shown not to be the narrator’s own name, or the “Kipling” name-jibe resolves to a different underlying name than `KING`.
 - **Constraint:** Pages/cains_jawbone_page_58.md ↔ Pages/cains_jawbone_page_35.md (confidence: `LIKELY`)
   - **Anchor:** “horribly official knock” + flying-squad manhunt (surrounding the house; concealed passage/panel).
   - **Falsifier:** one page is shown to be an embedded/imagined chase scenario rather than the same in-world pursuit.
@@ -189,7 +189,7 @@ Directionless mapping from each constraint pair to narrator IDs (useful for cros
 - Pages/cains_jawbone_page_70.md ↔ Pages/cains_jawbone_page_95.md — Narrator(s): N09 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_73.md ↔ Pages/cains_jawbone_page_74.md — Narrator(s): N06 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_76.md ↔ Pages/cains_jawbone_page_77.md — Narrator(s): N15 (confidence: `LIKELY`)
-- Pages/cains_jawbone_page_85.md ↔ Pages/cains_jawbone_page_94.md — Narrator(s): N08 (confidence: `LIKELY`)
+- Pages/cains_jawbone_page_85.md ↔ Pages/cains_jawbone_page_94.md — Narrator(s): N08 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_86.md ↔ Pages/cains_jawbone_page_87.md — Narrator(s): N13 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_89.md ↔ Pages/cains_jawbone_page_90.md — Narrator(s): N32 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_95.md ↔ Pages/cains_jawbone_page_96.md — Narrator(s): N09 (confidence: `LIKELY`)

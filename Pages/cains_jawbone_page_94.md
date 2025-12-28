@@ -21,7 +21,7 @@ Naturally I looked up. And I tell you I found it awe-inspiring enough to actuall
   - Self-conscious embarrassment (blush at seeing name) + impatience with children.
 - **Clustering hypotheses:**
   - CERTAIN: `N08` King narrator cluster (name in the window-sign; Yeats allusion; Henry in-scene; self-conscious narrator voice).
-  - LIKELY: strong continuity hook with Pages/cains_jawbone_page_85.md via Henry (“Henry was waiting for me” ↔ “I drove Henry home”) plus the shared narrator-name tell; treat as a Phase 4 adjacency candidate.
+  - CERTAIN: strong continuity hook with Pages/cains_jawbone_page_85.md via the narrator-name tell (window-sign “my own name” ↔ Kipling/KING wordplay) plus Henry in-scene; treat as a continuity constraint `Pages/cains_jawbone_page_85.md ↔ Pages/cains_jawbone_page_94.md` and resolve direction in Phase 4 (see `Order/hypotheses.md` constraints inventory).
 - **Disconfirming evidence:**
   - If the “name in the window” is not the narrator’s own but a place/sign misread.
 - **Research needed:**
