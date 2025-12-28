@@ -65,7 +65,7 @@ These are **cross-narrator** groupings intended to reduce the search space for P
   - **Rationale:** Dense, recurring plant/poison specificity (often tied to deliberate action) plus a repeated “competence/plan/instructions” register suggests either a shared narrator or a small set of closely linked narrators.
   - **Key anchors:** Calabar bean/physostigma; digitalis; hellebore; lobelia/Indian-tobacco; wild jasmine/roses; marigold/calendula; Mithradates inoculation; failing eyesight with “documents”; “job/instructions” framing.
   - **Sub-strands (working):**
-    - `N12` poison logistics: Pages/cains_jawbone_page_6.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_29.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_58.md, Pages/cains_jawbone_page_59.md, Pages/cains_jawbone_page_80.md (MAYBE extension)
+    - `N12` poison logistics: Pages/cains_jawbone_page_6.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_29.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_58.md, Pages/cains_jawbone_page_59.md, Pages/cains_jawbone_page_80.md
     - `N03` Clement/pills/flowers: Pages/cains_jawbone_page_3.md, Pages/cains_jawbone_page_24.md, Pages/cains_jawbone_page_27.md, Pages/cains_jawbone_page_30.md, Pages/cains_jawbone_page_32.md
     - `N06` flowers/documents/OGPU: Pages/cains_jawbone_page_73.md, Pages/cains_jawbone_page_74.md, Pages/cains_jawbone_page_75.md, Pages/cains_jawbone_page_83.md, Pages/cains_jawbone_page_71.md (MAYBE extension)
     - `N13` host/guest poisoning: Pages/cains_jawbone_page_86.md, Pages/cains_jawbone_page_87.md
@@ -235,7 +235,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Next falsification check:** search for a second anchor (Casy Ferris, St. Lazarus-in-the-Chine, “whaups,” or the “dead old man”) on any other `N01`-adjacent page before attempting to place Pages/cains_jawbone_page_1.md within the Moon/Dawn sequence.
 
 - **Cluster:** `N12` Calabar/digitalis poison-logistics + murder-as-genre voice (confidence: `LIKELY`)
-  - **Pages:** Pages/cains_jawbone_page_6.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_29.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_58.md, Pages/cains_jawbone_page_59.md, Pages/cains_jawbone_page_60.md, Pages/cains_jawbone_page_80.md (MAYBE extension)
+  - **Pages:** Pages/cains_jawbone_page_6.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_29.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_58.md, Pages/cains_jawbone_page_59.md, Pages/cains_jawbone_page_60.md, Pages/cains_jawbone_page_80.md
   - **Rationale:** Shared poison anchors (Calabar/digitalis) and a consistent practical, darkly comic “murder mechanics” register (counts, pursuit set-pieces, try-again planning) suggest a stable narrator signature.
   - **Key anchors:** Calabar bean/physostigma; digitalis; murder-counting language; “Murders were funny things”; “give him another day”.
   - **Disconfirming evidence:** Calabar/digitalis references recur widely across unrelated voices, or the pursuit/murder-count tone is shown to be a separate narrator from the poison-logistics pages.
@@ -926,7 +926,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Rationale:** Repeated botanical poison language (foxgloves/digitalis, calabar/physostigma, hellebore, lobelia, “lords and ladies”, gardenia taxonomy) suggests a shared narrator expertise or method thread.
   - **Key anchors:** “foxgloves” / “digitalis purpurea”; “Calabar Bean” / “physostigma” / “old Calabar”; “hellebore”; lobelia + “lords and ladies”; Cape Jasmine/gardenia precision; beans/pill + potato leaves; Page 54’s “pestle a poisoned poison” + “green blood” horticulture; Page 59’s gelsemium (yellow jasmine).
   - **Sub-strands (working):**
-    - `N12` poison logistics subset: Pages/cains_jawbone_page_6.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_29.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_59.md, Pages/cains_jawbone_page_80.md (MAYBE extension)
+    - `N12` poison logistics subset: Pages/cains_jawbone_page_6.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_29.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_59.md, Pages/cains_jawbone_page_80.md
     - `N03` Clement/pills/flowers subset: Pages/cains_jawbone_page_24.md, Pages/cains_jawbone_page_30.md
     - singletons / bridges: `N31` (Pages/cains_jawbone_page_40.md), `N26` (Pages/cains_jawbone_page_54.md), `N06` (Pages/cains_jawbone_page_75.md)
   - **Disconfirming evidence:** later pages show these are isolated metaphors with no shared voice/continuity.
