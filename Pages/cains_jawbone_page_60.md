@@ -23,7 +23,7 @@ I had sufficient knowledge to realise that I had succeeded. I ordered Charles to
 - **Voice/tells:**
   - Self-congratulatory “work of noble note” framing; mixes moralising with logistics (dessert order, photo).
 - **Clustering hypotheses:**
-  - LIKELY: links strongly with Pages/cains_jawbone_page_59.md (failed “bane” → “succeeded”; Trinder present/targeted).
+  - CERTAIN: links strongly with Pages/cains_jawbone_page_59.md (phrase-level “bane failed” → “succeeded” pivot + Trinder/“figurehead beard” target framing). Treat as a continuity constraint `Pages/cains_jawbone_page_59.md ↔ Pages/cains_jawbone_page_60.md`; see `Order/hypotheses.md` constraints inventory.
   - LIKELY: links to Trinder thread (Pages/cains_jawbone_page_53.md, Pages/cains_jawbone_page_59.md).
   - MAYBE: links to Lover’s Delight / bar-menu cluster (Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_43.md).
 - **Disconfirming evidence:**
