@@ -220,7 +220,7 @@ Template:
   - **Signature tells:** the distinctive parenthetical aside “in the awful and literal sense of the word”; morning/breakfast domesticity; insomnia + “recapitulation” framing; claimed second-sight wordplay (“Clare” → clairvoyant/clairaudient).
   - **Likely identity (if any):** unknown.
   - **Pages:** Pages/cains_jawbone_page_54.md, Pages/cains_jawbone_page_56.md
-  - **Confidence:** `LIKELY`
+  - **Confidence:** `CERTAIN`
   - **Disconfirming evidence:** the shared parenthetical phrasing is shown to be a common quotation reused across multiple narrators, or the two pages’ surrounding voice/register proves incompatible beyond the single repeated phrase.
   - **Notes:** Page 54 also participates in the plant/poison “to-day” date-anchor motif; keep that separate from narrator identification.
 

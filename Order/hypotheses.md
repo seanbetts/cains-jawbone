@@ -59,9 +59,9 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
 - **Constraint:** Pages/cains_jawbone_page_52.md ↔ Pages/cains_jawbone_page_53.md (confidence: `LIKELY`)
   - **Anchor:** interview-with-papers scene (door opens/shuts; “commentary… page after page”; Westphalian ham) ↔ Sir Paul Trinder introduction as the interview subject.
   - **Falsifier:** the Trinder introduction is later anchored to a different narrator/setting from the Page 52 interview.
-- **Constraint:** Pages/cains_jawbone_page_54.md ↔ Pages/cains_jawbone_page_56.md (confidence: `LIKELY`)
-  - **Anchor:** shared phrase “awful and literal sense of the word” + breakfast/early-morning framing across both pages.
-  - **Falsifier:** the phrase is shown to be a detachable quotation reused by multiple narrators (reducing it to motif-level evidence only).
+- **Constraint:** Pages/cains_jawbone_page_54.md ↔ Pages/cains_jawbone_page_56.md (confidence: `CERTAIN`)
+  - **Anchor:** exact parenthetical “in the awful and literal sense of the word” (unique in the corpus) + shared morning/breakfast domesticity in the same reflective voice.
+  - **Falsifier:** a third page is found with the same exact parenthetical (or it’s shown to be a stock quotation deliberately reused across unrelated narrators), reducing it to motif-only evidence.
 - **Constraint:** Pages/cains_jawbone_page_65.md ↔ Pages/cains_jawbone_page_90.md (confidence: `CERTAIN`)
   - **Anchor:** phrase-level continuation: Page 65’s “every muscle… enthralled” reading beat is picked up by Page 90’s opening “While my mind had been thus far away…”, and both share the identical “I thought I knew the type : learned in a macabre way, even distinguished …” wording (unique in the corpus).
   - **Falsifier:** only if a third page is found containing the same “type : learned in a macabre way…” phrasing in a way that better accounts for Page 65/90 context.
@@ -162,7 +162,7 @@ Directionless mapping from each constraint pair to narrator IDs (useful for cros
 - Pages/cains_jawbone_page_42.md ↔ Pages/cains_jawbone_page_92.md — Narrator(s): N21 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_48.md ↔ Pages/cains_jawbone_page_88.md — Narrator(s): N02 (confidence: `LIKELY`)
 - Pages/cains_jawbone_page_52.md ↔ Pages/cains_jawbone_page_53.md — Narrator(s): N25 (confidence: `LIKELY`)
-- Pages/cains_jawbone_page_54.md ↔ Pages/cains_jawbone_page_56.md — Narrator(s): N26 (confidence: `LIKELY`)
+- Pages/cains_jawbone_page_54.md ↔ Pages/cains_jawbone_page_56.md — Narrator(s): N26 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_59.md ↔ Pages/cains_jawbone_page_60.md — Narrator(s): N12 (confidence: `LIKELY`)
 - Pages/cains_jawbone_page_61.md ↔ Pages/cains_jawbone_page_64.md — Narrator(s): N04 (confidence: `LIKELY`)
 - Pages/cains_jawbone_page_65.md ↔ Pages/cains_jawbone_page_90.md — Narrator(s): N32 (confidence: `CERTAIN`)
