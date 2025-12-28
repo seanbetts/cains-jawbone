@@ -18,10 +18,10 @@ I had always thought that Tate essentially meant sugar. This I liked almost next
   - Cocktails + botanical joke-name: “Crataegus Oxyacantha” = hawthorn (“white-thorn” / “may”): https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Hawthorn_(plant) (MAYBE: used as a name-pun like “May”).
 - **Voice/tells:**
   - Strong animal/dog POV candidate (nose/body perspective); comic literalism.
-- **Ordering hypotheses:**
-  - MAYBE: animal POV cluster.
-  - CERTAIN: follows Pages/cains_jawbone_page_79.md as the start of the mid‑August run (p79’s “next day… allowed to fetch back Lagopus scoticus… after such a long time” implies the Aug 12 red-grouse season opener; this page is the Aug 12 “to-day” beat).
-  - CERTAIN: precedes Pages/cains_jawbone_page_88.md as the next daybook beat (Aug 12 → Aug 13), reinforced by the unique shared Tate-sugar anchor and the same “he said… she said…” domestic-observer register.
+- **Clustering hypotheses:**
+  - CERTAIN: `N02` Dog POV (explicit “sad dog”; sugar hoarding; nose contact with Ecky).
+  - CERTAIN: mid‑August daybook layer via Aug 12 Nahum Tate death-date (“another… wormed his way into the Book of Common Prayer”) + Tate-sugar anchor.
+  - LIKELY: strong continuity hook with Pages/cains_jawbone_page_88.md via Tate-sugar + domestic “he… she…” observer register; treat as Phase 4 adjacency candidate (not asserted order in Phase 3).
   - MAYBE: links to Pages/cains_jawbone_page_43.md via Ecky/Alexander recurrence.
 - **Disconfirming evidence:**
   - If later context makes the “nose” and “sad dog” language purely idiomatic (human narrator).

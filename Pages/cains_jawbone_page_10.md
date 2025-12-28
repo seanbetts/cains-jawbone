@@ -19,9 +19,9 @@ Then came Hyacinth’s day. He laughed when he remembered that, as we were walki
   - Cross-page: calendar/offset language may recur with other “to-day”/feast-day anchors (keep as a continuity cue, not an ordering claim).
 - **Voice/tells:**
   - Social observation + mild contempt (Boots’ speech; “childish”); sexual/romantic weariness (“tire of her already”).
-- **Ordering hypotheses:**
-  - CERTAIN: follows Pages/cains_jawbone_page_39.md (bet/score continuity is unique in the corpus: Pages/cains_jawbone_page_39.md ends “two all for that year… They made a bet.” and this page immediately expands the same bet (“went back two days and formulated their bet… If he got the third point…”), reading as the next beat in the same contest).
-  - CERTAIN: precedes Pages/cains_jawbone_page_99.md as the next daybook beat (Hyacinth’s day → “closing day in Potsdam”), reinforced by the accessory/phrasing carry-over: this page ends “My mistress wore them” and Pages/cains_jawbone_page_99.md opens “And she wore…”, and both use the distinctive “…, as X … called them” parenthetical with a Jasmine reference (see Order/hypotheses.md `N02`).
+- **Clustering hypotheses:**
+  - CERTAIN: `N02` Dog POV; strong phrase-level continuity with Pages/cains_jawbone_page_39.md (bet/score expansion: “two all… They made a bet” ↔ “went back two days… formulated their bet… third point”).
+  - CERTAIN: mid‑August daybook layer (Aug 16 Hyacinth’s day) with a strong continuity hook to Pages/cains_jawbone_page_99.md (“My mistress wore them” ↔ “And she wore…” + shared Jasmine parenthetical); treat as Phase 4 adjacency candidates, not asserted order in Phase 3.
 - **Disconfirming evidence:**
   - If “Hyacinth’s day/Jasmine’s day” are shown to be private nicknames rather than public calendar anchors.
   - If “jossers” on Pages/cains_jawbone_page_99.md is not the cutting/adjusting tool for the bow ends (weakening the singular/plural vocabulary continuity read).

@@ -27,11 +27,10 @@ In one way, of course, I was glad they were married. I had always been rather a 
   - LIKELY: “matter of Jasmine” points to the jasmine/cat thread (cf. cat “Jasmine” on Pages/cains_jawbone_page_22.md) and to Pages/cains_jawbone_page_88.md’s “Tom and Flora’s Jasmine” household reference.
 - **Voice/tells:**
   - Naïve/undereducated self-description (“real education… just listening to him”); name/identity sensitivity (“Hal”).
-- **Ordering hypotheses:**
-  - MAYBE: animal POV segment (chop + naming + naïve register).
-  - LIKELY: late‑year `N02` coda after the Aug 12→18 run (after Pages/cains_jawbone_page_19.md), tied to Pages/cains_jawbone_page_88.md via the “listen to him”/quoted-book dynamic + Tom/Jasmine household continuity; immediate bridge page unknown (see `Order/hypotheses.md` `N02` Coda).
-  - MAYBE: shares the Jasmine + “wasn’t the one I killed” exclusion phrasing with Pages/cains_jawbone_page_99.md (“she wasn’t the one I’d killed”), consistent with the same dog narrator resurfacing later in the year.
-  - MAYBE: connects to jasmine motif thread and to “murderous doctor”/doctor-leading-old-man pages.
+- **Clustering hypotheses:**
+  - CERTAIN: `N02` Dog POV (chop-for-me; “just listening to him”; dog pedigree rumour).
+  - LIKELY: distinct daybook anchor (Dec 14 Albert, Prince Consort) suggests a separate time-layer from the mid‑August subset; sequencing to reconcile later (Phase 4+).
+  - MAYBE: links to the Jasmine thread (Pages/cains_jawbone_page_22.md / Pages/cains_jawbone_page_99.md / Pages/cains_jawbone_page_88.md) via “matter of Jasmine” exclusion phrasing + shared “listen to him” frame; treat as overlap until a second non-generic household anchor appears.
 - **Disconfirming evidence:**
   - If “chop” and “Hal” prove metaphorical and the narrator is clearly human in later linked pages.
 - **Research needed:**

@@ -37,10 +37,9 @@ LIKELY WORDPLAY
 - **Voice/tells:**
   - Naïve about optics (“never could quite understand how it worked”); self-deprecating (“better brain”).
   - LIKELY dog-coded appetite tell: “sausage place… furtively I knew how excellent” reads more naturally as a non-human POV (secret food knowledge) than as human travel-talk.
-- **Ordering hypotheses:**
-  - CERTAIN: follows Pages/cains_jawbone_page_99.md (“jossers” + the unequal love‑knot/bow appear only there; this page’s “Later… the same bow… trimmed the left end” reads as the immediate follow-on).
-  - CERTAIN: precedes Pages/cains_jawbone_page_19.md (both use the knob + Mr. Hall summons; p19 says he “came into the room again” and “Mr. Hall” appears only on these two pages).
-  - MAYBE: part of a mid‑August daybook run (Aug 18 anchor); could sit near Pages/cains_jawbone_page_10.md (Hyacinth’s day Aug 16) and Pages/cains_jawbone_page_99.md (Potsdam “closing day” Aug 17) if date anchors are consecutive for this narrator.
+- **Clustering hypotheses:**
+  - CERTAIN: `N02` Dog POV (high-risk member), with two strong continuity hooks: bow/jossers with Pages/cains_jawbone_page_99.md and the Mr. Hall call-bell/knob mechanic with Pages/cains_jawbone_page_19.md (treat as Phase 4 adjacency candidates, not asserted order in Phase 3).
+  - MAYBE: part of a mid‑August daybook layer (Aug 18 anchor); treat as a time-constraint surface, not a sequence claim in Phase 3.
 - **Disconfirming evidence:**
   - If later evidence makes “powerful glass” an unequivocally hand-held optical tool operated by the narrator (human-only physical action), downgrade this page from core `N02` to shared domestic-scene overlap (it would still be adjacent to Pages/cains_jawbone_page_19.md by the Mr. Hall call-bell mechanic).
   - If Guido/Kilmarnock/Belmerino are later tied to a different date or not intended as calendar anchors.

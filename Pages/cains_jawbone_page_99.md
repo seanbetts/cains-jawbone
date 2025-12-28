@@ -12,7 +12,7 @@ And she wore a mauve love-knot on her breast, and the ends were unequal. He said
   - CERTAIN: narrator admits a prior killing (“she wasn’t the one I’d killed”).
 - **Motifs/continuity hooks:**
   - Bow/love-knot ends unequal + attempted trimming mirrors earlier bow/left-end trimming language (compare Pages/cains_jawbone_page_8.md).
-  - Terminology: “josser” = “a simple fellow” (C. J. Dennis, *The Songs of a Sentimental Bloke* (1915), Glossary: https://en.wikisource.org/wiki/The_Songs_of_a_Sentimental_Bloke/The_Glossary). Here “the silly old jossers” reads as a jocular term for the missing scissors/implements needed to trim/adjust the bow ends (supports Pages/cains_jawbone_page_99.md → Pages/cains_jawbone_page_8.md).
+  - Terminology: “josser” = “a simple fellow” (C. J. Dennis, *The Songs of a Sentimental Bloke* (1915), Glossary: https://en.wikisource.org/wiki/The_Songs_of_a_Sentimental_Bloke/The_Glossary). Here “the silly old jossers” reads as a jocular term for the missing scissors/implements needed to trim/adjust the bow ends (strong continuity hook with Pages/cains_jawbone_page_8.md).
   - Jasmine/cat thread: compare Pages/cains_jawbone_page_22.md (“that cat Jasmine”) and Pages/cains_jawbone_page_46.md (“matter of Jasmine”).
   - “Put my foot in it… Still I had three more left” suggests a non-human POV (four-footed) or heavy idiom/wordplay.
   - Grooming: “dry shampoo… on the old chest” (voice/POV tell).
@@ -22,9 +22,9 @@ And she wore a mauve love-knot on her breast, and the ends were unequal. He said
 - **Quotes & allusions:**
   - CERTAIN: the “most excellent… brilliant eyes… azure-grey… rapidity resting on depth” description is Carlyle on Friedrich (quoted via James Thomson): https://en.wikisource.org/wiki/Biographical_and_critical_studies_by_James_Thomson_(%22B.V.%22)/%22The_Ring_and_the_Book%22.
   - CERTAIN: “closing day in Potsdam” points to Frederick II’s death at Sanssouci (Potsdam) on 17 Aug 1786 (EB1911): https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Frederick_II._of_Prussia.
-- **Ordering hypotheses:**
-  - CERTAIN: precedes Pages/cains_jawbone_page_8.md (the unequal love‑knot/bow + missing “jossers” appears only here; Page 8’s “Later… the same bow… trimmed the left end” reads as the immediate follow-on).
-  - CERTAIN: follows Pages/cains_jawbone_page_10.md as the next daybook beat (Aug 16 → Aug 17), reinforced by the accessory/phrasing carry-over: Pages/cains_jawbone_page_10.md ends “My mistress wore them” and this page opens “And she wore…”, and both use the distinctive “…, as X … called them” parenthetical with a Jasmine reference (see Order/hypotheses.md `N02`).
+- **Clustering hypotheses:**
+  - CERTAIN: `N02` Dog POV; strong continuity hooks to Pages/cains_jawbone_page_8.md (bow/jossers trimming) and Pages/cains_jawbone_page_10.md (Jasmine parenthetical + “My mistress wore them” ↔ “And she wore…” opening), treat as Phase 4 adjacency candidates (not asserted order in Phase 3).
+  - CERTAIN: mid‑August daybook layer via Aug 17 “closing day in Potsdam” (Frederick II death at Sanssouci).
 - **Disconfirming evidence:**
   - If “killed” refers to an animal kill or metaphor rather than one of the in-world murders.
   - If “jossers” is not the cutting/adjusting tool for the bow ends (weakening the plural-only noun continuity with Pages/cains_jawbone_page_10.md).

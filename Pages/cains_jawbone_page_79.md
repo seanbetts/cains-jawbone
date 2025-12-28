@@ -21,10 +21,10 @@ It was that day my friend Sandy told me he was sure he wouldn’t sleep all nigh
   - MAYBE: secondary echo of “May” = hawthorn/May-blossom (cf. Pages/cains_jawbone_page_48.md’s “Crataegus Oxyacantha” and Pages/cains_jawbone_page_75.md’s “the May”).
 - **Voice/tells:**
   - Non-human register (body-part framing; obedience to administered medicine; hunting anticipation).
-- **Ordering hypotheses:**
-  - CERTAIN: follows Pages/cains_jawbone_page_22.md (order-level; not necessarily immediately adjacent; p22’s daybook clue is June 15, earlier than the mid‑August run) (p22 introduces Flora + first “made love”; this page repeats “made love to Flora again”; see `Order/hypotheses.md` `N02`).
-  - CERTAIN: precedes Pages/cains_jawbone_page_48.md as a lead-in to the mid‑August `N02` daybook run (this page points explicitly to “next day… allowed to fetch back Lagopus scoticus… after such a long time” → red-grouse season opener on Aug 12; EB1911 “Grouse”: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Grouse).
-  - LIKELY: adds to the animal POV cluster (cf. Pages/cains_jawbone_page_22.md, Pages/cains_jawbone_page_46.md, Pages/cains_jawbone_page_48.md).
+- **Clustering hypotheses:**
+  - CERTAIN: `N02` Dog POV (mating; hunting/retrieval; Bob Martin ingestion).
+  - CERTAIN: strong continuity hook with Pages/cains_jawbone_page_22.md via Flora (“made love to Flora again”).
+  - LIKELY: time-layer: “next day… allowed to fetch back Lagopus scoticus… after such a long time” suggests the eve of Aug 12 (Glorious Twelfth) and links to the mid‑August daybook subset; treat as a time anchor, not a sequence claim in Phase 3.
 - **Disconfirming evidence:**
   - If “Bob Martin” is a human rather than a product, and the mating language is metaphorical (unlikely).
 - **Research needed:**

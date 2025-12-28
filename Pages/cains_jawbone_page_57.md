@@ -25,11 +25,12 @@ It seemed from what I heard that Felton’s meat had been delivered at Brookesle
 - **Voice/tells:**
   - Discomfort with meat; attentive to companion’s verbal framing.
   - LIKELY: dog-as-listener register (“It seemed from what I heard”; “he read…”), with a Skye/pedigree hint (“Some of my people had known the old Armadale Castle…”) echoing Pages/cains_jawbone_page_19.md’s “my people” line.
-- **Ordering hypotheses:**
-  - LIKELY: `N02` (Dog POV): “It seemed from what I heard…” + “he read…” matches the dog-as-listener pattern, “contrived to share” food reads as an animal-coded tell, and “Some of my people…” + Armadale Castle (Skye) reinforces the `N02` Skye/island/pedigree register (cf. Pages/cains_jawbone_page_19.md McCrimmons; Pages/cains_jawbone_page_46.md “our island” + Maltese breed-rumour).
-  - MAYBE: overlap with the `N25` interview/papers strand only as table-setting (Westphalian ham + “bits of paper” reading); current voice-level fit is weaker than Pages/cains_jawbone_page_52.md → Pages/cains_jawbone_page_53.md.
+- **Clustering hypotheses:**
+  - LIKELY (low-signal): `N02` (Dog POV): “It seemed from what I heard…” + “he read…” matches the dog-as-listener pattern, “contrived to share” food reads as an animal-coded tell, and “Some of my people…” + Armadale Castle (Skye) reinforces the `N02` Skye/island/pedigree register (cf. Pages/cains_jawbone_page_19.md McCrimmons; Pages/cains_jawbone_page_46.md “our island” + Maltese breed-rumour); keep as core unless falsified by a human-only physical context.
+  - MAYBE: Dog POV ↔ Paper artifacts + money pressure macro overlap (Westphalian ham + “bits of paper” reading); treat as scene dressing until a second distinctive `N25` anchor recurs beyond food/papers.
 - **Disconfirming evidence:**
   - If the Westphalian-ham + paper-reading details are shown to be unrelated, common scene dressing across multiple narrators (no shared interview mechanics beyond food/papers).
   - If Pages/cains_jawbone_page_57.md’s voice is shown to be the same contemptuous interviewer as Pages/cains_jawbone_page_52.md/Pages/cains_jawbone_page_53.md (making the “share” phrasing purely rhetorical), weakening any `N02` overlap reading.
+  - If the narrator is later shown in an unequivocally human-only physical situation incompatible with dog POV (not idiom/metaphor).
 - **Research needed:**
   - MAYBE: If a specific voyage/date matters, find a period sailing notice for the Union-Castle mail steamer “Armadale Castle” (current anchor: built 1903).

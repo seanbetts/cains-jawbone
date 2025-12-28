@@ -18,10 +18,10 @@ She said it didn’t matter what they had done, because she was still an M.D., a
 - **Voice/tells:**
   - Naïve literalism (vicarious → vicar); plain-spoken class contrast on clothing.
   - MAYBE: animal-coded voice (coat/undercoat language; “pottered after rabbits”).
-- **Ordering hypotheses:**
-  - CERTAIN: follows Pages/cains_jawbone_page_88.md (p88 ends with the couple arguing about how few the other had done “so late in the year”; this page immediately continues with “it didn’t matter what they had done” + “two all for that year” in the same “He said… She said…” register).
-  - CERTAIN: precedes Pages/cains_jawbone_page_10.md (bet/score continuity is unique in the corpus: this page’s “two all for that year… They made a bet.” is followed by Pages/cains_jawbone_page_10.md’s explicit “went back two days and formulated their bet… If he got the third point…”, reading like the immediate next beat in the same contest).
-  - MAYBE: belongs with other bet/points pages (e.g., Pages/cains_jawbone_page_22.md) if the “points” scoring language recurs as a shared domestic motif.
+- **Clustering hypotheses:**
+  - CERTAIN: `N02` domestic-observer voice with naïve literalism (vicarious → vicar; coat/undercoat language).
+  - CERTAIN: strong continuity hooks to Pages/cains_jawbone_page_88.md (“how few the other had done so late in the year” ↔ “it didn’t matter what they had done” + “two all for that year”) and Pages/cains_jawbone_page_10.md (bet/third point follow-through); treat as Phase 4 adjacency candidates, not asserted order in Phase 3.
+  - MAYBE: belongs with other bet/points pages if “points” scoring language recurs as a shared domestic motif.
 - **Disconfirming evidence:**
   - If later reveals “M.D.” isn’t an academic degree but another acronym used repeatedly by this narrator.
 - **Research needed:**

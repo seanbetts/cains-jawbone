@@ -16,11 +16,10 @@ He always talked to me about murder, when we were alone together. And that day h
   - Jealousy/banishment; house dynamics; murder-talk fixation.
 - **Voice/tells:**
   - Strong dog POV (tail-vibration cue, mating behaviour, “slept” banished).
-- **Ordering hypotheses:**
-  - LIKELY: dog‑narrator cluster with Pages/cains_jawbone_page_8.md and Pages/cains_jawbone_page_19.md (animal reactions/ears/low noise).
-  - CERTAIN: precedes Pages/cains_jawbone_page_79.md (order-level; not necessarily immediately adjacent; this page’s June-15 daybook clue is earlier than the mid‑August run) (p79 “made love to Flora again” presupposes this page’s first Flora encounter; “Flora” appears only on these two pages in the dog POV set). Falsifier: Flora is shown to be a different referent on the two pages.
-  - MAYBE: via Pages/cains_jawbone_page_79.md, functions as a lead-in to the mid‑August `N02` daybook spine starting at Pages/cains_jawbone_page_48.md (if p79’s Lagopus “allowed again” line is an out-of-season → in-season transition cue).
-  - MAYBE: jasmine motif echo with Pages/cains_jawbone_page_24.md (wild jasmine).
+- **Clustering hypotheses:**
+  - CERTAIN: `N02` Dog POV (tail-vibration cue; mating/banishment; dog-coded jealousy).
+  - LIKELY: strong continuity hook with Pages/cains_jawbone_page_79.md via Flora (“made love to Flora” ↔ “made love to Flora again”); ordering to resolve in Phase 4.
+  - MAYBE: jasmine name overlaps Pages/cains_jawbone_page_24.md (wild jasmine); treat as motif coincidence unless reinforced by a second shared anchor.
 - **Disconfirming evidence:**
   - If later pages show human POV here (tail “vibration” is a metaphor) or Flora/Jasmine are people.
 - **Research needed:**

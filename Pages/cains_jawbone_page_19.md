@@ -21,10 +21,9 @@ Yesterday he got in another of his own kind, who agreed she’d done it all hers
   - Animal-coded behaviour: ear pulling; “low noise” reaction.
 - **Voice/tells:**
   - Outsider/naïve social position (ears pulled); unexpected love of music with “my people” origin clue.
-- **Ordering hypotheses:**
-  - CERTAIN: follows Pages/cains_jawbone_page_8.md (p8 ends with the knob being twiddled and Mr. Hall bursting in; here Mr. Hall “came into the room again” after the polished knob is twiddled, and “Mr. Hall” appears only on these two pages).
-  - LIKELY: “Yesterday” aligns with Pages/cains_jawbone_page_99.md’s Aug 17 “closing day in Potsdam” if this is part of the consecutive mid‑August daybook spine (see `Order/hypotheses.md` `N02` Spine).
-  - LIKELY: earlier than Pages/cains_jawbone_page_46.md’s Dec 14 `N02` coda (ordering relation; bridge page(s) unknown).
+- **Clustering hypotheses:**
+  - CERTAIN: `N02` Dog POV; shares the Mr. Hall call-bell/knob mechanic with Pages/cains_jawbone_page_8.md (high-signal continuity hook; Phase 4 adjacency candidate, not asserted order in Phase 3).
+  - LIKELY: mid‑August daybook layer via Balzac Aug 18 “to-day” + “Yesterday” framing; treat as a time-constraint surface, not a sequence claim in Phase 3.
   - LIKELY: shares a Skye/pedigree register with Pages/cains_jawbone_page_46.md (“my people… McCrimmons” ↔ “our island” + Maltese breed-rumour framing), supporting continuity of the same dog narrator across the late-year beat.
 - **Disconfirming evidence:**
   - If later pages show two different “Mr. Hall” contexts or incompatible settings.
