@@ -110,6 +110,9 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
 - **Constraint:** Pages/cains_jawbone_page_29.md ↔ Pages/cains_jawbone_page_36.md (confidence: `CERTAIN`)
   - **Anchor:** ordeal-bean/physostigma thread: Page 29’s “discarded my useless physostigma” (West African ordeal beans) aligns with Page 36’s “old Calabar… should fail me… could not rely on him.”
   - **Falsifier:** “physostigma/ordeal bean” is shown to refer to a different substance/plan than Page 36’s “old Calabar” (or the failure/discard beats are shown to be separate experiments).
+- **Constraint:** Pages/cains_jawbone_page_29.md ↔ Pages/cains_jawbone_page_35.md (confidence: `CERTAIN`)
+  - **Anchor:** unique phrase-level echo: Page 29 ends “I felt I ought to be drawing towards a close ; but one never knew,” and Page 35 restates “Henry was drawing towards a close… But he might return. One never knew.”
+  - **Falsifier:** only if later evidence anchors the two scenes/voices as incompatible (making the shared “drawing towards a close… one never knew” phrasing coincidental).
 - **Constraint:** Pages/cains_jawbone_page_61.md ↔ Pages/cains_jawbone_page_64.md (confidence: `CERTAIN`)
   - **Anchor:** “Great Lexicographer” (Dr Samuel Johnson) appears only on these two pages, in the same densely allusive register.
   - **Falsifier:** only if “Great Lexicographer” is shown to refer to different people across the two pages (unlikely without additional supporting text).
@@ -131,9 +134,6 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
 - **Candidate:** Pages/cains_jawbone_page_4.md ↔ Pages/cains_jawbone_page_5.md (confidence: `MAYBE`)
   - **Anchor:** shared church/puddles + boy-near-sea vignette overlaps with the ruined lighthouse scene imagery.
   - **Falsifier:** the settings are later anchored to incompatible locales/timelines.
-- **Candidate:** Pages/cains_jawbone_page_29.md ↔ Pages/cains_jawbone_page_35.md (confidence: `MAYBE`)
-  - **Anchor:** shared rare phrasing: “drawing towards a close” + “one never knew”.
-  - **Falsifier:** the shared phrasing is shown to be generic/incidental, with no supporting shared anchors in cast/setting/voice.
 - **Candidate:** Pages/cains_jawbone_page_58.md ↔ Pages/cains_jawbone_page_35.md (confidence: `MAYBE`)
   - **Anchor:** pursuit escalation candidate: Page 58’s “horribly official knock at the little blue door” plausibly leads into Page 35’s flying-squad surround and concealed-panel chase mechanics, but shared anchors are mostly thematic (police pressure + Henry corpse context).
   - **Falsifier:** one page is shown to be an embedded/imagined chase scenario, or the two scenes’ setting/cast is later anchored as incompatible.
@@ -174,6 +174,7 @@ Directionless mapping from each constraint pair to narrator IDs (useful for cros
 - Pages/cains_jawbone_page_26.md ↔ Pages/cains_jawbone_page_45.md — Narrator(s): N16 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_28.md ↔ Pages/cains_jawbone_page_50.md — Narrator(s): N39 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_29.md ↔ Pages/cains_jawbone_page_36.md — Narrator(s): N12 (confidence: `CERTAIN`)
+- Pages/cains_jawbone_page_29.md ↔ Pages/cains_jawbone_page_35.md — Narrator(s): N12 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_33.md ↔ Pages/cains_jawbone_page_34.md — Narrator(s): N25 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_39.md ↔ Pages/cains_jawbone_page_88.md — Narrator(s): N02 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_42.md ↔ Pages/cains_jawbone_page_92.md — Narrator(s): N21 (confidence: `CERTAIN`)
