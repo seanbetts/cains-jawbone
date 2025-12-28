@@ -500,12 +500,13 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - Both pages bind Calabar/digitalis to Henry-in-scene + corpse-handling language (blood/body; burial with eyes showing).
       - **Disconfirming evidence:**
         - “introduced him to the person most concerned” in Pages/cains_jawbone_page_36.md is later shown to refer to a different “him”/recipient than the Calabar/digitalis action in Pages/cains_jawbone_page_21.md.
-    - **Sequence B — Henry spree escalation (knock → manhunt)** (confidence: `MAYBE`)
-      - **Pages (ordered):** Pages/cains_jawbone_page_58.md → Pages/cains_jawbone_page_35.md
-      - **Why:**
-        - Pages/cains_jawbone_page_58.md ends with a “horribly official knock,” and Pages/cains_jawbone_page_35.md continues into an active police pursuit with the flying squad and an escape attempt.
-      - **Disconfirming evidence:**
-        - Any of the “killings/victim” language is proven figurative, or the Pages/cains_jawbone_page_35.md pursuit is later revealed as an embedded/imagined story unrelated to the corpse scenes.
+	    - **Sequence B — Henry spree escalation (knock → manhunt)** (confidence: `MAYBE`)
+	      - **Pages (ordered):** Pages/cains_jawbone_page_58.md → Pages/cains_jawbone_page_35.md
+	      - **Why:**
+	        - Pages/cains_jawbone_page_58.md ends with a “horribly official knock,” and Pages/cains_jawbone_page_35.md continues into an active police pursuit with the flying squad and an escape attempt.
+	        - Note: current evidence is thematic only (no phrase-level overlap); do not treat this as a lock unless a second independent shared anchor emerges.
+	      - **Disconfirming evidence:**
+	        - Any of the “killings/victim” language is proven figurative, or the Pages/cains_jawbone_page_35.md pursuit is later revealed as an embedded/imagined story unrelated to the corpse scenes.
     - **Sequence C — Trinder outcome (failed → succeeded)** (confidence: `LIKELY`)
       - **Pages (ordered):** Pages/cains_jawbone_page_59.md → Pages/cains_jawbone_page_60.md
       - **Why:**
@@ -641,13 +642,14 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Key anchors:** buttonhole scene behind the church; boy about to tumble into the sea; ruined lighthouse; “Emperor’s Peg” + vitriol/applejack; Bisto/Cerebos riffing; O.M./M.O./OM wordplay.
   - **Disconfirming evidence:** Page 5’s narrator voice proves incompatible with Page 4’s (different social position/setting with no shared tells beyond generic puns).
   - **Phase 4 internal ordering hypotheses (N19):**
-    - **Sequence A — church-side comedy → lighthouse-side distraction** (confidence: `LIKELY`)
-      - **Pages (ordered):** Pages/cains_jawbone_page_4.md → Pages/cains_jawbone_page_5.md
-      - **Why:**
-        - Pages/cains_jawbone_page_4.md establishes the coastal setting with church/puddles + “boy… to tumble into the sea,” while Pages/cains_jawbone_page_5.md shifts to the ruined lighthouse as the next major location-beat in the same seaside strip.
-        - Pages/cains_jawbone_page_4.md’s suspicion of a “beautiful” woman (“Can I suspect her?”) aligns with Pages/cains_jawbone_page_5.md’s irritation at distractions while “poor Henry” pursues an “intended fifth,” reading like an escalation from social comedy to stakes.
-      - **Disconfirming evidence:**
-        - The church/buttonhole and ruined lighthouse are later anchored to incompatible places/timelines, or the “boy” incident is shown to be a different scene from the “new young man” in Pages/cains_jawbone_page_5.md.
+	    - **Sequence A — church-side comedy → lighthouse-side distraction** (confidence: `MAYBE`)
+	      - **Pages (ordered):** Pages/cains_jawbone_page_4.md → Pages/cains_jawbone_page_5.md
+	      - **Why:**
+	        - Pages/cains_jawbone_page_4.md establishes the coastal setting with church/puddles + “boy… to tumble into the sea,” while Pages/cains_jawbone_page_5.md shifts to the ruined lighthouse as the next major location-beat in the same seaside strip.
+	        - Pages/cains_jawbone_page_4.md’s suspicion of a “beautiful” woman (“Can I suspect her?”) aligns with Pages/cains_jawbone_page_5.md’s irritation at distractions while “poor Henry” pursues an “intended fifth,” reading like an escalation from social comedy to stakes.
+	        - Note: no phrase-level anchor currently ties these as adjacent; treat as a tentative within-cluster order only.
+	      - **Disconfirming evidence:**
+	        - The church/buttonhole and ruined lighthouse are later anchored to incompatible places/timelines, or the “boy” incident is shown to be a different scene from the “new young man” in Pages/cains_jawbone_page_5.md.
     - **Sequence B — scene order uncertain (keep reverse alive)** (confidence: `MAYBE`)
       - **Pages (ordered):** Pages/cains_jawbone_page_5.md → Pages/cains_jawbone_page_4.md
       - **Why:**
@@ -1310,6 +1312,7 @@ Template:
 
 - **Sequence (confidence: MAYBE):** `Pages/cains_jawbone_page_68.md → Pages/cains_jawbone_page_69.md → Pages/cains_jawbone_page_70.md`
   - **Why:** Shared “old man” thread (crucial meeting → slow death witnessed → letter/retaliation fear) suggests narrative continuity.
+  - **Note:** no phrase-level overlap currently ties Pages/cains_jawbone_page_68.md to Pages/cains_jawbone_page_69.md; treat this as a motif-level chain only unless a second independent anchor emerges.
   - **Disconfirming evidence:** “old man” is generic or the pronoun targets differ across pages.
 
 - **Sequence (confidence: MAYBE):** `Pages/cains_jawbone_page_89.md → Pages/cains_jawbone_page_90.md`
