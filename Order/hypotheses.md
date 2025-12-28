@@ -167,6 +167,7 @@ This is descriptive only: overlaps here do not imply ordering or shared narrator
 - Pages/cains_jawbone_page_45.md → Botany/poison + gardening expertise; Detective/police + violence scenes
 - Pages/cains_jawbone_page_52.md → Paper artifacts + money pressure; Time obsession + calendar anchors
 - Pages/cains_jawbone_page_54.md → Botany/poison + gardening expertise; Time obsession + calendar anchors
+- Pages/cains_jawbone_page_57.md → Dog POV; Paper artifacts + money pressure
 - Pages/cains_jawbone_page_67.md → Aesthetic / infatuation / high-society; Time obsession + calendar anchors
 - Pages/cains_jawbone_page_84.md → Aesthetic / infatuation / high-society; Time obsession + calendar anchors
 - Pages/cains_jawbone_page_89.md → Paper artifacts + money pressure; Aesthetic / infatuation / high-society
@@ -195,7 +196,7 @@ Goal: highlight likely “join surfaces” between macro strands (people/place/o
     - `N16` (Pages/cains_jawbone_page_7.md): Baker Street / “investigation” framing (Typhoon/Taifun scene texture) + horticultural “Jew’s-lime” engrafting-wax odour.
     - `N16` (Pages/cains_jawbone_page_45.md): corpse proximity + stealth/eavesdropping + “led up the garden (path)” idiom literalised.
     - **Tightening check:** keep only where the botany element is concrete (named plant/substance or explicit horticultural work) and the violence/crime frame is in-scene (not a detachable quotation layer).
-  - Single-page overlaps (treat as low-confidence until a second independent anchor appears): Aesthetic ↔ Botany (Pages/cains_jawbone_page_5.md); Detective/violence ↔ Paper/money (Pages/cains_jawbone_page_44.md); Botany ↔ Time (Pages/cains_jawbone_page_54.md); Botany ↔ Whitman (Pages/cains_jawbone_page_40.md); Time ↔ Whitman (Pages/cains_jawbone_page_32.md); Aesthetic ↔ Paper/money (Pages/cains_jawbone_page_89.md); Dog POV ↔ Time (Pages/cains_jawbone_page_99.md).
+  - Single-page overlaps (treat as low-confidence until a second independent anchor appears): Aesthetic ↔ Botany (Pages/cains_jawbone_page_5.md); Detective/violence ↔ Paper/money (Pages/cains_jawbone_page_44.md); Botany ↔ Time (Pages/cains_jawbone_page_54.md); Botany ↔ Whitman (Pages/cains_jawbone_page_40.md); Time ↔ Whitman (Pages/cains_jawbone_page_32.md); Aesthetic ↔ Paper/money (Pages/cains_jawbone_page_89.md); Dog POV ↔ Paper/money (Pages/cains_jawbone_page_57.md); Dog POV ↔ Time (Pages/cains_jawbone_page_99.md).
 
 - **Cross-page bridges (non-overlap; higher-signal named anchors):**
   - `P16` May (see `Indexes/people.md`; person vs month/May-blossom ambiguity): treat as a bridge only where May is directly addressed or invoked as an agent (Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_80.md, Pages/cains_jawbone_page_98.md); treat Pages/cains_jawbone_page_71.md/Pages/cains_jawbone_page_75.md/Pages/cains_jawbone_page_100.md as edge-overlap until clarified. Falsifier: “May” resolves as month/flower-only in the “red May”/“blight on the May” strand, or May’s role/relationships are incompatible across the direct-address pages.
