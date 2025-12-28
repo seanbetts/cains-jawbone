@@ -29,9 +29,6 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
 - **Constraint:** Pages/cains_jawbone_page_85.md ↔ Pages/cains_jawbone_page_94.md (confidence: `CERTAIN`)
   - **Anchor:** unique self-name lock: Page 85’s schoolboy jibe “Kipling” as a transform of `KING` and Page 94’s explicit “my own name” seen in a window-sign (LIKELY `KING`), with Henry present in-scene on both pages.
   - **Falsifier:** the window-sign is shown not to be the narrator’s own name, or the “Kipling” name-jibe resolves to a different underlying name than `KING`.
-- **Constraint:** Pages/cains_jawbone_page_58.md ↔ Pages/cains_jawbone_page_35.md (confidence: `LIKELY`)
-  - **Anchor:** “horribly official knock” + flying-squad manhunt (surrounding the house; concealed passage/panel).
-  - **Falsifier:** one page is shown to be an embedded/imagined chase scenario rather than the same in-world pursuit.
 - **Constraint:** Pages/cains_jawbone_page_3.md ↔ Pages/cains_jawbone_page_32.md (confidence: `CERTAIN`)
   - **Anchor:** same instruction-giver episode: Page 3’s meeting with Clement “yesterday” (precise dosing/plan + travel “signs”) is reprised by Page 32’s “yesterday’s… place of appointment with the man who gave me my instructions”, with a shared Whitman/weather/scansion register (“weeping weather” ↔ “rain-proof coat, good shoes”).
   - **Falsifier:** only if the “yesterday” instructions/appointment are shown to be different events (or different “Clement/Clément”) on the two pages.
@@ -137,6 +134,9 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
 - **Candidate:** Pages/cains_jawbone_page_29.md ↔ Pages/cains_jawbone_page_35.md (confidence: `MAYBE`)
   - **Anchor:** shared rare phrasing: “drawing towards a close” + “one never knew”.
   - **Falsifier:** the shared phrasing is shown to be generic/incidental, with no supporting shared anchors in cast/setting/voice.
+- **Candidate:** Pages/cains_jawbone_page_58.md ↔ Pages/cains_jawbone_page_35.md (confidence: `MAYBE`)
+  - **Anchor:** pursuit escalation candidate: Page 58’s “horribly official knock at the little blue door” plausibly leads into Page 35’s flying-squad surround and concealed-panel chase mechanics, but shared anchors are mostly thematic (police pressure + Henry corpse context).
+  - **Falsifier:** one page is shown to be an embedded/imagined chase scenario, or the two scenes’ setting/cast is later anchored as incompatible.
 - **Candidate:** Pages/cains_jawbone_page_36.md ↔ Pages/cains_jawbone_page_59.md (confidence: `MAYBE`)
   - **Anchor:** “awkward” phrasing + poison-failure beats (with Page 59 adding police attention).
   - **Falsifier:** “awkward” resolves to a generic aside with no shared poison-thread continuity, or a better-matching “awkward” page appears.
@@ -175,7 +175,6 @@ Directionless mapping from each constraint pair to narrator IDs (useful for cros
 - Pages/cains_jawbone_page_28.md ↔ Pages/cains_jawbone_page_50.md — Narrator(s): N39 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_29.md ↔ Pages/cains_jawbone_page_36.md — Narrator(s): N12 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_33.md ↔ Pages/cains_jawbone_page_34.md — Narrator(s): N25 (confidence: `CERTAIN`)
-- Pages/cains_jawbone_page_35.md ↔ Pages/cains_jawbone_page_58.md — Narrator(s): N12 (confidence: `LIKELY`)
 - Pages/cains_jawbone_page_39.md ↔ Pages/cains_jawbone_page_88.md — Narrator(s): N02 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_42.md ↔ Pages/cains_jawbone_page_92.md — Narrator(s): N21 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_48.md ↔ Pages/cains_jawbone_page_88.md — Narrator(s): N02 (confidence: `CERTAIN`)
@@ -438,7 +437,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - Both pages bind Calabar/digitalis to Henry-in-scene + corpse-handling language (blood/body; burial with eyes showing).
       - **Disconfirming evidence:**
         - “introduced him to the person most concerned” in Pages/cains_jawbone_page_36.md is later shown to refer to a different “him”/recipient than the Calabar/digitalis action in Pages/cains_jawbone_page_21.md.
-    - **Sequence B — Henry spree escalation (knock → manhunt)** (confidence: `LIKELY`)
+    - **Sequence B — Henry spree escalation (knock → manhunt)** (confidence: `MAYBE`)
       - **Pages (ordered):** Pages/cains_jawbone_page_58.md → Pages/cains_jawbone_page_35.md
       - **Why:**
         - Pages/cains_jawbone_page_58.md ends with a “horribly official knock,” and Pages/cains_jawbone_page_35.md continues into an active police pursuit with the flying squad and an escape attempt.

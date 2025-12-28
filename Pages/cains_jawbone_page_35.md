@@ -15,7 +15,7 @@ For this time being, Henry was drawing towards a close. I was not sorry. The pol
 - **Voice/tells:**
   - Darkly comic, thriller-pastiche tone; treats murder as genre mechanics.
 - **Clustering hypotheses:**
-  - LIKELY: links strongly with Pages/cains_jawbone_page_58.md (official knock → flying squad manhunt).
+  - MAYBE: overlaps with Pages/cains_jawbone_page_58.md as a pursuit escalation (official knock ↔ flying squad manhunt); treat as a candidate lock pending a more unique shared anchor than police/pressure.
   - MAYBE: links strongly with Pages/cains_jawbone_page_29.md via shared rare phrasing (“drawing towards a close” + “one never knew”; p35 reads like a more explicit reprise).
   - MAYBE: Henry narrative escalates from “killings/victim” (Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_26.md) to active manhunt (falsifier: if p35 is an embedded/imagined pursuit scenario).
 - **Disconfirming evidence:**
