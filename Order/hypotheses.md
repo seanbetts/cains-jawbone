@@ -2,6 +2,58 @@
 
 Record clusters and candidate sequences with reasons and falsifiers.
 
+## Phase 3 constraints inventory (directionless)
+
+High-signal continuity constraints to use for clustering and later Phase 4 ordering work. Use `↔` and avoid `precedes/follows` claims here; resolve direction only when we switch back to Phase 4.
+
+### Hard sentence/scene continuations
+
+- **Constraint:** Pages/cains_jawbone_page_66.md ↔ Pages/cains_jawbone_page_67.md (confidence: `CERTAIN`)
+  - **Anchor:** mid-sentence “hung round with …” continues into a specific Beardsley/Rops + headmaster memory list.
+  - **Falsifier:** only if an editorial/transcription artifact is discovered (unlikely).
+- **Constraint:** Pages/cains_jawbone_page_73.md ↔ Pages/cains_jawbone_page_74.md (confidence: `CERTAIN`)
+  - **Anchor:** mid-sentence “hung round with …” continues into “photographs of young and laughing athletes…”.
+  - **Falsifier:** only if an editorial/transcription artifact is discovered (unlikely).
+- **Constraint:** Pages/cains_jawbone_page_89.md ↔ Pages/cains_jawbone_page_90.md (confidence: `LIKELY`)
+  - **Anchor:** the “soigné / glacial parquet” venue + grotesque old gentleman (“ancient”) spans the same scene (arrival + seated beat; shared conversational motif).
+  - **Falsifier:** the “ancient” is shown to be a different figure/setting than the old gentleman introduced on Page 90.
+
+### Hard quote continuations (including deliberate substitutions)
+
+- **Constraint:** Pages/cains_jawbone_page_49.md ↔ Pages/cains_jawbone_page_13.md (confidence: `CERTAIN`)
+  - **Anchor:** consecutive lines from Blake, “Europe a Prophecy” (“Bring Palamabron… Elynittria…” ↔ “Rintrah… Ocalythron.”).
+  - **Falsifier:** the Blake fragment is reproduced elsewhere in full (not a page-break lock).
+- **Constraint:** Pages/cains_jawbone_page_92.md ↔ Pages/cains_jawbone_page_42.md (confidence: `CERTAIN`)
+  - **Anchor:** Browning “Saul” stanza continuation (“…living and blue” ↔ “Just broken to twine…”).
+  - **Falsifier:** the relevant stanza is reproduced elsewhere in full (not a page-break lock).
+- **Constraint:** Pages/cains_jawbone_page_23.md ↔ Pages/cains_jawbone_page_24.md (confidence: `CERTAIN`)
+  - **Anchor:** Masefield “Captain Stratton’s Fancy” line followed by Yeats “Cathleen…” line (cross-swap continuation).
+  - **Falsifier:** a different page begins with the canonical Masefield continuation in a way that better accounts for Page 23’s terminal line.
+- **Constraint:** Pages/cains_jawbone_page_86.md ↔ Pages/cains_jawbone_page_87.md (confidence: `CERTAIN`)
+  - **Anchor:** Yeats “quiet feet” line followed by the “Henry Morgan” continuation (cross-swap), plus shared “my guest” framing in the body text.
+  - **Falsifier:** “my guest” is shown to be a different person/context on the two pages, making the link purely decorative quotation.
+
+### Hard prop/mechanic continuations
+
+- **Constraint:** Pages/cains_jawbone_page_8.md ↔ Pages/cains_jawbone_page_19.md (confidence: `CERTAIN`)
+  - **Anchor:** the knob/call-bell is twiddled and Mr. Hall enters; Page 19 explicitly says he comes in “again.”
+  - **Falsifier:** another page introduces an incompatible “Mr. Hall” + bell mechanism, implying two unrelated households.
+- **Constraint:** Pages/cains_jawbone_page_99.md ↔ Pages/cains_jawbone_page_8.md (confidence: `LIKELY`)
+  - **Anchor:** unique bow/ends-unequal + missing “jossers” ↔ later trimming “the left end” of the same bow.
+  - **Falsifier:** “jossers” is shown to be unrelated to the bow/adjustment action, weakening the uniqueness of the link.
+- **Constraint:** Pages/cains_jawbone_page_39.md ↔ Pages/cains_jawbone_page_10.md (confidence: `LIKELY`)
+  - **Anchor:** the “bet / points” setup expands across the two pages in the same domestic/garden scene.
+  - **Falsifier:** “bet/points” language is shown to recur as a generic motif across other pages with clearer continuity.
+
+### Strong thread locks (not necessarily immediate neighbours)
+
+- **Constraint:** Pages/cains_jawbone_page_7.md ↔ Pages/cains_jawbone_page_45.md (confidence: `CERTAIN`)
+  - **Anchor:** distinctive *Typhoon/Taifun* Renard‑Beinsky phrasing + Pole/half‑Pole framing.
+  - **Falsifier:** the *Typhoon* layer is shown to be a detachable quotation reused by multiple narrators.
+- **Constraint:** Pages/cains_jawbone_page_21.md ↔ Pages/cains_jawbone_page_36.md (confidence: `LIKELY`)
+  - **Anchor:** “Calabar” appears only on these pages; Page 36’s “morning after I had introduced him…” reads as the same Calabar/experiment thread.
+  - **Falsifier:** the “introduced him…” reference is shown to refer to a different “him”/action than the Calabar Bean usage on Page 21.
+
 ## Clusters
 
 Template:
