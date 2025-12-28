@@ -18,7 +18,7 @@ He always talked to me about murder, when we were alone together. And that day h
   - Strong dog POV (tail-vibration cue, mating behaviour, “slept” banished).
 - **Clustering hypotheses:**
   - CERTAIN: `N02` Dog POV (tail-vibration cue; mating/banishment; dog-coded jealousy).
-  - LIKELY: strong continuity hook with Pages/cains_jawbone_page_79.md via Flora (“made love to Flora” ↔ “made love to Flora again”); ordering to resolve in Phase 4.
+  - CERTAIN: links strongly with Pages/cains_jawbone_page_79.md via Flora (“made love to Flora” ↔ “made love to Flora again” (explicit “again” hinge)). Treat as a continuity constraint `Pages/cains_jawbone_page_22.md ↔ Pages/cains_jawbone_page_79.md`; see `Order/hypotheses.md` constraints inventory.
   - MAYBE: jasmine name overlaps Pages/cains_jawbone_page_24.md (wild jasmine); treat as motif coincidence unless reinforced by a second shared anchor.
 - **Disconfirming evidence:**
   - If later pages show human POV here (tail “vibration” is a metaphor) or Flora/Jasmine are people.
