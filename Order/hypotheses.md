@@ -65,14 +65,14 @@ These are **cross-narrator** groupings intended to reduce the search space for P
   - **Rationale:** Dense, recurring plant/poison specificity (often tied to deliberate action) plus a repeated “competence/plan/instructions” register suggests either a shared narrator or a small set of closely linked narrators.
   - **Key anchors:** Calabar bean/physostigma; digitalis; hellebore; lobelia/Indian-tobacco; wild jasmine/roses; marigold/calendula; Mithradates inoculation; failing eyesight with “documents”; “job/instructions” framing.
   - **Sub-strands (working):**
-    - `N12` poison logistics: Pages/cains_jawbone_page_6.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_29.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_58.md, Pages/cains_jawbone_page_59.md
+    - `N12` poison logistics: Pages/cains_jawbone_page_6.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_29.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_58.md, Pages/cains_jawbone_page_59.md, Pages/cains_jawbone_page_80.md (MAYBE extension)
     - `N03` Clement/pills/flowers: Pages/cains_jawbone_page_3.md, Pages/cains_jawbone_page_24.md, Pages/cains_jawbone_page_27.md, Pages/cains_jawbone_page_32.md (MAYBE: Pages/cains_jawbone_page_30.md)
-    - `N06` flowers/documents/OGPU: Pages/cains_jawbone_page_71.md, Pages/cains_jawbone_page_73.md, Pages/cains_jawbone_page_74.md, Pages/cains_jawbone_page_75.md, Pages/cains_jawbone_page_83.md
-    - `N13` host/guest poisoning: Pages/cains_jawbone_page_80.md, Pages/cains_jawbone_page_86.md, Pages/cains_jawbone_page_87.md
+    - `N06` flowers/documents/OGPU: Pages/cains_jawbone_page_73.md, Pages/cains_jawbone_page_74.md, Pages/cains_jawbone_page_75.md, Pages/cains_jawbone_page_83.md, Pages/cains_jawbone_page_71.md (MAYBE extension)
+    - `N13` host/guest poisoning: Pages/cains_jawbone_page_86.md, Pages/cains_jawbone_page_87.md
     - Bridge singleton candidates: `N26` (Pages/cains_jawbone_page_54.md), `N31` (Pages/cains_jawbone_page_40.md)
     - Edge overlap promotions (low confidence): `N19` (Pages/cains_jawbone_page_5.md); `N16` (Pages/cains_jawbone_page_7.md, Pages/cains_jawbone_page_45.md)
   - **Disconfirming evidence:** later evidence shows plant/poison talk is broadly distributed across unrelated voices with incompatible settings/participants.
-  - **Next falsification check:** treat this as an umbrella and explicitly maintain sub-strands (`N12` poison logistics; `N03` Clement/mission plants; `N06` flowers+documents/OGPU; `N13` host/guest poisoning), only merging across them when a non-botanical phrase/participant anchor repeats; people-index suggests `P03` Clement anchors Pages/cains_jawbone_page_3.md + Pages/cains_jawbone_page_24.md + Pages/cains_jawbone_page_27.md + Pages/cains_jawbone_page_32.md, `P16` May anchors Pages/cains_jawbone_page_71.md + Pages/cains_jawbone_page_75.md + Pages/cains_jawbone_page_80.md, and `P50` Sir Paul Trinder anchors Pages/cains_jawbone_page_59.md + Pages/cains_jawbone_page_80.md (potential bridge if Page 80 is confirmed in the host/guest poisoning sub-strand). Treat `P01` Henry as high-signal but high-noise (likely multiple Henrys across strands).
+  - **Next falsification check:** treat this as an umbrella and explicitly maintain sub-strands (`N12` poison logistics; `N03` Clement/mission plants; `N06` flowers+documents/OGPU; `N13` host/guest poisoning), only merging across them when a non-botanical phrase/participant anchor repeats; people-index suggests `P03` Clement anchors Pages/cains_jawbone_page_3.md + Pages/cains_jawbone_page_24.md + Pages/cains_jawbone_page_27.md + Pages/cains_jawbone_page_32.md, `P16` May anchors Pages/cains_jawbone_page_71.md + Pages/cains_jawbone_page_75.md + Pages/cains_jawbone_page_80.md, and `P50` Sir Paul Trinder anchors Pages/cains_jawbone_page_59.md + Pages/cains_jawbone_page_80.md (cross-strand bridge between the Sir Paul interview and poison-hosting scenes). Treat `P01` Henry as high-signal but high-noise (likely multiple Henrys across strands).
 
 - **Cluster:** Paper artifacts + money pressure strand (confidence: `MAYBE`)
   - **Pages:** Pages/cains_jawbone_page_1.md, Pages/cains_jawbone_page_2.md, Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_12.md, Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_18.md, Pages/cains_jawbone_page_23.md, Pages/cains_jawbone_page_28.md, Pages/cains_jawbone_page_33.md, Pages/cains_jawbone_page_34.md, Pages/cains_jawbone_page_44.md, Pages/cains_jawbone_page_50.md, Pages/cains_jawbone_page_52.md, Pages/cains_jawbone_page_53.md, Pages/cains_jawbone_page_57.md, Pages/cains_jawbone_page_61.md, Pages/cains_jawbone_page_64.md, Pages/cains_jawbone_page_68.md, Pages/cains_jawbone_page_69.md, Pages/cains_jawbone_page_70.md, Pages/cains_jawbone_page_72.md, Pages/cains_jawbone_page_78.md, Pages/cains_jawbone_page_89.md, Pages/cains_jawbone_page_95.md, Pages/cains_jawbone_page_96.md, Pages/cains_jawbone_page_98.md
@@ -94,7 +94,7 @@ These are **cross-narrator** groupings intended to reduce the search space for P
   - **Rationale:** These pages share a crime/detection frame (explicitly or via detective canon allusions) and/or hands-on violence/corpse familiarity, often with London-police texture.
   - **Key anchors:** Sherlock/Mycroft and Sexton Blake; “Scotland Yard”; “Black Museum”; “Speckled Band” riff; window-throw vignette; “carnal, bloody and unnatural acts” frame.
   - **Sub-strands (working):**
-    - `N20` (Bloomsbury/nomenclature + grim-scene): Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_31.md
+    - `N20` (Bloomsbury/nomenclature + grim-scene): Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_31.md, Pages/cains_jawbone_page_49.md (MAYBE extension)
     - `N08` (King narrator; Holmes/Blake + clock/transform habits): Pages/cains_jawbone_page_82.md, Pages/cains_jawbone_page_85.md, Pages/cains_jawbone_page_94.md
     - `N11` (De’Ath / “Black Museum”): Pages/cains_jawbone_page_91.md
     - `N24` (Scotland Yard collapse / Kursaal): Pages/cains_jawbone_page_100.md
@@ -110,7 +110,7 @@ These are **cross-narrator** groupings intended to reduce the search space for P
   - **Rationale:** A shared social-register cluster: art-world and literary name-dropping, sensual description (hair/eyes/legs), and “soigné” interior scenes, with repeated jasmine and Wilde/Whistler anchoring.
   - **Key anchors:** post‑Vorticists private view; Ronald Firbank; Wilde/Whistler “You will, Oscar, you will”; “soigné” parquet venue; yellow-jasmine/Barbara description; dessert-order banter + attribution obsession.
   - **Sub-strands (working):**
-    - `N21` (dazed infatuation + bar/tea imagery): Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_47.md, Pages/cains_jawbone_page_49.md, Pages/cains_jawbone_page_92.md
+    - `N21` (dazed infatuation + bar/tea imagery): Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_92.md, Pages/cains_jawbone_page_47.md (MAYBE extension)
     - `N32` (“Type” classifier / Wilde-allusion voice): Pages/cains_jawbone_page_62.md, Pages/cains_jawbone_page_65.md, Pages/cains_jawbone_page_89.md, Pages/cains_jawbone_page_90.md
     - `N01` (Aquarius pen / “Ecky” bar voice): Pages/cains_jawbone_page_17.md, Pages/cains_jawbone_page_43.md
     - `N05` (Haslemere/school + art register): Pages/cains_jawbone_page_66.md, Pages/cains_jawbone_page_67.md
@@ -235,7 +235,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Next falsification check:** search for a second anchor (Casy Ferris, St. Lazarus-in-the-Chine, “whaups,” or the “dead old man”) on any other `N01`-adjacent page before attempting to place Pages/cains_jawbone_page_1.md within the Moon/Dawn sequence.
 
 - **Cluster:** `N12` Calabar/digitalis poison-logistics + murder-as-genre voice (confidence: `LIKELY`)
-  - **Pages:** Pages/cains_jawbone_page_6.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_29.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_58.md, Pages/cains_jawbone_page_59.md, Pages/cains_jawbone_page_60.md
+  - **Pages:** Pages/cains_jawbone_page_6.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_29.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_58.md, Pages/cains_jawbone_page_59.md, Pages/cains_jawbone_page_60.md, Pages/cains_jawbone_page_80.md (MAYBE extension)
   - **Rationale:** Shared poison anchors (Calabar/digitalis) and a consistent practical, darkly comic “murder mechanics” register (counts, pursuit set-pieces, try-again planning) suggest a stable narrator signature.
   - **Key anchors:** Calabar bean/physostigma; digitalis; murder-counting language; “Murders were funny things”; “give him another day”.
   - **Disconfirming evidence:** Calabar/digitalis references recur widely across unrelated voices, or the pursuit/murder-count tone is shown to be a separate narrator from the poison-logistics pages.
@@ -295,8 +295,8 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Resolved check (Henry identity):** within `N12`, “Henry” behaves like at least two incompatible roles: a killer/suspect under pursuit with explicit corpse-handling (Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_58.md) vs a narrator-controlled “peerless investigator” (Pages/cains_jawbone_page_60.md). Treat `P01` Henry as high-noise here: keep `N12` sub-strands ordered internally, but do not stitch them together on “Henry” alone.
   - **Next falsification check:** before using Pages/cains_jawbone_page_60.md to order within the broader `N12` umbrella, require a second non-name anchor linking it to the killer/manhunt strand (e.g., Wellington Crisp/flying squad, “crimson list”, “little blue door” knock) or linking the killer/manhunt pages to Trinder/gelsemium language.
 
-- **Cluster:** `N13` Host/guest poisoning + coastal-house segment (confidence: `LIKELY`)
-  - **Pages:** Pages/cains_jawbone_page_86.md, Pages/cains_jawbone_page_87.md (MAYBE: Pages/cains_jawbone_page_80.md)
+- **Cluster:** `N13` Host/guest poisoning + coastal-house segment (confidence: `CERTAIN`)
+  - **Pages:** Pages/cains_jawbone_page_86.md, Pages/cains_jawbone_page_87.md
   - **Rationale:** Pages 86–87 share a continuous host/guest/patient poisoning frame with Yeats/Whitman quotations and a distinctive coastal-house setting; this reads as a coherent narrator segment.
   - **Key anchors:** Caroline Jasmine; Mithradates inoculation; Yeats “bent low and low…” continuation; bay landscape → corpse imagery.
   - **Disconfirming evidence:** the apparent continuation is later shown to be coincidental (e.g., cut-and-paste echo) with incompatible settings/participants.
@@ -308,9 +308,8 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - The same coastal-house/guest/patient frame continues without a scene break (Caroline Jasmine care → bay landscape + “my guest…” + death-letter imagery).
       - **Disconfirming evidence:**
         - If the Yeats lines are later found to be repeated elsewhere in the puzzle in a way that makes this “continuation” non-unique, or if the “guest/patient” is shown to switch incompatibly between pages.
-  - **Resolved check:** attempted to link Pages/cains_jawbone_page_80.md into the Pages/cains_jawbone_page_86.md → Pages/cains_jawbone_page_87.md run by searching for a phrase-level anchor (e.g., “bottled worms,” “inviolate spring,” “Fleming’s tincture,” “sherry”) and found **no repeats** on Pages/cains_jawbone_page_86.md/Pages/cains_jawbone_page_87.md; additionally, Pages/cains_jawbone_page_87.md’s guest is explicitly “she,” while Pages/cains_jawbone_page_80.md’s guest is “Sir Paul.” Treat Pages/cains_jawbone_page_80.md as **overlap-only** until a stronger shared anchor appears.
+  - **Resolved check:** Pages/cains_jawbone_page_80.md does not share phrase-level anchors with the coastal-house segment (86–87) and is now treated as a Sir Paul Trinder/aconite hosting scene (`N12` extension), not `N13` membership.
   - **Overlap candidate:** Pages/cains_jawbone_page_24.md preserves Yeats’s original continuation line (“Of Cathleen, the daughter of Houlihan.”) that Pages/cains_jawbone_page_87.md substitutes, and it shares a name overlap (“Caroline” vs “Caroline Jasmine”), but it lacks `N13`’s distinctive anchors (Mithradates inoculation; Whitman “pail” line; Sanders/bay-house setting; dead man’s letter/corpse imagery) → treat as quote-key/homonym overlap only and keep Pages/cains_jawbone_page_24.md in `N03` unless a second independent `N13` anchor emerges.
-  - **Next falsification check:** if Pages/cains_jawbone_page_80.md is kept in `N13`, require a second independent anchor to the coastal-house segment (e.g., Caroline Jasmine, Sanders/bay house, or a distinctive repeated phrasing) before using it for ordering.
 
 - **Cluster:** `N15` “Green” victim + Compact syringe (first killing) voice (confidence: `LIKELY`)
   - **Pages:** Pages/cains_jawbone_page_76.md, Pages/cains_jawbone_page_77.md
@@ -419,7 +418,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Next falsification check:** search for a third page that repeats one of the unique N19 anchors (Sir Roland Mowthalorn / gin-faced Annie / “Emperor’s Peg” / ruined lighthouse / Lesurques↔Cirque pun) to decide whether Pages/cains_jawbone_page_4.md and Pages/cains_jawbone_page_5.md are adjacent or merely co-clustered.
 
 - **Cluster:** `N20` Bloomsbury/nomenclature + grim-scene voice (confidence: `LIKELY`)
-  - **Pages:** Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_31.md
+  - **Pages:** Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_31.md, Pages/cains_jawbone_page_49.md (MAYBE extension)
   - **Rationale:** Both pages foreground classed self-consciousness and wordplay about naming, framed against grim bodily/violent contexts and “reckon with Henry” pressure.
   - **Key anchors:** “Bloomsbury”; “Newdigate fringe”; “nomenclature business”; “Caseus, ah!”; hand dropping to hip pocket.
   - **Disconfirming evidence:** the naming/wordplay is shown to be incidental, or the scenes are later explicitly narrated by different named speakers.
@@ -440,11 +439,11 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
       - **Disconfirming evidence:**
         - Any additional phrase-level continuation or “now/then” marker ties Pages/cains_jawbone_page_31.md directly as a reaction to Pages/cains_jawbone_page_13.md’s two-body tableau (making Pages/cains_jawbone_page_13.md → Pages/cains_jawbone_page_31.md the more natural internal order).
   - **Resolved check:** Pages/cains_jawbone_page_13.md’s “conduit dating from 1597… in the market place” is a high-signal Grantham anchor; treat Pages/cains_jawbone_page_31.md’s “in this very place” as referring to the same Grantham setting within the `N20` incident, supporting continuity and making Pages/cains_jawbone_page_13.md → Pages/cains_jawbone_page_31.md the default internal order under the Pages/cains_jawbone_page_49.md → Pages/cains_jawbone_page_13.md Blake lock.
-  - **Falsification check (2025-12-25):** scanned all page bodies for the unique N20 anchors (“Bloomsbury”, “Newdigate”, “conduit dating from 1597”, “nomenclature”, “Caseus”, “hip pocket”) and found no third-page matches beyond Pages/cains_jawbone_page_13.md and Pages/cains_jawbone_page_31.md → treat `N20` as a tight two-page incident unless a new bridge emerges.
-  - **Next falsification check:** only expand `N20` if a candidate page shares 2+ of the specific N20 anchors (not just generic Henry presence); otherwise keep it as a tight two-page incident.
+  - **Falsification check (2025-12-25):** scanned all page bodies for the unique N20 anchors (“Bloomsbury”, “Newdigate”, “conduit dating from 1597”, “nomenclature”, “Caseus”, “hip pocket”) and found no third-page matches beyond Pages/cains_jawbone_page_13.md and Pages/cains_jawbone_page_31.md; Pages/cains_jawbone_page_49.md is retained only via the Blake quote-continuation lock into Pages/cains_jawbone_page_13.md.
+  - **Next falsification check:** only expand `N20` beyond Pages/cains_jawbone_page_49.md if a candidate page shares 2+ of the specific N20 anchors (not just generic Henry presence).
 
 - **Cluster:** `N21` Dazed infatuation + bar/tea imagery voice (confidence: `LIKELY`)
-  - **Pages:** Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_47.md, Pages/cains_jawbone_page_49.md, Pages/cains_jawbone_page_92.md
+  - **Pages:** Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_92.md, Pages/cains_jawbone_page_47.md (MAYBE extension)
   - **Rationale:** A recurring narrator signature combines self-described dazedness with sensual fixation on surfaces/hair and a social drink/tea register, with Henry repeatedly serving as the axis of fascination or correction.
   - **Key anchors:** “electrically aware” bar presence; cocktail after cocktail + cigarette; Kipling pre‑Rains verandah quote (“dead, hot, close air… black-blue clouds”); “I always feel a bit dazed”; Henry policing diction (“got me”); Browning “Saul” excerpt + “what Henry would think of next” anticipation.
   - **Disconfirming evidence:** these are shown to be separate narrators sharing only general “sensual description” tropes.
@@ -456,19 +455,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - The prose also fits as a beat progression: Pages/cains_jawbone_page_92.md anticipates a “cardiac revelation,” and Pages/cains_jawbone_page_42.md opens “What could come next?” before the “electrically aware” encounter.
       - **Disconfirming evidence:**
         - If another page is found that quotes the missing intervening line(s) (making this continuation non-unique), or if Pages/cains_jawbone_page_92.md’s Browning header is shown to be a non-adjacent epigraph convention reused across unrelated scenes.
-    - **Sequence B — first introduction to Henry → later guided scene** (confidence: `MAYBE`)
-      - **Pages (ordered):** Pages/cains_jawbone_page_49.md → Pages/cains_jawbone_page_92.md → Pages/cains_jawbone_page_42.md
-      - **Why:**
-        - Pages/cains_jawbone_page_49.md frames the narrator’s “first introduction” to Henry and early fascination; Pages/cains_jawbone_page_92.md and Pages/cains_jawbone_page_42.md treat Henry as an established reference-point/guide.
-      - **Disconfirming evidence:**
-        - Pages/cains_jawbone_page_49.md’s Blake excerpt (“Bring Palamabron… Elynittria”) is shown to be directly continued on Pages/cains_jawbone_page_13.md (“Rintrah… Ocalythron”), implying Pages/cains_jawbone_page_49.md → Pages/cains_jawbone_page_13.md as the tighter join.
-        - “first introduction” in Pages/cains_jawbone_page_49.md is later shown to refer to a different Henry than the guide/axis figure in Pages/cains_jawbone_page_92.md/Pages/cains_jawbone_page_42.md.
-    - **Sequence C — post‑encounter fixation at tea (tentative)** (confidence: `MAYBE`)
-      - **Pages (ordered):** Pages/cains_jawbone_page_49.md → Pages/cains_jawbone_page_92.md → Pages/cains_jawbone_page_42.md → (MAYBE: Pages/cains_jawbone_page_47.md)
-      - **Why:**
-        - Extends Sequence B with a plausible later “coda” beat: Pages/cains_jawbone_page_47.md intensifies the “she has got me” register and keeps Henry’s policing/correction role, reading plausibly as a later moment after the first “electrically aware” encounter.
-      - **Disconfirming evidence:**
-        - “she” in Pages/cains_jawbone_page_47.md is proven to be someone other than the woman in Pages/cains_jawbone_page_42.md, or the tea vocabulary is shown to be coded and unrelated to the seduction scene.
+  - **Membership note:** Pages/cains_jawbone_page_49.md is treated under `N20` due to the Blake quote-continuation lock into Pages/cains_jawbone_page_13.md; keep it as a cross-cluster constraint rather than `N21` membership.
   - **Resolved check:** searched for a phrase-level/attribute-level repeat tying Pages/cains_jawbone_page_47.md’s “she” to Pages/cains_jawbone_page_42.md’s tall “Julienne?” (e.g., “electrically aware”, “golden lashes”, “jaguar on a lean bough”, “mirabile dictu”, “butterfly of white lace”, “cocktail after cocktail”) and found no second anchor beyond Henry-in-scene + generic infatuation language; keep Pages/cains_jawbone_page_47.md as a `MAYBE` extension rather than an adjacency lock.
   - **Resolved check:** searched corpus for non-generic Pages/cains_jawbone_page_47.md anchors (“Orange Pekoe”, “Special Orange Supreme”, “terrible conjunction of two little words”, Babs, “silver frogs”) and found them unique to Pages/cains_jawbone_page_47.md (no repeats on Pages/cains_jawbone_page_92.md / Pages/cains_jawbone_page_42.md or elsewhere), so no additional adjacency evidence emerged.
   - **Resolved check (2025-12-25):** Pages/cains_jawbone_page_47.md’s “verandah… dead, hot, close air… black-blue clouds” passage is a direct quotation from Rudyard Kipling, “The Conversion of Aurelian McGoggin” (*Plain Tales from the Hills*), set in Anglo-India “just before the Rains” → treat as a detachable quotation layer rather than a reliable scene-setting anchor for sequencing.
@@ -590,7 +577,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Key anchors:** “old Medehamstede”; Pasquier’s claret; Rue de la Harpe; “last paragraphs of the short stories”; “The complete novel length… Savage Conqueror.”
   - **Disconfirming evidence:** the magazine/short-story register is later shown to be a quoted inset rather than narrator voice, or the anchor set recurs under an unmistakably different narrator elsewhere.
 
-- **Cluster:** `N34` Time-factor / Didling wordplay + antiquarian brass voice (confidence: `MAYBE`)
+- **Cluster:** `N34` Time-factor / Didling wordplay + antiquarian brass voice (confidence: `LIKELY`)
   - **Pages:** Pages/cains_jawbone_page_20.md, Pages/cains_jawbone_page_25.md
   - **Rationale:** Both pages share obsessive time/mortality rumination and self-deprecating punning (“Didlittle” chain), with an antiquarian bent (brass inscription) and a morning-routine framing.
   - **Key anchors:** “time factor”; Dolittle → Didlittle → Didling/didlet; “by the Mole” + “oldest brass in England”; “my waking, my strong tea, and my first pill”.
@@ -628,7 +615,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Key anchors:** “The money changed hands slowly… describe him”; “proper medical advice”; “He went. He went.”; “played the sedulous ape”; “May be. May be not.”; “Quarry hills”.
   - **Disconfirming evidence:** the scene is later shown to be recounted/quoted by another narrator, or the “May be” pun and medical-payoff framing recur under an incompatible voice elsewhere.
 
-- **Cluster:** `N39` Wilde/Earnest echoes + will/forgery voice (confidence: `MAYBE`)
+- **Cluster:** `N39` Wilde/Earnest echoes + will/forgery voice (confidence: `LIKELY`)
   - **Pages:** Pages/cains_jawbone_page_28.md, Pages/cains_jawbone_page_50.md
   - **Rationale:** Both pages embed Wilde/Earnest material alongside will/forgery and pen/stationery attention, suggesting a shared narrator register rather than a generic allusion layer.
   - **Key anchors:** Wilde/Earnest echoes; will/forgery talk; caseful of “strange pens”.
@@ -939,9 +926,9 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Rationale:** Repeated botanical poison language (foxgloves/digitalis, calabar/physostigma, hellebore, lobelia, “lords and ladies”, gardenia taxonomy) suggests a shared narrator expertise or method thread.
   - **Key anchors:** “foxgloves” / “digitalis purpurea”; “Calabar Bean” / “physostigma” / “old Calabar”; “hellebore”; lobelia + “lords and ladies”; Cape Jasmine/gardenia precision; beans/pill + potato leaves; Page 54’s “pestle a poisoned poison” + “green blood” horticulture; Page 59’s gelsemium (yellow jasmine).
   - **Sub-strands (working):**
-    - `N12` poison logistics subset: Pages/cains_jawbone_page_6.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_29.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_59.md
+    - `N12` poison logistics subset: Pages/cains_jawbone_page_6.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_29.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_59.md, Pages/cains_jawbone_page_80.md (MAYBE extension)
     - `N03` Clement/pills/flowers subset: Pages/cains_jawbone_page_24.md, Pages/cains_jawbone_page_30.md
-    - singletons / bridges: `N31` (Pages/cains_jawbone_page_40.md), `N26` (Pages/cains_jawbone_page_54.md), `N06` (Pages/cains_jawbone_page_75.md), `N13` (Pages/cains_jawbone_page_80.md)
+    - singletons / bridges: `N31` (Pages/cains_jawbone_page_40.md), `N26` (Pages/cains_jawbone_page_54.md), `N06` (Pages/cains_jawbone_page_75.md)
   - **Disconfirming evidence:** later pages show these are isolated metaphors with no shared voice/continuity.
 
 - **Cluster:** “To-day” as historical date marker (confidence: `MAYBE`)
@@ -958,7 +945,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Disconfirming evidence:** “to-day” references are purely decorative and do not resolve to dates or ordering constraints.
 
 - **Cluster:** `N02` Dog POV (confidence: `CERTAIN`)
-  - **Pages:** Pages/cains_jawbone_page_8.md, Pages/cains_jawbone_page_10.md, Pages/cains_jawbone_page_19.md, Pages/cains_jawbone_page_22.md, Pages/cains_jawbone_page_39.md, Pages/cains_jawbone_page_46.md, Pages/cains_jawbone_page_48.md, Pages/cains_jawbone_page_57.md (MAYBE extension), Pages/cains_jawbone_page_79.md, Pages/cains_jawbone_page_88.md, Pages/cains_jawbone_page_99.md
+  - **Pages:** Pages/cains_jawbone_page_8.md (MAYBE extension), Pages/cains_jawbone_page_10.md, Pages/cains_jawbone_page_19.md, Pages/cains_jawbone_page_22.md, Pages/cains_jawbone_page_39.md, Pages/cains_jawbone_page_46.md, Pages/cains_jawbone_page_48.md, Pages/cains_jawbone_page_57.md (MAYBE extension), Pages/cains_jawbone_page_79.md, Pages/cains_jawbone_page_88.md, Pages/cains_jawbone_page_99.md
   - **Rationale:** Explicit animal-coded reactions (ears pulled, “low noise”; tail “vibration” clue; mating/banishment behaviour) plus dog-coded scene mechanics (Mr. Hall + knob/bell summons) point to non-human narrator segments.
   - **Key anchors:** pulled ears + low noise; “no vibration… of my latter end”; “lowered myself and made love”; “provided a chop for me”; “nearly fell on my nose”; “my mistress” framing + “could have howled”; coat/undercoat literalism (“inherited coat”) and “vicarious”→vicar misunderstanding; Mr. Hall + knob/bell summons; Tate sugar hoarding + “I did not entirely understand” register.
   - **Membership notes:** Pages/cains_jawbone_page_8.md is still the highest-risk fit (optics/“powerful glass”), but it also carries dog-coded tells (“sausage place… furtively I knew how excellent”; “never could quite understand how it worked”) and is hard-anchored by the bow + Mr. Hall call-bell continuity; treat as `LIKELY` member unless later evidence shows the narrator operating an optical instrument directly. Pages/cains_jawbone_page_57.md is a lower-signal `N02` page (no explicit dog-physicality cue), but its dog-as-listener stance + “my people” Skye/pedigree hint (Armadale Castle) make it a plausible extension.
