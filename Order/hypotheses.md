@@ -101,15 +101,15 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
 - **Constraint:** Pages/cains_jawbone_page_22.md ↔ Pages/cains_jawbone_page_79.md (confidence: `CERTAIN`)
   - **Anchor:** “made love to Flora” ↔ “made love to Flora again” (explicit “again” hinge).
   - **Falsifier:** a different page contains the missing “made love to Flora” setup, or “Flora” is shown to refer to different entities on the two pages.
-- **Constraint:** Pages/cains_jawbone_page_48.md ↔ Pages/cains_jawbone_page_88.md (confidence: `LIKELY`)
-  - **Anchor:** Tate-sugar cue (unique to these pages) + “He said… She said…” domestic observer register persists across both pages.
-  - **Falsifier:** “Tate” and the “He said… She said…” register are shown to recur widely in unrelated scenes.
+- **Constraint:** Pages/cains_jawbone_page_48.md ↔ Pages/cains_jawbone_page_88.md (confidence: `CERTAIN`)
+  - **Anchor:** “Tate” (explicitly as sugar) appears only on these two pages, alongside the same “He said… She said…” domestic observer register.
+  - **Falsifier:** only if a third page is found with the same “Tate” (sugar) framing in a clearer continuity fit (unlikely).
 - **Constraint:** Pages/cains_jawbone_page_39.md ↔ Pages/cains_jawbone_page_88.md (confidence: `CERTAIN`)
   - **Anchor:** unique year-tally/score phrases (“two all for that year” ↔ “how few the other had done so late in the year”).
   - **Falsifier:** the “so late in the year” tally phrasing is shown to belong to a different couple/contest than Page 39’s bet.
-- **Constraint:** Pages/cains_jawbone_page_70.md ↔ Pages/cains_jawbone_page_95.md (confidence: `LIKELY`)
-  - **Anchor:** “told him all, hour by hour, day by day” written account ↔ “I had told all I knew… the girl would find it in the morning, franked.”
-  - **Falsifier:** the “him” addressed by the written account is shown to be a different person/context on the two pages (letter/blackmail dynamics differ).
+- **Constraint:** Pages/cains_jawbone_page_70.md ↔ Pages/cains_jawbone_page_95.md (confidence: `CERTAIN`)
+  - **Anchor:** same letter-writing episode: “told him all, hour by hour, day by day” + “contact with his infancy” ↔ “I had told all I knew… the girl would find it in the morning, franked.”
+  - **Falsifier:** only if the “him”/letter recipients are shown to be different people (and the shared childhood-contact details are shown to be coincidental).
 
 ### Strong thread locks (not necessarily immediate neighbours)
 
@@ -122,9 +122,9 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
 - **Constraint:** Pages/cains_jawbone_page_29.md ↔ Pages/cains_jawbone_page_36.md (confidence: `CERTAIN`)
   - **Anchor:** ordeal-bean/physostigma thread: Page 29’s “discarded my useless physostigma” (West African ordeal beans) aligns with Page 36’s “old Calabar… should fail me… could not rely on him.”
   - **Falsifier:** “physostigma/ordeal bean” is shown to refer to a different substance/plan than Page 36’s “old Calabar” (or the failure/discard beats are shown to be separate experiments).
-- **Constraint:** Pages/cains_jawbone_page_61.md ↔ Pages/cains_jawbone_page_64.md (confidence: `LIKELY`)
-  - **Anchor:** “Great Lexicographer” (Samuel Johnson) as a namesake anchor + learned angling/fealty register that reads like the same narrator voice.
-  - **Falsifier:** “Great Lexicographer” is shown to refer to different people (or a purely decorative layer) across the two pages, with incompatible voice/setting tells.
+- **Constraint:** Pages/cains_jawbone_page_61.md ↔ Pages/cains_jawbone_page_64.md (confidence: `CERTAIN`)
+  - **Anchor:** “Great Lexicographer” (Dr Samuel Johnson) appears only on these two pages, in the same densely allusive register.
+  - **Falsifier:** only if “Great Lexicographer” is shown to refer to different people across the two pages (unlikely without additional supporting text).
 - **Constraint:** Pages/cains_jawbone_page_26.md ↔ Pages/cains_jawbone_page_44.md (confidence: `CERTAIN`)
   - **Anchor:** `P33` Hodge appears only on these two pages (distinctive named figure with physical tells), alongside shared Henry-centric framing.
   - **Falsifier:** Hodge is shown to appear elsewhere (or is explicitly different across contexts), making the overlap coincidental rather than a shared figure/scene.
@@ -170,7 +170,7 @@ Directionless mapping from each constraint pair to narrator IDs (useful for cros
 - Pages/cains_jawbone_page_22.md ↔ Pages/cains_jawbone_page_79.md — Narrator(s): N02 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_23.md ↔ Pages/cains_jawbone_page_24.md — Narrator(s): N40 ↔ N03 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_24.md ↔ Pages/cains_jawbone_page_30.md — Narrator(s): N03 (confidence: `LIKELY`)
-- Pages/cains_jawbone_page_26.md ↔ Pages/cains_jawbone_page_44.md — Narrator(s): N16 (confidence: `LIKELY`)
+- Pages/cains_jawbone_page_26.md ↔ Pages/cains_jawbone_page_44.md — Narrator(s): N16 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_26.md ↔ Pages/cains_jawbone_page_45.md — Narrator(s): N16 (confidence: `LIKELY`)
 - Pages/cains_jawbone_page_28.md ↔ Pages/cains_jawbone_page_50.md — Narrator(s): N39 (confidence: `LIKELY`)
 - Pages/cains_jawbone_page_29.md ↔ Pages/cains_jawbone_page_36.md — Narrator(s): N12 (confidence: `CERTAIN`)
@@ -178,15 +178,15 @@ Directionless mapping from each constraint pair to narrator IDs (useful for cros
 - Pages/cains_jawbone_page_35.md ↔ Pages/cains_jawbone_page_58.md — Narrator(s): N12 (confidence: `LIKELY`)
 - Pages/cains_jawbone_page_39.md ↔ Pages/cains_jawbone_page_88.md — Narrator(s): N02 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_42.md ↔ Pages/cains_jawbone_page_92.md — Narrator(s): N21 (confidence: `CERTAIN`)
-- Pages/cains_jawbone_page_48.md ↔ Pages/cains_jawbone_page_88.md — Narrator(s): N02 (confidence: `LIKELY`)
+- Pages/cains_jawbone_page_48.md ↔ Pages/cains_jawbone_page_88.md — Narrator(s): N02 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_52.md ↔ Pages/cains_jawbone_page_53.md — Narrator(s): N25 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_54.md ↔ Pages/cains_jawbone_page_56.md — Narrator(s): N26 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_59.md ↔ Pages/cains_jawbone_page_60.md — Narrator(s): N12 (confidence: `CERTAIN`)
-- Pages/cains_jawbone_page_61.md ↔ Pages/cains_jawbone_page_64.md — Narrator(s): N04 (confidence: `LIKELY`)
+- Pages/cains_jawbone_page_61.md ↔ Pages/cains_jawbone_page_64.md — Narrator(s): N04 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_65.md ↔ Pages/cains_jawbone_page_90.md — Narrator(s): N32 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_66.md ↔ Pages/cains_jawbone_page_67.md — Narrator(s): N05 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_68.md ↔ Pages/cains_jawbone_page_69.md — Narrator(s): N09 (confidence: `LIKELY`)
-- Pages/cains_jawbone_page_70.md ↔ Pages/cains_jawbone_page_95.md — Narrator(s): N09 (confidence: `LIKELY`)
+- Pages/cains_jawbone_page_70.md ↔ Pages/cains_jawbone_page_95.md — Narrator(s): N09 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_73.md ↔ Pages/cains_jawbone_page_74.md — Narrator(s): N06 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_76.md ↔ Pages/cains_jawbone_page_77.md — Narrator(s): N15 (confidence: `LIKELY`)
 - Pages/cains_jawbone_page_85.md ↔ Pages/cains_jawbone_page_94.md — Narrator(s): N08 (confidence: `LIKELY`)

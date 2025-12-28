@@ -3,7 +3,7 @@ I had always been proud of my namesake, the Great Lexicographer, as we, not unna
 ## Notes
 
 - **Entities:**
-  - CERTAIN: “the Great Lexicographer” (namesake; likely Dr Samuel Johnson, but confirm).
+  - CERTAIN: “the Great Lexicographer” = Dr Samuel Johnson (see Pages/cains_jawbone_page_64.md: Johnson “tasted Lotus” at Dunvegan).
   - CERTAIN: “William the Schoolman” / “Doctor Invincibilis” / “Bill” (strongly suggests William of Ockham; “razor” = Ockham’s razor).
   - CERTAIN: “the first Lord King” is Peter King, Baron of Ockham; DNB notes he died at Ockham and has “a splendid monument by Rysbrach” in the parish church: https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/King,_Peter_(1669-1734).
   - CERTAIN: Dickens (allusive reference; “jealousy of chickens” / mistrust of sheep).
@@ -24,8 +24,8 @@ I had always been proud of my namesake, the Great Lexicographer, as we, not unna
 - **Voice/tells:**
   - Dense learned allusion + bilingual quotation; playful etymology/portmanteau.
 - **Clustering hypotheses:**
-  - LIKELY: same narrator cluster as Pages/cains_jawbone_page_64.md (shared “Great Lexicographer” anchor + learned diction).
+  - CERTAIN: same narrator cluster as Pages/cains_jawbone_page_64.md (“Great Lexicographer” Johnson anchor; treat as a continuity constraint `Pages/cains_jawbone_page_61.md ↔ Pages/cains_jawbone_page_64.md`; see `Order/hypotheses.md`).
 - **Disconfirming evidence:**
   - If “Great Lexicographer” is shown to be someone other than Johnson, or the “razor” joke points to a different “William”.
 - **Research needed:**
-  - Confirm which “Great Lexicographer” is intended (and why “born at Colney Hatch”).
+  - Clarify the “born at Colney Hatch” phrasing (Johnson was born at Lichfield), likely wordplay rather than biography.

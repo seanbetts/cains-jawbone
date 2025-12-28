@@ -44,7 +44,7 @@ LIKELY WORDPLAY
 - **Voice/tells:**
   - Decision-point framing (“I had decided what to do”) followed by procedural recounting.
 - **Clustering hypotheses:**
-  - LIKELY: links strongly with Pages/cains_jawbone_page_70.md (writes the full account, then Page 70’s “I had told all I knew” + franked item found “in the morning” reads as aftermath).
+  - CERTAIN: links strongly with Pages/cains_jawbone_page_70.md (writes the full account, then Page 70’s “I had told all I knew” + franked item found “in the morning” reads as aftermath); treat as a continuity constraint `Pages/cains_jawbone_page_70.md ↔ Pages/cains_jawbone_page_95.md` (see `Order/hypotheses.md` constraints inventory).
   - LIKELY: links strongly with Pages/cains_jawbone_page_96.md (tea/menu waiting + “mysterious” meeting beat → “I had decided what to do” → write the full account).
 - **Disconfirming evidence:**
   - If the “horrid act” is later shown to be non-violent (e.g., fraud/prank) rather than murder.

@@ -21,7 +21,7 @@ It flashed through my mind that the place between Eros and the Queen’s Hall ha
 - **Voice/tells:**
   - Overheated associative leaps; heavy wordplay (“Ming”/Munich/Efate) amid fear and fatigue.
 - **Clustering hypotheses:**
-  - LIKELY: links strongly with Pages/cains_jawbone_page_95.md (written account completed → franked item left for “the girl” to find in the morning).
+  - CERTAIN: links strongly with Pages/cains_jawbone_page_95.md (written account completed → franked item left for “the girl” to find in the morning); treat as a continuity constraint `Pages/cains_jawbone_page_70.md ↔ Pages/cains_jawbone_page_95.md` (see `Order/hypotheses.md` constraints inventory).
   - MAYBE: later consequence of the Pages/cains_jawbone_page_68.md / Pages/cains_jawbone_page_69.md old-man strand (retaliation fear after witnessing and/or reporting the slow-death scene).
 - **Disconfirming evidence:**
   - If “he” is clearly a different person from the “old man” and the letter is unrelated to the death scene.
