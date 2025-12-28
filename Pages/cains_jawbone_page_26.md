@@ -18,7 +18,7 @@ The girl had left Henry by this time, thank God. She was an obvious whey-face. S
   - “bee with a sore bonnet” reads like a “foreign touch”/malapropism of the idiom “bear with a sore head” (Kipling, *The Light That Failed*, Ch. 12: https://en.wikisource.org/wiki/The_Light_That_Failed/Chapter_12).
 - **Clustering hypotheses:**
   - CERTAIN: `N16` smell-memory + incinerator-evidence umbrella via `P33` Hodge (appears only here and Pages/cains_jawbone_page_44.md) plus the “The girl…” echo (“The girl had left Henry…” ↔ Pages/cains_jawbone_page_45.md’s “The girl was no longer there”).
-  - MAYBE: thematic overlap with `N12`’s murder-counting Henry thread (killings/victim talk), but treat Henry identity as high-noise unless a second shared anchor appears beyond generic “killings”.
+  - MAYBE: overlaps with Pages/cains_jawbone_page_58.md via the “Henry” murder-count numbering (“first two killings” ↔ “third/fourth”), but treat Henry identity as high-noise across the corpus and keep this as a cross-narrator candidate until corroborated by a second non-name anchor (see `Order/hypotheses.md` candidate cross-narrator overlap).
 - **Disconfirming evidence:**
   - If later context shows “killings” is figurative (e.g., stage/role talk) rather than literal murder.
 - **Research needed:**

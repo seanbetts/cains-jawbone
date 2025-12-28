@@ -32,9 +32,6 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
 - **Constraint:** Pages/cains_jawbone_page_85.md ↔ Pages/cains_jawbone_page_94.md (confidence: `LIKELY`)
   - **Anchor:** shared “King/Kipling” name-jibe register + Henry-in-scene pivot (“Henry was waiting for me” ↔ “I drove Henry home”).
   - **Falsifier:** the name-in-window sign is later shown not to be the narrator’s, or “Henry” is clearly different across the two pages.
-- **Constraint:** Pages/cains_jawbone_page_26.md ↔ Pages/cains_jawbone_page_58.md (confidence: `LIKELY`)
-  - **Anchor:** Henry kill-count logistics (“first two killings” ↔ “third/fourth”) in the same darkly comic murder-as-genre register.
-  - **Falsifier:** “killings” language is shown to be figurative on one side, or the Henry contexts are incompatible.
 - **Constraint:** Pages/cains_jawbone_page_58.md ↔ Pages/cains_jawbone_page_35.md (confidence: `LIKELY`)
   - **Anchor:** “horribly official knock” + flying-squad manhunt (surrounding the house; concealed passage/panel).
   - **Falsifier:** one page is shown to be an embedded/imagined chase scenario rather than the same in-world pursuit.
@@ -132,11 +129,17 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
   - **Anchor:** `P33` Hodge appears only on these two pages, alongside the same Henry-focused “problem/evidence” register.
   - **Falsifier:** Hodge is shown to appear elsewhere (or is explicitly different across contexts), making the overlap coincidental rather than a shared episode.
 
+### Candidate cross-narrator overlap (falsify before treating as a constraint)
+
+- **Candidate:** Pages/cains_jawbone_page_26.md ↔ Pages/cains_jawbone_page_58.md (`N16` ↔ `N12`) (confidence: `MAYBE`)
+  - **Anchor:** complementary murder-count numbering around “Henry” (“first two killings” ↔ “third/fourth” victims) suggests a shared Henry-kill-count thread, but “Henry” is high-noise across the corpus and the narrator signatures differ.
+  - **Falsifier:** any additional anchor shows the “Henry” contexts are incompatible (distinct setting/cast/logistics), or “killings” is shown to be figurative on one side.
+
 ### Constraint cross-index (narrators)
 
 Directionless mapping from each constraint pair to narrator IDs (useful for cross-narrator joins).
 
-- **Cross-narrator constraints (current):** Pages/cains_jawbone_page_23.md ↔ Pages/cains_jawbone_page_24.md (`N40` ↔ `N03`); Pages/cains_jawbone_page_26.md ↔ Pages/cains_jawbone_page_58.md (`N16` ↔ `N12`).
+- **Cross-narrator constraints (current):** Pages/cains_jawbone_page_23.md ↔ Pages/cains_jawbone_page_24.md (`N40` ↔ `N03`).
 - Pages/cains_jawbone_page_3.md ↔ Pages/cains_jawbone_page_32.md — Narrator(s): N03 (confidence: `LIKELY`)
 - Pages/cains_jawbone_page_7.md ↔ Pages/cains_jawbone_page_45.md — Narrator(s): N16 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_8.md ↔ Pages/cains_jawbone_page_19.md — Narrator(s): N02 (confidence: `CERTAIN`)
@@ -153,7 +156,6 @@ Directionless mapping from each constraint pair to narrator IDs (useful for cros
 - Pages/cains_jawbone_page_23.md ↔ Pages/cains_jawbone_page_24.md — Narrator(s): N40 ↔ N03 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_24.md ↔ Pages/cains_jawbone_page_30.md — Narrator(s): N03 (confidence: `LIKELY`)
 - Pages/cains_jawbone_page_26.md ↔ Pages/cains_jawbone_page_44.md — Narrator(s): N16 (confidence: `LIKELY`)
-- Pages/cains_jawbone_page_26.md ↔ Pages/cains_jawbone_page_58.md — Narrator(s): N16 ↔ N12 (confidence: `LIKELY`)
 - Pages/cains_jawbone_page_28.md ↔ Pages/cains_jawbone_page_50.md — Narrator(s): N39 (confidence: `LIKELY`)
 - Pages/cains_jawbone_page_29.md ↔ Pages/cains_jawbone_page_36.md — Narrator(s): N12 (confidence: `LIKELY`)
 - Pages/cains_jawbone_page_33.md ↔ Pages/cains_jawbone_page_34.md — Narrator(s): N25 (confidence: `LIKELY`)
