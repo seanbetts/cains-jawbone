@@ -23,7 +23,7 @@ But next day that religious fellow’s head drapery, if I might thus unscientifi
 - **Voice/tells:**
   - Determined, moralising self-casting (“no intention of letting up”); classical-name register.
 - **Clustering hypotheses:**
-  - LIKELY: `N06` (edge-fit): “red May” scent + explicit eye/vision stress (hit in the eye) matches `N06`’s May/flower register and eyesight weakness; “religious fellow’s head drapery” reads like a botanical cryptic definition (monk’s hood → monkshood/aconite), consistent with the `N06` flower/plant fixation even though this page lacks the OGPU/documents/old-man anchors.
+  - MAYBE: `N06` (weakest member): “red May” scent + explicit eye/vision stress (hit in the eye) matches `N06`’s May/flower register and eyesight weakness; “religious fellow’s head drapery” reads like a botanical cryptic definition (monk’s hood → monkshood/aconite), consistent with the `N06` flower/plant fixation, but this page is lexically isolated (no phrase-level overlap with other `N06` pages yet).
   - MAYBE: additional `N06` support via inherited/descent framing + Hamlet: the coastguard’s “direct descent” joke + Hamlet quote echoes Pages/cains_jawbone_page_73.md’s “inherited” name discussion and “Hamlet’s one” comparison.
 - **Disconfirming evidence:**
   - If “May” is clearly only the calendar month and has no continuity with later “May” references.
