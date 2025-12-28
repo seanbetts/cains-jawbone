@@ -23,9 +23,9 @@ Babs now moves across the vision, crowned with two straight downfalls, as it wer
 - **Voice/tells:**
   - Highly visual, metaphor-heavy; keeps returning to sensory weather memories.
 - **Clustering hypotheses:**
-  - CERTAIN: add to Henry-occurrence cluster.
-  - MAYBE: follows the Pages/cains_jawbone_page_49.md → Pages/cains_jawbone_page_92.md → Pages/cains_jawbone_page_42.md run as a later “she has got me” beat (if the “she” matches p42’s tall woman). Falsifier: “she” is shown to be a different person than p42’s woman, or the tea vocabulary is coded/unrelated.
-  - MAYBE: links to tea pages (e.g., Pages/cains_jawbone_page_17.md) via Orange Pekoe/tea naming.
+  - CERTAIN: `N21` voice (Henry policing diction; tea naming pivot; Kipling pre‑Rains verandah quote); also belongs in the Henry-occurrence macro.
+  - MAYBE: the “she… has got me” figure is the same woman as Pages/cains_jawbone_page_42.md’s tall “Julienne?”; keep falsifiable unless a second anchor recurs beyond generic attraction (e.g., a repeated hair/colour/drink detail or a repeated phrase).
+  - MAYBE: overlaps tea/menu naming with other tea pages (e.g., Pages/cains_jawbone_page_17.md); treat as a motif layer unless a non-generic anchor repeats.
 - **Disconfirming evidence:**
   - If “Orange Pekoe / Special Orange Supreme” turns out to be non-tea (menu/code) rather than beverage continuity.
 - **Research needed:**

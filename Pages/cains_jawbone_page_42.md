@@ -22,10 +22,10 @@ I assure you I had not seen her enter  but suddenly I was electrically aware tha
 - **Voice/tells:**
   - Sensory, eroticised description; fixates on eyes/surface.
 - **Clustering hypotheses:**
-  - CERTAIN: preceded by Pages/cains_jawbone_page_92.md (Browning “Saul” stanza continuation: “...living and blue” → “Just broken to twine...”).
-  - MAYBE: followed later by Pages/cains_jawbone_page_47.md as a “she has got me” tea beat (pending whether p47’s “she” is this same woman; see `Order/hypotheses.md` `N21` Sequence C).
-  - MAYBE: links to Pages/cains_jawbone_page_43.md (same woman/cocktail-bar setting).
-  - MAYBE: links to Flecker/allusion-heavy narrator thread (Pages/cains_jawbone_page_40.md) if the verse is related.
+  - CERTAIN: `N21` voice; Browning “Saul” quotation continues across Pages/cains_jawbone_page_92.md and this page (stanza-continuation lock; treat as a strong continuity constraint).
+  - MAYBE: same “she” as Pages/cains_jawbone_page_47.md (“she… has got me”); keep as overlap-only unless a second shared anchor appears beyond Henry + tea/drink register.
+  - MAYBE: overlaps cocktail-bar setting with Pages/cains_jawbone_page_43.md; do not merge without a phrase-level/participant anchor.
+  - MAYBE: shares allusion density with Pages/cains_jawbone_page_40.md; treat verse as a detachable layer unless reinforced by non-quotation continuity.
 - **Disconfirming evidence:**
   - If the “surface” detail is later clearly an object/drink unrelated to gaze/character.
 - **Research needed:**

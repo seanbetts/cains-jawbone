@@ -22,9 +22,9 @@ My earlier days had been so different. There hadn’t been the comfort, the sens
 - **Voice/tells:**
   - Nostalgic self-comparison (childhood frustration → present indulgence) + heightened anticipatory mood (“cardiac revelation”).
 - **Clustering hypotheses:**
-  - CERTAIN: Pages/cains_jawbone_page_92.md → Pages/cains_jawbone_page_42.md (Browning “Saul” stanza continues directly into p42).
-  - MAYBE: preceded by Pages/cains_jawbone_page_49.md (p49 “first introduction to Henry” → p92 familiarity/anticipation). Falsifier: Henry identity/role is incompatible across the pages.
-  - MAYBE: sits near other timepiece-driven planning pages (watch/clock emphasis).
+  - CERTAIN: `N21` voice; Browning “Saul” quotation continues into Pages/cains_jawbone_page_42.md (“…living and blue” ↔ “Just broken to twine…”), treat as a strong continuity constraint (Phase 4 adjacency candidate).
+  - MAYBE: overlaps Henry-focused anticipation with Pages/cains_jawbone_page_49.md, but keep as overlap-only because that page is locked to `N20` by the Blake continuation into Pages/cains_jawbone_page_13.md.
+  - MAYBE: overlaps timepiece-driven planning with other watch/clock pages (time-layer motif, not narrator identity).
 - **Disconfirming evidence:**
   - If Henry here is clearly a different “Henry” than adjacent segments (setting/role divergence).
 - **Research needed:**
