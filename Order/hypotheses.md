@@ -15,8 +15,8 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
   - **Anchor:** mid-sentence “hung round with …” continues into “photographs of young and laughing athletes…”.
   - **Falsifier:** only if an editorial/transcription artifact is discovered (unlikely).
 - **Constraint:** Pages/cains_jawbone_page_89.md ↔ Pages/cains_jawbone_page_90.md (confidence: `LIKELY`)
-  - **Anchor:** the “soigné / glacial parquet” venue + grotesque old gentleman (“ancient”) spans the same scene (arrival + seated beat; shared conversational motif).
-  - **Falsifier:** the “ancient” is shown to be a different figure/setting than the old gentleman introduced on Page 90.
+  - **Anchor:** grotesque old gentleman/“ancient” + deer-stalker/deer/collops/Spey Royal dining set-pieces; Page 89’s “had then sat down …” reads like the next beat after Page 90’s seat-taking intrusion.
+  - **Falsifier:** “among the heather / on a moor” resolves as a literal outdoor setting incompatible with Page 90’s “soigné / glacial parquet” venue, or the “ancient” is shown to be a different figure from the old gentleman on Page 90.
 - **Constraint:** Pages/cains_jawbone_page_12.md ↔ Pages/cains_jawbone_page_14.md (confidence: `LIKELY`)
   - **Anchor:** will/inheritance eavesdropping (“leave everything… May”) + spilled wine/flesh cleanup beat; aligns with Page 12’s “bad head” + documents/will frame.
   - **Falsifier:** “May” is later anchored to an incompatible voice/setting/time than the documents scene on Page 12.
@@ -62,9 +62,9 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
 - **Constraint:** Pages/cains_jawbone_page_54.md ↔ Pages/cains_jawbone_page_56.md (confidence: `LIKELY`)
   - **Anchor:** shared phrase “awful and literal sense of the word” + breakfast/early-morning framing across both pages.
   - **Falsifier:** the phrase is shown to be a detachable quotation reused by multiple narrators (reducing it to motif-level evidence only).
-- **Constraint:** Pages/cains_jawbone_page_65.md ↔ Pages/cains_jawbone_page_90.md (confidence: `LIKELY`)
-  - **Anchor:** reading beat (“every muscle… enthralled”) + “type” classifier phrasing, with Page 90 explicitly opening “While my mind had been thus far away…” and repeating “I thought I knew the type.”
-  - **Falsifier:** “type” is shown to be generic and Page 90’s “mind far away” refers to a different prior scene.
+- **Constraint:** Pages/cains_jawbone_page_65.md ↔ Pages/cains_jawbone_page_90.md (confidence: `CERTAIN`)
+  - **Anchor:** phrase-level continuation: Page 65’s “every muscle… enthralled” reading beat is picked up by Page 90’s opening “While my mind had been thus far away…”, and both share the identical “I thought I knew the type : learned in a macabre way, even distinguished …” wording (unique in the corpus).
+  - **Falsifier:** only if a third page is found containing the same “type : learned in a macabre way…” phrasing in a way that better accounts for Page 65/90 context.
 - **Constraint:** Pages/cains_jawbone_page_68.md ↔ Pages/cains_jawbone_page_69.md (confidence: `LIKELY`)
   - **Anchor:** “old man” crucial-meeting/eavesdropper trigger ↔ late-night aftermath (“collect myself… seen every minute… done slowly to death”).
   - **Falsifier:** the “old man” is shown to be generic/non-continuous and no unique shared detail ties the two scenes.
@@ -165,7 +165,7 @@ Directionless mapping from each constraint pair to narrator IDs (useful for cros
 - Pages/cains_jawbone_page_54.md ↔ Pages/cains_jawbone_page_56.md — Narrator(s): N26 (confidence: `LIKELY`)
 - Pages/cains_jawbone_page_59.md ↔ Pages/cains_jawbone_page_60.md — Narrator(s): N12 (confidence: `LIKELY`)
 - Pages/cains_jawbone_page_61.md ↔ Pages/cains_jawbone_page_64.md — Narrator(s): N04 (confidence: `LIKELY`)
-- Pages/cains_jawbone_page_65.md ↔ Pages/cains_jawbone_page_90.md — Narrator(s): N32 (confidence: `LIKELY`)
+- Pages/cains_jawbone_page_65.md ↔ Pages/cains_jawbone_page_90.md — Narrator(s): N32 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_66.md ↔ Pages/cains_jawbone_page_67.md — Narrator(s): N05 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_68.md ↔ Pages/cains_jawbone_page_69.md — Narrator(s): N09 (confidence: `LIKELY`)
 - Pages/cains_jawbone_page_70.md ↔ Pages/cains_jawbone_page_95.md — Narrator(s): N09 (confidence: `LIKELY`)

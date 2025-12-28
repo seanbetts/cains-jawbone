@@ -18,8 +18,8 @@ While my mind had been thus far away, a grotesque looking old gentleman had flut
   - Dog sorrow/howling as an auditory scene anchor.
   - Future vs present anxiety (endeavour always “in the future”).
 - **Clustering hypotheses:**
-  - LIKELY: links strongly with Pages/cains_jawbone_page_65.md (“mind… enthralled” reading beat → “While my mind had been thus far away…” + repeated “type” phrase; see `Order/hypotheses.md` `N32` Sequence A).
-  - CERTAIN: links strongly with Pages/cains_jawbone_page_89.md (shared “soigné / glacial parquet” venue + grotesque old gentleman/“ancient” + deer-stalker cue; treat as an immediate-neighbour constraint `Pages/cains_jawbone_page_89.md ↔ Pages/cains_jawbone_page_90.md` (resolve direction in Phase 4); see `Order/hypotheses.md` `N32` Sequence B).
+  - CERTAIN: links strongly with Pages/cains_jawbone_page_65.md (phrase-level continuation: Page 90 opens “While my mind had been thus far away…” and repeats the exact “I thought I knew the type : learned in a macabre way…” clause; treat as an immediate-neighbour constraint `Pages/cains_jawbone_page_65.md ↔ Pages/cains_jawbone_page_90.md`; see `Order/hypotheses.md` constraints inventory).
+  - LIKELY: links strongly with Pages/cains_jawbone_page_89.md (grotesque old gentleman/“ancient” + deer-stalker/deer/collops/Spey Royal dining motif; treat as an immediate-neighbour constraint `Pages/cains_jawbone_page_89.md ↔ Pages/cains_jawbone_page_90.md` and resolve direction in Phase 4; see `Order/hypotheses.md` constraints inventory).
 - **Disconfirming evidence:**
   - If the “ancient” on Page 89 is clearly not the same figure as this old gentleman.
 - **Research needed:**
