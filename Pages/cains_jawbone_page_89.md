@@ -17,7 +17,7 @@ The ancient had then sat down among the heather to a great dish of brown and swi
 - **Voice/tells:**
   - Threatening punning (signature → death warrant) + self-conscious style commentary.
 - **Clustering hypotheses:**
-  - LIKELY: links strongly with Pages/cains_jawbone_page_90.md (grotesque old gentleman/“ancient” + deer-stalker/deer/collops/Spey Royal dining motif; treat as an immediate-neighbour constraint `Pages/cains_jawbone_page_89.md ↔ Pages/cains_jawbone_page_90.md` and resolve direction in Phase 4; see `Order/hypotheses.md` constraints inventory).
+  - CERTAIN: links strongly with Pages/cains_jawbone_page_90.md (unique deer-set-piece bundle: collops + Spey Royal + deer focus ↔ deer-stalker + soigné/parquet dining scene). Treat as an immediate-neighbour constraint `Pages/cains_jawbone_page_89.md ↔ Pages/cains_jawbone_page_90.md` and resolve direction in Phase 4; see `Order/hypotheses.md` constraints inventory.
 - **Disconfirming evidence:**
   - If “death warrant” is purely idiomatic (no in-world death intended).
 - **Research needed:**

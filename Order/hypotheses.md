@@ -14,9 +14,9 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
 - **Constraint:** Pages/cains_jawbone_page_73.md ↔ Pages/cains_jawbone_page_74.md (confidence: `CERTAIN`)
   - **Anchor:** mid-sentence “hung round with …” continues into “photographs of young and laughing athletes…”.
   - **Falsifier:** only if an editorial/transcription artifact is discovered (unlikely).
-- **Constraint:** Pages/cains_jawbone_page_89.md ↔ Pages/cains_jawbone_page_90.md (confidence: `LIKELY`)
-  - **Anchor:** grotesque old gentleman/“ancient” + deer-stalker/deer/collops/Spey Royal dining set-pieces; Page 89’s “had then sat down …” reads like the next beat after Page 90’s seat-taking intrusion.
-  - **Falsifier:** “among the heather / on a moor” resolves as a literal outdoor setting incompatible with Page 90’s “soigné / glacial parquet” venue, or the “ancient” is shown to be a different figure from the old gentleman on Page 90.
+- **Constraint:** Pages/cains_jawbone_page_89.md ↔ Pages/cains_jawbone_page_90.md (confidence: `CERTAIN`)
+  - **Anchor:** unique deer-set-piece bundle across the pair: “collops” + “Spey Royal” + deer focus (Pages/cains_jawbone_page_89.md) plus the “deer-stalker” + “soigné / glacial parquet” dining scene (Pages/cains_jawbone_page_90.md); this vocabulary cluster appears only here.
+  - **Falsifier:** only if “among the heather / on a moor” is shown to be a literal outdoor setting incompatible with the indoor “soigné / glacial parquet” venue, and the “ancient” is shown to be a different figure from the old gentleman on Page 90.
 - **Constraint:** Pages/cains_jawbone_page_12.md ↔ Pages/cains_jawbone_page_14.md (confidence: `LIKELY`)
   - **Anchor:** will/inheritance eavesdropping (“leave everything… May”) + spilled wine/flesh cleanup beat; aligns with Page 12’s “bad head” + documents/will frame.
   - **Falsifier:** “May” is later anchored to an incompatible voice/setting/time than the documents scene on Page 12.
@@ -191,7 +191,7 @@ Directionless mapping from each constraint pair to narrator IDs (useful for cros
 - Pages/cains_jawbone_page_76.md ↔ Pages/cains_jawbone_page_77.md — Narrator(s): N15 (confidence: `LIKELY`)
 - Pages/cains_jawbone_page_85.md ↔ Pages/cains_jawbone_page_94.md — Narrator(s): N08 (confidence: `LIKELY`)
 - Pages/cains_jawbone_page_86.md ↔ Pages/cains_jawbone_page_87.md — Narrator(s): N13 (confidence: `CERTAIN`)
-- Pages/cains_jawbone_page_89.md ↔ Pages/cains_jawbone_page_90.md — Narrator(s): N32 (confidence: `LIKELY`)
+- Pages/cains_jawbone_page_89.md ↔ Pages/cains_jawbone_page_90.md — Narrator(s): N32 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_95.md ↔ Pages/cains_jawbone_page_96.md — Narrator(s): N09 (confidence: `LIKELY`)
 
 ## Clusters
