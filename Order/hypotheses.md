@@ -734,7 +734,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Disconfirming evidence:** later context shows “Bunny and Perry” refers to external people rather than an internal debate trope.
 
 - **Cluster:** `N08` King (“Kipling” name-jibe) narrator (confidence: `LIKELY`)
-  - **Pages:** Pages/cains_jawbone_page_82.md, Pages/cains_jawbone_page_85.md, Pages/cains_jawbone_page_94.md (MAYBE: Pages/cains_jawbone_page_15.md, Pages/cains_jawbone_page_100.md)
+  - **Pages:** Pages/cains_jawbone_page_85.md, Pages/cains_jawbone_page_94.md (MAYBE: Pages/cains_jawbone_page_15.md, Pages/cains_jawbone_page_82.md, Pages/cains_jawbone_page_100.md)
   - **Rationale:** Pages 85 and 94 share a narrator-name clue (schoolboy “Kipling” jibe → King; narrator sees own name in a window-sign) and a recurring Henry-in-scene frame; additional detective/police allusions suggest nearby overlap with other Henry/detection pages.
   - **Key anchors:** “Kipling” as a name-jibe; narrator seeing their own name printed in a window; Baker Street / detective framing; Bartholomew dog at the table (Page 82) ↔ “Bart” chewing moccasins at a familiar table (Page 15).
   - **Disconfirming evidence:** the name clue resolves differently, the window-sign name refers to someone/something other than the narrator, or Page 15’s “Bart” is shown not to be the same dog as Bartholomew in Page 82.
@@ -851,7 +851,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
       - **Disconfirming evidence:**
         - Another page is found that uses the same knob/Mr. Hall entrance mechanic in a way that better accounts for Pages/cains_jawbone_page_19.md’s “again,” or later context forces these as different settings (two unrelated Mr. Halls).
 
-- **Cluster:** `N10` Will/document eavesdropper voice (confidence: `MAYBE`)
+- **Cluster:** `N10` Will/document eavesdropper voice (confidence: `LIKELY`)
   - **Pages:** Pages/cains_jawbone_page_12.md, Pages/cains_jawbone_page_14.md
   - **Rationale:** Pages 12 and 14 share inheritance eavesdropping and legal/document language (including a May-addressed “leave everything to me” frame), suggesting a possible consistent narrator signature around estate manoeuvring.
   - **Key anchors:** will/inheritance talk addressed to May; “abstracted will” pun; document-reading setup.
@@ -872,7 +872,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - If Page 12’s document scene comes first, it could prime the narrator’s sensitivity (“I would get… what I wanted”) before the later overheard inheritance beat on Page 14 (“my ears were becoming attuned… for the first time I heard clearly”).
       - **Disconfirming evidence:**
         - Any explicit “next day”/before-after marker emerges that forces one direction.
-  - **Next falsification check:** require a phrase-level anchor beyond generic “will/documents” (e.g., “velvet/cinders,” topaz-searchlight eyes, Henry-as-servant in a document scene, or May addressed again) before treating this as more than a two-page motif pairing.
+  - **Next falsification check:** require a phrase-level anchor beyond generic “will/documents” (e.g., “velvet/cinders,” topaz-searchlight eyes, Henry-as-servant in a document scene, or May addressed again) before expanding this beyond a two-page voice pairing.
 
 - **Cluster:** Wills and inheritance (confidence: `MAYBE`)
   - **Pages:** Pages/cains_jawbone_page_12.md, Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_28.md, Pages/cains_jawbone_page_50.md, Pages/cains_jawbone_page_78.md
