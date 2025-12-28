@@ -998,7 +998,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - Caveat: no phrase-level overlap with the rest of `N06` has been found yet, so treat this as an edge-fit until a second independent anchor emerges.
       - **Disconfirming evidence:**
         - Pages/cains_jawbone_page_71.md’s Henry/May context is later anchored to a different narrator/setting, or “May” resolves as purely seasonal with no cross-page continuity.
-  - **Next falsification check:** confirm whether Pages/cains_jawbone_page_83.md’s “metallic object” is a coin/half-crown (echoing Pages/cains_jawbone_page_74.md’s “half-crowns dropped upon marble”), and find a second independent prop/phrase anchor tying Pages/cains_jawbone_page_83.md to the `73 → 74 → 75` run; also find a second independent anchor linking Pages/cains_jawbone_page_71.md to the same narrator beyond “May” + eyesight.
+  - **Next falsification check:** confirm whether Pages/cains_jawbone_page_83.md’s “metallic object” is a coin/half-crown (echoing Pages/cains_jawbone_page_74.md’s “half-crowns dropped upon marble”); corpus scan: “half-crowns” appears only on Pages/cains_jawbone_page_74.md, and “metallic object”/“daughterly” only on Pages/cains_jawbone_page_83.md, but the object is still unnamed. Also find a second independent prop/phrase anchor tying Pages/cains_jawbone_page_83.md to the `73 → 74 → 75` run, and a second independent anchor linking Pages/cains_jawbone_page_71.md to the same narrator beyond “May” + eyesight.
 
 - **Cluster:** Coastal imagery (confidence: `MAYBE`)
   - **Pages:** Pages/cains_jawbone_page_1.md, Pages/cains_jawbone_page_4.md, Pages/cains_jawbone_page_5.md
