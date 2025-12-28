@@ -37,7 +37,7 @@ LIKELY WORDPLAY
 - **Voice/tells:**
   - Self-mocking wordplay + claimed second-sight; breakfast domesticity.
 - **Clustering hypotheses:**
-  - LIKELY: precedes Pages/cains_jawbone_page_54.md (shared “awful and literal sense” aside + breakfast progression; see `Order/hypotheses.md` `N26` Sequence A).
+  - LIKELY: links strongly with Pages/cains_jawbone_page_54.md (shared “awful and literal sense” aside + breakfast progression; see `Order/hypotheses.md` `N26` Sequence A).
   - MAYBE: links to other Browning/Pippa references (e.g., Pages/cains_jawbone_page_58.md).
 - **Disconfirming evidence:**
   - If Asolo/Pippa references resolve to unrelated in-world labels rather than Browning allusion.

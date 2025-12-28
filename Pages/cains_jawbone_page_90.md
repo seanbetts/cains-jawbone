@@ -18,8 +18,8 @@ While my mind had been thus far away, a grotesque looking old gentleman had flut
   - Dog sorrow/howling as an auditory scene anchor.
   - Future vs present anxiety (endeavour always “in the future”).
 - **Clustering hypotheses:**
-  - LIKELY: follows Pages/cains_jawbone_page_65.md (“mind… enthralled” reading beat → “While my mind had been thus far away…” + repeated “type” phrase; see `Order/hypotheses.md` `N32` Sequence A).
-  - CERTAIN: precedes Pages/cains_jawbone_page_89.md (“The ancient had then sat down…” reads as immediate continuation of this page’s old gentleman arriving and sitting between the narrator and companion; deer-stalker/parquet/soigné cues are unique to this pair; see `Order/hypotheses.md` `N32` Sequence B).
+  - LIKELY: links strongly with Pages/cains_jawbone_page_65.md (“mind… enthralled” reading beat → “While my mind had been thus far away…” + repeated “type” phrase; see `Order/hypotheses.md` `N32` Sequence A).
+  - CERTAIN: links strongly with Pages/cains_jawbone_page_89.md (“The ancient had then sat down…” reads as immediate continuation of this page’s old gentleman arriving and sitting between the narrator and companion; deer-stalker/parquet/soigné cues are unique to this pair; see `Order/hypotheses.md` `N32` Sequence B).
 - **Disconfirming evidence:**
   - If the “ancient” on Page 89 is clearly not the same figure as this old gentleman.
 - **Research needed:**

@@ -24,7 +24,7 @@ Now I think I will try a cup of what they insolently call Golden Tips, a find yo
   - Menu-sleuthing + wartime memory intrusions; frames the meeting as “mysterious”.
   - MAYBE: memory-trigger phrasing (“How vividly… How it all comes back”) echoes Pages/cains_jawbone_page_68.md’s “touched a chord of memory” + distraction register.
 - **Clustering hypotheses:**
-  - LIKELY: precedes Pages/cains_jawbone_page_95.md (Café Royal strand): tea/menu waiting beat + “mysterious” meeting framing leads into the decision to write the “hour by hour, day by day” account.
+  - LIKELY: links strongly with Pages/cains_jawbone_page_95.md (Café Royal strand): tea/menu waiting beat + “mysterious” meeting framing leads into the decision to write the “hour by hour, day by day” account.
 - **Disconfirming evidence:**
   - If “Catharine” and “Padre” are purely anecdotal/allusive with no recurrence.
 - **Research needed:**

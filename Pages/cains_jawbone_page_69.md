@@ -16,8 +16,8 @@ I came out of my waking dream with temples moist and tongue most damnably dry. I
 - **Voice/tells:**
   - Self-assertion (“never previously deceived myself”) + punning wordplay (“ickets”).
 - **Clustering hypotheses:**
-  - LIKELY: follows Pages/cains_jawbone_page_68.md (post–crucial-meeting trigger) as the late-night aftermath of the old-man slow-death scene.
-  - MAYBE: precedes Pages/cains_jawbone_page_95.md / Pages/cains_jawbone_page_70.md as motivation for producing a full “hour by hour, day by day” written account (time-granularity echo: “seen every minute of it”).
+  - LIKELY: links strongly with Pages/cains_jawbone_page_68.md (post–crucial-meeting trigger) as the late-night aftermath of the old-man slow-death scene.
+  - MAYBE: links strongly with Pages/cains_jawbone_page_95.md / Pages/cains_jawbone_page_70.md as motivation for producing a full “hour by hour, day by day” written account (time-granularity echo: “seen every minute of it”).
 - **Disconfirming evidence:**
   - If “done slowly to death” is later shown to be figurative (bored/exhausted) rather than literal.
 - **Research needed:**

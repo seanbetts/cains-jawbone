@@ -19,7 +19,7 @@ I am conveniently situated, with the Moon on the one hand and the Dawn on the ot
 - **Voice/tells:**
   - Observant, romantic, faintly suspicious; sensory focus on tea.
 - **Clustering hypotheses:**
-  - LIKELY: Pages/cains_jawbone_page_17.md → Pages/cains_jawbone_page_43.md (Moon/Dawn venue pair + “bad for the hand” ↔ “ruin my hand”; arrival beat → “Lover’s Delight” continuation). Falsifier: “Moon/Dawn” is metaphor-only or the cast/woman is incompatible.
+  - LIKELY: Pages/cains_jawbone_page_17.md ↔ Pages/cains_jawbone_page_43.md (Moon/Dawn venue pair + “bad for the hand” ↔ “ruin my hand”; arrival beat → “Lover’s Delight” continuation). Falsifier: “Moon/Dawn” is metaphor-only or the cast/woman is incompatible.
 - **Disconfirming evidence:**
   - If “Moon”/“Dawn” are later shown as abstract time-of-day metaphors rather than venues.
 - **Research needed:**

@@ -25,7 +25,7 @@ Had not the author of Wails of a Tayside Inn said of them that they were the liv
 - **Voice/tells:**
   - Formal reasoning dramatised as internal tennis match (“Bunny and Perry, Pro and Con”).
 - **Clustering hypotheses:**
-  - MAYBE: follows Pages/cains_jawbone_page_97.md (p97’s on-the-day “never done before” setup + Cambridge wordplay layer; this page reads like a later weighing of “tangible proof” vs “semi-conviction”; see `Order/hypotheses.md` `N07` Sequence A).
+  - MAYBE: links strongly with Pages/cains_jawbone_page_97.md (p97’s on-the-day “never done before” setup + Cambridge wordplay layer; this page reads like a later weighing of “tangible proof” vs “semi-conviction”; see `Order/hypotheses.md` `N07` Sequence A).
 - **Disconfirming evidence:**
   - If the “hat-cleaner” and “other” resolve as purely metaphorical (not actual suspects).
 - **Research needed:**

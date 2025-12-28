@@ -21,7 +21,7 @@ the darker works of Beardsley and Felicien Rops, and ringing with the gloat curs
 - **Voice/tells:**
   - Highly allusive, punning, self-aware about “celebration” as a specialty.
 - **Clustering hypotheses:**
-  - CERTAIN: follows Pages/cains_jawbone_page_66.md (direct sentence continuation).
+  - CERTAIN: links strongly with Pages/cains_jawbone_page_66.md (direct sentence continuation).
 - **Disconfirming evidence:**
   - If “Palos”/Columbus is shown to be metaphorical rather than a date anchor (still likely a calendar pointer).
 - **Research needed:**

@@ -20,7 +20,7 @@ I see that old dandy has purchased Cape Jasmine. Your gardenia is difficult at a
 - **Voice/tells:**
   - Botanical precision; detective/quotational reflex (Watson).
 - **Clustering hypotheses:**
-  - LIKELY: precedes Pages/cains_jawbone_page_24.md (“Can she be guilty?” after a soup-tasting “try her out” test → “Next day… my suspicions… had been well-founded”; shared plant-savvy jasmine register; see `Order/hypotheses.md` `N03` Sequence B). Treat as reversible because Pages/cains_jawbone_page_24.md also overlaps `N13` via Caroline + Yeats-line key.
+  - LIKELY: links strongly with Pages/cains_jawbone_page_24.md (“Can she be guilty?” after a soup-tasting “try her out” test → “Next day… my suspicions… had been well-founded”; shared plant-savvy jasmine register; see `Order/hypotheses.md` `N03` Sequence B). Treat as reversible because Pages/cains_jawbone_page_24.md also overlaps `N13` via Caroline + Yeats-line key.
   - LIKELY: part of `N03`’s house-suspicion sub-strand (paired with Pages/cains_jawbone_page_24.md); keep separate from the `N13` coastal-house run unless a second non-quotation anchor appears.
 - **Disconfirming evidence:**
   - If the botanical detail is purely decorative and the voice differs sharply from other plant/poison pages.

@@ -21,8 +21,8 @@ I always feel a bit dazed on these occasions, and was so then. But it was pleasa
 - **Clustering hypotheses:**
   - CERTAIN: add to Henry-occurrence cluster.
   - MAYBE: family-curse/motive thread for Henry’s repeated destruction.
-  - CERTAIN: precedes Pages/cains_jawbone_page_13.md (Blake quote continuation: this page’s “Bring Palamabron… Elynittria…” → p13’s “Rintrah… Ocalythron.”).
-  - MAYBE: precedes Pages/cains_jawbone_page_92.md → Pages/cains_jawbone_page_42.md (p49 “first introduction to Henry” → later guided/anticipatory scenes). Falsifier: “first introduction” refers to a different Henry than the p92/p42 guide/axis Henry, or p49 is fully accounted for by the Blake quote continuation to Pages/cains_jawbone_page_13.md.
+  - CERTAIN: links strongly with Pages/cains_jawbone_page_13.md (Blake quote continuation: this page’s “Bring Palamabron… Elynittria…” → p13’s “Rintrah… Ocalythron.”).
+  - MAYBE: links strongly with Pages/cains_jawbone_page_92.md ↔ Pages/cains_jawbone_page_42.md (p49 “first introduction to Henry” → later guided/anticipatory scenes). Falsifier: “first introduction” refers to a different Henry than the p92/p42 guide/axis Henry, or p49 is fully accounted for by the Blake quote continuation to Pages/cains_jawbone_page_13.md.
 - **Disconfirming evidence:**
   - If the quoted lines are later shown to be misremembered/assembled (not a stable allusion anchor).
 - **Research needed:**
