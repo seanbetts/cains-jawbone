@@ -110,6 +110,9 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
 - **Constraint:** Pages/cains_jawbone_page_29.md ↔ Pages/cains_jawbone_page_36.md (confidence: `CERTAIN`)
   - **Anchor:** ordeal-bean/physostigma thread: Page 29’s “discarded my useless physostigma” (West African ordeal beans) aligns with Page 36’s “old Calabar… should fail me… could not rely on him.”
   - **Falsifier:** “physostigma/ordeal bean” is shown to refer to a different substance/plan than Page 36’s “old Calabar” (or the failure/discard beats are shown to be separate experiments).
+- **Constraint:** Pages/cains_jawbone_page_36.md ↔ Pages/cains_jawbone_page_59.md (confidence: `CERTAIN`)
+  - **Anchor:** unique “awkward” poison-failure phrasing: Page 36 repeats “distinctly awkward” while describing Calabar’s failure (“could not rely on him”), and Page 59 mirrors it (“awkward with Trinder about”) while noting a “bane… definitely failed”; in the page bodies, “awkward” appears only on these two pages.
+  - **Falsifier:** only if “awkward” is found in a third page body in a tighter continuity context, or later evidence anchors the two scenes/voices as incompatible.
 - **Constraint:** Pages/cains_jawbone_page_29.md ↔ Pages/cains_jawbone_page_35.md (confidence: `CERTAIN`)
   - **Anchor:** unique phrase-level echo: Page 29 ends “I felt I ought to be drawing towards a close ; but one never knew,” and Page 35 restates “Henry was drawing towards a close… But he might return. One never knew.”
   - **Falsifier:** only if later evidence anchors the two scenes/voices as incompatible (making the shared “drawing towards a close… one never knew” phrasing coincidental).
@@ -137,9 +140,6 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
 - **Candidate:** Pages/cains_jawbone_page_58.md ↔ Pages/cains_jawbone_page_35.md (confidence: `MAYBE`)
   - **Anchor:** pursuit escalation candidate: Page 58’s “horribly official knock at the little blue door” plausibly leads into Page 35’s flying-squad surround and concealed-panel chase mechanics, but shared anchors are mostly thematic (police pressure + Henry corpse context).
   - **Falsifier:** one page is shown to be an embedded/imagined chase scenario, or the two scenes’ setting/cast is later anchored as incompatible.
-- **Candidate:** Pages/cains_jawbone_page_36.md ↔ Pages/cains_jawbone_page_59.md (confidence: `MAYBE`)
-  - **Anchor:** “awkward” phrasing + poison-failure beats (with Page 59 adding police attention).
-  - **Falsifier:** “awkward” resolves to a generic aside with no shared poison-thread continuity, or a better-matching “awkward” page appears.
 - **Candidate:** Pages/cains_jawbone_page_68.md ↔ Pages/cains_jawbone_page_69.md (confidence: `MAYBE`)
   - **Anchor:** “old man” strand: crucial-meeting/eavesdropping paranoia (Pages/cains_jawbone_page_68.md) ↔ late-night aftermath of witnessing a “poor old man” “done slowly to death” (Pages/cains_jawbone_page_69.md).
   - **Falsifier:** the “old man” is shown to be different referents, or no non-generic shared anchor emerges (prop/setting/character) to tighten the link.
@@ -176,6 +176,7 @@ Directionless mapping from each constraint pair to narrator IDs (useful for cros
 - Pages/cains_jawbone_page_29.md ↔ Pages/cains_jawbone_page_36.md — Narrator(s): N12 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_29.md ↔ Pages/cains_jawbone_page_35.md — Narrator(s): N12 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_33.md ↔ Pages/cains_jawbone_page_34.md — Narrator(s): N25 (confidence: `CERTAIN`)
+- Pages/cains_jawbone_page_36.md ↔ Pages/cains_jawbone_page_59.md — Narrator(s): N12 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_39.md ↔ Pages/cains_jawbone_page_88.md — Narrator(s): N02 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_42.md ↔ Pages/cains_jawbone_page_92.md — Narrator(s): N21 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_48.md ↔ Pages/cains_jawbone_page_88.md — Narrator(s): N02 (confidence: `CERTAIN`)
@@ -476,12 +477,12 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - Pages/cains_jawbone_page_29.md ends with “I felt I ought to be drawing towards a close ; but one never knew,” and Pages/cains_jawbone_page_35.md reuses the same phrase while also repeating “One never knew” and supplying an explicit reason (“But he might return”), which reads like a more explicit reprise.
       - **Disconfirming evidence:**
         - Another page is found to share the exact “drawing towards a close” phrasing, or later evidence anchors Pages/cains_jawbone_page_35.md as clearly earlier than Pages/cains_jawbone_page_29.md in this voice/setting.
-    - **Sequence H — “awkward” escalation (tentative order)** (confidence: `MAYBE`)
-      - **Pages (ordered):** Pages/cains_jawbone_page_36.md → Pages/cains_jawbone_page_59.md
+    - **Sequence H — “awkward” link (direction TBD)** (confidence: `CERTAIN`)
+      - **Pages (linked):** Pages/cains_jawbone_page_36.md ↔ Pages/cains_jawbone_page_59.md
       - **Why:**
-        - Both pages are poison-failure beats (“Calabar… should fail me” / “bane… definitely failed”) and use the same rare “awkward” complaint; Pages/cains_jawbone_page_59.md additionally introduces external scrutiny (detective-sergeant visit about a strange death), which reads like a plausible later consequence of the earlier corpse-handling context on Pages/cains_jawbone_page_36.md.
+        - Both pages are poison-failure beats (“Calabar… should fail me” / “bane… definitely failed”) and share the unique “awkward” complaint (“distinctly awkward” ↔ “awkward with Trinder about”).
       - **Disconfirming evidence:**
-        - A third page is found to share the same “awkward” phrasing in a clearly different narrator/setting, or “that day” on Pages/cains_jawbone_page_59.md is anchored to an incompatible timeline from Pages/cains_jawbone_page_21.md → Pages/cains_jawbone_page_36.md.
+        - Later evidence anchors the two scenes/voices as incompatible (despite the shared “awkward” phrasing), or a third page is found with a tighter “awkward” continuity context.
   - **Resolved check (Henry identity):** within `N12`, “Henry” behaves like at least two incompatible roles: a killer/suspect under pursuit with explicit corpse-handling (Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_58.md) vs a narrator-controlled “peerless investigator” (Pages/cains_jawbone_page_60.md). Treat `P01` Henry as high-noise here: keep `N12` sub-strands ordered internally, but do not stitch them together on “Henry” alone.
   - **Next falsification check:** before using Pages/cains_jawbone_page_60.md to order within the broader `N12` umbrella, require a second non-name anchor linking it to the killer/manhunt strand (e.g., Wellington Crisp/flying squad, “crimson list”, “little blue door” knock) or linking the killer/manhunt pages to Trinder/gelsemium language.
 

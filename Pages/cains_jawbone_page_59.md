@@ -21,7 +21,7 @@ What was it I held in my fingers? Looked at in one way it could just be a kea. I
   - Arch, punning; disdain for detective-sergeants’ vocabulary tolerance.
 - **Clustering hypotheses:**
   - CERTAIN: links strongly with Pages/cains_jawbone_page_60.md (phrase-level “bane failed” → “succeeded” pivot + Trinder/“figurehead beard” target framing). Treat as a continuity constraint `Pages/cains_jawbone_page_59.md ↔ Pages/cains_jawbone_page_60.md`; see `Order/hypotheses.md` constraints inventory.
-  - MAYBE: links strongly with Pages/cains_jawbone_page_36.md (unique “awkward” phrasing + poison-failure beats; p59 adds police attention).
+  - CERTAIN: links strongly with Pages/cains_jawbone_page_36.md via the unique “awkward” poison-failure phrasing (“distinctly awkward” ↔ “awkward with Trinder about”); treat as a continuity constraint `Pages/cains_jawbone_page_36.md ↔ Pages/cains_jawbone_page_59.md` (direction TBD; see `Order/hypotheses.md` constraints inventory).
   - LIKELY: connects to Sir Paul Trinder pages (Pages/cains_jawbone_page_53.md) and to a Trinder-outcome page (Pages/cains_jawbone_page_60.md).
   - CERTAIN: strengthens plant/poison thread via explicit gelsemium.
 - **Disconfirming evidence:**
