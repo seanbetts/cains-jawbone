@@ -18,12 +18,12 @@ Template:
 These are **cross-narrator** groupings intended to reduce the search space for Phase 4. Overlap is allowed; **do not add within-cluster sequencing in Phase 3**.
 
 - **Cluster:** Dog POV strand (confidence: `CERTAIN`)
-  - **Pages:** Pages/cains_jawbone_page_8.md, Pages/cains_jawbone_page_10.md, Pages/cains_jawbone_page_19.md, Pages/cains_jawbone_page_22.md, Pages/cains_jawbone_page_39.md, Pages/cains_jawbone_page_46.md, Pages/cains_jawbone_page_48.md, Pages/cains_jawbone_page_57.md (MAYBE extension), Pages/cains_jawbone_page_79.md, Pages/cains_jawbone_page_88.md, Pages/cains_jawbone_page_99.md
+  - **Pages:** Pages/cains_jawbone_page_8.md (MAYBE extension), Pages/cains_jawbone_page_10.md, Pages/cains_jawbone_page_19.md, Pages/cains_jawbone_page_22.md, Pages/cains_jawbone_page_39.md, Pages/cains_jawbone_page_46.md, Pages/cains_jawbone_page_48.md, Pages/cains_jawbone_page_57.md (MAYBE extension), Pages/cains_jawbone_page_79.md, Pages/cains_jawbone_page_88.md, Pages/cains_jawbone_page_99.md
   - **Rationale:** Repeated non-human bodily perspective and dog-specific constraints are strong enough to treat these as a standalone narrative strand.
   - **Key anchors:** pulled ears + low noise; “no vibration… of my latter end”; “lowered myself and made love”; “provided a chop for me”; “my mistress” framing; Tate sugar hoarding.
   - **Sub-strands (working):**
     - Currently identical to narrator cluster `N02` (treat as single-voice macro until falsified).
-  - **Membership notes:** Pages/cains_jawbone_page_57.md is low-signal on dog physicality but matches the dog-as-listener stance + “my people” Skye/pedigree hint (Armadale Castle); keep as `MAYBE` extension unless contradicted.
+  - **Membership notes:** Pages/cains_jawbone_page_8.md is the highest-risk fit (optics/“powerful glass”) but is hard-anchored by the bow + Mr. Hall call-bell continuity; keep as a `MAYBE` extension unless later evidence forces an unequivocally human-only POV. Pages/cains_jawbone_page_57.md is low-signal on dog physicality but matches the dog-as-listener stance + “my people” Skye/pedigree hint (Armadale Castle); keep as `MAYBE` extension unless contradicted.
   - **Phase 4 internal ordering hypotheses (Dog POV):**
     - **Sequence A — date-anchored spine (Aug 12→18)** (confidence: `LIKELY`)
       - **Pages (ordered):** Pages/cains_jawbone_page_48.md (LIKELY: Nahum Tate “to-day” = Aug 12; DNB) → Pages/cains_jawbone_page_88.md (St Wigbert’s day = Aug 13) → Pages/cains_jawbone_page_39.md (George Combe died 14 Aug 1858; DNB: https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Combe,_George) → Pages/cains_jawbone_page_10.md (Hyacinth’s day = Aug 16; “went back two days… bet”) → Pages/cains_jawbone_page_99.md (“closing day in Potsdam” = Aug 17) → Pages/cains_jawbone_page_8.md (Guido Reni + Kilmarnock/Balmerino “to-day” = Aug 18) → Pages/cains_jawbone_page_19.md (“Human Comedy”/Balzac “to-day” = Aug 18).
