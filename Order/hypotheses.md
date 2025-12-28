@@ -134,6 +134,9 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
 - **Candidate:** Pages/cains_jawbone_page_26.md ↔ Pages/cains_jawbone_page_58.md (`N16` ↔ `N12`) (confidence: `MAYBE`)
   - **Anchor:** complementary murder-count numbering around “Henry” (“first two killings” ↔ “third/fourth” victims) suggests a shared Henry-kill-count thread, but “Henry” is high-noise across the corpus and the narrator signatures differ.
   - **Falsifier:** any additional anchor shows the “Henry” contexts are incompatible (distinct setting/cast/logistics), or “killings” is shown to be figurative on one side.
+- **Candidate:** Pages/cains_jawbone_page_12.md ↔ Pages/cains_jawbone_page_75.md (`N10` ↔ `N06`) (confidence: `MAYBE`)
+  - **Anchor:** unique shared “searchlights” eye-metaphor over documents/writing: Page 12’s “small topaz searchlights” bent over “documents” and Page 75’s “strong searchlights of my eyes” turned on “orange tinted documents”; in page bodies, “searchlights” and “documents” occur only on these two pages.
+  - **Falsifier:** “searchlights” or the documents-reading eye-metaphor is found elsewhere in the page bodies (making this a generic image), or the pages’ voice/scene anchors are shown to be incompatible beyond a shared metaphor.
 
 ### Candidate low-confidence locks already noted in page notes
 
