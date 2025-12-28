@@ -146,6 +146,9 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
 - **Candidate:** Pages/cains_jawbone_page_29.md ↔ Pages/cains_jawbone_page_96.md (`N12` ↔ `N09`) (confidence: `MAYBE`)
   - **Anchor:** shared aside phrase: “if I may be permitted the expression” appears only on these two pages, each time as a self-conscious idiom/phrase marker.
   - **Falsifier:** the phrase is found elsewhere in the page bodies (making it a generic tic), or additional voice/scene anchors show the two uses are unrelated coincidence.
+- **Candidate:** Pages/cains_jawbone_page_21.md ↔ Pages/cains_jawbone_page_31.md (`N12` ↔ `N20`) (confidence: `MAYBE`)
+  - **Anchor:** unique phrase-level echo: “to reckon with Henry” appears only on these two pages, each time as a high-stakes confrontation framing (corpse/poison logistics ↔ hip-pocket threat).
+  - **Falsifier:** the phrase is found elsewhere in the page bodies (making it a generic idiom), or “Henry” is shown to be different referents/roles across the two pages, making the match coincidental.
 
 ### Candidate low-confidence locks already noted in page notes
 

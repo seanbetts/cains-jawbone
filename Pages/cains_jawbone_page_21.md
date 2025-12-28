@@ -23,6 +23,7 @@ To reckon with Henry! That was never easy. Just beyond the laurels, I turned sha
   - CERTAIN: links strongly with Pages/cains_jawbone_page_36.md (Calabar Bean ↔ “old Calabar”; Page 36 opens “on the morning after I had introduced him…”). Treat as a continuity constraint `Pages/cains_jawbone_page_21.md ↔ Pages/cains_jawbone_page_36.md`; see `Order/hypotheses.md` constraints inventory.
   - MAYBE: links strongly with Pages/cains_jawbone_page_6.md (gelsemium let-down → foxgloves/digitalis).
   - LIKELY: poison/gardening thread with Pages/cains_jawbone_page_6.md (foxgloves/digitalis) and other pill/substance pages (Pages/cains_jawbone_page_3.md).
+  - MAYBE: cross-narrator overlap candidate with Pages/cains_jawbone_page_31.md via the unique phrase “to reckon with Henry” (appears only on these two page bodies); treat as a cross-narrator candidate `Pages/cains_jawbone_page_21.md ↔ Pages/cains_jawbone_page_31.md` (`N12` ↔ `N20`) pending any second non-name anchor.
   - MAYBE: Henry-as-killer thread (compare Henry scenes on Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_14.md).
 - **Disconfirming evidence:**
   - If “victim” is later clearly metaphorical (surgical patient, etc.) rather than murder.
