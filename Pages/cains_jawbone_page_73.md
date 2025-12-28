@@ -19,7 +19,7 @@ All the artist in me flared up. After all, my given name was world-famous as the
   - Performative and educated; toggles between art-identity, rhetoric, and sensual memory.
 - **Clustering hypotheses:**
   - CERTAIN: `N06` orator/artist + flowers/documents voice; `Pages/cains_jawbone_page_73.md` and `Pages/cains_jawbone_page_74.md` share an explicit phrase-level continuation (“hung round with…”), treat as a high-signal continuity hook (Phase 4 adjacency check).
-  - MAYBE: overlaps with Pages/cains_jawbone_page_66.md via the exact phrase “I remembered the place of my initiation” and the shared mid-sentence “hung round with …” set-piece framing; treat as a possible `N06`↔`N05` merge candidate (see `Order/hypotheses.md`).
+  - LIKELY: `N06` merge anchor: shares the page-body unique phrase “I remembered the place of my initiation” with Pages/cains_jawbone_page_66.md, and the same “hung round with …” set-piece break occurs in both sub-strands (see `Order/hypotheses.md` “Merge decisions (Phase 3)”); treat as a merge anchor, not an adjacency claim.
 - **Disconfirming evidence:**
   - Only if later evidence shows an editorial/transcription artifact (unlikely).
 - **Research needed:**

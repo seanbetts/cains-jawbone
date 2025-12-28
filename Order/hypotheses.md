@@ -135,6 +135,13 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
   - **Anchor:** unique “girl absent” hinge in a Henry-killings context: Page 26 opens “The girl had left Henry…”, while Page 45 states “The girl was no longer there.”; this exact pairing appears only on these two pages.
   - **Falsifier:** only if “Henry” and/or “the girl” are later shown to be different referents across the pages (making the match coincidental despite the unique phrasing).
 
+### Merge decisions (Phase 3)
+
+- **Merge:** `N05` + `N06` → `N06` (confidence: `LIKELY`)
+  - **Anchors:** phrase-level self-echo “I remembered the place of my initiation” (Pages/cains_jawbone_page_66.md ↔ Pages/cains_jawbone_page_73.md, page-body unique) plus the shared “the Head, as we called him”/“ringing with…” school-register phrasing (Pages/cains_jawbone_page_66.md + Pages/cains_jawbone_page_67.md ↔ Pages/cains_jawbone_page_74.md, page-body unique).
+  - **Corroboration:** both strands use a near-identical mid-sentence “hung round with …” set-piece break (Pages/cains_jawbone_page_66.md → Pages/cains_jawbone_page_67.md; Pages/cains_jawbone_page_73.md → Pages/cains_jawbone_page_74.md), consistent with one narrator reusing a distinctive syntactic move in two different memories.
+  - **Falsifier:** a new page-body instance of either anchor phrase appears elsewhere, or later evidence forces incompatible narrator self-identity/setting constraints across the school-colours/Head strand vs the OGPU/documents/flower strand.
+
 ### Candidate cross-narrator overlap (falsify before treating as a constraint)
 
 - **Candidate:** Pages/cains_jawbone_page_26.md ↔ Pages/cains_jawbone_page_58.md (`N16` ↔ `N12`) (confidence: `MAYBE`)
@@ -143,10 +150,6 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
 - **Candidate:** Pages/cains_jawbone_page_12.md ↔ Pages/cains_jawbone_page_75.md (`N10` ↔ `N06`) (confidence: `MAYBE`)
   - **Anchor:** unique shared “searchlights” eye-metaphor over documents/writing: Page 12’s “small topaz searchlights” bent over “documents” and Page 75’s “strong searchlights of my eyes” turned on “orange tinted documents”; in page bodies, “searchlights” and “documents” occur only on these two pages.
   - **Falsifier:** “searchlights” or the documents-reading eye-metaphor is found elsewhere in the page bodies (making this a generic image), or the pages’ voice/scene anchors are shown to be incompatible beyond a shared metaphor.
-- **Candidate:** Pages/cains_jawbone_page_66.md ↔ Pages/cains_jawbone_page_73.md (`N05` ↔ `N06`) (confidence: `MAYBE`)
-  - **Anchor:** exact phrase “I remembered the place of my initiation” appears only on these two pages, and each immediately leads into a mid-sentence “hung round with …” set-piece (school hall ↔ Marseille secret rooms), suggesting a deliberate self-echo and possible shared narrator/cluster.
-  - **Corroboration:** “the Head, as we called him” appears only on Pages/cains_jawbone_page_66.md + Pages/cains_jawbone_page_67.md + Pages/cains_jawbone_page_74.md, bridging the same two narrator clusters.
-  - **Falsifier:** the “initiation” phrase is found elsewhere, or additional voice/scene anchors force `N05` and `N06` to be incompatible (distinct named self-identity, timeline, or setting constraints).
 - **Candidate:** Pages/cains_jawbone_page_29.md ↔ Pages/cains_jawbone_page_96.md (`N12` ↔ `N09`) (confidence: `MAYBE`)
   - **Anchor:** shared aside phrase: “if I may be permitted the expression” appears only on these two pages, each time as a self-conscious idiom/phrase marker.
   - **Falsifier:** the phrase is found elsewhere in the page bodies (making it a generic tic), or additional voice/scene anchors show the two uses are unrelated coincidence.
@@ -209,7 +212,7 @@ Directionless mapping from each constraint pair to narrator IDs (useful for cros
 - Pages/cains_jawbone_page_59.md ↔ Pages/cains_jawbone_page_60.md — Narrator(s): N12 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_61.md ↔ Pages/cains_jawbone_page_64.md — Narrator(s): N04 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_65.md ↔ Pages/cains_jawbone_page_90.md — Narrator(s): N32 (confidence: `CERTAIN`)
-- Pages/cains_jawbone_page_66.md ↔ Pages/cains_jawbone_page_67.md — Narrator(s): N05 (confidence: `CERTAIN`)
+- Pages/cains_jawbone_page_66.md ↔ Pages/cains_jawbone_page_67.md — Narrator(s): N06 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_70.md ↔ Pages/cains_jawbone_page_95.md — Narrator(s): N09 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_73.md ↔ Pages/cains_jawbone_page_74.md — Narrator(s): N06 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_85.md ↔ Pages/cains_jawbone_page_94.md — Narrator(s): N08 (confidence: `CERTAIN`)
@@ -328,7 +331,7 @@ These are **cross-narrator** groupings intended to reduce the search space for P
     - `N21` (dazed infatuation + bar/tea imagery): Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_92.md, Pages/cains_jawbone_page_47.md
     - `N32` (“Type” classifier / Wilde-allusion voice): Pages/cains_jawbone_page_62.md, Pages/cains_jawbone_page_65.md, Pages/cains_jawbone_page_89.md, Pages/cains_jawbone_page_90.md
     - `N01` (Aquarius pen / “Ecky” bar voice): Pages/cains_jawbone_page_17.md, Pages/cains_jawbone_page_43.md
-    - `N05` (Haslemere/school + art register): Pages/cains_jawbone_page_66.md, Pages/cains_jawbone_page_67.md
+    - `N06` (school/Head + art register): Pages/cains_jawbone_page_66.md, Pages/cains_jawbone_page_67.md
     - `N19` (comic coastal punster): Pages/cains_jawbone_page_4.md, Pages/cains_jawbone_page_5.md
     - Singletons: `N29` (Pages/cains_jawbone_page_37.md), `N30` (Pages/cains_jawbone_page_38.md), `N14` (Pages/cains_jawbone_page_63.md), `N37` (Pages/cains_jawbone_page_84.md), `N23` (Pages/cains_jawbone_page_16.md), `N17` (Pages/cains_jawbone_page_41.md), `N26` (Pages/cains_jawbone_page_56.md)
   - **Disconfirming evidence:** these are shown to be multiple unrelated narrators using similar “learned allusion + attraction” techniques with no shared participants or setting markers.
@@ -347,7 +350,7 @@ These are **cross-narrator** groupings intended to reduce the search space for P
     - `N22` Defoe death-day hook: Pages/cains_jawbone_page_2.md
     - `N27` Day/Knight pun + time-limit frame: Pages/cains_jawbone_page_9.md
     - `N17` dog-watch / “first dog” timekeeping: Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_41.md
-    - `N05` Columbus/Palos date cue: Pages/cains_jawbone_page_67.md
+    - `N06` Columbus/Palos date cue: Pages/cains_jawbone_page_67.md
     - `N16` smell-memory + calendar hint: Pages/cains_jawbone_page_55.md
     - `N12` poison logistics + time constraint (also botany overlap): Pages/cains_jawbone_page_60.md
     - `N12` assassination-date hook / “first” frame: Pages/cains_jawbone_page_77.md
@@ -404,7 +407,7 @@ Goal: highlight likely “join surfaces” between macro strands (people/place/o
     - **Tightening check:** keep only where the time hook is date-derivable or explicit timekeeping (not generic “to-day” scene texture).
   - Aesthetic/high-society ↔ Time/calendar (3 overlaps): Pages/cains_jawbone_page_41.md, Pages/cains_jawbone_page_67.md, Pages/cains_jawbone_page_84.md.
     - `N17` (Pages/cains_jawbone_page_41.md): Selfridges/Bond Street social register + “first dog” (LIKELY dog-watch timekeeping).
-    - `N05` (Pages/cains_jawbone_page_67.md): art references (Beardsley/Rops) + Columbus leaving Palos (3 Aug) date hook.
+    - `N06` (Pages/cains_jawbone_page_67.md): art references (Beardsley/Rops) + Columbus leaving Palos (3 Aug) date hook.
     - `N37` (Pages/cains_jawbone_page_84.md): rapturous Barbara/beachwear register + Nelson “blind sailor” + arm-loss “to-day” (explicit historic date hook).
     - **Tightening check:** treat timekeeping-only pages as edge-overlap unless a second independent calendar anchor appears.
   - Botany/poison ↔ Detective/violence (2 overlaps): Pages/cains_jawbone_page_7.md, Pages/cains_jawbone_page_45.md.
@@ -869,12 +872,12 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Key anchors:** Babbie’s hair fixation; Baudelaire “La Chevelure”; “Rainbow” + Lent “second Sundae” rule; “I have always hated that these writers should be anonymous.”
   - **Disconfirming evidence:** later pages show the same motifs used casually by multiple unrelated narrators, or Page 63’s Henry is proven to be a different referent (not the recurring character-name).
 
-- **Cluster:** `N05` School colours / “the Head” voice (confidence: `CERTAIN`)
+- **Cluster:** `N05` School colours / “the Head” voice (merged into `N06`) (confidence: `CERTAIN`)
   - **Pages:** Pages/cains_jawbone_page_66.md, Pages/cains_jawbone_page_67.md
   - **Rationale:** Direct sentence continuation plus a consistent school-nostalgia register (the Head, school colours, fives courts, art-name dropping) supports a tight single-voice segment.
   - **Key anchors:** fives courts; old Hall hung with Beardsley/Rops; “the Head”; celebration vs mourning register.
   - **Disconfirming evidence:** only if the 66→67 sentence continuation is later shown to be a transcription artifact (unlikely given page integrity checks).
-  - **Phase 4 internal ordering hypotheses (N05):**
+  - **Phase 4 internal ordering hypotheses (N05; sub-strand within `N06`):**
     - **Sequence A — sentence continuation lock** (confidence: `CERTAIN`)
       - **Pages (ordered):** Pages/cains_jawbone_page_66.md → Pages/cains_jawbone_page_67.md
       - **Why:** Pages/cains_jawbone_page_66.md ends “hung round with” and Pages/cains_jawbone_page_67.md begins “the darker works…”, creating an unambiguous syntactic continuation.
@@ -966,10 +969,10 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Next falsification check:** look for a shared prop/phrase that ties Pages/cains_jawbone_page_82.md to Pages/cains_jawbone_page_85.md (e.g., concealment under a table object, or a repeat of the “certainty/pressure” imagery) before treating the table vignettes as a true run.
 
 - **Cluster:** `N06` Orator/artist + flowers/documents/OGPU voice (confidence: `LIKELY`)
-  - **Pages:** Pages/cains_jawbone_page_71.md, Pages/cains_jawbone_page_73.md, Pages/cains_jawbone_page_74.md, Pages/cains_jawbone_page_75.md, Pages/cains_jawbone_page_83.md
-  - **Rationale:** Pages 73, 74, and 75 mix art/oratory identity, French verse, and a secrecy/blackmail register; Pages 75 and 83 continue the flower/rose fixation and eyesight/“documents” concerns. Page 71 is the weakest member (no OGPU/documents/old-man anchors) but keeps the same May/eye stress + botanical fixation register.
-  - **Key anchors:** May/red-May scent; red/white roses + marigolds/calendula; red rose “sole survivor”; “orange tinted documents”; Goya reproduction confusion; “Will anyone know about them?”; Leningrad/OGPU mention; flower-seller interruption.
-  - **Disconfirming evidence:** “May” resolves purely as the month/plant with no person continuity, or “them/documents” do not recur across pages.
+  - **Pages:** Pages/cains_jawbone_page_66.md, Pages/cains_jawbone_page_67.md, Pages/cains_jawbone_page_71.md, Pages/cains_jawbone_page_73.md, Pages/cains_jawbone_page_74.md, Pages/cains_jawbone_page_75.md, Pages/cains_jawbone_page_83.md
+  - **Rationale:** Core Pages 73–75 (+83) mix art/oratory identity, French verse, and a secrecy/blackmail register with flowers/documents + failing eyesight. Pages 66–67 (school colours/“the Head” sub-strand) are merged in based on page-body unique phrase-level echoes to Pages 73–74 (see “Merge decisions (Phase 3)” above). Page 71 remains the weakest member (no OGPU/documents/old-man anchors) but keeps the same May/eye stress + botanical fixation register.
+  - **Key anchors:** “the Head, as we called him” + school-colours register; art-name dropping (Beardsley/Rops; travel-guide Haslemere/Whympers); May/red-May scent; red/white roses + marigolds/calendula; red rose “sole survivor”; “orange tinted documents”; Goya reproduction confusion; “Will anyone know about them?”; Leningrad/OGPU mention; flower-seller interruption.
+  - **Disconfirming evidence:** later evidence forces incompatible narrator self-identity/setting constraints between the school-colours/Head strand and the OGPU/documents/flower strand, or “May”/“them/documents” resolve as purely generic motifs with no continuity.
   - **Phase 4 internal ordering hypotheses (N06):**
     - **Sequence A — Marseille initiation → OGPU purchases → documents** (confidence: `LIKELY`)
       - **Pages (ordered):** Pages/cains_jawbone_page_73.md → Pages/cains_jawbone_page_74.md → Pages/cains_jawbone_page_75.md
