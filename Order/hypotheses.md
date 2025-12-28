@@ -113,6 +113,12 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
 - **Constraint:** Pages/cains_jawbone_page_6.md ↔ Pages/cains_jawbone_page_29.md (confidence: `CERTAIN`)
   - **Anchor:** “spare-room/spareroom” appears only on these two pages, each time as the same house-setting detail (old spare-room “in this very house” ↔ “unsatisfactory visit to the spareroom”).
   - **Falsifier:** another page is found using the same spare-room phrasing, or one mention is shown to be idiomatic/quoted rather than situational.
+- **Constraint:** Pages/cains_jawbone_page_66.md ↔ Pages/cains_jawbone_page_73.md (confidence: `CERTAIN`)
+  - **Anchor:** page-body unique phrase-level self-echo “I remembered the place of my initiation”.
+  - **Falsifier:** a third page-body instance of the phrase appears, or later evidence shows the phrase is quoted/embedded (not narrator self-echo).
+- **Constraint:** Pages/cains_jawbone_page_67.md ↔ Pages/cains_jawbone_page_74.md (confidence: `CERTAIN`)
+  - **Anchor:** page-body unique school-register phrasing: “the Head, as we called him” (with the same “ringing with…” memory texture).
+  - **Falsifier:** a third page-body instance of the phrase appears, or “the Head” is shown to be different referents across the two scenes.
 - **Constraint:** Pages/cains_jawbone_page_7.md ↔ Pages/cains_jawbone_page_45.md (confidence: `CERTAIN`)
   - **Anchor:** distinctive *Typhoon/Taifun* Renard‑Beinsky phrasing + Pole/half‑Pole framing.
   - **Falsifier:** the *Typhoon* layer is shown to be a detachable quotation reused by multiple narrators.
@@ -221,6 +227,8 @@ Directionless mapping from each constraint pair to narrator IDs (useful for cros
 - Pages/cains_jawbone_page_61.md ↔ Pages/cains_jawbone_page_64.md — Narrator(s): N04 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_65.md ↔ Pages/cains_jawbone_page_90.md — Narrator(s): N32 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_66.md ↔ Pages/cains_jawbone_page_67.md — Narrator(s): N06 (confidence: `CERTAIN`)
+- Pages/cains_jawbone_page_66.md ↔ Pages/cains_jawbone_page_73.md — Narrator(s): N06 (confidence: `CERTAIN`)
+- Pages/cains_jawbone_page_67.md ↔ Pages/cains_jawbone_page_74.md — Narrator(s): N06 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_70.md ↔ Pages/cains_jawbone_page_95.md — Narrator(s): N09 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_73.md ↔ Pages/cains_jawbone_page_74.md — Narrator(s): N06 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_85.md ↔ Pages/cains_jawbone_page_94.md — Narrator(s): N08 (confidence: `CERTAIN`)
