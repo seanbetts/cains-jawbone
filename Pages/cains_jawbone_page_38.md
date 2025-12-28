@@ -17,7 +17,7 @@ I was feeling better already, and was glad that a memory, true though dim, had l
   - Misnaming/near-miss references (Brontë vs Corday).
 - **Voice/tells:**
   - Highly self-aware/classical; slips/plays with names; abrupt aggression.
-- **Ordering hypotheses:**
+- **Clustering hypotheses:**
   - MAYBE: egg/omelette motif links Pages/cains_jawbone_page_36.md and Pages/cains_jawbone_page_38.md.
 - **Disconfirming evidence:**
   - If “stabbed” is later shown to be purely culinary (cutlery) rather than an attack.

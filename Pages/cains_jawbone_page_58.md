@@ -17,7 +17,7 @@ Considering it was my name month, I wasn’t having too much luck. Henry, though
   - Literature: stranger keeps talking about Browning.
 - **Voice/tells:**
   - Darkly comic; enumerates murders; pun-heavy.
-- **Ordering hypotheses:**
+- **Clustering hypotheses:**
   - CERTAIN: strengthens Henry-occurrence cluster (explicit corpse context).
   - LIKELY: Pages/cains_jawbone_page_26.md → Pages/cains_jawbone_page_58.md → Pages/cains_jawbone_page_35.md (counted murders + official knock → manhunt).
   - MAYBE: links to Browning-heavy pages (Pages/cains_jawbone_page_56.md).

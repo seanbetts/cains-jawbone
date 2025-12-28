@@ -17,7 +17,7 @@ Then there disappeared the last rose flivers of the Prussian beast. He had died 
   - CERTAIN: “learn the hateful art, how to forget” = Thomas Carew (same poem as the prior line; printed in *The Poems and Masque of Thomas Carew* (1893)), p. 175: https://books.google.co.uk/books?id=E6B-X55lhFAC&pg=PA175&dq=learn+the+hateful+art&source=gbs_api.
 - **Voice/tells:**
   - Suave self-assurance under threat; explicitly frames the situation as falsifiable (“verify… I never travel without my diary”).
-- **Ordering hypotheses:**
+- **Clustering hypotheses:**
   - LIKELY: thematically adjacent to the will/forgery cluster (Pages/cains_jawbone_page_28.md, Pages/cains_jawbone_page_50.md), but no phrase-level anchors currently connect it to those pages beyond generic forgery/will motifs.
   - MAYBE: better treated as its own voice until a second non-quotation anchor recurs (e.g., “new instrument,” “lips were wiped clean,” “Prussian beast”).
 - **Disconfirming evidence:**

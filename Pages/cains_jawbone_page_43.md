@@ -22,7 +22,7 @@ This is good. She accepts Lover’s Delight from me. She has spoken very little 
   - Scottish nickname/dialect framing (“Ecky”).
 - **Voice/tells:**
   - Self-referential wordplay; astrological/handwriting sensitivity (possible link to “Aquarius” pen voice).
-- **Ordering hypotheses:**
+- **Clustering hypotheses:**
   - MAYBE: links to Pages/cains_jawbone_page_1.md via “Aquarius” motif.
   - LIKELY: follows Pages/cains_jawbone_page_17.md (Moon/Dawn venue pair + “bad for the hand” ↔ “ruin my hand”; woman seated opposite → “Lover’s Delight”/Banana Split exchange).
   - MAYBE: links to Pages/cains_jawbone_page_42.md via cocktail/bar setting and the same woman.

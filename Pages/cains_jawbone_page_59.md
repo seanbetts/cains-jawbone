@@ -19,7 +19,7 @@ What was it I held in my fingers? Looked at in one way it could just be a kea. I
   - Police attention: detective-sergeant visit re “died strangely”.
 - **Voice/tells:**
   - Arch, punning; disdain for detective-sergeants’ vocabulary tolerance.
-- **Ordering hypotheses:**
+- **Clustering hypotheses:**
   - LIKELY: Pages/cains_jawbone_page_59.md → Pages/cains_jawbone_page_60.md (failed “bane” → narrator “succeeded”; “figurehead beard” likely Trinder).
   - MAYBE: follows Pages/cains_jawbone_page_36.md (unique “awkward” phrasing + poison-failure beats; p59 adds police attention).
   - LIKELY: connects to Sir Paul Trinder pages (Pages/cains_jawbone_page_53.md) and to a Trinder-outcome page (Pages/cains_jawbone_page_60.md).

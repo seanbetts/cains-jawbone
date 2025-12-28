@@ -50,7 +50,7 @@ LIKELY WORDPLAY
   - Gardening stroll + “drawing towards a close” suggests a planned end.
 - **Voice/tells:**
   - Confident poison-botany register; experimental attitude (“see how the combination would suit him”).
-- **Ordering hypotheses:**
+- **Clustering hypotheses:**
   - LIKELY: extends the plant/poison thread (Pages/cains_jawbone_page_6.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_24.md).
   - LIKELY: linked with Pages/cains_jawbone_page_6.md via unique “spare-room/spareroom” house-setting anchor (direction TBD).
   - LIKELY: follows Pages/cains_jawbone_page_36.md (Calabar/ordeal-bean “failure” → “discarded… physostigma”).

@@ -30,7 +30,7 @@ And then with horrid clearness I had seen a woman---not actually, if I could tru
   - Lawful “means” emphasis; shopping geography (Selfridges vs Bond Street).
 - **Voice/tells:**
   - Malapropism/idiom-mixing; dense punning place language.
-- **Ordering hypotheses:**
+- **Clustering hypotheses:**
   - CERTAIN: add to Henry-occurrence cluster.
   - MAYBE: links to dog-watch register pages (e.g., Pages/cains_jawbone_page_11.md).
   - LIKELY: precedes Pages/cains_jawbone_page_11.md (first dog → end of second dog; Selfridges-side ↔ Orchard).

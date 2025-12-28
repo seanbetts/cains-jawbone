@@ -30,7 +30,7 @@ Next day I let Caroline Jasmine---what a name!---do her very damnedest for my gu
   - Host/guest/patient framing echoes other “guest” poisoning setups (compare Pages/cains_jawbone_page_80.md).
 - **Voice/tells:**
   - Over-precision/insistence about death (“and I know it”) + casual malice.
-- **Ordering hypotheses:**
+- **Clustering hypotheses:**
   - CERTAIN: Pages/cains_jawbone_page_86.md → Pages/cains_jawbone_page_87.md (direct continuation of the quoted lines).
   - MAYBE: Pages/cains_jawbone_page_80.md is a thematic overlap (host/guest poisoning) but is not supported as an adjacent predecessor without a stronger shared anchor.
   - LIKELY: Pages/cains_jawbone_page_24.md overlaps via Caroline + the Yeats “Cathleen… Houlihan” source line (do not treat as adjacency without a second independent anchor).

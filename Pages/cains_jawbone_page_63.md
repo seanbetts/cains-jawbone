@@ -17,7 +17,7 @@ I cannot help, even with this supreme distraction, thinking of my Babbie’s---d
   - Writer/source obsession: narrator dislikes anonymous writers; insists on naming them.
 - **Voice/tells:**
   - Infatuated, performatively learned; food-ordering amid literary rapture.
-- **Ordering hypotheses:**
+- **Clustering hypotheses:**
   - LIKELY: same sweets/“Sundae” cluster as Pages/cains_jawbone_page_60.md (and related bar/menu pages).
   - MAYBE: Henry here is the same “Henry” as the sundae/investigator thread; do not merge without more anchors.
 - **Disconfirming evidence:**

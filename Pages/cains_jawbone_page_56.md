@@ -36,7 +36,7 @@ LIKELY WORDPLAY
   - MAYBE: “bursting into pang in the sausage” as a distorted “burst into song” phrasing.
 - **Voice/tells:**
   - Self-mocking wordplay + claimed second-sight; breakfast domesticity.
-- **Ordering hypotheses:**
+- **Clustering hypotheses:**
   - LIKELY: precedes Pages/cains_jawbone_page_54.md (shared “awful and literal sense” aside + breakfast progression; see `Order/hypotheses.md` `N26` Sequence A).
   - MAYBE: links to other Browning/Pippa references (e.g., Pages/cains_jawbone_page_58.md).
 - **Disconfirming evidence:**

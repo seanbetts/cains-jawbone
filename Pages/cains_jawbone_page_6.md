@@ -17,7 +17,7 @@ I considered that venerable whose winter Achilles thought to take from the lips 
   - Bells: dangling bell-wire (Speckled Band echo).
 - **Voice/tells:**
   - Cheerfully menacing “generosity”; poison-by-gardening vibe; heavy literary reference density.
-- **Ordering hypotheses:**
+- **Clustering hypotheses:**
   - MAYBE: prelude to Pages/cains_jawbone_page_21.md (foxgloves/digitalis here ↔ “proved digitalis purpurea” there).
   - LIKELY: linked with Pages/cains_jawbone_page_29.md via unique “spare-room/spareroom” house-setting anchor (direction TBD).
   - MAYBE: gelsemium/electric-febrifuge let-down ↔ Pages/cains_jawbone_page_59.md (explicit gelsemium), but ordering is unclear.

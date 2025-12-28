@@ -32,7 +32,7 @@ LIKELY WORDPLAY
   - Sound motif: “rill and corncrake” as a duet (smooth running vs warning “crake/creak”) tied to “speeding” → likely vehicle/engine/chassis sounds.
 - **Voice/tells:**
   - Fixation on naming (“nomenclature business”); oscillates between suddenness vs “triturative” slowness (bomb vs “exceeding small”).
-- **Ordering hypotheses:**
+- **Clustering hypotheses:**
   - LIKELY: follows Pages/cains_jawbone_page_13.md (same Grantham market-place incident: p13’s two-body tableau → this page’s “square accounts” + “My hand dropped to my hip pocket… I had to reckon with Henry” escalation; p13 is also locked after Pages/cains_jawbone_page_49.md via the Blake continuation).
   - LIKELY: “in this very place” likely refers to Grantham (the only conduit-1597 market-place anchor appears on Pages/cains_jawbone_page_13.md), supporting the within-incident continuity.
   - MAYBE: connects to other Henry “reckon with Henry” pages (Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_26.md).

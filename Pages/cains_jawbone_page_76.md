@@ -20,7 +20,7 @@ Looking over at the sly sideways smile which seemed to fill all the foreground o
   - “Green” as victim name + injury metaphor (“greenstick fracture”) + plant language.
 - **Voice/tells:**
   - Self-justifying moral calculus; frames murder as an adult/ripe duty; literate allusion density.
-- **Ordering hypotheses:**
+- **Clustering hypotheses:**
   - LIKELY: Pages/cains_jawbone_page_76.md → Pages/cains_jawbone_page_77.md (resolve-to-act on a named victim → “my first” aftermath with “Compact” tool). Falsifier: Pages/cains_jawbone_page_77.md’s victim is later clearly not Green / not a “young woman” context.
 - **Disconfirming evidence:**
   - If “Green” is revealed as a joke/reference rather than an in-world victim, or if the billhook scene is purely literary quotation.

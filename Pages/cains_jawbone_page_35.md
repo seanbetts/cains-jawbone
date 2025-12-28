@@ -14,7 +14,7 @@ For this time being, Henry was drawing towards a close. I was not sorry. The pol
   - CERTAIN: “alas, poor Richard! Alas, poor Thomas!” riffs on Shakespeare’s *Richard II* (York: “Alas, poor Richard! where rode he the whilst?”) and Dryden’s *The Mistaken Husband* (“Alas poor Thomas, we must all die!”): https://books.google.co.uk/books?id=9kVwN_5fp_wC&pg=RA1-PA131&dq=%22alas,+poor+Richard%22 ; https://books.google.co.uk/books?id=SxAcGP1I6TkC&pg=PA610&dq=%22alas,+poor+Thomas%22
 - **Voice/tells:**
   - Darkly comic, thriller-pastiche tone; treats murder as genre mechanics.
-- **Ordering hypotheses:**
+- **Clustering hypotheses:**
   - LIKELY: follows Pages/cains_jawbone_page_58.md (official knock → flying squad manhunt).
   - MAYBE: follows Pages/cains_jawbone_page_29.md via shared rare phrasing (“drawing towards a close” + “one never knew”; p35 reads like a more explicit reprise).
   - MAYBE: Henry narrative escalates from “killings/victim” (Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_26.md) to active manhunt (falsifier: if p35 is an embedded/imagined pursuit scenario).

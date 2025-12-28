@@ -22,7 +22,7 @@ Babs now moves across the vision, crowned with two straight downfalls, as it wer
   - Henry policing diction: dislikes “got me”.
 - **Voice/tells:**
   - Highly visual, metaphor-heavy; keeps returning to sensory weather memories.
-- **Ordering hypotheses:**
+- **Clustering hypotheses:**
   - CERTAIN: add to Henry-occurrence cluster.
   - MAYBE: follows the Pages/cains_jawbone_page_49.md → Pages/cains_jawbone_page_92.md → Pages/cains_jawbone_page_42.md run as a later “she has got me” beat (if the “she” matches p42’s tall woman). Falsifier: “she” is shown to be a different person than p42’s woman, or the tea vocabulary is coded/unrelated.
   - MAYBE: links to tea pages (e.g., Pages/cains_jawbone_page_17.md) via Orange Pekoe/tea naming.

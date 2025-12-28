@@ -18,7 +18,7 @@ I always feel a bit dazed on these occasions, and was so then. But it was pleasa
   - Henry framed as compelled to “destroy… for family reasons”.
 - **Voice/tells:**
   - “simple soul” register but highly allusive (poet quotation).
-- **Ordering hypotheses:**
+- **Clustering hypotheses:**
   - CERTAIN: add to Henry-occurrence cluster.
   - MAYBE: family-curse/motive thread for Henry’s repeated destruction.
   - CERTAIN: precedes Pages/cains_jawbone_page_13.md (Blake quote continuation: this page’s “Bring Palamabron… Elynittria…” → p13’s “Rintrah… Ocalythron.”).

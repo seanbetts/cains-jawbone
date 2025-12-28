@@ -24,7 +24,7 @@ I dimly guess why the old dead so wanted this. I had worked for him, Henry had w
 - **Quotes & allusions:**
   - CERTAIN: “Here I shake off the bur o’ the world, man’s congregation shun” = Francis Thompson, “An Anthem of Earth” (in *New Poems*, 1897), p. 93: https://books.google.co.uk/books?id=SZo-AAAAYAAJ&pg=PA93&dq=bur+o%27+the+world&source=gbs_api.
   - CERTAIN: “how ill all’s here about my heart” echoes Shakespeare, *Hamlet* Act V (“…I shall win at the odds… thou wouldst not think how ill all’s here about my heart…”): https://en.wikisource.org/wiki/Hamlet_(1917)_Yale/Text/Act_V.
-- **Ordering hypotheses:**
+- **Clustering hypotheses:**
   - MAYBE: belongs with the Henry + Scotland Yard / detective cluster (police framing + Henry present).
 - **Disconfirming evidence:**
   - If the collapse/death framing is revealed as purely rhetorical (no actual in-world harm).

@@ -20,7 +20,7 @@ Out cascaded the darling young. It was no tragedy ; that was, no tragedy compara
   - MAYBE: memory-trigger/digression habit: “touched a chord of memory” + “how often…” parallels Pages/cains_jawbone_page_96.md’s “How vividly… How it all comes back.”
 - **Voice/tells:**
   - Irritated, inward; sensory trigger (stepped-on foot → memory chord).
-- **Ordering hypotheses:**
+- **Clustering hypotheses:**
   - LIKELY: precedes Pages/cains_jawbone_page_69.md as a daytime/awake trigger that leads into the late-night “collect myself” aftermath reflection (both hinge on the same “old man” thread).
   - MAYBE: earlier than the Pages/cains_jawbone_page_95.md → Pages/cains_jawbone_page_70.md letter thread as setup (crucial meeting + suspected eavesdropper).
 - **Disconfirming evidence:**

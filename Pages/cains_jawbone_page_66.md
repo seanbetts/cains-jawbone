@@ -14,7 +14,7 @@ It was neither the sheerest hell nor uttermost heaven thus to affront the dead ;
   - Tension with companion’s blasé remarks (“not… very terrible”).
 - **Voice/tells:**
   - Introspective, aesthetic/educated register; wary about “speculat[ing]” and losing “all”.
-- **Ordering hypotheses:**
+- **Clustering hypotheses:**
   - CERTAIN: this page continues mid-sentence into Pages/cains_jawbone_page_67.md (“hung round with … the darker works…”), implying adjacency `66 → 67`.
 - **Disconfirming evidence:**
   - Only if later evidence shows an editorial/transcription artifact (unlikely given clean sentence continuation).

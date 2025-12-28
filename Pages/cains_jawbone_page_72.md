@@ -13,7 +13,7 @@ Of course I was sorry to say good-bye to old Medehamstede ; but it was pleasant 
   - Title anchor: “Savage Conqueror” (novel length; potentially a clue text).
 - **Voice/tells:**
   - Meta-fictional, cynical about romance conventions; self-identifies life as “short stories”.
-- **Ordering hypotheses:**
+- **Clustering hypotheses:**
   - MAYBE: links to other “papers/magazine/story” narrators; hold until more anchors.
 - **Disconfirming evidence:**
   - If “Pasquier” is a brand/product rather than an in-world acquaintance.

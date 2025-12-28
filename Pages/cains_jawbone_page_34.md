@@ -11,7 +11,7 @@ It was a petty employ for one of my reputation ; you would not hear, I felt, muc
 - **Voice/tells:**
   - Confident, coercive social control; reputation-conscious.
   - Physical tell for the man: “throat… full of jelly” / “quag” speech.
-- **Ordering hypotheses:**
+- **Clustering hypotheses:**
   - LIKELY: follows Pages/cains_jawbone_page_33.md within the `N25` debts/bills vignette (covert observation → “petty employ” / “play one tool against another”).
   - LIKELY: same-voice link to Pages/cains_jawbone_page_52.md in the `N25` strand via shared “innocent child” phrasing + “ironic” framing (treated as voice evidence, not a sequence claim; corpus scan found no other “innocent child” instances).
 - **Disconfirming evidence:**

@@ -15,7 +15,7 @@ Compact, they call it ; but when I used it, I was feeling anything but so. Don�
   - CERTAIN: “that day’s killing of Perceval” alludes to the assassination of Spencer Perceval on Monday, 11 May 1812: https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Perceval,_Spencer.
 - **Voice/tells:**
   - Cool, reflective, slightly aesthetic about murder; distinguishes “public political” killing vs “my own”.
-- **Ordering hypotheses:**
+- **Clustering hypotheses:**
   - LIKELY: follows Pages/cains_jawbone_page_76.md (named-victim setup → first killing).
 - **Disconfirming evidence:**
   - If “Perceval” is an in-world character rather than historical, or if “my first” refers to something non-lethal.

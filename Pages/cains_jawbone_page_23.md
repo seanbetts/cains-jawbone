@@ -26,7 +26,7 @@ I hate seeing things like this in the paper. Bill to Solve the Traffic Problem. 
   - Alcohol: rum line.
 - **Voice/tells:**
   - Rapid associative allusion; self-reproach about “letting the dear girl down”.
-- **Ordering hypotheses:**
+- **Clustering hypotheses:**
   - MAYBE: matches/Bryant & May motif could cluster with other “May” and “girl” references (watch for matchgirl strike allusions).
 - **Disconfirming evidence:**
   - If Bryant & May is later shown to be a person-pair rather than the match company.

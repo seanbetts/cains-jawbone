@@ -20,7 +20,7 @@ I wondered if I should succeed in hurting the girl. But think of her no more. Th
   - CERTAIN: “The swallow, the bright Homonoea.” — Greek Anthology epigram “On Claudia Homonoea” (author unknown); cf. J.W. Mackail, *Select Epigrams from the Greek Anthology* (1890), Epigram XLIII: https://www.gutenberg.org/ebooks/2378
 - **Voice/tells:**
   - Pedantic insistence on order (“begin at the beginning”); admiration of writerly facility.
-- **Ordering hypotheses:**
+- **Clustering hypotheses:**
   - LIKELY: `N39` will/forgery voice pairing with Pages/cains_jawbone_page_28.md (shared *Importance of Being Earnest* echo + active will/pen work; see `Order/hypotheses.md` `N39` block).
   - LIKELY: follows Pages/cains_jawbone_page_28.md as the operational forgery scene (“The will was there… caseful of strange pens”) after the church-window “ticklish business” prelude and shared harm-to-target framing (“woman not yet dead” ↔ “hurting the girl”); see `Order/hypotheses.md` `N39` Sequence A.
   - MAYBE: overlaps wills/forgery cluster (Pages/cains_jawbone_page_12.md, Pages/cains_jawbone_page_14.md) via the same Greek Anthology epigram (Homonoea) — treat as a Phase 5 join-candidate only.

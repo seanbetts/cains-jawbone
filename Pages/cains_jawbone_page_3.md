@@ -35,7 +35,7 @@ LIKELY WORDPLAY
   - Publishing-world references; travel readiness (“rain-proof coat, good shoes”); “I have no chair.”
 - **Voice/tells:**
   - Transactional, self-satisfied tone; mixes commerce (publishers) with menace (assassin substance).
-- **Ordering hypotheses:**
+- **Clustering hypotheses:**
   - LIKELY: follows Pages/cains_jawbone_page_32.md (p32 ends with “My job might prove him right.” after describing the instruction-giver appointment “yesterday”; this page opens with the meeting “yesterday” and gives the detailed dosing/instructions; both also share a Whitman layer + weather/kit register (“weeping weather” ↔ “rain-proof coat, good shoes”); see `Order/hypotheses.md` `N03` Sequence A).
   - MAYBE: Clement/Clément/Clem continuity across Pages/cains_jawbone_page_24.md + Pages/cains_jawbone_page_27.md + Pages/cains_jawbone_page_32.md (pending disambiguation: Clement-as-met-person vs Clement-as-narrator-name clue).
 - **Disconfirming evidence:**

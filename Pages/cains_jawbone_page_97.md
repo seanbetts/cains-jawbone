@@ -22,7 +22,7 @@ To have slept and to wake right up surrounded by an atmosphere in which Bunny an
   - CERTAIN: “Paris” is a pun on Dr John Ayrton Paris (a “healer”), who “graduated M.B. at Cambridge in 1808” (DNB): https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Paris,_John_Ayrton.
   - CERTAIN: Leonidas is the Spartan king associated with Thermopylae (EB1911): https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Leonidas.
   - LIKELY: “Cambridge or Thermopylae?” contrasts Dr Paris (Cambridge) with Leonidas (Thermopylae).
-- **Ordering hypotheses:**
+- **Clustering hypotheses:**
   - LIKELY: clusters with Pages/cains_jawbone_page_93.md via the distinctive Bunny-and-Perry phrasing.
   - MAYBE: precedes Pages/cains_jawbone_page_93.md (this page frames the “never done before” day setup + Cambridge wordplay; p93 reads like later evidence-weighing; see `Order/hypotheses.md` `N07` Sequence A).
 - **Disconfirming evidence:**

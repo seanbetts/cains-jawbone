@@ -14,7 +14,7 @@ I plunged for the last time. The few remaining figures and letters swam as they 
   - London as indifferent homecoming; beauty framed as sepulchral.
 - **Voice/tells:**
   - Morbid, literary quotation as immediate lens for observation.
-- **Ordering hypotheses:**
+- **Clustering hypotheses:**
   - MAYBE: same Henry as Pages/cains_jawbone_page_4.md + Pages/cains_jawbone_page_5.md (track Henry’s role/occupation).
 - **Disconfirming evidence:**
   - If later reveals this “Henry” is a different person in another voice/setting.

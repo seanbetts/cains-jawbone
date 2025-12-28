@@ -20,7 +20,7 @@ The best I had done seemed to me blank and suspicious, my great thoughts as I su
   - CERTAIN: Stoke d’Abernon (Surrey) church (earliest extant English brass: Sir John d’Aubernoun). (Fox-Davies, 1909: https://en.wikisource.org/wiki/A_Complete_Guide_to_Heraldry/Chapter_4)
 - **Voice/tells:**
   - Antiquarian/inscription interest; literary-name riddling (Will/Ben/bed).
-- **Ordering hypotheses:**
+- **Clustering hypotheses:**
   - MAYBE: pill thread with Pages/cains_jawbone_page_3.md (pills) and other “first pill” narrators.
   - MAYBE: follows Pages/cains_jawbone_page_25.md (N34) via shared “time factor” rumination + “same way home” / “arrived home again” echo (see Order/hypotheses.md).
 - **Disconfirming evidence:**

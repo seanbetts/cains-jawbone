@@ -21,7 +21,7 @@ What chemistry! That the winds are really not infectious. Now that I was approac
   - CERTAIN: Thames Ditton; LIKELY: Long Ditton.
 - **Voice/tells:**
   - Dense allusive, punning; uses place-nickname logic.
-- **Ordering hypotheses:**
+- **Clustering hypotheses:**
   - MAYBE: pill + bean/garden growth links to plant/poison thread pages.
 - **Disconfirming evidence:**
   - If “Thames Ditton’s sister” is not meant literally (Long Ditton) or doesn’t recur.

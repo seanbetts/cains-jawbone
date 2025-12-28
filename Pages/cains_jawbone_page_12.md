@@ -39,7 +39,7 @@ LIKELY WORDPLAY
   - Trust test: “velvet” vs “cinders”.
 - **Voice/tells:**
   - Legal/estate language + social niceties; opportunistic (“get what I wanted”).
-- **Ordering hypotheses:**
+- **Clustering hypotheses:**
   - LIKELY: Pages/cains_jawbone_page_14.md → Pages/cains_jawbone_page_12.md (will-talk to May + spilled wine → this “bad head” document scene; see `Order/hypotheses.md` `N10` block).
   - MAYBE: paired with Pages/cains_jawbone_page_14.md more loosely as a will/document motif cluster if the scenes prove distinct.
 - **Disconfirming evidence:**

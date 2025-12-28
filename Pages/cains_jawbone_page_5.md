@@ -33,7 +33,7 @@ LIKELY WORDPLAY
   - Lighthouse as rendezvous; cosmetics (“powdered my nose”).
 - **Voice/tells:**
   - Social irritation; fast associative brand-name riffs; possibly feminine-coded gesture (“powdered my nose”).
-- **Ordering hypotheses:**
+- **Clustering hypotheses:**
   - MAYBE: same Henry as Pages/cains_jawbone_page_2.md and Pages/cains_jawbone_page_4.md; track Henry’s serial “intended” count.
   - MAYBE: follows Pages/cains_jawbone_page_4.md (coastal strip: church-side comedy → ruined lighthouse scene). Falsifier: the “new young man”/letters scene is proven to be unrelated to Page 4’s cast/setting.
 - **Disconfirming evidence:**

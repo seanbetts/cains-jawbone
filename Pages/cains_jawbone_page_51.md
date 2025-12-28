@@ -17,7 +17,7 @@ As I was not staying, but only passing through, I raised my hat to the eleven th
   - MAYBE: “lovely and soothing… cool-enfolding… a dark mother… vast and well-veil’d” (Whitman description of an unnamed “him”; likely a personified thing such as sea/night).
 - **Voice/tells:**
   - Whitman-heavy quotation density; bodily self-monitoring.
-- **Ordering hypotheses:**
+- **Clustering hypotheses:**
   - MAYBE: clusters with other Whitman-quoting page(s) (Pages/cains_jawbone_page_32.md).
 - **Disconfirming evidence:**
   - If the Whitman snippets are shown to be coincidental and the surrounding narrative voice differs strongly from Page 32.

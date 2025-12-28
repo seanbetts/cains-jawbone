@@ -16,7 +16,7 @@ One’s eyebrows were one’s own, I always thought. Though I did remember a cas
   - Theatre/music-hall + supper: eyebrow mishap “into the clear soup”.
 - **Voice/tells:**
   - Stage/cosmetics knowingness; nostalgic (“The old days”); romantic vacillation about Henry.
-- **Ordering hypotheses:**
+- **Clustering hypotheses:**
   - MAYBE: cosmetics/social-voice cluster with Pages/cains_jawbone_page_5.md (powdered nose) and Henry-threads.
 - **Disconfirming evidence:**
   - If later pages show this Henry is clearly different from other Henry scenes.

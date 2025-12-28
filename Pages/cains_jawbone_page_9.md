@@ -34,7 +34,7 @@ LIKELY WORDPLAY
   - Academia/professional identity (mineralogy lecturer).
 - **Voice/tells:**
   - Snobbish, managerial; expects obedience; distrusts but relies on skilled subordinate.
-- **Ordering hypotheses:**
+- **Clustering hypotheses:**
   - MAYBE: bell motif cluster with Pages/cains_jawbone_page_6.md (bell-wire + bell focus).
 - **Disconfirming evidence:**
   - If bell references resolve to unrelated settings/narrators with no continuity.

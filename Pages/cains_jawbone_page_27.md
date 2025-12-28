@@ -14,7 +14,7 @@ I had seen, day after day, every sunlit or night obscured detail of the funny ol
   - Coffee + breakfast: Peaberry Mysore + Blue Mountain; “two on toast” with “silver skins” and “golden blood” (food ID unclear).
 - **Voice/tells:**
   - Lyrical, metaphoric “Death” register mixed with domestic routine (coffee/food).
-- **Ordering hypotheses:**
+- **Clustering hypotheses:**
   - LIKELY: connects to the Clement/Clem thread (Pages/cains_jawbone_page_3.md, Pages/cains_jawbone_page_24.md) via the nickname “Clem”.
   - MAYBE: functions as retrospective “Clem” backstory (Sequence C in `Order/hypotheses.md`’s `N03` block) that can sit adjacent to either the instruction/pills beat (Pages/cains_jawbone_page_32.md, Pages/cains_jawbone_page_3.md) or the house/jasmine suspicion beat (Pages/cains_jawbone_page_30.md, Pages/cains_jawbone_page_24.md) once a phrase-level anchor repeats.
   - MAYBE: overlaps Pages/cains_jawbone_page_37.md via the rare “Death… fingered” phrasing + Shrewsbury lock‑up/prison framing (“this time” the incarcerated person would/could not hear).

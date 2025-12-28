@@ -22,7 +22,7 @@ Needless to say I didn’t know that that was the last day. Afterwards I found i
   - Great Lexicographer thread links strongly with Pages/cains_jawbone_page_61.md.
 - **Voice/tells:**
   - Reverential, clan/fealty language; heavy interleaving of learned allusion with personal devotion.
-- **Ordering hypotheses:**
+- **Clustering hypotheses:**
   - LIKELY: cluster with Pages/cains_jawbone_page_61.md (shared Great Lexicographer anchor + similar voice).
 - **Disconfirming evidence:**
   - If McLeod/Lotus references point to a different lexicographer biography than Johnson’s.

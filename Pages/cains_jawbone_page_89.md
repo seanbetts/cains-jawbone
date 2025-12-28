@@ -16,7 +16,7 @@ The ancient had then sat down among the heather to a great dish of brown and swi
   - LIKELY: “panache” used as “plume” metaphor for facial hair (moustache/goatee) beneath the lips (Webster 1913: panache = “a plume or bunch of feathers”).
 - **Voice/tells:**
   - Threatening punning (signature → death warrant) + self-conscious style commentary.
-- **Ordering hypotheses:**
+- **Clustering hypotheses:**
   - CERTAIN: follows Pages/cains_jawbone_page_90.md (“The ancient had then sat down…” reads as direct continuation of Page 90’s old gentleman arriving and sitting between the narrator and companion; see `Order/hypotheses.md` `N32` Sequence B).
 - **Disconfirming evidence:**
   - If “death warrant” is purely idiomatic (no in-world death intended).

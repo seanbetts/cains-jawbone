@@ -20,7 +20,7 @@ It flashed through my mind that the place between Eros and the Queen’s Hall ha
   - LIKELY: the “old association”/childhood-contact thread matches Pages/cains_jawbone_page_95.md’s “neglecting my contact with his infancy” while writing the full account.
 - **Voice/tells:**
   - Overheated associative leaps; heavy wordplay (“Ming”/Munich/Efate) amid fear and fatigue.
-- **Ordering hypotheses:**
+- **Clustering hypotheses:**
   - LIKELY: follows Pages/cains_jawbone_page_95.md (written account completed → franked item left for “the girl” to find in the morning).
   - MAYBE: later consequence of the Pages/cains_jawbone_page_68.md / Pages/cains_jawbone_page_69.md old-man strand (retaliation fear after witnessing and/or reporting the slow-death scene).
 - **Disconfirming evidence:**

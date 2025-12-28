@@ -14,7 +14,7 @@ I discussed certain passages with the man, and he was too guardedly ignorant in 
   - Appetite metaphor (no single dish would satisfy).
 - **Voice/tells:**
   - Paranoid self-analysis; heightened moral fear; metaphor-dense interiority.
-- **Ordering hypotheses:**
+- **Clustering hypotheses:**
   - MAYBE: wills/money cluster with Pages/cains_jawbone_page_12.md and Pages/cains_jawbone_page_14.md (documents + inheritance talk).
 - **Disconfirming evidence:**
   - If Page 18’s “money” context is later shown to be unrelated to legal documents/inheritance threads.

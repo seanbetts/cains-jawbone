@@ -23,7 +23,7 @@ I had always been proud of my namesake, the Great Lexicographer, as we, not unna
   - Water lilies / reed-bed imagery.
 - **Voice/tells:**
   - Dense learned allusion + bilingual quotation; playful etymology/portmanteau.
-- **Ordering hypotheses:**
+- **Clustering hypotheses:**
   - LIKELY: same narrator cluster as Pages/cains_jawbone_page_64.md (shared “Great Lexicographer” anchor + learned diction).
 - **Disconfirming evidence:**
   - If “Great Lexicographer” is shown to be someone other than Johnson, or the “razor” joke points to a different “William”.

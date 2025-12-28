@@ -20,7 +20,7 @@ The victim, for that I must now reluctantly call him, blocked all the sweet air 
   - Window/air/light imagery (“window was no more dark”).
 - **Voice/tells:**
   - Black humour + self-exculpation (“thank goodness, I was no detective”).
-- **Ordering hypotheses:**
+- **Clustering hypotheses:**
   - MAYBE: pairs with Pages/cains_jawbone_page_76.md and Pages/cains_jawbone_page_77.md (same murder-rationalising narrator register; multiple killings).
 - **Disconfirming evidence:**
   - If the victim survives (later pages) or the scene is revealed as metaphorical/storytelling.

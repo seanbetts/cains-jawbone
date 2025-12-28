@@ -40,7 +40,7 @@ LIKELY WORDPLAY
 - **Voice/tells:**
   - Self-mythologising criminal/detective register (“Smiler with the Knife”; “Black Museum”).
   - Threat of intervention (“I would have to take steps”) toward Henry.
-- **Ordering hypotheses:**
+- **Clustering hypotheses:**
   - MAYBE: belongs with the detective/self-fashioning cluster (crime-museum + sleuth allusions).
 - **Disconfirming evidence:**
   - If “Black Museum” and Cadaver Charlie are purely figurative or offhand jokes with no recurrence.

@@ -17,7 +17,7 @@ While my mind had been thus far away, a grotesque looking old gentleman had flut
   - Deer-stalker + fungus + parquet suggests a high-society dining scene.
   - Dog sorrow/howling as an auditory scene anchor.
   - Future vs present anxiety (endeavour always “in the future”).
-- **Ordering hypotheses:**
+- **Clustering hypotheses:**
   - LIKELY: follows Pages/cains_jawbone_page_65.md (“mind… enthralled” reading beat → “While my mind had been thus far away…” + repeated “type” phrase; see `Order/hypotheses.md` `N32` Sequence A).
   - CERTAIN: precedes Pages/cains_jawbone_page_89.md (“The ancient had then sat down…” reads as immediate continuation of this page’s old gentleman arriving and sitting between the narrator and companion; deer-stalker/parquet/soigné cues are unique to this pair; see `Order/hypotheses.md` `N32` Sequence B).
 - **Disconfirming evidence:**

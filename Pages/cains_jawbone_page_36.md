@@ -17,7 +17,7 @@ Strange that old Calabar, as I called him, should fail me ; yet on the morning a
   - Burial detail: buried corpse with only the eyes showing.
 - **Voice/tells:**
   - Practical poison-garden logistics mixed with social marriage pressure.
-- **Ordering hypotheses:**
+- **Clustering hypotheses:**
   - LIKELY: follows Pages/cains_jawbone_page_21.md (“morning after I had introduced him…”).
   - LIKELY: precedes Pages/cains_jawbone_page_29.md (Calabar/physostigma “fail[ure]” → later “discarded… physostigma”).
   - MAYBE: Pages/cains_jawbone_page_36.md → Pages/cains_jawbone_page_59.md (unique “awkward” phrasing + poison-failure beats; p59 adds police attention).

@@ -20,7 +20,7 @@ What should such a man need with such a companion, I asked myself. And then I th
   - Removal/custody implied (“take him away”) + subsequent death.
 - **Voice/tells:**
   - Self-justifying tone (“warrior… without being a bounder”); suspicion/interpretation of others’ motives.
-- **Ordering hypotheses:**
+- **Clustering hypotheses:**
   - MAYBE: links to other “removed/arrested/locked in” threads (asylum/police); hold until more anchors.
 - **Disconfirming evidence:**
   - If “dead man” is metaphorical or purely a quoted/storytold figure rather than an in-world death.

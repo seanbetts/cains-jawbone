@@ -12,7 +12,7 @@ So far the mind had been ambling, if I may dare the expression ; moving forward 
   - Academia satire: “chartered lecturer” at “obscure… stools of learning”.
 - **Voice/tells:**
   - Contemptuous, ornate metaphor (“white bear” beard; “well-fed swine”).
-- **Ordering hypotheses:**
+- **Clustering hypotheses:**
   - LIKELY: follows Pages/cains_jawbone_page_52.md as a subsequent “subject introduced” beat in the same `N25` inquiry.
   - MAYBE: Pages/cains_jawbone_page_57.md sits between Pages/cains_jawbone_page_52.md and this page as part of the forecast “commentary… page after page” papers run (fallback: Pages/cains_jawbone_page_52.md → Pages/cains_jawbone_page_53.md if p57 is falsified).
 - **Disconfirming evidence:**
