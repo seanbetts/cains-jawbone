@@ -18,7 +18,7 @@ The cardinal was acquitted to-day of all complicity in the affair of the Queen�
 - **Clustering hypotheses:**
   - CERTAIN: part of the `N25` interview/papers run; links strongly with Pages/cains_jawbone_page_53.md (the “introduced to me” beat identifies the interview subject as Sir Paul Trinder). Treat as a continuity constraint `Pages/cains_jawbone_page_52.md ↔ Pages/cains_jawbone_page_53.md`; see `Order/hypotheses.md` constraints inventory.
   - MAYBE: Pages/cains_jawbone_page_57.md overlaps via Westphalian ham + paper-reading, but keep it separate unless it gains a second distinctive interview mechanic (door/papers/interview framing) that supports adding it to this cluster.
-  - MAYBE: same-voice echo with Pages/cains_jawbone_page_34.md via shared “innocent child” phrasing + “ironic” framing (voice evidence only; do not assume adjacency between the debts vignette and this interview run).
+  - CERTAIN: links strongly with Pages/cains_jawbone_page_34.md via the unique phrase echo “had ever been an innocent child” + shared “ironic” framing; treat as a continuity constraint `Pages/cains_jawbone_page_34.md ↔ Pages/cains_jawbone_page_52.md` (see `Order/hypotheses.md` constraints inventory; do not assume adjacency).
 - **Disconfirming evidence:**
   - Pages/cains_jawbone_page_53.md’s Sir Paul Trinder meeting is shown to be a different narrator/setting from this interview scene.
   - Pages/cains_jawbone_page_57.md is later anchored to a different voice (ham/papers coincidence).

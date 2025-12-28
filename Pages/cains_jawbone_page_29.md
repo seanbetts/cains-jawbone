@@ -55,6 +55,7 @@ LIKELY WORDPLAY
   - LIKELY: linked with Pages/cains_jawbone_page_6.md via unique “spare-room/spareroom” house-setting anchor (direction TBD).
   - CERTAIN: links strongly with Pages/cains_jawbone_page_36.md (ordeal-bean/physostigma thread: “discarded my useless physostigma” ↔ “old Calabar… should fail me”; treat as a continuity constraint `Pages/cains_jawbone_page_29.md ↔ Pages/cains_jawbone_page_36.md`; see `Order/hypotheses.md` constraints inventory).
   - CERTAIN: links strongly with Pages/cains_jawbone_page_35.md via the unique phrase-level echo (“drawing towards a close” + “one never knew”); treat as a continuity constraint `Pages/cains_jawbone_page_29.md ↔ Pages/cains_jawbone_page_35.md` (direction TBD; see `Order/hypotheses.md` constraints inventory).
+  - MAYBE: cross-narrator overlap candidate with Pages/cains_jawbone_page_96.md via the shared aside phrase “if I may be permitted the expression” (unique to these two page bodies); treat as a cross-narrator candidate `Pages/cains_jawbone_page_29.md ↔ Pages/cains_jawbone_page_96.md` (`N12` ↔ `N09`) pending a second anchor.
   - MAYBE: links to the mineralogy thread (Pages/cains_jawbone_page_9.md) via “old mineralogist”.
 - **Disconfirming evidence:**
   - If the plant list is later shown to be harmless gardening chatter with no victimization.

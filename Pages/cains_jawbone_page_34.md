@@ -13,7 +13,7 @@ It was a petty employ for one of my reputation ; you would not hear, I felt, muc
   - Physical tell for the man: “throat… full of jelly” / “quag” speech.
 - **Clustering hypotheses:**
   - CERTAIN: links strongly with Pages/cains_jawbone_page_33.md within the `N25` debts/bills vignette (“I always pay my debts” ↔ “Bills should always be met squarely” + covert manipulation register). Treat as a continuity constraint `Pages/cains_jawbone_page_33.md ↔ Pages/cains_jawbone_page_34.md`; see `Order/hypotheses.md` constraints inventory.
-  - LIKELY: same-voice link to Pages/cains_jawbone_page_52.md in the `N25` strand via shared “innocent child” phrasing + “ironic” framing (treated as voice evidence, not a sequence claim; corpus scan found no other “innocent child” instances).
+  - CERTAIN: links strongly with Pages/cains_jawbone_page_52.md via the unique phrase echo “had ever been an innocent child” + shared “ironic” framing; treat as a continuity constraint `Pages/cains_jawbone_page_34.md ↔ Pages/cains_jawbone_page_52.md` (see `Order/hypotheses.md` constraints inventory; do not assume adjacency).
 - **Disconfirming evidence:**
   - If the “bills” language is purely proverbial with no continuity in other pages.
   - If the “innocent child” phrasing is identified as a detachable quotation reused elsewhere (or a third instance appears under a clearly different voice), weakening it as same-voice evidence.

@@ -47,6 +47,9 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
 - **Constraint:** Pages/cains_jawbone_page_33.md ↔ Pages/cains_jawbone_page_34.md (confidence: `CERTAIN`)
   - **Anchor:** debts/bills hinge: Page 33’s “I always pay my debts” label + covert observation (“behind the armchair”) matches Page 34’s “Bills should always be met squarely” + “petty employ / play one tool against another” coercion beat (unique in the corpus).
   - **Falsifier:** another page is found carrying the same debts/bills + covert-manipulation bundle in a tighter match, or the two scenes’ participants/setting are later shown to be incompatible.
+- **Constraint:** Pages/cains_jawbone_page_34.md ↔ Pages/cains_jawbone_page_52.md (confidence: `CERTAIN`)
+  - **Anchor:** same-voice phrase echo: Page 34’s “had ever been an innocent child…” musing (with explicit “ironic comment”) is repeated only on Page 52 (“it seemed incredible that I had ever been an innocent child…”, with “commentary, ironic perhaps”) in the same reflective crime-register.
+  - **Falsifier:** only if the “innocent child” phrasing is identified as a detachable quotation reused elsewhere (or a third page is found containing the same phrase), or later evidence anchors Pages/cains_jawbone_page_34.md and Pages/cains_jawbone_page_52.md to incompatible narrators/settings.
 - **Constraint:** Pages/cains_jawbone_page_52.md ↔ Pages/cains_jawbone_page_53.md (confidence: `CERTAIN`)
   - **Anchor:** single interview episode: Page 52’s “door opened and shut… sit down… papers… interview” setup aligns with Page 53’s “introduced to me” beat identifying the subject as Sir Paul Trinder, in the same mind-movement metaphor voice (“mind’s feet” ↔ “mind… ambling”).
   - **Falsifier:** Page 53’s Trinder meeting is later anchored to an incompatible narrator/setting (making the shared “introduced/interview” mechanics coincidental).
@@ -137,6 +140,9 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
 - **Candidate:** Pages/cains_jawbone_page_12.md ↔ Pages/cains_jawbone_page_75.md (`N10` ↔ `N06`) (confidence: `MAYBE`)
   - **Anchor:** unique shared “searchlights” eye-metaphor over documents/writing: Page 12’s “small topaz searchlights” bent over “documents” and Page 75’s “strong searchlights of my eyes” turned on “orange tinted documents”; in page bodies, “searchlights” and “documents” occur only on these two pages.
   - **Falsifier:** “searchlights” or the documents-reading eye-metaphor is found elsewhere in the page bodies (making this a generic image), or the pages’ voice/scene anchors are shown to be incompatible beyond a shared metaphor.
+- **Candidate:** Pages/cains_jawbone_page_29.md ↔ Pages/cains_jawbone_page_96.md (`N12` ↔ `N09`) (confidence: `MAYBE`)
+  - **Anchor:** shared aside phrase: “if I may be permitted the expression” appears only on these two pages, each time as a self-conscious idiom/phrase marker.
+  - **Falsifier:** the phrase is found elsewhere in the page bodies (making it a generic tic), or additional voice/scene anchors show the two uses are unrelated coincidence.
 
 ### Candidate low-confidence locks already noted in page notes
 
@@ -182,6 +188,7 @@ Directionless mapping from each constraint pair to narrator IDs (useful for cros
 - Pages/cains_jawbone_page_29.md ↔ Pages/cains_jawbone_page_36.md — Narrator(s): N12 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_29.md ↔ Pages/cains_jawbone_page_35.md — Narrator(s): N12 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_33.md ↔ Pages/cains_jawbone_page_34.md — Narrator(s): N25 (confidence: `CERTAIN`)
+- Pages/cains_jawbone_page_34.md ↔ Pages/cains_jawbone_page_52.md — Narrator(s): N25 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_35.md ↔ Pages/cains_jawbone_page_77.md — Narrator(s): N12 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_36.md ↔ Pages/cains_jawbone_page_59.md — Narrator(s): N12 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_39.md ↔ Pages/cains_jawbone_page_88.md — Narrator(s): N02 (confidence: `CERTAIN`)
