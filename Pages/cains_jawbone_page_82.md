@@ -54,8 +54,9 @@ LIKELY WORDPLAY
   - Mental/physical pressure imagery (“great asses of mice… pressing down on my head”).
 - **Voice/tells:**
   - Disoriented (“forgot why I was… staring”); guilt/weight-of-certainty framing.
-- **Ordering hypotheses:**
-  - MAYBE: could follow Pages/cains_jawbone_page_85.md within `N08` as a post-business table comedown (p85 ends with table concealment + resolution; here the narrator is again table-bound with “cold weight of my certainty” after witnessing “carnal, bloody and unnatural acts”).
+- **Clustering hypotheses:**
+  - CERTAIN: `N08` King narrator cluster (Henry in-scene; cryptic/anagram play; table + tea + dog framing).
+  - MAYBE: shares a table-bound comedown register with Pages/cains_jawbone_page_85.md (table scene; dog present; “weary business ended” ↔ “staring at the table”); treat as a Phase 4 adjacency candidate only if a second prop/phrase hook appears.
 - **Disconfirming evidence:**
   - If Henry/dog/setting here is clearly incompatible with Pages/cains_jawbone_page_85.md, or a stronger anchor places this page in a different narrator cluster.
 - **Research needed:**

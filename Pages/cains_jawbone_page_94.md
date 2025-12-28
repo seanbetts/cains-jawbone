@@ -19,8 +19,9 @@ Naturally I looked up. And I tell you I found it awe-inspiring enough to actuall
   - LIKELY: “the darbs” = slang “a darb” (“a fine thing/person”): cf. “You’re a darb” (Hammett, *The Dain Curse*, Page:Dashiell_Hammett_-_The_Dain_Curse.pdf/241) and “I’ve got some darbs” (Hemingway, *The Sun Also Rises*, Page:The_sun_also_rises_-_Hemingway,_Ernest,_1899-1961.pdf/111).
 - **Voice/tells:**
   - Self-conscious embarrassment (blush at seeing name) + impatience with children.
-- **Ordering hypotheses:**
-  - LIKELY: precedes Pages/cains_jawbone_page_85.md (Henry is “waiting for me” here; p85 then “drove Henry home, and left him”).
+- **Clustering hypotheses:**
+  - CERTAIN: `N08` King narrator cluster (name in the window-sign; Yeats allusion; Henry in-scene; self-conscious narrator voice).
+  - LIKELY: strong continuity hook with Pages/cains_jawbone_page_85.md via Henry (“Henry was waiting for me” ↔ “I drove Henry home”) plus the shared narrator-name tell; treat as a Phase 4 adjacency candidate.
 - **Disconfirming evidence:**
   - If the “name in the window” is not the narrator’s own but a place/sign misread.
 - **Research needed:**

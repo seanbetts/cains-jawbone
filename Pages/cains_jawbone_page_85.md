@@ -39,9 +39,10 @@ LIKELY WORDPLAY
   - Resolution/relief (“all the weary business was ended”).
 - **Voice/tells:**
   - Self-referential about name-jibes; detective/allusion density; calm after stress.
-- **Ordering hypotheses:**
-  - LIKELY: follows Pages/cains_jawbone_page_94.md (p94 ends “Henry was waiting for me”; here the narrator then “drove Henry home, and left him”).
-  - MAYBE: precedes Pages/cains_jawbone_page_82.md as the “weary business” resolution + table-concealment scene that Page 82’s table-staring comedown could echo (treat as tentative until a shared prop/phrase appears).
+- **Clustering hypotheses:**
+  - CERTAIN: `N08` King narrator cluster (Kipling name-jibe; detective allusions; Henry in-scene; table framing).
+  - LIKELY: strong continuity hook with Pages/cains_jawbone_page_94.md via Henry (“Henry was waiting for me” ↔ “I drove Henry home”) plus the narrator-name tell (window-sign ↔ Kipling/KING wordplay); treat as a Phase 4 adjacency candidate.
+  - MAYBE: continuity hook with Pages/cains_jawbone_page_82.md via the table + dog + post-stress comedown register; treat as overlap unless reinforced by a second shared prop/phrase beyond “table” + “dog”.
 - **Disconfirming evidence:**
   - If Pages/cains_jawbone_page_82.md is later anchored to a different narrator/setting (overlap only, no adjacency).
 - **Research needed:**
