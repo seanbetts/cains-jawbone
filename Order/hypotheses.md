@@ -143,6 +143,10 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
 - **Candidate:** Pages/cains_jawbone_page_12.md ↔ Pages/cains_jawbone_page_75.md (`N10` ↔ `N06`) (confidence: `MAYBE`)
   - **Anchor:** unique shared “searchlights” eye-metaphor over documents/writing: Page 12’s “small topaz searchlights” bent over “documents” and Page 75’s “strong searchlights of my eyes” turned on “orange tinted documents”; in page bodies, “searchlights” and “documents” occur only on these two pages.
   - **Falsifier:** “searchlights” or the documents-reading eye-metaphor is found elsewhere in the page bodies (making this a generic image), or the pages’ voice/scene anchors are shown to be incompatible beyond a shared metaphor.
+- **Candidate:** Pages/cains_jawbone_page_66.md ↔ Pages/cains_jawbone_page_73.md (`N05` ↔ `N06`) (confidence: `MAYBE`)
+  - **Anchor:** exact phrase “I remembered the place of my initiation” appears only on these two pages, and each immediately leads into a mid-sentence “hung round with …” set-piece (school hall ↔ Marseille secret rooms), suggesting a deliberate self-echo and possible shared narrator/cluster.
+  - **Corroboration:** “the Head, as we called him” appears only on Pages/cains_jawbone_page_66.md + Pages/cains_jawbone_page_67.md + Pages/cains_jawbone_page_74.md, bridging the same two narrator clusters.
+  - **Falsifier:** the “initiation” phrase is found elsewhere, or additional voice/scene anchors force `N05` and `N06` to be incompatible (distinct named self-identity, timeline, or setting constraints).
 - **Candidate:** Pages/cains_jawbone_page_29.md ↔ Pages/cains_jawbone_page_96.md (`N12` ↔ `N09`) (confidence: `MAYBE`)
   - **Anchor:** shared aside phrase: “if I may be permitted the expression” appears only on these two pages, each time as a self-conscious idiom/phrase marker.
   - **Falsifier:** the phrase is found elsewhere in the page bodies (making it a generic tic), or additional voice/scene anchors show the two uses are unrelated coincidence.

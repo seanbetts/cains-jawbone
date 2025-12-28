@@ -22,6 +22,7 @@ the darker works of Beardsley and Felicien Rops, and ringing with the gloat curs
   - Highly allusive, punning, self-aware about “celebration” as a specialty.
 - **Clustering hypotheses:**
   - CERTAIN: links strongly with Pages/cains_jawbone_page_66.md (direct sentence continuation).
+  - MAYBE: overlap with Pages/cains_jawbone_page_74.md via the shared “the Head, as we called him” phrasing (see `Order/hypotheses.md`); supports a possible `N05`↔`N06` merge candidate.
 - **Disconfirming evidence:**
   - If “Palos”/Columbus is shown to be metaphorical rather than a date anchor (still likely a calendar pointer).
 - **Research needed:**

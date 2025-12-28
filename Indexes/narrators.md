@@ -54,7 +54,7 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_66.md, Pages/cains_jawbone_page_67.md
   - **Confidence:** `CERTAIN`
   - **Disconfirming evidence:** only if the 66→67 sentence continuation is later shown to be a transcription artifact (unlikely given page integrity checks).
-  - **Notes:** Tightened to exclude Pages/cains_jawbone_page_68.md (now treated under `N09`) unless school-specific anchors recur there. Pages/cains_jawbone_page_74.md also references “the Head”; keep as possible overlap with `N06` until disentangled.
+  - **Notes:** Tightened to exclude Pages/cains_jawbone_page_68.md (now treated under `N09`) unless school-specific anchors recur there. Pages/cains_jawbone_page_74.md repeats “the Head, as we called him”, and Pages/cains_jawbone_page_73.md repeats the exact phrase “I remembered the place of my initiation” used on Pages/cains_jawbone_page_66.md → treat `N05`↔`N06` as a merge candidate, but do not merge without another shared, non-school anchor.
 
 - `N06` — Orator/artist + flowers/documents/OGPU voice:
   - **Signature tells:** performative rhetoric (“orator’s joys”); art-identity clue (Augustus John); French poetry; sensual “initiation” memory; secrecy/blackmail register; OGPU/Leningrad mention; failing eyesight; flower/rose fixation; Browning allusions.
@@ -62,7 +62,7 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_71.md, Pages/cains_jawbone_page_73.md, Pages/cains_jawbone_page_74.md, Pages/cains_jawbone_page_75.md, Pages/cains_jawbone_page_83.md
   - **Confidence:** `LIKELY`
   - **Disconfirming evidence:** if Pages/cains_jawbone_page_71.md’s May/eyes thread is shown to be a different narrator from the flower/documents segment (73–75/83), or if Pages/cains_jawbone_page_83.md’s flower thread is shown to be a different setting/voice than the 73/74/75 segment.
-  - **Notes:** Pages/cains_jawbone_page_71.md is the weakest fit here (lacks the OGPU/documents/old-man anchors), but its “red May” + explicit eye/vision stress (hit in the eye) matches `N06`’s May/flower register and eyesight weakness, and its “religious fellow’s head drapery” reads like a botanical definition (monk’s hood → monkshood/aconite) consistent with the flower/plant fixation. This cluster may intersect `N05` via “the Head” reference; do not merge without additional shared tells beyond that single anchor.
+  - **Notes:** Pages/cains_jawbone_page_71.md is the weakest fit here (lacks the OGPU/documents/old-man anchors), but its “red May” + explicit eye/vision stress (hit in the eye) matches `N06`’s May/flower register and eyesight weakness, and its “religious fellow’s head drapery” reads like a botanical definition (monk’s hood → monkshood/aconite) consistent with the flower/plant fixation. This cluster may intersect `N05` via two phrase-level echoes: “the Head, as we called him” (Pages/cains_jawbone_page_74.md ↔ Pages/cains_jawbone_page_66.md/Pages/cains_jawbone_page_67.md) and “I remembered the place of my initiation” (Pages/cains_jawbone_page_73.md ↔ Pages/cains_jawbone_page_66.md); do not merge without another shared, non-school anchor.
 
 - `N07` — Bunny & Perry (Pro/Con) internal debate voice:
   - **Signature tells:** internal argument personified (“Bunny and Perry… Pro and Con”); tennis/rowing venue shifts; pill-taking; dense quotation-and-allusion weaving; nausea + “a thing I had never done before” framing.
