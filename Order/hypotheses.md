@@ -44,9 +44,9 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
 - **Constraint:** Pages/cains_jawbone_page_13.md ↔ Pages/cains_jawbone_page_31.md (confidence: `CERTAIN`)
   - **Anchor:** unique Grantham marker: the “conduit dating from 1597” in the market place (Page 13) is the only explicit location anchor for Page 31’s “in this very place… reckon with Henry” escalation.
   - **Falsifier:** only if “in this very place” is later anchored to a different location than Grantham, or another page is found containing the same conduit/1597 market-place marker in a tighter continuity fit.
-- **Constraint:** Pages/cains_jawbone_page_24.md ↔ Pages/cains_jawbone_page_30.md (confidence: `LIKELY`)
-  - **Anchor:** suspicion test (“try her out… Can she be guilty?”) ↔ “Next day… my suspicions of Caroline had been well-founded.”
-  - **Falsifier:** “Caroline” is shown to be a different person from the suspected “she” on Page 30, making “Next day” refer to a different prior event.
+- **Constraint:** Pages/cains_jawbone_page_24.md ↔ Pages/cains_jawbone_page_30.md (confidence: `CERTAIN`)
+  - **Anchor:** unique suspicion-resolution hinge: Page 30’s “try her out… Can she be guilty?” is the only such “Can she be guilty?” test in the corpus, and Page 24 explicitly opens “Next day… my suspicions of Caroline had been well-founded.”
+  - **Falsifier:** only if “Caroline” is shown to be a different person from the suspected “she” on Page 30, making “Next day” refer to a different prior event.
 - **Constraint:** Pages/cains_jawbone_page_28.md ↔ Pages/cains_jawbone_page_50.md (confidence: `LIKELY`)
   - **Anchor:** will/forgery operational scene (“woman not yet dead” ↔ “hurting the girl”) + “The will was there… caseful of strange pens” + shared *Importance of Being Earnest* quotation layer.
   - **Falsifier:** “forging/hurting” is later shown to be metaphorical (not document harm), or the target woman/girl is clearly different across the two pages.
@@ -169,7 +169,7 @@ Directionless mapping from each constraint pair to narrator IDs (useful for cros
 - Pages/cains_jawbone_page_21.md ↔ Pages/cains_jawbone_page_36.md — Narrator(s): N12 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_22.md ↔ Pages/cains_jawbone_page_79.md — Narrator(s): N02 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_23.md ↔ Pages/cains_jawbone_page_24.md — Narrator(s): N40 ↔ N03 (confidence: `CERTAIN`)
-- Pages/cains_jawbone_page_24.md ↔ Pages/cains_jawbone_page_30.md — Narrator(s): N03 (confidence: `LIKELY`)
+- Pages/cains_jawbone_page_24.md ↔ Pages/cains_jawbone_page_30.md — Narrator(s): N03 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_26.md ↔ Pages/cains_jawbone_page_44.md — Narrator(s): N16 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_26.md ↔ Pages/cains_jawbone_page_45.md — Narrator(s): N16 (confidence: `LIKELY`)
 - Pages/cains_jawbone_page_28.md ↔ Pages/cains_jawbone_page_50.md — Narrator(s): N39 (confidence: `LIKELY`)
