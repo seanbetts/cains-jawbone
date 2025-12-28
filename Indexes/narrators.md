@@ -59,10 +59,10 @@ Template:
 - `N06` — Orator/artist + flowers/documents/OGPU voice:
   - **Signature tells:** performative rhetoric (“orator’s joys”); art-identity clue (Augustus John); French poetry; sensual “initiation” memory; secrecy/blackmail register; OGPU/Leningrad mention; failing eyesight; flower/rose fixation; Browning allusions.
   - **Likely identity (if any):** educated, cosmopolitan narrator with art/theatre leanings.
-  - **Pages:** Pages/cains_jawbone_page_73.md, Pages/cains_jawbone_page_74.md, Pages/cains_jawbone_page_75.md, Pages/cains_jawbone_page_83.md, Pages/cains_jawbone_page_71.md (MAYBE extension)
+  - **Pages:** Pages/cains_jawbone_page_71.md, Pages/cains_jawbone_page_73.md, Pages/cains_jawbone_page_74.md, Pages/cains_jawbone_page_75.md, Pages/cains_jawbone_page_83.md
   - **Confidence:** `LIKELY`
   - **Disconfirming evidence:** if Pages/cains_jawbone_page_71.md’s May/eyes thread is shown to be a different narrator from the flower/documents segment (73–75/83), or if Pages/cains_jawbone_page_83.md’s flower thread is shown to be a different setting/voice than the 73→74→75 segment.
-  - **Notes:** Pages/cains_jawbone_page_71.md is a `MAYBE` extension keyed by “red May” + eye/vision stress (hit in the eye), with an additional low-signal inheritance/*Hamlet* echo to Pages/cains_jawbone_page_73.md. This cluster may intersect `N05` via “the Head” reference; do not merge without additional shared tells beyond that single anchor.
+  - **Notes:** Pages/cains_jawbone_page_71.md is the weakest fit here (lacks the OGPU/documents/old-man anchors), but its “red May” + explicit eye/vision stress (hit in the eye) matches `N06`’s May/flower register and eyesight weakness, and its “religious fellow’s head drapery” reads like a botanical definition (monk’s hood → monkshood/aconite) consistent with the flower/plant fixation. This cluster may intersect `N05` via “the Head” reference; do not merge without additional shared tells beyond that single anchor.
 
 - `N07` — Bunny & Perry (Pro/Con) internal debate voice:
   - **Signature tells:** internal argument personified (“Bunny and Perry… Pro and Con”); tennis/rowing venue shifts; pill-taking; dense quotation-and-allusion weaving; nausea + “a thing I had never done before” framing.
