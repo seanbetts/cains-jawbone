@@ -13,12 +13,12 @@ The girl had left Henry by this time, thank God. She was an obvious whey-face. S
   - Accent/heredity: “An accent was a terrible thing”; “something in heredity”.
   - Physical tell: Hodge has a “wen” and scratches “left whisker”.
   - CERTAIN: `P33` Hodge appears only here and Pages/cains_jawbone_page_44.md; treat as a continuity constraint `Pages/cains_jawbone_page_26.md ↔ Pages/cains_jawbone_page_44.md` (see `Order/hypotheses.md` constraints inventory).
-  - LIKELY: phrase echo to Pages/cains_jawbone_page_45.md (“The girl had left Henry…” ↔ “The girl was no longer there.”); treat as a thread lock `Pages/cains_jawbone_page_26.md ↔ Pages/cains_jawbone_page_45.md` (direction TBD in Phase 4; see `Order/hypotheses.md` constraints inventory).
+  - CERTAIN: unique phrase echo to Pages/cains_jawbone_page_45.md (“The girl had left Henry…” ↔ “The girl was no longer there.”); treat as a thread lock `Pages/cains_jawbone_page_26.md ↔ Pages/cains_jawbone_page_45.md` (direction TBD in Phase 4; see `Order/hypotheses.md` constraints inventory).
 - **Voice/tells:**
   - Darkly amused, judgemental (“whey-face”); punning on “killing time”.
   - “bee with a sore bonnet” reads like a “foreign touch”/malapropism of the idiom “bear with a sore head” (Kipling, *The Light That Failed*, Ch. 12: https://en.wikisource.org/wiki/The_Light_That_Failed/Chapter_12).
 - **Clustering hypotheses:**
-  - LIKELY: `N16` Henry/Hodge thread; anchored by the `P33` Hodge lock to Pages/cains_jawbone_page_44.md and the “The girl…” echo to Pages/cains_jawbone_page_45.md (resolve direction in Phase 4).
+  - CERTAIN: `N16` Henry/Hodge thread; anchored by the `P33` Hodge lock to Pages/cains_jawbone_page_44.md and the unique “The girl…” echo to Pages/cains_jawbone_page_45.md (resolve direction in Phase 4).
   - MAYBE: overlaps with Pages/cains_jawbone_page_58.md via the “Henry” murder-count numbering (“first two killings” ↔ “third/fourth”), but treat Henry identity as high-noise across the corpus and keep this as a cross-narrator candidate until corroborated by a second non-name anchor (see `Order/hypotheses.md` candidate cross-narrator overlap).
 - **Disconfirming evidence:**
   - If later context shows “killings” is figurative (e.g., stage/role talk) rather than literal murder.

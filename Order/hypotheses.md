@@ -116,9 +116,9 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
 - **Constraint:** Pages/cains_jawbone_page_26.md ↔ Pages/cains_jawbone_page_44.md (confidence: `CERTAIN`)
   - **Anchor:** `P33` Hodge appears only on these two pages (distinctive named figure with physical tells), alongside shared Henry-centric framing.
   - **Falsifier:** Hodge is shown to appear elsewhere (or is explicitly different across contexts), making the overlap coincidental rather than a shared figure/scene.
-- **Constraint:** Pages/cains_jawbone_page_26.md ↔ Pages/cains_jawbone_page_45.md (confidence: `LIKELY`)
-  - **Anchor:** rare phrase-level echo: “The girl had left Henry…” ↔ “The girl was no longer there.” (and both pages keep Henry central).
-  - **Falsifier:** the “girl”/Henry references resolve to incompatible casts/contexts, or the phrasing is shown to recur elsewhere as a generic filler line.
+- **Constraint:** Pages/cains_jawbone_page_26.md ↔ Pages/cains_jawbone_page_45.md (confidence: `CERTAIN`)
+  - **Anchor:** unique “girl absent” hinge in a Henry-killings context: Page 26 opens “The girl had left Henry…”, while Page 45 states “The girl was no longer there.”; this exact pairing appears only on these two pages.
+  - **Falsifier:** only if “Henry” and/or “the girl” are later shown to be different referents across the pages (making the match coincidental despite the unique phrasing).
 
 ### Candidate cross-narrator overlap (falsify before treating as a constraint)
 
@@ -171,7 +171,7 @@ Directionless mapping from each constraint pair to narrator IDs (useful for cros
 - Pages/cains_jawbone_page_23.md ↔ Pages/cains_jawbone_page_24.md — Narrator(s): N40 ↔ N03 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_24.md ↔ Pages/cains_jawbone_page_30.md — Narrator(s): N03 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_26.md ↔ Pages/cains_jawbone_page_44.md — Narrator(s): N16 (confidence: `CERTAIN`)
-- Pages/cains_jawbone_page_26.md ↔ Pages/cains_jawbone_page_45.md — Narrator(s): N16 (confidence: `LIKELY`)
+- Pages/cains_jawbone_page_26.md ↔ Pages/cains_jawbone_page_45.md — Narrator(s): N16 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_28.md ↔ Pages/cains_jawbone_page_50.md — Narrator(s): N39 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_29.md ↔ Pages/cains_jawbone_page_36.md — Narrator(s): N12 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_33.md ↔ Pages/cains_jawbone_page_34.md — Narrator(s): N25 (confidence: `CERTAIN`)
