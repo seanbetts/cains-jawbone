@@ -171,10 +171,10 @@ Template:
 - `N20` — Bloomsbury/nomenclature + grim-scene voice:
   - **Signature tells:** self-conscious class register (“Bloomsbury”); fixation on naming/nomenclature and soundalike jokes (e.g., classical name soundalikes); familiarity with bodies/corpses and threat/weapon cues.
   - **Likely identity (if any):** unknown.
-  - **Pages:** Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_31.md, Pages/cains_jawbone_page_49.md (MAYBE extension)
+  - **Pages:** Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_31.md, Pages/cains_jawbone_page_49.md
   - **Confidence:** `LIKELY`
   - **Disconfirming evidence:** the “nomenclature” focus and grim-scene familiarity are shown to belong to separate narrators with incompatible backstory (e.g., Paris night vs Grantham corpse scene).
-  - **Notes:** Grantham is a high-signal location anchor on Pages/cains_jawbone_page_13.md (1597 market-place conduit), which likely pins Pages/cains_jawbone_page_31.md’s “this very place” in the same incident; watch for recurrence of “naming business” and pocket/weapon gestures as stronger anchors. Pages/cains_jawbone_page_49.md is a `MAYBE` extension anchored by the direct Blake quotation continuation into Pages/cains_jawbone_page_13.md; treat its “dazed”/“yen for Henry” layer as cross-voice style overlap unless a second N20-specific anchor recurs.
+  - **Notes:** Grantham is a high-signal location anchor on Pages/cains_jawbone_page_13.md (1597 market-place conduit), which likely pins Pages/cains_jawbone_page_31.md’s “this very place” in the same incident; watch for recurrence of “naming business” and pocket/weapon gestures as stronger anchors. Pages/cains_jawbone_page_49.md is treated as core here due to the direct Blake quotation continuation into Pages/cains_jawbone_page_13.md; keep it falsifiable if later evidence shows the quotation is being continued across narrators rather than within one voice.
 
 - `N21` — Dazed infatuation + bar/tea imagery voice:
   - **Signature tells:** dazed, self-referential repetition (“I always…”); sensual fixation on surfaces/eyes/hair; social-table/bar settings with drink/tea naming; quotation-collage (Browning “Saul” + Kipling pre‑Rains verandah line); overt fascination with Henry (and Henry policing diction).
@@ -267,10 +267,10 @@ Template:
 - `N32` — “Type” classifier / gilded metaphors + Wilde-allusion voice:
   - **Signature tells:** competitive reading/interpretation framed as “harvest/gleaning”; fixation on filing/typing people as “types”; recurring gilded/metallised visual metaphors (gold/silver/green leaf); macabre social observation; stitched-in Wilde context (Jack line + Earnest epigram; Whistler-to-Oscar jibe).
   - **Likely identity (if any):** unknown (MAYBE Oscar-adjacent, but treat quotations as voice markers, not identity proof).
-  - **Pages:** Pages/cains_jawbone_page_62.md (MAYBE extension), Pages/cains_jawbone_page_65.md, Pages/cains_jawbone_page_89.md, Pages/cains_jawbone_page_90.md
+  - **Pages:** Pages/cains_jawbone_page_62.md, Pages/cains_jawbone_page_65.md, Pages/cains_jawbone_page_89.md, Pages/cains_jawbone_page_90.md
   - **Confidence:** `LIKELY`
-  - **Disconfirming evidence:** the repeated “learned in a macabre way, even distinguished” type-judgement is shown to be a reused quotation across multiple narrators, Pages 89–90’s dining/hunting vignette is later anchored to a clearly different narrator from Page 65’s reading/typing competition, or Page 62’s gold/silver dissociation proves to be an unrelated one-off metaphor.
-  - **Notes:** Page 62 is a `MAYBE` extension keyed by the gold/silver separation framing + the same moralising, macabre social observation register. MAYBE overlap with other Wilde-quote pages (e.g., Pages/cains_jawbone_page_23.md) if the “type/classification” register recurs.
+  - **Disconfirming evidence:** the repeated “learned in a macabre way, even distinguished” type-judgement is shown to be a reused quotation across multiple narrators, or Pages 62/89’s shared gold/silver separation imagery is shown to be generic scene dressing rather than a stable voice tell.
+  - **Notes:** Pages/cains_jawbone_page_62.md is now treated as core due to the repeated gold/silver separation register (compare Pages/cains_jawbone_page_89.md “gold… cleared out… remaining silver…”); keep it falsifiable if a better fit emerges. MAYBE overlap with other Wilde-quote pages (e.g., Pages/cains_jawbone_page_23.md) if the “type/classification” register recurs.
 
 - `N33` — Medehamstede / Pasquier claret + short-story meta voice:
   - **Signature tells:** reflective travel pause (“alone at last”); claret as a quick medicinal correction; Paris anchor (Rue de la Harpe); meta-fictional stance on short stories/embraces/plot and “complete novel” magazine framing.
