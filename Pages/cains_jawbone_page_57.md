@@ -6,10 +6,11 @@ It seemed from what I heard that Felton’s meat had been delivered at Brookesle
   - LIKELY: “Felton” alludes to John Felton (1595?–1628), assassin of the Duke of Buckingham (DNB): https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Felton,_John_(1595%3F-1628).
   - MAYBE: “Felton’s meat” is wordplay on Buckingham/Villiers as the victim (“meat”) rather than a literal meat supplier.
   - CERTAIN: Brookesley Hall (Leicestershire) as a Villiers family seat: https://en.wikisource.org/wiki/Notes_on_the_Anti-Corn_Law_Struggle/Chapter_3.
-  - MAYBE: Ben; “Ben’s friend” (referenced via timing comparison).
+  - LIKELY: Ben = Ben Jonson; “Ben’s friend” = Robert Herrick (the quoted epitaph author; one of the “Sons of Ben”).
   - MAYBE: companion “he” (reads “bits of paper” aloud).
 - **Time markers:**
   - CERTAIN: “for the first time that day”; “just then”.
+  - MAYBE: daybook-style “in point of time” pairing between the Felton/Brookesley allusion and the Herrick quotation (“Ben’s friend”); pinning the intended date-of-year would help place this page within the `N02` timeline.
 - **Places:**
   - CERTAIN: South Africa (as destination of a “boat”).
   - MAYBE: Amazon; Nagpur.
@@ -34,3 +35,4 @@ It seemed from what I heard that Felton’s meat had been delivered at Brookesle
   - If the narrator is later shown in an unequivocally human-only physical situation incompatible with dog POV (not idiom/metaphor).
 - **Research needed:**
   - MAYBE: If a specific voyage/date matters, find a period sailing notice for the Union-Castle mail steamer “Armadale Castle” (current anchor: built 1903).
+  - MAYBE: Confirm which date-of-year is intended by the Felton/Brookesley + Herrick (“Ben’s friend”) pairing.
