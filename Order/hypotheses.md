@@ -116,6 +116,9 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
 - **Constraint:** Pages/cains_jawbone_page_4.md ↔ Pages/cains_jawbone_page_100.md (confidence: `MAYBE`)
   - **Anchor:** the word “buttonhole” appears only on these two page bodies (purchase of “day’s buttonhole” ↔ “buttonhole has escaped from the buttonholer”).
   - **Falsifier:** “buttonhole” appears in a third page body, or later evidence pins the two scenes to incompatible narrators/settings (making this a generic flower/clothing motif reuse).
+- **Constraint:** Pages/cains_jawbone_page_4.md ↔ Pages/cains_jawbone_page_21.md (confidence: `MAYBE`)
+  - **Anchor:** page-body unique 4‑gram “my wits about me” appears only on these two pages (p4: “have my wits about me” ↔ p21: “keep my wits about me”).
+  - **Falsifier:** “my wits about me” appears in a third page body, or later evidence anchors the two scenes to incompatible narrators/settings (making this a generic idiom reuse).
 - **Constraint:** Pages/cains_jawbone_page_5.md ↔ Pages/cains_jawbone_page_58.md (confidence: `CERTAIN`)
   - **Anchor:** page-body unique “went on … Browning” complaint while Henry’s serial-killing beat proceeds (“He went on about Browning.” ↔ “He went on talking about Browning.”), reinforced by the adjacent-count logic (`p58`’s “cooling remains of his fourth” ↔ `p5`’s “intended fifth”).
   - **Falsifier:** a third page-body instance of the same “went on … Browning” phrasing appears, or later evidence shows the Henry-count language is not comparable across the two scenes (different “fourth/fifth” referents) and the Browning‑talking bystanders/contexts are incompatible.
@@ -225,8 +228,9 @@ _None currently._
 
 Directionless mapping from each constraint pair to narrator IDs (useful for cross-narrator joins).
 
-- **Cross-narrator constraints (current):** Pages/cains_jawbone_page_12.md ↔ Pages/cains_jawbone_page_75.md (`N10` ↔ `N06`); Pages/cains_jawbone_page_23.md ↔ Pages/cains_jawbone_page_24.md (`N40` ↔ `N03`); Pages/cains_jawbone_page_4.md ↔ Pages/cains_jawbone_page_100.md (`N19` ↔ `N24`).
+- **Cross-narrator constraints (current):** Pages/cains_jawbone_page_12.md ↔ Pages/cains_jawbone_page_75.md (`N10` ↔ `N06`); Pages/cains_jawbone_page_23.md ↔ Pages/cains_jawbone_page_24.md (`N40` ↔ `N03`); Pages/cains_jawbone_page_4.md ↔ Pages/cains_jawbone_page_100.md (`N19` ↔ `N24`); Pages/cains_jawbone_page_4.md ↔ Pages/cains_jawbone_page_21.md (`N19` ↔ `N12`).
 - Pages/cains_jawbone_page_4.md ↔ Pages/cains_jawbone_page_100.md — Narrator(s): N19 ↔ N24 (confidence: `MAYBE`)
+- Pages/cains_jawbone_page_4.md ↔ Pages/cains_jawbone_page_21.md — Narrator(s): N19 ↔ N12 (confidence: `MAYBE`)
 - Pages/cains_jawbone_page_5.md ↔ Pages/cains_jawbone_page_58.md — Narrator(s): N19 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_6.md ↔ Pages/cains_jawbone_page_29.md — Narrator(s): N12 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_6.md ↔ Pages/cains_jawbone_page_21.md — Narrator(s): N12 (confidence: `CERTAIN`)

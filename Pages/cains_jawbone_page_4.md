@@ -38,6 +38,7 @@ LIKELY WORDPLAY
   - MAYBE: coastal cluster with Pages/cains_jawbone_page_1.md and Pages/cains_jawbone_page_5.md (sea/lighthouse imagery + Henry continuity).
   - MAYBE: loose coastal/Henry motif overlap with Pages/cains_jawbone_page_5.md (church/puddles + boy-near-sea vignette ↔ ruined lighthouse scene), but no phrase-level anchor found; treat as non-binding unless a unique shared prop/phrase emerges.
   - MAYBE: shared “buttonhole” word (page-body unique) with Pages/cains_jawbone_page_100.md (“day’s buttonhole” ↔ “buttonhole has escaped from the buttonholer”); treat as a cross-narrator continuity candidate until a second independent anchor emerges (see `Order/hypotheses.md`).
+  - MAYBE: shared page-body 4-gram “my wits about me” with Pages/cains_jawbone_page_21.md (“have my wits about me” ↔ “keep my wits about me”); treat as a cross-narrator phrase echo until reinforced by a second independent anchor (see `Order/hypotheses.md`).
 - **Disconfirming evidence:**
   - If later identifies this as inland/figurative “sea” or Henry differs.
 - **Research needed:**
