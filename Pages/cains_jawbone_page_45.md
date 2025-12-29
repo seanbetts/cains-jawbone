@@ -72,7 +72,7 @@ LIKELY WORDPLAY
   - Proverb-twisting; vivid menu/brand listing; self-described stealth/thievery.
 - **Clustering hypotheses:**
   - CERTAIN: `N16` smell-memory + incinerator-evidence voice; shares unique *Typhoon*/Renard‑Beinsky phrasing with Pages/cains_jawbone_page_7.md and the Henry/witness-evidence + stealth/doors register with Pages/cains_jawbone_page_44.md.
-  - CERTAIN: connects to Pages/cains_jawbone_page_26.md via the unique “The girl…” echo (“The girl was no longer there” ↔ “The girl had left Henry…”); treat as a thread lock `Pages/cains_jawbone_page_26.md ↔ Pages/cains_jawbone_page_45.md` (direction TBD in Phase 4; see `Order/hypotheses.md` constraints inventory).
+  - CERTAIN: connects to Pages/cains_jawbone_page_26.md via the unique “The girl…” echo (“The girl was no longer there” ↔ “The girl had left Henry…”); treat as a thread lock `Pages/cains_jawbone_page_26.md ↔ Pages/cains_jawbone_page_45.md` (direction TBD; see `Order/hypotheses.md`).
   - MAYBE: “led up the garden” phrasing echoes Pages/cains_jawbone_page_29.md; treat as cross-strand motif unless reinforced by a second shared anchor.
 - **Disconfirming evidence:**
   - If the Typhoon/Renard‑Beinsky passage proves to be a detachable quotation layer shared across multiple voices, or if Henry/setting details become incompatible with the `N16` Henry/Hodge/incinerator thread.

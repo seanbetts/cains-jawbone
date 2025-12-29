@@ -16,7 +16,7 @@ For this time being, Henry was drawing towards a close. I was not sorry. The pol
   - Darkly comic, thriller-pastiche tone; treats murder as genre mechanics.
 - **Clustering hypotheses:**
   - MAYBE: shares a general “police pressure/manhunt” motif with Pages/cains_jawbone_page_58.md (official knock ↔ flying squad), but no phrase-level anchor found; treat as non-binding unless a shared identifier emerges.
-  - CERTAIN: links strongly with Pages/cains_jawbone_page_29.md via the unique phrase-level echo (“drawing towards a close” + “one never knew”); treat as a continuity constraint `Pages/cains_jawbone_page_29.md ↔ Pages/cains_jawbone_page_35.md` (direction TBD; see `Order/hypotheses.md` constraints inventory).
+  - CERTAIN: links strongly with Pages/cains_jawbone_page_29.md via the unique phrase-level echo (“drawing towards a close” + “one never knew”); treat as a continuity constraint `Pages/cains_jawbone_page_29.md ↔ Pages/cains_jawbone_page_35.md` (current direction hypothesis: `Pages/cains_jawbone_page_29.md → Pages/cains_jawbone_page_35.md`, confidence: `MAYBE`; see `Order/hypotheses.md`).
   - CERTAIN: links strongly with Pages/cains_jawbone_page_77.md via the unique phrase-level echo “Murders were funny things.” (page-body unique to these two pages); treat as a continuity constraint `Pages/cains_jawbone_page_35.md ↔ Pages/cains_jawbone_page_77.md` (see `Order/hypotheses.md` constraints inventory).
   - MAYBE: Henry narrative escalates from “killings/victim” (Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_26.md) to active manhunt (falsifier: if p35 is an embedded/imagined pursuit scenario).
 - **Disconfirming evidence:**
