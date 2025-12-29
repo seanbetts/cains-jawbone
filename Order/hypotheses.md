@@ -1335,8 +1335,8 @@ Template:
   - **Why:** Immediate continuation: Page 74’s “red rose and the white… remained” → Page 75’s “those two other flowers,” and Page 74’s “them” (secret purchases) → Page 75’s “orange tinted documents,” with matching eyesight-failure emphasis.
   - **Disconfirming evidence:** Only if “those two other flowers” and the “orange tinted documents” are later shown to be unrelated to Page 74’s scene/items (coincidental overlap).
 
-- **Sequence (confidence: MAYBE):** `Pages/cains_jawbone_page_82.md → Pages/cains_jawbone_page_85.md`
-  - **Why:** Both are table scenes with Henry present and a nearby dog; Page 82’s disorientation could precede Page 85’s “weary business… ended” closure.
+- **Sequence (confidence: MAYBE):** `Pages/cains_jawbone_page_85.md → Pages/cains_jawbone_page_82.md`
+  - **Why:** Both are table scenes with Henry present and a nearby dog; Page 85’s “weary business… ended” closure reads like it can precede Page 82’s stationary comedown at a familiar table (“cold weight of my certainty”) after witnessing “carnal, bloody and unnatural acts.”
   - **Disconfirming evidence:** settings or Henry’s role clearly diverge, or another page bridges the continuity.
 
 - **Sequence (confidence: MAYBE):** `Pages/cains_jawbone_page_68.md → Pages/cains_jawbone_page_69.md → Pages/cains_jawbone_page_70.md`
