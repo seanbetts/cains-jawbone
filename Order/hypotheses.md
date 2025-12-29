@@ -865,7 +865,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Key anchors:** “I thought I knew the type”; “learned in a macabre way, even distinguished”; “pigeon-holing by type”; gold/silver visual metaphors (“gold… silver…”; “dissociate… gold… from the silver”); “You will, Oscar, you will.”
   - **Disconfirming evidence:** the repeated “type” judgement is shown to be a reused quotation, the dining/hunting vignette (Pages 89–90) is later anchored to a clearly different narrator from Page 65’s reading/typing competition, or Page 62’s gold/silver dissociation proves to be an unrelated one-off metaphor.
   - **Phase 4 internal ordering hypotheses (N32):**
-    - **Sequence A — mind-absent reading → “type” identified in-scene** (confidence: `LIKELY`)
+    - **Sequence A — mind-absent reading → “type” identified in-scene** (confidence: `CERTAIN`)
       - **Pages (ordered):** Pages/cains_jawbone_page_65.md → Pages/cains_jawbone_page_90.md
       - **Why:**
         - Pages/cains_jawbone_page_65.md explicitly has the narrator’s mind “far away” in reading (“every muscle of my brain was enthralled until I came to the end”), and ends by classifying “the type”.
