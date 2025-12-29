@@ -23,6 +23,7 @@ the darker works of Beardsley and Felicien Rops, and ringing with the gloat curs
 - **Clustering hypotheses:**
   - CERTAIN: links strongly with Pages/cains_jawbone_page_66.md (direct sentence continuation).
   - CERTAIN: links strongly with Pages/cains_jawbone_page_74.md via the page-body unique “the Head, as we called him” phrasing. Treat as a continuity constraint `Pages/cains_jawbone_page_67.md ↔ Pages/cains_jawbone_page_74.md` (see `Order/hypotheses.md` constraints inventory; direction TBD).
+  - MAYBE: Pages/cains_jawbone_page_67.md’s Haslemere (“place of the Whympers”) dawn beat is geographically close to Pages/cains_jawbone_page_73.md’s Midhurst (Sussex) framing; both lean on *Highways and Byways* guidebook texture → possible within-`N06` travel hop (order-only; not a hard adjacency claim).
 - **Disconfirming evidence:**
   - If “Palos”/Columbus is shown to be metaphorical rather than a date anchor (still likely a calendar pointer).
 - **Research needed:**
