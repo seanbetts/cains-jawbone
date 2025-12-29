@@ -56,6 +56,7 @@ LIKELY WORDPLAY
   - Disoriented (“forgot why I was… staring”); guilt/weight-of-certainty framing.
 - **Clustering hypotheses:**
   - CERTAIN: `N08` King narrator cluster (Henry in-scene; cryptic/anagram play; table + tea + dog framing).
+  - LIKELY: linked to Pages/cains_jawbone_page_15.md via Bart ↔ Bartholomew (dog name) at the table; treat as a strong thread lock (directionless) rather than adjacency.
   - MAYBE: shares a table-bound comedown register with Pages/cains_jawbone_page_85.md (table scene; dog present; “weary business ended” ↔ “staring at the table”); treat as a Phase 4 adjacency candidate only if a second prop/phrase hook appears.
 - **Disconfirming evidence:**
   - If Henry/dog/setting here is clearly incompatible with Pages/cains_jawbone_page_85.md, or a stronger anchor places this page in a different narrator cluster.

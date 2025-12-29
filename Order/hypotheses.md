@@ -104,6 +104,9 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
 
 ### Strong thread locks (not necessarily immediate neighbours)
 
+- **Constraint:** Pages/cains_jawbone_page_15.md ↔ Pages/cains_jawbone_page_82.md (confidence: `LIKELY`)
+  - **Anchor:** dog-at-table identity: Page 15’s “Bart chewing at my moccasins” at a familiar table ↔ Page 82’s dog “Bartholomew” pawing ankles at a table; “Bart” reads naturally as a short form for Bartholomew.
+  - **Falsifier:** “Bart” is shown to be human (or a different dog) in Page 15’s scene, or Bartholomew is later anchored to a different household/setting.
 - **Constraint:** Pages/cains_jawbone_page_93.md ↔ Pages/cains_jawbone_page_97.md (confidence: `CERTAIN`)
   - **Anchor:** unique internal-debate bundle: “Bunny and Perry” + “hammer and tongs” (tennis/venue metaphor) appears only on these two pages, alongside shared Cambridge wordplay (“Cambridge week” / “Cambridge or Thermopylae?”).
   - **Falsifier:** only if a third page is found containing “Bunny and Perry” or the same “hammer and tongs” debate bundle, or later evidence anchors the two pages to incompatible narrators/settings.
@@ -1053,23 +1056,24 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
       - **Pages (ordered):** Pages/cains_jawbone_page_94.md → Pages/cains_jawbone_page_85.md
       - **Why:**
         - Pages/cains_jawbone_page_94.md ends with “Henry was waiting for me,” while Pages/cains_jawbone_page_85.md contains the follow-through action “I drove Henry home, and left him.”
+        - Pages/cains_jawbone_page_85.md opens “I was true to time,” reading as an immediate punctuality response to Pages/cains_jawbone_page_94.md’s “Henry was waiting for me.”
         - Both pages share the narrator’s self-consciousness and distractibility in Henry-adjacent scenes (window-sign blush + children interruptions in p94; time/automation + post‑business calm in p85).
       - **Disconfirming evidence:**
         - If “Henry” in Pages/cains_jawbone_page_94.md is shown to be a different figure from the Henry driven home in Pages/cains_jawbone_page_85.md (incompatible roles/setting).
-    - **Sequence B — dog-at-table continuity (tentative)** (confidence: `MAYBE`)
-      - **Pages (ordered):** (MAYBE: Pages/cains_jawbone_page_15.md) → (MAYBE: Pages/cains_jawbone_page_82.md)
+    - **Sequence B — Bart ↔ Bartholomew (dog identity; order-only)** (confidence: `LIKELY`)
+      - **Pages (linked):** Pages/cains_jawbone_page_15.md ↔ Pages/cains_jawbone_page_82.md
       - **Why:**
         - Both pages stage the narrator at a “familiar” table with a dog in close contact (Bart chewing moccasins; Bartholomew pawing ankles), consistent with “Bart” as a short form for Bartholomew.
-        - Pages/cains_jawbone_page_15.md’s explicit clock-wordplay (“coming of age hours” = 21:00) fits the `N08` signature’s time/wordplay habits.
+        - Treat this as an identity/cluster anchor rather than adjacency: it supports a shared household/scene ecology, but does not (by itself) force immediate neighbourhood.
       - **Disconfirming evidence:**
         - “Bart” is later shown not to be the same dog as Bartholomew, or Pages/cains_jawbone_page_15.md’s voice proves incompatible with the King narrator.
     - **Sequence C — table aftermath (tentative)** (confidence: `MAYBE`)
-      - **Pages (ordered):** Pages/cains_jawbone_page_94.md → Pages/cains_jawbone_page_85.md → (MAYBE: Pages/cains_jawbone_page_82.md)
+      - **Pages (ordered):** Pages/cains_jawbone_page_94.md → Pages/cains_jawbone_page_85.md → (MAYBE later, not necessarily adjacent) Pages/cains_jawbone_page_82.md
       - **Why:**
         - Pages/cains_jawbone_page_85.md ends with concealment at a table (“put Henry’s keenness… below the… salt-cellar”) and “weary business” resolution; Pages/cains_jawbone_page_82.md reads like a stationary comedown at a table (Lapsang + dog) with “cold weight of my certainty” after witnessing “carnal, bloody and unnatural acts.”
       - **Disconfirming evidence:**
         - Pages/cains_jawbone_page_82.md’s Henry/dog/table context is later anchored as a different narrator/setting from Pages/cains_jawbone_page_85.md (overlap only, no adjacency).
-  - **Next falsification check:** look for a shared prop/phrase that ties Pages/cains_jawbone_page_82.md to Pages/cains_jawbone_page_85.md (e.g., concealment under a table object, or a repeat of the “certainty/pressure” imagery) before treating the table vignettes as a true run.
+  - **Next falsification check:** unless a second specific prop/phrase ties Pages/cains_jawbone_page_82.md to Pages/cains_jawbone_page_85.md beyond generic “table + dog” (e.g., salt-cellar concealment, Lapsang/biscuit echo, or a repeated “certainty/pressure” clause), keep Pages/cains_jawbone_page_82.md as overlap-only rather than assuming adjacency.
 
 - **Cluster:** `N06` Orator/artist + flowers/documents/OGPU voice (confidence: `CERTAIN`)
   - **Pages:** Pages/cains_jawbone_page_66.md, Pages/cains_jawbone_page_67.md, Pages/cains_jawbone_page_73.md, Pages/cains_jawbone_page_74.md, Pages/cains_jawbone_page_75.md, Pages/cains_jawbone_page_83.md

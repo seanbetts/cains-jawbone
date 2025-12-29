@@ -42,6 +42,7 @@ LIKELY WORDPLAY
 - **Clustering hypotheses:**
   - MAYBE: calendar-anchor motif cluster with other historical-death/daybook pages (e.g. Pages/cains_jawbone_page_8.md).
   - LIKELY: `N08` (King narrator): 21:00 clock pun + table/dog vignette (Bart ↔ Bartholomew) matches `N08`’s cryptic/time obsession profile, even though this page lacks the explicit window-sign/name-jibe anchors seen on Pages/cains_jawbone_page_94.md and Pages/cains_jawbone_page_85.md.
+  - LIKELY: linked to Pages/cains_jawbone_page_82.md via Bart ↔ Bartholomew (dog name) at a table (strong thread lock; not necessarily adjacent).
 - **Disconfirming evidence:**
   - If the John Hewit/Sarah Drew event cannot be tied to a specific date (or is fictionalised).
 - **Research needed:**
