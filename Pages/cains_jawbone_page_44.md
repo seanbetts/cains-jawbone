@@ -21,7 +21,7 @@ I sometimes wish, and I wished then, that I had the gift of telling, or at least
   - CERTAIN: `N16` smell-memory + incinerator-evidence voice (Hodge + first St. Bruno + smell-triggered Vera Cruz memory + incinerator marriage-certificate evidence).
   - CERTAIN: tight in-cluster tie to Pages/cains_jawbone_page_26.md (Hodge appears only on these two pages); treat as a continuity constraint `Pages/cains_jawbone_page_26.md ↔ Pages/cains_jawbone_page_44.md` (see `Order/hypotheses.md` constraints inventory).
   - LIKELY: ties to Pages/cains_jawbone_page_45.md (shared Henry-focused “problem/evidence” framing; likely same episode/strand).
-  - MAYBE: Phase 4 within-`N16` direction: Pages/cains_jawbone_page_26.md → Pages/cains_jawbone_page_44.md (Hodge continuity; p44 reads like the debrief after p26’s scene); see `Order/hypotheses.md`.
+  - LIKELY: Phase 4 within-`N16` direction: Pages/cains_jawbone_page_26.md → Pages/cains_jawbone_page_44.md (Hodge continuity; p26’s Ben Wade “hitherto merely mutely unemployed” reads like a pre-smoking pipe setup before p44’s “first St. Bruno”; p26’s “wen” matches p44’s “sebaceous arrangement”); see `Order/hypotheses.md`.
   - MAYBE: overlaps other burned-paper / will / forgery motifs; keep separate until a second non-generic phrase/participant anchor recurs.
 - **Disconfirming evidence:**
   - If later context shows the “marriage certificate” is metaphorical rather than literal evidence.

@@ -21,7 +21,7 @@ The girl had left Henry by this time, thank God. She was an obvious whey-face. S
   - CERTAIN: `N16` Henry/Hodge thread; anchored by the `P33` Hodge lock to Pages/cains_jawbone_page_44.md and the unique “The girl…” echo to Pages/cains_jawbone_page_45.md (see `Order/hypotheses.md`).
   - MAYBE: shares a Henry murder-count motif with Pages/cains_jawbone_page_58.md (“first two killings” ↔ “third/fourth” victims), but no phrase-level anchor found; treat as non-binding unless a second independent anchor emerges.
   - LIKELY: Phase 4 within-`N16` direction: Pages/cains_jawbone_page_45.md → Pages/cains_jawbone_page_26.md (p45 “The girl was no longer there” ↔ p26 opener “The girl had left Henry by this time”); see `Order/hypotheses.md`.
-  - MAYBE: Phase 4 within-`N16` direction: Pages/cains_jawbone_page_26.md → Pages/cains_jawbone_page_44.md (Hodge continuity + p44 reads like structured “Henry’s problem” debrief after p26’s looser murder-fascination register); see `Order/hypotheses.md`.
+  - LIKELY: Phase 4 within-`N16` direction: Pages/cains_jawbone_page_26.md → Pages/cains_jawbone_page_44.md (Hodge continuity; p26’s Ben Wade “hitherto merely mutely unemployed” reads like an unused pipe before p44’s “first St. Bruno” tobacco; p26’s “wen” matches p44’s “sebaceous arrangement”); see `Order/hypotheses.md`.
 - **Disconfirming evidence:**
   - If later context shows “killings” is figurative (e.g., stage/role talk) rather than literal murder.
 - **Research needed:**

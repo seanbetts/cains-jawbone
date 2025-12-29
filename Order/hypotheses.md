@@ -650,9 +650,11 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - Pages/cains_jawbone_page_7.md ↔ Pages/cains_jawbone_page_45.md is a `CERTAIN` local adjacency (Typhoon/Renard‑Beinsky phrasing).
         - Pages/cains_jawbone_page_45.md’s “The girl was no longer there” is picked up by Pages/cains_jawbone_page_26.md’s opener “The girl had left Henry by this time” (a `CERTAIN` within-`N16` hinge in the constraints inventory), which also keeps the Henry‑killings frame active.
         - Pages/cains_jawbone_page_26.md ↔ Pages/cains_jawbone_page_44.md is a `CERTAIN` Hodge continuity lock (Hodge appears only on these two pages), and Pages/cains_jawbone_page_44.md reads like the structured “Henry’s problem” debrief after the looser murder-fascination/“killing time” register on Pages/cains_jawbone_page_26.md.
+        - Direction cue (supporting): Pages/cains_jawbone_page_26.md’s Ben Wade is “hitherto merely mutely unemployed” (reads like an unused pipe), while Pages/cains_jawbone_page_44.md has Hodge luxuriating in his “first St. Bruno” (pipe tobacco), suggesting the Hodge/pipe setup precedes the first smoke.
       - **Disconfirming evidence:**
         - “The girl” is shown to be different referents across Pages/cains_jawbone_page_45.md and Pages/cains_jawbone_page_26.md (making the echo coincidental), or Hodge is shown to be different referents across Pages/cains_jawbone_page_26.md and Pages/cains_jawbone_page_44.md (breaking the proposed spine).
         - Any explicit time/setting marker ties Pages/cains_jawbone_page_44.md’s incinerator/certificate episode to a different location/episode than the Typhoon/witness scene (making Pages/cains_jawbone_page_45.md → Pages/cains_jawbone_page_26.md → Pages/cains_jawbone_page_44.md non-adjacent).
+        - “St. Bruno” is shown to be a non-tobacco referent here (or explicitly not pipe‑tobacco use), weakening the Ben Wade → St Bruno progression and returning Pages/cains_jawbone_page_26.md → Pages/cains_jawbone_page_44.md to `MAYBE`.
     - **Sequence C — Henry problem (setup) → Typhoon lock** (confidence: `MAYBE`)
       - **Pages (ordered):** Pages/cains_jawbone_page_44.md → Pages/cains_jawbone_page_7.md → Pages/cains_jawbone_page_45.md
       - **Why:**
