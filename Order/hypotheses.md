@@ -1261,11 +1261,12 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - Both pages share the same structural posture: morning-after / “yesterday” appointment recap → narrator in motion (“I was on my way…”) with concrete kit/conditions (“weeping weather” ↔ “rain-proof coat, good shoes”) and a Whitman layer.
       - **Disconfirming evidence:**
         - The “yesterday” meeting/appointment is shown to involve different people/contexts on the two pages, or the physical setting markers make the pages incompatible as adjacent.
-    - **Sequence B — jasmine/house suspicion beat** (confidence: `LIKELY`)
+    - **Sequence B — jasmine/house suspicion beat** (confidence: `CERTAIN`)
       - **Pages (ordered):** Pages/cains_jawbone_page_30.md → Pages/cains_jawbone_page_24.md
       - **Why:**
         - Pages/cains_jawbone_page_30.md ends with an explicit suspicion question (“Can she be guilty?”) after a soup-tasting “try her out” test; Pages/cains_jawbone_page_24.md opens “Next day…” with a direct resolution (“my suspicions… had been well-founded”), reading like the immediate follow-through.
         - Both pages share the same plant-savvy register (Cape Jasmine/gardenia taxonomy ↔ wild jasmine + roses + hellebore) and a domestic in-house suspicion framing.
+        - Note: treat this as **within-voice order**; Pages/cains_jawbone_page_24.md is also constrained by the cross-narrator quote continuation Pages/cains_jawbone_page_23.md ↔ Pages/cains_jawbone_page_24.md, so do not force Pages/cains_jawbone_page_30.md adjacent to Pages/cains_jawbone_page_24.md in the full ordering.
       - **Disconfirming evidence:**
         - Pages/cains_jawbone_page_24.md’s “Next day” is anchored to a different prior scene than Pages/cains_jawbone_page_30.md’s soup test, or the “she” on Pages/cains_jawbone_page_30.md is clearly not “Caroline” on Pages/cains_jawbone_page_24.md.
         - Pages/cains_jawbone_page_24.md is confirmed to belong entirely with the `N13` host/guest poisoning run (via a second independent `N13` anchor), making this a cross-narrator overlap rather than a within-voice adjacency.
