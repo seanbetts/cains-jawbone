@@ -1018,11 +1018,11 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Key anchors:** “the Head, as we called him” + school-colours register; art-name dropping (Beardsley/Rops; travel-guide Haslemere/Whympers); May/red-May scent; red/white roses + marigolds/calendula; red rose “sole survivor”; “orange tinted documents”; Goya reproduction confusion; “Will anyone know about them?”; Leningrad/OGPU mention; flower-seller interruption.
   - **Disconfirming evidence:** later evidence forces incompatible narrator self-identity/setting constraints between the school-colours/Head strand and the OGPU/documents/flower strand, or “May”/“them/documents” resolve as purely generic motifs with no continuity.
   - **Phase 4 internal ordering hypotheses (N06):**
-    - **Sequence A — Marseille initiation → OGPU purchases → documents** (confidence: `LIKELY`)
+    - **Sequence A — Marseille initiation → OGPU purchases → documents** (confidence: `CERTAIN`)
       - **Pages (ordered):** Pages/cains_jawbone_page_73.md → Pages/cains_jawbone_page_74.md → Pages/cains_jawbone_page_75.md
       - **Why:**
         - Pages/cains_jawbone_page_73.md ends mid-sentence (“hung round with…”) and Pages/cains_jawbone_page_74.md begins with the completion (“photographs…”), making `73 → 74` a hard adjacency.
-        - Pages/cains_jawbone_page_74.md’s “them” (secretly bought items) + failing eyesight (“wretched eyes”) aligns with Pages/cains_jawbone_page_75.md’s “orange tinted documents” and inability to read them (“searchlights of my eyes… not good enough”), and Pages/cains_jawbone_page_75.md’s “two other flowers” naturally picks up Pages/cains_jawbone_page_74.md’s “red rose and the white only remained.”
+        - Pages/cains_jawbone_page_75.md reads as the immediate continuation of Pages/cains_jawbone_page_74.md: “the red rose and the white only remained” → “those two other flowers,” and “them” (secretly bought items) → “orange tinted documents,” with the same eyesight-failure emphasis on both pages.
       - **Disconfirming evidence:**
         - Pages/cains_jawbone_page_75.md’s documents/flowers are later anchored to a different setting or narrative purpose from Pages/cains_jawbone_page_74.md’s “them” (coincidental overlap).
     - **Sequence B — late-night red-rose extension** (confidence: `LIKELY`)
@@ -1034,6 +1034,12 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - MAYBE: Pages/cains_jawbone_page_83.md’s “mal de mer” (sea-sickness) simile echoes Pages/cains_jawbone_page_73.md’s Marseille/old-Port initiation memory (travel/foreign-language register continuity).
       - **Disconfirming evidence:**
         - Pages/cains_jawbone_page_83.md’s “old man”/Henry context is later shown to be incompatible with Pages/cains_jawbone_page_74.md’s OGPU/Leningrad scene (distinct voices or settings).
+    - **Sequence C — school colours / Hall continuation** (confidence: `CERTAIN`)
+      - **Pages (ordered):** Pages/cains_jawbone_page_66.md → Pages/cains_jawbone_page_67.md
+      - **Why:**
+        - Direct sentence continuation across the page break (“…the solemn old Hall, hung round with” → “the darker works of Beardsley…”).
+        - Shared core anchors (“the Head, as we called him”; art-name dropping) keep this as the same narrator cluster, even if it proves non-adjacent to the OGPU/documents run in the full ordering.
+      - **Disconfirming evidence:** only if an editorial/transcription artifact is discovered (unlikely given page integrity checks).
     - **Related page — May/eye-strike (uncertain)** (confidence: `MAYBE`)
       - **Pages:** Pages/cains_jawbone_page_71.md
       - **Why:**
