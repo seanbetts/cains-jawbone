@@ -481,7 +481,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Key anchors:** “mottled black and silver Aquarius”; “ruin my hand”; desserts/cocktails treated as titled items; “the Dawn”.
   - **Disconfirming evidence:** Alexander (“Ecky”) is later shown to be a different POV than the Aquarius-pen narrator, or “Aquarius” is found elsewhere in page-body text (making it a less specific signature anchor).
   - **Phase 4 internal ordering hypotheses (N01):**
-    - **Sequence A — Moon/Dawn table scene** (confidence: `LIKELY`)
+    - **Sequence A — Moon/Dawn table scene** (confidence: `CERTAIN`)
       - **Pages (ordered):** Pages/cains_jawbone_page_17.md → Pages/cains_jawbone_page_43.md
       - **Why:**
         - Both pages stage the narrator between “the Moon” and “the Dawn” and use near-identical hand/temperance logic (“bad for the hand” ↔ “ruin my hand”) alongside a woman seated opposite the narrator.

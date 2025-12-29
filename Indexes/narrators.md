@@ -22,7 +22,7 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_1.md, Pages/cains_jawbone_page_17.md, Pages/cains_jawbone_page_43.md
   - **Confidence:** `CERTAIN`
   - **Disconfirming evidence:** “Aquarius” is found elsewhere in page-body text, or Alexander (“Ecky”) is explicitly a different POV than the Aquarius-pen narrator.
-  - **Notes:** Hard locks: Pages/cains_jawbone_page_1.md ↔ Pages/cains_jawbone_page_43.md (Aquarius) and Pages/cains_jawbone_page_17.md ↔ Pages/cains_jawbone_page_43.md (Moon/Dawn + hand).
+  - **Notes:** Hard locks: Pages/cains_jawbone_page_1.md ↔ Pages/cains_jawbone_page_43.md (Aquarius) and Pages/cains_jawbone_page_17.md ↔ Pages/cains_jawbone_page_43.md (Moon/Dawn + hand). Within-voice order: Pages/cains_jawbone_page_17.md → Pages/cains_jawbone_page_43.md (arrival beat → dessert ordering).
 
 - `N02` — Dog POV (domestic + hunting):
   - **Signature tells:** explicit dog-coded bodily perspective (ears pulled; “low noise”; “nose” POV); mating/banishment narrative; hunting/retrieval register (Lagopus scoticus/red grouse); dog medicine ingestion (Bob Martin); secret sugar stash; self-description as a dog.
