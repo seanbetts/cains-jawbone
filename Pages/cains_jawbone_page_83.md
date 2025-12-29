@@ -29,3 +29,4 @@ A flower-seller, fed ruddily, it seemed, on hope, broke in and would have made a
   - If the red-rose phrasing is generic and no other shared props/voices recur.
 - **Research needed:**
   - Confirm whether the “metallic object” is a coin/half-crown (vs key/utensil/case) via an explicit naming elsewhere.
+  - Identify whether the flower catalogue (“ironic daffodils… irises… bluebells… hedge-rose… carnation… No gaudy melon flower”) is a quotation or points to a specific source/clue-list.

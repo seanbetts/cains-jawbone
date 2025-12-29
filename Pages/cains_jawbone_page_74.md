@@ -32,3 +32,4 @@ photographs of young and laughing athletes, lads who had profited and gone on, a
   - If “Head” here is a different figure than the earlier headmaster, or if the “them” are not documents/objects that recur.
 - **Research needed:**
   - Identify which specific Goya hanging-scene print is meant (if a clearer description recurs); the countess side most plausibly points to the Countess of Chinchón.
+  - Identify what the “Manchester speech on sane mediocrity” refers to (quotation/source vs in-world description) if it recurs.

@@ -1160,6 +1160,18 @@ Template:
   - **Status:** `resolved`
   - **Result:** The text never specifies the object beyond “some metallic object”; no external reference can pin it down. Treat as a small dropped item (LIKELY coin/key) unless a later cross-page prop recurrence names it explicitly.
 
+- **Item:** Identify whether Page 83’s flower catalogue is a quotation or points to a specific source (“ironic daffodils… irises… bluebells… hedge-rose… carnation… No gaudy melon flower”)
+  - **Type:** quote/other
+  - **Pages:** Pages/cains_jawbone_page_83.md
+  - **Why it matters:** Could be a strong phrase-level anchor for the `N06` flower/rose scene (potentially pointing to a text, place, or deliberate clue-word list).
+  - **Status:** `open`
+
+- **Item:** Identify what the “Manchester speech on sane mediocrity” is referring to (Page 74)
+  - **Type:** quote/other
+  - **Pages:** Pages/cains_jawbone_page_74.md
+  - **Why it matters:** Could identify or characterise the “old man” and enable a stronger cross-page continuity lock within `N06`.
+  - **Status:** `open`
+
 - **Item:** Identify the “blind sailor” reference/quote in Page 84
   - **Type:** quote/other
   - **Pages:** Pages/cains_jawbone_page_84.md
