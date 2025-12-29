@@ -18,7 +18,7 @@ I saw to it that I should be for a moment alone among the marigolds. Thinking ki
 - **Clustering hypotheses:**
   - CERTAIN: `N06` orator/artist + flowers/documents voice; shares the marigold/calendula + document/vision-failure bundle and “May”/hawthorn language with the surrounding `N06` pages.
   - LIKELY: ties to Pages/cains_jawbone_page_74.md (flowers + secret purchases/documents + eyesight failure) and Pages/cains_jawbone_page_83.md (flower-state progression to a surviving red rose); treat as continuity hooks (Phase 4 placement checks), not asserted order in Phase 3.
-  - CERTAIN: cross-narrator continuity lock with Pages/cains_jawbone_page_12.md via the unique “searchlights” eye-metaphor over documents/writing; treat as a continuity constraint `Pages/cains_jawbone_page_12.md ↔ Pages/cains_jawbone_page_75.md` (see `Order/hypotheses.md` constraints inventory; direction TBD).
+  - CERTAIN: cross-narrator continuity lock with Pages/cains_jawbone_page_12.md via the unique “searchlights” eye-metaphor over documents/writing; treat as a directionless cross-voice constraint `Pages/cains_jawbone_page_12.md ↔ Pages/cains_jawbone_page_75.md` (see `Order/hypotheses.md`).
   - MAYBE: ties to Pages/cains_jawbone_page_71.md via May + eyesight/eye-stress (weaker fit; keep falsifiable).
 - **Disconfirming evidence:**
   - If the “documents” are unrelated to Page 74’s “them”, and the blight is purely metaphorical.

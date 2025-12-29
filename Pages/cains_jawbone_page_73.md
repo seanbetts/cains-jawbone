@@ -19,7 +19,7 @@ All the artist in me flared up. After all, my given name was world-famous as the
   - Performative and educated; toggles between art-identity, rhetoric, and sensual memory.
 - **Clustering hypotheses:**
   - CERTAIN: `N06` orator/artist + flowers/documents voice; `Pages/cains_jawbone_page_73.md` and `Pages/cains_jawbone_page_74.md` share an explicit phrase-level continuation (“hung round with…”). Treat as a continuity constraint `Pages/cains_jawbone_page_73.md → Pages/cains_jawbone_page_74.md` (see `Order/hypotheses.md`).
-  - CERTAIN: links strongly with Pages/cains_jawbone_page_66.md via the page-body unique phrase “I remembered the place of my initiation”. Treat as a continuity constraint `Pages/cains_jawbone_page_66.md ↔ Pages/cains_jawbone_page_73.md` (see `Order/hypotheses.md` constraints inventory; direction TBD).
+  - CERTAIN: links strongly with Pages/cains_jawbone_page_66.md via the page-body unique phrase “I remembered the place of my initiation”. Treat as a continuity constraint `Pages/cains_jawbone_page_66.md ↔ Pages/cains_jawbone_page_73.md` (current direction hypothesis: `Pages/cains_jawbone_page_66.md → Pages/cains_jawbone_page_73.md`, confidence: `MAYBE`; see `Order/hypotheses.md` (`N06` order-only sequence)).
   - MAYBE: Pages/cains_jawbone_page_73.md’s Midhurst (Sussex) guidebook quotation sits near Pages/cains_jawbone_page_67.md’s Haslemere (“place of the Whympers”) guidebook cluster; together they suggest a local Sussex/Surrey hop within the same narrator run (order-only; not necessarily adjacent).
 - **Disconfirming evidence:**
   - Only if later evidence shows an editorial/transcription artifact (unlikely).

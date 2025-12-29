@@ -20,7 +20,7 @@ Strange that old Calabar, as I called him, should fail me ; yet on the morning a
 - **Clustering hypotheses:**
   - CERTAIN: links strongly with Pages/cains_jawbone_page_21.md (Page 36’s “morning after I had introduced him…” picks up Page 21’s Calabar Bean introduction; treat as a continuity constraint `Pages/cains_jawbone_page_21.md ↔ Pages/cains_jawbone_page_36.md`; see `Order/hypotheses.md` constraints inventory).
   - CERTAIN: links strongly with Pages/cains_jawbone_page_29.md (ordeal-bean/physostigma thread: “discarded my useless physostigma” ↔ “old Calabar… should fail me”; treat as a continuity constraint `Pages/cains_jawbone_page_29.md ↔ Pages/cains_jawbone_page_36.md`; see `Order/hypotheses.md` constraints inventory).
-  - CERTAIN: links strongly with Pages/cains_jawbone_page_59.md via the unique “awkward” poison-failure phrasing (“distinctly awkward” ↔ “awkward with Trinder about”); treat as a continuity constraint `Pages/cains_jawbone_page_36.md ↔ Pages/cains_jawbone_page_59.md` (direction TBD; see `Order/hypotheses.md` constraints inventory).
+  - CERTAIN: links strongly with Pages/cains_jawbone_page_59.md via the unique “awkward” poison-failure phrasing (“distinctly awkward” ↔ “awkward with Trinder about”); treat as a continuity constraint `Pages/cains_jawbone_page_36.md ↔ Pages/cains_jawbone_page_59.md` (current direction hypothesis: `Pages/cains_jawbone_page_36.md → Pages/cains_jawbone_page_59.md`, confidence: `MAYBE`; see `Order/hypotheses.md`).
   - LIKELY: strengthens plant/poison thread (Calabar/physostigma) and Henry-as-killer thread.
 - **Disconfirming evidence:**
   - If “Calabar” and corpse-burial are later shown to be figurative/embedded narrative.

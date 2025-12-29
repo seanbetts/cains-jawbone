@@ -42,7 +42,7 @@ LIKELY WORDPLAY
 - **Clustering hypotheses:**
   - CERTAIN: links strongly with Pages/cains_jawbone_page_14.md (will-talk to May + spilled wine/flesh cleanup beat aligns with this “documents/abstracted will” scene). LIKELY within-voice order: `Pages/cains_jawbone_page_14.md → Pages/cains_jawbone_page_12.md`; see `Order/hypotheses.md` (`N10`).
   - MAYBE: paired with Pages/cains_jawbone_page_14.md more loosely as a will/document motif cluster if the scenes prove distinct.
-  - CERTAIN: cross-narrator continuity lock with Pages/cains_jawbone_page_75.md via the unique “searchlights” eye-metaphor over documents/writing; treat as a continuity constraint `Pages/cains_jawbone_page_12.md ↔ Pages/cains_jawbone_page_75.md` (see `Order/hypotheses.md` constraints inventory; direction TBD).
+  - CERTAIN: cross-narrator continuity lock with Pages/cains_jawbone_page_75.md via the unique “searchlights” eye-metaphor over documents/writing; treat as a directionless cross-voice constraint `Pages/cains_jawbone_page_12.md ↔ Pages/cains_jawbone_page_75.md` (see `Order/hypotheses.md`).
 - **Disconfirming evidence:**
   - If Page 14’s “leave everything” is unrelated (different people/context).
 - **Research needed:**

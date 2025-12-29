@@ -16,7 +16,7 @@ It was neither the sheerest hell nor uttermost heaven thus to affront the dead ;
   - Introspective, aesthetic/educated register; wary about “speculat[ing]” and losing “all”.
 - **Clustering hypotheses:**
   - CERTAIN: phrase-level mid-sentence continuation across Pages/cains_jawbone_page_66.md and Pages/cains_jawbone_page_67.md (“hung round with … the darker works…”), implying an immediate-neighbour constraint `Pages/cains_jawbone_page_66.md → Pages/cains_jawbone_page_67.md` (see `Order/hypotheses.md`).
-  - CERTAIN: links strongly with Pages/cains_jawbone_page_73.md via the page-body unique phrase “I remembered the place of my initiation”. Treat as a continuity constraint `Pages/cains_jawbone_page_66.md ↔ Pages/cains_jawbone_page_73.md` (see `Order/hypotheses.md` constraints inventory; direction TBD).
+  - CERTAIN: links strongly with Pages/cains_jawbone_page_73.md via the page-body unique phrase “I remembered the place of my initiation”. Treat as a continuity constraint `Pages/cains_jawbone_page_66.md ↔ Pages/cains_jawbone_page_73.md` (current direction hypothesis: `Pages/cains_jawbone_page_66.md → Pages/cains_jawbone_page_73.md`, confidence: `MAYBE`; see `Order/hypotheses.md` (`N06` order-only sequence)).
 - **Disconfirming evidence:**
   - Only if later evidence shows an editorial/transcription artifact (unlikely given clean sentence continuation).
 - **Research needed:**

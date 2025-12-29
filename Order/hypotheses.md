@@ -533,8 +533,9 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - Pages/cains_jawbone_page_6.md frames a prior poison (“Electric Febrifuge” active ingredient) as having “let me down” before shifting someone onto foxgloves (digitalis), while Pages/cains_jawbone_page_21.md explicitly says “on the very day” the narrator “proved digitalis purpurea.”
       - **Disconfirming evidence:**
         - Foxgloves/digitalis in Pages/cains_jawbone_page_6.md are shown to be ornamental (not an operational poison thread), or “proved digitalis” in Pages/cains_jawbone_page_21.md refers to an unrelated experiment.
-    - **Sequence E — spare-room continuity (direction TBD)** (confidence: `LIKELY`)
+    - **Sequence E — spare-room continuity (tentative direction)** (confidence: `LIKELY`)
       - **Pages (linked):** Pages/cains_jawbone_page_6.md ↔ Pages/cains_jawbone_page_29.md
+      - **Current direction hypothesis:** Pages/cains_jawbone_page_6.md → Pages/cains_jawbone_page_29.md (confidence: `MAYBE`)
       - **Why:**
         - Both pages reference the spare-room in the same house (“old spare-room in this very house” / “unsatisfactory visit to the spareroom”).
         - In the page bodies, “spare-room/spareroom” appears only on these two pages, suggesting a deliberate setting anchor (even if the within-strand direction is unclear).
@@ -552,8 +553,9 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - Pages/cains_jawbone_page_29.md ends with “I felt I ought to be drawing towards a close ; but one never knew,” and Pages/cains_jawbone_page_35.md reuses the same phrase while also repeating “One never knew” and supplying an explicit reason (“But he might return”), which reads like a more explicit reprise.
       - **Disconfirming evidence:**
         - Another page is found to share the exact “drawing towards a close” phrasing, or later evidence anchors Pages/cains_jawbone_page_35.md as clearly earlier than Pages/cains_jawbone_page_29.md in this voice/setting.
-    - **Sequence H — “awkward” link (direction TBD)** (confidence: `CERTAIN`)
+    - **Sequence H — “awkward” link (tentative direction)** (confidence: `CERTAIN`)
       - **Pages (linked):** Pages/cains_jawbone_page_36.md ↔ Pages/cains_jawbone_page_59.md
+      - **Current direction hypothesis:** Pages/cains_jawbone_page_36.md → Pages/cains_jawbone_page_59.md (confidence: `MAYBE`)
       - **Why:**
         - Both pages are poison-failure beats (“Calabar… should fail me” / “bane… definitely failed”) and share the unique “awkward” complaint (“distinctly awkward” ↔ “awkward with Trinder about”).
       - **Disconfirming evidence:**

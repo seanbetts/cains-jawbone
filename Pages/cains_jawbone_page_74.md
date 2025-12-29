@@ -27,7 +27,7 @@ photographs of young and laughing athletes, lads who had profited and gone on, a
   - CERTAIN: `N06` orator/artist + flowers/documents/OGPU voice; ties strongly to Pages/cains_jawbone_page_73.md via phrase-level continuation plus shared rhetoric/sexual-politics register.
   - MAYBE: shares a unique husk-/husky voice descriptor with Pages/cains_jawbone_page_43.md (different narrator), suggesting the same “she” participant if not disproven; treat as a cross-voice constraint (see `Order/hypotheses.md`).
   - LIKELY: ties to Pages/cains_jawbone_page_75.md via a shared bundle (flowers; “them” bought secretly ↔ “orange tinted documents”; eyesight failure) and to Pages/cains_jawbone_page_83.md via “red rose” persistence + “old man”/conversation framing; keep as continuity hooks (Phase 4 adjacency/placement checks), not asserted order in Phase 3.
-  - CERTAIN: shares the page-body unique “the Head, as we called him” phrasing with Pages/cains_jawbone_page_67.md. Treat as a continuity constraint `Pages/cains_jawbone_page_67.md ↔ Pages/cains_jawbone_page_74.md` (see `Order/hypotheses.md` constraints inventory; direction TBD).
+  - CERTAIN: shares the page-body unique “the Head, as we called him” phrasing with Pages/cains_jawbone_page_67.md. Treat as a continuity constraint `Pages/cains_jawbone_page_67.md ↔ Pages/cains_jawbone_page_74.md` (current direction hypothesis: `Pages/cains_jawbone_page_67.md → Pages/cains_jawbone_page_74.md`, confidence: `MAYBE`; see `Order/hypotheses.md` (`N06` order-only sequence)).
 - **Disconfirming evidence:**
   - If “Head” here is a different figure than the earlier headmaster, or if the “them” are not documents/objects that recur.
 - **Research needed:**
