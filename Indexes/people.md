@@ -427,10 +427,10 @@ Template:
   - **Notes:** MAYBE the same “old man” as `P61`; do not merge without a stronger anchor than age/title.
 
 - `P70` — Names/aliases: husky-voiced woman (unnamed)
-  - **Tells:** asks “Will anyone know about them?”; described as a “husky miracle of a voice”.
+  - **Tells:** described as a “husky miracle of a voice” / “huskily lisping”; asks “Will anyone know about them?”
   - **Pronouns/relationships:** “she/her” companion.
-  - **Pages:** Pages/cains_jawbone_page_74.md
-  - **Notes:** Could be a recurring “husky voice” figure; watch for repeat phrasing.
+  - **Pages:** Pages/cains_jawbone_page_43.md, Pages/cains_jawbone_page_74.md
+  - **Notes:** MAYBE: Pages/cains_jawbone_page_43.md’s “huskily lisping” “she” is the same woman as Pages/cains_jawbone_page_74.md’s “husky… voice” (unique husk- descriptor); do not merge if another husk-voice page appears or later context separates the identities.
 
 - `P71` — Names/aliases: humpbacked fellow (unnamed seller)
   - **Tells:** described as a “double-faced Quasimodo of the Ogpu”; sold items in Leningrad.
