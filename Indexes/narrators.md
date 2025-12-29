@@ -166,7 +166,7 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_4.md, Pages/cains_jawbone_page_5.md, Pages/cains_jawbone_page_58.md
   - **Confidence:** `LIKELY`
   - **Disconfirming evidence:** Page 5’s brand/initialism wordplay and lighthouse setting are later shown to be a different narrator/scene from Page 4’s church/buttonhole vignette.
-  - **Notes:** Hard lock: Pages/cains_jawbone_page_5.md ↔ Pages/cains_jawbone_page_58.md (“went on … Browning”, page-body unique), with a plausible within-run count progression (fourth → intended fifth).
+  - **Notes:** Hard lock: Pages/cains_jawbone_page_5.md ↔ Pages/cains_jawbone_page_58.md (“went on … Browning”, page-body unique), with a plausible within-run count progression (fourth → intended fifth). MAYBE cross-narrator candidate: Pages/cains_jawbone_page_4.md ↔ Pages/cains_jawbone_page_100.md via the page-body unique “buttonhole” word (treat as motif-only until a second independent anchor recurs).
 
 - `N20` — Bloomsbury/nomenclature + grim-scene voice:
   - **Signature tells:** self-conscious class register (“Bloomsbury”); fixation on naming/nomenclature and soundalike jokes (e.g., classical name soundalikes); familiarity with bodies/corpses and threat/weapon cues.
@@ -206,7 +206,7 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_100.md
   - **Confidence:** `MAYBE`
   - **Disconfirming evidence:** the collapse/death framing is later shown to be purely rhetorical, or “Scotland Yard/Kursaal” is a detachable allusive layer reused by other narrators.
-  - **Notes:** Singleton for now; next check: search for the combined Southend Kursaal + Woolworth’s + buttonhole anchors; do not merge into other police voices unless at least two of these recur together.
+  - **Notes:** Singleton for now; next check: search for the combined Southend Kursaal + Woolworth’s + buttonhole anchors; do not merge into other police voices unless at least two of these recur together. Note: “buttonhole” also appears on Pages/cains_jawbone_page_4.md, but without the Kursaal/Woolworth’s anchors, so treat it as motif-only overlap for now.
 
 - `N25` — Quicksands-of-crime interviewer / papers voice:
   - **Signature tells:** moralising crime/innocence language; meta “commentary/ironic comment” framing; contemptuous epithets for the subject (“well-fed swine”); interview mechanics when present (door opens/shuts; “papers” handled); pointed food tells (Westphalian ham; cucumber sandwiches); money/blackmail pressure language (“Bills should always be met squarely”; “reward for valuable services rendered”).

@@ -26,6 +26,7 @@ I dimly guess why the old dead so wanted this. I had worked for him, Henry had w
   - CERTAIN: “how ill all’s here about my heart” echoes Shakespeare, *Hamlet* Act V (“…I shall win at the odds… thou wouldst not think how ill all’s here about my heart…”): https://en.wikisource.org/wiki/Hamlet_(1917)_Yale/Text/Act_V.
 - **Clustering hypotheses:**
   - MAYBE: belongs with the Henry + Scotland Yard / detective cluster (police framing + Henry present).
+  - MAYBE: shared “buttonhole” word (page-body unique) with Pages/cains_jawbone_page_4.md (“day’s buttonhole” ↔ “buttonhole has escaped from the buttonholer”); treat as a cross-narrator continuity candidate until a second independent anchor emerges (see `Order/hypotheses.md`).
 - **Disconfirming evidence:**
   - If the collapse/death framing is revealed as purely rhetorical (no actual in-world harm).
 - **Research needed:**
