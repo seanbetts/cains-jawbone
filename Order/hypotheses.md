@@ -1025,11 +1025,11 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - Pages/cains_jawbone_page_75.md reads as the immediate continuation of Pages/cains_jawbone_page_74.md: “the red rose and the white only remained” → “those two other flowers,” and “them” (secretly bought items) → “orange tinted documents,” with the same eyesight-failure emphasis on both pages.
       - **Disconfirming evidence:**
         - Pages/cains_jawbone_page_75.md’s documents/flowers are later anchored to a different setting or narrative purpose from Pages/cains_jawbone_page_74.md’s “them” (coincidental overlap).
-    - **Sequence B — late-night red-rose extension** (confidence: `LIKELY`)
-      - **Pages (ordered):** Pages/cains_jawbone_page_73.md → Pages/cains_jawbone_page_74.md → Pages/cains_jawbone_page_75.md → Pages/cains_jawbone_page_83.md
+    - **Sequence B — late-night red-rose extension (order-only)** (confidence: `LIKELY`)
+      - **Pages (ordered):** Pages/cains_jawbone_page_73.md → Pages/cains_jawbone_page_74.md → Pages/cains_jawbone_page_75.md → (LIKELY later, not necessarily adjacent) Pages/cains_jawbone_page_83.md
       - **Why:**
         - Pages/cains_jawbone_page_83.md continues the flower-state progression from the `73 → 74 → 75` run: Pages/cains_jawbone_page_74.md says “The red rose and the white only remained,” Pages/cains_jawbone_page_75.md treats those “two other flowers” as key props, and Pages/cains_jawbone_page_83.md later has “the red rose, the sole survivor.”
-        - Pages/cains_jawbone_page_83.md also preserves the same social triangle as Pages/cains_jawbone_page_74.md: an “old man” present, a “she” who asks what “he” meant, and Henry moving in-scene.
+        - Pages/cains_jawbone_page_83.md keeps an “old man” + “she asked what he meant” conversational frame compatible with Pages/cains_jawbone_page_74.md’s old-man + husky-voiced “her” exchange (Henry is only explicit on Page 83).
         - MAYBE: Pages/cains_jawbone_page_74.md’s coin-drop image (“half-crowns dropped upon marble”) is literalised by Pages/cains_jawbone_page_83.md’s old man dropping a “metallic object” (prop-level continuity if it’s a coin/half-crown).
         - MAYBE: Pages/cains_jawbone_page_83.md’s “mal de mer” (sea-sickness) simile echoes Pages/cains_jawbone_page_73.md’s Marseille/old-Port initiation memory (travel/foreign-language register continuity).
       - **Disconfirming evidence:**
@@ -1318,9 +1318,9 @@ Template:
   - **Why:** Direct continuation of a quotation split across the page break (“…kissed the quiet feet / Of the old bold mate…”).
   - **Disconfirming evidence:** Only if the quotation appears elsewhere uninterrupted (making the break coincidental).
 
-- **Sequence (confidence: MAYBE):** `Pages/cains_jawbone_page_74.md → Pages/cains_jawbone_page_75.md`
-  - **Why:** Page 74’s secrecy about “them” (bought in Leningrad from an OGPU-linked seller) plausibly links to Page 75’s unreadable “orange tinted documents”.
-  - **Disconfirming evidence:** “Them” refers to something other than documents and no shared objects/references recur.
+- **Sequence (confidence: CERTAIN):** `Pages/cains_jawbone_page_74.md → Pages/cains_jawbone_page_75.md`
+  - **Why:** Immediate continuation: Page 74’s “red rose and the white… remained” → Page 75’s “those two other flowers,” and Page 74’s “them” (secret purchases) → Page 75’s “orange tinted documents,” with matching eyesight-failure emphasis.
+  - **Disconfirming evidence:** Only if “those two other flowers” and the “orange tinted documents” are later shown to be unrelated to Page 74’s scene/items (coincidental overlap).
 
 - **Sequence (confidence: MAYBE):** `Pages/cains_jawbone_page_82.md → Pages/cains_jawbone_page_85.md`
   - **Why:** Both are table scenes with Henry present and a nearby dog; Page 82’s disorientation could precede Page 85’s “weary business… ended” closure.
@@ -1335,9 +1335,9 @@ Template:
   - **Why:** Both pages centre an “old gentleman” figure within a hunting/food register (deer/collops; deer-stalker) in a refined venue context.
   - **Disconfirming evidence:** The two old-gentleman figures are distinct, or the settings differ (moor/outdoors vs indoor soigné venue) with no bridging continuity.
 
-- **Sequence (confidence: MAYBE):** `Pages/cains_jawbone_page_52.md → Pages/cains_jawbone_page_53.md`
-  - **Why:** Page 52 sets up an interview-with-papers framed as “commentary… page after page”; Page 53 continues with an “introduced to me” subject (Sir Paul Trinder) in drink, consistent with a run of interview pages.
-  - **Disconfirming evidence:** the “man who entered” on Page 52 is clearly a different person/context from Sir Paul Trinder, with no sustained interview continuity.
+- **Sequence (confidence: CERTAIN):** `Pages/cains_jawbone_page_52.md → Pages/cains_jawbone_page_53.md`
+  - **Why:** Direct interview/papers continuity (Page 52’s “commentary… page after page” continues into Page 53’s “introduced to me” profile of Sir Paul Trinder in the same interview frame).
+  - **Disconfirming evidence:** Only if Page 52’s “man who entered” is shown to be a different person/context from Sir Paul Trinder, breaking the interview continuity.
 
 - **Sequence (confidence: MAYBE):** `Pages/cains_jawbone_page_52.md → Pages/cains_jawbone_page_53.md → Pages/cains_jawbone_page_59.md → Pages/cains_jawbone_page_60.md`
   - **Why:** Trinder appears in the interview sequence (Page 53), is “about” during a gelsemium/poisoning context (Page 59), and a bearded pseudo-scientist target is declared dead after a planned “Lover’s Delight” setup (Page 60).
