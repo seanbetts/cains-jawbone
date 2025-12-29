@@ -23,7 +23,7 @@ What was it I held in my fingers? Looked at in one way it could just be a kea. I
 - **Clustering hypotheses:**
   - CERTAIN: links strongly with Pages/cains_jawbone_page_60.md (phrase-level “bane failed” → “succeeded” pivot + Trinder/“figurehead beard” target framing). Treat as a continuity constraint `Pages/cains_jawbone_page_59.md ↔ Pages/cains_jawbone_page_60.md`; see `Order/hypotheses.md` constraints inventory.
   - LIKELY: links strongly with Pages/cains_jawbone_page_80.md via the wolfsbane (“bane” + big bad wolf) wordplay and a shared Sir Paul/Trinder poisoning frame (current direction hypothesis: `Pages/cains_jawbone_page_80.md → Pages/cains_jawbone_page_59.md`, confidence: `LIKELY`; see `Order/hypotheses.md`).
-  - CERTAIN: links strongly with Pages/cains_jawbone_page_36.md via the unique “awkward” poison-failure phrasing (“distinctly awkward” ↔ “awkward with Trinder about”); treat as a continuity constraint `Pages/cains_jawbone_page_36.md ↔ Pages/cains_jawbone_page_59.md` (direction currently underdetermined; see `Order/hypotheses.md`).
+  - CERTAIN: links strongly with Pages/cains_jawbone_page_36.md via the unique “awkward” poison-failure phrasing (“distinctly awkward” ↔ “awkward with Trinder about”); treat as a continuity constraint `Pages/cains_jawbone_page_36.md ↔ Pages/cains_jawbone_page_59.md` (Phase 4 direction hypothesis: `Pages/cains_jawbone_page_36.md → Pages/cains_jawbone_page_59.md` is `MAYBE`, but keep the reverse alive; see `Order/hypotheses.md`).
   - LIKELY: connects to Sir Paul Trinder pages (Pages/cains_jawbone_page_53.md) and to a Trinder-outcome page (Pages/cains_jawbone_page_60.md).
   - CERTAIN: strengthens plant/poison thread via explicit gelsemium.
 - **Disconfirming evidence:**

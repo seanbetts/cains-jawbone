@@ -574,13 +574,19 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - Both pages share the page-body unique register-marker “Murders were funny things” (constraint inventory).
       - **Disconfirming evidence:**
         - “my first” is shown to be non-lethal (or in a different timeline), or later evidence pins Henry’s “predicament” in Pages/cains_jawbone_page_77.md to a separate episode that cannot precede the Pages/cains_jawbone_page_35.md manhunt scene.
-    - **Sequence H — “awkward” link (directionless)** (confidence: `CERTAIN`)
-      - **Pages (linked):** Pages/cains_jawbone_page_36.md ↔ Pages/cains_jawbone_page_59.md
+    - **Sequence H — corpse-handling → detective-sergeant visit (“awkward” bridge)** (confidence: `MAYBE`)
+      - **Pages (ordered):** Pages/cains_jawbone_page_36.md → Pages/cains_jawbone_page_59.md
       - **Why:**
-        - Both pages are poison-failure beats (“Calabar… should fail me” / “bane… definitely failed”) and share the unique “awkward” complaint (“distinctly awkward” ↔ “awkward with Trinder about”).
-      - **Ordering note:** direction remains underdetermined; tentative direction hypothesis is Pages/cains_jawbone_page_36.md → Pages/cains_jawbone_page_59.md (confidence: `MAYBE`) on the idea that p36’s corpse-handling beat can precede p59’s detective-sergeant follow-up about a strange death — keep the reverse alive until a second independent cue emerges.
+        - The underlying lock is `CERTAIN`: “awkward” appears only on these two pages in the page bodies, and both are explicit poison-failure beats (“old Calabar… should fail me” / “bane… definitely failed”).
+        - Pages/cains_jawbone_page_36.md ends with corpse-disposal (“He had buried the corpse; only the eyes showed”), while Pages/cains_jawbone_page_59.md includes a detective-sergeant visit about a man who “had died strangely” (plausible later-stage police attention).
       - **Disconfirming evidence:**
-        - Later evidence anchors the two scenes/voices as incompatible (despite the shared “awkward” phrasing), or a third page is found with a tighter “awkward” continuity context.
+        - Pages/cains_jawbone_page_59.md’s “poor fellow” death is shown to be unrelated to the corpse-handling scene, or any explicit before/after cue forces the reverse.
+    - **Sequence H-alt — keep reverse alive (weak)** (confidence: `MAYBE`)
+      - **Pages (ordered):** Pages/cains_jawbone_page_59.md → Pages/cains_jawbone_page_36.md
+      - **Why:**
+        - If Pages/cains_jawbone_page_59.md’s detective-sergeant visit is about a different death, the shared “awkward” phrasing could be a non-adjacent self-echo rather than a police-follow-up, leaving open that Pages/cains_jawbone_page_36.md’s Calabar “give him another day” beat is earlier in the narrator’s poison sequence.
+      - **Disconfirming evidence:**
+        - Any tighter continuity anchor (shared person/prop/time marker) links the detective-sergeant visit to Pages/cains_jawbone_page_36.md’s corpse-disposal, forcing Pages/cains_jawbone_page_36.md to precede.
     - **Sequence I — wolfsbane fails → gelsemium pivot** (confidence: `LIKELY`)
       - **Pages (ordered):** Pages/cains_jawbone_page_80.md → Pages/cains_jawbone_page_59.md
       - **Why:**
