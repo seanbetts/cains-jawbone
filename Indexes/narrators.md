@@ -214,7 +214,7 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_33.md, Pages/cains_jawbone_page_34.md, Pages/cains_jawbone_page_52.md, Pages/cains_jawbone_page_53.md
   - **Confidence:** `LIKELY`
   - **Disconfirming evidence:** Page 34’s “ironic comment” / “innocent child” rhetoric is shown to be a generic register reused across unrelated narrators, or the “interview/papers” mechanics in Page 52 are later anchored to a different narrator/setting.
-  - **Notes:** Page 33 shares the debt/bills framing (“I always pay my debts”) and clandestine observation (“behind the armchair”) but lacks the explicit “interview/papers” mechanics. Pages/cains_jawbone_page_57.md is better treated as a `MAYBE` `N02` overlap (dog-as-listener + “my people” pedigree register); do not use Westphalian ham + “bits of paper” reading alone to fold it into `N25`.
+  - **Notes:** Hard lock: Pages/cains_jawbone_page_52.md → Pages/cains_jawbone_page_53.md (interview/papers setup → Sir Paul Trinder identification). Page 33 shares the debt/bills framing (“I always pay my debts”) and clandestine observation (“behind the armchair”) but lacks the explicit “interview/papers” mechanics. Pages/cains_jawbone_page_57.md is better treated as a `MAYBE` `N02` overlap (dog-as-listener + “my people” pedigree register); do not use Westphalian ham + “bits of paper” reading alone to fold it into `N25`.
 
 - `N26` — “Awful and literal sense” breakfast-recapping / second-sight voice:
   - **Signature tells:** the distinctive parenthetical aside “in the awful and literal sense of the word”; morning/breakfast domesticity; insomnia + “recapitulation” framing; claimed second-sight wordplay (“Clare” → clairvoyant/clairaudient).

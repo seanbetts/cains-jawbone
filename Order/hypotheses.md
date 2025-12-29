@@ -507,13 +507,13 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - Both pages bind Calabar/digitalis to Henry-in-scene + corpse-handling language (blood/body; burial with eyes showing).
       - **Disconfirming evidence:**
         - “introduced him to the person most concerned” in Pages/cains_jawbone_page_36.md is later shown to refer to a different “him”/recipient than the Calabar/digitalis action in Pages/cains_jawbone_page_21.md.
-	    - **Sequence B — Henry spree escalation (knock → manhunt)** (confidence: `MAYBE`)
-	      - **Pages (ordered):** Pages/cains_jawbone_page_58.md → Pages/cains_jawbone_page_35.md
-	      - **Why:**
-	        - Pages/cains_jawbone_page_58.md ends with a “horribly official knock,” and Pages/cains_jawbone_page_35.md continues into an active police pursuit with the flying squad and an escape attempt.
-	        - Note: current evidence is thematic only (no phrase-level overlap); do not treat this as a lock unless a second independent shared anchor emerges.
-	      - **Disconfirming evidence:**
-	        - Any of the “killings/victim” language is proven figurative, or the Pages/cains_jawbone_page_35.md pursuit is later revealed as an embedded/imagined story unrelated to the corpse scenes.
+      - **Sequence B — Henry spree escalation (knock → manhunt)** (confidence: `MAYBE`)
+        - **Pages (ordered):** Pages/cains_jawbone_page_58.md → Pages/cains_jawbone_page_35.md
+        - **Why:**
+          - Pages/cains_jawbone_page_58.md ends with a “horribly official knock,” and Pages/cains_jawbone_page_35.md continues into an active police pursuit with the flying squad and an escape attempt.
+          - Note: current evidence is thematic only (no phrase-level overlap); do not treat this as a lock unless a second independent shared anchor emerges.
+        - **Disconfirming evidence:**
+          - Any of the “killings/victim” language is proven figurative, or the Pages/cains_jawbone_page_35.md pursuit is later revealed as an embedded/imagined story unrelated to the corpse scenes.
     - **Sequence C — Trinder outcome (failed → succeeded)** (confidence: `LIKELY`)
       - **Pages (ordered):** Pages/cains_jawbone_page_59.md → Pages/cains_jawbone_page_60.md
       - **Why:**
@@ -649,14 +649,14 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Key anchors:** buttonhole scene behind the church; boy about to tumble into the sea; ruined lighthouse; “Emperor’s Peg” + vitriol/applejack; Bisto/Cerebos riffing; O.M./M.O./OM wordplay.
   - **Disconfirming evidence:** Page 5’s narrator voice proves incompatible with Page 4’s (different social position/setting with no shared tells beyond generic puns).
   - **Phase 4 internal ordering hypotheses (N19):**
-	    - **Sequence A — church-side comedy → lighthouse-side distraction** (confidence: `MAYBE`)
-	      - **Pages (ordered):** Pages/cains_jawbone_page_4.md → Pages/cains_jawbone_page_5.md
-	      - **Why:**
-	        - Pages/cains_jawbone_page_4.md establishes the coastal setting with church/puddles + “boy… to tumble into the sea,” while Pages/cains_jawbone_page_5.md shifts to the ruined lighthouse as the next major location-beat in the same seaside strip.
-	        - Pages/cains_jawbone_page_4.md’s suspicion of a “beautiful” woman (“Can I suspect her?”) aligns with Pages/cains_jawbone_page_5.md’s irritation at distractions while “poor Henry” pursues an “intended fifth,” reading like an escalation from social comedy to stakes.
-	        - Note: no phrase-level anchor currently ties these as adjacent; treat as a tentative within-cluster order only.
-	      - **Disconfirming evidence:**
-	        - The church/buttonhole and ruined lighthouse are later anchored to incompatible places/timelines, or the “boy” incident is shown to be a different scene from the “new young man” in Pages/cains_jawbone_page_5.md.
+      - **Sequence A — church-side comedy → lighthouse-side distraction** (confidence: `MAYBE`)
+        - **Pages (ordered):** Pages/cains_jawbone_page_4.md → Pages/cains_jawbone_page_5.md
+        - **Why:**
+          - Pages/cains_jawbone_page_4.md establishes the coastal setting with church/puddles + “boy… to tumble into the sea,” while Pages/cains_jawbone_page_5.md shifts to the ruined lighthouse as the next major location-beat in the same seaside strip.
+          - Pages/cains_jawbone_page_4.md’s suspicion of a “beautiful” woman (“Can I suspect her?”) aligns with Pages/cains_jawbone_page_5.md’s irritation at distractions while “poor Henry” pursues an “intended fifth,” reading like an escalation from social comedy to stakes.
+          - Note: no phrase-level anchor currently ties these as adjacent; treat as a tentative within-cluster order only.
+        - **Disconfirming evidence:**
+          - The church/buttonhole and ruined lighthouse are later anchored to incompatible places/timelines, or the “boy” incident is shown to be a different scene from the “new young man” in Pages/cains_jawbone_page_5.md.
     - **Sequence B — scene order uncertain (keep reverse alive)** (confidence: `MAYBE`)
       - **Pages (ordered):** Pages/cains_jawbone_page_5.md → Pages/cains_jawbone_page_4.md
       - **Why:**
@@ -734,12 +734,14 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Key anchors:** “I always pay my debts”; “behind the armchair”; “ironic comment”; “innocent child”; “end of my interview”; “make yourself comfortable with the papers”; “commentary… page after page”; “introduced to me”; “well-fed swine”; Westphalian ham.
   - **Disconfirming evidence:** Westphalian ham/papers language is shown to be a widely reused table-setting motif, or the “introduced to me” Trinder description is later anchored to a different narrator/setting.
   - **Phase 4 internal ordering hypotheses (N25):**
-    - **Sequence A — interview/papers run** (confidence: `LIKELY`)
+    - **Sequence A — interview/papers run** (confidence: `CERTAIN`)
       - **Pages (ordered):** Pages/cains_jawbone_page_52.md → Pages/cains_jawbone_page_53.md
       - **Why:**
-        - Pages/cains_jawbone_page_52.md establishes an interview mechanic (“make yourself comfortable with the papers”; “end of my interview”) and forecasts “commentary… page after page”; Pages/cains_jawbone_page_53.md reads naturally as a later/next “subject introduced” beat in the same enquiry (contempt register + “introduced to me”).
+        - Pages/cains_jawbone_page_52.md establishes the interview frame (“The door opened and shut”; “make yourself comfortable with the papers”; “end of my interview”) and explicitly forecasts “commentary… page after page.”
+        - Pages/cains_jawbone_page_53.md reads as the immediate follow-on to that entrance/intro beat (“had just been introduced to me”) and supplies the identification of the same interview subject (Sir Paul Trinder) introduced but unnamed on Pages/cains_jawbone_page_52.md.
       - **Disconfirming evidence:**
         - Pages/cains_jawbone_page_53.md’s Sir Paul Trinder introduction is shown to be a separate narrator/setting (e.g., incompatible participants or contradictory scene mechanics).
+        - A third page is found that contains the missing intermediate “intro” beat between Pages/cains_jawbone_page_52.md’s door-entry setup and Pages/cains_jawbone_page_53.md’s “introduced to me” line.
     - **Sequence B — debts/bills clandestine vignette** (confidence: `LIKELY`)
       - **Pages (ordered):** Pages/cains_jawbone_page_33.md → Pages/cains_jawbone_page_34.md
       - **Why:**
