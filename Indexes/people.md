@@ -617,3 +617,15 @@ Template:
   - **Pronouns/relationships:** paired with `P100` Tom; MAYBE co-owner of `P24` Jasmine (cat).
   - **Pages:** Pages/cains_jawbone_page_88.md
   - **Notes:** Keep separate from `P26` Flora (dog mate) and `P36` Flora (household staff) unless an explicit cross-anchor appears.
+
+- `P102` — Names/aliases: “old man” (drops metallic object; uncertain)
+  - **Tells:** drops a metallic object; has a companion who retrieves it “with daughterly swiftness”; present during “late night final” newsboys scene.
+  - **Pronouns/relationships:** accompanied by `P103` (LIKELY daughter).
+  - **Pages:** Pages/cains_jawbone_page_83.md
+  - **Notes:** MAYBE the same “old man” as `P69` (Leningrad purchases) given the coin/metal-drop continuity inside `N06`; keep separate until a second non-generic anchor appears (e.g., Manchester/Leningrad/OGPU detail).
+
+- `P103` — Names/aliases: old man’s companion (“daughterly”)
+  - **Tells:** retrieves the metallic object “with daughterly swiftness”; asks what he meant by “good news from Ghent”.
+  - **Pronouns/relationships:** companion of `P102` (LIKELY daughter); MAYBE overlaps `P70` (husky-voiced woman).
+  - **Pages:** Pages/cains_jawbone_page_83.md
+  - **Notes:** MAYBE the same as `P70` if the p74/p83 “old man” scene is continuous; do not merge without a second anchor.

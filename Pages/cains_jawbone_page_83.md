@@ -5,9 +5,9 @@ A flower-seller, fed ruddily, it seemed, on hope, broke in and would have made a
 - **Entities:**
   - CERTAIN: flower-seller (unnamed; makes a round of the group).
   - CERTAIN: Henry (summoned “cat-like… over the floor”).
-  - CERTAIN: “old man” (drops a metallic object).
-  - CERTAIN: old man’s companion (retrieves the object “with daughterly swiftness”).
-  - MAYBE: “she” (enquires faintly about “good news from Ghent”).
+  - CERTAIN: “old man” (drops a metallic object) (`P102`; MAYBE the same as `P69` from Pages/cains_jawbone_page_74.md).
+  - CERTAIN: old man’s companion (retrieves the object “with daughterly swiftness”) (`P103`; LIKELY his daughter).
+  - LIKELY: “she” (enquires faintly about “good news from Ghent”) = the old man’s companion (`P103`).
   - CERTAIN: newsboys (shouting “late night final”).
 - **Time markers:**
   - CERTAIN: late night (“late night final”).
@@ -18,7 +18,7 @@ A flower-seller, fed ruddily, it seemed, on hope, broke in and would have made a
 - **Motifs/continuity hooks:**
   - Flowers: countryside-flower catalogue; red rose “sole survivor”.
   - Sensory gesture: tasting dew from the rose.
-  - MAYBE: metallic object drop/retrieval is a continuity prop; page-body scan: “metallic object” and “daughterly” appear only here, while “half-crowns” appears only on Pages/cains_jawbone_page_74.md (object still unnamed: coin vs key/utensil/case).
+  - MAYBE: metallic object drop/retrieval is a continuity prop; page-body scan: “metallic object” and “daughterly” appear only here, while “half-crowns” appears only on Pages/cains_jawbone_page_74.md (object still unnamed: coin vs key/utensil/case). If `P102` is `P69`, `P103` may also overlap `P70` (husky-voiced woman).
   - MAYBE: “mal de mer” (sea-sickness) simile echoes Pages/cains_jawbone_page_73.md’s Marseille/old-Port initiation memory (additional cosmopolitan/travel tell within `N06`).
 - **Voice/tells:**
   - Lyrical flower-cataloguing + abrupt attention shifts (newsboys, “news?” anxiety).

@@ -4,9 +4,9 @@ photographs of young and laughing athletes, lads who had profited and gone on, a
 
 - **Entities:**
   - CERTAIN: “the Head” (quoted voice from narrator’s past; likely the same “Head” figure seen elsewhere; confirm).
-  - CERTAIN: “that husky… voice” / “her” (unnamed woman).
-  - CERTAIN: “the old man” (unnamed; claims secret purchases in Leningrad; gives “wise old reply”).
-  - CERTAIN: “little humpbacked fellow” (unnamed seller; “double-faced Quasimodo of the Ogpu”).
+  - CERTAIN: “that husky… voice” / “her” (unnamed woman) (`P70`).
+  - CERTAIN: “the old man” (unnamed; claims secret purchases in Leningrad; gives “wise old reply”) (`P69`).
+  - CERTAIN: “little humpbacked fellow” (unnamed seller; “double-faced Quasimodo of the Ogpu”) (`P71`).
 - **Places:**
   - CERTAIN: Leningrad (source of the secret purchases).
   - CERTAIN: Manchester (referenced via “speech on sane mediocrity”).
@@ -25,6 +25,7 @@ photographs of young and laughing athletes, lads who had profited and gone on, a
   - Sensual + political; charged metaphors (“tense half-crowns… on marble”).
 - **Clustering hypotheses:**
   - CERTAIN: `N06` orator/artist + flowers/documents/OGPU voice; ties strongly to Pages/cains_jawbone_page_73.md via phrase-level continuation plus shared rhetoric/sexual-politics register.
+  - MAYBE: shares a unique husk-/husky voice descriptor with Pages/cains_jawbone_page_43.md (different narrator), suggesting the same “she” participant if not disproven; treat as a cross-voice constraint (see `Order/hypotheses.md`).
   - LIKELY: ties to Pages/cains_jawbone_page_75.md via a shared bundle (flowers; “them” bought secretly ↔ “orange tinted documents”; eyesight failure) and to Pages/cains_jawbone_page_83.md via “red rose” persistence + “old man”/conversation framing; keep as continuity hooks (Phase 4 adjacency/placement checks), not asserted order in Phase 3.
   - CERTAIN: shares the page-body unique “the Head, as we called him” phrasing with Pages/cains_jawbone_page_67.md. Treat as a continuity constraint `Pages/cains_jawbone_page_67.md ↔ Pages/cains_jawbone_page_74.md` (see `Order/hypotheses.md` constraints inventory; direction TBD).
 - **Disconfirming evidence:**

@@ -161,6 +161,11 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_12.md, Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_50.md
   - **Notes:** Potential scene/cluster anchor; ties to character “May”.
 
+- **Documents (orange tinted)**
+  - **Instances / variants:** “orange tinted documents”; “them” bought secretly; eyesight “searchlights” failing over reading
+  - **Pages:** Pages/cains_jawbone_page_74.md, Pages/cains_jawbone_page_75.md
+  - **Notes:** Distinct from the will/inheritance thread, but cross-links via the shared “searchlights” eye-metaphor (Pages/cains_jawbone_page_12.md ↔ Pages/cains_jawbone_page_75.md).
+
 - **Sugar (Tate)**
   - **Instances / variants:** “Tate essentially meant sugar”; hidden sugar “under the gas fire”; “good Tate”
   - **Pages:** Pages/cains_jawbone_page_48.md, Pages/cains_jawbone_page_88.md

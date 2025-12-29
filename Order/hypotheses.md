@@ -125,6 +125,9 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
 - **Constraint:** Pages/cains_jawbone_page_67.md ↔ Pages/cains_jawbone_page_74.md (confidence: `CERTAIN`)
   - **Anchor:** page-body unique school-register phrasing: “the Head, as we called him” (with the same “ringing with…” memory texture).
   - **Falsifier:** a third page-body instance of the phrase appears, or “the Head” is shown to be different referents across the two scenes.
+- **Constraint:** Pages/cains_jawbone_page_74.md ↔ Pages/cains_jawbone_page_83.md (confidence: `MAYBE`)
+  - **Anchor:** p74’s “half-crowns dropped upon marble” coin-drop image + old-man dialogue ↔ p83’s old man literally dropping a “metallic object” retrieved with “daughterly swiftness” (with the red-rose state progression as supporting context).
+  - **Falsifier:** the “metallic object” is later identified as not coin-like (key/case etc.), or p83’s old man/companion are shown to be distinct from the OGPU/Leningrad “old man” scene.
 - **Constraint:** Pages/cains_jawbone_page_7.md ↔ Pages/cains_jawbone_page_45.md (confidence: `CERTAIN`)
   - **Anchor:** distinctive *Typhoon/Taifun* Renard‑Beinsky phrasing + Pole/half‑Pole framing.
   - **Falsifier:** the *Typhoon* layer is shown to be a detachable quotation reused by multiple narrators.
@@ -1032,7 +1035,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
       - **Pages (ordered):** Pages/cains_jawbone_page_73.md → Pages/cains_jawbone_page_74.md → Pages/cains_jawbone_page_75.md → (LIKELY later, not necessarily adjacent) Pages/cains_jawbone_page_83.md
       - **Why:**
         - Pages/cains_jawbone_page_83.md continues the flower-state progression from the `73 → 74 → 75` run: Pages/cains_jawbone_page_74.md says “The red rose and the white only remained,” Pages/cains_jawbone_page_75.md treats those “two other flowers” as key props, and Pages/cains_jawbone_page_83.md later has “the red rose, the sole survivor.”
-        - Pages/cains_jawbone_page_83.md keeps an “old man” + “she asked what he meant” conversational frame compatible with Pages/cains_jawbone_page_74.md’s old-man + husky-voiced “her” exchange (Henry is only explicit on Page 83).
+        - Pages/cains_jawbone_page_83.md keeps an “old man” + “she asked what he meant” conversational frame compatible with Pages/cains_jawbone_page_74.md’s old-man + husky-voiced “her” exchange, and adds “daughterly swiftness” (making it plausible the woman is the old man’s companion/daughter if these are the same scene).
         - MAYBE: Pages/cains_jawbone_page_74.md’s coin-drop image (“half-crowns dropped upon marble”) is literalised by Pages/cains_jawbone_page_83.md’s old man dropping a “metallic object” (prop-level continuity if it’s a coin/half-crown).
         - MAYBE: Pages/cains_jawbone_page_83.md’s “mal de mer” (sea-sickness) simile echoes Pages/cains_jawbone_page_73.md’s Marseille/old-Port initiation memory (travel/foreign-language register continuity).
       - **Disconfirming evidence:**
