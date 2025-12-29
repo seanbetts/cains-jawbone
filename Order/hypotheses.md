@@ -1339,9 +1339,9 @@ Template:
   - **Why:** Both are table scenes with Henry present and a nearby dog; Page 85’s “weary business… ended” closure reads like it can precede Page 82’s stationary comedown at a familiar table (“cold weight of my certainty”) after witnessing “carnal, bloody and unnatural acts.”
   - **Disconfirming evidence:** settings or Henry’s role clearly diverge, or another page bridges the continuity.
 
-- **Sequence (confidence: MAYBE):** `Pages/cains_jawbone_page_68.md → Pages/cains_jawbone_page_69.md → Pages/cains_jawbone_page_70.md`
-  - **Why:** Shared “old man” thread (crucial meeting → slow death witnessed → letter/retaliation fear) suggests narrative continuity.
-  - **Note:** no phrase-level overlap currently ties Pages/cains_jawbone_page_68.md to Pages/cains_jawbone_page_69.md; treat this as a motif-level chain only unless a second independent anchor emerges.
+- **Sequence (confidence: MAYBE):** `Pages/cains_jawbone_page_68.md → Pages/cains_jawbone_page_69.md`
+  - **Why:** Both pages sit in the same “old man” thread: Pages/cains_jawbone_page_68.md’s “last crucial meeting” + suspected eavesdropping is followed by Pages/cains_jawbone_page_69.md’s late-night attempt to “collect myself” after the old man is “done slowly to death.”
+  - **Note:** treat as a narrative-continuity chain within `N09`, not a phrase-level lock.
   - **Disconfirming evidence:** “old man” is generic or the pronoun targets differ across pages.
 
 - **Sequence (confidence: CERTAIN):** `Pages/cains_jawbone_page_90.md → Pages/cains_jawbone_page_89.md`
