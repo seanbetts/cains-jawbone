@@ -752,7 +752,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Falsification check (2025-12-25):** searched the page corpus for the “innocent child” phrasing and found it only on Pages/cains_jawbone_page_34.md and Pages/cains_jawbone_page_52.md; together with their shared “ironic” framing, this supports a `LIKELY` same-voice link (vs a widely reused detachable quotation). However, no shared participant/prop/setting marker ties the debts vignette (Pages/cains_jawbone_page_33.md + Pages/cains_jawbone_page_34.md) to the interview run (Pages/cains_jawbone_page_52.md + Pages/cains_jawbone_page_53.md), so keep them as two internal pairings and do not assert adjacency between them yet.
   - **Next falsification check:** seek a second independent continuity marker bridging the debts vignette to the interview run (named participant, repeated prop, or consistent location detail), or find a third “innocent child” instance under a clearly different voice that would demote it to generic phrasing.
 
-- **Cluster:** `N26` “Awful and literal sense” breakfast-recapping / second-sight voice (confidence: `LIKELY`)
+- **Cluster:** `N26` “Awful and literal sense” breakfast-recapping / second-sight voice (confidence: `CERTAIN`)
   - **Pages:** Pages/cains_jawbone_page_54.md, Pages/cains_jawbone_page_56.md
   - **Rationale:** Both pages share the distinctive parenthetical aside “in the awful and literal sense of the word” and a morning/breakfast framing that mixes self-mocking wordplay with heightened mental-state reporting (recapitulation/second-sight).
   - **Key anchors:** repeated “awful and literal sense” phrasing; breakfast setting (toast/marmalade; sausage); insomnia + “agony of recapitulation”; “Clare” (clairvoyant/clairaudient pun).
