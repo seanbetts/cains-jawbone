@@ -35,6 +35,7 @@ LIKELY WORDPLAY
   - Social irritation; fast associative brand-name riffs; possibly feminine-coded gesture (“powdered my nose”).
 - **Clustering hypotheses:**
   - MAYBE: same Henry as Pages/cains_jawbone_page_2.md and Pages/cains_jawbone_page_4.md; track Henry’s serial “intended” count.
+  - LIKELY: links to Pages/cains_jawbone_page_58.md via the page-body unique “went on … Browning” complaint (“He went on about Browning.” ↔ “He went on talking about Browning.”); treat as a continuity constraint `Pages/cains_jawbone_page_5.md ↔ Pages/cains_jawbone_page_58.md` (see `Order/hypotheses.md`). If the murder-count tally is consistent (“intended fifth” ↔ “fourth”), tentative direction is `Pages/cains_jawbone_page_58.md → Pages/cains_jawbone_page_5.md` (confidence: `MAYBE`).
   - MAYBE: loose coastal/Henry motif overlap with Pages/cains_jawbone_page_4.md (church-side comedy ↔ ruined lighthouse scene), but no phrase-level anchor found; treat as non-binding unless a unique shared prop/phrase emerges.
 - **Disconfirming evidence:**
   - If “Henry” becomes clearly distinct by surname/setting later.

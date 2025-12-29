@@ -113,6 +113,9 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
 - **Constraint:** Pages/cains_jawbone_page_43.md ↔ Pages/cains_jawbone_page_74.md (confidence: `MAYBE`)
   - **Anchor:** unique husk-voice descriptor for an unnamed “she”: Page 43’s “huskily lisping…” ↔ Page 74’s “husky miracle of a voice”.
   - **Falsifier:** a third page body uses the same husk-/husky voice descriptor, or later evidence identifies the two “she/her” referents as different people.
+- **Constraint:** Pages/cains_jawbone_page_5.md ↔ Pages/cains_jawbone_page_58.md (confidence: `LIKELY`)
+  - **Anchor:** page-body unique “went on … Browning” complaint while Henry’s serial-killing beat proceeds (“He went on about Browning.” ↔ “He went on talking about Browning.”).
+  - **Falsifier:** a third page-body instance of the same “went on … Browning” phrasing appears, or later evidence shows the Browning‑talking bystanders/contexts are incompatible.
 - **Constraint:** Pages/cains_jawbone_page_6.md ↔ Pages/cains_jawbone_page_29.md (confidence: `CERTAIN`)
   - **Anchor:** “spare-room/spareroom” appears only on these two pages, each time as the same house-setting detail (old spare-room “in this very house” ↔ “unsatisfactory visit to the spareroom”).
   - **Falsifier:** another page is found using the same spare-room phrasing, or one mention is shown to be idiomatic/quoted rather than situational.
@@ -219,7 +222,8 @@ _None currently._
 
 Directionless mapping from each constraint pair to narrator IDs (useful for cross-narrator joins).
 
-- **Cross-narrator constraints (current):** Pages/cains_jawbone_page_12.md ↔ Pages/cains_jawbone_page_75.md (`N10` ↔ `N06`); Pages/cains_jawbone_page_23.md ↔ Pages/cains_jawbone_page_24.md (`N40` ↔ `N03`).
+- **Cross-narrator constraints (current):** Pages/cains_jawbone_page_12.md ↔ Pages/cains_jawbone_page_75.md (`N10` ↔ `N06`); Pages/cains_jawbone_page_23.md ↔ Pages/cains_jawbone_page_24.md (`N40` ↔ `N03`); Pages/cains_jawbone_page_5.md ↔ Pages/cains_jawbone_page_58.md (`N19` ↔ `N12`).
+- Pages/cains_jawbone_page_5.md ↔ Pages/cains_jawbone_page_58.md — Narrator(s): N19 ↔ N12 (confidence: `LIKELY`)
 - Pages/cains_jawbone_page_6.md ↔ Pages/cains_jawbone_page_29.md — Narrator(s): N12 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_6.md ↔ Pages/cains_jawbone_page_21.md — Narrator(s): N12 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_1.md ↔ Pages/cains_jawbone_page_43.md — Narrator(s): N01 (confidence: `CERTAIN`)
@@ -521,13 +525,13 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - Both pages bind Calabar/digitalis to Henry-in-scene + corpse-handling language (blood/body; burial with eyes showing).
       - **Disconfirming evidence:**
         - “introduced him to the person most concerned” in Pages/cains_jawbone_page_36.md is later shown to refer to a different “him”/recipient than the Calabar/digitalis action in Pages/cains_jawbone_page_21.md.
-      - **Sequence B — Henry spree escalation (knock → manhunt)** (confidence: `MAYBE`)
-        - **Pages (ordered):** Pages/cains_jawbone_page_58.md → Pages/cains_jawbone_page_35.md
-        - **Why:**
-          - Pages/cains_jawbone_page_58.md ends with a “horribly official knock,” and Pages/cains_jawbone_page_35.md continues into an active police pursuit with the flying squad and an escape attempt.
-          - Note: current evidence is thematic only (no phrase-level overlap); do not treat this as a lock unless a second independent shared anchor emerges.
-        - **Disconfirming evidence:**
-          - Any of the “killings/victim” language is proven figurative, or the Pages/cains_jawbone_page_35.md pursuit is later revealed as an embedded/imagined story unrelated to the corpse scenes.
+    - **Sequence B — Henry spree escalation (knock → manhunt)** (confidence: `MAYBE`)
+      - **Pages (ordered):** Pages/cains_jawbone_page_58.md → Pages/cains_jawbone_page_35.md
+      - **Why:**
+        - Pages/cains_jawbone_page_58.md ends with a “horribly official knock,” and Pages/cains_jawbone_page_35.md continues into an active police pursuit with the flying squad and an escape attempt.
+        - Note: current evidence is thematic only (no phrase-level overlap); do not treat this as a lock unless a second independent shared anchor emerges.
+      - **Disconfirming evidence:**
+        - Any of the “killings/victim” language is proven figurative, or the Pages/cains_jawbone_page_35.md pursuit is later revealed as an embedded/imagined story unrelated to the corpse scenes.
     - **Sequence C — Trinder outcome (failed → succeeded)** (confidence: `LIKELY`)
       - **Pages (ordered):** Pages/cains_jawbone_page_59.md → Pages/cains_jawbone_page_60.md
       - **Why:**
@@ -566,7 +570,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
       - **Pages (linked):** Pages/cains_jawbone_page_36.md ↔ Pages/cains_jawbone_page_59.md
       - **Why:**
         - Both pages are poison-failure beats (“Calabar… should fail me” / “bane… definitely failed”) and share the unique “awkward” complaint (“distinctly awkward” ↔ “awkward with Trinder about”).
-      - **Ordering note:** direction remains underdetermined; use this as an in-voice anchor only until a second directional cue appears.
+      - **Ordering note:** direction remains underdetermined; tentative direction hypothesis is Pages/cains_jawbone_page_36.md → Pages/cains_jawbone_page_59.md (confidence: `MAYBE`) on the idea that p36’s corpse-handling beat can precede p59’s detective-sergeant follow-up about a strange death — keep the reverse alive until a second independent cue emerges.
       - **Disconfirming evidence:**
         - Later evidence anchors the two scenes/voices as incompatible (despite the shared “awkward” phrasing), or a third page is found with a tighter “awkward” continuity context.
     - **Sequence I — wolfsbane fails → gelsemium pivot** (confidence: `LIKELY`)
@@ -695,6 +699,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - Without a hard sentence/quote continuation, the two vignettes could be non-adjacent beats in the same coastal day; keep the reverse available until a stronger anchor appears.
       - **Disconfirming evidence:**
         - Any phrase-level continuation is found (shared “new young man”/boy rescue, repeated objects, or an explicit “after/before” marker) that fixes Pages/cains_jawbone_page_4.md as the earlier scene.
+  - **Overlap candidate:** Pages/cains_jawbone_page_5.md ↔ Pages/cains_jawbone_page_58.md shares a unique “went on … Browning” complaint while Henry’s serial-killing beat continues; treat as a potential `N19` ↔ `N12` bridge (or a sign that Page 5’s narrator assignment needs revisiting) until a second independent anchor resolves it.
   - **Next falsification check:** search for a third page that repeats one of the unique N19 anchors (Sir Roland Mowthalorn / gin-faced Annie / “Emperor’s Peg” / ruined lighthouse / Lesurques↔Cirque pun) to decide whether Pages/cains_jawbone_page_4.md and Pages/cains_jawbone_page_5.md are adjacent or merely co-clustered.
 
 - **Cluster:** `N20` Bloomsbury/nomenclature + grim-scene voice (confidence: `LIKELY`)
