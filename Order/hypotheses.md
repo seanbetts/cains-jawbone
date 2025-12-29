@@ -544,7 +544,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - Foxgloves/digitalis in Pages/cains_jawbone_page_6.md are shown to be ornamental (not an operational poison thread), or “proved digitalis” in Pages/cains_jawbone_page_21.md refers to an unrelated experiment.
     - **Sequence E — spare-room continuity (tentative direction)** (confidence: `LIKELY`)
       - **Pages (linked):** Pages/cains_jawbone_page_6.md ↔ Pages/cains_jawbone_page_29.md
-      - **Current direction hypothesis:** Pages/cains_jawbone_page_6.md → Pages/cains_jawbone_page_29.md (confidence: `MAYBE`)
+      - **Current direction hypothesis:** Pages/cains_jawbone_page_6.md → Pages/cains_jawbone_page_29.md (confidence: `LIKELY`, derived from Sequences D + A + F; not an independent hinge)
       - **Why:**
         - Both pages reference the spare-room in the same house (“old spare-room in this very house” / “unsatisfactory visit to the spareroom”).
         - In the page bodies, “spare-room/spareroom” appears only on these two pages, suggesting a deliberate setting anchor (even if the within-strand direction is unclear).
@@ -562,11 +562,11 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - Pages/cains_jawbone_page_29.md ends with “I felt I ought to be drawing towards a close ; but one never knew,” and Pages/cains_jawbone_page_35.md reuses the same phrase while also repeating “One never knew” and supplying an explicit reason (“But he might return”), which reads like a more explicit reprise.
       - **Disconfirming evidence:**
         - Another page is found to share the exact “drawing towards a close” phrasing, or later evidence anchors Pages/cains_jawbone_page_35.md as clearly earlier than Pages/cains_jawbone_page_29.md in this voice/setting.
-    - **Sequence H — “awkward” link (tentative direction)** (confidence: `CERTAIN`)
+    - **Sequence H — “awkward” link (directionless)** (confidence: `CERTAIN`)
       - **Pages (linked):** Pages/cains_jawbone_page_36.md ↔ Pages/cains_jawbone_page_59.md
-      - **Current direction hypothesis:** Pages/cains_jawbone_page_36.md → Pages/cains_jawbone_page_59.md (confidence: `MAYBE`)
       - **Why:**
         - Both pages are poison-failure beats (“Calabar… should fail me” / “bane… definitely failed”) and share the unique “awkward” complaint (“distinctly awkward” ↔ “awkward with Trinder about”).
+      - **Ordering note:** direction remains underdetermined; use this as an in-voice anchor only until a second directional cue appears.
       - **Disconfirming evidence:**
         - Later evidence anchors the two scenes/voices as incompatible (despite the shared “awkward” phrasing), or a third page is found with a tighter “awkward” continuity context.
     - **Sequence I — wolfsbane fails → gelsemium pivot** (confidence: `LIKELY`)
@@ -577,6 +577,13 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - Both pages keep the same “Sir Paul/Trinder” poisoning frame (host/guest handling of Sir Paul; Trinder “about” during the follow-on poison/police beat).
       - **Disconfirming evidence:**
         - “bane… failed” on Pages/cains_jawbone_page_59.md is shown to refer to a different, explicitly named “bane” elsewhere in the same voice, or Pages/cains_jawbone_page_80.md is later shown to be a purely didactic plant-cabinet scene with no poisoning intent.
+    - **Sequence J — foxgloves → Calabar → physostigma discard (spine)** (confidence: `LIKELY`)
+      - **Pages (ordered):** Pages/cains_jawbone_page_6.md → Pages/cains_jawbone_page_21.md → Pages/cains_jawbone_page_36.md → Pages/cains_jawbone_page_29.md
+      - **Why:**
+        - Combines Sequences D + A + F: foxgloves/digitalis (6→21), explicit “morning after” Calabar continuation (21→36), then the ordeal-bean thread is explicitly discarded after failing (36→29).
+        - This spine also supports treating the spare-room direction as `6 → 29` (but only as a derived implication, not a separate hinge).
+      - **Disconfirming evidence:**
+        - Any of the component sequence links fails (foxgloves/digitalis not part of the same operational thread; Calabar “morning after” refers to a different “him”; or physostigma discard is explicitly prior to the Calabar failure).
   - **Resolved check (Henry identity):** within `N12`, “Henry” behaves like at least two incompatible roles: a killer/suspect under pursuit with explicit corpse-handling (Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_58.md) vs a narrator-controlled “peerless investigator” (Pages/cains_jawbone_page_60.md). Treat `P01` Henry as high-noise here: keep `N12` sub-strands ordered internally, but do not stitch them together on “Henry” alone.
   - **Next falsification check:** before using Pages/cains_jawbone_page_60.md to order within the broader `N12` umbrella, require a second non-name anchor linking it to the killer/manhunt strand (e.g., Wellington Crisp/flying squad, “crimson list”, “little blue door” knock) or linking the killer/manhunt pages to Trinder/gelsemium language.
 
