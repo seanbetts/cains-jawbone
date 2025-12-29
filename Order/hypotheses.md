@@ -331,7 +331,7 @@ These are **cross-narrator** groupings intended to reduce the search space for P
   - **Sub-strands (working):**
     - `N12` poison logistics: Pages/cains_jawbone_page_6.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_29.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_58.md, Pages/cains_jawbone_page_59.md, Pages/cains_jawbone_page_80.md
     - `N03` Clement/pills/flowers: Pages/cains_jawbone_page_3.md, Pages/cains_jawbone_page_24.md, Pages/cains_jawbone_page_27.md, Pages/cains_jawbone_page_30.md, Pages/cains_jawbone_page_32.md
-    - `N06` flowers/documents/OGPU: Pages/cains_jawbone_page_71.md, Pages/cains_jawbone_page_73.md, Pages/cains_jawbone_page_74.md, Pages/cains_jawbone_page_75.md, Pages/cains_jawbone_page_83.md
+    - `N06` flowers/documents/OGPU: Pages/cains_jawbone_page_73.md, Pages/cains_jawbone_page_74.md, Pages/cains_jawbone_page_75.md, Pages/cains_jawbone_page_83.md (MAYBE edge overlap: Pages/cains_jawbone_page_71.md)
     - `N13` host/guest poisoning: Pages/cains_jawbone_page_86.md, Pages/cains_jawbone_page_87.md
     - Bridge singleton candidates: `N26` (Pages/cains_jawbone_page_54.md), `N31` (Pages/cains_jawbone_page_40.md)
     - Edge overlap promotions (low confidence): `N19` (Pages/cains_jawbone_page_5.md); `N16` (Pages/cains_jawbone_page_7.md, Pages/cains_jawbone_page_45.md)
@@ -1019,8 +1019,8 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Next falsification check:** look for a shared prop/phrase that ties Pages/cains_jawbone_page_82.md to Pages/cains_jawbone_page_85.md (e.g., concealment under a table object, or a repeat of the “certainty/pressure” imagery) before treating the table vignettes as a true run.
 
 - **Cluster:** `N06` Orator/artist + flowers/documents/OGPU voice (confidence: `CERTAIN`)
-  - **Pages:** Pages/cains_jawbone_page_66.md, Pages/cains_jawbone_page_67.md, Pages/cains_jawbone_page_71.md, Pages/cains_jawbone_page_73.md, Pages/cains_jawbone_page_74.md, Pages/cains_jawbone_page_75.md, Pages/cains_jawbone_page_83.md
-  - **Rationale:** Core Pages 73–75 (+83) mix art/oratory identity, French verse, and a secrecy/blackmail register with flowers/documents + failing eyesight. Pages 66–67 (school colours/“the Head” sub-strand) are merged in based on page-body unique phrase-level echoes to Pages 73–74 (see “Merge decisions (Phase 3)” above). Page 71 remains the weakest member (no OGPU/documents/old-man anchors) but keeps the same May/eye stress + botanical fixation register.
+  - **Pages:** Pages/cains_jawbone_page_66.md, Pages/cains_jawbone_page_67.md, Pages/cains_jawbone_page_73.md, Pages/cains_jawbone_page_74.md, Pages/cains_jawbone_page_75.md, Pages/cains_jawbone_page_83.md
+  - **Rationale:** Core Pages 73–75 (+83) mix art/oratory identity, French verse, and a secrecy/blackmail register with flowers/documents + failing eyesight. Pages 66–67 (school colours/“the Head” sub-strand) are merged in based on page-body unique phrase-level echoes to Pages 73–74 (see “Merge decisions (Phase 3)” above). Pages/cains_jawbone_page_71.md is treated as an edge-overlap candidate (May/eyes) unless a second independent anchor emerges.
   - **Key anchors:** “the Head, as we called him” + school-colours register; art-name dropping (Beardsley/Rops; travel-guide Haslemere/Whympers); May/red-May scent; red/white roses + marigolds/calendula; red rose “sole survivor”; “orange tinted documents”; Goya reproduction confusion; “Will anyone know about them?”; Leningrad/OGPU mention; flower-seller interruption.
   - **Disconfirming evidence:** later evidence forces incompatible narrator self-identity/setting constraints between the school-colours/Head strand and the OGPU/documents/flower strand, or “May”/“them/documents” resolve as purely generic motifs with no continuity.
   - **Phase 4 internal ordering hypotheses (N06):**
