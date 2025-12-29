@@ -1344,9 +1344,9 @@ Template:
   - **Note:** no phrase-level overlap currently ties Pages/cains_jawbone_page_68.md to Pages/cains_jawbone_page_69.md; treat this as a motif-level chain only unless a second independent anchor emerges.
   - **Disconfirming evidence:** “old man” is generic or the pronoun targets differ across pages.
 
-- **Sequence (confidence: MAYBE):** `Pages/cains_jawbone_page_89.md → Pages/cains_jawbone_page_90.md`
-  - **Why:** Both pages centre an “old gentleman” figure within a hunting/food register (deer/collops; deer-stalker) in a refined venue context.
-  - **Disconfirming evidence:** The two old-gentleman figures are distinct, or the settings differ (moor/outdoors vs indoor soigné venue) with no bridging continuity.
+- **Sequence (confidence: CERTAIN):** `Pages/cains_jawbone_page_90.md → Pages/cains_jawbone_page_89.md`
+  - **Why:** Page 90 introduces the grotesque old gentleman and the deer‑stalker drop in the “soigné” venue; Page 89 follows with “The ancient had then sat down…” and continues the same evaluation/memory-test beat (collops/Spey Royal + gold/silver “light” motifs stay in-register).
+  - **Disconfirming evidence:** “among the heather” + moor/Spey Royal context on Page 89 is shown to be literal outdoors (not the same venue), or the “ancient” is demonstrably a different figure from Page 90’s old gentleman.
 
 - **Sequence (confidence: CERTAIN):** `Pages/cains_jawbone_page_52.md → Pages/cains_jawbone_page_53.md`
   - **Why:** Direct interview/papers continuity (Page 52’s “commentary… page after page” continues into Page 53’s “introduced to me” profile of Sir Paul Trinder in the same interview frame).
