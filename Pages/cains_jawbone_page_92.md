@@ -22,7 +22,7 @@ My earlier days had been so different. There hadn’t been the comfort, the sens
 - **Voice/tells:**
   - Nostalgic self-comparison (childhood frustration → present indulgence) + heightened anticipatory mood (“cardiac revelation”).
 - **Clustering hypotheses:**
-  - CERTAIN: `N21` voice; Browning “Saul” quotation continuation lock with Pages/cains_jawbone_page_42.md (“…living and blue” ↔ “Just broken to twine…”). Treat as a continuity constraint `Pages/cains_jawbone_page_42.md ↔ Pages/cains_jawbone_page_92.md` (see `Order/hypotheses.md` constraints inventory; direction TBD).
+  - CERTAIN: `N21` voice; Browning “Saul” quotation continuation lock with Pages/cains_jawbone_page_42.md (“…living and blue” ↔ “Just broken to twine…”). Treat as a continuity constraint `Pages/cains_jawbone_page_92.md → Pages/cains_jawbone_page_42.md` (see `Order/hypotheses.md`).
   - MAYBE: overlaps Henry-focused anticipation with Pages/cains_jawbone_page_49.md, but keep as overlap-only because that page is locked to `N20` by the Blake continuation into Pages/cains_jawbone_page_13.md.
   - MAYBE: overlaps timepiece-driven planning with other watch/clock pages (time-layer motif, not narrator identity).
 - **Disconfirming evidence:**

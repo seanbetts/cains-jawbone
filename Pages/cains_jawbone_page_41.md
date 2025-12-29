@@ -33,7 +33,7 @@ And then with horrid clearness I had seen a woman---not actually, if I could tru
 - **Clustering hypotheses:**
   - CERTAIN: add to Henry-occurrence cluster.
   - MAYBE: links to dog-watch register pages (e.g., Pages/cains_jawbone_page_11.md).
-  - CERTAIN: links strongly with Pages/cains_jawbone_page_11.md (West-End “Orchard” geography + dog-watch timekeeping register + Selfridges/Bond Street patch). Treat as a continuity constraint `Pages/cains_jawbone_page_11.md ↔ Pages/cains_jawbone_page_41.md` and resolve direction in Phase 4; see `Order/hypotheses.md` constraints inventory.
+  - CERTAIN: links strongly with Pages/cains_jawbone_page_11.md (West-End “Orchard” geography + dog-watch timekeeping register + Selfridges/Bond Street patch). LIKELY within-voice order: `Pages/cains_jawbone_page_41.md → Pages/cains_jawbone_page_11.md` (first dog → end of the second dog); see `Order/hypotheses.md` (`N17`).
   - MAYBE: London/Surrey place-wordplay thread (Selfridges/Bond Street ↔ Dittons/Mole area pages).
 - **Disconfirming evidence:**
   - If “first dog” is later clearly literal (not timekeeping) and the Henry here is a distinct Henry.

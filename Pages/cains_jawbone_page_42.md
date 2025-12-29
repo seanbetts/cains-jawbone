@@ -22,7 +22,7 @@ I assure you I had not seen her enter  but suddenly I was electrically aware tha
 - **Voice/tells:**
   - Sensory, eroticised description; fixates on eyes/surface.
 - **Clustering hypotheses:**
-  - CERTAIN: `N21` voice; Browning “Saul” quotation continuation lock with Pages/cains_jawbone_page_92.md. Treat as a continuity constraint `Pages/cains_jawbone_page_42.md ↔ Pages/cains_jawbone_page_92.md` (see `Order/hypotheses.md` constraints inventory; direction TBD).
+  - CERTAIN: `N21` voice; Browning “Saul” quotation continuation lock with Pages/cains_jawbone_page_92.md. Treat as a continuity constraint `Pages/cains_jawbone_page_92.md → Pages/cains_jawbone_page_42.md` (see `Order/hypotheses.md`).
   - MAYBE: same “she” as Pages/cains_jawbone_page_47.md (“she… has got me”); keep as overlap-only unless a second shared anchor appears beyond Henry + tea/drink register.
   - MAYBE: overlaps cocktail-bar setting with Pages/cains_jawbone_page_43.md; do not merge without a phrase-level/participant anchor.
   - MAYBE: shares allusion density with Pages/cains_jawbone_page_40.md; treat verse as a detachable layer unless reinforced by non-quotation continuity.

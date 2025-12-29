@@ -41,7 +41,7 @@ LIKELY WORDPLAY
   - Self-referential about name-jibes; detective/allusion density; calm after stress.
 - **Clustering hypotheses:**
   - CERTAIN: `N08` King narrator cluster (Kipling name-jibe; detective allusions; Henry in-scene; table framing).
-  - CERTAIN: strong continuity hook with Pages/cains_jawbone_page_94.md via the narrator-name tell (window-sign “my own name” ↔ Kipling/KING wordplay) plus Henry in-scene; treat as a continuity constraint `Pages/cains_jawbone_page_85.md ↔ Pages/cains_jawbone_page_94.md` and resolve direction in Phase 4 (see `Order/hypotheses.md` constraints inventory).
+  - CERTAIN: strong continuity hook with Pages/cains_jawbone_page_94.md via the narrator-name tell (window-sign “my own name” ↔ Kipling/KING wordplay) plus Henry in-scene; LIKELY within-voice order: `Pages/cains_jawbone_page_94.md → Pages/cains_jawbone_page_85.md` (“Henry was waiting for me” → “I drove Henry home”); see `Order/hypotheses.md` (`N08`).
   - MAYBE: continuity hook with Pages/cains_jawbone_page_82.md via the table + dog + post-stress comedown register; treat as overlap unless reinforced by a second shared prop/phrase beyond “table” + “dog”.
 - **Disconfirming evidence:**
   - If Pages/cains_jawbone_page_82.md is later anchored to a different narrator/setting (overlap only, no adjacency).

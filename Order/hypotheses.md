@@ -4,7 +4,7 @@ Record clusters and candidate sequences with reasons and falsifiers.
 
 ## Phase 3 constraints inventory (directionless)
 
-High-signal continuity constraints to use for clustering and later Phase 4 ordering work. Use `↔` and avoid `precedes/follows` claims here; resolve direction only when we switch back to Phase 4.
+High-signal continuity constraints to use for clustering and later Phase 4 ordering work. Use `↔` and avoid `precedes/follows` claims here; resolve direction in the Phase 4 cluster sections (keep this inventory directionless).
 
 ### Hard sentence/scene continuations
 

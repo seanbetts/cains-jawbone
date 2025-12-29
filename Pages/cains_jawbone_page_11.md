@@ -38,7 +38,7 @@ If Henry had been there he could have told me what to do. His great voice, tuned
     - “Sunday Graphic” is contradicted elsewhere by a clearer newspaper reference in this narrator’s voice
     - the surrounding context later makes “Grundy Sapphic” a literal person-name
 - **Clustering hypotheses:**
-  - CERTAIN: links strongly with Pages/cains_jawbone_page_41.md (West-End “Orchard” geography + dog-watch timekeeping register + Selfridges/Bond Street patch). Treat as a continuity constraint `Pages/cains_jawbone_page_11.md ↔ Pages/cains_jawbone_page_41.md` and resolve direction in Phase 4; see `Order/hypotheses.md` constraints inventory.
+  - CERTAIN: links strongly with Pages/cains_jawbone_page_41.md (West-End “Orchard” geography + dog-watch timekeeping register + Selfridges/Bond Street patch). LIKELY within-voice order: `Pages/cains_jawbone_page_41.md → Pages/cains_jawbone_page_11.md` (first dog → end of the second dog); see `Order/hypotheses.md` (`N17`).
   - MAYBE: sea/sailor-voice cluster with Pages/cains_jawbone_page_1.md (sea + sailor cues) and other nautical-time pages.
   - MAYBE: Henry name recurrence; track whether this Henry is the same as other Henry mentions.
 - **Disconfirming evidence:**

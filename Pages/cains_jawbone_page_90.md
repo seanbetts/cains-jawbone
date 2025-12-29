@@ -19,7 +19,7 @@ While my mind had been thus far away, a grotesque looking old gentleman had flut
   - Future vs present anxiety (endeavour always “in the future”).
 - **Clustering hypotheses:**
   - CERTAIN: links strongly with Pages/cains_jawbone_page_65.md (phrase-level continuation: Page 90 opens “While my mind had been thus far away…” and repeats the exact “I thought I knew the type : learned in a macabre way…” clause; treat as an immediate-neighbour constraint `Pages/cains_jawbone_page_65.md ↔ Pages/cains_jawbone_page_90.md`; see `Order/hypotheses.md` constraints inventory).
-  - CERTAIN: links strongly with Pages/cains_jawbone_page_89.md (unique deer-set-piece bundle: collops + Spey Royal + deer focus ↔ deer-stalker + soigné/parquet dining scene). Treat as an immediate-neighbour constraint `Pages/cains_jawbone_page_89.md ↔ Pages/cains_jawbone_page_90.md` and resolve direction in Phase 4; see `Order/hypotheses.md` constraints inventory.
+  - CERTAIN: links strongly with Pages/cains_jawbone_page_89.md (unique deer-set-piece bundle: collops + Spey Royal + deer focus ↔ deer-stalker + soigné/parquet dining scene). Treat as an immediate-neighbour constraint `Pages/cains_jawbone_page_90.md → Pages/cains_jawbone_page_89.md`; see `Order/hypotheses.md`.
 - **Disconfirming evidence:**
   - If the “ancient” on Page 89 is clearly not the same figure as this old gentleman.
 - **Research needed:**

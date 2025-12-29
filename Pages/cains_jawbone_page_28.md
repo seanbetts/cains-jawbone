@@ -16,7 +16,7 @@ I found myself by that one of the windows which overlooked the stone broach spir
 - **Voice/tells:**
   - Dry evasiveness (“No, Sir; it is not a very interesting subject…”); self-contradictory marriage talk may be a quotation/echo.
 - **Clustering hypotheses:**
-  - CERTAIN: `N39` will/forgery voice pairing with Pages/cains_jawbone_page_50.md (unique will/forgery operational bundle + shared *Importance of Being Earnest* layer). Treat as a continuity constraint `Pages/cains_jawbone_page_28.md ↔ Pages/cains_jawbone_page_50.md` and resolve direction in Phase 4; see `Order/hypotheses.md` constraints inventory.
+  - CERTAIN: `N39` will/forgery voice pairing with Pages/cains_jawbone_page_50.md (unique will/forgery operational bundle + shared *Importance of Being Earnest* layer). LIKELY within-voice order: `Pages/cains_jawbone_page_28.md → Pages/cains_jawbone_page_50.md`; see `Order/hypotheses.md` (`N39`).
   - MAYBE: links to wills/inheritance/document cluster (Pages/cains_jawbone_page_12.md, Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_18.md).
 - **Disconfirming evidence:**
   - If “forging ahead” later proves to be a non-criminal metaphor unrelated to documents.
