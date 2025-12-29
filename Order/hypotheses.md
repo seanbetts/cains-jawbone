@@ -712,11 +712,11 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - Without a hard sentence/quote continuation, the two vignettes could be non-adjacent beats in the same coastal day; keep the reverse available until a stronger anchor appears.
       - **Disconfirming evidence:**
         - Any phrase-level continuation is found (shared “new young man”/boy rescue, repeated objects, or an explicit “after/before” marker) that fixes Pages/cains_jawbone_page_4.md as the earlier scene.
-    - **Sequence C — Henry count progression (fourth → intended fifth)** (confidence: `MAYBE`)
+    - **Sequence C — Henry count progression (fourth → intended fifth)** (confidence: `LIKELY`)
       - **Pages (ordered):** Pages/cains_jawbone_page_58.md → Pages/cains_jawbone_page_5.md
       - **Why:**
         - Pages/cains_jawbone_page_58.md frames Henry immediately after the “fourth” corpse beat, while Pages/cains_jawbone_page_5.md places Henry with his “intended fifth” (plausible next escalation).
-        - Reinforced by the page-body unique Browning-complaint hinge (see constraints inventory).
+        - Reinforced by the page-body unique Browning-complaint hinge (see constraints inventory), giving two independent anchors (phrase + count progression).
       - **Disconfirming evidence:**
         - “intended fifth” is shown to mean something other than a victim-count escalation, or a later page supplies an explicit “fifth” corpse beat that must precede Pages/cains_jawbone_page_5.md.
   - **Resolved check:** the unique `Pages/cains_jawbone_page_5.md ↔ Pages/cains_jawbone_page_58.md` Browning-complaint lock is treated as within-`N19` continuity (not a cross-narrator bridge).
