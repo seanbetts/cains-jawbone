@@ -23,9 +23,11 @@ Hospitality, when I came to consider it, was indeed a funny thing. I wanted to d
 - **Motifs/continuity hooks:**
   - Naturalist/collector: “bottled worms” collection.
   - Hospitality as cover for exposure to poisons.
+  - LIKELY: the aconitum/wolfsbane setup may be echoed by Pages/cains_jawbone_page_59.md’s “big bad wolf” + “bane… failed” phrasing (suggesting a within-thread poison pivot).
 - **Clustering hypotheses:**
   - MAYBE: overlaps `N13` (host/guest poisoning register) but no phrase-level anchor ties it to Pages/cains_jawbone_page_86.md ↔ Pages/cains_jawbone_page_87.md; treat as overlap-only unless a second independent anchor appears (Caroline Jasmine / Sanders/bay house / repeated distinctive phrasing).
   - LIKELY: links Sir Paul to the plant/poison method thread.
+  - LIKELY: links to Pages/cains_jawbone_page_59.md via the wolfsbane (“bane” + big bad wolf) wordplay and a shared Sir Paul/Trinder poisoning frame (current direction hypothesis: `Pages/cains_jawbone_page_80.md → Pages/cains_jawbone_page_59.md`, confidence: `LIKELY`; see `Order/hypotheses.md`).
 - **Disconfirming evidence:**
   - If aconitum is only being shown as a specimen with no ingestion/administration implied, or if Fleming’s tincture mention is purely didactic.
 - **Research needed:**

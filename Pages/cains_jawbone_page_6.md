@@ -18,7 +18,7 @@ I considered that venerable whose winter Achilles thought to take from the lips 
 - **Voice/tells:**
   - Cheerfully menacing “generosity”; poison-by-gardening vibe; heavy literary reference density.
 - **Clustering hypotheses:**
-  - MAYBE: foxgloves/digitalis overlap with Pages/cains_jawbone_page_21.md (motif overlap only; not a hard lock).
+  - CERTAIN: links strongly with Pages/cains_jawbone_page_21.md via the unique foxgloves/digitalis anchor (“foxgloves” ↔ “digitalis purpurea”). Treat as a continuity constraint `Pages/cains_jawbone_page_6.md ↔ Pages/cains_jawbone_page_21.md` (current direction hypothesis: `Pages/cains_jawbone_page_6.md → Pages/cains_jawbone_page_21.md`, confidence: `LIKELY`; see `Order/hypotheses.md`).
   - CERTAIN: linked with Pages/cains_jawbone_page_29.md via unique “spare-room/spareroom” house-setting anchor. Treat as a continuity constraint `Pages/cains_jawbone_page_6.md ↔ Pages/cains_jawbone_page_29.md` (current direction hypothesis: `Pages/cains_jawbone_page_6.md → Pages/cains_jawbone_page_29.md`, confidence: `MAYBE`; see `Order/hypotheses.md`).
   - MAYBE: gelsemium/electric-febrifuge let-down ↔ Pages/cains_jawbone_page_59.md (explicit gelsemium), but ordering is unclear.
   - MAYBE: bell motif cluster with Pages/cains_jawbone_page_9.md (bells + summoning “the man”).

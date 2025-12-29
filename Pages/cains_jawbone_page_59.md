@@ -14,6 +14,7 @@ What was it I held in my fingers? Looked at in one way it could just be a kea. I
   - MAYBE: “cast-iron old object” (a small cast-iron bird/ornament described as a “kea”; function unclear).
 - **Motifs/continuity hooks:**
   - Poison attempt failure: “His silly bane had now definitely failed.”
+  - LIKELY: “big bad wolf” + “bane” reads as wolfsbane (aconitum), echoing Pages/cains_jawbone_page_80.md’s explicit aconitum setup; supports a poison-pivot sequence `Pages/cains_jawbone_page_80.md → Pages/cains_jawbone_page_59.md` (see `Order/hypotheses.md`).
   - Matches: lights a match; “consequences soothed me.”
   - Animal/bird wordplay: kea/phoenix chance.
   - Police attention: detective-sergeant visit re “died strangely”.
@@ -21,6 +22,7 @@ What was it I held in my fingers? Looked at in one way it could just be a kea. I
   - Arch, punning; disdain for detective-sergeants’ vocabulary tolerance.
 - **Clustering hypotheses:**
   - CERTAIN: links strongly with Pages/cains_jawbone_page_60.md (phrase-level “bane failed” → “succeeded” pivot + Trinder/“figurehead beard” target framing). Treat as a continuity constraint `Pages/cains_jawbone_page_59.md ↔ Pages/cains_jawbone_page_60.md`; see `Order/hypotheses.md` constraints inventory.
+  - LIKELY: links strongly with Pages/cains_jawbone_page_80.md via the wolfsbane (“bane” + big bad wolf) wordplay and a shared Sir Paul/Trinder poisoning frame (current direction hypothesis: `Pages/cains_jawbone_page_80.md → Pages/cains_jawbone_page_59.md`, confidence: `LIKELY`; see `Order/hypotheses.md`).
   - CERTAIN: links strongly with Pages/cains_jawbone_page_36.md via the unique “awkward” poison-failure phrasing (“distinctly awkward” ↔ “awkward with Trinder about”); treat as a continuity constraint `Pages/cains_jawbone_page_36.md ↔ Pages/cains_jawbone_page_59.md` (current direction hypothesis: `Pages/cains_jawbone_page_36.md → Pages/cains_jawbone_page_59.md`, confidence: `MAYBE`; see `Order/hypotheses.md`).
   - LIKELY: connects to Sir Paul Trinder pages (Pages/cains_jawbone_page_53.md) and to a Trinder-outcome page (Pages/cains_jawbone_page_60.md).
   - CERTAIN: strengthens plant/poison thread via explicit gelsemium.

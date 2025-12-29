@@ -116,6 +116,9 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
 - **Constraint:** Pages/cains_jawbone_page_6.md ↔ Pages/cains_jawbone_page_29.md (confidence: `CERTAIN`)
   - **Anchor:** “spare-room/spareroom” appears only on these two pages, each time as the same house-setting detail (old spare-room “in this very house” ↔ “unsatisfactory visit to the spareroom”).
   - **Falsifier:** another page is found using the same spare-room phrasing, or one mention is shown to be idiomatic/quoted rather than situational.
+- **Constraint:** Pages/cains_jawbone_page_6.md ↔ Pages/cains_jawbone_page_21.md (confidence: `CERTAIN`)
+  - **Anchor:** unique foxgloves/digitalis bundle: Page 6 explicitly starts someone “on the foxgloves,” and Page 21 says the narrator “proved digitalis purpurea” (foxglove). In the page bodies, “foxgloves” appears only on Page 6 and “digitalis” only on Page 21.
+  - **Falsifier:** a third page is found using the same foxgloves/digitalis language, or later evidence shows the foxgloves/digitalis is ornamental/medical aside unrelated to the Calabar/digitalis poison thread.
 - **Constraint:** Pages/cains_jawbone_page_12.md ↔ Pages/cains_jawbone_page_75.md (confidence: `CERTAIN`)
   - **Anchor:** “searchlights” eye-metaphor over “documents” appears only on these two pages (small topaz “searchlights” over documents/writing ↔ “searchlights of my eyes” on “orange tinted documents”).
   - **Falsifier:** “searchlights” or the documents-reading metaphor is found elsewhere in page bodies, or later evidence shows the two scenes/voices cannot share even a deliberate reused image.
@@ -140,6 +143,9 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
 - **Constraint:** Pages/cains_jawbone_page_36.md ↔ Pages/cains_jawbone_page_59.md (confidence: `CERTAIN`)
   - **Anchor:** unique “awkward” poison-failure phrasing: Page 36 repeats “distinctly awkward” while describing Calabar’s failure (“could not rely on him”), and Page 59 mirrors it (“awkward with Trinder about”) while noting a “bane… definitely failed”; in the page bodies, “awkward” appears only on these two pages.
   - **Falsifier:** only if “awkward” is found in a third page body in a tighter continuity context, or later evidence anchors the two scenes/voices as incompatible.
+- **Constraint:** Pages/cains_jawbone_page_59.md ↔ Pages/cains_jawbone_page_80.md (confidence: `LIKELY`)
+  - **Anchor:** wolfsbane wordplay: Page 80 explicitly sets up aconitum (wolfsbane) and Page 59 immediately uses the “big bad wolf” cue alongside “bane… definitely failed,” reading like a deliberate hinge on “wolf’s bane”.
+  - **Falsifier:** the “big bad wolf” line is shown to be unrelated to wolfsbane/aconitum (and a better, phrase-level-continuity target for “bane… failed” is found elsewhere), or Page 80’s aconitum is later shown to be incidental with no poisoning intent.
 - **Constraint:** Pages/cains_jawbone_page_29.md ↔ Pages/cains_jawbone_page_35.md (confidence: `CERTAIN`)
   - **Anchor:** unique phrase-level echo: Page 29 ends “I felt I ought to be drawing towards a close ; but one never knew,” and Page 35 restates “Henry was drawing towards a close… But he might return. One never knew.”
   - **Falsifier:** only if later evidence anchors the two scenes/voices as incompatible (making the shared “drawing towards a close… one never knew” phrasing coincidental).
@@ -215,6 +221,7 @@ Directionless mapping from each constraint pair to narrator IDs (useful for cros
 
 - **Cross-narrator constraints (current):** Pages/cains_jawbone_page_12.md ↔ Pages/cains_jawbone_page_75.md (`N10` ↔ `N06`); Pages/cains_jawbone_page_23.md ↔ Pages/cains_jawbone_page_24.md (`N40` ↔ `N03`).
 - Pages/cains_jawbone_page_6.md ↔ Pages/cains_jawbone_page_29.md — Narrator(s): N12 (confidence: `CERTAIN`)
+- Pages/cains_jawbone_page_6.md ↔ Pages/cains_jawbone_page_21.md — Narrator(s): N12 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_1.md ↔ Pages/cains_jawbone_page_43.md — Narrator(s): N01 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_3.md ↔ Pages/cains_jawbone_page_32.md — Narrator(s): N03 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_7.md ↔ Pages/cains_jawbone_page_45.md — Narrator(s): N16 (confidence: `CERTAIN`)
@@ -247,6 +254,7 @@ Directionless mapping from each constraint pair to narrator IDs (useful for cros
 - Pages/cains_jawbone_page_52.md ↔ Pages/cains_jawbone_page_53.md — Narrator(s): N25 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_54.md ↔ Pages/cains_jawbone_page_56.md — Narrator(s): N26 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_59.md ↔ Pages/cains_jawbone_page_60.md — Narrator(s): N12 (confidence: `CERTAIN`)
+- Pages/cains_jawbone_page_59.md ↔ Pages/cains_jawbone_page_80.md — Narrator(s): N12 (confidence: `LIKELY`)
 - Pages/cains_jawbone_page_61.md ↔ Pages/cains_jawbone_page_64.md — Narrator(s): N04 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_65.md ↔ Pages/cains_jawbone_page_90.md — Narrator(s): N32 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_66.md ↔ Pages/cains_jawbone_page_67.md — Narrator(s): N06 (confidence: `CERTAIN`)
@@ -527,10 +535,11 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - Both pages keep the same arch, punning murder‑logistics register (meals/time markers, investigation language, death-by-plan framing).
       - **Disconfirming evidence:**
         - “Trinder” in Pages/cains_jawbone_page_59.md is unrelated to the “figurehead beard” in Pages/cains_jawbone_page_60.md, or the “failed/succeeded” contrast is shown to refer to different acts.
-    - **Sequence D — gelsemium let-down → digitalis proof (tentative)** (confidence: `MAYBE`)
+    - **Sequence D — gelsemium let-down → digitalis proof** (confidence: `LIKELY`)
       - **Pages (ordered):** Pages/cains_jawbone_page_6.md → Pages/cains_jawbone_page_21.md
       - **Why:**
         - Pages/cains_jawbone_page_6.md frames a prior poison (“Electric Febrifuge” active ingredient) as having “let me down” before shifting someone onto foxgloves (digitalis), while Pages/cains_jawbone_page_21.md explicitly says “on the very day” the narrator “proved digitalis purpurea.”
+        - The foxgloves/digitalis language appears only on these two pages in the page bodies, making this a strong within-thread link.
       - **Disconfirming evidence:**
         - Foxgloves/digitalis in Pages/cains_jawbone_page_6.md are shown to be ornamental (not an operational poison thread), or “proved digitalis” in Pages/cains_jawbone_page_21.md refers to an unrelated experiment.
     - **Sequence E — spare-room continuity (tentative direction)** (confidence: `LIKELY`)
@@ -547,7 +556,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - Pages/cains_jawbone_page_36.md frames “old Calabar” as having “fail[ed]” the narrator (with a “give him another day” reprieve), while Pages/cains_jawbone_page_29.md treats the West African ordeal bean as a “disappointment” and explicitly “discard[s]” physostigma.
       - **Disconfirming evidence:**
         - “physostigma” on Pages/cains_jawbone_page_29.md is later shown to refer to something other than the ordeal-bean/Calabar thread, or the “discard” is explicitly prior to (not a follow-on from) the Pages/cains_jawbone_page_21.md → Pages/cains_jawbone_page_36.md run.
-    - **Sequence G — “drawing towards a close” callback (tentative order)** (confidence: `MAYBE`)
+    - **Sequence G — “drawing towards a close” reprise** (confidence: `LIKELY`)
       - **Pages (ordered):** Pages/cains_jawbone_page_29.md → Pages/cains_jawbone_page_35.md
       - **Why:**
         - Pages/cains_jawbone_page_29.md ends with “I felt I ought to be drawing towards a close ; but one never knew,” and Pages/cains_jawbone_page_35.md reuses the same phrase while also repeating “One never knew” and supplying an explicit reason (“But he might return”), which reads like a more explicit reprise.
@@ -560,6 +569,14 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - Both pages are poison-failure beats (“Calabar… should fail me” / “bane… definitely failed”) and share the unique “awkward” complaint (“distinctly awkward” ↔ “awkward with Trinder about”).
       - **Disconfirming evidence:**
         - Later evidence anchors the two scenes/voices as incompatible (despite the shared “awkward” phrasing), or a third page is found with a tighter “awkward” continuity context.
+    - **Sequence I — wolfsbane fails → gelsemium pivot** (confidence: `LIKELY`)
+      - **Pages (ordered):** Pages/cains_jawbone_page_80.md → Pages/cains_jawbone_page_59.md
+      - **Why:**
+        - Pages/cains_jawbone_page_80.md explicitly frames aconitum (wolfsbane) as the first poison the narrator plans to “exhibit” in sherry.
+        - Pages/cains_jawbone_page_59.md then uses the “big bad wolf” cue immediately before “bane… definitely failed,” which reads as an intentional hinge on “wolf’s bane,” followed by a switch to Gelsemium semper-virens (a new poison attempt).
+        - Both pages keep the same “Sir Paul/Trinder” poisoning frame (host/guest handling of Sir Paul; Trinder “about” during the follow-on poison/police beat).
+      - **Disconfirming evidence:**
+        - “bane… failed” on Pages/cains_jawbone_page_59.md is shown to refer to a different, explicitly named “bane” elsewhere in the same voice, or Pages/cains_jawbone_page_80.md is later shown to be a purely didactic plant-cabinet scene with no poisoning intent.
   - **Resolved check (Henry identity):** within `N12`, “Henry” behaves like at least two incompatible roles: a killer/suspect under pursuit with explicit corpse-handling (Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_58.md) vs a narrator-controlled “peerless investigator” (Pages/cains_jawbone_page_60.md). Treat `P01` Henry as high-noise here: keep `N12` sub-strands ordered internally, but do not stitch them together on “Henry” alone.
   - **Next falsification check:** before using Pages/cains_jawbone_page_60.md to order within the broader `N12` umbrella, require a second non-name anchor linking it to the killer/manhunt strand (e.g., Wellington Crisp/flying squad, “crimson list”, “little blue door” knock) or linking the killer/manhunt pages to Trinder/gelsemium language.
 
@@ -1354,6 +1371,6 @@ Template:
   - **Why:** Direct interview/papers continuity (Page 52’s “commentary… page after page” continues into Page 53’s “introduced to me” profile of Sir Paul Trinder in the same interview frame).
   - **Disconfirming evidence:** Only if Page 52’s “man who entered” is shown to be a different person/context from Sir Paul Trinder, breaking the interview continuity.
 
-- **Sequence (confidence: MAYBE):** `Pages/cains_jawbone_page_52.md → Pages/cains_jawbone_page_53.md → Pages/cains_jawbone_page_59.md → Pages/cains_jawbone_page_60.md`
-  - **Why:** Trinder appears in the interview sequence (Page 53), is “about” during a gelsemium/poisoning context (Page 59), and a bearded pseudo-scientist target is declared dead after a planned “Lover’s Delight” setup (Page 60).
-  - **Disconfirming evidence:** Page 59’s “Trinder” and Page 60’s “figurehead beard” refer to different people, or the scenes’ settings/mechanics don’t align.
+- **Sequence (confidence: MAYBE):** `Pages/cains_jawbone_page_52.md → Pages/cains_jawbone_page_53.md → Pages/cains_jawbone_page_80.md → Pages/cains_jawbone_page_59.md → Pages/cains_jawbone_page_60.md`
+  - **Why:** Trinder appears in the interview sequence (Page 53), is then handled as a guest (“Sir Paul”) in a home-hospitality poisoning setup with aconitum/wolfsbane (Page 80), which is echoed by Page 59’s “big bad wolf” + “bane… failed” hinge before a gelsemium pivot; Page 60 then declares the plan “succeeded” and the bearded pseudo-scientist target dead.
+  - **Disconfirming evidence:** Page 80’s “Sir Paul” is shown to be a different person/context from Trinder on Pages 52–53 and 59–60, Page 59’s “bane… failed” is unrelated to wolfsbane/aconitum, or Page 60’s “figurehead beard” refers to someone other than Trinder.

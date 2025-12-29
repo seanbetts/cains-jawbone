@@ -21,7 +21,7 @@ To reckon with Henry! That was never easy. Just beyond the laurels, I turned sha
   - Botanical/pharmacological diction; clinical aside about “the profession prescribe it”.
 - **Clustering hypotheses:**
   - CERTAIN: links strongly with Pages/cains_jawbone_page_36.md (Calabar Bean ↔ “old Calabar”; Page 36 opens “on the morning after I had introduced him…”). Treat as a continuity constraint `Pages/cains_jawbone_page_21.md ↔ Pages/cains_jawbone_page_36.md`; see `Order/hypotheses.md` constraints inventory.
-  - MAYBE: links strongly with Pages/cains_jawbone_page_6.md (gelsemium let-down → foxgloves/digitalis).
+  - CERTAIN: links strongly with Pages/cains_jawbone_page_6.md via the unique foxgloves/digitalis anchor (“foxgloves” ↔ “digitalis purpurea”). Treat as a continuity constraint `Pages/cains_jawbone_page_6.md ↔ Pages/cains_jawbone_page_21.md` (current direction hypothesis: `Pages/cains_jawbone_page_6.md → Pages/cains_jawbone_page_21.md`, confidence: `LIKELY`; see `Order/hypotheses.md`).
   - LIKELY: poison/gardening thread with Pages/cains_jawbone_page_6.md (foxgloves/digitalis) and other pill/substance pages (Pages/cains_jawbone_page_3.md).
   - MAYBE: cross-narrator phrase echo with Pages/cains_jawbone_page_31.md (“to reckon with Henry” is page-body unique), but no second anchor found; treat as a Henry‑motif overlap only (not a constraint) unless a tighter shared prop/place emerges.
   - MAYBE: Henry-as-killer thread (compare Henry scenes on Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_14.md).
