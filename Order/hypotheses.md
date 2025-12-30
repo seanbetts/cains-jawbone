@@ -1468,6 +1468,41 @@ Template:
   - **Note:** treat this as **within-voice order only** (not necessarily adjacent); Pages/cains_jawbone_page_22.md’s daybook clue (“birthday of a good one in prison” → Cornelius de Witt, 15 June) is earlier in the year than the mid‑August `N02` spine where Pages/cains_jawbone_page_79.md reads as Aug 11 eve.
   - **Disconfirming evidence:** Flora is shown to be different referents across the two pages (e.g., a person/cat rather than the dog‑mate), or another page is found that contains the missing “made love to Flora” setup.
 
+- **Sequence (confidence: LIKELY):** `Pages/cains_jawbone_page_32.md → Pages/cains_jawbone_page_3.md`
+  - **Why:** “Yesterday” appointment + job framing continues into the detailed Clement instruction/dosing scene (same travel-kit + “I was on my way…” posture).
+  - **Disconfirming evidence:** “yesterday” clearly refers to different appointments/people, or a third page supplies a tighter intermediate step (making these non-adjacent or reversing direction).
+
+- **Sequence (confidence: CERTAIN):** `Pages/cains_jawbone_page_30.md → Pages/cains_jawbone_page_24.md`
+  - **Why:** Direct suspicion → “Next day…” confirmation continuation (“Can she be guilty?” → “Next day… my suspicions… had been well-founded”) with the same plant-savvy domestic register.
+  - **Note:** treat as **within-voice order only**; Pages/cains_jawbone_page_24.md is also hard-adjacent to Pages/cains_jawbone_page_23.md via the poem-line continuation, so do not force `30 → 24` adjacency in the full ordering.
+  - **Disconfirming evidence:** Pages/cains_jawbone_page_24.md’s “Next day” is anchored to a different prior scene than Pages/cains_jawbone_page_30.md’s soup test, or the “she” referents are incompatible.
+
+- **Sequence (confidence: LIKELY):** `Pages/cains_jawbone_page_97.md → Pages/cains_jawbone_page_93.md`
+  - **Why:** Pages/cains_jawbone_page_97.md is an on-the-day “never done before” setup; Pages/cains_jawbone_page_93.md reads like the later weighing-of-proof aftermath (“their hour had come and was now over”), with the same Bunny-and-Perry internal debate frame.
+  - **Disconfirming evidence:** Pages/cains_jawbone_page_93.md’s “hour… over” is shown to refer to something that must occur before Pages/cains_jawbone_page_97.md’s setup, or the Cambridge references resolve to different contexts.
+
+- **Sequence (confidence: LIKELY):** `Pages/cains_jawbone_page_94.md → Pages/cains_jawbone_page_85.md`
+  - **Why:** Pages/cains_jawbone_page_94.md ends “Henry was waiting for me,” and Pages/cains_jawbone_page_85.md follows with the action “I drove Henry home” in the same King narrator register.
+  - **Disconfirming evidence:** “Henry” is clearly different referents across the two pages (incompatible role/setting), or a third page provides a tighter continuation out of Pages/cains_jawbone_page_94.md’s closing line.
+
+- **Sequence (confidence: LIKELY):** `Pages/cains_jawbone_page_33.md → Pages/cains_jawbone_page_34.md`
+  - **Why:** Debt/bills language plus a covert/manipulative register aligns across the pair (“I always pay my debts” label ↔ “Bills should always be met squarely” moralising).
+  - **Disconfirming evidence:** Debt/bills phrasing is shown to be generic across unrelated voices, or a tighter `N25` bridge page is found that reorders the debts vignette.
+
+- **Sequence (confidence: LIKELY):** `Pages/cains_jawbone_page_6.md → Pages/cains_jawbone_page_21.md → Pages/cains_jawbone_page_36.md → Pages/cains_jawbone_page_29.md`
+  - **Why:** A poison-logistics spine: foxgloves/digitalis setup (6→21), then the “morning after” Calabar continuation (21→36), then Calabar failure → physostigma discard (36→29).
+  - **Note:** treat as **within-voice order** (not necessarily adjacent in the full ordering).
+  - **Disconfirming evidence:** any component hinge fails (digitalis/Calabar/physostigma are shown to be different episodes), or an explicit time marker forces a different sequence.
+
+- **Sequence (confidence: LIKELY):** `Pages/cains_jawbone_page_13.md → Pages/cains_jawbone_page_31.md`
+  - **Why:** Pages/cains_jawbone_page_13.md sets the two-body tableau in the market place; Pages/cains_jawbone_page_31.md escalates to the “reckon with Henry” decision beat (“my hand dropped to my hip pocket…”) as a plausible follow-on.
+  - **Note:** treat as **within-voice order**; Pages/cains_jawbone_page_13.md is also hard-anchored by the Blake quote-continuation Pages/cains_jawbone_page_49.md → Pages/cains_jawbone_page_13.md.
+  - **Disconfirming evidence:** Pages/cains_jawbone_page_31.md’s “this very place” is shown to be a different location/timeline than Pages/cains_jawbone_page_13.md’s market-place setting, or a third page supplies a tighter continuation from Pages/cains_jawbone_page_13.md.
+
+- **Sequence (confidence: LIKELY):** `Pages/cains_jawbone_page_95.md → Pages/cains_jawbone_page_70.md`
+  - **Why:** “Told him all, hour by hour…” written-account framing (p95) reads as the immediate precursor to the post‑account fear/retaliation anxiety (p70) in the same letter/blackmail strand.
+  - **Disconfirming evidence:** “told him all” is shown to refer to different recipients/episodes across the pages, or Pages/cains_jawbone_page_70.md contains a clear “before” marker that forces it earlier than the written-account decision.
+
 - **Sequence (confidence: MAYBE):** `Pages/cains_jawbone_page_85.md → Pages/cains_jawbone_page_82.md`
   - **Why:** Both are table scenes with Henry present and a nearby dog; Page 85’s “weary business… ended” closure reads like it can precede Page 82’s stationary comedown at a familiar table (“cold weight of my certainty”) after witnessing “carnal, bloody and unnatural acts.”
   - **Disconfirming evidence:** settings or Henry’s role clearly diverge, or another page bridges the continuity.
