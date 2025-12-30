@@ -1055,6 +1055,15 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - Pages/cains_jawbone_page_95.md → Pages/cains_jawbone_page_70.md reads as write-then-aftermath: the narrator “told him all” then has “told all I knew” and fears retaliation; the shared infancy/knee relationship anchor strengthens that it’s the same recipient/antagonist thread.
       - **Disconfirming evidence:**
         - Pages/cains_jawbone_page_69.md’s “done slowly to death” proves figurative, Pages/cains_jawbone_page_96.md is later anchored to a clearly different setting/voice from the Café Royal strand, or Pages/cains_jawbone_page_95.md’s “horrid act” is later shown to be unrelated to the old-man strand.
+    - **Sequence E — night aftermath → decide to write (skip café-wait beat)** (confidence: `MAYBE`)
+      - **Pages (ordered):** Pages/cains_jawbone_page_68.md → Pages/cains_jawbone_page_69.md → Pages/cains_jawbone_page_95.md → Pages/cains_jawbone_page_70.md
+      - **Why:**
+        - Pages/cains_jawbone_page_69.md explicitly asks “What… ought I to do?” and repeats “The answer was plain enough,” while Pages/cains_jawbone_page_95.md uniquely resumes with “Because I had decided what to do,” reading like the follow-through to the same decision-point (even if not strictly same-scene).
+        - Pages/cains_jawbone_page_69.md’s time-granularity emphasis (“I had seen every minute of it”) aligns with Pages/cains_jawbone_page_95.md’s “hour by hour, day by day” framing for the written account.
+        - Pages/cains_jawbone_page_95.md → Pages/cains_jawbone_page_70.md remains the strongest within-voice action→aftermath chain (write full account → franked item found “in the morning” + retaliation fear).
+      - **Disconfirming evidence:**
+        - Pages/cains_jawbone_page_95.md’s “horrid act” is later shown to be unrelated to the Pages/cains_jawbone_page_68.md/Pages/cains_jawbone_page_69.md slow-death witness scene, or “What… ought I to do?” / “decided what to do” is shown to be a generic rhetorical posture repeated elsewhere in a way that breaks uniqueness.
+        - A stronger immediate successor for Pages/cains_jawbone_page_69.md emerges that carries a concrete prop/venue anchor into the Café Royal strand.
     - **Sequence D — crucial meeting → night aftermath** (confidence: `MAYBE`)
       - **Pages (ordered):** Pages/cains_jawbone_page_68.md → Pages/cains_jawbone_page_69.md
       - **Why:**
@@ -1062,7 +1071,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - Pages/cains_jawbone_page_69.md’s Hamlet night-time cue (“yon same star…”) fits as a same-night aftermath beat after the “meeting” concern in Pages/cains_jawbone_page_68.md.
       - **Disconfirming evidence:**
         - The “old man” is shown to be different referents on Pages/cains_jawbone_page_68.md vs Pages/cains_jawbone_page_69.md, or Pages/cains_jawbone_page_68.md’s Selby/Latham Chapel setting is later shown to be incompatible with the witnessed-death situation on Pages/cains_jawbone_page_69.md.
-  - **Falsification check (2025-12-30):** searched page bodies for any cross-strand anchor tying the Selby/Latham/Kreisler/Ragtime segment (Pages/cains_jawbone_page_68.md, Pages/cains_jawbone_page_69.md) to the Café Royal/letter segment (Pages/cains_jawbone_page_96.md, Pages/cains_jawbone_page_95.md, Pages/cains_jawbone_page_70.md) and found no overlaps beyond generic “old man/he” language and broad memory-digression style; keep these as two internal sub-strands and treat Sequence C as `MAYBE` only (do not assume adjacency).
+  - **Falsification check (2025-12-30):** re-scanned for cross-strand anchors tying the Selby/Latham/Kreisler/Ragtime segment (Pages/cains_jawbone_page_68.md, Pages/cains_jawbone_page_69.md) to the Café Royal/letter segment (Pages/cains_jawbone_page_96.md, Pages/cains_jawbone_page_95.md, Pages/cains_jawbone_page_70.md) and found no concrete prop/venue/cast carryover, but did find a unique decision-point echo Pages/cains_jawbone_page_69.md (“What… ought I to do? The answer was plain enough.”) ↔ Pages/cains_jawbone_page_95.md (“Because I had decided what to do.”) plus the time-granularity echo (“every minute” ↔ “hour by hour, day by day”). Treat this as partial support for Sequence E while keeping confidence `MAYBE` until a non-generic scene anchor appears.
   - **Next falsification check:** look for an explicit identifier that collapses “old man” (Pages/cains_jawbone_page_68.md/Pages/cains_jawbone_page_69.md) into the infancy/knee “he” (Pages/cains_jawbone_page_95.md/Pages/cains_jawbone_page_70.md), or find a third page that shares one concrete anchor from each sub-strand (e.g., Selby/Latham/1906 fire or Kreisler/Ragtime ↔ Café Royal/Eros/Orpen/“franked”).
 
 - **Cluster:** `N07` Bunny and Perry (Pro/Con) mental debate (confidence: `CERTAIN`)
