@@ -553,7 +553,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - Both pages bind Calabar/digitalis to Henry-in-scene + corpse-handling language (blood/body; burial with eyes showing).
       - **Disconfirming evidence:**
         - “introduced him to the person most concerned” in Pages/cains_jawbone_page_36.md is later shown to refer to a different “him”/recipient than the Calabar/digitalis action in Pages/cains_jawbone_page_21.md.
-    - **Sequence C — Trinder outcome (failed → succeeded)** (confidence: `LIKELY`)
+    - **Sequence C — Trinder outcome (failed → succeeded)** (confidence: `CERTAIN`)
       - **Pages (ordered):** Pages/cains_jawbone_page_59.md → Pages/cains_jawbone_page_60.md
       - **Why:**
         - Pages/cains_jawbone_page_59.md states the “bane… failed” and notes it is awkward with Trinder about; Pages/cains_jawbone_page_60.md opens with the narrator realising they “succeeded” and declares a “figurehead beard” (plausibly Trinder) will “plough… seas no more.”
@@ -1492,6 +1492,10 @@ Template:
 - **Sequence (confidence: CERTAIN):** `Pages/cains_jawbone_page_58.md → Pages/cains_jawbone_page_5.md`
   - **Why:** Pages/cains_jawbone_page_58.md’s “fourth” corpse beat (plus the page-body unique “went on… Browning” complaint) is followed naturally by Pages/cains_jawbone_page_5.md’s “intended fifth” + the same Browning-complaint register.
   - **Disconfirming evidence:** “intended fifth” is shown not to be a victim-count escalation, or a third page is found with the same “went on… Browning” phrasing in a clearer continuity context (breaking uniqueness).
+
+- **Sequence (confidence: CERTAIN):** `Pages/cains_jawbone_page_59.md → Pages/cains_jawbone_page_60.md`
+  - **Why:** Pages/cains_jawbone_page_59.md ends the “bane… failed” attempt and Pages/cains_jawbone_page_60.md immediately opens “I had… realised that I had succeeded,” matching the same Trinder/target framing and the murder‑logistics register.
+  - **Disconfirming evidence:** Only if “failed/succeeded” is shown to refer to different, non-continuous acts, or a third page is found with a tighter continuation of either clause (breaking uniqueness).
 
 - **Sequence (confidence: LIKELY):** `Pages/cains_jawbone_page_52.md → Pages/cains_jawbone_page_53.md → Pages/cains_jawbone_page_80.md → Pages/cains_jawbone_page_59.md → Pages/cains_jawbone_page_60.md`
   - **Why:** Trinder appears in the interview sequence (Page 53) and then as “Sir Paul” in the home-hospitality poisoning setup with aconitum (Page 80); Page 59 echoes the wolfsbane layer (“big bad wolf” + “bane… failed”) with Trinder “about” and pivots to gelsemium, and Page 60 declares success and a bearded pseudo-scientist target dead.
