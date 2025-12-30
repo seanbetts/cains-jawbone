@@ -1489,6 +1489,10 @@ Template:
   - **Why:** Direct interview/papers continuity (Page 52’s “commentary… page after page” continues into Page 53’s “introduced to me” profile of Sir Paul Trinder in the same interview frame).
   - **Disconfirming evidence:** Only if Page 52’s “man who entered” is shown to be a different person/context from Sir Paul Trinder, breaking the interview continuity.
 
+- **Sequence (confidence: CERTAIN):** `Pages/cains_jawbone_page_56.md → Pages/cains_jawbone_page_54.md`
+  - **Why:** Same breakfast/insomnia voice with the repeated aside “in the awful and literal sense of the word”; Pages/cains_jawbone_page_56.md’s pre-breakfast “recapitulation” beat is followed by Pages/cains_jawbone_page_54.md’s breakfast-letter beat (“crumbs of toast… smear of marmalade”).
+  - **Disconfirming evidence:** Only if the repeated aside is shown to be a detachable quotation used across multiple voices/settings (no other instances currently).
+
 - **Sequence (confidence: CERTAIN):** `Pages/cains_jawbone_page_58.md → Pages/cains_jawbone_page_5.md`
   - **Why:** Pages/cains_jawbone_page_58.md’s “fourth” corpse beat (plus the page-body unique “went on… Browning” complaint) is followed naturally by Pages/cains_jawbone_page_5.md’s “intended fifth” + the same Browning-complaint register.
   - **Disconfirming evidence:** “intended fifth” is shown not to be a victim-count escalation, or a third page is found with the same “went on… Browning” phrasing in a clearer continuity context (breaking uniqueness).

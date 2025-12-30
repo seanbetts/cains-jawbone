@@ -19,7 +19,7 @@ I was feeling about as good as man could feel that day. Everything horticultural
   - Horticultural precision + moral irony; plans violence with literary/metrical framing.
 - **Clustering hypotheses:**
   - CERTAIN: links strongly with Pages/cains_jawbone_page_56.md (exact shared aside “in the awful and literal sense of the word” + morning/breakfast framing; treat as a continuity constraint `Pages/cains_jawbone_page_54.md ↔ Pages/cains_jawbone_page_56.md`; see `Order/hypotheses.md` constraints inventory).
-  - CERTAIN: Phase 4 within-voice order: Pages/cains_jawbone_page_56.md → Pages/cains_jawbone_page_54.md (p56 pre-breakfast insomnia + first-course sausage beat → p54 “crumbs of toast… last clear smear of marmalade” letter-reading beat).
+  - CERTAIN (Phase 5 adjacency candidate): Pages/cains_jawbone_page_56.md → Pages/cains_jawbone_page_54.md (p56 pre-breakfast insomnia + first-course sausage beat → p54 “crumbs of toast… last clear smear of marmalade” letter-reading beat). See `Order/hypotheses.md`.
   - CERTAIN: strengthens plant/poison thread pages.
 - **Disconfirming evidence:**
   - If “poisoned poison” and “crimson lights” resolve to non-lethal horticulture/wordplay with no victim.
