@@ -1245,7 +1245,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
     - **Why:**
       - “Death” hinge: Page 60’s “Death closes all” (Tennyson) precedes Page 91’s Death-name preoccupation (Newbolt/Shakespeare).
       - “Success” hinge: Page 60 “had succeeded” ↔ Page 91 “seemed to be succeeding”.
-      - “Steps” hinge: Page 60 “steps” ↔ Page 91 “take steps”.
+      - “Steps” hinge: Page 60 “steps” ↔ Page 91 “take steps” (corpus scan: `steps` appears only on these two pages).
       - Time step: Page 60’s repeated `to-day` framing → Page 91’s explicit `next day`.
     - **Phase 6 test (2025-12-30):** re-read the Pages/cains_jawbone_page_60.md ending and Pages/cains_jawbone_page_91.md opening; the combined “Death” + “succeed(ing)” + “steps” hinges provide multiple independent textual anchors with no contradiction at the boundary.
       - **Outcome:** `PASS` (upgrade Page 91’s placement confidence; successor still unresolved).
