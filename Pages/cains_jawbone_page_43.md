@@ -25,6 +25,7 @@ This is good. She accepts Lover’s Delight from me. She has spoken very little 
 - **Clustering hypotheses:**
   - CERTAIN: links to Pages/cains_jawbone_page_1.md via “Aquarius” motif (in page bodies, “Aquarius” appears only on these two pages). Treat as a continuity constraint `Pages/cains_jawbone_page_1.md ↔ Pages/cains_jawbone_page_43.md` (see `Order/hypotheses.md` constraints inventory).
   - CERTAIN: links strongly with Pages/cains_jawbone_page_17.md (the Moon/the Dawn venue pair appears only here + the shared “bad for the hand” ↔ “ruin my hand” cue). Treat as a continuity constraint `Pages/cains_jawbone_page_17.md ↔ Pages/cains_jawbone_page_43.md` (see `Order/hypotheses.md` constraints inventory).
+  - CERTAIN (Phase 5 adjacency candidate): Pages/cains_jawbone_page_17.md → Pages/cains_jawbone_page_43.md (Moon/Dawn + hand/temperance continuity + Page 17’s “Ah, here she is…” arrival beat is followed by this page’s immediate dessert/drink beat). See `Order/hypotheses.md`.
   - MAYBE: links to Pages/cains_jawbone_page_42.md via cocktail/bar setting and the same woman.
 - **Disconfirming evidence:**
   - If “Aquarius/Gemini” is shown to be purely menu-wordplay with no pen/astrology continuity elsewhere.

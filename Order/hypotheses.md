@@ -1437,6 +1437,10 @@ Template:
   - **Why:** Direct Browning quotation continuation across the page break: Pages/cains_jawbone_page_92.md ends the “Saul” excerpt with “...those lilies still / living and blue”, and Pages/cains_jawbone_page_42.md begins with the immediate continuation “Just broken to twine round thy harp-strings...”.
   - **Disconfirming evidence:** Only if the same “Saul” excerpt is found elsewhere uninterrupted (making the break non-unique), or later evidence shows these Browning stanzas are being used purely as detachable epigraphs rather than as a continued quotation split across pages.
 
+- **Sequence (confidence: CERTAIN):** `Pages/cains_jawbone_page_17.md → Pages/cains_jawbone_page_43.md`
+  - **Why:** A continued scene between the paired venues “the Moon” and “the Dawn”: Page 17’s arrival beat (“Ah, here she is… into the chair opposite”) is followed by Page 43’s immediate menu/drink beat (“She accepts Lover’s Delight… urges… Banana Split… Ecky passes over to the Dawn”), with the same “bad for the hand” ↔ “ruin my hand” self-justification.
+  - **Disconfirming evidence:** “the Moon”/“the Dawn” are later shown not to be venue names (or the women/setting are incompatible), making the overlap non-continuous.
+
 - **Sequence (confidence: CERTAIN):** `Pages/cains_jawbone_page_74.md → Pages/cains_jawbone_page_75.md`
   - **Why:** Immediate continuation: Page 74’s “red rose and the white… remained” → Page 75’s “those two other flowers,” and Page 74’s “them” (secret purchases) → Page 75’s “orange tinted documents,” with matching eyesight-failure emphasis.
   - **Disconfirming evidence:** Only if “those two other flowers” and the “orange tinted documents” are later shown to be unrelated to Page 74’s scene/items (coincidental overlap).

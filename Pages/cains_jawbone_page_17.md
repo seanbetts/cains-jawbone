@@ -20,6 +20,7 @@ I am conveniently situated, with the Moon on the one hand and the Dawn on the ot
   - Observant, romantic, faintly suspicious; sensory focus on tea.
 - **Clustering hypotheses:**
   - CERTAIN: links strongly with Pages/cains_jawbone_page_43.md (the Moon/the Dawn venue pair appears only here + the shared “bad for the hand” ↔ “ruin my hand” cue). Treat as a continuity constraint `Pages/cains_jawbone_page_17.md ↔ Pages/cains_jawbone_page_43.md` (see `Order/hypotheses.md` constraints inventory).
+  - CERTAIN (Phase 5 adjacency candidate): Pages/cains_jawbone_page_17.md → Pages/cains_jawbone_page_43.md (Moon/Dawn + hand/temperance continuity + Page 17’s “Ah, here she is…” arrival beat continues into Page 43’s dessert/drink beat). See `Order/hypotheses.md`.
 - **Disconfirming evidence:**
   - If “Moon”/“Dawn” are later shown as abstract time-of-day metaphors rather than venues.
 - **Research needed:**
