@@ -15,7 +15,7 @@ I considered that venerable whose winter Achilles thought to take from the lips 
   - “Electric Febrifuge” likely points to gelsemium/gelsemine (a named drug/poison; see research queue).
   - Gardening/poison: foxgloves (digitalis).
   - Bells: dangling bell-wire (Speckled Band echo).
-  - MAYBE: archive-level uniqueness — “Speckled” appears only here and Pages/cains_jawbone_page_81.md (“Band, Speckled”); treat as a potential deliberate echo, but do not use for ordering without a second anchor.
+  - MAYBE: archive-level uniqueness — “Speckled” and the trigram `I could make` appear only here and Pages/cains_jawbone_page_81.md; Phase 6 check (2025-12-30) found no additional shared continuity anchor, so treat as a stylistic echo only until reinforced.
 - **Voice/tells:**
   - Cheerfully menacing “generosity”; poison-by-gardening vibe; heavy literary reference density.
 - **Clustering hypotheses:**

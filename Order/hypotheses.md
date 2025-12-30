@@ -190,10 +190,11 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
 ### Candidate cross-narrator overlap (falsify before treating as a constraint)
 
 - **Candidate:** Pages/cains_jawbone_page_6.md ↔ Pages/cains_jawbone_page_81.md (`N12` ↔ `N28`) (confidence: `MAYBE`)
-  - **Prior anchor:** “Speckled” appears only on these two page bodies in the archive (Doyle “Speckled Band” allusion on both sides).
+  - **Prior anchors:** “Speckled” appears only on these two page bodies in the archive (Doyle “Speckled Band” allusion on both sides), and the trigram `I could make` appears only on these two page bodies (different contexts).
   - **Why it might matter:** could be a deliberate echo linking the poison-logistics voice to the window-throw vignette, or a marker that the same narrator returns later with a “no detective” posture.
   - **Disconfirming evidence:** if the Sherlock Holmes allusion is the only overlap (no shared voice tells, cast, or props), treat as an isolated allusion rather than a continuity signal.
   - **Next falsification check:** check for any second anchor tying the scenes (bell-wire/window motif, repeated “detective” self-reference, shared poison/botany register, or shared named person).
+  - **Phase 6 test (2025-12-30):** scanned shared n-grams and named anchors; beyond `Speckled` + `I could make`, no shared prop/place/person anchor is present. Outcome: `UNCLEAR` → keep as a low-weight stylistic echo until a concrete continuity marker emerges.
 - **Candidate:** Pages/cains_jawbone_page_24.md ↔ Pages/cains_jawbone_page_86.md (`N03` ↔ `N13`) (confidence: `LIKELY`)
   - **Prior anchors:** page-body unique `Caroline` name appears only on these pages (plain “Caroline” ↔ “Caroline Jasmine”), Pages/cains_jawbone_page_24.md foregrounds “wild jasmine” as a trigger motif while Pages/cains_jawbone_page_86.md uses “Jasmine” as the key proper name, and both pages quote Yeats’s “Song of Red Hanrahan” (different lines).
   - **Why it might matter:** this is the strongest current bridge candidate for re-stitching the weak v2 boundary around Pages/cains_jawbone_page_91.md → Pages/cains_jawbone_page_86.md, and may indicate the same household/cast and narrator voice under different registers.
