@@ -136,7 +136,7 @@ Template:
   - **Tells:** “looking actually proud” at a meeting where marriage seems imminent.
   - **Pronouns/relationships:** none known.
   - **Pages:** Pages/cains_jawbone_page_17.md
-  - **Notes:** Could be mother/relative vs participant; track context.
+  - **Notes:** Could be mother/relative vs participant; track context. MAYBE linked to `P88` (Catharine) if “turning a Somerset in front of the altar” is surname-change language (not just a somersault idiom).
 
 - `P22` — Names/aliases: Grace
   - **Tells:** sent “seven pounds of Lapsang”.
@@ -538,7 +538,7 @@ Template:
   - **Tells:** “turning a Somerset in front of the altar” (marriage/ceremony framing).
   - **Pronouns/relationships:** none known.
   - **Pages:** Pages/cains_jawbone_page_96.md
-  - **Notes:** Track for recurrence and whether “Somerset” is literal place vs a “somersault” pun.
+  - **Notes:** Track for recurrence and whether “Somerset” is literal place vs a “somersault” pun. Also possible: “turning a Somerset… in front of the altar” is surname-change language at marriage, which would connect to `P21` Kate Somerset (Pages/cains_jawbone_page_17.md).
 
 - `P89` — Names/aliases: “Father Fred” (LIKELY Friedrich/Frederick II of Prussia, “Frederick the Great”)
   - **Tells:** the read-out eye-description is Carlyle on “Friedrich” (quoted via James Thomson): https://en.wikisource.org/wiki/Biographical_and_critical_studies_by_James_Thomson_(%22B.V.%22)/%22The_Ring_and_the_Book%22; “closing day in Potsdam” points to Frederick II’s death at Sanssouci (Potsdam) on 17 Aug 1786 (EB1911): https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Frederick_II._of_Prussia.
