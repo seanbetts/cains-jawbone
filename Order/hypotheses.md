@@ -1728,6 +1728,7 @@ These are the **highest-risk segment joins** inside the v2 full ordering draft. 
   - **Note:** removed in the v4 trial re-stitch (see above), replaced by `Pages/cains_jawbone_page_57.md → Pages/cains_jawbone_page_96.md`.
   - **Bridge candidates (order unknown):**
     - Pages/cains_jawbone_page_57.md ↔ Pages/cains_jawbone_page_52.md (Westphalian ham + “bits of paper” reading is a partial scene-mechanic echo).
+      - **Phase 6 test (2025-12-30):** corpus scan of page bodies found “Westphalian” appears only on Pages/cains_jawbone_page_52.md and Pages/cains_jawbone_page_57.md (supports this as a deliberate echo, but does not by itself force adjacency or narrator identity).
     - Pages/cains_jawbone_page_33.md ↔ Pages/cains_jawbone_page_10.md (unique Gourdoulis 100-box prop).
   - **Falsifier:** Pages/cains_jawbone_page_57.md is later forced into a non-dog setting (breaking `N02`), or Pages/cains_jawbone_page_33.md gains a second, stronger anchor to a different successor (beyond the current debts/bills bundle with Pages/cains_jawbone_page_34.md).
   - **Next falsification check:** search for any third instance of the Pages/cains_jawbone_page_57.md scene mechanism (Westphalian ham + “bits of paper” reading) that would triangulate placement.
