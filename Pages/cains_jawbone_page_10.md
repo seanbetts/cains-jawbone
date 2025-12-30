@@ -14,6 +14,7 @@ Then came Hyacinth’s day. He laughed when he remembered that, as we were walki
 - **Motifs/continuity hooks:**
   - Gardens/flowers (hyacinth/jasmine); betting/gifts.
   - Cigarettes: “a hundred Egyptian cigarettes—Gourdoulis” (advertised as “Gourdoulis’ Egyptian Cigarettes”, factory Alexandria) — *To-day* (1897) p. 86: http://books.google.co.uk/books?id=unhNAAAAYAAJ&pg=PA86&dq=Gourdoulis+Egyptian+cigarettes&hl=&cd=1&source=gbs_api.
+  - Cross-page prop echo: Pages/cains_jawbone_page_33.md also has a “hundred box of Gourdoulis” with a debts label (“I always pay my debts”); treat as a Phase 5 bridge candidate (order unknown) unless a second independent continuity anchor emerges (see `Order/hypotheses.md`).
   - Hosiery/lingerie: “Etam dawn mist, ten inches” — Etam is associated with stockings/hosiery (e.g., *The British Market for Hosiery* (1927) p. 8 mentions “Etam” as a French hosiery firm): http://books.google.co.uk/books?id=h8-YuNzprAIC&pg=PA8&dq=Etam+stockings&hl=&cd=11&source=gbs_api. “ten inches” matches hosiery sizing by foot-length inches (Clarence Hutton, *Kinks for Knitters* (1912), “Hosiery Sizes”): https://archive.org/download/kinksforknitters00hutt/kinksforknitters00hutt_djvu.txt. “dawn mist” reads as a shade name; exact Etam shade list remains unpinned.
   - Jewellery/ears: seed-pearl “ear-drops”.
   - Cross-page: calendar/offset language may recur with other “to-day”/feast-day anchors (keep as a continuity cue, not an ordering claim).
@@ -23,6 +24,7 @@ Then came Hyacinth’s day. He laughed when he remembered that, as we were walki
   - CERTAIN: `N02` Dog POV; strong phrase-level continuity with Pages/cains_jawbone_page_39.md (bet/score expansion: “two all… They made a bet” ↔ “went back two days… formulated their bet… third point”).
   - CERTAIN (Phase 5 adjacency candidate): Pages/cains_jawbone_page_39.md → Pages/cains_jawbone_page_10.md (“They made a bet.” ↔ “went back two days… formulated their bet… third point”). See `Order/hypotheses.md`.
   - CERTAIN (Phase 5 adjacency candidate): Pages/cains_jawbone_page_10.md → Pages/cains_jawbone_page_99.md (phrase continuation “My mistress wore them” ↔ “And she wore…”, plus shared “…, as X … called them” parenthetical + mid‑August daybook anchors). See `Order/hypotheses.md`.
+  - LIKELY (Phase 5 bridge candidate): Pages/cains_jawbone_page_10.md ↔ Pages/cains_jawbone_page_33.md (unique `Gourdoulis` 100-box; owe/debts framing). Treat as cross-narrator prop echo (order unknown) unless a second independent continuity anchor emerges. See `Order/hypotheses.md`.
 - **Disconfirming evidence:**
   - If “Hyacinth’s day/Jasmine’s day” are shown to be private nicknames rather than public calendar anchors.
   - If “jossers” on Pages/cains_jawbone_page_99.md is not the cutting/adjusting tool for the bow ends (weakening the singular/plural vocabulary continuity read).

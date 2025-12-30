@@ -131,6 +131,9 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
 - **Constraint:** Pages/cains_jawbone_page_6.md ↔ Pages/cains_jawbone_page_21.md (confidence: `CERTAIN`)
   - **Anchor:** unique foxgloves/digitalis bundle: Page 6 explicitly starts someone “on the foxgloves,” and Page 21 says the narrator “proved digitalis purpurea” (foxglove). In the page bodies, “foxgloves” appears only on Page 6 and “digitalis” only on Page 21.
   - **Falsifier:** a third page is found using the same foxgloves/digitalis language, or later evidence shows the foxgloves/digitalis is ornamental/medical aside unrelated to the Calabar/digitalis poison thread.
+- **Constraint:** Pages/cains_jawbone_page_10.md ↔ Pages/cains_jawbone_page_33.md (confidence: `CERTAIN`)
+  - **Anchor:** `Gourdoulis` appears only on these two page bodies (Page 10: bet stake “a box of a hundred Egyptian cigarettes—Gourdoulis”; Page 33: debt-labelled “hundred box of Gourdoulis”).
+  - **Falsifier:** `Gourdoulis` is found elsewhere in page-body text, or later evidence shows one mention is an unrelated non-cigarette referent.
 - **Constraint:** Pages/cains_jawbone_page_12.md ↔ Pages/cains_jawbone_page_75.md (confidence: `CERTAIN`)
   - **Anchor:** “searchlights” eye-metaphor over “documents” appears only on these two pages (small topaz “searchlights” over documents/writing ↔ “searchlights of my eyes” on “orange tinted documents”).
   - **Falsifier:** “searchlights” or the documents-reading metaphor is found elsewhere in page bodies, or later evidence shows the two scenes/voices cannot share even a deliberate reused image.
@@ -231,7 +234,7 @@ _None currently._
 
 Directionless mapping from each constraint pair to narrator IDs (useful for cross-narrator joins).
 
-- **Cross-narrator constraints (current):** Pages/cains_jawbone_page_12.md ↔ Pages/cains_jawbone_page_75.md (`N10` ↔ `N06`); Pages/cains_jawbone_page_23.md ↔ Pages/cains_jawbone_page_24.md (`N40` ↔ `N03`); Pages/cains_jawbone_page_4.md ↔ Pages/cains_jawbone_page_100.md (`N19` ↔ `N24`); Pages/cains_jawbone_page_4.md ↔ Pages/cains_jawbone_page_21.md (`N19` ↔ `N12`).
+- **Cross-narrator constraints (current):** Pages/cains_jawbone_page_12.md ↔ Pages/cains_jawbone_page_75.md (`N10` ↔ `N06`); Pages/cains_jawbone_page_23.md ↔ Pages/cains_jawbone_page_24.md (`N40` ↔ `N03`); Pages/cains_jawbone_page_4.md ↔ Pages/cains_jawbone_page_100.md (`N19` ↔ `N24`); Pages/cains_jawbone_page_4.md ↔ Pages/cains_jawbone_page_21.md (`N19` ↔ `N12`); Pages/cains_jawbone_page_10.md ↔ Pages/cains_jawbone_page_33.md (`N02` ↔ `N25`).
 - Pages/cains_jawbone_page_4.md ↔ Pages/cains_jawbone_page_100.md — Narrator(s): N19 ↔ N24 (confidence: `MAYBE`)
 - Pages/cains_jawbone_page_4.md ↔ Pages/cains_jawbone_page_21.md — Narrator(s): N19 ↔ N12 (confidence: `MAYBE`)
 - Pages/cains_jawbone_page_5.md ↔ Pages/cains_jawbone_page_58.md — Narrator(s): N19 (confidence: `CERTAIN`)
@@ -244,6 +247,7 @@ Directionless mapping from each constraint pair to narrator IDs (useful for cros
 - Pages/cains_jawbone_page_8.md ↔ Pages/cains_jawbone_page_99.md — Narrator(s): N02 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_10.md ↔ Pages/cains_jawbone_page_39.md — Narrator(s): N02 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_10.md ↔ Pages/cains_jawbone_page_99.md — Narrator(s): N02 (confidence: `CERTAIN`)
+- Pages/cains_jawbone_page_10.md ↔ Pages/cains_jawbone_page_33.md — Narrator(s): N02 ↔ N25 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_11.md ↔ Pages/cains_jawbone_page_41.md — Narrator(s): N17 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_12.md ↔ Pages/cains_jawbone_page_14.md — Narrator(s): N10 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_12.md ↔ Pages/cains_jawbone_page_75.md — Narrator(s): N10 ↔ N06 (confidence: `CERTAIN`)
@@ -488,6 +492,7 @@ Goal: highlight likely “join surfaces” between macro strands (people/place/o
 - **Cross-page bridges (non-overlap; higher-signal named anchors):**
   - `P16` May (see `Indexes/people.md`; person vs month/May-blossom ambiguity): treat as a bridge only where May is directly addressed or invoked as an agent (Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_80.md, Pages/cains_jawbone_page_98.md); treat Pages/cains_jawbone_page_71.md/Pages/cains_jawbone_page_75.md/Pages/cains_jawbone_page_100.md as edge-overlap until clarified. Falsifier: “May” resolves as month/flower-only in the “red May”/“blight on the May” strand, or May’s role/relationships are incompatible across the direct-address pages.
   - `P50` Sir Paul Trinder (see `Indexes/people.md`): Paper/money interview pages (52/53) ↔ Botany/poison host/poison pages (59/80). Falsifier: Sir Paul’s identifying details (title/context/behaviour) clearly differ between strands.
+  - `Gourdoulis` cigarettes (see `Indexes/objects_motifs.md`): Pages/cains_jawbone_page_10.md bet stake (“owe him a box of a hundred Egyptian cigarettes—Gourdoulis”) ↔ Pages/cains_jawbone_page_33.md debt-labelled “hundred box of Gourdoulis”. Falsifier: `Gourdoulis` appears elsewhere in page bodies, or the “hundred box” is not cigarette-related on one side.
   - Southend-on-Sea / Kursaal geography (see `Indexes/places.md`): Aesthetic page (38: Southend memory) ↔ Detective/violence page (100: Kursaal at Southend). Falsifier: one reference points to a different “Southend” or the Kursaal is not Southend’s Kursaal in context.
   - Aconite mention (see `Indexes/objects_motifs.md`): Botany/poison page (80) ↔ Detective/violence page (91). Falsifier: aconite is incidental on one side and does not participate in the same “means/method” register.
 
@@ -799,6 +804,9 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Rationale:** Page 34’s “ironic comment” and “innocent child” moralising register matches Page 52’s crime/innocence rhetoric; Pages 52–53 then supply the same voice in a concrete “interview/papers” scene culminating in a contemptuous introduction of Sir Paul Trinder. Page 33 adds a compatible clandestine, debt-framed “papers/letter being read” vignette.
   - **Key anchors:** “I always pay my debts”; “behind the armchair”; “ironic comment”; “innocent child”; “end of my interview”; “make yourself comfortable with the papers”; “commentary… page after page”; “introduced to me”; “well-fed swine”; Westphalian ham.
   - **Disconfirming evidence:** Westphalian ham/papers language is shown to be a widely reused table-setting motif, or the “introduced to me” Trinder description is later anchored to a different narrator/setting.
+  - **Bridge candidate (Phase 5):** Pages/cains_jawbone_page_33.md ↔ Pages/cains_jawbone_page_10.md (`N25` ↔ `N02`) (confidence: `LIKELY`; order: unknown)
+    - **Why:** `Gourdoulis` appears only on these two page bodies, and both are explicit “hundred-box” cigarette contexts tied to owing/debts (p10: “she’d owe him a box of a hundred… Gourdoulis”; p33: “I always pay my debts… a hundred box of Gourdoulis”).
+    - **Disconfirming evidence:** `Gourdoulis`/the “hundred box” is shown to be a different referent on one page, or another page-body `Gourdoulis` instance emerges that breaks the uniqueness of the link.
   - **Phase 4 internal ordering hypotheses (N25):**
     - **Sequence A — interview/papers run** (confidence: `CERTAIN`)
       - **Pages (ordered):** Pages/cains_jawbone_page_52.md → Pages/cains_jawbone_page_53.md
@@ -1294,6 +1302,9 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Key anchors:** pulled ears + low noise; “no vibration… of my latter end”; “lowered myself and made love”; “provided a chop for me”; “nearly fell on my nose”; “my mistress” framing + “could have howled”; coat/undercoat literalism (“inherited coat”) and “vicarious”→vicar misunderstanding; Mr. Hall + knob/bell summons; Tate sugar hoarding + “I did not entirely understand” register.
   - **Membership notes:** Pages/cains_jawbone_page_8.md remains the highest-risk dog-voice fit (optics/“powerful glass”), but it also carries dog-coded tells (“sausage place… furtively I knew how excellent”; “never could quite understand how it worked”) and is hard-anchored by the bow + Mr. Hall call-bell continuity into Pages/cains_jawbone_page_19.md; treat it as core unless later evidence shows the narrator operating an optical instrument directly. Pages/cains_jawbone_page_57.md is lower-signal on dog physicality, but its dog-as-listener stance + “my people” Skye/pedigree hint (Armadale Castle) supports keeping it in this voice while noting coincidence risk with the `N25` Westphalian-ham/papers scene.
   - **Bridge candidate (unresolved):** Pages/cains_jawbone_page_57.md shares table-setting overlap with the `N25` Westphalian-ham/papers scene, but it also carries rare `N02`-style voice tells (“my people” appears only on Pages/cains_jawbone_page_19.md and Pages/cains_jawbone_page_57.md; “we were alone…” appears only on Pages/cains_jawbone_page_22.md and Pages/cains_jawbone_page_57.md). Candidate placement (order-only): after Pages/cains_jawbone_page_19.md and before Pages/cains_jawbone_page_46.md unless a pinned daybook date anchor forces it elsewhere.
+  - **Bridge candidate (Phase 5):** Pages/cains_jawbone_page_10.md ↔ Pages/cains_jawbone_page_33.md (`N02` ↔ `N25`) (confidence: `LIKELY`; order: unknown)
+    - **Why:** `Gourdoulis` appears only on these two page bodies (bet stake “a box of a hundred Egyptian cigarettes—Gourdoulis” ↔ debt-labelled “hundred box of Gourdoulis”), making it a high-signal cross-strand prop echo even if the surrounding scenes/voices are not adjacent.
+    - **Disconfirming evidence:** a third page-body `Gourdoulis` instance emerges, or later evidence shows the Page 33 box is not cigarette-related (breaking the shared-prop premise).
   - **Disconfirming evidence:** later context shows these are human metaphors (or the POV is clearly human).
   - **Phase 4 internal ordering hypotheses (N02):**
     - **Spine — mid‑August daybook run** (confidence: `LIKELY`)
