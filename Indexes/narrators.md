@@ -222,7 +222,7 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_54.md, Pages/cains_jawbone_page_56.md
   - **Confidence:** `CERTAIN`
   - **Disconfirming evidence:** the shared parenthetical phrasing is shown to be a common quotation reused across multiple narrators, or the two pages’ surrounding voice/register proves incompatible beyond the single repeated phrase.
-  - **Notes:** Page 54 also participates in the plant/poison “to-day” date-anchor motif; keep that separate from narrator identification.
+  - **Notes:** CERTAIN within-voice order: Pages/cains_jawbone_page_56.md → Pages/cains_jawbone_page_54.md (pre-breakfast insomnia/recapitulation → breakfast scene receiving Miss Doncaster’s letter). Page 54 also participates in the plant/poison “to-day” date-anchor motif; keep that separate from narrator identification.
 
 - `N27` — Peebles mineralogy lecturer / bell-summoning voice:
   - **Signature tells:** snobbish class register (“lower orders”); bell-summoning framing with an ambivalent reliance on a skilled subordinate; academic self-positioning (mineralogy lectures at “Peebles University”); punning blackboard proverb (“Day”/“Knight” swap).

@@ -818,11 +818,12 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Key anchors:** repeated “awful and literal sense” phrasing; breakfast setting (toast/marmalade; sausage); insomnia + “agony of recapitulation”; “Clare” (clairvoyant/clairaudient pun).
   - **Disconfirming evidence:** the shared aside is shown to be a common quotation reused across multiple voices, or the surrounding diction/register proves incompatible beyond the single repeated phrase.
   - **Phase 4 internal ordering hypotheses (N26):**
-    - **Sequence A — insomnia/recapitulation → breakfast letter** (confidence: `LIKELY`)
+    - **Sequence A — insomnia/recapitulation → breakfast letter** (confidence: `CERTAIN`)
       - **Pages (ordered):** Pages/cains_jawbone_page_56.md → Pages/cains_jawbone_page_54.md
       - **Why:**
         - Pages/cains_jawbone_page_56.md is a pre-breakfast wake/insomnia beat that resolves into breakfast arrival (the “girl… in the sausage”), while Pages/cains_jawbone_page_54.md is already at breakfast (“crumbs of toast… smear of marmalade”) reading Miss Doncaster’s letter.
         - Both pages repeat the distinctive “in the awful and literal sense of the word” aside and stage the narrator at a table in the same morning register.
+        - Breakfast progression cue (supporting): Pages/cains_jawbone_page_56.md is waiting for breakfast and ends at the first course (sausage), while Pages/cains_jawbone_page_54.md is at “the last clear smear of marmalade,” consistent with a later beat in the same breakfast.
       - **Disconfirming evidence:**
         - Pages/cains_jawbone_page_54.md’s Miss Doncaster / “old man coming to-day” setup is later shown to be incompatible with Pages/cains_jawbone_page_56.md’s domestic “girl of mine” breakfast context, implying these are two separate mornings/voices sharing a reusable aside.
 
