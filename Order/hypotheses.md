@@ -901,6 +901,8 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - The “same way home” motif on Pages/cains_jawbone_page_25.md (“gone the same way home”) is echoed by Pages/cains_jawbone_page_20.md’s closing “circled and circled… arrived home again, we two,” suggesting a deliberate internal rhyme between the two pages even if the locations differ.
       - **Disconfirming evidence:**
         - Pages/cains_jawbone_page_25.md’s explicit wake-location (Didling) and Pages/cains_jawbone_page_20.md’s “by the Mole” waking-routine are shown to be incompatible as a single-day progression (forcing these as non-adjacent beats or different voices).
+  - **Falsification check (2025-12-30):** corpus scan found no third-page repeats of Pages/cains_jawbone_page_25.md’s Didling/Didlittle word-chain and no third-page repeats of Pages/cains_jawbone_page_20.md’s Mole/Daubernoun “oldest brass” bundle, so no bridge page currently exists to force a firmer order; keep Sequence A as `MAYBE`.
+  - **Next falsification check:** look for any page that repeats either (a) Didling/Didlittle *and* a second `N34` tell (time-factor/dread-of-time register), or (b) the Mole/Daubernoun brass anchor *and* a second `N34` tell, to extend this beyond a two-page pairing and re-test order.
 
 - **Cluster:** `N35` Rupee chapter / money suspicion + wickedness anxiety voice (confidence: `MAYBE`)
   - **Pages:** Pages/cains_jawbone_page_18.md

@@ -286,7 +286,7 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_20.md, Pages/cains_jawbone_page_25.md
   - **Confidence:** `LIKELY`
   - **Disconfirming evidence:** the shared time/wordplay register is shown to be a common technique across multiple narrators, or the two pages are later anchored to incompatible settings/participants.
-  - **Notes:** MAYBE overlaps with `N31` on pill-taking + place-name logic, but keep separate until a repeated phrase/anchor ties them.
+  - **Notes:** Falsification check (2025-12-30): Didling/Didlittle word-chain appears only on Pages/cains_jawbone_page_25.md, and the Mole/Daubernoun “oldest brass” bundle appears only on Pages/cains_jawbone_page_20.md (no third-page repeats), so no bridge page currently exists to force a firmer within-voice order. MAYBE overlaps with `N31` on pill-taking + place-name logic, but keep separate until a repeated phrase/anchor ties them.
 
 - `N35` — Rupee chapter / money suspicion + wickedness anxiety voice:
   - **Signature tells:** editorial/manuscript discussion framing (“omit… too sensational”); money-driven engagement; suspicion described as a subterranean movement; menu-course metaphor built on 1 Corinthians “fishes… birds”; fear of meeting a “really wicked person”.
