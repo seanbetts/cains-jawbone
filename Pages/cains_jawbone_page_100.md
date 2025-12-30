@@ -33,6 +33,7 @@ I dimly guess why the old dead so wanted this. I had worked for him, Henry had w
   - MAYBE: belongs with the Henry + Scotland Yard / detective cluster (police framing + Henry present).
   - MAYBE: shared “buttonhole” word (page-body unique) with Pages/cains_jawbone_page_4.md (“day’s buttonhole” ↔ “buttonhole has escaped from the buttonholer”); treat as a cross-narrator continuity candidate until a second independent anchor emerges (see `Order/hypotheses.md`).
   - MAYBE: shared “as flush as May” Hamlet lift with Pages/cains_jawbone_page_79.md; treat as a cross-strand quote echo until a second independent anchor emerges (see `Order/hypotheses.md`).
+  - MAYBE (Phase 6 merge candidate): Pages/cains_jawbone_page_100.md appears to share multiple independent `N01` anchors — dead-employer phrasing with Pages/cains_jawbone_page_1.md (“dead old man” ↔ “old dead”), page-body-unique phrasing bundle with Pages/cains_jawbone_page_17.md (“Why should I think…” + “her beauty” + “slips”), plus shared Francis Thompson embedding + Scots-dialect markers with Pages/cains_jawbone_page_43.md. Treat as a likely `N01` extension unless contradicted (see `Order/hypotheses.md`, `Indexes/narrators.md`).
 - **Disconfirming evidence:**
   - If the collapse/death framing is revealed as purely rhetorical (no actual in-world harm).
 - **Research needed:**
