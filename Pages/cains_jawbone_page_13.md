@@ -23,7 +23,7 @@ Then against a possible invasion of my privacy, I touched my white cheeks until 
 - **Voice/tells:**
   - Self-conscious, classed description (“Bloomsbury”); familiarity with grim scenes (“native to me”).
 - **Clustering hypotheses:**
-  - CERTAIN: links strongly with Pages/cains_jawbone_page_49.md (Blake quote continuation lock: p49’s “Bring Palamabron… Elynittria…” → this page’s “Rintrah… Ocalythron.”).
+  - CERTAIN (Phase 5 adjacency candidate): Pages/cains_jawbone_page_49.md → Pages/cains_jawbone_page_13.md (Blake quote continuation lock: p49’s “Bring Palamabron… Elynittria…” → this page’s “Rintrah… Ocalythron.”). See `Order/hypotheses.md`.
   - CERTAIN: links strongly with Pages/cains_jawbone_page_31.md (unique Grantham marker: “conduit dating from 1597” in the market place ↔ p31’s “in this very place… reckon with Henry”). LIKELY within-incident order: `Pages/cains_jawbone_page_13.md → Pages/cains_jawbone_page_31.md`; see `Order/hypotheses.md` (`N20`).
   - MAYBE: Henry-handling-bodies cluster with Pages/cains_jawbone_page_14.md (Henry cleaning flesh/wine remnants).
 - **Disconfirming evidence:**

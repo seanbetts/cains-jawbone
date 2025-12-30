@@ -1399,6 +1399,10 @@ Template:
   - **Why:** Direct “poet’s lines” continuation across the page break: Pages/cains_jawbone_page_23.md ends “I think wistfully of the poet’s lines:” and gives the Masefield line “But rum alone’s the tipple, and the heart’s delight”, and Pages/cains_jawbone_page_24.md begins with the deliberately substituted next-line slot (“Of Cathleen, the daughter of Houlihan.”).
   - **Disconfirming evidence:** Another page is found that cleanly supplies the expected Masefield continuation line in that slot (“Says Henry Morgan.”) *and* matches Pages/cains_jawbone_page_23.md’s voice/scene better than Pages/cains_jawbone_page_24.md, or the Pages/cains_jawbone_page_24.md opening line is shown to be an independent epigraph with no intended continuity.
 
+- **Sequence (confidence: CERTAIN):** `Pages/cains_jawbone_page_49.md → Pages/cains_jawbone_page_13.md`
+  - **Why:** Direct Blake quotation continuation across the page break: Pages/cains_jawbone_page_49.md ends with “Bring Palamabron… And silent Elynittria…”, and Pages/cains_jawbone_page_13.md begins with the immediate next lines “Rintrah… Ocalythron.” (*Europe a Prophecy*).
+  - **Disconfirming evidence:** Only if another page is found that quotes the missing intervening line(s) between these excerpts (making the continuation non-unique), or later evidence shows the Blake lines are being reused as detachable epigraphs rather than continued within-scene.
+
 - **Sequence (confidence: CERTAIN):** `Pages/cains_jawbone_page_74.md → Pages/cains_jawbone_page_75.md`
   - **Why:** Immediate continuation: Page 74’s “red rose and the white… remained” → Page 75’s “those two other flowers,” and Page 74’s “them” (secret purchases) → Page 75’s “orange tinted documents,” with matching eyesight-failure emphasis.
   - **Disconfirming evidence:** Only if “those two other flowers” and the “orange tinted documents” are later shown to be unrelated to Page 74’s scene/items (coincidental overlap).
