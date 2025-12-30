@@ -23,6 +23,7 @@ I dimly guess why the old dead so wanted this. I had worked for him, Henry had w
   - Buttonhole motif (“buttonhole has escaped from the buttonholer”).
   - Police/detection frame (Scotland Yard) collides with personal collapse.
   - Henry “getting out of hand” (suggests Henry is physically controlled/handled in this scene).
+  - MAYBE: `believe me` appears only here and Pages/cains_jawbone_page_37.md (“who would believe me?”); treat as a weak continuity hook pending a second independent anchor.
 - **Quotes & allusions:**
   - CERTAIN: “Here I shake off the bur o’ the world, man’s congregation shun” = Francis Thompson, “An Anthem of Earth” (in *New Poems*, 1897), p. 93: https://books.google.co.uk/books?id=SZo-AAAAYAAJ&pg=PA93&dq=bur+o%27+the+world&source=gbs_api.
   - CERTAIN: “as flush as May” is Shakespeare, *Hamlet* Act III, Scene 3 (“…broad blown, as flush as May”): https://en.wikisource.org/wiki/Hamlet_(1917)_Yale/Text/Act_III?action=render (also appears on Pages/cains_jawbone_page_79.md).

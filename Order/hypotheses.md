@@ -204,6 +204,11 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
   - **Why it might matter:** this is the strongest current bridge candidate for re-stitching the weak v2 boundary around Pages/cains_jawbone_page_91.md → Pages/cains_jawbone_page_86.md, and may indicate the same household/cast and narrator voice under different registers.
   - **Disconfirming evidence:** “Caroline” is later shown to be a different person from Caroline Jasmine (or a purely incidental naming coincidence), and/or Yeats quotation is shown to be generic scene-dressing across multiple unrelated narrators.
   - **Next falsification check:** find a second non-quote continuity anchor between the pages (shared prop/place/relationship), and decide whether the “Next day” openings can be reconciled within a single local run (or force non-adjacent placement).
+- **Candidate:** Pages/cains_jawbone_page_37.md ↔ Pages/cains_jawbone_page_100.md (`N29` ↔ `N24`) (confidence: `MAYBE`)
+  - **Prior anchor:** `believe me` appears only on these page bodies (Pages/cains_jawbone_page_37.md: “who would believe me?”; Pages/cains_jawbone_page_100.md: “believe me, I cannot…”).
+  - **Why it might matter:** provides a rare phrase-level handle for stitching Pages/cains_jawbone_page_100.md into the late tail without relying only on singletons like Woolworth’s/Kursaal.
+  - **Disconfirming evidence:** if no second independent anchor exists (shared cast/prop/place, or a second unique phrase echo), treat as rhetorical coincidence rather than continuity.
+  - **Next falsification check:** search for any additional shared non-generic phrase or shared participant/mechanism between the art-world “jasmine bowl” scene and the Scotland Yard/Kursaal collapse.
 
 ### Falsified cross-narrator candidates (Phase 3)
 
@@ -1798,6 +1803,7 @@ These are the **highest-risk segment joins** inside the v2 full ordering draft. 
   - **Why:** no direct continuation; Pages/cains_jawbone_page_100.md has Scotland Yard + “buttonhole” and a collapsing narrator, while Pages/cains_jawbone_page_46.md is a dog-coded aside with a different domestic register.
   - **Bridge candidates (direction unknown):**
     - Pages/cains_jawbone_page_100.md ↔ Pages/cains_jawbone_page_4.md (unique “buttonhole” word echo).
+    - Pages/cains_jawbone_page_100.md ↔ Pages/cains_jawbone_page_37.md (unique “believe me” phrase echo).
     - Pages/cains_jawbone_page_100.md ↔ Pages/cains_jawbone_page_91.md (unique Scotland Yard / “Black Museum” institutional overlap + Henry present on both pages), though this is now lower priority given the stronger `Pages/cains_jawbone_page_80.md → Pages/cains_jawbone_page_91.md` placement.
     - Pages/cains_jawbone_page_100.md ↔ Pages/cains_jawbone_page_38.md (Southend anchor: Kursaal ↔ “tragic fortnight at Southend”), as a potential way to stitch the coda into the current tail.
     - Pages/cains_jawbone_page_100.md ↔ Pages/cains_jawbone_page_79.md (unique “as flush as May” Hamlet lift appears only on these pages; both also embed Hamlet lines), suggesting Pages/cains_jawbone_page_100.md may stitch more naturally into the `N02` dog-POV spine than via an arbitrary tail adjacency.
@@ -1812,6 +1818,7 @@ These are the **highest-risk segment joins** inside the v2 full ordering draft. 
   - **Phase 6 test (2025-12-30):** re-read Pages/cains_jawbone_page_84.md and Pages/cains_jawbone_page_100.md for an explicit continuation of the “why the deceased/old dead wanted this” framing; the thematic hinge is strong, but there is no shared concrete prop/place/name marker (no Southend/Woolworth’s/Kursal/Dagenham carryover), so keep as a promising but unproven stitch idea.
   - **Phase 6 test (2025-12-30):** re-read Pages/cains_jawbone_page_91.md and Pages/cains_jawbone_page_100.md for a stronger institutional crime continuity (“Black Museum” ↔ Scotland Yard) and a shared Henry-misbehaviour beat (“playing about” ↔ “getting out of hand”); suggestive, but still lacks a hard boundary continuation and competes with the stronger `Pages/cains_jawbone_page_60.md → Pages/cains_jawbone_page_91.md` placement.
   - **Phase 6 test (2025-12-30):** re-read the Pages/cains_jawbone_page_46.md ending and Pages/cains_jawbone_page_100.md opening; found no continuity marker at the boundary and no shared unique anchor that would justify immediate adjacency.
+  - **Phase 6 test (2025-12-30):** corpus scan found `believe me` appears only on Pages/cains_jawbone_page_37.md and Pages/cains_jawbone_page_100.md; treat this as a possible alternative stitch candidate (still requires a second independent anchor).
   - **Phase 6 test (2025-12-30):** corpus scan confirms Pages/cains_jawbone_page_46.md’s distinctive anchors (“Hal”, “Maltese”, “chop”) appear only on that page, and Pages/cains_jawbone_page_100.md’s key anchors (“Scotland Yard”, “Woolworth’s”, “Kursal”) appear only on that page, reinforcing that this is currently a pure placeholder join.
   - **Outcome:** `UNCLEAR` (keep as placeholder; continue testing Pages/cains_jawbone_page_100.md against Pages/cains_jawbone_page_4.md, Pages/cains_jawbone_page_79.md, Pages/cains_jawbone_page_1.md, and Pages/cains_jawbone_page_91.md as potential stitch points).
 
