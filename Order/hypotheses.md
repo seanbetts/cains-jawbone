@@ -1625,3 +1625,62 @@ Key changes vs v1:
 - **Block V (`N10` + `N39`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_14.md → Pages/cains_jawbone_page_12.md → Pages/cains_jawbone_page_50.md → Pages/cains_jawbone_page_28.md
 - **Block W (`N06`, confidence: `LIKELY` internal; Page 71 tentative):** Pages/cains_jawbone_page_66.md → Pages/cains_jawbone_page_67.md → Pages/cains_jawbone_page_71.md → Pages/cains_jawbone_page_73.md → Pages/cains_jawbone_page_74.md → Pages/cains_jawbone_page_75.md → Pages/cains_jawbone_page_83.md
 - **Block X (tail, confidence: `MAYBE`):** Pages/cains_jawbone_page_2.md → Pages/cains_jawbone_page_9.md → Pages/cains_jawbone_page_16.md → Pages/cains_jawbone_page_18.md → Pages/cains_jawbone_page_37.md → Pages/cains_jawbone_page_38.md → Pages/cains_jawbone_page_40.md → Pages/cains_jawbone_page_51.md → Pages/cains_jawbone_page_63.md → Pages/cains_jawbone_page_72.md → Pages/cains_jawbone_page_76.md → Pages/cains_jawbone_page_78.md → Pages/cains_jawbone_page_81.md → Pages/cains_jawbone_page_84.md → Pages/cains_jawbone_page_98.md → Pages/cains_jawbone_page_77.md → Pages/cains_jawbone_page_46.md → Pages/cains_jawbone_page_100.md
+
+### Phase 5 tightening notes for v2 (joins)
+
+These are the **highest-risk segment joins** inside the v2 full ordering draft. Treat them as `MAYBE` placeholders until they gain at least 2 independent anchors (e.g., time + place, or character + prop).
+
+- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_24.md → Pages/cains_jawbone_page_52.md
+  - **Why:** current v2 boundary between otherwise stable blocks; no shared named entity/prop/quote continuation has been identified.
+  - **Falsifier:** any page-level constraint forces Pages/cains_jawbone_page_52.md to sit adjacent to a different predecessor (e.g., a quote continuation or a unique scene-mechanic continuation).
+  - **Next falsification check:** look for a second distinctive bridge anchor into the Pages/cains_jawbone_page_52.md / Pages/cains_jawbone_page_53.md interview scene beyond generic “papers/ham” (door/action, named participant, quote).
+
+- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_91.md → Pages/cains_jawbone_page_86.md
+  - **Why:** both pages use “Next day” and both name “Henry,” but `Henry` is an overloaded label across the corpus; no setting/prop/quote continuity is currently known.
+  - **Falsifier:** Pages/cains_jawbone_page_91.md gains a stronger attachment to a different crime/detection segment (e.g., Scotland Yard on Pages/cains_jawbone_page_100.md, or aconite on Pages/cains_jawbone_page_80.md), or Pages/cains_jawbone_page_86.md / Pages/cains_jawbone_page_87.md are anchored by a local “next day” predecessor that is not Pages/cains_jawbone_page_91.md.
+  - **Next falsification check:** re-scan for any unique noun/prop bundle shared by Pages/cains_jawbone_page_91.md and the `N13` coastal house segment (Sanders, bay-house setting, dead-man’s letter).
+
+- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_57.md → Pages/cains_jawbone_page_33.md
+  - **Why:** no phrase/scene continuation known; Pages/cains_jawbone_page_57.md is currently held in `N02` primarily via the “my people”/Skye register and dog-as-listener framing, while Pages/cains_jawbone_page_33.md is a coercive debts/letter scene.
+  - **Bridge candidates (order unknown):**
+    - Pages/cains_jawbone_page_57.md ↔ Pages/cains_jawbone_page_52.md (Westphalian ham + “bits of paper” reading is a partial scene-mechanic echo).
+    - Pages/cains_jawbone_page_33.md ↔ Pages/cains_jawbone_page_10.md (unique Gourdoulis 100-box prop).
+  - **Falsifier:** Pages/cains_jawbone_page_57.md is later forced into a non-dog setting (breaking `N02`), or Pages/cains_jawbone_page_33.md gains a second, stronger anchor to a different successor (beyond the current debts/bills bundle with Pages/cains_jawbone_page_34.md).
+  - **Next falsification check:** search for any third instance of the Pages/cains_jawbone_page_57.md scene mechanism (Westphalian ham + “bits of paper” reading) that would triangulate placement.
+
+- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_34.md → Pages/cains_jawbone_page_96.md
+  - **Why:** no direct continuation; the pages feel like different “registers” (coercive bills/manipulation vignette → café/meeting/menu register).
+  - **Bridge candidates (order unknown):**
+    - Pages/cains_jawbone_page_34.md ↔ Pages/cains_jawbone_page_52.md (unique “innocent child” phrasing + “ironic” framing).
+    - Pages/cains_jawbone_page_96.md ↔ Pages/cains_jawbone_page_68.md (memory-trigger phrasing: “touched a chord of memory” ↔ “How vividly… How it all comes back.”).
+  - **Falsifier:** either bridge candidate resolves as non-unique (a third page contains the same “innocent child” or memory-trigger phrasing), or a new quote/prop continuity anchors Pages/cains_jawbone_page_96.md firmly to a different local run.
+  - **Next falsification check:** confirm whether Pages/cains_jawbone_page_96.md shares any second anchor with the Pages/cains_jawbone_page_95.md ↔ Pages/cains_jawbone_page_70.md letter thread (shared named participant, shared location, or shared document/blackmail mechanic).
+
+- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_70.md → Pages/cains_jawbone_page_14.md
+  - **Why:** no direct continuation; Pages/cains_jawbone_page_70.md ends on threat/retaliation anxiety and a franked note, while Pages/cains_jawbone_page_14.md is a separate will/inheritance eavesdropping scene.
+  - **Bridge candidate (direction unknown):** Pages/cains_jawbone_page_70.md ↔ Pages/cains_jawbone_page_68.md / Pages/cains_jawbone_page_69.md (shared “old man” framing + aftermath motivation for producing the “hour by hour, day by day” written account).
+  - **Falsifier:** Pages/cains_jawbone_page_14.md gains a stronger adjacent successor/predecessor (beyond the current `Pages/cains_jawbone_page_14.md → Pages/cains_jawbone_page_12.md` link) that forces it away from the letter/blackmail material.
+  - **Next falsification check:** verify whether Pages/cains_jawbone_page_68.md / Pages/cains_jawbone_page_69.md contain any forward reference to the “franked… in the morning” note mechanics (or to the Eros/Queen’s Hall London corridor detail).
+
+- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_83.md → Pages/cains_jawbone_page_2.md
+  - **Why:** no direct continuation; overlap is currently limited to the overloaded name “Henry” (present on both pages, but with no shared role/setting anchor).
+  - **Falsifier:** Pages/cains_jawbone_page_2.md gains a stronger attachment to a London decoding/letter thread (rather than a “Henry in a crowd” scene), or Pages/cains_jawbone_page_83.md gains a direct continuity hook into another `N06`-adjacent page beyond its current internal rose/old-man sequence.
+  - **Next falsification check:** search for a second anchor in Pages/cains_jawbone_page_2.md beyond “London/Henry” (same quoted source fragment, same “figures and letters” decoding mechanic, or the same described woman).
+
+- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_98.md → Pages/cains_jawbone_page_77.md
+  - **Why:** no direct continuation; there is only a *possible* calendar-layer alignment (“May be” pun on Pages/cains_jawbone_page_98.md ↔ the May 11 Perceval anchor on Pages/cains_jawbone_page_77.md).
+  - **Falsifier:** “May” on Pages/cains_jawbone_page_98.md is clearly only the person `P16` (not a month-layer cue), or Pages/cains_jawbone_page_77.md is anchored to a different local time-layer that is incompatible with a May placement.
+  - **Next falsification check:** check whether any other page uses the “May be / May be not” punning posture as an explicit month-layer marker, or whether Pages/cains_jawbone_page_98.md carries a second date/season anchor.
+
+- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_77.md → Pages/cains_jawbone_page_46.md
+  - **Why:** no direct continuation; Pages/cains_jawbone_page_46.md is strongly `N02` dog-coded and has a Dec 14 “to-day” anchor, while Pages/cains_jawbone_page_77.md carries a May 11 “to-day” anchor (Perceval) and a first-murder confession.
+  - **Falsifier:** a bridging autumn/winter `N02` page is found that forces Pages/cains_jawbone_page_46.md into the immediate vicinity of Pages/cains_jawbone_page_77.md, or Pages/cains_jawbone_page_77.md is shown to belong to the same dog-coded narrator (currently unlikely).
+  - **Next falsification check:** re-scan for any shared non-date anchor (unique quoted source fragment, shared named participant beyond “Henry”, or a shared object/brand) that could justify proximity.
+
+- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_46.md → Pages/cains_jawbone_page_100.md
+  - **Why:** no direct continuation; Pages/cains_jawbone_page_100.md has Scotland Yard + “buttonhole” and a collapsing narrator, while Pages/cains_jawbone_page_46.md is a dog-coded aside with a different domestic register.
+  - **Bridge candidate (direction unknown):** Pages/cains_jawbone_page_100.md ↔ Pages/cains_jawbone_page_4.md (unique “buttonhole” word echo), and Pages/cains_jawbone_page_100.md ↔ Pages/cains_jawbone_page_91.md (crime/detection register).
+  - **Falsifier:** Pages/cains_jawbone_page_100.md is later shown to be purely rhetorical (no in-world collapse), or the “buttonhole” echo is found on a third page (making it non-unique).
+  - **Next falsification check:** search for a second anchor tying Pages/cains_jawbone_page_100.md to the `N19` coastal comic voice (Pages/cains_jawbone_page_4.md) beyond the “buttonhole” word.
+
+- **Falsification check (2025-12-30):** reviewed page-body end/start across the above joins and found no mid-sentence or quote continuation markers at these boundaries; treat all as non-adjacent until new evidence emerges.
