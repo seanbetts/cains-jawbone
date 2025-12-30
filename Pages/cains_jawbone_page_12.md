@@ -44,7 +44,7 @@ LIKELY WORDPLAY
   - Falsification check (2025-12-30): scanned page bodies for “pronated finger-tips” / “abstracted will” / “velvet… cinders” / “small topaz searchlights” and found no third-page repeats; keep `Pages/cains_jawbone_page_14.md → Pages/cains_jawbone_page_12.md` as `LIKELY` only (not a hard adjacency).
   - MAYBE: paired with Pages/cains_jawbone_page_14.md more loosely as a will/document motif cluster if the scenes prove distinct.
   - CERTAIN: cross-narrator continuity lock with Pages/cains_jawbone_page_75.md via the unique “searchlights” eye-metaphor over documents/writing; treat as a directionless cross-voice constraint `Pages/cains_jawbone_page_12.md ↔ Pages/cains_jawbone_page_75.md` (see `Order/hypotheses.md`).
-  - LIKELY (Phase 5 join-candidate): Pages/cains_jawbone_page_12.md → Pages/cains_jawbone_page_50.md via the shared Greek-Anthology Homonoea epigram layer (Atimetus on p12; “Homonoea” opening line on p50) + the will/document-at-table register; see `Order/hypotheses.md`.
+  - CERTAIN (Phase 5 adjacency candidate): Pages/cains_jawbone_page_12.md → Pages/cains_jawbone_page_50.md (Greek Anthology epigram continuation: Atimetus → Homonoea; plus shared will/documents-at-table register); see `Order/hypotheses.md`.
 - **Disconfirming evidence:**
   - If Page 14’s “leave everything” is unrelated (different people/context).
 - **Research needed:**

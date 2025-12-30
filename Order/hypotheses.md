@@ -20,6 +20,9 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
 - **Constraint:** Pages/cains_jawbone_page_12.md ↔ Pages/cains_jawbone_page_14.md (confidence: `CERTAIN`)
   - **Anchor:** unique will-talk + aftermath bundle: “leave everything… May” + “spilled wine” + “fragments of… flesh” + Henry cleaning at a sign (Page 14) aligns with the same will/document surveillance posture on Page 12 (“documents” + “abstracted will”), with no competing page carrying the same bundle.
   - **Falsifier:** only if “May” and the will-talk are shown to be a different in-world scene than Page 12’s document-watching (i.e., two separate will episodes).
+- **Constraint:** Pages/cains_jawbone_page_12.md ↔ Pages/cains_jawbone_page_50.md (confidence: `CERTAIN`)
+  - **Anchor:** Greek Anthology epigram continuation: Page 12 explicitly introduces “the words of the poet” and quotes the Atimetus fragment (“The golden one is gone from the banquets… beloved of Atimetus,”), and Page 50 opens with the next line (“The swallow, the bright Homonoea.”); no other page-body instances of Atimetus/Homonoea exist.
+  - **Falsifier:** only if the epigram fragments are shown to be a detachable epigraph layer reused elsewhere (or a third page is found containing a tighter intermediate fragment).
 - **Constraint:** Pages/cains_jawbone_page_17.md ↔ Pages/cains_jawbone_page_43.md (confidence: `CERTAIN`)
   - **Anchor:** “the Moon”/“the Dawn” venue pair appears only on these two pages, alongside the shared “bad for the hand” ↔ “ruin my hand” cue.
   - **Falsifier:** only if “Moon/Dawn” are shown to be abstract metaphors (not venue names) and the cast/context is incompatible.
@@ -234,7 +237,7 @@ _None currently._
 
 Directionless mapping from each constraint pair to narrator IDs (useful for cross-narrator joins).
 
-- **Cross-narrator constraints (current):** Pages/cains_jawbone_page_12.md ↔ Pages/cains_jawbone_page_75.md (`N10` ↔ `N06`); Pages/cains_jawbone_page_23.md ↔ Pages/cains_jawbone_page_24.md (`N40` ↔ `N03`); Pages/cains_jawbone_page_4.md ↔ Pages/cains_jawbone_page_100.md (`N19` ↔ `N24`); Pages/cains_jawbone_page_4.md ↔ Pages/cains_jawbone_page_21.md (`N19` ↔ `N12`); Pages/cains_jawbone_page_10.md ↔ Pages/cains_jawbone_page_33.md (`N02` ↔ `N25`).
+- **Cross-narrator constraints (current):** Pages/cains_jawbone_page_12.md ↔ Pages/cains_jawbone_page_50.md (`N10` ↔ `N39`); Pages/cains_jawbone_page_12.md ↔ Pages/cains_jawbone_page_75.md (`N10` ↔ `N06`); Pages/cains_jawbone_page_23.md ↔ Pages/cains_jawbone_page_24.md (`N40` ↔ `N03`); Pages/cains_jawbone_page_4.md ↔ Pages/cains_jawbone_page_100.md (`N19` ↔ `N24`); Pages/cains_jawbone_page_4.md ↔ Pages/cains_jawbone_page_21.md (`N19` ↔ `N12`); Pages/cains_jawbone_page_10.md ↔ Pages/cains_jawbone_page_33.md (`N02` ↔ `N25`).
 - Pages/cains_jawbone_page_4.md ↔ Pages/cains_jawbone_page_100.md — Narrator(s): N19 ↔ N24 (confidence: `MAYBE`)
 - Pages/cains_jawbone_page_4.md ↔ Pages/cains_jawbone_page_21.md — Narrator(s): N19 ↔ N12 (confidence: `MAYBE`)
 - Pages/cains_jawbone_page_5.md ↔ Pages/cains_jawbone_page_58.md — Narrator(s): N19 (confidence: `CERTAIN`)
@@ -250,6 +253,7 @@ Directionless mapping from each constraint pair to narrator IDs (useful for cros
 - Pages/cains_jawbone_page_10.md ↔ Pages/cains_jawbone_page_33.md — Narrator(s): N02 ↔ N25 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_11.md ↔ Pages/cains_jawbone_page_41.md — Narrator(s): N17 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_12.md ↔ Pages/cains_jawbone_page_14.md — Narrator(s): N10 (confidence: `CERTAIN`)
+- Pages/cains_jawbone_page_12.md ↔ Pages/cains_jawbone_page_50.md — Narrator(s): N10 ↔ N39 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_12.md ↔ Pages/cains_jawbone_page_75.md — Narrator(s): N10 ↔ N06 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_13.md ↔ Pages/cains_jawbone_page_31.md — Narrator(s): N20 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_13.md ↔ Pages/cains_jawbone_page_49.md — Narrator(s): N20 (confidence: `CERTAIN`)
@@ -958,7 +962,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
       - **Why:**
         - Pages/cains_jawbone_page_28.md reads as a waiting/prep beat (“Not a woman had entered as yet… ticklish business… Forging ahead… since the woman was not yet dead”), while Pages/cains_jawbone_page_50.md shows the operational scene (“The will was there… caseful of strange pens… wonderful hands at work”) and reprises the same target-harm framing (“hurting the girl”).
         - The embedded *Importance of Being Earnest* quotations progress plausibly within Act I (Lane’s “married once… misunderstanding” material on Pages/cains_jawbone_page_28.md vs the later “handbag” material on Pages/cains_jawbone_page_50.md), supporting (but not proving) continuity of reading/echoing across adjacent pages.
-        - Note: treat this as **within-voice order**; Pages/cains_jawbone_page_50.md is also constrained by the cross-narrator Homonoea epigram continuation Pages/cains_jawbone_page_12.md → Pages/cains_jawbone_page_50.md, so do not force Pages/cains_jawbone_page_28.md adjacent to Pages/cains_jawbone_page_50.md in the full ordering.
+        - Note: treat this as **within-voice order**; Pages/cains_jawbone_page_50.md is preceded by the CERTAIN Homonoea epigram continuation Pages/cains_jawbone_page_12.md → Pages/cains_jawbone_page_50.md, so do not force Pages/cains_jawbone_page_28.md adjacent to Pages/cains_jawbone_page_50.md in the full ordering.
       - **Disconfirming evidence:**
         - The “woman” on Pages/cains_jawbone_page_28.md and the “girl” on Pages/cains_jawbone_page_50.md are clearly different people/plots (making the forgery framing coincidental), or the table/participants are incompatible with Pages/cains_jawbone_page_28.md’s setting.
         - The Earnest quotations are shown to be used non-sequentially (or widely reused), removing the “Act I progression” support.
@@ -969,7 +973,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
       - **Disconfirming evidence:**
         - Any concrete time marker anchors one scene as “next day/after” the other.
   - **Resolved check:** *Importance of Being Earnest* fragments recur elsewhere (e.g., Pages/cains_jawbone_page_65.md), so treat “Act I progression” as supportive only; confidence for the Pages/cains_jawbone_page_28.md / Pages/cains_jawbone_page_50.md pairing rests primarily on the shared forgery/target-harm framing (“woman not yet dead” ↔ “hurting the girl” + the will/pen-work scene).
-  - **Falsification check (2025-12-30):** searched page bodies for Pages/cains_jawbone_page_28.md anchors (Pluckley; “stone broach spire”; “ticklish business”; green binding device) and Pages/cains_jawbone_page_50.md anchors (“Homonoea”; “wonderful hands”; “strange pens”; “hurting the girl”) and found no third-page matches; treat the Pages/cains_jawbone_page_28.md / Pages/cains_jawbone_page_50.md pairing as a tight two-page voice. Note: Pages/cains_jawbone_page_50.md’s Greek Anthology “Homonoea” epigram overlaps Pages/cains_jawbone_page_12.md (Phase 5 join-candidate, not a Phase 4 ordering claim).
+  - **Falsification check (2025-12-30):** searched page bodies for Pages/cains_jawbone_page_28.md anchors (Pluckley; “stone broach spire”; “ticklish business”; green binding device) and Pages/cains_jawbone_page_50.md anchors (“Homonoea”; “wonderful hands”; “strange pens”; “hurting the girl”) and found no third-page matches; treat the Pages/cains_jawbone_page_28.md / Pages/cains_jawbone_page_50.md pairing as a tight two-page voice. Note: Pages/cains_jawbone_page_50.md’s Greek Anthology “Homonoea” epigram continues directly from Pages/cains_jawbone_page_12.md (Phase 5 adjacency candidate), so do not force Pages/cains_jawbone_page_28.md adjacent to Pages/cains_jawbone_page_50.md in the full ordering.
   - **Next falsification check:** look for a deictic/time marker or repeated prop that makes the Pages/cains_jawbone_page_28.md → Pages/cains_jawbone_page_50.md direction hard, or keep Sequence B alive as the alternative within-voice ordering.
 
 - **Cluster:** `N40` Bills-in-paper / Bryant & May / Left Luggage voice (confidence: `MAYBE`)
@@ -1490,14 +1494,13 @@ Template:
 
 - **Sequence (confidence: LIKELY):** `Pages/cains_jawbone_page_14.md → Pages/cains_jawbone_page_12.md`
   - **Why:** Pages/cains_jawbone_page_14.md foregrounds overheard will/inheritance talk (“leave everything to me… May”) plus the spilled wine/cleanup beat, while Pages/cains_jawbone_page_12.md places the narrator opposite a man bent over “documents” and explicitly punning on an “abstracted will,” reading like the immediate follow-on intelligence-gathering scene.
-  - **Note:** treat this as a within-voice order constraint; Pages/cains_jawbone_page_12.md is also a Phase 5 join-candidate into Pages/cains_jawbone_page_50.md via the Homonoea epigram, so do not force Pages/cains_jawbone_page_14.md adjacent to Pages/cains_jawbone_page_12.md in the full ordering.
+  - **Note:** treat this as a within-voice order constraint; Pages/cains_jawbone_page_12.md is followed by a CERTAIN cross-narrator continuation into Pages/cains_jawbone_page_50.md (Homonoea epigram), so keep Pages/cains_jawbone_page_14.md as a likely predecessor but do not assume adjacency without a second scene-continuity marker.
   - **Disconfirming evidence:** “May”/will-talk is later shown to be a different in-world scene than Page 12’s document-watching (two separate will episodes), or the Page 14 narrator’s Henry/cleanup setting is incompatible with Page 12’s “vis-à-vis” table scene.
 
-- **Sequence (confidence: LIKELY):** `Pages/cains_jawbone_page_12.md → Pages/cains_jawbone_page_50.md`
+- **Sequence (confidence: CERTAIN):** `Pages/cains_jawbone_page_12.md → Pages/cains_jawbone_page_50.md`
   - **Why:**
     - Pages/cains_jawbone_page_12.md ends with a Greek-Anthology “Homonoea” epigram fragment (“…banquets… Atimetus”), and Pages/cains_jawbone_page_50.md opens with the matching “Homonoea” continuation line (“The swallow, the bright Homonoea.”), which is the only “Homonoea” page-body instance in the corpus.
     - Both pages are also in the will/document-at-table register (Page 12: documents + “abstracted will”; Page 50: “The will was there” + pens at work), supporting a shared immediate context beyond the quotation layer.
   - **Disconfirming evidence:**
     - The Page 12 fragment is shown to be from a different source than Page 50’s “Homonoea” line, or a third page is found with a better-fitting intermediate fragment of the same epigram.
     - Page 50’s opening line is shown to be an isolated epigraph with no intended continuity (i.e., it does not follow a prior “words of the poet” setup in the final order).
-  - **Next falsification check:** search for any third page-body reuse of Atimetus/Homonoea language or a stronger deictic continuation cue (pronouns/participants/props) that would confirm or break immediate adjacency.
