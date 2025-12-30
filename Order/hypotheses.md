@@ -1778,5 +1778,6 @@ Delta from v2 (do not treat as accepted until falsified):
   - **Outcome:** `UNCLEAR`
 - **Phase 6 test (2025-12-30):** re-read the Pages/cains_jawbone_page_60.md ending and Pages/cains_jawbone_page_86.md opening; found no continuity marker beyond the generic day-step (`to-day` → `Next day`) and an overloaded `Henry` name.
   - **Outcome:** `UNCLEAR`
+- **Update (2025-12-30):** since `Pages/cains_jawbone_page_80.md → Pages/cains_jawbone_page_91.md` is now treated as the strongest current placement for Page 91 (aconite/Blue Rocket + shared collection/show-and-tell register), deprioritise v5 unless a second independent anchor emerges tying Page 91 to the Scotland Yard/Kursaal material.
 
 - **Falsification checks (2025-12-30):** boundary re-reads performed for the v2 join claims listed above; only `Pages/cains_jawbone_page_83.md → Pages/cains_jawbone_page_2.md` gains a strong continuity reading (newsboys “late night final” → “figures and letters” + “money’s worth”), and the remaining joins should be treated as the highest-priority re-stitch points for Phase 6.
