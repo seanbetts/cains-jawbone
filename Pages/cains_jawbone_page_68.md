@@ -18,6 +18,7 @@ Out cascaded the darling young. It was no tragedy ; that was, no tragedy compara
   - Nostalgia/reversion (“old tunes… damned and dead”).
   - Surveillance/paranoia: eavesdropping at “last crucial meeting”.
   - MAYBE: memory-trigger/digression habit: “touched a chord of memory” + “how often…” parallels Pages/cains_jawbone_page_96.md’s “How vividly… How it all comes back.”
+  - MAYBE: “Alexander’s Ragtime Wedding Feast” could be purely the Irving Berlin song-title riff, but it may also be a self-echo toward the Pages/cains_jawbone_page_43.md narrator who names himself Alexander (“Ecky”); keep this as a possible bridge between the N09 “old man” strand and the N01 Moon/Dawn dessert-register until a second shared anchor appears.
 - **Voice/tells:**
   - Irritated, inward; sensory trigger (stepped-on foot → memory chord).
 - **Clustering hypotheses:**

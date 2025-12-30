@@ -19,12 +19,13 @@ Now I think I will try a cup of what they insolently call Golden Tips, a find yo
 - **Quotes & allusions:**
   - CERTAIN: Wordsworth-parody title “Ode on the Intimations of Immorality in Early Childhood” (Intimations of Immortality echo).
   - CERTAIN: Scots phrasing “It gars me grue” = “it makes me shudder”: “Gar… To cause; to make. [Obs. or Scot.]” (Webster 1913, https://www.websters1913.com/words/Gar) + “Grue… to shudder” (Chambers’s Twentieth Century Dictionary, 1908: https://en.wikisource.org/wiki/Chambers%27s_Twentieth_Century_Dictionary_1908/Grope_Gyve).
-  - CERTAIN: “turning a Somerset” = doing a somersault (“Somerset” is a variant spelling of “somersault”): Webster 1913 “Somerset”: https://www.websters1913.com/words/Somerset.
+  - MAYBE: “turning a Somerset” could be (a) doing a somersault (“Somerset” variant spelling: Webster 1913 “Somerset”: https://www.websters1913.com/words/Somerset) or (b) “turning into a Somerset” by marriage/surname at the altar; note `P21` Kate Somerset appears on Pages/cains_jawbone_page_17.md with “marriage is in the air” framing.
 - **Voice/tells:**
   - Menu-sleuthing + wartime memory intrusions; frames the meeting as “mysterious”.
   - MAYBE: memory-trigger phrasing (“How vividly… How it all comes back”) echoes Pages/cains_jawbone_page_68.md’s “touched a chord of memory” + distraction register.
 - **Clustering hypotheses:**
   - MAYBE: café/meeting motif overlap with Pages/cains_jawbone_page_95.md, but no phrase-level overlap found; treat as non-binding unless a shared person/prop/venue marker emerges.
+  - MAYBE (Phase 6 join candidate): Pages/cains_jawbone_page_96.md → Pages/cains_jawbone_page_17.md (café/tea waiting “for the possible her” → “Ah, here she is…” arrival beat; shared “Somerset” + marriage framing). Falsifier: “Somerset” is purely the somersault idiom and the scenes are demonstrably different venues/casts.
   - MAYBE: cross-narrator phrase echo with Pages/cains_jawbone_page_29.md (page-body unique 7‑gram “if I may be permitted the expression”), but no second anchor found; treat as a stylistic echo only (not a constraint) unless a second independent scene anchor emerges.
 - **Disconfirming evidence:**
   - If “Catharine” and “Padre” are purely anecdotal/allusive with no recurrence.

@@ -1050,6 +1050,14 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - Pages/cains_jawbone_page_95.md then supplies the follow-through decision/action (“I had decided what to do” → pen/ink ritual → “told him all, hour by hour, day by day”), which reads like the next thing that happens once the waiting resolves into a plan.
       - **Disconfirming evidence:**
         - Pages/cains_jawbone_page_95.md’s opening time-budgeting is shown to be a pre-arrival travel beat incompatible with Pages/cains_jawbone_page_96.md’s already-seated tea/menu scene (forcing `95 → 96`), or Pages/cains_jawbone_page_96.md is later anchored to a non–Café Royal setting.
+    - **Join candidate (Phase 6) — café waiting → Moon/Dawn table scene** (confidence: `MAYBE`)
+      - **Pages (ordered):** Pages/cains_jawbone_page_96.md → Pages/cains_jawbone_page_17.md
+      - **Why:**
+        - Pages/cains_jawbone_page_96.md ends on a tense café/tea waiting beat (“for the possible her”… “meeting… so mysterious”), and Pages/cains_jawbone_page_17.md reads like the same posture resolving into arrival (“conveniently situated… Ah, here she is… into the chair opposite”).
+        - The “Somerset” + marriage framing is unusually specific: Pages/cains_jawbone_page_96.md’s “turning a Somerset in front of the altar” aligns with Pages/cains_jawbone_page_17.md’s named `Kate Somerset` + “marriage is in the air.”
+      - **Disconfirming evidence:**
+        - “Somerset” on Pages/cains_jawbone_page_96.md is shown to be only the somersault idiom with no surname/person linkage, and Pages/cains_jawbone_page_17.md’s Kate Somerset is demonstrably unrelated.
+        - The Page 96 meeting is later anchored to a different venue/cast than the Moon/Dawn scene, so the “possible her” cannot be the “Ah, here she is” arrival.
     - **Sequence C — old-man thread → café meeting → written account** (confidence: `MAYBE`)
       - **Pages (ordered):** Pages/cains_jawbone_page_68.md → Pages/cains_jawbone_page_69.md → Pages/cains_jawbone_page_96.md → Pages/cains_jawbone_page_95.md → Pages/cains_jawbone_page_70.md
       - **Why:**
