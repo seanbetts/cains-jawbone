@@ -23,7 +23,7 @@ I wondered if I should succeed in hurting the girl. But think of her no more. Th
 - **Clustering hypotheses:**
   - CERTAIN: `N39` will/forgery voice pairing with Pages/cains_jawbone_page_28.md (unique will/forgery operational bundle + shared *Importance of Being Earnest* layer). LIKELY within-voice order: `Pages/cains_jawbone_page_28.md → Pages/cains_jawbone_page_50.md`; see `Order/hypotheses.md` (`N39`).
   - Falsification check (2025-12-30): searched page bodies for “wonderful hands” + “strange pens” + “hurting the girl” + Homonoea and found no third-page matches beyond the Homonoea epigram overlap with Pages/cains_jawbone_page_12.md (Phase 5 join-candidate only).
-  - MAYBE: overlaps wills/forgery cluster (Pages/cains_jawbone_page_12.md, Pages/cains_jawbone_page_14.md) via the same Greek Anthology epigram (Homonoea) — treat as a Phase 5 join-candidate only.
+  - LIKELY (Phase 5 join-candidate): Pages/cains_jawbone_page_12.md → Pages/cains_jawbone_page_50.md via the shared Greek-Anthology Homonoea epigram layer (Atimetus on p12; “Homonoea” opening line on p50) + the will/document-at-table register; see `Order/hypotheses.md`.
   - MAYBE: links to pens/handwriting pages (Pages/cains_jawbone_page_1.md, Pages/cains_jawbone_page_43.md).
 - **Disconfirming evidence:**
   - If the “will” and pen-work are later revealed to be unrelated (metaphorical) rather than document-writing/forgery.

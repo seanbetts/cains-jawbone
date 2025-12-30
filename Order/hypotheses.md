@@ -1422,3 +1422,12 @@ Template:
   - **Disconfirming evidence:** Page 80’s “Sir Paul” is shown to be a different person/context from Trinder on Pages 52–53 and 59–60, Page 59’s “bane… failed” is unrelated to wolfsbane/aconitum, or Page 60’s “figurehead beard” refers to someone other than Trinder.
   - **Falsification check (2025-12-30):** in page bodies, “Sir Paul” appears only on Pages/cains_jawbone_page_53.md and Pages/cains_jawbone_page_80.md, “Trinder” only on Pages/cains_jawbone_page_53.md and Pages/cains_jawbone_page_59.md, and “figurehead beard” only on Pages/cains_jawbone_page_60.md, supporting this as a single named-character thread pending identification of the “figurehead beard”.
   - **Next falsification check:** look for any third page that names “Sir Paul”/Trinder in a way that forces placement between the interview (52–53) and the home-hospitality poison setup (80), or that explicitly identifies who the “figurehead beard” is (Page 60) to confirm whether Trinder is the intended “success” target.
+
+- **Sequence (confidence: LIKELY):** `Pages/cains_jawbone_page_12.md → Pages/cains_jawbone_page_50.md`
+  - **Why:**
+    - Pages/cains_jawbone_page_12.md ends with a Greek-Anthology “Homonoea” epigram fragment (“…banquets… Atimetus”), and Pages/cains_jawbone_page_50.md opens with the matching “Homonoea” continuation line (“The swallow, the bright Homonoea.”), which is the only “Homonoea” page-body instance in the corpus.
+    - Both pages are also in the will/document-at-table register (Page 12: documents + “abstracted will”; Page 50: “The will was there” + pens at work), supporting a shared immediate context beyond the quotation layer.
+  - **Disconfirming evidence:**
+    - The Page 12 fragment is shown to be from a different source than Page 50’s “Homonoea” line, or a third page is found with a better-fitting intermediate fragment of the same epigram.
+    - Page 50’s opening line is shown to be an isolated epigraph with no intended continuity (i.e., it does not follow a prior “words of the poet” setup in the final order).
+  - **Next falsification check:** search for any third page-body reuse of Atimetus/Homonoea language or a stronger deictic continuation cue (pronouns/participants/props) that would confirm or break immediate adjacency.
