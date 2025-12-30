@@ -28,5 +28,5 @@ A flower-seller, fed ruddily, it seemed, on hope, broke in and would have made a
 - **Disconfirming evidence:**
   - If the red-rose phrasing is generic and no other shared props/voices recur.
 - **Research needed:**
-  - Confirm whether the “metallic object” is a coin/half-crown (vs key/utensil/case) via an explicit naming elsewhere.
+  - Resolved check (2025-12-30): the text never specifies the dropped item beyond “some metallic object”; treat it as a small dropped item (LIKELY coin/key) unless a later cross-page prop recurrence names it explicitly.
   - Identify whether the flower catalogue (“ironic daffodils… irises… bluebells… hedge-rose… carnation… No gaudy melon flower”) is a quotation or points to a specific source/clue-list.
