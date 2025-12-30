@@ -22,6 +22,7 @@ The girl had left Henry by this time, thank God. She was an obvious whey-face. S
   - MAYBE: shares a Henry murder-count motif with Pages/cains_jawbone_page_58.md (“first two killings” ↔ “third/fourth” victims), but no phrase-level anchor found; treat as non-binding unless a second independent anchor emerges.
   - LIKELY: Phase 4 within-`N16` direction: Pages/cains_jawbone_page_45.md → Pages/cains_jawbone_page_26.md (p45 “The girl was no longer there” ↔ p26 opener “The girl had left Henry by this time”); see `Order/hypotheses.md`.
   - LIKELY: Phase 4 within-`N16` direction: Pages/cains_jawbone_page_26.md → Pages/cains_jawbone_page_44.md (Hodge continuity; p26’s Ben Wade “hitherto merely mutely unemployed” reads like an unused pipe before p44’s “first St. Bruno” tobacco; p26’s “wen” matches p44’s “sebaceous arrangement”); see `Order/hypotheses.md`.
+  - Falsification check (2025-12-30): no second shared prop/place/time anchor found with Pages/cains_jawbone_page_45.md beyond the “girl absent” echo → keep p45→p26 as `LIKELY` direction (not CERTAIN adjacency).
 - **Disconfirming evidence:**
   - If later context shows “killings” is figurative (e.g., stage/role talk) rather than literal murder.
 - **Research needed:**
