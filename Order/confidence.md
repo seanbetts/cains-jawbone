@@ -193,7 +193,7 @@ Track *in-world* death/murder hypotheses separately from page-ordering hypothese
   - **Motive:** `UNKNOWN`
   - **Opportunity:** `UNKNOWN`
   - **Narrative tells:** Offhand reference to prior work done “for the dead old man” suggests a real past death rather than a hypothetical.
-  - **Evidence summary:** Page 1 establishes an in-world dead man in the narrator’s recent past, but gives no cause or agency.
+  - **Evidence summary:** Page 1 establishes an in-world dead man in the narrator’s recent past, but gives no cause or agency. Pages/cains_jawbone_page_100.md also references an “old dead” for whom the narrator and Henry “had worked”; MAYBE the same dead employer, but do not merge without a second anchor.
   - **Falsifiers:** Later context shows the “dead old man” is purely allusive/quoted, or is explicitly unrelated to the in-world murders.
 
 - `E16` (confidence: `0.10`; status: `active`)

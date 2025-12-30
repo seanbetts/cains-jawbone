@@ -7,6 +7,7 @@ I dimly guess why the old dead so wanted this. I had worked for him, Henry had w
   - CERTAIN: Henry (named; “Good-bye, Henry. He drops awa…”).
   - CERTAIN: “her” / “beastly woman” (unnamed; gloating over narrator).
   - CERTAIN: “old dead” (unnamed dead person for whom narrator and Henry worked).
+  - MAYBE: “old dead” = the “dead old man” referenced by Pages/cains_jawbone_page_1.md’s Aquarius‑pen narrator; treat as a potential shared-employer thread, not an adjacency claim (see `Order/hypotheses.md`).
   - CERTAIN: “reckless old cock” (unnamed “he” slipping past Woolworth’s).
   - MAYBE: “the girl” (smiling at narrator).
   - MAYBE: May (used as a comparison “flush… as May”; could be person/month).

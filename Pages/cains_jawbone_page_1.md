@@ -12,6 +12,7 @@ I sit down alone at the appointed table and take up my pen to give all whom it m
 - **Motifs/continuity hooks:**
   - Pen: “mottled black and silver Aquarius”, nib “tempered… in Amsterdam”.
   - Sea/birds: “whaups” (curlews), gulls, “sailor”.
+  - MAYBE: cross-page echo — “dead old man” wording overlaps with Pages/cains_jawbone_page_100.md’s “old dead” (only pages with this dead-man phrasing); treat as a possible shared-employer thread to test (see `Order/hypotheses.md`).
 - **Voice/tells:**
   - Fixation on objects (pen) + lyrical sea/bird imagery; abrupt disgust (“Ugh.”).
 - **Clustering hypotheses:**
