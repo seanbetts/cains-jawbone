@@ -23,8 +23,8 @@ It was that day my friend Sandy told me he was sure he wouldn’t sleep all nigh
   - Non-human register (body-part framing; obedience to administered medicine; hunting anticipation).
 - **Clustering hypotheses:**
   - CERTAIN: `N02` Dog POV (mating; hunting/retrieval; Bob Martin ingestion).
-  - CERTAIN: strong continuity hook with Pages/cains_jawbone_page_22.md via Flora (“made love to Flora again”).
-  - LIKELY: time-layer: “next day… allowed to fetch back Lagopus scoticus… after such a long time” suggests the eve of Aug 12 (Glorious Twelfth) and links to the mid‑August daybook subset; treat as a time anchor, not a sequence claim in Phase 3.
+  - CERTAIN (Phase 5 order constraint): Pages/cains_jawbone_page_22.md → Pages/cains_jawbone_page_79.md (Flora “again” hinge); treat as order-only (not necessarily adjacent). See `Order/hypotheses.md`.
+  - LIKELY (Phase 5 order constraint): this page precedes Pages/cains_jawbone_page_48.md (Glorious Twelfth eve → Aug 12 “to-day” Tate beat), but not necessarily adjacent; see `Order/hypotheses.md` (`N02` lead-in).
 - **Disconfirming evidence:**
   - If “Bob Martin” is a human rather than a product, and the mating language is metaphorical (unlikely).
 - **Research needed:**

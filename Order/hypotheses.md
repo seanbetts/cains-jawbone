@@ -1421,6 +1421,11 @@ Template:
   - **Note:** treat this as **within-voice order** (not necessarily adjacent in the full ordering).
   - **Disconfirming evidence:** “first dog/second dog” is shown to be literal-dog framing (not nautical timekeeping), or the London-geo support (Selfridges/Bond Street ↔ “Orchard”) is disproved.
 
+- **Sequence (confidence: CERTAIN):** `Pages/cains_jawbone_page_22.md → Pages/cains_jawbone_page_79.md`
+  - **Why:** Pages/cains_jawbone_page_79.md’s “made love to Flora again” presupposes an earlier Flora mating beat, which appears only on Pages/cains_jawbone_page_22.md (“made love to Flora”).
+  - **Note:** treat this as **within-voice order only** (not necessarily adjacent); Pages/cains_jawbone_page_22.md’s daybook clue (“birthday of a good one in prison” → Cornelius de Witt, 15 June) is earlier in the year than the mid‑August `N02` spine where Pages/cains_jawbone_page_79.md reads as Aug 11 eve.
+  - **Disconfirming evidence:** Flora is shown to be different referents across the two pages (e.g., a person/cat rather than the dog‑mate), or another page is found that contains the missing “made love to Flora” setup.
+
 - **Sequence (confidence: MAYBE):** `Pages/cains_jawbone_page_85.md → Pages/cains_jawbone_page_82.md`
   - **Why:** Both are table scenes with Henry present and a nearby dog; Page 85’s “weary business… ended” closure reads like it can precede Page 82’s stationary comedown at a familiar table (“cold weight of my certainty”) after witnessing “carnal, bloody and unnatural acts.”
   - **Disconfirming evidence:** settings or Henry’s role clearly diverge, or another page bridges the continuity.
