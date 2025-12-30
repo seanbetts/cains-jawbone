@@ -535,6 +535,10 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
     - **Why:** Both describe “leading” an “old” man “up the garden” in a way that reads like an idiom being literalised; Pages/cains_jawbone_page_29.md explicitly flags the idiom (“if I may be permitted the expression”) while running a poisoning experiment on an “old mineralogist”, and Pages/cains_jawbone_page_45.md describes “the doctor leading the old man up the garden… many times.”
     - **Disconfirming evidence:** the phrase is just a stock idiom used independently by different narrators (no shared participant/prop/plant/mineralogy anchor emerges), or the “old man” contexts are demonstrably incompatible.
     - **Next falsification check:** search for any shared identifier for the “old mineralogist/old man” (name, profession/mineral clue, plant list) or a repeated prop/setting that links the Pages/cains_jawbone_page_29.md garden to Pages/cains_jawbone_page_45.md’s doctor/old-man scene.
+  - **Bridge candidate (Phase 5):** Pages/cains_jawbone_page_80.md ↔ Pages/cains_jawbone_page_91.md (`N12` ↔ `N11`) (confidence: `MAYBE`; order: unknown)
+    - **Why:** Pages/cains_jawbone_page_80.md explicitly exhibits aconitum (aconite) and notes Fleming’s tincture; Pages/cains_jawbone_page_91.md’s “Blue Rocket” is LIKELY a common-name for aconite and is described as “going down… succeeding” the next day, suggesting a cross-strand poison-method continuity (Henry appears in-scene on both pages).
+    - **Disconfirming evidence:** “Blue Rocket” is not aconite (or is purely figurative), or the surrounding cast/setting proves incompatible with a shared poison episode.
+    - **Next falsification check:** search for any third page that names aconite/“Blue Rocket” (or repeats the “going down… succeeding” framing) and/or explicitly links Sir Paul/May/De’Ath to fix placement and direction.
   - **Disconfirming evidence:** Calabar/digitalis references recur widely across unrelated voices, or the pursuit/murder-count tone is shown to be a separate narrator from the poison-logistics pages.
   - **Phase 4 internal ordering hypotheses (N12):**
     - **Sequence A — Calabar introduced → next-morning doubt** (confidence: `CERTAIN`)
@@ -1175,6 +1179,9 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Pages:** Pages/cains_jawbone_page_91.md
   - **Rationale:** Page 91 contains a high-signal narrator self-identification (DEATH → De’Ath/DeAth) paired with a distinctive “Black Museum” crime-collection voice.
   - **Key anchors:** “Black Museum”; “capitalise my third letter” nameplay; macabre exhibit anecdote; “Smiler with the Knife”.
+  - **Bridge candidate (Phase 5):** Pages/cains_jawbone_page_91.md ↔ Pages/cains_jawbone_page_80.md (`N11` ↔ `N12`) (confidence: `MAYBE`; order: unknown)
+    - **Why:** Page 91’s “Blue Rocket… going down next day… succeeding” is LIKELY an aconite reference, matching Page 80’s explicit aconitum/Fleming’s tincture setup.
+    - **Disconfirming evidence:** the “Blue Rocket” identification is wrong (or figurative), or later evidence anchors Page 91’s poisoning context to a different substance/episode than Page 80’s hosting scene.
   - **Disconfirming evidence:** the nameplay resolves to a different identity, or “Black Museum” is used generically with no stable narrator signature.
   - **Overlap candidates:** MAYBE: Pages/cains_jawbone_page_100.md (police/collapse framing) if a second “Black Museum”/name-instruction tell emerges there.
 
