@@ -1395,6 +1395,10 @@ Template:
   - **Why:** Direct continuation of a quotation split across the page break (“…kissed the quiet feet / Of the old bold mate…”).
   - **Disconfirming evidence:** Only if the quotation appears elsewhere uninterrupted (making the break coincidental).
 
+- **Sequence (confidence: CERTAIN):** `Pages/cains_jawbone_page_23.md → Pages/cains_jawbone_page_24.md`
+  - **Why:** Direct “poet’s lines” continuation across the page break: Pages/cains_jawbone_page_23.md ends “I think wistfully of the poet’s lines:” and gives the Masefield line “But rum alone’s the tipple, and the heart’s delight”, and Pages/cains_jawbone_page_24.md begins with the deliberately substituted next-line slot (“Of Cathleen, the daughter of Houlihan.”).
+  - **Disconfirming evidence:** Another page is found that cleanly supplies the expected Masefield continuation line in that slot (“Says Henry Morgan.”) *and* matches Pages/cains_jawbone_page_23.md’s voice/scene better than Pages/cains_jawbone_page_24.md, or the Pages/cains_jawbone_page_24.md opening line is shown to be an independent epigraph with no intended continuity.
+
 - **Sequence (confidence: CERTAIN):** `Pages/cains_jawbone_page_74.md → Pages/cains_jawbone_page_75.md`
   - **Why:** Immediate continuation: Page 74’s “red rose and the white… remained” → Page 75’s “those two other flowers,” and Page 74’s “them” (secret purchases) → Page 75’s “orange tinted documents,” with matching eyesight-failure emphasis.
   - **Disconfirming evidence:** Only if “those two other flowers” and the “orange tinted documents” are later shown to be unrelated to Page 74’s scene/items (coincidental overlap).

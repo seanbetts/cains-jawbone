@@ -28,6 +28,7 @@ I hate seeing things like this in the paper. Bill to Solve the Traffic Problem. 
   - Rapid associative allusion; self-reproach about “letting the dear girl down”.
 - **Clustering hypotheses:**
   - MAYBE: matches/Bryant & May motif could cluster with other “May” and “girl” references (watch for matchgirl strike allusions).
+  - CERTAIN (Phase 5 adjacency candidate): Pages/cains_jawbone_page_23.md → Pages/cains_jawbone_page_24.md (poem-line continuation via CJ’s deliberate Yeats/Masefield line-swap; see `Order/hypotheses.md`).
 - **Disconfirming evidence:**
   - If Bryant & May is later shown to be a person-pair rather than the match company.
 - **Research needed:**
