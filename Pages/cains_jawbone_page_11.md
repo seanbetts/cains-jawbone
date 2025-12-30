@@ -9,7 +9,7 @@ If Henry had been there he could have told me what to do. His great voice, tuned
   - CERTAIN: Ireland (referenced).
   - CERTAIN: “queer old Dean” = Jonathan Swift (Dean of St Patrick’s).
 - **Time markers:**
-  - LIKELY: “end of the second dog” = end of the second dog-watch (nautical; ~8 p.m.) given capstan-bar context.
+  - CERTAIN: “end of the second dog” = end of the second dog-watch (nautical; ~8 p.m.) given capstan-bar context.
 - **Motifs/continuity hooks:**
   - Nautical register: capstan bar; dog-watch.
   - Direct Kipling allusion/quote (dog-POV register) embedded in the “Orchard… Ravager… short legs” sentence (see research queue).
@@ -38,7 +38,7 @@ If Henry had been there he could have told me what to do. His great voice, tuned
     - “Sunday Graphic” is contradicted elsewhere by a clearer newspaper reference in this narrator’s voice
     - the surrounding context later makes “Grundy Sapphic” a literal person-name
 - **Clustering hypotheses:**
-  - CERTAIN: links strongly with Pages/cains_jawbone_page_41.md (West-End “Orchard” geography + dog-watch timekeeping register + Selfridges/Bond Street patch). LIKELY within-voice order: `Pages/cains_jawbone_page_41.md → Pages/cains_jawbone_page_11.md` (first dog → end of the second dog); see `Order/hypotheses.md` (`N17`).
+  - CERTAIN: links strongly with Pages/cains_jawbone_page_41.md (West-End “Orchard” geography + dog-watch timekeeping register + Selfridges/Bond Street patch). CERTAIN within-voice order: `Pages/cains_jawbone_page_41.md → Pages/cains_jawbone_page_11.md` (first dog → end of the second dog); see `Order/hypotheses.md` (`N17`).
   - MAYBE: sea/sailor-voice cluster with Pages/cains_jawbone_page_1.md (sea + sailor cues) and other nautical-time pages.
   - MAYBE: Henry name recurrence; track whether this Henry is the same as other Henry mentions.
 - **Disconfirming evidence:**

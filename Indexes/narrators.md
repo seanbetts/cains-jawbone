@@ -150,7 +150,7 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_41.md
   - **Confidence:** `LIKELY`
   - **Disconfirming evidence:** the shared nautical/Kipling anchors are shown to be generic motifs reused across unrelated narrators, or the Henry relationship (husband vs teacher) proves incompatible.
-  - **Notes:** This voice may be the best candidate behind the “Nautical timekeeping register” motif cluster.
+  - **Notes:** This voice may be the best candidate behind the “Nautical timekeeping register” motif cluster. CERTAIN within-voice order: Pages/cains_jawbone_page_41.md → Pages/cains_jawbone_page_11.md (first dog → end of the second dog).
 
 - `N18` — Diary/verify + falser-hand forgery voice:
   - **Signature tells:** explicit falsifiability framing (“verify… I never travel without my diary”); document/handwriting manipulation (“mimic artistry”; “falser hand”); tool/instrument emphasis; travel-as-alibi tone.
