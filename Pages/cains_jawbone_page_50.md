@@ -21,7 +21,7 @@ I wondered if I should succeed in hurting the girl. But think of her no more. Th
 - **Voice/tells:**
   - Pedantic insistence on order (“begin at the beginning”); admiration of writerly facility.
 - **Clustering hypotheses:**
-  - CERTAIN: `N39` will/forgery voice pairing with Pages/cains_jawbone_page_28.md (unique will/forgery operational bundle + shared *Importance of Being Earnest* layer). LIKELY within-voice order: `Pages/cains_jawbone_page_28.md → Pages/cains_jawbone_page_50.md`; see `Order/hypotheses.md` (`N39`).
+  - CERTAIN: `N39` will/forgery voice pairing with Pages/cains_jawbone_page_28.md (unique will/forgery operational bundle + shared *Importance of Being Earnest* layer). LIKELY within-voice order (not necessarily adjacent): `Pages/cains_jawbone_page_28.md → Pages/cains_jawbone_page_50.md`. Note: this page is also a Phase 5 join-candidate after Pages/cains_jawbone_page_12.md via the Homonoea epigram, so avoid forcing adjacency. See `Order/hypotheses.md` (`N39`).
   - Falsification check (2025-12-30): searched page bodies for “wonderful hands” + “strange pens” + “hurting the girl” + Homonoea and found no third-page matches beyond the Homonoea epigram overlap with Pages/cains_jawbone_page_12.md (Phase 5 join-candidate only).
   - LIKELY (Phase 5 join-candidate): Pages/cains_jawbone_page_12.md → Pages/cains_jawbone_page_50.md via the shared Greek-Anthology Homonoea epigram layer (Atimetus on p12; “Homonoea” opening line on p50) + the will/document-at-table register; see `Order/hypotheses.md`.
   - MAYBE: links to pens/handwriting pages (Pages/cains_jawbone_page_1.md, Pages/cains_jawbone_page_43.md).
