@@ -72,6 +72,7 @@ LIKELY WORDPLAY
   - Proverb-twisting; vivid menu/brand listing; self-described stealth/thievery.
 - **Clustering hypotheses:**
   - CERTAIN: `N16` smell-memory + incinerator-evidence voice; shares unique *Typhoon*/Renard‑Beinsky phrasing with Pages/cains_jawbone_page_7.md and the Henry/witness-evidence + stealth/doors register with Pages/cains_jawbone_page_44.md.
+  - CERTAIN (Phase 5 adjacency candidate): Pages/cains_jawbone_page_7.md → Pages/cains_jawbone_page_45.md (Typhoon/Renard‑Beinsky character-description continuity). See `Order/hypotheses.md`.
   - CERTAIN: connects to Pages/cains_jawbone_page_26.md via the unique “The girl…” echo (“The girl was no longer there” ↔ “The girl had left Henry…”); treat as a thread lock `Pages/cains_jawbone_page_26.md ↔ Pages/cains_jawbone_page_45.md` (Phase 4 direction hypothesis: `Pages/cains_jawbone_page_45.md → Pages/cains_jawbone_page_26.md`, confidence: `LIKELY`; see `Order/hypotheses.md`).
   - MAYBE: “led up the garden” phrasing echoes Pages/cains_jawbone_page_29.md; treat as cross-strand motif unless reinforced by a second shared anchor.
   - Falsification check (2025-12-30): no second shared prop/place/time anchor found with Pages/cains_jawbone_page_26.md beyond the “girl absent” echo → keep p45→p26 as `LIKELY` direction (not CERTAIN adjacency).

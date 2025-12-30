@@ -16,7 +16,7 @@ I had gone to sleep the night before after rereading Typhoon. It had always stru
 - **Voice/tells:**
   - Self-mocking, literary; blends detective/legal identity with armchair immobility (Baker Street).
 - **Clustering hypotheses:**
-  - CERTAIN: `N16` smell-memory + incinerator-evidence voice; shares unique *Typhoon*/Renard‑Beinsky framing with Pages/cains_jawbone_page_45.md (phrase-level continuity hook).
+  - CERTAIN (Phase 5 adjacency candidate): Pages/cains_jawbone_page_7.md → Pages/cains_jawbone_page_45.md (Typhoon/Renard‑Beinsky scene frame continues into the “half Pole, half Frenchman” character-description beat). See `Order/hypotheses.md`.
   - MAYBE: overlaps Detective/police + violence macro via Baker Street / investigator-judge framing; don’t merge on motif alone.
 - **Disconfirming evidence:**
   - If “Baker Steet” is later shown as non-Sherlock/address pun only.
