@@ -18,9 +18,11 @@ Looking over at the sly sideways smile which seemed to fill all the foreground o
 - **Motifs/continuity hooks:**
   - Green/ripeness/fruit metaphors used to justify action (“young women are green”).
   - “Green” as victim name + injury metaphor (“greenstick fracture”) + plant language.
+  - MAYBE: phrase-level self-echo “I would have to think…” appears only here and Pages/cains_jawbone_page_98.md (archive-level unique); treat as a weak continuity hook until a second independent anchor exists.
 - **Voice/tells:**
   - Self-justifying moral calculus; frames murder as an adult/ripe duty; literate allusion density.
 - **Clustering hypotheses:**
   - MAYBE: possible thematic proximity to Pages/cains_jawbone_page_77.md (murder deliberation ↔ “my first” + “Compact”), but no phrase-level overlap and no shared named entity/prop continuity; treat as non-binding unless bridged by a third anchor/page.
+  - MAYBE: cross-narrator overlap candidate with Pages/cains_jawbone_page_98.md via the unique “I would have to think…” phrasing; do not use for ordering without a second anchor (see `Order/hypotheses.md`).
 - **Disconfirming evidence:**
   - If “Green” is revealed as a joke/reference rather than an in-world victim, or if the billhook scene is purely literary quotation.

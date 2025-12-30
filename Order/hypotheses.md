@@ -189,7 +189,16 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
 
 ### Candidate cross-narrator overlap (falsify before treating as a constraint)
 
-_None currently._
+- **Candidate:** Pages/cains_jawbone_page_76.md ↔ Pages/cains_jawbone_page_98.md (`N15` ↔ `N38`) (confidence: `MAYBE`)
+  - **Prior anchor:** page-body unique phrase-level echo “I would have to think…” appears only on these two pages in the archive (“think it over” ↔ “think seriously of that”).
+  - **Why it might matter:** could indicate a deliberate self-echo (same narrator) and help re-stitch the uncertain tail region where both pages are currently treated as singletons.
+  - **Disconfirming evidence:** if no second independent anchor exists (shared cast/prop/place/time, or a second unique phrase-level overlap), treat as coincidence rather than continuity.
+  - **Next falsification check:** search for additional shared non-generic phrases or shared named anchors between the two pages; if none, downgrade to “quote/style echo only.”
+- **Candidate:** Pages/cains_jawbone_page_6.md ↔ Pages/cains_jawbone_page_81.md (`N12` ↔ `N28`) (confidence: `MAYBE`)
+  - **Prior anchor:** “Speckled” appears only on these two page bodies in the archive (Doyle “Speckled Band” allusion on both sides).
+  - **Why it might matter:** could be a deliberate echo linking the poison-logistics voice to the window-throw vignette, or a marker that the same narrator returns later with a “no detective” posture.
+  - **Disconfirming evidence:** if the Sherlock Holmes allusion is the only overlap (no shared voice tells, cast, or props), treat as an isolated allusion rather than a continuity signal.
+  - **Next falsification check:** check for any second anchor tying the scenes (bell-wire/window motif, repeated “detective” self-reference, shared poison/botany register, or shared named person).
 
 ### Falsified cross-narrator candidates (Phase 3)
 

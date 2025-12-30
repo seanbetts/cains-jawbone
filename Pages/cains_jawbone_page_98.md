@@ -14,6 +14,7 @@ He stood and looked down at me ; but I was not to be hurried. The money changed 
   - Money exchange + desire to later “describe him” (witness/identification register).
   - Medical framing (“physicians”; “proper medical advice”; “doctors and doctors”).
   - May-wordplay (person vs month; “May be” pun).
+  - MAYBE: phrase-level echo “I would have to think…” appears only here and Pages/cains_jawbone_page_76.md (archive-level unique); treat as a weak continuity hook pending a second independent anchor.
 - **Places:**
   - MAYBE: Quarry hills (unidentified; could be a setting anchor if matched elsewhere).
 - **Quotes & allusions:**

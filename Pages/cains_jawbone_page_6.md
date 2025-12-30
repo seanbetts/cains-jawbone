@@ -15,11 +15,13 @@ I considered that venerable whose winter Achilles thought to take from the lips 
   - “Electric Febrifuge” likely points to gelsemium/gelsemine (a named drug/poison; see research queue).
   - Gardening/poison: foxgloves (digitalis).
   - Bells: dangling bell-wire (Speckled Band echo).
+  - MAYBE: archive-level uniqueness — “Speckled” appears only here and Pages/cains_jawbone_page_81.md (“Band, Speckled”); treat as a potential deliberate echo, but do not use for ordering without a second anchor.
 - **Voice/tells:**
   - Cheerfully menacing “generosity”; poison-by-gardening vibe; heavy literary reference density.
 - **Clustering hypotheses:**
   - CERTAIN: links strongly with Pages/cains_jawbone_page_21.md via the unique foxgloves/digitalis anchor (“foxgloves” ↔ “digitalis purpurea”). Treat as a continuity constraint `Pages/cains_jawbone_page_6.md ↔ Pages/cains_jawbone_page_21.md` (current direction hypothesis: `Pages/cains_jawbone_page_6.md → Pages/cains_jawbone_page_21.md`, confidence: `LIKELY`; see `Order/hypotheses.md`).
   - CERTAIN: linked with Pages/cains_jawbone_page_29.md via unique “spare-room/spareroom” house-setting anchor. Treat as a continuity constraint `Pages/cains_jawbone_page_6.md ↔ Pages/cains_jawbone_page_29.md` (current direction hypothesis: `Pages/cains_jawbone_page_6.md → Pages/cains_jawbone_page_29.md`, confidence: `LIKELY` (derived from the `Pages/cains_jawbone_page_6.md → Pages/cains_jawbone_page_21.md → Pages/cains_jawbone_page_36.md → Pages/cains_jawbone_page_29.md` spine); see `Order/hypotheses.md`).
+  - MAYBE: cross-narrator overlap candidate with Pages/cains_jawbone_page_81.md via the unique “Speckled” allusion; require a second anchor before treating this as continuity (see `Order/hypotheses.md`).
   - MAYBE: gelsemium/electric-febrifuge let-down ↔ Pages/cains_jawbone_page_59.md (explicit gelsemium), but ordering is unclear.
   - MAYBE: bell motif cluster with Pages/cains_jawbone_page_9.md (bells + summoning “the man”).
   - MAYBE: garden/flower motif cluster with Pages/cains_jawbone_page_10.md (garden walk + flower-days).
