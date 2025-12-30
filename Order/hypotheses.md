@@ -1753,5 +1753,9 @@ Delta from v2 (do not treat as accepted until falsified):
   - Added: `Pages/cains_jawbone_page_91.md → Pages/cains_jawbone_page_100.md`
 - **Phase 6 test (2025-12-30):** re-read the Pages/cains_jawbone_page_91.md ending and Pages/cains_jawbone_page_100.md opening; shared Scotland Yard / Black Museum framing is suggestive, and both pages foreground Henry misbehaving (“playing about” ↔ “getting out of hand”), but no direct quote/prop/participant continuity is present.
   - **Outcome:** `UNCLEAR` (keep as a plausible coda placement, but do not upgrade to a join lock without a second independent anchor).
+- **Phase 6 test (2025-12-30):** re-read the Pages/cains_jawbone_page_46.md ending and Pages/cains_jawbone_page_91.md opening; found no continuity marker (setting/prop/quote/cast), and the register shift (dog-coded domestic aside → Scotland Yard museum voice) reads like an arbitrary boundary.
+  - **Outcome:** `UNCLEAR`
+- **Phase 6 test (2025-12-30):** re-read the Pages/cains_jawbone_page_60.md ending and Pages/cains_jawbone_page_86.md opening; found no continuity marker beyond the generic day-step (`to-day` → `Next day`) and an overloaded `Henry` name.
+  - **Outcome:** `UNCLEAR`
 
 - **Falsification checks (2025-12-30):** boundary re-reads performed for the v2 join claims listed above; only `Pages/cains_jawbone_page_83.md → Pages/cains_jawbone_page_2.md` gains a strong continuity reading (newsboys “late night final” → “figures and letters” + “money’s worth”), and the remaining joins should be treated as the highest-priority re-stitch points for Phase 6.
