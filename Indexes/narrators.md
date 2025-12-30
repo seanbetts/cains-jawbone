@@ -86,7 +86,7 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_68.md, Pages/cains_jawbone_page_69.md, Pages/cains_jawbone_page_70.md, Pages/cains_jawbone_page_95.md, Pages/cains_jawbone_page_96.md
   - **Confidence:** `LIKELY`
   - **Disconfirming evidence:** “old man” and letter threads resolve to separate contexts/voices, or the Café Royal + written-confession pages (95–96) are later anchored to a clearly different narrator from the “old man” strand (68–70).
-  - **Notes:** Earlier overlap with `N05` was deprioritised; treat Pages/cains_jawbone_page_68.md as part of this voice unless school-specific anchors recur.
+  - **Notes:** Earlier overlap with `N05` was deprioritised; treat Pages/cains_jawbone_page_68.md as part of this voice unless school-specific anchors recur. Falsification check (2025-12-30): corpus scan found no cross-strand anchors tying Selby/Latham/Kreisler/Ragtime (Pages/cains_jawbone_page_68.md, Pages/cains_jawbone_page_69.md) to Café Royal/letter anchors (Pages/cains_jawbone_page_96.md, Pages/cains_jawbone_page_95.md, Pages/cains_jawbone_page_70.md) beyond generic “old man/he” language; keep two internal sub-strands and do not assume adjacency until a third page bridges them.
 
 - `N10` — Will/document eavesdropper voice (May/estate thread):
   - **Signature tells:** legal/estate vocabulary; document scrutiny; eavesdropping on inheritance talk (“leave everything to me… May”); opportunistic self-justification (“get what I wanted”) alongside “none of my business” retreats; legal double-definition wordplay (“abstracted will” style).
