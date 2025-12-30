@@ -1416,6 +1416,11 @@ Template:
   - **Why:** A six-link continuity chain: Page 48’s Tate-sugar domestic beat carries into Page 88’s “I had a lot of good Tate” + same “He said… She said…” register; Page 88’s “how few the other had done so late in the year” carries into Page 39’s “it didn’t matter what they had done… two all for that year”; Page 39 ends “They made a bet” and Page 10 explicitly continues the bet/“third point” formulation; Page 10 ends “My mistress wore them” and Page 99 opens “And she wore…”; Page 99’s unequal bow ends + missing “jossers” is followed by Page 8’s “Later… same bow… trimmed the left end”; Page 8’s call-bell/knob + Mr. Hall entrance is followed by Page 19’s “polished knob” + Mr. Hall coming in “again”.
   - **Disconfirming evidence:** Only if any of these hooks is found reused elsewhere in a tighter match (a separate Tate-sugar + “He said/She said” domestic scene, another “two all… bet” setup, a different “And she wore…” continuation, a separate bow/jossers-trimming episode, or a distinct Mr. Hall/call-bell context).
 
+- **Sequence (confidence: CERTAIN):** `Pages/cains_jawbone_page_41.md → Pages/cains_jawbone_page_11.md`
+  - **Why:** Same narrator’s dog-watch timekeeping register: Pages/cains_jawbone_page_41.md places the scene at “the first dog” and Pages/cains_jawbone_page_11.md places it “at the end of the second dog,” reading as a natural within-evening progression after “my husband’s training” in the same voice.
+  - **Note:** treat this as **within-voice order** (not necessarily adjacent in the full ordering).
+  - **Disconfirming evidence:** “first dog/second dog” is shown to be literal-dog framing (not nautical timekeeping), or the London-geo support (Selfridges/Bond Street ↔ “Orchard”) is disproved.
+
 - **Sequence (confidence: MAYBE):** `Pages/cains_jawbone_page_85.md → Pages/cains_jawbone_page_82.md`
   - **Why:** Both are table scenes with Henry present and a nearby dog; Page 85’s “weary business… ended” closure reads like it can precede Page 82’s stationary comedown at a familiar table (“cold weight of my certainty”) after witnessing “carnal, bloody and unnatural acts.”
   - **Disconfirming evidence:** settings or Henry’s role clearly diverge, or another page bridges the continuity.
