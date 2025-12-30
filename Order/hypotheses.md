@@ -1403,6 +1403,10 @@ Template:
   - **Why:** Direct Blake quotation continuation across the page break: Pages/cains_jawbone_page_49.md ends with “Bring Palamabron… And silent Elynittria…”, and Pages/cains_jawbone_page_13.md begins with the immediate next lines “Rintrah… Ocalythron.” (*Europe a Prophecy*).
   - **Disconfirming evidence:** Only if another page is found that quotes the missing intervening line(s) between these excerpts (making the continuation non-unique), or later evidence shows the Blake lines are being reused as detachable epigraphs rather than continued within-scene.
 
+- **Sequence (confidence: CERTAIN):** `Pages/cains_jawbone_page_92.md → Pages/cains_jawbone_page_42.md`
+  - **Why:** Direct Browning quotation continuation across the page break: Pages/cains_jawbone_page_92.md ends the “Saul” excerpt with “...those lilies still / living and blue”, and Pages/cains_jawbone_page_42.md begins with the immediate continuation “Just broken to twine round thy harp-strings...”.
+  - **Disconfirming evidence:** Only if the same “Saul” excerpt is found elsewhere uninterrupted (making the break non-unique), or later evidence shows these Browning stanzas are being used purely as detachable epigraphs rather than as a continued quotation split across pages.
+
 - **Sequence (confidence: CERTAIN):** `Pages/cains_jawbone_page_74.md → Pages/cains_jawbone_page_75.md`
   - **Why:** Immediate continuation: Page 74’s “red rose and the white… remained” → Page 75’s “those two other flowers,” and Page 74’s “them” (secret purchases) → Page 75’s “orange tinted documents,” with matching eyesight-failure emphasis.
   - **Disconfirming evidence:** Only if “those two other flowers” and the “orange tinted documents” are later shown to be unrelated to Page 74’s scene/items (coincidental overlap).
