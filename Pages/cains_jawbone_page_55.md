@@ -8,11 +8,11 @@ The picture of the Old Mill at Bramley, with its medlar tree overhanging the wat
   - CERTAIN: “the day before”; “to-day”.
   - CERTAIN: “English holiday… like that other fifth… James… the Earl and his brother Alexander” → Gowrie Conspiracy (James VI; Earl of Gowrie + brother Alexander Ruthven) = Aug 5, 1600 (Nuttall Encyclopaedia, “Gowrie Conspiracy”).
 - **Entities:**
-  - MAYBE: James (likely King James VI/I reference).
-  - MAYBE: “the Earl and his brother Alexander” (likely Gowrie conspiracy reference; needs confirmation).
+  - CERTAIN: James VI (Gowrie Conspiracy allusion; “got off”).
+  - CERTAIN: the Earl of Gowrie + his brother Alexander Ruthven (Gowrie Conspiracy allusion; “emphatically not”).
 - **Motifs/continuity hooks:**
   - Smell/synaesthesia: medlar + vine as chord; colours (venetian red, peridot).
-  - Encoded pattern? “hard, gentle…” sequence may be deliberate (binary/musical/ear-coded).
+  - Resolved check (2025-12-30): no recurrence of the “hard/gentle” variation found in other page bodies; a Morse-like read (hard = dash, gentle = dot) yields `- . - - . . . -` → `-.--` (Y) + `...-` (V) (tentative until a matching decode-key or repeated pattern appears elsewhere).
   - Cigarette routine: “first cigarette of the day”.
 - **Voice/tells:**
   - Sensory (smell → colour/sound) and self-correcting (“or did I mean…”).
@@ -24,4 +24,4 @@ The picture of the Old Mill at Bramley, with its medlar tree overhanging the wat
 - **Disconfirming evidence:**
   - If the “holiday” reference is merely associative and the hard/gentle pattern never reappears or yields structure.
 - **Research needed:**
-  - Determine whether the hard/gentle sequence encodes something (music/Morse/etc.) and whether it recurs.
+  - (none)
