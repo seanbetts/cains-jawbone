@@ -70,7 +70,7 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_93.md, Pages/cains_jawbone_page_97.md
   - **Confidence:** `CERTAIN`
   - **Disconfirming evidence:** “Bunny and Perry” are identified as literal recurring people rather than internal debate personae.
-  - **Notes:** The phrase “hammer and tongs” is a strong anchor; watch for reuse elsewhere.
+  - **Notes:** LIKELY within-voice order: Pages/cains_jawbone_page_97.md → Pages/cains_jawbone_page_93.md (wake/day setup → later weighing of proof). The phrase “hammer and tongs” is a strong anchor; watch for reuse elsewhere.
 
 - `N08` — King (“Kipling” name-jibe) narrator:
   - **Signature tells:** self-conscious nameplay (schoolboy jibe “Kipling”); narrator sees their own name printed in a window-sign; Henry present in-scene; detective/allusion density (Holmes/Sexton Blake / Baker Street framing); cryptic-style transforms (anagrams/insertion; 21→21:00 clock pun).
