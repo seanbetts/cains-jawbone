@@ -733,7 +733,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - Without a hard sentence/quote continuation, the two vignettes could be non-adjacent beats in the same coastal day; keep the reverse available until a stronger anchor appears.
       - **Disconfirming evidence:**
         - Any phrase-level continuation is found (shared “new young man”/boy rescue, repeated objects, or an explicit “after/before” marker) that fixes Pages/cains_jawbone_page_4.md as the earlier scene.
-    - **Sequence C — Henry count progression (fourth → intended fifth)** (confidence: `LIKELY`)
+    - **Sequence C — Henry count progression (fourth → intended fifth)** (confidence: `CERTAIN`)
       - **Pages (ordered):** Pages/cains_jawbone_page_58.md → Pages/cains_jawbone_page_5.md
       - **Why:**
         - Pages/cains_jawbone_page_58.md frames Henry immediately after the “fourth” corpse beat, while Pages/cains_jawbone_page_5.md places Henry with his “intended fifth” (plausible next escalation).
@@ -1484,6 +1484,10 @@ Template:
 - **Sequence (confidence: CERTAIN):** `Pages/cains_jawbone_page_52.md → Pages/cains_jawbone_page_53.md`
   - **Why:** Direct interview/papers continuity (Page 52’s “commentary… page after page” continues into Page 53’s “introduced to me” profile of Sir Paul Trinder in the same interview frame).
   - **Disconfirming evidence:** Only if Page 52’s “man who entered” is shown to be a different person/context from Sir Paul Trinder, breaking the interview continuity.
+
+- **Sequence (confidence: CERTAIN):** `Pages/cains_jawbone_page_58.md → Pages/cains_jawbone_page_5.md`
+  - **Why:** Pages/cains_jawbone_page_58.md’s “fourth” corpse beat (plus the page-body unique “went on… Browning” complaint) is followed naturally by Pages/cains_jawbone_page_5.md’s “intended fifth” + the same Browning-complaint register.
+  - **Disconfirming evidence:** “intended fifth” is shown not to be a victim-count escalation, or a third page is found with the same “went on… Browning” phrasing in a clearer continuity context (breaking uniqueness).
 
 - **Sequence (confidence: LIKELY):** `Pages/cains_jawbone_page_52.md → Pages/cains_jawbone_page_53.md → Pages/cains_jawbone_page_80.md → Pages/cains_jawbone_page_59.md → Pages/cains_jawbone_page_60.md`
   - **Why:** Trinder appears in the interview sequence (Page 53) and then as “Sir Paul” in the home-hospitality poisoning setup with aconitum (Page 80); Page 59 echoes the wolfsbane layer (“big bad wolf” + “bane… failed”) with Trinder “about” and pivots to gelsemium, and Page 60 declares success and a bearded pseudo-scientist target dead.
