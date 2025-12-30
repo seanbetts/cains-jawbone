@@ -721,7 +721,8 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
       - **Disconfirming evidence:**
         - “intended fifth” is shown to mean something other than a victim-count escalation, or a later page supplies an explicit “fifth” corpse beat that must precede Pages/cains_jawbone_page_5.md.
   - **Resolved check:** the unique `Pages/cains_jawbone_page_5.md ↔ Pages/cains_jawbone_page_58.md` Browning-complaint lock is treated as within-`N19` continuity (not a cross-narrator bridge).
-  - **Next falsification check:** search for a third page that repeats one of the unique N19 anchors (Sir Roland Mowthalorn / gin-faced Annie / “Emperor’s Peg” / ruined lighthouse / Lesurques↔Cirque pun) to decide whether Pages/cains_jawbone_page_4.md and Pages/cains_jawbone_page_5.md are adjacent or merely co-clustered.
+  - **Falsification check (2025-12-30):** scanned all page bodies for the `N19` unique anchors (Sir Roland Mowthalorn; gin-faced Annie; Lesurques/Le Cirque d’Hiver; Maestro Jimson; “Emperor’s Peg”; ruined lighthouse; “Evelyn Hope”) and found **no third-page repeats** beyond Pages/cains_jawbone_page_4.md and Pages/cains_jawbone_page_5.md. Also found **no shared page-body 4-grams** between Pages/cains_jawbone_page_4.md and Pages/cains_jawbone_page_5.md, so there is still no phrase-level continuation lock to force adjacency or direction.
+  - **Next falsification check:** keep Pages/cains_jawbone_page_4.md ↔ Pages/cains_jawbone_page_5.md as co-clustered but non-adjacent-possible until a new `N19` page is found that repeats ≥1 page-body anchor from each (p4: Mowthalorn/Annie/Lesurques/Cirque d’Hiver; p5: Emperor’s Peg/ruined lighthouse/Evelyn Hope) and can act as a bridge to fix direction/adjoining.
 
 - **Cluster:** `N20` Bloomsbury/nomenclature + grim-scene voice (confidence: `LIKELY`)
   - **Pages:** Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_31.md, Pages/cains_jawbone_page_49.md
