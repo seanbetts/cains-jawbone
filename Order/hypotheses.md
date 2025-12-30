@@ -1630,9 +1630,11 @@ Key changes vs v1:
 
 Delta from v2 (do not treat as accepted until falsified):
 
-- **Motivation:** Phase 6 boundary tests did not support the tail joins `Pages/cains_jawbone_page_98.md → Pages/cains_jawbone_page_77.md → Pages/cains_jawbone_page_46.md`, while Pages/cains_jawbone_page_77.md has a unique phrase-level lock to Pages/cains_jawbone_page_35.md (“Murders were funny things.”).
-- **Change A:** move Pages/cains_jawbone_page_77.md into `N12` immediately after Pages/cains_jawbone_page_35.md (i.e., `… → Pages/cains_jawbone_page_35.md → Pages/cains_jawbone_page_77.md → Pages/cains_jawbone_page_80.md → …`).
-- **Change B:** remove Pages/cains_jawbone_page_77.md from the tail, yielding a new tail adjacency `Pages/cains_jawbone_page_98.md → Pages/cains_jawbone_page_46.md` to falsify next.
+- **Motivation:** Phase 6 boundary tests did not support the tail joins `Pages/cains_jawbone_page_98.md → Pages/cains_jawbone_page_77.md → Pages/cains_jawbone_page_46.md`. Separately, Pages/cains_jawbone_page_77.md has a unique phrase-level lock to Pages/cains_jawbone_page_35.md (“Murders were funny things.”), and Pages/cains_jawbone_page_80.md opens with the related echo “Hospitality… was indeed a funny thing,” suggesting Page 77 belongs in the `N12` murder-mechanics spine, not the tail.
+- **Change A (trial direction):** move Pages/cains_jawbone_page_77.md into `N12` immediately **before** Pages/cains_jawbone_page_35.md (i.e., `… → Pages/cains_jawbone_page_77.md → Pages/cains_jawbone_page_35.md → Pages/cains_jawbone_page_80.md → …`) pending further falsification.
+- **Change B:** remove Pages/cains_jawbone_page_77.md from the tail, yielding a new tail adjacency `Pages/cains_jawbone_page_98.md → Pages/cains_jawbone_page_46.md` to falsify.
+  - **Phase 6 test (2025-12-30):** re-read the Pages/cains_jawbone_page_98.md ending and Pages/cains_jawbone_page_46.md opening; found no continuity marker (shared participant/prop/place/quote), so treat this new boundary as a placeholder until a positive bridge into the `N02` Dec 14 coda appears.
+  - **Outcome:** `UNCLEAR`
 
 ### Phase 5 tightening notes for v2 (joins)
 
