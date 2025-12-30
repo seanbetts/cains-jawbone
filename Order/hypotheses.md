@@ -1690,6 +1690,7 @@ Delta from v2 (do not treat as accepted until falsified):
 Delta from v2 (do not treat as accepted until falsified):
 
 - **Motivation:** v2’s split `N25` blocks create three weak boundaries (`Pages/cains_jawbone_page_24.md → Pages/cains_jawbone_page_52.md`, `Pages/cains_jawbone_page_57.md → Pages/cains_jawbone_page_33.md`, `Pages/cains_jawbone_page_34.md → Pages/cains_jawbone_page_96.md`) while Pages/cains_jawbone_page_34.md ↔ Pages/cains_jawbone_page_52.md has a unique double-anchor (“innocent child” + “ironic” framing) that makes `33 → 34 → 52 → 53` a plausible single internal run.
+  - **Phase 6 test (2025-12-30):** corpus scan of page bodies found “innocent child” appears only on Pages/cains_jawbone_page_34.md and Pages/cains_jawbone_page_52.md, supporting treating this as a deliberate in-voice echo (though not, by itself, forcing adjacency).
 - **Change A (trial):** merge the two `N25` blocks into a single block placed where `N25` interview currently sits: `… Pages/cains_jawbone_page_33.md → Pages/cains_jawbone_page_34.md → Pages/cains_jawbone_page_52.md → Pages/cains_jawbone_page_53.md …` (i.e., move v2 Block T immediately before v2 Block B, and remove v2 Block T from later).
 - **Resulting join swaps (v2 → v4):**
   - Removed: `Pages/cains_jawbone_page_24.md → Pages/cains_jawbone_page_52.md`
@@ -1709,6 +1710,7 @@ These are the **highest-risk segment joins** inside the v2 full ordering draft. 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_24.md → Pages/cains_jawbone_page_52.md
   - **Why:** current v2 boundary between otherwise stable blocks; no shared named entity/prop/quote continuation has been identified.
   - **Note:** removed in the v4 trial re-stitch (see above), replaced by `Pages/cains_jawbone_page_24.md → Pages/cains_jawbone_page_33.md`.
+  - **Update (2025-12-30):** Pages/cains_jawbone_page_34.md ↔ Pages/cains_jawbone_page_52.md shares the page-body-unique phrase “innocent child”, so treat Pages/cains_jawbone_page_52.md as more naturally attached to the `N25` block than to Pages/cains_jawbone_page_24.md unless a stronger anchor appears.
   - **Falsifier:** any page-level constraint forces Pages/cains_jawbone_page_52.md to sit adjacent to a different predecessor (e.g., a quote continuation or a unique scene-mechanic continuation).
   - **Next falsification check:** look for a second distinctive bridge anchor into the Pages/cains_jawbone_page_52.md / Pages/cains_jawbone_page_53.md interview scene beyond generic “papers/ham” (door/action, named participant, quote).
   - **Phase 6 test (2025-12-30):** re-read the Pages/cains_jawbone_page_24.md ending and Pages/cains_jawbone_page_52.md opening; found no continuity marker (shared participant/prop/place/time) and no mid-sentence or quote carryover, and corpus scan shows Pages/cains_jawbone_page_52.md’s distinctive anchors (“quicksands of crime”; “end of my interview”) do not recur elsewhere to force a different predecessor.
