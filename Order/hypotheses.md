@@ -1210,6 +1210,14 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
       - Poison continuity: Page 80’s explicit aconitum/Fleming’s tincture setup matches Page 91’s “Blue Rocket… going down next day… succeeding” continuation framing.
       - Shared show-and-tell register: Page 80’s house-tour/collection boasting (“shoed him nearly everything… my curious collection…”) aligns with Page 91’s “my little Black Museum” exhibit scene.
     - **Disconfirming evidence:** the “Blue Rocket” identification is wrong (or figurative), or later evidence anchors Page 91’s poisoning context to a different substance/episode than Page 80’s hosting scene (or shows the “him”/visitor cannot be the same).
+  - **Join candidate (Phase 6):** Pages/cains_jawbone_page_60.md ↔ Pages/cains_jawbone_page_91.md (`N12` ↔ `N11`) (confidence: `LIKELY`; order: `Pages/cains_jawbone_page_60.md → Pages/cains_jawbone_page_91.md`)
+    - **Why:**
+      - “Death” hinge: Page 60’s “Death closes all” (Tennyson) precedes Page 91’s Death-name preoccupation (Newbolt/Shakespeare).
+      - “Success” hinge: Page 60 “had succeeded” ↔ Page 91 “seemed to be succeeding”.
+      - “Steps” hinge: Page 60 “steps” ↔ Page 91 “take steps”.
+      - Time step: Page 60’s repeated `to-day` framing → Page 91’s explicit `next day`.
+    - **Phase 6 test (2025-12-30):** re-read the Pages/cains_jawbone_page_60.md ending and Pages/cains_jawbone_page_91.md opening; the combined “Death” + “succeed(ing)” + “steps” hinges provide multiple independent textual anchors with no contradiction at the boundary.
+      - **Outcome:** `PASS` (upgrade Page 91’s placement confidence; successor still unresolved).
   - **Disconfirming evidence:** the nameplay resolves to a different identity, or “Black Museum” is used generically with no stable narrator signature.
   - **Overlap candidates:** MAYBE: Pages/cains_jawbone_page_100.md (police/collapse framing) if a second “Black Museum”/name-instruction tell emerges there.
 
@@ -1591,7 +1599,7 @@ Purpose: provide a **single full 100-page ordering** that satisfies the current 
 
 - **Segment A (`N03` + `N40`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_32.md → Pages/cains_jawbone_page_3.md → Pages/cains_jawbone_page_27.md → Pages/cains_jawbone_page_30.md → Pages/cains_jawbone_page_23.md → Pages/cains_jawbone_page_24.md
 - **Segment B (`N12`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_6.md → Pages/cains_jawbone_page_21.md → Pages/cains_jawbone_page_36.md → Pages/cains_jawbone_page_29.md → Pages/cains_jawbone_page_35.md → Pages/cains_jawbone_page_77.md → Pages/cains_jawbone_page_80.md → Pages/cains_jawbone_page_59.md → Pages/cains_jawbone_page_60.md
-- **Segment C (`N11`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_91.md
+- **Segment C (`N11`, confidence: `LIKELY` placement):** Pages/cains_jawbone_page_91.md
 - **Segment D (`N13`, confidence: `CERTAIN` internal):** Pages/cains_jawbone_page_86.md → Pages/cains_jawbone_page_87.md
 - **Segment E (`N19`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_4.md → Pages/cains_jawbone_page_58.md → Pages/cains_jawbone_page_5.md
 - **Segment F (`N20`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_49.md → Pages/cains_jawbone_page_13.md → Pages/cains_jawbone_page_31.md
@@ -1628,7 +1636,7 @@ Key changes vs v1:
 - **Block A (`N03` + `N40`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_32.md → Pages/cains_jawbone_page_3.md → Pages/cains_jawbone_page_27.md → Pages/cains_jawbone_page_30.md → Pages/cains_jawbone_page_23.md → Pages/cains_jawbone_page_24.md
 - **Block B (`N25` interview, confidence: `CERTAIN` internal):** Pages/cains_jawbone_page_52.md → Pages/cains_jawbone_page_53.md
 - **Block C (`N12` poison-logistics + Trinder chain, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_6.md → Pages/cains_jawbone_page_21.md → Pages/cains_jawbone_page_36.md → Pages/cains_jawbone_page_29.md → Pages/cains_jawbone_page_35.md → Pages/cains_jawbone_page_80.md → Pages/cains_jawbone_page_59.md → Pages/cains_jawbone_page_60.md
-- **Block D (`N11`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_91.md
+- **Block D (`N11`, confidence: `LIKELY` placement):** Pages/cains_jawbone_page_91.md
 - **Block E (`N13`, confidence: `CERTAIN` internal):** Pages/cains_jawbone_page_86.md → Pages/cains_jawbone_page_87.md
 - **Block F (`N19`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_4.md → Pages/cains_jawbone_page_58.md → Pages/cains_jawbone_page_5.md
 - **Block G (`N20`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_49.md → Pages/cains_jawbone_page_13.md → Pages/cains_jawbone_page_31.md
