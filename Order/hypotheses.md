@@ -831,9 +831,17 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - Pages/cains_jawbone_page_34.md’s opener (“petty employ…”) can be read as a meta nod to the concealment/eavesdropping vignette in Pages/cains_jawbone_page_33.md.
       - **Disconfirming evidence:**
         - The bills/debts phrasing is shown to be generic across unrelated voices and no phrase-level anchor links the two scenes.
+    - **Sequence C — merged N25 run (trial)** (confidence: `LIKELY`)
+      - **Pages (ordered):** Pages/cains_jawbone_page_33.md → Pages/cains_jawbone_page_34.md → Pages/cains_jawbone_page_52.md → Pages/cains_jawbone_page_53.md
+      - **Why:**
+        - Pages/cains_jawbone_page_34.md appears to be the bridge page: it shares the bills/debts register with Pages/cains_jawbone_page_33.md and shares two unique phrase-level anchors with Pages/cains_jawbone_page_52.md (“innocent child” + “ironic” framing), making a contiguous `33 → 34 → 52` run more economical than keeping the pairings separated by weak joins.
+        - Pages/cains_jawbone_page_52.md → Pages/cains_jawbone_page_53.md remains a hard adjacency within the same interview scene (Sir Paul Trinder).
+      - **Disconfirming evidence:**
+        - A third page is found that contains the “innocent child” + “ironic” bundle, making the Pages/cains_jawbone_page_34.md ↔ Pages/cains_jawbone_page_52.md echo non-unique, or a more direct successor/predecessor is found for either page that contradicts adjacency.
+        - The unnamed man on Pages/cains_jawbone_page_34.md is shown (by later context) to be incompatible with the Pages/cains_jawbone_page_52.md / Pages/cains_jawbone_page_53.md Trinder interview (different person/setting mechanics).
   - **Falsification check (2025-12-25):** searched the page corpus for the “innocent child” phrasing and found it only on Pages/cains_jawbone_page_34.md and Pages/cains_jawbone_page_52.md; together with their shared “ironic” framing, this supports a `LIKELY` same-voice link (vs a widely reused detachable quotation). However, no shared participant/prop/setting marker ties the debts vignette (Pages/cains_jawbone_page_33.md + Pages/cains_jawbone_page_34.md) to the interview run (Pages/cains_jawbone_page_52.md + Pages/cains_jawbone_page_53.md), so keep them as two internal pairings and do not assert adjacency between them yet.
-  - **Falsification check (2025-12-30):** scanned page bodies for the distinctive `N25` anchors and found no third-page repeats: “debt(s)” appears only on Pages/cains_jawbone_page_33.md, “Bills should always be met squarely” / “ironic comment” only on Pages/cains_jawbone_page_34.md, “quicksands of crime” / “end of my interview” only on Pages/cains_jawbone_page_52.md, and “well-fed swine” / “furor loquendi” / “introduced to me” only on Pages/cains_jawbone_page_53.md. Treat this as support for keeping the two internal pairings separate in Phase 4 (no bridge page currently exists).
-  - **Next falsification check:** re-test only if a new `N25`-candidate page emerges that shares at least one *debts/bills* anchor **and** one *interview/Trinder* anchor (or if Pages/cains_jawbone_page_57.md gains an explicit interview mechanic beyond ham/paper reading).
+  - **Falsification check (2025-12-30):** scanned page bodies for the distinctive `N25` anchors and found no third-page repeats: “debt(s)” appears only on Pages/cains_jawbone_page_33.md, “Bills should always be met squarely” / “ironic comment” only on Pages/cains_jawbone_page_34.md, “quicksands of crime” / “end of my interview” only on Pages/cains_jawbone_page_52.md, and “well-fed swine” / “furor loquendi” / “introduced to me” only on Pages/cains_jawbone_page_53.md. This strengthens the case that Pages/cains_jawbone_page_34.md is the intended bridge between the debts vignette and the Trinder interview run (supporting the merged Sequence C trial).
+  - **Next falsification check:** if adopting the merged Sequence C trial, prioritize boundary tests for the joins immediately outside the block (wherever it is placed in the full order), rather than searching for a third bridge page.
 
 - **Cluster:** `N26` “Awful and literal sense” breakfast-recapping / second-sight voice (confidence: `CERTAIN`)
   - **Pages:** Pages/cains_jawbone_page_54.md, Pages/cains_jawbone_page_56.md
@@ -1636,12 +1644,30 @@ Delta from v2 (do not treat as accepted until falsified):
   - **Phase 6 test (2025-12-30):** re-read the Pages/cains_jawbone_page_98.md ending and Pages/cains_jawbone_page_46.md opening; found no continuity marker (shared participant/prop/place/quote), so treat this new boundary as a placeholder until a positive bridge into the `N02` Dec 14 coda appears.
   - **Outcome:** `UNCLEAR`
 
+### Phase 6 trial variant (v4) — re-stitch `N25`
+
+Delta from v2 (do not treat as accepted until falsified):
+
+- **Motivation:** v2’s split `N25` blocks create three weak boundaries (`Pages/cains_jawbone_page_24.md → Pages/cains_jawbone_page_52.md`, `Pages/cains_jawbone_page_57.md → Pages/cains_jawbone_page_33.md`, `Pages/cains_jawbone_page_34.md → Pages/cains_jawbone_page_96.md`) while Pages/cains_jawbone_page_34.md ↔ Pages/cains_jawbone_page_52.md has a unique double-anchor (“innocent child” + “ironic” framing) that makes `33 → 34 → 52 → 53` a plausible single internal run.
+- **Change A (trial):** merge the two `N25` blocks into a single block placed where `N25` interview currently sits: `… Pages/cains_jawbone_page_33.md → Pages/cains_jawbone_page_34.md → Pages/cains_jawbone_page_52.md → Pages/cains_jawbone_page_53.md …` (i.e., move v2 Block T immediately before v2 Block B, and remove v2 Block T from later).
+- **Resulting join swaps (v2 → v4):**
+  - Removed: `Pages/cains_jawbone_page_24.md → Pages/cains_jawbone_page_52.md`
+  - Added: `Pages/cains_jawbone_page_24.md → Pages/cains_jawbone_page_33.md`
+  - Removed: `Pages/cains_jawbone_page_57.md → Pages/cains_jawbone_page_33.md`
+  - Added: `Pages/cains_jawbone_page_57.md → Pages/cains_jawbone_page_96.md`
+  - Removed: `Pages/cains_jawbone_page_34.md → Pages/cains_jawbone_page_96.md` (now internal `34 → 52`)
+- **Phase 6 test (2025-12-30):** re-read the Pages/cains_jawbone_page_24.md ending and Pages/cains_jawbone_page_33.md opening; no continuity marker found (no shared participant/prop/quote/time cue).
+  - **Outcome:** `UNCLEAR`
+- **Phase 6 test (2025-12-30):** re-read the Pages/cains_jawbone_page_57.md ending and Pages/cains_jawbone_page_96.md opening; no continuity marker found.
+  - **Outcome:** `UNCLEAR`
+
 ### Phase 5 tightening notes for v2 (joins)
 
 These are the **highest-risk segment joins** inside the v2 full ordering draft. Treat them as `MAYBE` placeholders until they gain at least 2 independent anchors (e.g., time + place, or character + prop).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_24.md → Pages/cains_jawbone_page_52.md
   - **Why:** current v2 boundary between otherwise stable blocks; no shared named entity/prop/quote continuation has been identified.
+  - **Note:** removed in the v4 trial re-stitch (see above), replaced by `Pages/cains_jawbone_page_24.md → Pages/cains_jawbone_page_33.md`.
   - **Falsifier:** any page-level constraint forces Pages/cains_jawbone_page_52.md to sit adjacent to a different predecessor (e.g., a quote continuation or a unique scene-mechanic continuation).
   - **Next falsification check:** look for a second distinctive bridge anchor into the Pages/cains_jawbone_page_52.md / Pages/cains_jawbone_page_53.md interview scene beyond generic “papers/ham” (door/action, named participant, quote).
   - **Phase 6 test (2025-12-30):** re-read the Pages/cains_jawbone_page_24.md ending and Pages/cains_jawbone_page_52.md opening; found no continuity marker (shared participant/prop/place/time) and no mid-sentence or quote carryover, and corpus scan shows Pages/cains_jawbone_page_52.md’s distinctive anchors (“quicksands of crime”; “end of my interview”) do not recur elsewhere to force a different predecessor.
@@ -1656,6 +1682,7 @@ These are the **highest-risk segment joins** inside the v2 full ordering draft. 
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_57.md → Pages/cains_jawbone_page_33.md
   - **Why:** no phrase/scene continuation known; Pages/cains_jawbone_page_57.md is currently held in `N02` primarily via the “my people”/Skye register and dog-as-listener framing, while Pages/cains_jawbone_page_33.md is a coercive debts/letter scene.
+  - **Note:** removed in the v4 trial re-stitch (see above), replaced by `Pages/cains_jawbone_page_57.md → Pages/cains_jawbone_page_96.md`.
   - **Bridge candidates (order unknown):**
     - Pages/cains_jawbone_page_57.md ↔ Pages/cains_jawbone_page_52.md (Westphalian ham + “bits of paper” reading is a partial scene-mechanic echo).
     - Pages/cains_jawbone_page_33.md ↔ Pages/cains_jawbone_page_10.md (unique Gourdoulis 100-box prop).
@@ -1666,6 +1693,7 @@ These are the **highest-risk segment joins** inside the v2 full ordering draft. 
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_34.md → Pages/cains_jawbone_page_96.md
   - **Why:** no direct continuation; the pages feel like different “registers” (coercive bills/manipulation vignette → café/meeting/menu register).
+  - **Note:** removed in the v4 trial re-stitch (see above), replaced by the internal `Pages/cains_jawbone_page_34.md → Pages/cains_jawbone_page_52.md` link.
   - **Bridge candidates (order unknown):**
     - Pages/cains_jawbone_page_34.md ↔ Pages/cains_jawbone_page_52.md (unique “innocent child” phrasing + “ironic” framing).
     - Pages/cains_jawbone_page_96.md ↔ Pages/cains_jawbone_page_68.md (memory-trigger phrasing: “touched a chord of memory” ↔ “How vividly… How it all comes back.”).
