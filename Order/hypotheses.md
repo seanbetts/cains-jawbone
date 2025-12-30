@@ -1626,6 +1626,14 @@ Key changes vs v1:
 - **Block W (`N06`, confidence: `LIKELY` internal; Page 71 tentative):** Pages/cains_jawbone_page_66.md → Pages/cains_jawbone_page_67.md → Pages/cains_jawbone_page_71.md → Pages/cains_jawbone_page_73.md → Pages/cains_jawbone_page_74.md → Pages/cains_jawbone_page_75.md → Pages/cains_jawbone_page_83.md
 - **Block X (tail, confidence: `MAYBE`):** Pages/cains_jawbone_page_2.md → Pages/cains_jawbone_page_9.md → Pages/cains_jawbone_page_16.md → Pages/cains_jawbone_page_18.md → Pages/cains_jawbone_page_37.md → Pages/cains_jawbone_page_38.md → Pages/cains_jawbone_page_40.md → Pages/cains_jawbone_page_51.md → Pages/cains_jawbone_page_63.md → Pages/cains_jawbone_page_72.md → Pages/cains_jawbone_page_76.md → Pages/cains_jawbone_page_78.md → Pages/cains_jawbone_page_81.md → Pages/cains_jawbone_page_84.md → Pages/cains_jawbone_page_98.md → Pages/cains_jawbone_page_77.md → Pages/cains_jawbone_page_46.md → Pages/cains_jawbone_page_100.md
 
+### Phase 6 trial variant (v3) — re-stitch around Page 77
+
+Delta from v2 (do not treat as accepted until falsified):
+
+- **Motivation:** Phase 6 boundary tests did not support the tail joins `Pages/cains_jawbone_page_98.md → Pages/cains_jawbone_page_77.md → Pages/cains_jawbone_page_46.md`, while Pages/cains_jawbone_page_77.md has a unique phrase-level lock to Pages/cains_jawbone_page_35.md (“Murders were funny things.”).
+- **Change A:** move Pages/cains_jawbone_page_77.md into `N12` immediately after Pages/cains_jawbone_page_35.md (i.e., `… → Pages/cains_jawbone_page_35.md → Pages/cains_jawbone_page_77.md → Pages/cains_jawbone_page_80.md → …`).
+- **Change B:** remove Pages/cains_jawbone_page_77.md from the tail, yielding a new tail adjacency `Pages/cains_jawbone_page_98.md → Pages/cains_jawbone_page_46.md` to falsify next.
+
 ### Phase 5 tightening notes for v2 (joins)
 
 These are the **highest-risk segment joins** inside the v2 full ordering draft. Treat them as `MAYBE` placeholders until they gain at least 2 independent anchors (e.g., time + place, or character + prop).
@@ -1683,16 +1691,22 @@ These are the **highest-risk segment joins** inside the v2 full ordering draft. 
   - **Why:** no direct continuation; there is only a *possible* calendar-layer alignment (“May be” pun on Pages/cains_jawbone_page_98.md ↔ the May 11 Perceval anchor on Pages/cains_jawbone_page_77.md).
   - **Falsifier:** “May” on Pages/cains_jawbone_page_98.md is clearly only the person `P16` (not a month-layer cue), or Pages/cains_jawbone_page_77.md is anchored to a different local time-layer that is incompatible with a May placement.
   - **Next falsification check:** check whether any other page uses the “May be / May be not” punning posture as an explicit month-layer marker, or whether Pages/cains_jawbone_page_98.md carries a second date/season anchor.
+  - **Phase 6 test (2025-12-30):** re-read the Pages/cains_jawbone_page_98.md ending and Pages/cains_jawbone_page_77.md opening; found no continuity marker at the boundary (no shared participant/prop/quote/place), and corpus scans show “Quarry hills”/“sedulous ape” occur only on Page 98 and “Compact, they call it” only on Page 77.
+  - **Outcome:** `UNCLEAR` (keep as placeholder; treat the “May” alignment as insufficient without a second independent anchor).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_77.md → Pages/cains_jawbone_page_46.md
   - **Why:** no direct continuation; Pages/cains_jawbone_page_46.md is strongly `N02` dog-coded and has a Dec 14 “to-day” anchor, while Pages/cains_jawbone_page_77.md carries a May 11 “to-day” anchor (Perceval) and a first-murder confession.
   - **Falsifier:** a bridging autumn/winter `N02` page is found that forces Pages/cains_jawbone_page_46.md into the immediate vicinity of Pages/cains_jawbone_page_77.md, or Pages/cains_jawbone_page_77.md is shown to belong to the same dog-coded narrator (currently unlikely).
   - **Next falsification check:** re-scan for any shared non-date anchor (unique quoted source fragment, shared named participant beyond “Henry”, or a shared object/brand) that could justify proximity.
+  - **Phase 6 test (2025-12-30):** re-read the Pages/cains_jawbone_page_77.md ending and Pages/cains_jawbone_page_46.md opening; found no continuity marker at the boundary and no shared unique anchor beyond the overloaded name `Henry`.
+  - **Outcome:** `UNCLEAR` (keep as placeholder; treat as a high-risk adjacency to replace if a stronger tail-stitch emerges).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_46.md → Pages/cains_jawbone_page_100.md
   - **Why:** no direct continuation; Pages/cains_jawbone_page_100.md has Scotland Yard + “buttonhole” and a collapsing narrator, while Pages/cains_jawbone_page_46.md is a dog-coded aside with a different domestic register.
   - **Bridge candidate (direction unknown):** Pages/cains_jawbone_page_100.md ↔ Pages/cains_jawbone_page_4.md (unique “buttonhole” word echo), and Pages/cains_jawbone_page_100.md ↔ Pages/cains_jawbone_page_91.md (crime/detection register).
   - **Falsifier:** Pages/cains_jawbone_page_100.md is later shown to be purely rhetorical (no in-world collapse), or the “buttonhole” echo is found on a third page (making it non-unique).
   - **Next falsification check:** search for a second anchor tying Pages/cains_jawbone_page_100.md to the `N19` coastal comic voice (Pages/cains_jawbone_page_4.md) beyond the “buttonhole” word.
+  - **Phase 6 test (2025-12-30):** re-read the Pages/cains_jawbone_page_46.md ending and Pages/cains_jawbone_page_100.md opening; found no continuity marker at the boundary and no shared unique anchor that would justify immediate adjacency.
+  - **Outcome:** `UNCLEAR` (keep as placeholder; continue testing Pages/cains_jawbone_page_100.md against Pages/cains_jawbone_page_4.md and Pages/cains_jawbone_page_91.md as potential stitch points).
 
-- **Falsification check (2025-12-30):** reviewed page-body end/start across the above joins and found no mid-sentence or quote continuation markers at these boundaries; treat all as non-adjacent until new evidence emerges.
+- **Falsification checks (2025-12-30):** boundary re-reads performed for the v2 join claims listed above; only `Pages/cains_jawbone_page_83.md → Pages/cains_jawbone_page_2.md` gains a strong continuity reading (newsboys “late night final” → “figures and letters” + “money’s worth”), and the remaining joins should be treated as the highest-priority re-stitch points for Phase 6.
