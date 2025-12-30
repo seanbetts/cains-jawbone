@@ -1440,6 +1440,11 @@ Template:
   - **Falsification check (2025-12-30):** in page bodies, “Sir Paul” appears only on Pages/cains_jawbone_page_53.md and Pages/cains_jawbone_page_80.md, “Trinder” only on Pages/cains_jawbone_page_53.md and Pages/cains_jawbone_page_59.md, and “figurehead beard” only on Pages/cains_jawbone_page_60.md, supporting this as a single named-character thread pending identification of the “figurehead beard”.
   - **Next falsification check:** look for any third page that names “Sir Paul”/Trinder in a way that forces placement between the interview (52–53) and the home-hospitality poison setup (80), or that explicitly identifies who the “figurehead beard” is (Page 60) to confirm whether Trinder is the intended “success” target.
 
+- **Sequence (confidence: LIKELY):** `Pages/cains_jawbone_page_14.md → Pages/cains_jawbone_page_12.md`
+  - **Why:** Pages/cains_jawbone_page_14.md foregrounds overheard will/inheritance talk (“leave everything to me… May”) plus the spilled wine/cleanup beat, while Pages/cains_jawbone_page_12.md places the narrator opposite a man bent over “documents” and explicitly punning on an “abstracted will,” reading like the immediate follow-on intelligence-gathering scene.
+  - **Note:** treat this as a within-voice order constraint; Pages/cains_jawbone_page_12.md is also a Phase 5 join-candidate into Pages/cains_jawbone_page_50.md via the Homonoea epigram, so do not force Pages/cains_jawbone_page_14.md adjacent to Pages/cains_jawbone_page_12.md in the full ordering.
+  - **Disconfirming evidence:** “May”/will-talk is later shown to be a different in-world scene than Page 12’s document-watching (two separate will episodes), or the Page 14 narrator’s Henry/cleanup setting is incompatible with Page 12’s “vis-à-vis” table scene.
+
 - **Sequence (confidence: LIKELY):** `Pages/cains_jawbone_page_12.md → Pages/cains_jawbone_page_50.md`
   - **Why:**
     - Pages/cains_jawbone_page_12.md ends with a Greek-Anthology “Homonoea” epigram fragment (“…banquets… Atimetus”), and Pages/cains_jawbone_page_50.md opens with the matching “Homonoea” continuation line (“The swallow, the bright Homonoea.”), which is the only “Homonoea” page-body instance in the corpus.
