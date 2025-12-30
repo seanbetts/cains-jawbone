@@ -1676,7 +1676,7 @@ These are the **highest-risk segment joins** inside the v2 full ordering draft. 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_91.md → Pages/cains_jawbone_page_86.md
   - **Why:** both pages use “Next day” and both name “Henry,” but `Henry` is an overloaded label across the corpus; no setting/prop/quote continuity is currently known.
   - **Falsifier:** Pages/cains_jawbone_page_91.md gains a stronger attachment to a different crime/detection segment (e.g., Scotland Yard on Pages/cains_jawbone_page_100.md, or aconite on Pages/cains_jawbone_page_80.md), or Pages/cains_jawbone_page_86.md / Pages/cains_jawbone_page_87.md are anchored by a local “next day” predecessor that is not Pages/cains_jawbone_page_91.md.
-  - **Next falsification check:** re-scan for any unique noun/prop bundle shared by Pages/cains_jawbone_page_91.md and the `N13` coastal house segment (Sanders, bay-house setting, dead-man’s letter).
+  - **Next falsification check:** re-scan for any unique noun/prop bundle shared by Pages/cains_jawbone_page_91.md and the `N13` coastal house segment (Sanders, bay-house setting, dead-man’s letter), and test whether Pages/cains_jawbone_page_91.md more naturally belongs near the Scotland Yard coda (Pages/cains_jawbone_page_100.md) given the unique “Black Museum” ↔ Scotland Yard institutional overlap.
   - **Phase 6 test (2025-12-30):** re-read the Pages/cains_jawbone_page_91.md ending and Pages/cains_jawbone_page_86.md opening; beyond the generic “Next day” frame and an overloaded `Henry` name, no shared prop/quote/place marker appears at the boundary.
   - **Outcome:** `UNCLEAR` (do not upgrade without a second independent anchor beyond “Next day” + `Henry`).
 
@@ -1733,10 +1733,25 @@ These are the **highest-risk segment joins** inside the v2 full ordering draft. 
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_46.md → Pages/cains_jawbone_page_100.md
   - **Why:** no direct continuation; Pages/cains_jawbone_page_100.md has Scotland Yard + “buttonhole” and a collapsing narrator, while Pages/cains_jawbone_page_46.md is a dog-coded aside with a different domestic register.
-  - **Bridge candidate (direction unknown):** Pages/cains_jawbone_page_100.md ↔ Pages/cains_jawbone_page_4.md (unique “buttonhole” word echo), and Pages/cains_jawbone_page_100.md ↔ Pages/cains_jawbone_page_91.md (crime/detection register).
+  - **Bridge candidate (direction unknown):** Pages/cains_jawbone_page_100.md ↔ Pages/cains_jawbone_page_4.md (unique “buttonhole” word echo), and Pages/cains_jawbone_page_100.md ↔ Pages/cains_jawbone_page_91.md (unique Scotland Yard / “Black Museum” institutional overlap + Henry present on both pages).
   - **Falsifier:** Pages/cains_jawbone_page_100.md is later shown to be purely rhetorical (no in-world collapse), or the “buttonhole” echo is found on a third page (making it non-unique).
   - **Next falsification check:** search for a second anchor tying Pages/cains_jawbone_page_100.md to the `N19` coastal comic voice (Pages/cains_jawbone_page_4.md) beyond the “buttonhole” word.
   - **Phase 6 test (2025-12-30):** re-read the Pages/cains_jawbone_page_46.md ending and Pages/cains_jawbone_page_100.md opening; found no continuity marker at the boundary and no shared unique anchor that would justify immediate adjacency.
   - **Outcome:** `UNCLEAR` (keep as placeholder; continue testing Pages/cains_jawbone_page_100.md against Pages/cains_jawbone_page_4.md and Pages/cains_jawbone_page_91.md as potential stitch points).
+
+### Phase 6 trial variant (v5) — move Page 91 into the Scotland Yard coda
+
+Delta from v2 (do not treat as accepted until falsified):
+
+- **Motivation:** Pages/cains_jawbone_page_91.md is the only page that uses “Black Museum,” and Pages/cains_jawbone_page_100.md is the only page that names Scotland Yard; treating these as the intended institutional overlap makes the v2 join `Pages/cains_jawbone_page_91.md → Pages/cains_jawbone_page_86.md` feel even less motivated than a late placement for Page 91 near the Scotland Yard collapse.
+- **Change A (trial):** remove Pages/cains_jawbone_page_91.md from its v2 position (between Pages/cains_jawbone_page_60.md and Pages/cains_jawbone_page_86.md) and place it immediately before Pages/cains_jawbone_page_100.md in the tail.
+- **Resulting join swaps (v2 → v5):**
+  - Removed: `Pages/cains_jawbone_page_60.md → Pages/cains_jawbone_page_91.md`
+  - Removed: `Pages/cains_jawbone_page_91.md → Pages/cains_jawbone_page_86.md`
+  - Added: `Pages/cains_jawbone_page_60.md → Pages/cains_jawbone_page_86.md`
+  - Added: `Pages/cains_jawbone_page_46.md → Pages/cains_jawbone_page_91.md`
+  - Added: `Pages/cains_jawbone_page_91.md → Pages/cains_jawbone_page_100.md`
+- **Phase 6 test (2025-12-30):** re-read the Pages/cains_jawbone_page_91.md ending and Pages/cains_jawbone_page_100.md opening; shared Scotland Yard / Black Museum framing is suggestive, and both pages foreground Henry misbehaving (“playing about” ↔ “getting out of hand”), but no direct quote/prop/participant continuity is present.
+  - **Outcome:** `UNCLEAR` (keep as a plausible coda placement, but do not upgrade to a join lock without a second independent anchor).
 
 - **Falsification checks (2025-12-30):** boundary re-reads performed for the v2 join claims listed above; only `Pages/cains_jawbone_page_83.md → Pages/cains_jawbone_page_2.md` gains a strong continuity reading (newsboys “late night final” → “figures and letters” + “money’s worth”), and the remaining joins should be treated as the highest-priority re-stitch points for Phase 6.
