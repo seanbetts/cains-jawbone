@@ -1050,11 +1050,13 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - Pages/cains_jawbone_page_95.md then supplies the follow-through decision/action (“I had decided what to do” → pen/ink ritual → “told him all, hour by hour, day by day”), which reads like the next thing that happens once the waiting resolves into a plan.
       - **Disconfirming evidence:**
         - Pages/cains_jawbone_page_95.md’s opening time-budgeting is shown to be a pre-arrival travel beat incompatible with Pages/cains_jawbone_page_96.md’s already-seated tea/menu scene (forcing `95 → 96`), or Pages/cains_jawbone_page_96.md is later anchored to a non–Café Royal setting.
-    - **Join candidate (Phase 6) — café waiting → Moon/Dawn table scene** (confidence: `MAYBE`)
+    - **Join candidate (Phase 6) — café waiting → Moon/Dawn table scene** (confidence: `LIKELY`)
       - **Pages (ordered):** Pages/cains_jawbone_page_96.md → Pages/cains_jawbone_page_17.md
       - **Why:**
         - Pages/cains_jawbone_page_96.md ends on a tense café/tea waiting beat (“for the possible her”… “meeting… so mysterious”), and Pages/cains_jawbone_page_17.md reads like the same posture resolving into arrival (“conveniently situated… Ah, here she is… into the chair opposite”).
         - The “Somerset” + marriage framing is unusually specific: Pages/cains_jawbone_page_96.md’s “turning a Somerset in front of the altar” aligns with Pages/cains_jawbone_page_17.md’s named `Kate Somerset` + “marriage is in the air.”
+      - **Phase 6 test (2025-12-30):** corpus scan of page bodies found that “Somerset” appears only on Pages/cains_jawbone_page_96.md and Pages/cains_jawbone_page_17.md; “possible her” appears only on Pages/cains_jawbone_page_96.md; and “Ah, here she is” appears only on Pages/cains_jawbone_page_17.md.
+        - **Outcome:** `PASS` (upgrade join to `LIKELY`).
       - **Disconfirming evidence:**
         - “Somerset” on Pages/cains_jawbone_page_96.md is shown to be only the somersault idiom with no surname/person linkage, and Pages/cains_jawbone_page_17.md’s Kate Somerset is demonstrably unrelated.
         - The Page 96 meeting is later anchored to a different venue/cast than the Moon/Dawn scene, so the “possible her” cannot be the “Ah, here she is” arrival.
@@ -1068,12 +1070,14 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - Pages/cains_jawbone_page_95.md → Pages/cains_jawbone_page_70.md reads as write-then-aftermath: the narrator “told him all” then has “told all I knew” and fears retaliation; the shared infancy/knee relationship anchor strengthens that it’s the same recipient/antagonist thread.
       - **Disconfirming evidence:**
         - Pages/cains_jawbone_page_69.md’s “done slowly to death” proves figurative, Pages/cains_jawbone_page_96.md is later anchored to a clearly different setting/voice from the Café Royal strand, or Pages/cains_jawbone_page_95.md’s “horrid act” is later shown to be unrelated to the old-man strand.
-    - **Sequence E — night aftermath → decide to write (skip café-wait beat)** (confidence: `MAYBE`)
+    - **Sequence E — night aftermath → decide to write (skip café-wait beat)** (confidence: `LIKELY`)
       - **Pages (ordered):** Pages/cains_jawbone_page_68.md → Pages/cains_jawbone_page_69.md → Pages/cains_jawbone_page_95.md → Pages/cains_jawbone_page_70.md
       - **Why:**
         - Pages/cains_jawbone_page_69.md explicitly asks “What… ought I to do?” and repeats “The answer was plain enough,” while Pages/cains_jawbone_page_95.md uniquely resumes with “Because I had decided what to do,” reading like the follow-through to the same decision-point (even if not strictly same-scene).
         - Pages/cains_jawbone_page_69.md’s time-granularity emphasis (“I had seen every minute of it”) aligns with Pages/cains_jawbone_page_95.md’s “hour by hour, day by day” framing for the written account.
         - Pages/cains_jawbone_page_95.md → Pages/cains_jawbone_page_70.md remains the strongest within-voice action→aftermath chain (write full account → franked item found “in the morning” + retaliation fear).
+      - **Phase 6 test (2025-12-30):** corpus scan of page bodies found “The answer was plain enough” occurs only on Pages/cains_jawbone_page_69.md and “Because I had decided what to do” occurs only on Pages/cains_jawbone_page_95.md.
+        - **Outcome:** `PASS` (upgrade Sequence E to `LIKELY`).
       - **Disconfirming evidence:**
         - Pages/cains_jawbone_page_95.md’s “horrid act” is later shown to be unrelated to the Pages/cains_jawbone_page_68.md/Pages/cains_jawbone_page_69.md slow-death witness scene, or “What… ought I to do?” / “decided what to do” is shown to be a generic rhetorical posture repeated elsewhere in a way that breaks uniqueness.
         - A stronger immediate successor for Pages/cains_jawbone_page_69.md emerges that carries a concrete prop/venue anchor into the Café Royal strand.
@@ -1731,6 +1735,7 @@ These are the **highest-risk segment joins** inside the v2 full ordering draft. 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_34.md → Pages/cains_jawbone_page_96.md
   - **Why:** no direct continuation; the pages feel like different “registers” (coercive bills/manipulation vignette → café/meeting/menu register).
   - **Note:** removed in the v4 trial re-stitch (see above), replaced by the internal `Pages/cains_jawbone_page_34.md → Pages/cains_jawbone_page_52.md` link.
+  - **Update (2025-12-30):** Pages/cains_jawbone_page_96.md now has a stronger candidate successor `Pages/cains_jawbone_page_17.md` (unique Somerset + “possible her” → “Ah, here she is” arrival beat), so deprioritise `Pages/cains_jawbone_page_34.md → Pages/cains_jawbone_page_96.md` as an adjacency and treat Pages/cains_jawbone_page_96.md as a likely re-stitch point.
   - **Bridge candidates (order unknown):**
     - Pages/cains_jawbone_page_34.md ↔ Pages/cains_jawbone_page_52.md (unique “innocent child” phrasing + “ironic” framing).
     - Pages/cains_jawbone_page_96.md ↔ Pages/cains_jawbone_page_68.md (memory-trigger phrasing: “touched a chord of memory” ↔ “How vividly… How it all comes back.”).
@@ -1810,3 +1815,18 @@ Delta from v2 (do not treat as accepted until falsified):
 - **Update (2025-12-30):** since `Pages/cains_jawbone_page_80.md → Pages/cains_jawbone_page_91.md` is now treated as the strongest current placement for Page 91 (aconite/Blue Rocket + shared collection/show-and-tell register), deprioritise v5 unless a second independent anchor emerges tying Page 91 to the Scotland Yard/Kursaal material.
 
 - **Falsification checks (2025-12-30):** boundary re-reads performed for the v2 join claims listed above; only `Pages/cains_jawbone_page_83.md → Pages/cains_jawbone_page_2.md` gains a strong continuity reading (newsboys “late night final” → “figures and letters” + “money’s worth”), and the remaining joins should be treated as the highest-priority re-stitch points for Phase 6.
+
+### Phase 6 trial variant (v6) — move Page 96 into the Moon/Dawn strand
+
+Delta from v2 (do not treat as accepted until falsified):
+
+- **Motivation:** Pages/cains_jawbone_page_96.md has a stronger boundary reading into the Moon/Dawn table scene (Pages/cains_jawbone_page_17.md) than it does into the Café Royal written‑account material, and adopting `Pages/cains_jawbone_page_96.md → Pages/cains_jawbone_page_17.md` removes one of v2’s weakest joins (`Pages/cains_jawbone_page_34.md → Pages/cains_jawbone_page_96.md`).
+- **Change A (trial):** remove Pages/cains_jawbone_page_96.md from v2 Block U (so Block U becomes `Pages/cains_jawbone_page_95.md → Pages/cains_jawbone_page_70.md`).
+- **Change B (trial):** insert Pages/cains_jawbone_page_96.md into v2 Block N, immediately before Pages/cains_jawbone_page_17.md (so Block N becomes `Pages/cains_jawbone_page_1.md → Pages/cains_jawbone_page_96.md → Pages/cains_jawbone_page_17.md → Pages/cains_jawbone_page_43.md`). Note: `Pages/cains_jawbone_page_1.md → Pages/cains_jawbone_page_96.md` remains a pure placeholder join pending a positive anchor.
+- **Resulting join swaps (v2 → v6):**
+  - Removed: `Pages/cains_jawbone_page_34.md → Pages/cains_jawbone_page_96.md`
+  - Added: `Pages/cains_jawbone_page_34.md → Pages/cains_jawbone_page_95.md`
+  - Added: `Pages/cains_jawbone_page_1.md → Pages/cains_jawbone_page_96.md` (placeholder)
+  - Added: `Pages/cains_jawbone_page_96.md → Pages/cains_jawbone_page_17.md` (candidate)
+  - **Phase 6 test (2025-12-30):** re-read the Pages/cains_jawbone_page_34.md ending and Pages/cains_jawbone_page_95.md opening; found no continuity marker (setting/prop/quote/cast), so treat `Pages/cains_jawbone_page_34.md → Pages/cains_jawbone_page_95.md` as a placeholder only.
+    - **Outcome:** `UNCLEAR`
