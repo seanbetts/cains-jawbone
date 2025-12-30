@@ -108,16 +108,16 @@ Track *in-world* death/murder hypotheses separately from page-ordering hypothese
   - **Evidence summary:** The page implies a decision to kill a newly introduced man, but no act or outcome is narrated.
   - **Falsifiers:** “Death warrant” is purely idiomatic or comic wordplay with no subsequent in-world harm to this person.
 
-- `E08` (confidence: `0.25`; status: `active`)
+- `E08` (confidence: `0.10`; status: `downgraded`)
   - **Pages:** Pages/cains_jawbone_page_99.md
-  - **Victim candidate(s):** `UNKNOWN` (woman previously “killed” by the narrator; identity unclear)
-  - **Murderer candidate(s):** `UNKNOWN` (narrator claims responsibility)
+  - **Victim candidate(s):** `UNKNOWN` (prior “killed” referent; identity unclear; LIKELY non-human/idiomatic in the dog‑POV context)
+  - **Murderer candidate(s):** `UNKNOWN` (dog‑POV narrator claims responsibility; could be metaphor/animal kill)
   - **Means/method:** `UNKNOWN`
   - **Motive:** `UNKNOWN`
   - **Opportunity:** `UNKNOWN`
-  - **Narrative tells:** Casual aside (“she wasn’t the one I’d killed”) paired with possible non-human POV wordplay (“three more left”).
-  - **Evidence summary:** The page contains an explicit killing admission, but the victim and context are not established (could be literal murder or non-human/hyperbolic usage).
-  - **Falsifiers:** Later context shows “killed” refers to an animal kill/idiom/metaphor rather than an in-world murder victim.
+  - **Narrative tells:** Casual aside (“she wasn’t the one I’d killed”) occurs inside a strongly dog-coded POV segment and is paired with four-foot/idiom pressure (“I had three more left”).
+  - **Evidence summary:** The page contains a “killed” admission, but the surrounding dog‑POV register makes it more likely to be an animal-kill or idiom layer than one of the six in-world murders.
+  - **Falsifiers:** Later pages explicitly identify a human victim for this “killed” admission and link it to a broader murder sequence.
 
 - `E09` (confidence: `0.35`; status: `active`)
   - **Pages:** Pages/cains_jawbone_page_100.md
@@ -207,16 +207,16 @@ Track *in-world* death/murder hypotheses separately from page-ordering hypothese
   - **Evidence summary:** A death is asserted (“a woman, dead the same day”) but the surrounding epistolary material is ambiguous about whether this is in-world or quoted.
   - **Falsifiers:** The “dead the same day” framing is identified as an external quotation/citation rather than an in-world death.
 
-- `E17` (confidence: `0.10`; status: `active`)
+- `E17` (confidence: `0.05`; status: `downgraded`)
   - **Pages:** Pages/cains_jawbone_page_46.md
-  - **Victim candidate(s):** `UNKNOWN` (“Tom… in the matter of Jasmine”)
-  - **Murderer candidate(s):** `P48` (Hal, if this is literal)
+  - **Victim candidate(s):** `UNKNOWN` (“Tom… in the matter of Jasmine”; LIKELY “tom”/tomcat, not a human victim)
+  - **Murderer candidate(s):** `UNKNOWN`
   - **Means/method:** `UNKNOWN`
   - **Motive:** `UNKNOWN`
   - **Opportunity:** `UNKNOWN`
-  - **Narrative tells:** The voice strongly reads as non-human/naïve (chop reward), which may reduce this to an animal-kill/idiom rather than a human murder.
-  - **Evidence summary:** The page contains an explicit “I killed” admission tied to “Tom” and “Jasmine”, but context makes literal human murder uncertain.
-  - **Falsifiers:** Later context confirms this is animal POV and “Tom” is a cat/animal (or the line is purely idiomatic/metaphorical).
+  - **Narrative tells:** The page’s dog-coded POV + De Quincey quotation layer strongly suggests “Tom… in the matter of Jasmine” is an animal/wordplay thread rather than a human murder admission.
+  - **Evidence summary:** Treat as out-of-scope for the six human murders unless later pages force a human identity for “Tom” and tie the “Jasmine” matter to a broader in-world killing sequence.
+  - **Falsifiers:** A later page clearly identifies “Tom” as a human victim in this strand, or explicitly links this “I killed” clause to one of the six in-world murders.
 
 - `E18` (confidence: `0.35`; status: `active`)
   - **Pages:** Pages/cains_jawbone_page_77.md

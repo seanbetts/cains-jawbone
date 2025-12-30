@@ -65,12 +65,12 @@ Track people as candidates with evolving roles. This file is deliberately probab
 
 - `P48`
   - **Aliases / names used:** Hal
-  - **Role candidate:** `murderer`
-  - **Confidence (0.0–1.0):** 0.10
+  - **Role candidate:** `unknown`
+  - **Confidence (0.0–1.0):** 0.05
   - **Supporting pages:** Pages/cains_jawbone_page_46.md
-  - **Evidence summary:** States “not the one I killed in the matter of Jasmine”, implying a prior killing of “Tom” connected to “Jasmine”.
-  - **Falsifiers:** The passage is confirmed as animal POV and “Tom” is an animal (or the line is idiomatic/metaphorical), making it irrelevant to the six human murders.
-  - **Status:** `active`
+  - **Evidence summary:** Appears inside a strongly dog-coded POV segment; the “not the one I killed in the matter of Jasmine” phrasing most likely refers to an animal (“Tom”/tomcat) rather than a human murder.
+  - **Falsifiers:** A later page shows “Hal” committing/ordering a clearly in-world human killing, or explicitly links “the matter of Jasmine” to one of the six human murders rather than an animal/idiom.
+  - **Status:** `downgraded`
 
 - `P59`
   - **Aliases / names used:** “dead man”
