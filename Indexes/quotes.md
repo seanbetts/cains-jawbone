@@ -834,8 +834,8 @@ Template:
 
 - **Snippet:** “as flush as May”
   - **Likely source/author:** Shakespeare, *Hamlet* Act III, Scene 3 (“…broad blown, as flush as May”): https://en.wikisource.org/wiki/Hamlet_(1917)_Yale/Text/Act_III?action=render
-  - **Why it matters:** Confirms the Page 79 “flush as May” simile is a Hamlet lift (used for blushing/flushing), adding another Hamlet quotation to the corpus.
-  - **Pages:** Pages/cains_jawbone_page_79.md
+  - **Why it matters:** Confirms the “flush as May” simile is a Hamlet lift and links Pages/cains_jawbone_page_79.md ↔ Pages/cains_jawbone_page_100.md via a rare shared quotation.
+  - **Pages:** Pages/cains_jawbone_page_79.md, Pages/cains_jawbone_page_100.md
   - **Confidence:** `CERTAIN`
   - **Research needed:** no
 

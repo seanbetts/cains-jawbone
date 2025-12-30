@@ -23,11 +23,13 @@ I dimly guess why the old dead so wanted this. I had worked for him, Henry had w
   - Henry “getting out of hand” (suggests Henry is physically controlled/handled in this scene).
 - **Quotes & allusions:**
   - CERTAIN: “Here I shake off the bur o’ the world, man’s congregation shun” = Francis Thompson, “An Anthem of Earth” (in *New Poems*, 1897), p. 93: https://books.google.co.uk/books?id=SZo-AAAAYAAJ&pg=PA93&dq=bur+o%27+the+world&source=gbs_api.
+  - CERTAIN: “as flush as May” is Shakespeare, *Hamlet* Act III, Scene 3 (“…broad blown, as flush as May”): https://en.wikisource.org/wiki/Hamlet_(1917)_Yale/Text/Act_III?action=render (also appears on Pages/cains_jawbone_page_79.md).
   - CERTAIN: “how ill all’s here about my heart” echoes Shakespeare, *Hamlet* Act V (“…I shall win at the odds… thou wouldst not think how ill all’s here about my heart…”): https://en.wikisource.org/wiki/Hamlet_(1917)_Yale/Text/Act_V.
 - **Clustering hypotheses:**
   - MAYBE: belongs with the Henry + Scotland Yard / detective cluster (police framing + Henry present).
   - MAYBE: shared “buttonhole” word (page-body unique) with Pages/cains_jawbone_page_4.md (“day’s buttonhole” ↔ “buttonhole has escaped from the buttonholer”); treat as a cross-narrator continuity candidate until a second independent anchor emerges (see `Order/hypotheses.md`).
+  - MAYBE: shared “as flush as May” Hamlet lift with Pages/cains_jawbone_page_79.md; treat as a cross-strand quote echo until a second independent anchor emerges (see `Order/hypotheses.md`).
 - **Disconfirming evidence:**
   - If the collapse/death framing is revealed as purely rhetorical (no actual in-world harm).
 - **Research needed:**
-  - Clarify whether “May” here is the person (`P16`) or a month/colour simile.
+  - Clarify whether “May” here is intended purely as the Hamlet simile (month/colour register) or is also a deliberate pointer to the person `P16`.
