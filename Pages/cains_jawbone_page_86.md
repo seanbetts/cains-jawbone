@@ -34,5 +34,6 @@ Next day I let Caroline Jasmine---what a name!---do her very damnedest for my gu
   - CERTAIN: Pages/cains_jawbone_page_86.md ↔ Pages/cains_jawbone_page_87.md (direct continuation of the quoted lines).
   - MAYBE: Pages/cains_jawbone_page_80.md is a thematic overlap (host/guest poisoning) but is not supported as an adjacent predecessor without a stronger shared anchor.
   - LIKELY: Pages/cains_jawbone_page_24.md overlap candidate: `Caroline` appears only on Pages/cains_jawbone_page_24.md and this page (page-body unique), and both pages quote Yeats’s “Song of Red Hanrahan” (different lines). Treat as a high-signal shared-cast/voice hypothesis; adjacency still needs a second, non-quote continuity anchor.
+    - Phase 6 check (2025-12-30): scanned shared bigrams/trigrams with Pages/cains_jawbone_page_24.md; no additional phrase-level overlap found beyond generic `next day I` (also appears on Pages/cains_jawbone_page_20.md), and no second non-quote continuity anchor identified yet.
 - **Disconfirming evidence:**
   - If the poem quotation is reproduced elsewhere in full (no actual page-break continuity).
