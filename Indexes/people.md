@@ -184,7 +184,7 @@ Template:
   - **Tells:** narrator’s suspicions “well-founded”.
   - **Pronouns/relationships:** shares a house with narrator; unclear role.
   - **Pages:** Pages/cains_jawbone_page_24.md
-  - **Notes:** Track for recurrence (could be victim/antagonist).
+  - **Notes:** Update (2025-12-30): page-body scan found `Caroline` appears only on Pages/cains_jawbone_page_24.md and Pages/cains_jawbone_page_86.md (as “Caroline Jasmine”); treat as a high-signal possible identity match with `P79`, but keep separate until a second anchor confirms they are the same person.
 
 - `P30` — Names/aliases: Aunt Cynthia
   - **Tells:** associated with roses; asked Ahkoond of Swat to “share a dream”.
@@ -484,13 +484,13 @@ Template:
   - **Tells:** “do[es] her very damnedest” for narrator’s guest.
   - **Pronouns/relationships:** likely works for narrator as a helper/nurse/hostess.
   - **Pages:** Pages/cains_jawbone_page_86.md
-  - **Notes:** Keep separate from `P29` (Caroline) unless later anchored as the same person.
+  - **Notes:** Keep separate from `P29` (Caroline) unless later anchored as the same person; update (2025-12-30): `Caroline` is page-body-unique to Pages/cains_jawbone_page_24.md and Pages/cains_jawbone_page_86.md, so this is now a priority overlap to falsify/confirm.
 
 - `P80` — Names/aliases: Sanders
   - **Tells:** “comes into view again” after a “lunar visit”; gazes NW over a little bay.
   - **Pronouns/relationships:** present with narrator and narrator’s guest.
   - **Pages:** Pages/cains_jawbone_page_87.md
-  - **Notes:** Phrase “again” implies prior appearance; search earlier pages for “Sanders”.
+  - **Notes:** Update (2025-12-30): corpus scan found `Sanders` appears only on Pages/cains_jawbone_page_87.md; treat “again” as intra-scene phrasing unless the name recurs elsewhere.
 
 - `P81` — Names/aliases: narrator’s guest (unnamed; “Byzantine beauty”)
   - **Tells:** described as “Byzantine beauty… golden snake”; “a little pale about the Gills”; shows original of a “dead man’s letter”.

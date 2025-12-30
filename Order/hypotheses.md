@@ -199,6 +199,11 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
   - **Why it might matter:** could be a deliberate echo linking the poison-logistics voice to the window-throw vignette, or a marker that the same narrator returns later with a “no detective” posture.
   - **Disconfirming evidence:** if the Sherlock Holmes allusion is the only overlap (no shared voice tells, cast, or props), treat as an isolated allusion rather than a continuity signal.
   - **Next falsification check:** check for any second anchor tying the scenes (bell-wire/window motif, repeated “detective” self-reference, shared poison/botany register, or shared named person).
+- **Candidate:** Pages/cains_jawbone_page_24.md ↔ Pages/cains_jawbone_page_86.md (`N03` ↔ `N13`) (confidence: `LIKELY`)
+  - **Prior anchors:** page-body unique `Caroline` name appears only on these pages (plain “Caroline” ↔ “Caroline Jasmine”), and both pages quote Yeats’s “Song of Red Hanrahan” (different lines).
+  - **Why it might matter:** this is the strongest current bridge candidate for re-stitching the weak v2 boundary around Pages/cains_jawbone_page_91.md → Pages/cains_jawbone_page_86.md, and may indicate the same household/cast and narrator voice under different registers.
+  - **Disconfirming evidence:** “Caroline” is later shown to be a different person from Caroline Jasmine (or a purely incidental naming coincidence), and/or Yeats quotation is shown to be generic scene-dressing across multiple unrelated narrators.
+  - **Next falsification check:** find a second non-quote continuity anchor between the pages (shared prop/place/relationship), and decide whether the “Next day” openings can be reconciled within a single local run (or force non-adjacent placement).
 
 ### Falsified cross-narrator candidates (Phase 3)
 
