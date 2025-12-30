@@ -629,3 +629,27 @@ Template:
   - **Pronouns/relationships:** companion of `P102` (LIKELY daughter); MAYBE overlaps `P70` (husky-voiced woman).
   - **Pages:** Pages/cains_jawbone_page_83.md
   - **Notes:** MAYBE the same as `P70` if the p74/p83 “old man” scene is continuous; do not merge without a second anchor.
+
+- `P104` — Names/aliases: window-throw narrator (“no detective” voice; unknown)
+  - **Tells:** narrates heaving a “victim” out of a window into water; black humour + self-exculpation (“thank goodness, I was no detective”); misheard last-words riff (“Band, Speckled”).
+  - **Pronouns/relationships:** murderer candidate for `P75` (window victim), if in-world.
+  - **Pages:** Pages/cains_jawbone_page_81.md
+  - **Notes:** Treat as a narrator-person placeholder for `N28` unless the scene is later shown to be embedded quotation/storytelling rather than an in-world act.
+
+- `P105` — Names/aliases: “Compact” murderer narrator (first murder; unknown)
+  - **Tells:** explicit first-murder confession (“it was my first”) with a named implement (“Compact”); tactile “warm ankles… soon… cold” aftermath.
+  - **Pronouns/relationships:** describes “Henry’s predicament” after the act (Henry identity unclear).
+  - **Pages:** Pages/cains_jawbone_page_77.md
+  - **Notes:** Treat as a narrator-person placeholder pending identification; MAYBE overlaps `P107` (poison-logistics narrator) via the unique phrase-level echo “Murders were funny things” (Pages/cains_jawbone_page_35.md ↔ Pages/cains_jawbone_page_77.md), so keep merge-on-hold with falsifier: find a third page that carries the same phrase under an incompatible voice.
+
+- `P106` — Names/aliases: Green-target narrator (De Quincey “tooling” moral-calculus voice; unknown)
+  - **Tells:** frames “Green” as “the victim”; self-justifying “duty” register; heavy De Quincey murder-aesthetics language.
+  - **Pronouns/relationships:** murderer candidate for `P72` Green, if in-world.
+  - **Pages:** Pages/cains_jawbone_page_76.md
+  - **Notes:** Treat as a narrator-person placeholder for `N15` unless “Green” resolves as a joke/reference rather than an in-world victim.
+
+- `P107` — Names/aliases: poison-logistics host narrator (aconite/digitalis/gelsemium; unknown)
+  - **Tells:** home-hospitality + poison preparation register (foxgloves/digitalis; gelsemium; aconitum/Fleming’s tincture; sherry); murder-as-genre reflections; named pressure point “May”.
+  - **Pronouns/relationships:** targets `P50` Sir Paul Trinder (LIKELY); has “Henry” present/adjacent in some scenes (Henry identity unclear).
+  - **Pages:** Pages/cains_jawbone_page_6.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_29.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_59.md, Pages/cains_jawbone_page_60.md, Pages/cains_jawbone_page_80.md
+  - **Notes:** Treat as a narrator-person placeholder for `N12`; falsifier: any of these pages is later shown to be quoted/embedded from different sources rather than a single narrator’s lived sequence.

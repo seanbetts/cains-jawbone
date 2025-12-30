@@ -36,6 +36,42 @@ Track people as candidates with evolving roles. This file is deliberately probab
   - **Falsifiers:** “Victim/corpse” language resolves as non-lethal (e.g., stage/medical metaphor), or `P01` conflates multiple distinct “Henrys” and the murderous Henry is a different person from other Henry appearances.
   - **Status:** `active`
 
+- `P104`
+  - **Aliases / names used:** window-throw narrator (“no detective” voice; unknown)
+  - **Role candidate:** `murderer`
+  - **Confidence (0.0–1.0):** 0.70
+  - **Supporting pages:** Pages/cains_jawbone_page_81.md
+  - **Evidence summary:** Narrates a direct killing act (heaving a “victim” out of a window into water) with explicit intent and black-humour self-exculpation.
+  - **Falsifiers:** The scene is later shown to be an embedded quotation/story rather than an in-world act, or later pages show the window victim survived.
+  - **Status:** `active`
+
+- `P105`
+  - **Aliases / names used:** “Compact” murderer narrator (first murder; unknown)
+  - **Role candidate:** `murderer`
+  - **Confidence (0.0–1.0):** 0.55
+  - **Supporting pages:** Pages/cains_jawbone_page_77.md
+  - **Evidence summary:** Confesses a first killing (“it was my first”) and describes immediate bodily aftermath, while naming the implement “Compact”.
+  - **Falsifiers:** “my first” is shown to be non-lethal/metaphorical, “Compact” is not a means of harm, or this narrator is later identified as the same person as `P107` (making the murder count/identity model need revision).
+  - **Status:** `active`
+
+- `P106`
+  - **Aliases / names used:** Green-target narrator (De Quincey “tooling” moral-calculus voice; unknown)
+  - **Role candidate:** `murderer`
+  - **Confidence (0.0–1.0):** 0.30
+  - **Supporting pages:** Pages/cains_jawbone_page_76.md
+  - **Evidence summary:** Frames an intended killing as a personal “duty” and explicitly names “Green” as “the victim,” but the page does not (alone) prove the act is completed.
+  - **Falsifiers:** “Green” is shown not to be an in-world person/victim, or the “victim” framing is purely hypothetical/metaphorical.
+  - **Status:** `active`
+
+- `P107`
+  - **Aliases / names used:** poison-logistics host narrator (aconite/digitalis/gelsemium; unknown)
+  - **Role candidate:** `murderer`
+  - **Confidence (0.0–1.0):** 0.35
+  - **Supporting pages:** Pages/cains_jawbone_page_6.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_29.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_59.md, Pages/cains_jawbone_page_60.md, Pages/cains_jawbone_page_80.md
+  - **Evidence summary:** Repeated poison-means staging (digitalis/gelsemium/aconite) and a claimed death-success register (Pages 59–60), plus a hosted aconite setup aimed at Sir Paul (Page 80).
+  - **Falsifiers:** The poison scenes are later shown to be non-administrative (no ingestion/outcome), the “success” language resolves as figurative/quoted, or the pages are shown not to belong to a single narrator/person.
+  - **Status:** `active`
+
 - `P92`
   - **Aliases / names used:** “old family lawyer” (unnamed)
   - **Role candidate:** `victim`

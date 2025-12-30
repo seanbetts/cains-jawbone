@@ -56,7 +56,7 @@ Track *in-world* death/murder hypotheses separately from page-ordering hypothese
 - `E03` (confidence: `0.35`; status: `active`)
   - **Pages:** Pages/cains_jawbone_page_76.md
   - **Victim candidate(s):** `P72` (Green; named as “the victim”)
-  - **Murderer candidate(s):** `UNKNOWN` (narrator strongly implicated)
+  - **Murderer candidate(s):** `P106` (narrator; identity unknown)
   - **Means/method:** `UNKNOWN` (the narrator frames intent/duty, but does not name a method on this page)
   - **Motive:** `UNKNOWN` (moralising “duty” register; possible personal grievance)
   - **Opportunity:** Narrator frames the need to “do the thing” personally, implying direct access to the victim.
@@ -78,7 +78,7 @@ Track *in-world* death/murder hypotheses separately from page-ordering hypothese
 - `E05` (confidence: `0.30`; status: `active`)
   - **Pages:** Pages/cains_jawbone_page_80.md
   - **Victim candidate(s):** `P50` (Sir Paul Trinder)
-  - **Murderer candidate(s):** `UNKNOWN` (host narrator strongly implicated)
+  - **Murderer candidate(s):** `P107` (host narrator; identity unknown)
   - **Means/method:** aconite (aconitum) / Fleming’s tincture (as referenced) in the context of sherry
   - **Motive:** MAYBE connected to May (host wants to “do my best for May”)
   - **Opportunity:** Visitor arrives before lunch and is served drink while poisonous plant/preparation is foregrounded.
@@ -89,7 +89,7 @@ Track *in-world* death/murder hypotheses separately from page-ordering hypothese
 - `E06` (confidence: `0.85`; status: `active`)
   - **Pages:** Pages/cains_jawbone_page_81.md
   - **Victim candidate(s):** `P75` (window victim; identity unknown)
-  - **Murderer candidate(s):** `UNKNOWN` (narrator performs the act)
+  - **Murderer candidate(s):** `P104` (narrator; identity unknown)
   - **Means/method:** thrown from a window into water; LIKELY drowning
   - **Motive:** `UNKNOWN`
   - **Opportunity:** Victim blocks the open window and is within physical reach; narrator has immediate means to push/heave the victim outward.
@@ -177,7 +177,7 @@ Track *in-world* death/murder hypotheses separately from page-ordering hypothese
 - `E14` (confidence: `0.45`; status: `active`)
   - **Pages:** Pages/cains_jawbone_page_59.md, Pages/cains_jawbone_page_60.md
   - **Victim candidate(s):** `UNKNOWN` (poor fellow who “died strangely”); MAYBE `P50` (Sir Paul Trinder; “figurehead beard”)
-  - **Murderer candidate(s):** `UNKNOWN` (narrator implies success; “parson… with his collaborator… did the trick”)
+  - **Murderer candidate(s):** `P107` (narrator; identity unknown)
   - **Means/method:** `UNKNOWN`
   - **Motive:** `UNKNOWN`
   - **Opportunity:** Narrator is positioned to recount/influence events around a strange death investigation; later frames a specific “success” and a man “more dead”.
@@ -221,7 +221,7 @@ Track *in-world* death/murder hypotheses separately from page-ordering hypothese
 - `E18` (confidence: `0.35`; status: `active`)
   - **Pages:** Pages/cains_jawbone_page_77.md
   - **Victim candidate(s):** `UNKNOWN` (unnamed “first” victim; described via “bony ankles” warmth → cold)
-  - **Murderer candidate(s):** `UNKNOWN` (narrator explicitly “used it”)
+  - **Murderer candidate(s):** `P105` (narrator; identity unknown)
   - **Means/method:** “Compact” (a named tool used by the narrator; likely a weapon/implement)
   - **Motive:** `UNKNOWN` (narrator distinguishes a “political” killing from “my own” as “understandable”)
   - **Opportunity:** Narrator is “alone again” immediately after the act and frames tactile contact with the victim.
