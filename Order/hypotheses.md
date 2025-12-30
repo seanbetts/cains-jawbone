@@ -1425,6 +1425,10 @@ Template:
   - **Note:** treat as a narrative-continuity chain within `N09`, not a phrase-level lock.
   - **Disconfirming evidence:** “old man” is generic or the pronoun targets differ across pages.
 
+- **Sequence (confidence: CERTAIN):** `Pages/cains_jawbone_page_65.md → Pages/cains_jawbone_page_90.md`
+  - **Why:** Phrase-level continuation: Pages/cains_jawbone_page_65.md ends with “I thought I knew the type : learned in a macabre way, even distinguished.” and Pages/cains_jawbone_page_90.md opens “While my mind had been thus far away…” and repeats the exact “I thought I knew the type…” clause, reading as the immediate return from the earlier “mind far away” digression.
+  - **Disconfirming evidence:** Only if a third page is found using the same “mind far away” + “type : learned in a macabre way…” wording (breaking the uniqueness), or if the shared clause is shown to be a detachable quotation used across unrelated scenes.
+
 - **Sequence (confidence: CERTAIN):** `Pages/cains_jawbone_page_90.md → Pages/cains_jawbone_page_89.md`
   - **Why:** Page 90 introduces the grotesque old gentleman and the deer‑stalker drop in the “soigné” venue; Page 89 follows with “The ancient had then sat down…” and continues the same evaluation/memory-test beat (collops/Spey Royal + gold/silver “light” motifs stay in-register).
   - **Disconfirming evidence:** “among the heather” + moor/Spey Royal context on Page 89 is shown to be literal outdoors (not the same venue), or the “ancient” is demonstrably a different figure from Page 90’s old gentleman.
