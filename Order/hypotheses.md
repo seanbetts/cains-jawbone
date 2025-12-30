@@ -209,6 +209,7 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
   - **Why it might matter:** provides a rare phrase-level handle for stitching Pages/cains_jawbone_page_100.md into the late tail without relying only on singletons like Woolworth’s/Kursaal.
   - **Disconfirming evidence:** if no second independent anchor exists (shared cast/prop/place, or a second unique phrase echo), treat as rhetorical coincidence rather than continuity.
   - **Next falsification check:** search for any additional shared non-generic phrase or shared participant/mechanism between the art-world “jasmine bowl” scene and the Scotland Yard/Kursaal collapse.
+  - **Phase 6 test (2025-12-30):** scanned shared bigrams/trigrams across page bodies; no additional phrase-level overlap found beyond `believe me`.
 
 ### Falsified cross-narrator candidates (Phase 3)
 
