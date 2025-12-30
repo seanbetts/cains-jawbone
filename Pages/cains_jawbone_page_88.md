@@ -25,7 +25,8 @@ I always liked to listen to him. It was St. Wigbert’s day, I was told, and Aug
   - Social-observer stance: repetitive “He said… She said…” with narrator not fully understanding.
 - **Clustering hypotheses:**
   - CERTAIN: `N02` domestic-observer voice; Aug 13 daybook anchor (St. Wigbert’s day).
-  - CERTAIN: strong continuity hooks with Pages/cains_jawbone_page_48.md (Tate-sugar + “He said… She said…” register) and Pages/cains_jawbone_page_39.md (year‑tally + bet continuity); treat as continuity constraints `Pages/cains_jawbone_page_48.md → Pages/cains_jawbone_page_88.md` and `Pages/cains_jawbone_page_88.md → Pages/cains_jawbone_page_39.md` (see `Order/hypotheses.md`).
+  - CERTAIN (Phase 5 adjacency candidate): Pages/cains_jawbone_page_48.md → Pages/cains_jawbone_page_88.md (Tate-sugar anchor + shared “He said… She said…” register). See `Order/hypotheses.md`.
+  - CERTAIN (Phase 5 adjacency candidate): Pages/cains_jawbone_page_88.md → Pages/cains_jawbone_page_39.md (“how few the other had done so late in the year” → “it didn’t matter what they had done… two all for that year” + same cadence). See `Order/hypotheses.md`.
   - MAYBE: shares Tom/Jasmine household reference and a “listen to him” frame with Pages/cains_jawbone_page_46.md; treat as overlap unless time anchors can be reconciled.
 - **Disconfirming evidence:**
   - If St. Wigbert’s day is shown to be an in-world nickname rather than a calendar marker.

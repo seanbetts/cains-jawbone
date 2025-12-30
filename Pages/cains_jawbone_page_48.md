@@ -21,7 +21,7 @@ I had always thought that Tate essentially meant sugar. This I liked almost next
 - **Clustering hypotheses:**
   - CERTAIN: `N02` Dog POV (explicit “sad dog”; sugar hoarding; nose contact with Ecky).
   - CERTAIN: mid‑August daybook layer via Aug 12 Nahum Tate death-date (“another… wormed his way into the Book of Common Prayer”) + Tate-sugar anchor.
-  - CERTAIN: strong continuity hook with Pages/cains_jawbone_page_88.md via Tate-sugar + domestic “he… she…” observer register; treat as a continuity constraint `Pages/cains_jawbone_page_48.md → Pages/cains_jawbone_page_88.md` (see `Order/hypotheses.md`).
+  - CERTAIN (Phase 5 adjacency candidate): Pages/cains_jawbone_page_48.md → Pages/cains_jawbone_page_88.md (Tate-sugar anchor + shared “He said… She said…” domestic observer register + Aug 12 → Aug 13 daybook layer). See `Order/hypotheses.md`.
   - MAYBE: links to Pages/cains_jawbone_page_43.md via Ecky/Alexander recurrence.
 - **Disconfirming evidence:**
   - If later context makes the “nose” and “sad dog” language purely idiomatic (human narrator).

@@ -20,7 +20,8 @@ She said it didn’t matter what they had done, because she was still an M.D., a
   - MAYBE: animal-coded voice (coat/undercoat language; “pottered after rabbits”).
 - **Clustering hypotheses:**
   - CERTAIN: `N02` domestic-observer voice with naïve literalism (vicarious → vicar; coat/undercoat language).
-  - CERTAIN: strong continuity hooks to Pages/cains_jawbone_page_88.md (“how few the other had done so late in the year” ↔ “it didn’t matter what they had done” + “two all for that year”) and Pages/cains_jawbone_page_10.md (bet/third point follow-through); treat as Phase 4 adjacency candidates, not asserted order in Phase 3.
+  - CERTAIN (Phase 5 adjacency candidate): Pages/cains_jawbone_page_88.md → Pages/cains_jawbone_page_39.md (“how few the other had done so late in the year” ↔ “it didn’t matter what they had done… two all for that year”). See `Order/hypotheses.md`.
+  - CERTAIN (Phase 5 adjacency candidate): Pages/cains_jawbone_page_39.md → Pages/cains_jawbone_page_10.md (“They made a bet.” ↔ Pages/cains_jawbone_page_10.md’s bet/“third point” formulation). See `Order/hypotheses.md`.
   - MAYBE: belongs with other bet/points pages if “points” scoring language recurs as a shared domestic motif.
 - **Disconfirming evidence:**
   - If later reveals “M.D.” isn’t an academic degree but another acronym used repeatedly by this narrator.
