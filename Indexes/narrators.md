@@ -94,7 +94,7 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_12.md, Pages/cains_jawbone_page_14.md
   - **Confidence:** `LIKELY`
   - **Disconfirming evidence:** May/Henry context proves incompatible across the two pages, or will/document language is shown to be a one-off motif rather than a recurring narrator signature.
-  - **Notes:** Potential thematic overlap with will/forgery pages (Pages/cains_jawbone_page_28.md, Pages/cains_jawbone_page_50.md, Pages/cains_jawbone_page_78.md), but do not merge on motif alone.
+  - **Notes:** LIKELY within-voice order: Pages/cains_jawbone_page_14.md → Pages/cains_jawbone_page_12.md (eavesdropped will-talk to May + cleanup beat → document scene; spilled wine plausibly precedes “very bad head”). Falsification check (2025-12-30): Page 14’s “leave everything to me… May” / “dejected flesh” / “Janetta Sheringham” and Page 12’s “pronated finger-tips” / “abstracted will” / “velvet… cinders” / “small topaz searchlights” appear only on those pages; keep separate from Page 75’s broader “searchlights… documents” metaphor (cross-voice lock). Potential thematic overlap with will/forgery pages (Pages/cains_jawbone_page_28.md, Pages/cains_jawbone_page_50.md, Pages/cains_jawbone_page_78.md), but do not merge on motif alone.
 
 - `N11` — De’Ath (“Black Museum”) narrator:
   - **Signature tells:** self-identification via nameplay (DEATH → De’Ath/DeAth) including orthographic “instruction” phrasing; private “Black Museum” crime-collection framing; macabre exhibit anecdotes; self-mythologising criminal/detective register.

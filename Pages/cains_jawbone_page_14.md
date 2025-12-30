@@ -17,6 +17,7 @@ My ears were becoming attuned, and for the first time I heard clearly what the w
   - Eavesdropping, then retreat (“none of my business”); memory-driven associative leaps.
 - **Clustering hypotheses:**
   - CERTAIN: links strongly with Pages/cains_jawbone_page_12.md (overheard “leave everything… May” + spilled wine/flesh cleanup beat ↔ “documents/abstracted will” scene). LIKELY within-voice order: `Pages/cains_jawbone_page_14.md → Pages/cains_jawbone_page_12.md`; see `Order/hypotheses.md` (`N10`).
+  - Falsification check (2025-12-30): scanned page bodies for “leave everything to me… May” / “dejected flesh” / “Janetta Sheringham” and found no third-page repeats; keep `Pages/cains_jawbone_page_14.md → Pages/cains_jawbone_page_12.md` as `LIKELY` only (not a hard adjacency).
   - MAYBE: Pages/cains_jawbone_page_12.md ↔ Pages/cains_jawbone_page_14.md remains possible if “ears becoming attuned” is a later payoff of earlier document intelligence-gathering.
   - MAYBE: Henry-appears-as-assistant cluster with Pages/cains_jawbone_page_13.md (Henry dealing with bodies/cleanup).
 - **Disconfirming evidence:**

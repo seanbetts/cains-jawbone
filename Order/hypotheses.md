@@ -1205,6 +1205,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - If Page 12’s document scene comes first, it could prime the narrator’s sensitivity (“I would get… what I wanted”) before the later overheard inheritance beat on Page 14 (“my ears were becoming attuned… for the first time I heard clearly”).
       - **Disconfirming evidence:**
         - Any explicit “next day”/before-after marker emerges that forces one direction.
+  - **Falsification check (2025-12-30):** scanned page bodies for higher-signal `N10` anchors and found no third-page repeats of Page 14’s “leave everything to me… May”, “dejected flesh”, or “Janetta Sheringham”, and no third-page repeats of Page 12’s “pronated finger-tips”, “abstracted will”, “velvet… cinders”, or “small topaz searchlights” phrasing; the only nearby overlap is the broader “searchlights… documents” metaphor with Pages/cains_jawbone_page_75.md (cross-voice lock; not will/May-specific). Keep Sequence A as `LIKELY` (not `CERTAIN`) until a second independent continuity marker ties the scenes.
   - **Next falsification check:** require a phrase-level anchor beyond generic “will/documents” (e.g., “velvet/cinders,” topaz-searchlight eyes, Henry-as-servant in a document scene, or May addressed again) before expanding this beyond a two-page voice pairing.
 
 - **Cluster:** Wills and inheritance (confidence: `MAYBE`)
