@@ -54,15 +54,15 @@ Track *in-world* death/murder hypotheses separately from page-ordering hypothese
   - **Falsifiers:** Later context shows the “old man” survives, the death is metaphorical, or the scene is revealed as purely recollected/hypothetical rather than witnessed.
 
 - `E03` (confidence: `0.35`; status: `active`)
-  - **Pages:** Pages/cains_jawbone_page_76.md, Pages/cains_jawbone_page_77.md
+  - **Pages:** Pages/cains_jawbone_page_76.md
   - **Victim candidate(s):** `P72` (Green; named as “the victim”)
   - **Murderer candidate(s):** `UNKNOWN` (narrator strongly implicated)
-  - **Means/method:** `UNKNOWN` / “Compact” (term for a tool/weapon; needs ID)
+  - **Means/method:** `UNKNOWN` (the narrator frames intent/duty, but does not name a method on this page)
   - **Motive:** `UNKNOWN` (moralising “duty” register; possible personal grievance)
-  - **Opportunity:** Narrator frames the need to “do the thing” personally and then reflects on a first killing.
-  - **Narrative tells:** Heavy self-justification; de Quincey murder-aesthetics reference; tactile aftermath (warm ankles → cold).
-  - **Evidence summary:** An in-world victim is explicitly named (Green) and a first murder is confessed/reflected upon in close proximity.
-  - **Falsifiers:** “Green” is not an in-world person, or Page 77’s “my first” is not a killing connected to the named victim.
+  - **Opportunity:** Narrator frames the need to “do the thing” personally, implying direct access to the victim.
+  - **Narrative tells:** Heavy self-justification; de Quincey murder-aesthetics reference; explicit victim naming (“Green”).
+  - **Evidence summary:** An in-world victim is explicitly named as “the victim” (Green), but the page does not (by itself) prove the killing has already occurred.
+  - **Falsifiers:** “Green” is not an in-world person, or the “victim” framing is hypothetical/metaphorical with no in-world harm.
 
 - `E04` (confidence: `0.30`; status: `active`)
   - **Pages:** Pages/cains_jawbone_page_78.md
@@ -217,3 +217,14 @@ Track *in-world* death/murder hypotheses separately from page-ordering hypothese
   - **Narrative tells:** The voice strongly reads as non-human/naïve (chop reward), which may reduce this to an animal-kill/idiom rather than a human murder.
   - **Evidence summary:** The page contains an explicit “I killed” admission tied to “Tom” and “Jasmine”, but context makes literal human murder uncertain.
   - **Falsifiers:** Later context confirms this is animal POV and “Tom” is a cat/animal (or the line is purely idiomatic/metaphorical).
+
+- `E18` (confidence: `0.35`; status: `active`)
+  - **Pages:** Pages/cains_jawbone_page_77.md
+  - **Victim candidate(s):** `UNKNOWN` (unnamed “first” victim; described via “bony ankles” warmth → cold)
+  - **Murderer candidate(s):** `UNKNOWN` (narrator explicitly “used it”)
+  - **Means/method:** “Compact” (a named tool used by the narrator; likely a weapon/implement)
+  - **Motive:** `UNKNOWN` (narrator distinguishes a “political” killing from “my own” as “understandable”)
+  - **Opportunity:** Narrator is “alone again” immediately after the act and frames tactile contact with the victim.
+  - **Narrative tells:** Self-positioning (“Don’t think me squeamish ; it was my first.”) + concrete bodily aftermath strongly signals an in-world killing, while the Spencer Perceval references read as a historical/allusive layer rather than the in-world victim’s identity.
+  - **Evidence summary:** Page 77 contains a strong in-world first-murder confession with a named implement (“Compact”), but victim identity and linkage to other deaths remain unclear.
+  - **Falsifiers:** “my first” is shown to refer to something non-lethal (or purely figurative), “Compact” is shown not to be a weapon/means of harm, or later pages explicitly identify the victim in a way that collapses this into a different event record.

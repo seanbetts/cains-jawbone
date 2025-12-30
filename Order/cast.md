@@ -94,9 +94,9 @@ Track people as candidates with evolving roles. This file is deliberately probab
   - **Aliases / names used:** Green
   - **Role candidate:** `victim`
   - **Confidence (0.0–1.0):** 0.45
-  - **Supporting pages:** Pages/cains_jawbone_page_76.md, Pages/cains_jawbone_page_77.md
-  - **Evidence summary:** Explicitly named as “the victim” (Green); adjacent page reflects on a “first” killing, plausibly tied to that victim.
-  - **Falsifiers:** “Green” is revealed as a non-personal epithet/joke, or Page 77’s “my first” is unrelated to the named victim.
+  - **Supporting pages:** Pages/cains_jawbone_page_76.md
+  - **Evidence summary:** Explicitly named as “the victim” (Green) in a self-justifying murder-planning register.
+  - **Falsifiers:** “Green” is revealed as a non-personal epithet/joke (not an in-world person), or the page’s “victim” framing is shown to be hypothetical/metaphorical with no in-world death.
   - **Status:** `active`
 
 - `P50`
