@@ -66,9 +66,9 @@ Track people as candidates with evolving roles. This file is deliberately probab
 - `P107`
   - **Aliases / names used:** poison-logistics host narrator (aconite/digitalis/gelsemium; unknown)
   - **Role candidate:** `murderer`
-  - **Confidence (0.0–1.0):** 0.35
+  - **Confidence (0.0–1.0):** 0.45
   - **Supporting pages:** Pages/cains_jawbone_page_6.md, Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_29.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_59.md, Pages/cains_jawbone_page_60.md, Pages/cains_jawbone_page_80.md
-  - **Evidence summary:** Repeated poison-means staging (digitalis/gelsemium/aconite) and a claimed death-success register (Pages 59–60), plus a hosted aconite setup aimed at Sir Paul (Page 80).
+  - **Evidence summary:** Repeated poison-means staging (digitalis/gelsemium/aconite) and a claimed death-success register (Pages 59–60), now with a strengthened read that the “figurehead beard” death is Sir Paul Trinder (Pages 53, 59–60), plus a hosted aconite setup aimed at Sir Paul (Page 80).
   - **Falsifiers:** The poison scenes are later shown to be non-administrative (no ingestion/outcome), the “success” language resolves as figurative/quoted, or the pages are shown not to belong to a single narrator/person.
   - **Status:** `active`
 
@@ -138,10 +138,10 @@ Track people as candidates with evolving roles. This file is deliberately probab
 - `P50`
   - **Aliases / names used:** Sir Paul Trinder
   - **Role candidate:** `victim`
-  - **Confidence (0.0–1.0):** 0.40
+  - **Confidence (0.0–1.0):** 0.65
   - **Supporting pages:** Pages/cains_jawbone_page_53.md, Pages/cains_jawbone_page_59.md, Pages/cains_jawbone_page_60.md, Pages/cains_jawbone_page_80.md
-  - **Evidence summary:** Introduced with a distinctive beard; later a detective-sergeant is investigating a strange death while Trinder is “about”; a subsequent “success” claim suggests a “figurehead beard” will “plough… no more” (possibly Trinder); separately, aconitum/Fleming’s tincture is foregrounded in a hosted sherry scene.
-  - **Falsifiers:** “Figurehead beard” is confirmed as someone else, or Trinder is later shown alive/unharmed and the poison framing resolves as non-lethal or unrelated.
+  - **Evidence summary:** Introduced with a distinctive beard; later Trinder is explicitly “about” during poison-register staging, and the narrator claims a “success” leaving a “figurehead beard” to “plough… no more,” strongly consistent with an in-world Trinder death.
+  - **Falsifiers:** “Figurehead beard” is confirmed as someone else, or Trinder is later shown alive/unharmed and the death language resolves as allusive/figurative.
   - **Status:** `active`
 
 - `P75`
