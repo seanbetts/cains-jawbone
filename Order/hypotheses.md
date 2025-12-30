@@ -210,6 +210,7 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
   - **Disconfirming evidence:** if no second independent anchor exists (shared cast/prop/place, or a second unique phrase echo), treat as rhetorical coincidence rather than continuity.
   - **Next falsification check:** search for any additional shared non-generic phrase or shared participant/mechanism between the art-world “jasmine bowl” scene and the Scotland Yard/Kursaal collapse.
   - **Phase 6 test (2025-12-30):** scanned shared bigrams/trigrams across page bodies; no additional phrase-level overlap found beyond `believe me`.
+  - **Phase 6 test (2025-12-30):** checked for any shared named anchors (people/place/prop) between the two page bodies; none found (no overlapping proper nouns; their concrete anchors are disjoint). Outcome: `UNCLEAR` → keep as a low-weight phrase echo only.
 
 ### Falsified cross-narrator candidates (Phase 3)
 
