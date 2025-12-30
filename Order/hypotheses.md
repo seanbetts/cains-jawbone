@@ -1754,9 +1754,12 @@ These are the **highest-risk segment joins** inside the v2 full ordering draft. 
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_46.md → Pages/cains_jawbone_page_100.md
   - **Why:** no direct continuation; Pages/cains_jawbone_page_100.md has Scotland Yard + “buttonhole” and a collapsing narrator, while Pages/cains_jawbone_page_46.md is a dog-coded aside with a different domestic register.
-  - **Bridge candidate (direction unknown):** Pages/cains_jawbone_page_100.md ↔ Pages/cains_jawbone_page_4.md (unique “buttonhole” word echo), and Pages/cains_jawbone_page_100.md ↔ Pages/cains_jawbone_page_91.md (unique Scotland Yard / “Black Museum” institutional overlap + Henry present on both pages).
+  - **Bridge candidates (direction unknown):**
+    - Pages/cains_jawbone_page_100.md ↔ Pages/cains_jawbone_page_4.md (unique “buttonhole” word echo).
+    - Pages/cains_jawbone_page_100.md ↔ Pages/cains_jawbone_page_91.md (unique Scotland Yard / “Black Museum” institutional overlap + Henry present on both pages), though this is now lower priority given the stronger `Pages/cains_jawbone_page_80.md → Pages/cains_jawbone_page_91.md` placement.
+    - Pages/cains_jawbone_page_100.md ↔ Pages/cains_jawbone_page_38.md (Southend anchor: Kursaal ↔ “tragic fortnight at Southend”), as a potential way to stitch the coda into the current tail.
   - **Falsifier:** Pages/cains_jawbone_page_100.md is later shown to be purely rhetorical (no in-world collapse), or the “buttonhole” echo is found on a third page (making it non-unique).
-  - **Next falsification check:** search for a second anchor tying Pages/cains_jawbone_page_100.md to the `N19` coastal comic voice (Pages/cains_jawbone_page_4.md) beyond the “buttonhole” word.
+  - **Next falsification check:** test whether any second anchor links Pages/cains_jawbone_page_100.md to either Pages/cains_jawbone_page_4.md (beyond “buttonhole”) or Pages/cains_jawbone_page_38.md (beyond Southend), or identify a third page that names Woolworth’s/Kursaal.
   - **Phase 6 test (2025-12-30):** re-read the Pages/cains_jawbone_page_46.md ending and Pages/cains_jawbone_page_100.md opening; found no continuity marker at the boundary and no shared unique anchor that would justify immediate adjacency.
   - **Outcome:** `UNCLEAR` (keep as placeholder; continue testing Pages/cains_jawbone_page_100.md against Pages/cains_jawbone_page_4.md and Pages/cains_jawbone_page_91.md as potential stitch points).
 
