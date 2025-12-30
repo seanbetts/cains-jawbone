@@ -1411,6 +1411,10 @@ Template:
   - **Why:** Immediate continuation: Page 74’s “red rose and the white… remained” → Page 75’s “those two other flowers,” and Page 74’s “them” (secret purchases) → Page 75’s “orange tinted documents,” with matching eyesight-failure emphasis.
   - **Disconfirming evidence:** Only if “those two other flowers” and the “orange tinted documents” are later shown to be unrelated to Page 74’s scene/items (coincidental overlap).
 
+- **Sequence (confidence: CERTAIN):** `Pages/cains_jawbone_page_10.md → Pages/cains_jawbone_page_99.md → Pages/cains_jawbone_page_8.md → Pages/cains_jawbone_page_19.md`
+  - **Why:** A three-link continuity chain: Page 10 ends “My mistress wore them” and Page 99 opens “And she wore…”; Page 99’s unequal bow ends + missing “jossers” is followed by Page 8’s “Later… same bow… trimmed the left end”; Page 8’s “black knobby thing” call-bell + Mr. Hall entrance is followed by Page 19’s “polished knob” + Mr. Hall coming in “again”.
+  - **Disconfirming evidence:** Only if any of these hooks is found reused elsewhere in a tighter match (a different “And she wore…” continuation, a separate bow/jossers-trimming episode, or a distinct Mr. Hall/call-bell context).
+
 - **Sequence (confidence: MAYBE):** `Pages/cains_jawbone_page_85.md → Pages/cains_jawbone_page_82.md`
   - **Why:** Both are table scenes with Henry present and a nearby dog; Page 85’s “weary business… ended” closure reads like it can precede Page 82’s stationary comedown at a familiar table (“cold weight of my certainty”) after witnessing “carnal, bloody and unnatural acts.”
   - **Disconfirming evidence:** settings or Henry’s role clearly diverge, or another page bridges the continuity.

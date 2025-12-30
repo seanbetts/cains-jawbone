@@ -21,7 +21,7 @@ Then came Hyacinth’s day. He laughed when he remembered that, as we were walki
   - Social observation + mild contempt (Boots’ speech; “childish”); sexual/romantic weariness (“tire of her already”).
 - **Clustering hypotheses:**
   - CERTAIN: `N02` Dog POV; strong phrase-level continuity with Pages/cains_jawbone_page_39.md (bet/score expansion: “two all… They made a bet” ↔ “went back two days… formulated their bet… third point”).
-  - CERTAIN: mid‑August daybook layer (Aug 16 Hyacinth’s day) with a strong continuity hook to Pages/cains_jawbone_page_99.md (“My mistress wore them” ↔ “And she wore…” + shared Jasmine parenthetical); treat as Phase 4 adjacency candidates, not asserted order in Phase 3.
+  - CERTAIN (Phase 5 adjacency candidate): Pages/cains_jawbone_page_10.md → Pages/cains_jawbone_page_99.md (phrase continuation “My mistress wore them” ↔ “And she wore…”, plus shared “…, as X … called them” parenthetical + mid‑August daybook anchors). See `Order/hypotheses.md`.
 - **Disconfirming evidence:**
   - If “Hyacinth’s day/Jasmine’s day” are shown to be private nicknames rather than public calendar anchors.
   - If “jossers” on Pages/cains_jawbone_page_99.md is not the cutting/adjusting tool for the bow ends (weakening the singular/plural vocabulary continuity read).

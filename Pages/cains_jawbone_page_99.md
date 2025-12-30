@@ -23,7 +23,9 @@ And she wore a mauve love-knot on her breast, and the ends were unequal. He said
   - CERTAIN: the “most excellent… brilliant eyes… azure-grey… rapidity resting on depth” description is Carlyle on Friedrich (quoted via James Thomson): https://en.wikisource.org/wiki/Biographical_and_critical_studies_by_James_Thomson_(%22B.V.%22)/%22The_Ring_and_the_Book%22.
   - CERTAIN: “closing day in Potsdam” points to Frederick II’s death at Sanssouci (Potsdam) on 17 Aug 1786 (EB1911): https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Frederick_II._of_Prussia.
 - **Clustering hypotheses:**
-  - CERTAIN: `N02` Dog POV; strong continuity hooks to Pages/cains_jawbone_page_8.md (bow/jossers trimming) and Pages/cains_jawbone_page_10.md (Jasmine parenthetical + “My mistress wore them” ↔ “And she wore…” opening), treat as Phase 4 adjacency candidates (not asserted order in Phase 3).
+  - CERTAIN: `N02` Dog POV.
+  - CERTAIN (Phase 5 adjacency candidate): Pages/cains_jawbone_page_10.md → Pages/cains_jawbone_page_99.md (“My mistress wore them” ↔ “And she wore…” opening + shared “…, as X … called them” parenthetical). See `Order/hypotheses.md`.
+  - CERTAIN (Phase 5 adjacency candidate): Pages/cains_jawbone_page_99.md → Pages/cains_jawbone_page_8.md (unequal bow ends + missing “jossers” → later “same bow… trimmed the left end”). See `Order/hypotheses.md`.
   - CERTAIN: mid‑August daybook layer via Aug 17 “closing day in Potsdam” (Frederick II death at Sanssouci).
 - **Disconfirming evidence:**
   - If “killed” refers to an animal kill or metaphor rather than one of the in-world murders.

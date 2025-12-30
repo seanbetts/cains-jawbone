@@ -22,7 +22,8 @@ Yesterday he got in another of his own kind, who agreed she’d done it all hers
 - **Voice/tells:**
   - Outsider/naïve social position (ears pulled); unexpected love of music with “my people” origin clue.
 - **Clustering hypotheses:**
-  - CERTAIN: `N02` Dog POV; shares the Mr. Hall call-bell/knob mechanic with Pages/cains_jawbone_page_8.md (high-signal continuity hook; Phase 4 adjacency candidate, not asserted order in Phase 3).
+  - CERTAIN: `N02` Dog POV.
+  - CERTAIN (Phase 5 adjacency candidate): Pages/cains_jawbone_page_8.md → Pages/cains_jawbone_page_19.md (call-bell/knob + Mr. Hall continuation: Pages/cains_jawbone_page_8.md ends “twiddled the black knobby thing, and Mr. Hall burst in upon us”; this page continues “twiddled the polished knob and Mr. Hall came into the room again”). See `Order/hypotheses.md`.
   - LIKELY: mid‑August daybook layer via Balzac Aug 18 “to-day” + “Yesterday” framing; treat as a time-constraint surface, not a sequence claim in Phase 3.
   - LIKELY: shares a Skye/pedigree register with Pages/cains_jawbone_page_46.md (“my people… McCrimmons” ↔ “our island” + Maltese breed-rumour framing), supporting continuity of the same dog narrator across the late-year beat.
 - **Disconfirming evidence:**

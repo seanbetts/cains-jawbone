@@ -38,7 +38,9 @@ LIKELY WORDPLAY
   - Naïve about optics (“never could quite understand how it worked”); self-deprecating (“better brain”).
   - LIKELY dog-coded appetite tell: “sausage place… furtively I knew how excellent” reads more naturally as a non-human POV (secret food knowledge) than as human travel-talk.
 - **Clustering hypotheses:**
-  - CERTAIN: `N02` Dog POV (high-risk member), with two strong continuity hooks: bow/jossers with Pages/cains_jawbone_page_99.md and the Mr. Hall call-bell/knob mechanic with Pages/cains_jawbone_page_19.md (treat as Phase 4 adjacency candidates, not asserted order in Phase 3).
+  - CERTAIN: `N02` Dog POV (high-risk member).
+  - CERTAIN (Phase 5 adjacency candidate): Pages/cains_jawbone_page_99.md → Pages/cains_jawbone_page_8.md (unequal bow ends + missing “jossers” → “Later she was wearing the same bow… and that time he found them and trimmed the left end.”). See `Order/hypotheses.md`.
+  - CERTAIN (Phase 5 adjacency candidate): Pages/cains_jawbone_page_8.md → Pages/cains_jawbone_page_19.md (call-bell/knob mechanic: “twiddled the black knobby thing, and Mr. Hall burst in” → “twiddled the polished knob and Mr. Hall came into the room again”). See `Order/hypotheses.md`.
   - MAYBE: part of a mid‑August daybook layer (Aug 18 anchor); treat as a time-constraint surface, not a sequence claim in Phase 3.
 - **Disconfirming evidence:**
   - If later evidence makes “powerful glass” an unequivocally hand-held optical tool operated by the narrator (human-only physical action), downgrade this page from core `N02` to shared domestic-scene overlap (it would still be adjacent to Pages/cains_jawbone_page_19.md by the Mr. Hall call-bell mechanic).
