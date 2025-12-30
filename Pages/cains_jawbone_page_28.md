@@ -17,6 +17,7 @@ I found myself by that one of the windows which overlooked the stone broach spir
   - Dry evasiveness (“No, Sir; it is not a very interesting subject…”); self-contradictory marriage talk may be a quotation/echo.
 - **Clustering hypotheses:**
   - CERTAIN: `N39` will/forgery voice pairing with Pages/cains_jawbone_page_50.md (unique will/forgery operational bundle + shared *Importance of Being Earnest* layer). LIKELY within-voice order: `Pages/cains_jawbone_page_28.md → Pages/cains_jawbone_page_50.md`; see `Order/hypotheses.md` (`N39`).
+  - Falsification check (2025-12-30): searched page bodies for Pluckley/Kent + spire + “ticklish business” + binding device and found no third-page matches; keep this as a tight two-page voice until a new anchor emerges.
   - MAYBE: links to wills/inheritance/document cluster (Pages/cains_jawbone_page_12.md, Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_18.md).
 - **Disconfirming evidence:**
   - If “forging ahead” later proves to be a non-criminal metaphor unrelated to documents.
