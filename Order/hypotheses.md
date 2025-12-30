@@ -1634,11 +1634,15 @@ These are the **highest-risk segment joins** inside the v2 full ordering draft. 
   - **Why:** current v2 boundary between otherwise stable blocks; no shared named entity/prop/quote continuation has been identified.
   - **Falsifier:** any page-level constraint forces Pages/cains_jawbone_page_52.md to sit adjacent to a different predecessor (e.g., a quote continuation or a unique scene-mechanic continuation).
   - **Next falsification check:** look for a second distinctive bridge anchor into the Pages/cains_jawbone_page_52.md / Pages/cains_jawbone_page_53.md interview scene beyond generic “papers/ham” (door/action, named participant, quote).
+  - **Phase 6 test (2025-12-30):** re-read the Pages/cains_jawbone_page_24.md ending and Pages/cains_jawbone_page_52.md opening; found no continuity marker (shared participant/prop/place/time) and no mid-sentence or quote carryover, and corpus scan shows Pages/cains_jawbone_page_52.md’s distinctive anchors (“quicksands of crime”; “end of my interview”) do not recur elsewhere to force a different predecessor.
+  - **Outcome:** `UNCLEAR` (keep as a placeholder join until a positive continuity marker is found).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_91.md → Pages/cains_jawbone_page_86.md
   - **Why:** both pages use “Next day” and both name “Henry,” but `Henry` is an overloaded label across the corpus; no setting/prop/quote continuity is currently known.
   - **Falsifier:** Pages/cains_jawbone_page_91.md gains a stronger attachment to a different crime/detection segment (e.g., Scotland Yard on Pages/cains_jawbone_page_100.md, or aconite on Pages/cains_jawbone_page_80.md), or Pages/cains_jawbone_page_86.md / Pages/cains_jawbone_page_87.md are anchored by a local “next day” predecessor that is not Pages/cains_jawbone_page_91.md.
   - **Next falsification check:** re-scan for any unique noun/prop bundle shared by Pages/cains_jawbone_page_91.md and the `N13` coastal house segment (Sanders, bay-house setting, dead-man’s letter).
+  - **Phase 6 test (2025-12-30):** re-read the Pages/cains_jawbone_page_91.md ending and Pages/cains_jawbone_page_86.md opening; beyond the generic “Next day” frame and an overloaded `Henry` name, no shared prop/quote/place marker appears at the boundary.
+  - **Outcome:** `UNCLEAR` (do not upgrade without a second independent anchor beyond “Next day” + `Henry`).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_57.md → Pages/cains_jawbone_page_33.md
   - **Why:** no phrase/scene continuation known; Pages/cains_jawbone_page_57.md is currently held in `N02` primarily via the “my people”/Skye register and dog-as-listener framing, while Pages/cains_jawbone_page_33.md is a coercive debts/letter scene.
@@ -1647,6 +1651,8 @@ These are the **highest-risk segment joins** inside the v2 full ordering draft. 
     - Pages/cains_jawbone_page_33.md ↔ Pages/cains_jawbone_page_10.md (unique Gourdoulis 100-box prop).
   - **Falsifier:** Pages/cains_jawbone_page_57.md is later forced into a non-dog setting (breaking `N02`), or Pages/cains_jawbone_page_33.md gains a second, stronger anchor to a different successor (beyond the current debts/bills bundle with Pages/cains_jawbone_page_34.md).
   - **Next falsification check:** search for any third instance of the Pages/cains_jawbone_page_57.md scene mechanism (Westphalian ham + “bits of paper” reading) that would triangulate placement.
+  - **Phase 6 test (2025-12-30):** re-read the Pages/cains_jawbone_page_57.md ending and Pages/cains_jawbone_page_33.md opening; no continuity marker appears at the boundary (no repeated participant, object, or quoted source layer).
+  - **Outcome:** `UNCLEAR` (keep as placeholder; prioritize finding a bridge page for either the ham/papers mechanism or the Gourdoulis prop).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_34.md → Pages/cains_jawbone_page_96.md
   - **Why:** no direct continuation; the pages feel like different “registers” (coercive bills/manipulation vignette → café/meeting/menu register).
@@ -1655,17 +1661,23 @@ These are the **highest-risk segment joins** inside the v2 full ordering draft. 
     - Pages/cains_jawbone_page_96.md ↔ Pages/cains_jawbone_page_68.md (memory-trigger phrasing: “touched a chord of memory” ↔ “How vividly… How it all comes back.”).
   - **Falsifier:** either bridge candidate resolves as non-unique (a third page contains the same “innocent child” or memory-trigger phrasing), or a new quote/prop continuity anchors Pages/cains_jawbone_page_96.md firmly to a different local run.
   - **Next falsification check:** confirm whether Pages/cains_jawbone_page_96.md shares any second anchor with the Pages/cains_jawbone_page_95.md ↔ Pages/cains_jawbone_page_70.md letter thread (shared named participant, shared location, or shared document/blackmail mechanic).
+  - **Phase 6 test (2025-12-30):** re-read the Pages/cains_jawbone_page_34.md ending and Pages/cains_jawbone_page_96.md opening; found no continuity marker at the boundary. Note: Pages/cains_jawbone_page_96.md shares the unique 7‑gram “if I may be permitted the expression” with Pages/cains_jawbone_page_29.md, so p96 may ultimately stitch more cleanly near the `N12` poison-logistics material than here.
+  - **Outcome:** `UNCLEAR` (retain as placeholder; keep the Pages/cains_jawbone_page_29.md ↔ Pages/cains_jawbone_page_96.md phrase-echo as an active alternative hypothesis to test).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_70.md → Pages/cains_jawbone_page_14.md
   - **Why:** no direct continuation; Pages/cains_jawbone_page_70.md ends on threat/retaliation anxiety and a franked note, while Pages/cains_jawbone_page_14.md is a separate will/inheritance eavesdropping scene.
   - **Bridge candidate (direction unknown):** Pages/cains_jawbone_page_70.md ↔ Pages/cains_jawbone_page_68.md / Pages/cains_jawbone_page_69.md (shared “old man” framing + aftermath motivation for producing the “hour by hour, day by day” written account).
   - **Falsifier:** Pages/cains_jawbone_page_14.md gains a stronger adjacent successor/predecessor (beyond the current `Pages/cains_jawbone_page_14.md → Pages/cains_jawbone_page_12.md` link) that forces it away from the letter/blackmail material.
   - **Next falsification check:** verify whether Pages/cains_jawbone_page_68.md / Pages/cains_jawbone_page_69.md contain any forward reference to the “franked… in the morning” note mechanics (or to the Eros/Queen’s Hall London corridor detail).
+  - **Phase 6 test (2025-12-30):** re-read the Pages/cains_jawbone_page_70.md ending and Pages/cains_jawbone_page_14.md opening; no explicit continuation is present, and the shared “ears/listening” register is too generic to use as an anchor.
+  - **Outcome:** `UNCLEAR` (keep as placeholder; treat as a likely re-stitch point once the `N09` strands are unified or ruled out).
 
-- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_83.md → Pages/cains_jawbone_page_2.md
-  - **Why:** no direct continuation; overlap is currently limited to the overloaded name “Henry” (present on both pages, but with no shared role/setting anchor).
-  - **Falsifier:** Pages/cains_jawbone_page_2.md gains a stronger attachment to a London decoding/letter thread (rather than a “Henry in a crowd” scene), or Pages/cains_jawbone_page_83.md gains a direct continuity hook into another `N06`-adjacent page beyond its current internal rose/old-man sequence.
-  - **Next falsification check:** search for a second anchor in Pages/cains_jawbone_page_2.md beyond “London/Henry” (same quoted source fragment, same “figures and letters” decoding mechanic, or the same described woman).
+- **Join (confidence: `LIKELY`):** Pages/cains_jawbone_page_83.md → Pages/cains_jawbone_page_2.md
+  - **Why:** Pages/cains_jawbone_page_83.md ends with the disruptive “late night final” newsboys beat and explicit anxiety about whether there will be any news, while Pages/cains_jawbone_page_2.md opens with a “figures and letters” reading/decoding finish-line (“getting my money’s worth”), which reads like an immediate follow-through on buying/reading the paper. `Henry` is also present on both pages (summoned “cat-like” on Page 83; “Where was Henry?” on Page 2).
+  - **Falsifier:** Pages/cains_jawbone_page_2.md’s “figures and letters” is shown to be a different in-world decoding mechanic (not newspaper/news-related) and/or the `Henry` on the two pages is demonstrably different (forcing the overlap to be coincidental).
+  - **Next falsification check:** look for any third page that shares either (a) the “late night final” newsboys beat or (b) the “money’s worth / figures and letters” decoding finish-line to triangulate placement (current corpus scan: both anchors appear only on these pages).
+  - **Phase 6 test (2025-12-30):** re-read the Pages/cains_jawbone_page_83.md ending and Pages/cains_jawbone_page_2.md opening; confirmed the news → reading/decoding continuity is the strongest available interpretation, and no competing page repeats either anchor.
+  - **Outcome:** `PASS` (upgrade join from `MAYBE` to `LIKELY`).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_98.md → Pages/cains_jawbone_page_77.md
   - **Why:** no direct continuation; there is only a *possible* calendar-layer alignment (“May be” pun on Pages/cains_jawbone_page_98.md ↔ the May 11 Perceval anchor on Pages/cains_jawbone_page_77.md).
