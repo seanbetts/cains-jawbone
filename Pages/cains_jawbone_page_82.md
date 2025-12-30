@@ -57,7 +57,7 @@ LIKELY WORDPLAY
 - **Clustering hypotheses:**
   - CERTAIN: `N08` King narrator cluster (Henry in-scene; cryptic/anagram play; table + tea + dog framing).
   - LIKELY: linked to Pages/cains_jawbone_page_15.md via Bart ↔ Bartholomew (dog name) at the table; treat as a strong thread lock (directionless) rather than adjacency.
-  - MAYBE: shares a table-bound comedown register with Pages/cains_jawbone_page_85.md (table scene; dog present; “weary business ended” ↔ “staring at the table”); treat as a Phase 4 adjacency candidate only if a second prop/phrase hook appears.
+  - MAYBE: shares a table-bound comedown register with Pages/cains_jawbone_page_85.md (table scene; dog present; “weary business ended” ↔ “staring at the table”); falsification check (2025-12-30) found no second prop/phrase hook (salt-cellar unique to p85; biscuits unique to p82; Lapsang also appears on Pages/cains_jawbone_page_17.md) → keep as overlap-only (no adjacency assumption).
 - **Disconfirming evidence:**
   - If Henry/dog/setting here is clearly incompatible with Pages/cains_jawbone_page_85.md, or a stronger anchor places this page in a different narrator cluster.
 - **Research needed:**
