@@ -1131,7 +1131,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - Pages/cains_jawbone_page_69.md’s Hamlet night-time cue (“yon same star…”) fits as a same-night aftermath beat after the “meeting” concern in Pages/cains_jawbone_page_68.md.
       - **Disconfirming evidence:**
         - The “old man” is shown to be different referents on Pages/cains_jawbone_page_68.md vs Pages/cains_jawbone_page_69.md, or Pages/cains_jawbone_page_68.md’s Selby/Latham Chapel setting is later shown to be incompatible with the witnessed-death situation on Pages/cains_jawbone_page_69.md.
-  - **Falsification check (2025-12-30):** re-scanned for cross-strand anchors tying the Selby/Latham/Kreisler/Ragtime segment (Pages/cains_jawbone_page_68.md, Pages/cains_jawbone_page_69.md) to the Café Royal/letter segment (Pages/cains_jawbone_page_96.md, Pages/cains_jawbone_page_95.md, Pages/cains_jawbone_page_70.md) and found no concrete prop/venue/cast carryover, but did find a unique decision-point echo Pages/cains_jawbone_page_69.md (“What… ought I to do? The answer was plain enough.”) ↔ Pages/cains_jawbone_page_95.md (“Because I had decided what to do.”) plus the time-granularity echo (“every minute” ↔ “hour by hour, day by day”). Treat this as partial support for Sequence E while keeping confidence `MAYBE` until a non-generic scene anchor appears.
+  - **Falsification check (2025-12-30):** re-scanned for cross-strand anchors tying the Selby/Latham/Kreisler/Ragtime segment (Pages/cains_jawbone_page_68.md, Pages/cains_jawbone_page_69.md) to the Café Royal/letter segment (Pages/cains_jawbone_page_96.md, Pages/cains_jawbone_page_95.md, Pages/cains_jawbone_page_70.md) and found no concrete prop/venue/cast carryover, but did find a unique decision-point echo Pages/cains_jawbone_page_69.md (“What… ought I to do? The answer was plain enough.”) ↔ Pages/cains_jawbone_page_95.md (“Because I had decided what to do.”) plus the time-granularity echo (“every minute” ↔ “hour by hour, day by day”). Treat this as multi-anchor support for Sequence E (now `LIKELY`), while continuing to look for a concrete scene/prop/venue carryover.
   - **Next falsification check:** look for an explicit identifier that collapses “old man” (Pages/cains_jawbone_page_68.md/Pages/cains_jawbone_page_69.md) into the infancy/knee “he” (Pages/cains_jawbone_page_95.md/Pages/cains_jawbone_page_70.md), or find a third page that shares one concrete anchor from each sub-strand (e.g., Selby/Latham/1906 fire or Kreisler/Ragtime ↔ Café Royal/Eros/Orpen/“franked”).
 
 - **Cluster:** `N07` Bunny and Perry (Pro/Con) mental debate (confidence: `CERTAIN`)
@@ -1718,7 +1718,7 @@ Key changes vs v1:
 
 Delta from v2.1 (Phase 6 tightening; keep falsifiable):
 
-- Apply v4: merge `N25` into a single run: Pages/cains_jawbone_page_33.md → Pages/cains_jawbone_page_34.md → Pages/cains_jawbone_page_52.md → Pages/cains_jawbone_page_53.md.
+- Adopt v4 (trial): merge `N25` into a single run: Pages/cains_jawbone_page_33.md → Pages/cains_jawbone_page_34.md → Pages/cains_jawbone_page_52.md → Pages/cains_jawbone_page_53.md.
 - Enforce `N09` Sequence E adjacency in the full order: Pages/cains_jawbone_page_68.md → Pages/cains_jawbone_page_69.md → Pages/cains_jawbone_page_95.md → Pages/cains_jawbone_page_70.md.
 
 - **Block A (`N03` + `N40`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_32.md → Pages/cains_jawbone_page_3.md → Pages/cains_jawbone_page_27.md → Pages/cains_jawbone_page_30.md → Pages/cains_jawbone_page_23.md → Pages/cains_jawbone_page_24.md
