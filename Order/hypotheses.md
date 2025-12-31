@@ -1809,6 +1809,13 @@ These are the **highest-risk segment joins** inside the v2 full ordering draft. 
   - **Phase 6 test (2025-12-30):** re-read the Pages/cains_jawbone_page_83.md ending and Pages/cains_jawbone_page_2.md opening; confirmed the news → reading/decoding continuity is the strongest available interpretation, and no competing page repeats either anchor.
   - **Outcome:** `PASS` (upgrade join from `MAYBE` to `LIKELY`).
 
+- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_51.md → Pages/cains_jawbone_page_63.md
+  - **Why:** current v2 tail adjacency; no shared participant/prop/place/quote continuation is known.
+  - **Falsifier:** Pages/cains_jawbone_page_63.md gains a stronger anchored predecessor that forces it out of this tail pocket, and/or Pages/cains_jawbone_page_51.md gains a stronger, more concrete successor candidate.
+  - **Next falsification check:** search for any second, non-generic anchor linking the pages (shared named entity, shared quoted source fragment, shared distinctive object/venue, or a phrase-level continuation).
+  - **Phase 6 test (2025-12-31):** page-body n‑gram scan found **zero** shared 3‑grams (or longer) and **zero** shared-unique word anchors between Pages/cains_jawbone_page_51.md and Pages/cains_jawbone_page_63.md. Treat this as a pure placeholder join pending a positive stitch.
+  - **Outcome:** `UNCLEAR`
+
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_98.md → Pages/cains_jawbone_page_77.md
   - **Why:** no direct continuation; there is only a *possible* calendar-layer alignment (“May be” pun on Pages/cains_jawbone_page_98.md ↔ the May 11 Perceval anchor on Pages/cains_jawbone_page_77.md).
   - **Falsifier:** “May” on Pages/cains_jawbone_page_98.md is clearly only the person `P16` (not a month-layer cue), or Pages/cains_jawbone_page_77.md is anchored to a different local time-layer that is incompatible with a May placement.
