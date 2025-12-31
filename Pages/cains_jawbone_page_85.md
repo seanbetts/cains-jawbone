@@ -42,6 +42,7 @@ LIKELY WORDPLAY
 - **Clustering hypotheses:**
   - CERTAIN: `N08` King narrator cluster (Kipling name-jibe; detective allusions; Henry in-scene; table framing).
   - CERTAIN: strong continuity hook with Pages/cains_jawbone_page_94.md via the narrator-name tell (window-sign “my own name” ↔ Kipling/KING wordplay) plus Henry in-scene; LIKELY within-voice order: `Pages/cains_jawbone_page_94.md → Pages/cains_jawbone_page_85.md` (“Henry was waiting for me” → “I was true to time” / “I drove Henry home”); see `Order/hypotheses.md` (`N08`).
+  - MAYBE: cross-strand stitch cue: page-body 5‑gram `I looked across the table` appears only here and Pages/cains_jawbone_page_37.md; treat as low-weight unless a second shared anchor (setting/participant/prop) emerges.
   - MAYBE: continuity hook with Pages/cains_jawbone_page_82.md via the table + dog + post-stress comedown register; falsification check (2025-12-30) found no second shared prop/phrase (salt-cellar unique to this page; biscuits unique to p82; Lapsang also appears on Pages/cains_jawbone_page_17.md) → keep as overlap-only (no adjacency assumption).
 - **Disconfirming evidence:**
   - If Pages/cains_jawbone_page_82.md is later anchored to a different narrator/setting (overlap only, no adjacency).

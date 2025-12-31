@@ -16,6 +16,7 @@ I always feel a bit dazed on these occasions, and was so then. But it was pleasa
   - Repeated dazedness (“on these occasions”).
   - Physical description of Henry (cleft chin; show hairs behind ears).
   - Henry framed as compelled to “destroy… for family reasons”.
+  - Phrase-level echo: page-body 5‑gram `but it was pleasant to` appears only here and Pages/cains_jawbone_page_72.md; treat as a candidate stitch cue (direction unclear) until reinforced by a second independent continuity marker.
 - **Voice/tells:**
   - “simple soul” register but highly allusive (poet quotation).
 - **Clustering hypotheses:**

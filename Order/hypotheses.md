@@ -776,6 +776,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Rationale:** Pages 13 and 31 foreground classed self-consciousness and wordplay about naming, framed against grim bodily/violent contexts and “reckon with Henry” pressure; Page 49 is retained via a direct Blake quote-continuation lock into Page 13.
   - **Key anchors:** “Bloomsbury”; “Newdigate fringe”; “nomenclature business”; “Caseus, ah!”; hand dropping to hip pocket.
   - **Disconfirming evidence:** the naming/wordplay is shown to be incidental, or the scenes are later explicitly narrated by different named speakers.
+  - **Phase 6 scan (2025-12-31):** page-body 5‑gram `but it was pleasant to` appears only on Pages/cains_jawbone_page_49.md and Pages/cains_jawbone_page_72.md (`N33`), suggesting a possible stitch point involving Page 49; treat as low-weight until reinforced.
   - **Phase 4 internal ordering hypotheses (N20):**
     - **Sequence A — two bodies in the market place → “reckon with Henry”** (confidence: `LIKELY`)
       - **Pages (ordered):** Pages/cains_jawbone_page_13.md → Pages/cains_jawbone_page_31.md
@@ -901,6 +902,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Pages:** Pages/cains_jawbone_page_37.md
   - **Rationale:** Page 37’s voice blends art-world framing and ornate decor with anxious weapon/evidence language and a credibility fear (“who would believe me?”), anchored by the Firbank/Malta name-drop.
   - **Key anchors:** “yellow jasmine”; “rococo mirror”; “private view… post‑Vorticists”; Ronald Firbank in Malta; “chamber within chamber”; “open the bores”; “Death… fingered”; Shrewsbury lock‑up/prison “this time” hearing contrast.
+  - **Phase 6 scan (2025-12-31):** page-body 5‑gram `I looked across the table` appears only on Pages/cains_jawbone_page_37.md and Pages/cains_jawbone_page_85.md (`N08`), suggesting a possible cross-strand stitch cue; keep low-weight unless a second independent anchor (participant/prop/setting) is found.
   - **Disconfirming evidence:** the art/Firbank layer is shown to be detachable quotation collage used by multiple narrators, or the “bores/chambers” language is proven non-weapon and the voice aligns with an existing narrator signature.
   - **Overlap hinge (cross-narrator; do not treat as membership):** Pages/cains_jawbone_page_27.md shares the rare “Death… fingered” metaphor + Shrewsbury lock‑up/prison “this time” hearing contrast, but its Clem/coffee anchors align with `N03` → keep it as overlap-only.
   - **Falsification check (2025-12-25):** searched the page corpus for any additional N29 anchor repetition beyond Pages/cains_jawbone_page_37.md (Firbank/Malta/post‑Vorticists/rococo mirror/jasmine bowl/bores/chambers) and any Pages/cains_jawbone_page_27.md-specific anchors beyond Pages/cains_jawbone_page_27.md (Peaberry Mysore/Blue Mountain/Clem) and found no cross-over beyond Shrewsbury + “Death… fingered” + “this time” hearing contrast → do not increase confidence.
@@ -945,6 +947,8 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Rationale:** A distinctive, meta-fictional narrator voice frames a travel pause with claret-as-remedy and a Paris/Rue de la Harpe anecdote, then riffs on story structure (“embrace first, plot after”) via a “complete novel” magazine.
   - **Key anchors:** “old Medehamstede”; Pasquier’s claret; Rue de la Harpe; “last paragraphs of the short stories”; “The complete novel length… Savage Conqueror.”
   - **Disconfirming evidence:** the magazine/short-story register is later shown to be a quoted inset rather than narrator voice, or the anchor set recurs under an unmistakably different narrator elsewhere.
+  - **Phase 6 scan (2025-12-31):** page-body 5‑gram `but it was pleasant to` appears only on Pages/cains_jawbone_page_72.md and Pages/cains_jawbone_page_49.md (“pleasant to sit down…” ↔ “pleasant to collect oneself…”). Treat as a possible stitch cue out of the current tail placeholder placement, but keep low-weight until a second independent anchor (shared participant/prop/setting) appears.
+  - **Next falsification check:** if testing adjacency, re-read the p72 ending ↔ p49 opening (and the reverse) for a concrete scene/prop continuation beyond the shared phrase, and verify the phrase does not occur on any third page in page bodies.
 
 - **Cluster:** `N34` Time-factor / Didling wordplay + antiquarian brass voice (confidence: `LIKELY`)
   - **Pages:** Pages/cains_jawbone_page_20.md, Pages/cains_jawbone_page_25.md
@@ -1134,7 +1138,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Rationale:** Pages 85 and 94 share a narrator-name clue (schoolboy “Kipling” jibe → King; narrator sees own name in a window-sign) and a recurring Henry-in-scene frame; Page 82 shares the same Henry-at-table setting plus the same cryptic-transform habits, and Page 15 adds an explicit 21→21:00 clock pun plus the same table/dog framing (Bart ↔ Bartholomew).
   - **Key anchors:** “Kipling” as a name-jibe; narrator seeing their own name printed in a window; Baker Street / detective framing; Bartholomew dog at the table (Page 82) ↔ “Bart” chewing moccasins at a familiar table (Page 15).
   - **Disconfirming evidence:** the name clue resolves differently, the window-sign name refers to someone/something other than the narrator, or Page 15’s “Bart” is shown not to be the same dog as Bartholomew in Page 82.
-  - **Overlap candidates:** MAYBE: Pages/cains_jawbone_page_100.md (police/extremis framing + Henry present); treat as overlap-only unless a second `N08`-specific anchor recurs.
+  - **Overlap candidates:** MAYBE: Pages/cains_jawbone_page_100.md (police/extremis framing + Henry present); MAYBE: Pages/cains_jawbone_page_37.md (unique page-body 5‑gram `I looked across the table` shared with Pages/cains_jawbone_page_85.md); treat both as overlap-only unless a second `N08`-specific anchor recurs.
   - **Phase 4 internal ordering hypotheses (N08):**
     - **Sequence A — Henry waiting → driven home** (confidence: `LIKELY`)
       - **Pages (ordered):** Pages/cains_jawbone_page_94.md → Pages/cains_jawbone_page_85.md
@@ -1900,3 +1904,19 @@ Delta from v2 (do not treat as accepted until falsified):
   - Added: `Pages/cains_jawbone_page_98.md → Pages/cains_jawbone_page_100.md` (placeholder)
 - **Phase 6 test (2025-12-31):** re-read the Pages/cains_jawbone_page_98.md ending and Pages/cains_jawbone_page_100.md opening; found no continuity marker (cast/prop/place/time/quote), so treat this as a placeholder only pending a stronger stitch into Pages/cains_jawbone_page_100.md.
   - **Outcome:** `UNCLEAR`
+
+### Phase 6 trial variant (v9) — pull Page 72 into the Blake/Henry block via Page 49
+
+Delta from v2 (do not treat as accepted until falsified):
+
+- **Motivation:** page-body 5‑gram `but it was pleasant to` appears only on Pages/cains_jawbone_page_72.md and Pages/cains_jawbone_page_49.md, and both use it in an “alone/reset” framing. This makes Page 72 a plausible stitch candidate into the Pages/cains_jawbone_page_49.md → Pages/cains_jawbone_page_13.md Blake-continuation block rather than a tail singleton.
+- **Change A (trial):** move Pages/cains_jawbone_page_72.md from v2 Block X (tail) to immediately before Pages/cains_jawbone_page_49.md in v2 Block G (so Block G becomes `Pages/cains_jawbone_page_72.md → Pages/cains_jawbone_page_49.md → Pages/cains_jawbone_page_13.md → Pages/cains_jawbone_page_31.md`).
+- **Resulting join swaps (v2 → v9):**
+  - Removed: `Pages/cains_jawbone_page_63.md → Pages/cains_jawbone_page_72.md`
+  - Removed: `Pages/cains_jawbone_page_72.md → Pages/cains_jawbone_page_76.md`
+  - Added: `Pages/cains_jawbone_page_63.md → Pages/cains_jawbone_page_76.md` (placeholder)
+  - Removed: `Pages/cains_jawbone_page_5.md → Pages/cains_jawbone_page_49.md` (block-boundary join in the v2 full-order draft)
+  - Added: `Pages/cains_jawbone_page_5.md → Pages/cains_jawbone_page_72.md` (placeholder)
+  - Added: `Pages/cains_jawbone_page_72.md → Pages/cains_jawbone_page_49.md` (candidate)
+- **Phase 6 test (2025-12-31):** re-read the Pages/cains_jawbone_page_72.md ending and Pages/cains_jawbone_page_49.md opening; no direct prop/participant continuation appears at the boundary, but the unique phrase-level echo suggests a deliberate link.
+  - **Outcome:** `UNCLEAR` (treat as an improved placement hypothesis; upgrade only if a second independent anchor emerges).

@@ -11,6 +11,7 @@ Of course I was sorry to say good-bye to old Medehamstede ; but it was pleasant 
   - Drink: claret as remedy for pallor.
   - Reading/writing: narrator skims endings of short stories; prefers embrace first, plot after.
   - Title anchor: “Savage Conqueror” (novel length; potentially a clue text).
+  - Phrase-level echo: page-body 5‑gram `but it was pleasant to` appears only here and Pages/cains_jawbone_page_49.md (“pleasant to sit down…” ↔ “pleasant to collect oneself…”), suggesting a possible stitch point out of the current tail placeholder placement (treat as low-weight until a second independent anchor emerges).
 - **Voice/tells:**
   - Meta-fictional, cynical about romance conventions; self-identifies life as “short stories”.
 - **Clustering hypotheses:**
