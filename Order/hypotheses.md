@@ -614,13 +614,13 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - Pages/cains_jawbone_page_29.md ends with “I felt I ought to be drawing towards a close ; but one never knew,” and Pages/cains_jawbone_page_35.md reuses the same phrase while also repeating “One never knew” and supplying an explicit reason (“But he might return”), which reads like a more explicit reprise.
       - **Disconfirming evidence:**
         - Another page is found to share the exact “drawing towards a close” phrasing, or later evidence anchors Pages/cains_jawbone_page_35.md as clearly earlier than Pages/cains_jawbone_page_29.md in this voice/setting.
-    - **Sequence K — sympathy → manhunt hardening (p77 → p35)** (confidence: `MAYBE`)
-      - **Pages (ordered):** Pages/cains_jawbone_page_77.md → Pages/cains_jawbone_page_35.md
+    - **Sequence K — “Murders were funny things” bridge (p35 → p77)** (confidence: `MAYBE`)
+      - **Pages (ordered):** Pages/cains_jawbone_page_35.md → Pages/cains_jawbone_page_77.md
       - **Why:**
-        - Pages/cains_jawbone_page_77.md frames the narrator’s “first” killing and lingering sympathy for Henry (“couldn’t help being sorry for Henry”), while Pages/cains_jawbone_page_35.md shows Henry deep in an active pursuit and the narrator explicitly “not sorry,” reading like a later-stage hardening.
-        - Both pages share the page-body unique register-marker “Murders were funny things” (constraint inventory).
+        - Both pages share the page-body unique register-marker “Murders were funny things” (constraint inventory), supporting close placement within the same `N12` murder‑mechanics voice even if the boundary lacks a direct scene-continuation cue.
+        - The hard adjacency lock `Pages/cains_jawbone_page_29.md → Pages/cains_jawbone_page_35.md` blocks inserting any page before Pages/cains_jawbone_page_35.md; if Pages/cains_jawbone_page_77.md is adjacent to Pages/cains_jawbone_page_35.md at all, it must follow (not precede).
       - **Disconfirming evidence:**
-        - “my first” is shown to be non-lethal (or in a different timeline), or later evidence pins Henry’s “predicament” in Pages/cains_jawbone_page_77.md to a separate episode that cannot precede the Pages/cains_jawbone_page_35.md manhunt scene.
+        - A third page is found containing the same page-body phrase (breaking uniqueness), or later evidence pins Pages/cains_jawbone_page_77.md’s “my first” to a clearly earlier episode that cannot plausibly follow Pages/cains_jawbone_page_35.md’s manhunt wrap‑up even as a non-adjacent echo.
     - **Sequence H — corpse-handling → detective-sergeant visit (“awkward” bridge)** (confidence: `MAYBE`)
       - **Pages (ordered):** Pages/cains_jawbone_page_36.md → Pages/cains_jawbone_page_59.md
       - **Why:**

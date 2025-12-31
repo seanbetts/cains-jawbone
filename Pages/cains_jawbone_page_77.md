@@ -16,7 +16,7 @@ Compact, they call it ; but when I used it, I was feeling anything but so. Don�
 - **Voice/tells:**
   - Cool, reflective, slightly aesthetic about murder; distinguishes “public political” killing vs “my own”.
 - **Clustering hypotheses:**
-  - CERTAIN: links strongly with Pages/cains_jawbone_page_35.md via the unique phrase-level echo “Murders were funny things.” (page-body unique to these two pages); treat as a continuity constraint `Pages/cains_jawbone_page_35.md ↔ Pages/cains_jawbone_page_77.md` (current direction hypothesis: `Pages/cains_jawbone_page_77.md → Pages/cains_jawbone_page_35.md`, confidence: `MAYBE`; see `Order/hypotheses.md` `N12` Sequence K).
+  - CERTAIN: links strongly with Pages/cains_jawbone_page_35.md via the unique phrase-level echo “Murders were funny things.” (page-body unique to these two pages); treat as a continuity constraint `Pages/cains_jawbone_page_35.md ↔ Pages/cains_jawbone_page_77.md` (current adjacency direction hypothesis: `Pages/cains_jawbone_page_35.md → Pages/cains_jawbone_page_77.md`, confidence: `MAYBE`; see `Order/hypotheses.md` `N12` Sequence K; note the hard lock `Pages/cains_jawbone_page_29.md → Pages/cains_jawbone_page_35.md` blocks inserting anything before Page 35).
   - MAYBE: possible thematic proximity to Pages/cains_jawbone_page_76.md (named target “Green” ↔ “my first” + “Compact”), but no phrase-level overlap and no shared named entity/prop continuity; treat as non-binding unless bridged by a third anchor/page.
 - **Disconfirming evidence:**
   - If “Perceval” is an in-world character rather than historical, or if “my first” refers to something non-lethal.
