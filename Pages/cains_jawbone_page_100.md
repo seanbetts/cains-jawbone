@@ -23,6 +23,7 @@ I dimly guess why the old dead so wanted this. I had worked for him, Henry had w
   - Buttonhole motif (“buttonhole has escaped from the buttonholer”).
   - Police/detection frame (Scotland Yard) collides with personal collapse.
   - Henry “getting out of hand” (suggests Henry is physically controlled/handled in this scene).
+  - Phase 6 stitch candidate: page-body `I cannot` appears only here and Pages/cains_jawbone_page_63.md, and Pages/cains_jawbone_page_63.md also shows “Henry” being physically handled (cap on/off, tried out on the table), which supports reading Henry here as a handheld capped object (not necessarily a person); treat as `MAYBE` until reinforced by a second shared anchor.
   - MAYBE: `believe me` appears only here and Pages/cains_jawbone_page_37.md (“who would believe me?”); treat as a weak continuity hook pending a second independent anchor.
     - Phase 6 check (2025-12-30): no second shared phrase-level overlap found beyond `believe me`, and no shared named anchor found.
 - **Quotes & allusions:**

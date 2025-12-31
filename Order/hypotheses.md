@@ -833,6 +833,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Pages:** Pages/cains_jawbone_page_100.md
   - **Rationale:** Page 100’s narrator is physically incapacitated and frames a collapse scene via Scotland Yard and specific Southend Kursaal geography, with a gloating antagonist and a valedictory “Good-bye, Henry.”
   - **Key anchors:** Scotland Yard; Woolworth’s; Kursaal; buttonhole motif; “how ill… about my heart”.
+  - **Phase 6 scan (2025-12-31):** page-body `I cannot` appears only on Pages/cains_jawbone_page_100.md and Pages/cains_jawbone_page_63.md, and both pages treat Henry as something physically handled (cap on/off ↔ “getting out of hand” / “drops awa”); treat as a low-weight stitch/merge candidate unless reinforced.
   - **Disconfirming evidence:** the collapse frame is purely rhetorical or the Scotland Yard/Kursaal layer is reused by other narrators.
 
 - **Cluster:** `N25` Quicksands-of-crime interviewer / papers voice (confidence: `LIKELY`)
@@ -1044,6 +1045,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Rationale:** A distinctive infatuated, performatively learned voice combines French verse with dessert-order rules and an obsession with attributing writers, while observing Henry being “tried out” (cap on/off).
   - **Key anchors:** Babbie’s hair fixation; Baudelaire “La Chevelure”; “Rainbow” + Lent “second Sundae” rule; “I have always hated that these writers should be anonymous.”
   - **Disconfirming evidence:** later pages show the same motifs used casually by multiple unrelated narrators, or Page 63’s Henry is proven to be a different referent (not the recurring character-name).
+  - **Phase 6 scan (2025-12-31):** page-body `I cannot` appears only on Pages/cains_jawbone_page_63.md and Pages/cains_jawbone_page_100.md, and both pages treat Henry as physically handled (cap on/off ↔ “getting out of hand” / “drops awa”). Treat this as a possible stitch/merge candidate, but keep low-weight until a second independent anchor (shared setting/prop/participant) emerges.
 
 - **Cluster:** `N05` School colours / “the Head” voice (merged into `N06`) (confidence: `CERTAIN`)
   - **Pages:** Pages/cains_jawbone_page_66.md, Pages/cains_jawbone_page_67.md
@@ -1815,6 +1817,7 @@ These are the **highest-risk segment joins** inside the v2 full ordering draft. 
   - **Bridge candidates (direction unknown):**
     - Pages/cains_jawbone_page_100.md ↔ Pages/cains_jawbone_page_4.md (unique “buttonhole” word echo).
     - Pages/cains_jawbone_page_100.md ↔ Pages/cains_jawbone_page_37.md (unique “believe me” phrase echo).
+    - Pages/cains_jawbone_page_100.md ↔ Pages/cains_jawbone_page_63.md (unique page-body `I cannot` + Henry handled as an object (cap on/off ↔ “drops awa”)).
     - Pages/cains_jawbone_page_100.md ↔ Pages/cains_jawbone_page_17.md (unique “Why should I think…” phrasing + “her beauty” + “slips” only occur on these pages; also both have the same “sinister beauty” register).
     - Pages/cains_jawbone_page_100.md ↔ Pages/cains_jawbone_page_43.md (both embed Francis Thompson and both use Scots-dialect markers; supports a possible narrator merge into `N01` rather than a tail-adjacency stitch).
     - Pages/cains_jawbone_page_100.md ↔ Pages/cains_jawbone_page_91.md (unique Scotland Yard / “Black Museum” institutional overlap + Henry present on both pages), though this is now lower priority given the stronger `Pages/cains_jawbone_page_80.md → Pages/cains_jawbone_page_91.md` placement.
