@@ -1766,6 +1766,13 @@ Delta from v2.2 (Phase 6 tightening; keep falsifiable):
   - **Phase 6 test (2025-12-31):** page-body n‑gram scan found **zero** shared 4‑grams (or longer); the only shared 3‑gram is the generic `i would have`. Page-body word `snowy` appears only on these two pages.
   - **Outcome:** `UNCLEAR` (keep as placeholder; the `snowy` echo is too thin on its own).
 
+- **Competing re-stitch candidate (tail extraction, confidence: `MAYBE`):** Pages/cains_jawbone_page_91.md ↔ Pages/cains_jawbone_page_78.md
+  - **Why:** page-body words `handed` and `suave` appear only on these two pages; this is stronger multi-anchor support than the single-word `snowy` echo currently propping up the `Pages/cains_jawbone_page_91.md → Pages/cains_jawbone_page_4.md` placeholder.
+  - **Falsifier:** Pages/cains_jawbone_page_78.md is anchored elsewhere by a stronger multi-anchor (e.g., a will/forgery run), or a third page is found using `handed` or `suave` in its page body (making them non-unique).
+  - **Next falsification check:** re-read the Pages/cains_jawbone_page_91.md ending and Pages/cains_jawbone_page_78.md opening for any prop/scene continuity; if absent, treat this as shared-voice/cluster evidence rather than an adjacency lock.
+  - **Phase 6 test (2025-12-31):** page-body n‑gram scan shows `i would have to` occurs on multiple pages (so is not unique), but the page-body words `handed` and `suave` are unique to this pair.
+  - **Outcome:** `MAYBE` (promising multi-anchor; consider pulling Pages/cains_jawbone_page_78.md out of the tail in the next full-order iteration).
+
 ### Phase 6 trial variant (v3) — re-stitch around Page 77
 
 Delta from v2 (do not treat as accepted until falsified):
