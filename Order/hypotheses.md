@@ -1889,6 +1889,10 @@ Delta from v2 (do not treat as accepted until falsified):
   - Added: `Pages/cains_jawbone_page_34.md → Pages/cains_jawbone_page_95.md`
   - Added: `Pages/cains_jawbone_page_1.md → Pages/cains_jawbone_page_96.md` (placeholder)
   - Added: `Pages/cains_jawbone_page_96.md → Pages/cains_jawbone_page_17.md` (candidate)
+  - **Phase 6 test (2025-12-31):** re-read the Pages/cains_jawbone_page_1.md ending and Pages/cains_jawbone_page_96.md opening; found no continuity marker (shared participant/prop/place/time/quote), and page-body n‑gram scan found no shared 4‑grams (or longer) and no shared-unique word anchors (only generic 3‑gram `reminds me of`). Treat `Pages/cains_jawbone_page_1.md → Pages/cains_jawbone_page_96.md` as a pure placeholder join.
+    - **Outcome:** `UNCLEAR`
+  - **Phase 6 test (2025-12-31):** re-read the Pages/cains_jawbone_page_96.md ending and Pages/cains_jawbone_page_17.md opening; while there is no explicit mid-sentence/quote carryover (and no shared n‑grams), the unique page-body word `Somerset` appears only on these pages, and both are table/café scenes with “waiting for her” → “Ah, here she is” cadence plus marriage-in-the-air framing.
+    - **Outcome:** `PASS` (upgrade `Pages/cains_jawbone_page_96.md → Pages/cains_jawbone_page_17.md` from a loose candidate to `LIKELY` within this trial).
   - **Phase 6 test (2025-12-30):** re-read the Pages/cains_jawbone_page_34.md ending and Pages/cains_jawbone_page_95.md opening; found no continuity marker (setting/prop/quote/cast), so treat `Pages/cains_jawbone_page_34.md → Pages/cains_jawbone_page_95.md` as a placeholder only.
     - **Outcome:** `UNCLEAR`
 
