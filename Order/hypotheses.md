@@ -782,7 +782,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Rationale:** Pages 13 and 31 foreground classed self-consciousness and wordplay about naming, framed against grim bodily/violent contexts and “reckon with Henry” pressure; Page 49 is retained via a direct Blake quote-continuation lock into Page 13.
   - **Key anchors:** “Bloomsbury”; “Newdigate fringe”; “nomenclature business”; “Caseus, ah!”; hand dropping to hip pocket.
   - **Disconfirming evidence:** the naming/wordplay is shown to be incidental, or the scenes are later explicitly narrated by different named speakers.
-  - **Phase 6 scan (2025-12-31):** page-body 5‑gram `but it was pleasant to` appears only on Pages/cains_jawbone_page_49.md and Pages/cains_jawbone_page_72.md (`N33`), suggesting a possible stitch point involving Page 49; treat as low-weight until reinforced.
+  - **Phase 6 test (2025-12-31):** Pages/cains_jawbone_page_49.md ↔ Pages/cains_jawbone_page_72.md share only the generic phrase `but it was pleasant to` (no second anchor: no shared prop/cast/place/quote) → treat as an accidental overlap (Outcome: `FAIL`, not a stitch).
   - **Phase 4 internal ordering hypotheses (N20):**
     - **Sequence A — two bodies in the market place → “reckon with Henry”** (confidence: `LIKELY`)
       - **Pages (ordered):** Pages/cains_jawbone_page_13.md → Pages/cains_jawbone_page_31.md
@@ -962,8 +962,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Rationale:** A distinctive, meta-fictional narrator voice frames a travel pause with claret-as-remedy and a Paris/Rue de la Harpe anecdote, then riffs on story structure (“embrace first, plot after”) via a “complete novel” magazine.
   - **Key anchors:** “old Medehamstede”; Pasquier’s claret; Rue de la Harpe; “last paragraphs of the short stories”; “The complete novel length… Savage Conqueror.”
   - **Disconfirming evidence:** the magazine/short-story register is later shown to be a quoted inset rather than narrator voice, or the anchor set recurs under an unmistakably different narrator elsewhere.
-  - **Phase 6 scan (2025-12-31):** page-body 5‑gram `but it was pleasant to` appears only on Pages/cains_jawbone_page_72.md and Pages/cains_jawbone_page_49.md (“pleasant to sit down…” ↔ “pleasant to collect oneself…”). Treat as a possible stitch cue out of the current tail placeholder placement, but keep low-weight until a second independent anchor (shared participant/prop/setting) appears.
-  - **Next falsification check:** if testing adjacency, re-read the p72 ending ↔ p49 opening (and the reverse) for a concrete scene/prop continuation beyond the shared phrase, and verify the phrase does not occur on any third page in page bodies.
+  - **Phase 6 test (2025-12-31):** Pages/cains_jawbone_page_72.md ↔ Pages/cains_jawbone_page_49.md share only the generic phrase `but it was pleasant to` (no second anchor: no shared prop/cast/place/quote) → treat as an accidental overlap (Outcome: `FAIL`, not a stitch).
 
 - **Cluster:** `N34` Time-factor / Didling wordplay + antiquarian brass voice (confidence: `LIKELY`)
   - **Pages:** Pages/cains_jawbone_page_20.md, Pages/cains_jawbone_page_25.md
@@ -1875,14 +1874,14 @@ These are the **highest-risk segment joins** inside the v2 full ordering draft. 
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_63.md → Pages/cains_jawbone_page_72.md
   - **Why:** current v2 tail adjacency; no concrete continuity marker is known.
-  - **Falsifier:** Pages/cains_jawbone_page_72.md is anchored into the Blake/Henry block via Pages/cains_jawbone_page_49.md (v9), forcing it out of the tail, or Pages/cains_jawbone_page_63.md is shown to belong to a different desserts/“Henry cap” run with a different successor.
+  - **Falsifier:** Pages/cains_jawbone_page_72.md is anchored into a non-tail block by a stronger multi-anchor link (shared prop/cast/place/quote), forcing it out of this tail pocket, or Pages/cains_jawbone_page_63.md is shown to belong to a different desserts/“Henry cap” run with a different successor.
   - **Next falsification check:** search for a second anchor beyond generic “I…” scaffolding (shared named participant/venue, shared quoted source, or shared food title).
   - **Phase 6 test (2025-12-31):** page-body n‑gram scan found **zero** shared 3‑grams (or longer) and **zero** shared-unique word anchors between the pages. Treat as a pure placeholder join.
   - **Outcome:** `UNCLEAR`
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_72.md → Pages/cains_jawbone_page_76.md
   - **Why:** current v2 tail adjacency; no concrete continuity marker is known.
-  - **Falsifier:** Pages/cains_jawbone_page_76.md is shown to belong in a different murder-deliberation run (e.g., via the strong phrase-level `p76 ↔ p98` echo), and Pages/cains_jawbone_page_72.md is moved into a different block (v9).
+  - **Falsifier:** Pages/cains_jawbone_page_76.md is shown to belong in a different murder-deliberation run (e.g., via the strong phrase-level `p76 ↔ p98` echo), or Pages/cains_jawbone_page_72.md is anchored into a different block by a stronger multi-anchor link.
   - **Next falsification check:** look for any second independent anchor (shared named participant, shared quoted source, or shared place/venue name).
   - **Phase 6 test (2025-12-31):** page-body n‑gram scan found **zero** shared 3‑grams (or longer) and **zero** shared-unique word anchors between the pages. Treat as a pure placeholder join.
   - **Outcome:** `UNCLEAR`
@@ -2044,7 +2043,7 @@ Delta from v2 (do not treat as accepted until falsified):
 
 Delta from v2 (do not treat as accepted until falsified):
 
-- **Motivation:** page-body 5‑gram `but it was pleasant to` appears only on Pages/cains_jawbone_page_72.md and Pages/cains_jawbone_page_49.md, and both use it in an “alone/reset” framing. This makes Page 72 a plausible stitch candidate into the Pages/cains_jawbone_page_49.md → Pages/cains_jawbone_page_13.md Blake-continuation block rather than a tail singleton.
+- **Motivation:** page-body 5‑gram `but it was pleasant to` appears only on Pages/cains_jawbone_page_72.md and Pages/cains_jawbone_page_49.md, and both use it in an “alone/reset” framing.
 - **Change A (trial):** move Pages/cains_jawbone_page_72.md from v2 Block X (tail) to immediately before Pages/cains_jawbone_page_49.md in v2 Block G (so Block G becomes `Pages/cains_jawbone_page_72.md → Pages/cains_jawbone_page_49.md → Pages/cains_jawbone_page_13.md → Pages/cains_jawbone_page_31.md`).
 - **Resulting join swaps (v2 → v9):**
   - Removed: `Pages/cains_jawbone_page_63.md → Pages/cains_jawbone_page_72.md`
@@ -2054,8 +2053,8 @@ Delta from v2 (do not treat as accepted until falsified):
   - Added: `Pages/cains_jawbone_page_5.md → Pages/cains_jawbone_page_72.md` (placeholder)
   - Added: `Pages/cains_jawbone_page_72.md → Pages/cains_jawbone_page_49.md` (candidate)
 - **Phase 6 test (2025-12-31):** scanned the removed v2 tail joins `Pages/cains_jawbone_page_63.md → Pages/cains_jawbone_page_72.md` and `Pages/cains_jawbone_page_72.md → Pages/cains_jawbone_page_76.md`; page-body n‑gram scans found **zero** shared 3‑grams (or longer) and **zero** shared-unique word anchors for both pairs. Treat both joins as pure placeholders; this makes it less costly to pull Pages/cains_jawbone_page_72.md out of the tail, though the replacement join `Pages/cains_jawbone_page_63.md → Pages/cains_jawbone_page_76.md` is still a placeholder.
-- **Phase 6 test (2025-12-31):** re-read the Pages/cains_jawbone_page_72.md ending and Pages/cains_jawbone_page_49.md opening; no direct prop/participant continuation appears at the boundary, but the unique phrase-level echo suggests a deliberate link.
-  - **Outcome:** `UNCLEAR` (treat as an improved placement hypothesis; upgrade only if a second independent anchor emerges).
+- **Phase 6 test (2025-12-31):** page-body n‑gram scan shows no second anchor beyond the generic phrase `but it was pleasant to` (no shared prop/cast/place/quote), and the two pages’ concrete anchors are disjoint (p49 Henry + Blake; p72 Medehamstede/Pasquier/Rue de la Harpe) → treat the phrase echo as an accidental overlap (Outcome: `FAIL`).
+  - **Outcome:** `FAIL` (do not apply v9 unless a second independent anchor emerges).
 
 ### Phase 6 trial variant (v10) — move Page 100 into `N01` (Ecky/Aquarius) bundle
 
