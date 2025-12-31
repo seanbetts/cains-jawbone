@@ -57,11 +57,11 @@ Track people as candidates with evolving roles. This file is deliberately probab
 - `P106`
   - **Aliases / names used:** Green-target narrator (De Quincey “tooling” moral-calculus voice; unknown)
   - **Role candidate:** `murderer`
-  - **Confidence (0.0–1.0):** 0.30
+  - **Confidence (0.0–1.0):** 0.20
   - **Supporting pages:** Pages/cains_jawbone_page_76.md
-  - **Evidence summary:** Frames an intended killing as a personal “duty” and explicitly names “Green” as “the victim,” but the page does not (alone) prove the act is completed.
+  - **Evidence summary:** Frames an intended killing as a personal “duty” and explicitly names “Green” as “the victim,” but no outcome is established yet; treat as intent until a later page confirms an in-world death.
   - **Falsifiers:** “Green” is shown not to be an in-world person/victim, or the “victim” framing is purely hypothetical/metaphorical.
-  - **Status:** `active`
+  - **Status:** `downgraded`
 
 - `P107`
   - **Aliases / names used:** poison-logistics host narrator (aconite/digitalis/gelsemium; unknown)
@@ -111,11 +111,11 @@ Track people as candidates with evolving roles. This file is deliberately probab
 - `P59`
   - **Aliases / names used:** “dead man”
   - **Role candidate:** `victim`
-  - **Confidence (0.0–1.0):** 0.10
+  - **Confidence (0.0–1.0):** 0.05
   - **Supporting pages:** Pages/cains_jawbone_page_62.md
-  - **Evidence summary:** Referred to explicitly as “the dead man”; told narrator a story shortly before being “taken away”.
+  - **Evidence summary:** Referred to explicitly as “the dead man”; treat as background-context death unless later pages connect it to a concrete murder method/agent.
   - **Falsifiers:** Later context shows “dead man” is metaphorical, purely quoted, or refers to a historical/fictional figure rather than an in-world person.
-  - **Status:** `active`
+  - **Status:** `downgraded`
 
 - `P61`
   - **Aliases / names used:** “poor old man”; “old man”
@@ -129,11 +129,11 @@ Track people as candidates with evolving roles. This file is deliberately probab
 - `P72`
   - **Aliases / names used:** Green
   - **Role candidate:** `victim`
-  - **Confidence (0.0–1.0):** 0.45
+  - **Confidence (0.0–1.0):** 0.25
   - **Supporting pages:** Pages/cains_jawbone_page_76.md
-  - **Evidence summary:** Explicitly named as “the victim” (Green) in a self-justifying murder-planning register.
+  - **Evidence summary:** Explicitly named as “the victim” (Green) in a murder-planning register, but no in-world death outcome is established yet.
   - **Falsifiers:** “Green” is revealed as a non-personal epithet/joke (not an in-world person), or the page’s “victim” framing is shown to be hypothetical/metaphorical with no in-world death.
-  - **Status:** `active`
+  - **Status:** `downgraded`
 
 - `P50`
   - **Aliases / names used:** Sir Paul Trinder

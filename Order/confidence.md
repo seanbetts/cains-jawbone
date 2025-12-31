@@ -31,7 +31,7 @@ Track *in-world* death/murder hypotheses separately from page-ordering hypothese
 
 ## Events
 
-- `E01` (confidence: `0.10`; status: `active`)
+- `E01` (confidence: `0.05`; status: `downgraded`)
   - **Pages:** Pages/cains_jawbone_page_62.md
   - **Victim candidate(s):** `P59` (dead man; identity unknown)
   - **Murderer candidate(s):** `UNKNOWN`
@@ -39,7 +39,7 @@ Track *in-world* death/murder hypotheses separately from page-ordering hypothese
   - **Motive:** `UNKNOWN`
   - **Opportunity:** `UNKNOWN` (only timing detail: he spoke to narrator ~1 hour before “they came to take him away”)
   - **Narrative tells:** Framing stresses deceit (“heart… deceitful”) and a story told by a now-dead speaker; “take him away” hints at custody/institution.
-  - **Evidence summary:** IN-WORLD death signal is present but agency/cause is not established on this page.
+  - **Evidence summary:** Background-context in-world death signal is present but agency/cause is not established; do not count as one of the six unless later pages tie it to a concrete method/agent.
   - **Falsifiers:** Later pages clarify the “dead man” is a metaphor/allusion, or confirm a non-violent natural death unrelated to the six in-world murders.
 
 - `E02` (confidence: `0.30`; status: `active`)
@@ -53,7 +53,7 @@ Track *in-world* death/murder hypotheses separately from page-ordering hypothese
   - **Evidence summary:** IN-WORLD death is asserted with slow-killing language, but agent/means are not named.
   - **Falsifiers:** Later context shows the “old man” survives, the death is metaphorical, or the scene is revealed as purely recollected/hypothetical rather than witnessed.
 
-- `E03` (confidence: `0.35`; status: `active`)
+- `E03` (confidence: `0.20`; status: `downgraded`)
   - **Pages:** Pages/cains_jawbone_page_76.md
   - **Victim candidate(s):** `P72` (Green; named as “the victim”)
   - **Murderer candidate(s):** `P106` (narrator; identity unknown)
@@ -61,10 +61,10 @@ Track *in-world* death/murder hypotheses separately from page-ordering hypothese
   - **Motive:** `UNKNOWN` (moralising “duty” register; possible personal grievance)
   - **Opportunity:** Narrator frames the need to “do the thing” personally, implying direct access to the victim.
   - **Narrative tells:** Heavy self-justification; de Quincey murder-aesthetics reference; explicit victim naming (“Green”).
-  - **Evidence summary:** An in-world victim is explicitly named as “the victim” (Green), but the page does not (by itself) prove the killing has already occurred.
+  - **Evidence summary:** An in-world victim is explicitly named as “the victim” (Green), but the page ends with “I would have to think it over,” so treat as intent/planning until a later page establishes an in-world death outcome for Green.
   - **Falsifiers:** “Green” is not an in-world person, or the “victim” framing is hypothetical/metaphorical with no in-world harm.
 
-- `E04` (confidence: `0.30`; status: `active`)
+- `E04` (confidence: `0.15`; status: `downgraded`)
   - **Pages:** Pages/cains_jawbone_page_78.md
   - **Victim candidate(s):** `UNKNOWN` (soon-to-be dead woman; will/document subject)
   - **Murderer candidate(s):** `UNKNOWN`
@@ -72,7 +72,7 @@ Track *in-world* death/murder hypotheses separately from page-ordering hypothese
   - **Motive:** MAYBE inheritance/document control (forgery context)
   - **Opportunity:** Document is being guided by a “falser hand” before the woman’s death.
   - **Narrative tells:** “Mimic artistry” + “falser hand” strongly echoes will-forgery framing used elsewhere.
-  - **Evidence summary:** The page explicitly anticipates a woman’s near-future death while describing document manipulation.
+  - **Evidence summary:** The page anticipates a near-future death while describing document manipulation, but does not establish a killing act/outcome; treat as background-context threat setup until a later page confirms an in-world death event.
   - **Falsifiers:** The “soon to be dead” phrasing is metaphorical, or the document is unrelated to any death plot.
 
 - `E05` (confidence: `0.10`; status: `downgraded`)
