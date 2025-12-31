@@ -1864,8 +1864,8 @@ These are the **highest-risk segment joins** inside the v2 full ordering draft. 
   - **Why:** both pages embed dense Walt Whitman material and share the corpus-unique page-body word `calls` (p40 “as Eric Parker calls her” ↔ p51 “indecent calls”), suggesting a possible shared reading/quotation register.
   - **Falsifier:** a third page is found using `calls` in its page body (making this non-unique), or a stronger Whitman-heavy successor is found for either page that forces them apart.
   - **Next falsification check:** test whether any additional Whitman-line fragment or travel/posture marker repeats across both pages (beyond generic scaffolding like `I began to`).
-  - **Phase 6 test (2025-12-31):** page-body n‑gram scan found no shared 4‑grams (or longer); only the generic 3‑gram `I began to` overlaps. Treat this as a low-weight continuity hint (word-level + motif), not a join lock.
-  - **Outcome:** `UNCLEAR`
+  - **Phase 6 test (2025-12-31):** page-body n‑gram scan found no shared 4‑grams (or longer); only the generic 3‑gram `I began to` overlaps. Treat this as a low-weight motif overlap only (word-level + shared Whitman embedding), not a join lock.
+  - **Outcome:** `UNCLEAR` (treat as a placeholder until a second independent anchor emerges).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_51.md → Pages/cains_jawbone_page_63.md
   - **Why:** current v2 tail adjacency; no shared participant/prop/place/quote continuation is known.
@@ -2085,7 +2085,7 @@ Delta from v2 (do not treat as accepted until falsified):
 
 Delta from v2 (do not treat as accepted until falsified):
 
-- **Motivation:** Pages/cains_jawbone_page_76.md ends on “I would have to think it over,” and page-body n‑gram scans confirm 5‑gram `I would have to think` appears only on Pages/cains_jawbone_page_76.md and Pages/cains_jawbone_page_98.md. Meanwhile, the v2 tail join `Pages/cains_jawbone_page_98.md → Pages/cains_jawbone_page_77.md` remains a low-signal placeholder.
+- **Motivation:** Pages/cains_jawbone_page_76.md ends on “I would have to think it over,” and page-body n‑gram scans confirm 5‑gram `I would have to think` appears only on Pages/cains_jawbone_page_76.md and Pages/cains_jawbone_page_98.md. Phase 6 testing found no second independent anchor beyond that phrase, so treat this as a low-weight relocation idea rather than a strong stitch. Meanwhile, the v2 tail join `Pages/cains_jawbone_page_98.md → Pages/cains_jawbone_page_77.md` remains a low-signal placeholder.
 - **Change A (trial):** move Pages/cains_jawbone_page_98.md from its v2 position (after Pages/cains_jawbone_page_84.md) to immediately after Pages/cains_jawbone_page_76.md in v2 Block X.
 - **Resulting join swaps (v2 → v11):**
   - Removed: `Pages/cains_jawbone_page_76.md → Pages/cains_jawbone_page_78.md`
@@ -2095,7 +2095,7 @@ Delta from v2 (do not treat as accepted until falsified):
   - Added: `Pages/cains_jawbone_page_84.md → Pages/cains_jawbone_page_77.md` (placeholder)
   - Removed: `Pages/cains_jawbone_page_98.md → Pages/cains_jawbone_page_77.md`
 - **Phase 6 test (2025-12-31):** re-read the Pages/cains_jawbone_page_76.md ending and Pages/cains_jawbone_page_98.md opening; the “I would have to think…” echo reads like a deliberate hand-off, and both pages open with the narrator watching a man opposite (“Looking over…” ↔ “He stood and looked down…”), but no concrete prop/place/name continuity is present at the boundary.
-  - **Outcome:** `UNCLEAR` (treat `Pages/cains_jawbone_page_76.md → Pages/cains_jawbone_page_98.md` as a better-motivated adjacency candidate than `Pages/cains_jawbone_page_84.md → Pages/cains_jawbone_page_98.md`, but do not upgrade without a second independent anchor).
+  - **Outcome:** `UNCLEAR` (keep as a better-motivated adjacency candidate than `Pages/cains_jawbone_page_84.md → Pages/cains_jawbone_page_98.md`, but do not upgrade without a second independent anchor; deprioritise until reinforced).
 - **Phase 6 test (2025-12-31):** re-read the Pages/cains_jawbone_page_98.md ending and Pages/cains_jawbone_page_78.md opening; no continuity marker (shared participant/prop/place/quote) appears, so treat `Pages/cains_jawbone_page_98.md → Pages/cains_jawbone_page_78.md` as a placeholder only.
   - **Outcome:** `UNCLEAR`
-- **Phase 6 note:** this trial is intended to preserve the high-signal `p76 ↔ p98` linkage while acknowledging it creates new weak tail boundaries. It likely pairs best with v8 (which removes Pages/cains_jawbone_page_77.md from the tail by pulling it into `N12`) to avoid introducing `Pages/cains_jawbone_page_84.md → Pages/cains_jawbone_page_77.md` as a long-term join.
+- **Phase 6 note:** this trial is intended to preserve the (now low-weight) `p76 ↔ p98` phrase overlap while acknowledging it creates new weak tail boundaries. It likely pairs best with v8 (which removes Pages/cains_jawbone_page_77.md from the tail by pulling it into `N12`) to avoid introducing `Pages/cains_jawbone_page_84.md → Pages/cains_jawbone_page_77.md` as a long-term join.
