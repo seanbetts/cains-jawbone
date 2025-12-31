@@ -5,7 +5,7 @@ It flashed through my mind that the place between Eros and the Queen’s Hall ha
 - **Entities:**
   - CERTAIN: “the girl” (recipient who will find something “franked” in the morning).
   - MAYBE: “he” (target of narrator’s warning/knowledge; may retaliate; identity unclear).
-  - MAYBE: “he” with arthritic knee who talked of cabbage butterflies as “fragments of a poem God had written” (could be the “old man” from Pages/cains_jawbone_page_68.md / Pages/cains_jawbone_page_69.md; confirm).
+  - MAYBE: “he” with arthritic knee who talked of cabbage butterflies as “fragments of a poem God had written” (could be the “old man” strand from Pages/cains_jawbone_page_68.md / Pages/cains_jawbone_page_69.md, but may instead be the *antagonist/perpetrator* being threatened/blackmailed; do not merge without a second identifier).
 - **Places:**
   - CERTAIN: “Eros” (Piccadilly Circus statue) + Queen’s Hall (London) corridor/route reference.
   - CERTAIN: Orpen painting is “The Café Royal” (1911–12) (R. P., *Sir William Orpen* (1923), Plate 16): https://books.google.co.uk/books?id=hCChAAAAMAAJ&pg=PA16&dq=CAFE+ROYAL.

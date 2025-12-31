@@ -51,6 +51,7 @@ Track *in-world* death/murder hypotheses separately from page-ordering hypothese
   - **Opportunity:** Narrator claims direct witnessing; surrounding pages suggest a “crucial meeting” and later fear of retaliation.
   - **Narrative tells:** Emphasis on time-of-night wakefulness + self-command (“collect myself”) after witnessing the slow death; later page frames a franked warning/blackmail note and the threat of being “done in”.
   - **Evidence summary:** IN-WORLD death is asserted with slow-killing language, but agent/means are not named.
+  - **Phase 6 test (2025-12-31):** re-read Pages/cains_jawbone_page_68.md, Pages/cains_jawbone_page_69.md, Pages/cains_jawbone_page_70.md; Page 69 remains an explicit witnessed slow-death claim (“done slowly to death before my eyes”), but Page 70’s retaliation fear is directed at an unnamed “he” (arthritic knee; “contact with his infancy” link via Page 95) who may be the *perpetrator/antagonist* rather than the old-man victim. Keep `P61` as victim-only and do not treat the Page 70 “he” as the victim without a second identifier.
   - **Falsifiers:** Later context shows the “old man” survives, the death is metaphorical, or the scene is revealed as purely recollected/hypothetical rather than witnessed.
 
 - `E03` (confidence: `0.20`; status: `downgraded`)

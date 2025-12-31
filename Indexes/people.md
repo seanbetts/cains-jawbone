@@ -373,10 +373,10 @@ Template:
   - **Notes:** Might be in-world rival or a name chosen for biblical wordplay; hold lightly.
 
 - `P61` — Names/aliases: “poor old man” (unnamed)
-  - **Tells:** witnessed being “done slowly to death” by narrator; associated with a “last crucial meeting” and (possibly) an arthritic knee.
+  - **Tells:** witnessed being “done slowly to death” by narrator; associated with a “last crucial meeting”.
   - **Pronouns/relationships:** old association with narrator (unclear).
   - **Pages:** Pages/cains_jawbone_page_68.md, Pages/cains_jawbone_page_69.md, Pages/cains_jawbone_page_70.md
-  - **Notes:** Treat as a single provisional ID for the “old man” thread across these pages until contradicted.
+  - **Notes:** Caution: Pages/cains_jawbone_page_70.md’s threatened “he” (arthritic knee; “babbled at me knee”; linked to Pages/cains_jawbone_page_95.md’s “contact with his infancy”) may be an antagonist/perpetrator figure rather than this victim; keep this ID provisional and split only if a second concrete identifier forces it.
 
 - `P62` — Names/aliases: untidy myopic-looking fellow (unnamed)
   - **Tells:** steps on narrator’s foot; suspected eavesdropper at a “crucial meeting”.
