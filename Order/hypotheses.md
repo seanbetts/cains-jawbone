@@ -259,8 +259,8 @@ _None currently._
 
 Directionless mapping from each constraint pair to narrator IDs (useful for cross-narrator joins).
 
-- **Cross-narrator constraints (current):** Pages/cains_jawbone_page_12.md ↔ Pages/cains_jawbone_page_50.md (`N10` ↔ `N39`); Pages/cains_jawbone_page_12.md ↔ Pages/cains_jawbone_page_75.md (`N10` ↔ `N06`); Pages/cains_jawbone_page_23.md ↔ Pages/cains_jawbone_page_24.md (`N40` ↔ `N03`); Pages/cains_jawbone_page_4.md ↔ Pages/cains_jawbone_page_100.md (`N19` ↔ `N24`); Pages/cains_jawbone_page_4.md ↔ Pages/cains_jawbone_page_21.md (`N19` ↔ `N12`); Pages/cains_jawbone_page_10.md ↔ Pages/cains_jawbone_page_33.md (`N02` ↔ `N25`).
-- Pages/cains_jawbone_page_4.md ↔ Pages/cains_jawbone_page_100.md — Narrator(s): N19 ↔ N24 (confidence: `MAYBE`)
+- **Cross-narrator constraints (current):** Pages/cains_jawbone_page_12.md ↔ Pages/cains_jawbone_page_50.md (`N10` ↔ `N39`); Pages/cains_jawbone_page_12.md ↔ Pages/cains_jawbone_page_75.md (`N10` ↔ `N06`); Pages/cains_jawbone_page_23.md ↔ Pages/cains_jawbone_page_24.md (`N40` ↔ `N03`); Pages/cains_jawbone_page_4.md ↔ Pages/cains_jawbone_page_100.md (`N19` ↔ `N24`; merge candidate: `N24` → `N01`); Pages/cains_jawbone_page_4.md ↔ Pages/cains_jawbone_page_21.md (`N19` ↔ `N12`); Pages/cains_jawbone_page_10.md ↔ Pages/cains_jawbone_page_33.md (`N02` ↔ `N25`).
+- Pages/cains_jawbone_page_4.md ↔ Pages/cains_jawbone_page_100.md — Narrator(s): N19 ↔ N24 (merge candidate: `N24` → `N01`) (confidence: `MAYBE`)
 - Pages/cains_jawbone_page_4.md ↔ Pages/cains_jawbone_page_21.md — Narrator(s): N19 ↔ N12 (confidence: `MAYBE`)
 - Pages/cains_jawbone_page_5.md ↔ Pages/cains_jawbone_page_58.md — Narrator(s): N19 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_6.md ↔ Pages/cains_jawbone_page_29.md — Narrator(s): N12 (confidence: `CERTAIN`)
