@@ -18,6 +18,7 @@ One’s eyebrows were one’s own, I always thought. Though I did remember a cas
   - Stage/cosmetics knowingness; nostalgic (“The old days”); romantic vacillation about Henry.
 - **Clustering hypotheses:**
   - MAYBE: cosmetics/social-voice cluster with Pages/cains_jawbone_page_5.md (powdered nose) and Henry-threads.
+  - Phase 6 test (2025-12-31): Pages/cains_jawbone_page_16.md ↔ Pages/cains_jawbone_page_100.md share only the generic 3‑gram `of course and` (plus the also-generic bigram `henry he`) and no shared prop/place/person/quote anchor → treat as an accidental overlap (Outcome: `FAIL`, not stitch evidence).
 - **Disconfirming evidence:**
   - If later pages show this Henry is clearly different from other Henry scenes.
 - **Research needed:**
