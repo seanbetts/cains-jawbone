@@ -1749,7 +1749,8 @@ These are the **highest-risk segment joins** inside the v2 full ordering draft. 
   - **Falsifier:** any page-level constraint forces Pages/cains_jawbone_page_52.md to sit adjacent to a different predecessor (e.g., a quote continuation or a unique scene-mechanic continuation).
   - **Next falsification check:** look for a second distinctive bridge anchor into the Pages/cains_jawbone_page_52.md / Pages/cains_jawbone_page_53.md interview scene beyond generic “papers/ham” (door/action, named participant, quote).
   - **Phase 6 test (2025-12-30):** re-read the Pages/cains_jawbone_page_24.md ending and Pages/cains_jawbone_page_52.md opening; found no continuity marker (shared participant/prop/place/time) and no mid-sentence or quote carryover, and corpus scan shows Pages/cains_jawbone_page_52.md’s distinctive anchors (“quicksands of crime”; “end of my interview”) do not recur elsewhere to force a different predecessor.
-  - **Outcome:** `UNCLEAR` (keep as a placeholder join until a positive continuity marker is found).
+  - **Phase 6 test (2025-12-31):** page-body n‑gram scan for Pages/cains_jawbone_page_52.md found no unique 4–6 word overlap with Pages/cains_jawbone_page_24.md, and the only unique ≥5‑gram overlap for Page 52 across the corpus is with Pages/cains_jawbone_page_34.md (`had ever been an innocent child`). This strengthens treating `24 → 52` as a pure block-boundary placeholder and prioritising `33 → 34 → 52 → 53` as the `N25` internal run.
+  - **Outcome:** `UNCLEAR` (no hard contradiction, but no positive support for `24 → 52` has emerged).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_91.md → Pages/cains_jawbone_page_86.md
   - **Why:** both pages use “Next day” and both name “Henry,” but `Henry` is an overloaded label across the corpus; no setting/prop/quote continuity is currently known.
