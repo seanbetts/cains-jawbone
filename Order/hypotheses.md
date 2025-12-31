@@ -1714,18 +1714,17 @@ Key changes vs v1:
 - **Block W (`N06`, confidence: `LIKELY` internal; Page 71 tentative):** Pages/cains_jawbone_page_66.md → Pages/cains_jawbone_page_67.md → Pages/cains_jawbone_page_71.md → Pages/cains_jawbone_page_73.md → Pages/cains_jawbone_page_74.md → Pages/cains_jawbone_page_75.md → Pages/cains_jawbone_page_83.md
 - **Block X (tail, confidence: `MAYBE`):** Pages/cains_jawbone_page_2.md → Pages/cains_jawbone_page_9.md → Pages/cains_jawbone_page_16.md → Pages/cains_jawbone_page_18.md → Pages/cains_jawbone_page_37.md → Pages/cains_jawbone_page_38.md → Pages/cains_jawbone_page_40.md → Pages/cains_jawbone_page_51.md → Pages/cains_jawbone_page_63.md → Pages/cains_jawbone_page_72.md → Pages/cains_jawbone_page_76.md → Pages/cains_jawbone_page_78.md → Pages/cains_jawbone_page_81.md → Pages/cains_jawbone_page_84.md → Pages/cains_jawbone_page_98.md → Pages/cains_jawbone_page_77.md → Pages/cains_jawbone_page_46.md → Pages/cains_jawbone_page_100.md
 
-### Proposed order (all 100 pages; v2.2)
+### Proposed order (all 100 pages; v2.3)
 
-Delta from v2.1 (Phase 6 tightening; keep falsifiable):
+Delta from v2.2 (Phase 6 tightening; keep falsifiable):
 
-- Adopt v4 (trial): merge `N25` into a single run: Pages/cains_jawbone_page_33.md → Pages/cains_jawbone_page_34.md → Pages/cains_jawbone_page_52.md → Pages/cains_jawbone_page_53.md.
-- Enforce `N09` Sequence E adjacency in the full order: Pages/cains_jawbone_page_68.md → Pages/cains_jawbone_page_69.md → Pages/cains_jawbone_page_95.md → Pages/cains_jawbone_page_70.md.
+- Trial re-stitch: move `N13` (Pages/cains_jawbone_page_86.md → Pages/cains_jawbone_page_87.md) to sit immediately after Block A’s Yeats/Masefield swap (Pages/cains_jawbone_page_23.md → Pages/cains_jawbone_page_24.md), removing the weak v2.2 boundary `Pages/cains_jawbone_page_91.md → Pages/cains_jawbone_page_86.md` in favor of the stronger shared Yeats/Caroline + “poet’s lines” framing.
 
 - **Block A (`N03` + `N40`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_32.md → Pages/cains_jawbone_page_3.md → Pages/cains_jawbone_page_27.md → Pages/cains_jawbone_page_30.md → Pages/cains_jawbone_page_23.md → Pages/cains_jawbone_page_24.md
+- **Block E (`N13`, confidence: `CERTAIN` internal):** Pages/cains_jawbone_page_86.md → Pages/cains_jawbone_page_87.md
 - **Block B (`N25` merged run, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_33.md → Pages/cains_jawbone_page_34.md → Pages/cains_jawbone_page_52.md → Pages/cains_jawbone_page_53.md
 - **Block C (`N12` poison-logistics + Trinder chain, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_6.md → Pages/cains_jawbone_page_21.md → Pages/cains_jawbone_page_36.md → Pages/cains_jawbone_page_29.md → Pages/cains_jawbone_page_35.md → Pages/cains_jawbone_page_77.md → Pages/cains_jawbone_page_80.md → Pages/cains_jawbone_page_59.md → Pages/cains_jawbone_page_60.md
 - **Block D (`N11`, confidence: `LIKELY` placement):** Pages/cains_jawbone_page_91.md
-- **Block E (`N13`, confidence: `CERTAIN` internal):** Pages/cains_jawbone_page_86.md → Pages/cains_jawbone_page_87.md
 - **Block F (`N19`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_4.md → Pages/cains_jawbone_page_58.md → Pages/cains_jawbone_page_5.md
 - **Block G (`N20`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_49.md → Pages/cains_jawbone_page_13.md → Pages/cains_jawbone_page_31.md
 - **Block H (`N16`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_7.md → Pages/cains_jawbone_page_45.md → Pages/cains_jawbone_page_26.md → Pages/cains_jawbone_page_44.md → Pages/cains_jawbone_page_55.md
