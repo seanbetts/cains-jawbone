@@ -1774,6 +1774,7 @@ These are the **highest-risk segment joins** inside the v2 full ordering draft. 
   - **Falsifier:** Pages/cains_jawbone_page_57.md is later forced into a non-dog setting (breaking `N02`), or Pages/cains_jawbone_page_33.md gains a second, stronger anchor to a different successor (beyond the current debts/bills bundle with Pages/cains_jawbone_page_34.md).
   - **Next falsification check:** search for any third instance of the Pages/cains_jawbone_page_57.md scene mechanism (Westphalian ham + “bits of paper” reading) that would triangulate placement.
   - **Phase 6 test (2025-12-30):** re-read the Pages/cains_jawbone_page_57.md ending and Pages/cains_jawbone_page_33.md opening; no continuity marker appears at the boundary (no repeated participant, object, or quoted source layer).
+  - **Update (2025-12-31):** page-body n‑gram scans reinforce Pages/cains_jawbone_page_57.md as internal to `N02` rather than a bridge into the debts scene: `it was good` (3‑gram) appears only on Pages/cains_jawbone_page_46.md + Pages/cains_jawbone_page_57.md, `we were alone` only on Pages/cains_jawbone_page_22.md + Pages/cains_jawbone_page_57.md, and `my people had` only on Pages/cains_jawbone_page_64.md + Pages/cains_jawbone_page_57.md. No comparable phrase-level overlap ties Page 57 to Pages/cains_jawbone_page_33.md.
   - **Outcome:** `UNCLEAR` (keep as placeholder; prioritize finding a bridge page for either the ham/papers mechanism or the Gourdoulis prop).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_34.md → Pages/cains_jawbone_page_96.md
