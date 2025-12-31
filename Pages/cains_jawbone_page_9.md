@@ -32,6 +32,7 @@ LIKELY WORDPLAY
 - **Motifs/continuity hooks:**
   - Bells/summoning; class hierarchy (“lower orders”).
   - Academia/professional identity (mineralogy lecturer).
+  - Phrase-level echo: page-body 4‑gram `I remembered that, when` appears only here and Pages/cains_jawbone_page_45.md; treat as low-weight unless reinforced by a second shared anchor (bell/assistant/class register, or a repeated quotation/pun structure).
 - **Voice/tells:**
   - Snobbish, managerial; expects obedience; distrusts but relies on skilled subordinate.
 - **Clustering hypotheses:**

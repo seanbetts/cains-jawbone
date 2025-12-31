@@ -15,6 +15,7 @@ I was feeling better already, and was glad that a memory, true though dim, had l
   - Food: omelette/eggs (echoes Page 36 egg motif).
   - Violence: “as I stabbed once.”
   - Misnaming/near-miss references (Brontë vs Corday).
+  - Phrase-level echo: page-body 4‑gram `There was something wrong` appears only here and Pages/cains_jawbone_page_79.md; treat as a possible stitch cue (direction unknown) but low-weight unless reinforced by a second anchor.
 - **Voice/tells:**
   - Highly self-aware/classical; slips/plays with names; abrupt aggression.
 - **Clustering hypotheses:**

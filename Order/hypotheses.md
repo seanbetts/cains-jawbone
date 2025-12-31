@@ -890,6 +890,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Pages:** Pages/cains_jawbone_page_9.md
   - **Rationale:** Page 9’s narrator is sharply characterised by a snobbish servant-bell frame and a specific academic self-positioning (mineralogy lectures at “Peebles University” with assistant Charles Day), plus an explicit Day/Knight pun.
   - **Key anchors:** “sound of the bell”; “lower orders”; “lectures on mineralogy at Peebles University”; “assistant Charles Day”; “Day… Knight cometh”.
+  - **Phase 6 scan (2025-12-31):** page-body 4‑gram `I remembered that, when` appears only on Pages/cains_jawbone_page_9.md and Pages/cains_jawbone_page_45.md (`N16`); treat as low-weight unless reinforced by a second shared anchor.
   - **Disconfirming evidence:** the Peebles/mineralogy identity is later shown to belong to a different narrator, or the scene is revealed as a quoted anecdote.
 
 - **Cluster:** `N28` Window-throw / “no detective” voice (confidence: `MAYBE`)
@@ -913,6 +914,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Pages:** Pages/cains_jawbone_page_38.md
   - **Rationale:** Page 38 combines classical self-awareness, covert observation, and a Southend memory with abrupt violence language and deliberate misnaming in the Marat vignette.
   - **Key anchors:** “Video meliora proboque”; Sonia Gordon; “tragic fortnight at Southend”; omelette/eggs metaphor; “as I stabbed once”; Brontë-for-Corday misnaming.
+  - **Phase 6 scan (2025-12-31):** page-body 4‑gram `There was something wrong` appears only on Pages/cains_jawbone_page_38.md and Pages/cains_jawbone_page_79.md (`N02`), suggesting a possible cross-strand stitch cue; keep low-weight unless reinforced by a second independent anchor.
   - **Disconfirming evidence:** “stabbed” is later shown to be purely culinary, or the Sonia Gordon/Southend anchors recur under a clearly different narrator voice.
 
 - **Cluster:** `N31` Flecker/Whitman compost + Surrey place-pun + pill voice (confidence: `MAYBE`)

@@ -18,6 +18,7 @@ It was that day my friend Sandy told me he was sure he wouldn’t sleep all nigh
 - **Motifs/continuity hooks:**
   - Strong animal POV signals: mating described anatomically; hunting/retrieval; medicine ingestion.
   - CERTAIN: “as flush as May” is a Hamlet simile (see above), used here for blushing/flushing.
+  - Phrase-level echo: page-body 4‑gram `there was something wrong` appears only here and Pages/cains_jawbone_page_38.md; treat as a low-weight cross-strand stitch cue unless reinforced.
   - MAYBE: cross-page echo — the same “as flush as May” phrase also appears on Pages/cains_jawbone_page_100.md (Scotland Yard/Kursaal coda); treat as a potential stitch point to test (see `Order/hypotheses.md`).
   - MAYBE: secondary echo of “May” = hawthorn/May-blossom (cf. Pages/cains_jawbone_page_48.md’s “Crataegus Oxyacantha” and Pages/cains_jawbone_page_75.md’s “the May”).
 - **Voice/tells:**

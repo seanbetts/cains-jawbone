@@ -231,7 +231,7 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_9.md
   - **Confidence:** `MAYBE`
   - **Disconfirming evidence:** “Peebles University” and the Day/Knight blackboard pun recur under a clearly different narrator voice, or Page 9 is later shown to be a quoted anecdote rather than the narrator’s lived scene.
-  - **Notes:** Singleton for now; next check: search for Peebles University / Charles Day / Day‑Knight proverb-pun recurrence; treat the Page 29 “old mineralogist” link as cast only unless voice tells match.
+  - **Notes:** Singleton for now; next check: search for Peebles University / Charles Day / Day‑Knight proverb-pun recurrence; treat the Page 29 “old mineralogist” link as cast only unless voice tells match. Phase 6 scan (2025-12-31): page-body 4‑gram `I remembered that, when` appears only on Pages/cains_jawbone_page_9.md and Pages/cains_jawbone_page_45.md; treat as low-weight overlap unless reinforced.
 
 - `N28` — Window-throw / “no detective” voice:
   - **Signature tells:** black-humoured self-exculpation (“thank goodness, I was no detective”) embedded in a hands-on violence vignette (tidying socks, heaving a victim out of a window); quotation-stitching (Browning + Shakespeare) used as narration rather than decoration; misheard dying-words riff (“Band, Speckled”).
@@ -255,7 +255,7 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_38.md
   - **Confidence:** `MAYBE`
   - **Disconfirming evidence:** “stabbed” is later shown to be purely culinary (cutting an omelette), or the Sonia Gordon/Southend anchors recur under a clearly different narrator voice.
-  - **Notes:** Singleton for now; next check: search for Sonia Gordon + Southend “tragic fortnight” anchors; don’t merge with Pages/cains_jawbone_page_100.md on “Southend” alone.
+  - **Notes:** Singleton for now; next check: search for Sonia Gordon + Southend “tragic fortnight” anchors; don’t merge with Pages/cains_jawbone_page_100.md on “Southend” alone. Phase 6 scan (2025-12-31): page-body 4‑gram `There was something wrong` appears only on Pages/cains_jawbone_page_38.md and Pages/cains_jawbone_page_79.md; treat as low-weight overlap unless reinforced.
 
 - `N31` — Flecker/Whitman compost + Surrey place-pun + pill voice:
   - **Signature tells:** dense allusive weave with intentional substitution inside quotations (Flecker name inserted into a Flecker-ghazel line); Whitman’s compost imagery (“winds… not infectious”, bean/potato growth) used as narrative grounding; pill-taking + self-correction (“I had probably got it wrong… Yet it was all right.”); place-name punning (Thames Ditton/Long Ditton).

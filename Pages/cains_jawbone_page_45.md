@@ -62,6 +62,7 @@ LIKELY WORDPLAY
 - **Motifs/continuity hooks:**
   - Proverb punning: absinthe/absence (“made the heart grow fonder”).
   - Corpse: Henry over “an innocent corpse of his own making”.
+  - Phrase-level echo: page-body 4‑gram `I remembered that when` appears only here and Pages/cains_jawbone_page_9.md; treat as low-weight unless reinforced by a second shared anchor.
   - Food/drink list: devilled Epicam; Royans aux Achard; Peter Barleys; Villacabras.
     - Epicam: advertised as “EPICAM… the Worcestershire Ham” (Country Life, 1934): https://books.google.co.uk/books?id=rRYiAQAAMAAJ&dq=Epicam&jscmd=SearchWithinVolume2
     - Epicure Ham Co. (Pershore, Worcs.) appears in Country Life Illustrated (1934): https://books.google.co.uk/books?id=OBYiAQAAMAAJ&dq=%22EPICURE%20HAM%22&jscmd=SearchWithinVolume2
