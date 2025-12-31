@@ -13,6 +13,7 @@ As I was not staying, but only passing through, I raised my hat to the eleven th
   - Dialect: “yett(s)” = (Scot.) gate/door (Chambers 1908): https://en.wikisource.org/wiki/Chambers%27s_Twentieth_Century_Dictionary_1908/Y_Y-wis.
   - Modernity image: heartbeat “purple smoke from an exhaust”.
   - Phase 6 scan (2025-12-31): the “work for him” framing appears only here (“doing another man’s work for him”) and Pages/cains_jawbone_page_100.md (“I had worked for him, Henry had worked for him”), suggesting a possible shared “employer/assignment” thread or narrator-merge candidate (low-weight until a second anchor links the pages).
+  - Phase 6 scan (2025-12-31): page-body phrase `my breast` appears only here and Pages/cains_jawbone_page_17.md (“in my breast”), suggesting a possible low-weight echo into the `N01` (Moon/Dawn) bundle; do not treat as adjacency evidence unless reinforced by a second, more concrete anchor (shared participant/place/prop).
 - **Quotes & allusions:**
   - CERTAIN: multiple Walt Whitman lines (e.g., “I dance with the dancers and drink with the drinkers…”).
   - MAYBE: “lovely and soothing… cool-enfolding… a dark mother… vast and well-veil’d” (Whitman description of an unnamed “him”; likely a personified thing such as sea/night).

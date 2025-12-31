@@ -23,6 +23,7 @@ I am conveniently situated, with the Moon on the one hand and the Dawn on the ot
   - CERTAIN (Phase 5 adjacency candidate): Pages/cains_jawbone_page_17.md → Pages/cains_jawbone_page_43.md (Moon/Dawn + hand/temperance continuity + Page 17’s “Ah, here she is…” arrival beat continues into Page 43’s dessert/drink beat). See `Order/hypotheses.md`.
   - MAYBE (Phase 6 join candidate): Pages/cains_jawbone_page_96.md → Pages/cains_jawbone_page_17.md (Page 96 café/tea “possible her” waiting beat + “Somerset/altar” marriage framing; Page 17 continues the waiting posture and resolves “Ah, here she is…”, with named `P21` Kate Somerset and “marriage is in the air”). Falsifier: “Somerset” on Page 96 is only the somersault idiom and Page 17’s cast/venue is incompatible.
   - MAYBE (Phase 6 merge candidate): Pages/cains_jawbone_page_17.md ↔ Pages/cains_jawbone_page_100.md — page-body-unique phrasing bundle “Why should I think…” + “her beauty” + “slips” appears only on these two pages; treat as evidence that Pages/cains_jawbone_page_100.md may be the same narrator as this Moon/Dawn segment (`N01`) unless contradicted (see `Order/hypotheses.md`).
+  - MAYBE (Phase 6 scan, 2025-12-31): page-body phrase `my breast` appears only here and Pages/cains_jawbone_page_51.md; treat as a low-weight echo only (not adjacency evidence) unless a second independent anchor links the pages.
 - **Disconfirming evidence:**
   - If “Moon”/“Dawn” are later shown as abstract time-of-day metaphors rather than venues.
 - **Research needed:**

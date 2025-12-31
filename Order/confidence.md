@@ -126,9 +126,9 @@ Track *in-world* death/murder hypotheses separately from page-ordering hypothese
   - **Means/method:** `UNKNOWN` (MAYBE heart failure; MAYBE poisoning/violence)
   - **Motive:** `UNKNOWN`
   - **Opportunity:** Antagonistic woman is physically present and “gloating” as narrator cannot rise; the scene ends with a valediction and a “drop” (“Good-bye, Henry. He drops awa…”).
-  - **Narrative tells:** Direct incapacity (“believe me, I cannot” get up) + “how ill… about my heart” framing; Scotland Yard invoked; ambiguous “Henry” role (may be overloaded).
-  - **Evidence summary:** Strong in-world collapse signal, but it is still unclear whether this is a completed death, an attempted killing, or purely rhetorical quotation-layer staging.
-  - **Falsifiers:** Later pages show the narrator remains intact/active after this moment, or clarify that the collapse language is purely figurative/quoted rather than an in-world medical crisis.
+  - **Narrative tells:** Direct incapacity (“believe me, I cannot” get up) + “how ill… about my heart” framing; Scotland Yard invoked; ambiguous “Henry” role (may be a person-name collision or an object-coded “handheld” Henry).
+  - **Evidence summary:** Strong in-world collapse signal, but it is still unclear whether this is a completed death, an attempted killing, or purely rhetorical quotation-layer staging. Note: Page 100’s “Henry… getting out of hand” + “drops awa” can also be read as a pen/object slipping from the narrator’s hand (compare Pages/cains_jawbone_page_63.md’s “Henry’s cap… trying him out on the table”), so do not assume `P01` Henry is involved in this event without a second anchor.
+  - **Falsifiers:** Later pages show the narrator remains intact/active after this moment, or clarify that the collapse language is purely figurative/quoted rather than an in-world medical crisis; or later context shows “Henry” here is a named person acting in a coherent in-world scene (disproving the object-coded reading).
 
 - `E10` (confidence: `0.35`; status: `downgraded`)
   - **Pages:** Pages/cains_jawbone_page_58.md
