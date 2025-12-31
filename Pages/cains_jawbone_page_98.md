@@ -14,6 +14,7 @@ He stood and looked down at me ; but I was not to be hurried. The money changed 
   - Money exchange + desire to later “describe him” (witness/identification register).
   - Medical framing (“physicians”; “proper medical advice”; “doctors and doctors”).
   - May-wordplay (person vs month; “May be” pun).
+  - MAYBE (Phase 6 scan, 2025-12-31): page-body phrase `I thought of May` appears only here and Pages/cains_jawbone_page_71.md; treat as a low-weight May-thread continuity hint (May-as-person vs month/flower ambiguity remains).
   - MAYBE: phrase-level echo “I would have to think…” appears only here and Pages/cains_jawbone_page_76.md (archive-level unique); Phase 6 check (2025-12-30) found no second independent anchor, so treat as a stylistic echo only until reinforced.
 - **Places:**
   - MAYBE: Quarry hills (unidentified; could be a setting anchor if matched elsewhere).

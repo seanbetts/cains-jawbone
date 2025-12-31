@@ -12,6 +12,7 @@ I plunged for the last time. The few remaining figures and letters swam as they 
 - **Motifs/continuity hooks:**
   - Figures/letters “swam” then “There were no more” (reading/decoding finish line?).
   - London as indifferent homecoming; beauty framed as sepulchral.
+  - MAYBE (Phase 6 scan, 2025-12-31): page-body 4‑gram `as far as I could` appears only here and Pages/cains_jawbone_page_5.md (“…see” ↔ “…gather”); treat as a low-weight continuity cue with the Pages/cains_jawbone_page_5.md coastal/Henry strand until reinforced.
 - **Voice/tells:**
   - Morbid, literary quotation as immediate lens for observation.
 - **Clustering hypotheses:**
