@@ -23,6 +23,7 @@ In one way, of course, I was glad they were married. I had always been rather a 
   - Family/purity obsession.
   - LIKELY: Skye/pedigree echo: compare Pages/cains_jawbone_page_19.md’s “my people… McCrimmons” line (Skye association) with this page’s “our island” + Maltese breed-rumour framing.
   - Food: “provided a chop for me” (strong animal/dog POV cue).
+  - Phrase-level echo: page-body `it was good` appears only here and Pages/cains_jawbone_page_57.md (meat delivery ↔ chop/approval), supporting a close linkage inside `N02` even if not adjacent.
   - Murder continuity: “the one I killed in the matter of Jasmine” (links to jasmine motif pages; compare Pages/cains_jawbone_page_99.md’s “she wasn’t the one I’d killed” alongside a Jasmine reference).
   - LIKELY: “matter of Jasmine” points to the jasmine/cat thread (cf. cat “Jasmine” on Pages/cains_jawbone_page_22.md) and to Pages/cains_jawbone_page_88.md’s “Tom and Flora’s Jasmine” household reference.
 - **Voice/tells:**

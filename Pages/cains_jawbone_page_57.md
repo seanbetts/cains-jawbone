@@ -23,6 +23,7 @@ It seemed from what I heard that Felton’s meat had been delivered at Brookesle
   - Westphalian ham shared (echoes Pages/cains_jawbone_page_52.md).
   - “bits of paper” reading as a recurring scene mechanism.
   - Holiday/boats: narrator claims ignorance; contrasts castle vs ship.
+  - Phrase-level echo: page-body `it was good` appears only here and Pages/cains_jawbone_page_46.md (meat delivery ↔ chop/approval), supporting a close linkage inside `N02` even if not adjacent.
 - **Voice/tells:**
   - Discomfort with meat; attentive to companion’s verbal framing.
   - LIKELY: dog-as-listener register (“It seemed from what I heard”; “he read…”), with a Skye/pedigree hint (“Some of my people had known the old Armadale Castle…”) echoing Pages/cains_jawbone_page_19.md’s “my people” line.

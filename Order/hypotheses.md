@@ -1378,7 +1378,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Rationale:** Explicit animal-coded reactions (ears pulled, “low noise”; tail “vibration” clue; mating/banishment behaviour) plus dog-coded scene mechanics (Mr. Hall + knob/bell summons) point to non-human narrator segments.
   - **Key anchors:** pulled ears + low noise; “no vibration… of my latter end”; “lowered myself and made love”; “provided a chop for me”; “nearly fell on my nose”; “my mistress” framing + “could have howled”; coat/undercoat literalism (“inherited coat”) and “vicarious”→vicar misunderstanding; Mr. Hall + knob/bell summons; Tate sugar hoarding + “I did not entirely understand” register.
   - **Membership notes:** Pages/cains_jawbone_page_8.md remains the highest-risk dog-voice fit (optics/“powerful glass”), but it also carries dog-coded tells (“sausage place… furtively I knew how excellent”; “never could quite understand how it worked”) and is hard-anchored by the bow + Mr. Hall call-bell continuity into Pages/cains_jawbone_page_19.md; treat it as core unless later evidence shows the narrator operating an optical instrument directly. Pages/cains_jawbone_page_57.md is lower-signal on dog physicality, but its dog-as-listener stance + “my people” Skye/pedigree hint (Armadale Castle) supports keeping it in this voice while noting coincidence risk with the `N25` Westphalian-ham/papers scene.
-  - **Bridge candidate (unresolved):** Pages/cains_jawbone_page_57.md shares table-setting overlap with the `N25` Westphalian-ham/papers scene, but it also carries rare `N02`-style voice tells (“my people” appears only on Pages/cains_jawbone_page_19.md and Pages/cains_jawbone_page_57.md; “we were alone…” appears only on Pages/cains_jawbone_page_22.md and Pages/cains_jawbone_page_57.md). Candidate placement (order-only): after Pages/cains_jawbone_page_19.md and before Pages/cains_jawbone_page_46.md unless a pinned daybook date anchor forces it elsewhere.
+  - **Bridge candidate (unresolved):** Pages/cains_jawbone_page_57.md shares table-setting overlap with the `N25` Westphalian-ham/papers scene, but it also carries rare `N02`-style voice tells (“my people” appears only on Pages/cains_jawbone_page_19.md and Pages/cains_jawbone_page_57.md; “we were alone…” appears only on Pages/cains_jawbone_page_22.md and Pages/cains_jawbone_page_57.md). Candidate placement (order-only): after Pages/cains_jawbone_page_19.md and before Pages/cains_jawbone_page_46.md unless a pinned daybook date anchor forces it elsewhere. Update (2025-12-31): page-body `it was good` appears only on Pages/cains_jawbone_page_57.md and Pages/cains_jawbone_page_46.md, strengthening Pages/cains_jawbone_page_57.md as the most plausible bridge into the Dec 14 coda beat.
   - **Bridge candidate (Phase 5):** Pages/cains_jawbone_page_10.md ↔ Pages/cains_jawbone_page_33.md (`N02` ↔ `N25`) (confidence: `LIKELY`; order: unknown)
     - **Why:** `Gourdoulis` appears only on these two page bodies (bet stake “a box of a hundred Egyptian cigarettes—Gourdoulis” ↔ debt-labelled “hundred box of Gourdoulis”), making it a high-signal cross-strand prop echo even if the surrounding scenes/voices are not adjacent.
     - **Disconfirming evidence:** a third page-body `Gourdoulis` instance emerges, or later evidence shows the Page 33 box is not cigarette-related (breaking the shared-prop premise).
@@ -1410,10 +1410,11 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
       - **Disconfirming evidence:**
         - Flora is proven to be a different referent on Pages/cains_jawbone_page_22.md vs Pages/cains_jawbone_page_79.md (e.g., an in-world person/cat rather than the dog‑mate).
     - **Coda — Dec 14 domestic (late-year beat)** (confidence: `LIKELY`)
-      - **Pages (ordered):** Pages/cains_jawbone_page_19.md → Pages/cains_jawbone_page_46.md
+      - **Pages (ordered):** Pages/cains_jawbone_page_19.md → Pages/cains_jawbone_page_57.md → Pages/cains_jawbone_page_46.md
       - **Why:**
         - Pages/cains_jawbone_page_46.md’s Dec 14 “to-day” anchor (Albert, Prince Consort) is later in the year than the mid‑August daybook run, making it a plausible late capstone within `N02`.
         - Treat this as non-adjacent within the full ordering unless a bridging autumn/winter `N02` page is found.
+        - Pages/cains_jawbone_page_57.md shares the dog-as-listener + food/reading register, and page-body `it was good` appears only on Pages/cains_jawbone_page_57.md and Pages/cains_jawbone_page_46.md (“I wondered if it was good…” ↔ “provided a chop… and said it was good…”), strengthening Pages/cains_jawbone_page_57.md as the most plausible hinge into this late-year domestic beat.
         - Shared domestic observer register (“listen to him”; “he said to her, out of a book”) plus Tom/Jasmine household continuity (“Tom and Flora’s Jasmine” ↔ “Some Tom… in the matter of Jasmine”) reads like a later domestic beat after the couple-argument pages.
         - Pages/cains_jawbone_page_46.md’s opening “glad they were married” reads naturally as a later state after the earlier “together too much”/“first quarrel” beats in the Aug chain.
         - Phrase-level anchor: “listen to him” / “listening to him” appears only on Pages/cains_jawbone_page_88.md and Pages/cains_jawbone_page_46.md (and is paired with the same quoted-book dynamic on both pages), strengthening the linkage beyond calendar reasoning.
@@ -1800,6 +1801,7 @@ These are the **highest-risk segment joins** inside the v2 full ordering draft. 
   - **Falsifier:** a bridging autumn/winter `N02` page is found that forces Pages/cains_jawbone_page_46.md into the immediate vicinity of Pages/cains_jawbone_page_77.md, or Pages/cains_jawbone_page_77.md is shown to belong to the same dog-coded narrator (currently unlikely).
   - **Next falsification check:** re-scan for any shared non-date anchor (unique quoted source fragment, shared named participant beyond “Henry”, or a shared object/brand) that could justify proximity.
   - **Phase 6 test (2025-12-30):** re-read the Pages/cains_jawbone_page_77.md ending and Pages/cains_jawbone_page_46.md opening; found no continuity marker at the boundary and no shared unique anchor beyond the overloaded name `Henry`.
+  - **Update (2025-12-31):** page-body `it was good` appears only on Pages/cains_jawbone_page_57.md and Pages/cains_jawbone_page_46.md, making the within-`N02` bridge (`Pages/cains_jawbone_page_57.md → Pages/cains_jawbone_page_46.md`) a higher-priority stitch than this tail placeholder.
   - **Outcome:** `UNCLEAR` (keep as placeholder; treat as a high-risk adjacency to replace if a stronger tail-stitch emerges).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_46.md → Pages/cains_jawbone_page_100.md
@@ -1856,10 +1858,25 @@ Delta from v2 (do not treat as accepted until falsified):
 - **Motivation:** Pages/cains_jawbone_page_96.md has a stronger boundary reading into the Moon/Dawn table scene (Pages/cains_jawbone_page_17.md) than it does into the Café Royal written‑account material, and adopting `Pages/cains_jawbone_page_96.md → Pages/cains_jawbone_page_17.md` removes one of v2’s weakest joins (`Pages/cains_jawbone_page_34.md → Pages/cains_jawbone_page_96.md`).
 - **Change A (trial):** remove Pages/cains_jawbone_page_96.md from v2 Block U (so Block U becomes `Pages/cains_jawbone_page_95.md → Pages/cains_jawbone_page_70.md`).
 - **Change B (trial):** insert Pages/cains_jawbone_page_96.md into v2 Block N, immediately before Pages/cains_jawbone_page_17.md (so Block N becomes `Pages/cains_jawbone_page_1.md → Pages/cains_jawbone_page_96.md → Pages/cains_jawbone_page_17.md → Pages/cains_jawbone_page_43.md`). Note: `Pages/cains_jawbone_page_1.md → Pages/cains_jawbone_page_96.md` remains a pure placeholder join pending a positive anchor.
-- **Resulting join swaps (v2 → v6):**
+  - **Resulting join swaps (v2 → v6):**
   - Removed: `Pages/cains_jawbone_page_34.md → Pages/cains_jawbone_page_96.md`
   - Added: `Pages/cains_jawbone_page_34.md → Pages/cains_jawbone_page_95.md`
   - Added: `Pages/cains_jawbone_page_1.md → Pages/cains_jawbone_page_96.md` (placeholder)
   - Added: `Pages/cains_jawbone_page_96.md → Pages/cains_jawbone_page_17.md` (candidate)
   - **Phase 6 test (2025-12-30):** re-read the Pages/cains_jawbone_page_34.md ending and Pages/cains_jawbone_page_95.md opening; found no continuity marker (setting/prop/quote/cast), so treat `Pages/cains_jawbone_page_34.md → Pages/cains_jawbone_page_95.md` as a placeholder only.
     - **Outcome:** `UNCLEAR`
+
+### Phase 6 trial variant (v7) — stitch Page 46 to `N02` via Page 57
+
+Delta from v2 (do not treat as accepted until falsified):
+
+- **Motivation:** Pages/cains_jawbone_page_46.md is strongly dog-coded and now has a unique phrase-level anchor to Pages/cains_jawbone_page_57.md: page-body `it was good` appears only on those two pages. This makes `… Pages/cains_jawbone_page_19.md → Pages/cains_jawbone_page_57.md → Pages/cains_jawbone_page_46.md` a better-supported `N02` internal bridge than keeping Pages/cains_jawbone_page_46.md as a tail singleton.
+- **Change A (trial):** extend v2 Block S by appending Pages/cains_jawbone_page_46.md (so Block S becomes `Pages/cains_jawbone_page_22.md → Pages/cains_jawbone_page_79.md → Pages/cains_jawbone_page_48.md → Pages/cains_jawbone_page_88.md → Pages/cains_jawbone_page_39.md → Pages/cains_jawbone_page_10.md → Pages/cains_jawbone_page_99.md → Pages/cains_jawbone_page_8.md → Pages/cains_jawbone_page_19.md → Pages/cains_jawbone_page_57.md → Pages/cains_jawbone_page_46.md`).
+- **Change B (trial):** remove Pages/cains_jawbone_page_46.md from v2 Block X (tail), yielding a new tail adjacency `Pages/cains_jawbone_page_77.md → Pages/cains_jawbone_page_100.md` to falsify (still placeholder).
+- **Resulting join swaps (v2 → v7):**
+  - Added: `Pages/cains_jawbone_page_57.md → Pages/cains_jawbone_page_46.md` (candidate)
+  - Removed: `Pages/cains_jawbone_page_77.md → Pages/cains_jawbone_page_46.md`
+  - Removed: `Pages/cains_jawbone_page_46.md → Pages/cains_jawbone_page_100.md`
+  - Added: `Pages/cains_jawbone_page_77.md → Pages/cains_jawbone_page_100.md` (placeholder)
+- **Phase 6 test (2025-12-31):** re-read the Pages/cains_jawbone_page_57.md ending and Pages/cains_jawbone_page_46.md opening; no direct scene-continuation marker is present at the boundary, but the unique phrase-level echo (`it was good` occurs only on these two page bodies) plus the shared dog-as-listener + food framing makes this the highest-signal available stitch into the Dec 14 coda beat.
+  - **Outcome:** `UNCLEAR` (treat as an improved placeholder; upgrade only if a second non-generic continuity marker emerges).
