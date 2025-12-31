@@ -128,6 +128,7 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
 - **Constraint:** Pages/cains_jawbone_page_76.md ↔ Pages/cains_jawbone_page_98.md (confidence: `LIKELY`)
   - **Anchor:** page-body-unique decision/deliberation phrase echo: 5‑gram `I would have to think` appears only on these two pages (`p76` “I would have to think it over.” ↔ `p98` “I would have to think seriously of that.”).
   - **Falsifier:** a third page is found containing the same phrase-level echo, or later context shows the two “think” clauses refer to clearly incompatible situations/narrators (making the overlap coincidental).
+  - **Phase 6 note (2025-12-31):** previously treated as a falsified cross-narrator echo in Phase 3; revived after Page 98 tail falsification scans identified this as its strongest phrase-level stitch candidate.
 - **Constraint:** Pages/cains_jawbone_page_5.md ↔ Pages/cains_jawbone_page_58.md (confidence: `CERTAIN`)
   - **Anchor:** page-body unique “went on … Browning” complaint while Henry’s serial-killing beat proceeds (“He went on about Browning.” ↔ “He went on talking about Browning.”), reinforced by the adjacent-count logic (`p58`’s “cooling remains of his fourth” ↔ `p5`’s “intended fifth”).
   - **Falsifier:** a third page-body instance of the same “went on … Browning” phrasing appears, or later evidence shows the Henry-count language is not comparable across the two scenes (different “fourth/fifth” referents) and the Browning‑talking bystanders/contexts are incompatible.
@@ -214,10 +215,6 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
 
 ### Falsified cross-narrator candidates (Phase 3)
 
-- **Candidate:** Pages/cains_jawbone_page_76.md ↔ Pages/cains_jawbone_page_98.md (`N15` ↔ `N38`) (confidence: `MAYBE`, disposition: `FALSIFIED`)
-  - **Prior anchor:** page-body unique phrase-level echo “I would have to think…” appears only on these two pages in the archive (“think it over” ↔ “think seriously of that”).
-  - **Falsification check:** scanned for additional shared non-generic phrases and shared named anchors; none found beyond the “I would have to think…” echo and a generic “he stood” bigram (also on Pages/cains_jawbone_page_32.md). Treat as a stylistic echo only (not a continuity constraint).
-  - **Revive if:** a second independent anchor emerges (shared cast/prop/place/time, or a second unique phrase-level overlap) tying the scenes.
 - **Candidate:** Pages/cains_jawbone_page_29.md ↔ Pages/cains_jawbone_page_96.md (`N12` ↔ `N09`) (confidence: `MAYBE`, disposition: `FALSIFIED`)
   - **Prior anchor:** shared aside phrase “if I may be permitted the expression” is a page-body unique 7‑gram across the corpus.
   - **Falsification check:** no second shared anchor (no shared 3–6 word phrases beyond the aside, no shared setting/cast/prop); the aside is applied to unrelated rhetorical contexts (garden-path idiom pun ↔ Scots “gars me grue” gloss), so treat as a stylistic echo only (not a constraint).
