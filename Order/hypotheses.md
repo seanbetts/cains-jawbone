@@ -1930,3 +1930,20 @@ Delta from v2 (do not treat as accepted until falsified):
   - Added: `Pages/cains_jawbone_page_72.md → Pages/cains_jawbone_page_49.md` (candidate)
 - **Phase 6 test (2025-12-31):** re-read the Pages/cains_jawbone_page_72.md ending and Pages/cains_jawbone_page_49.md opening; no direct prop/participant continuation appears at the boundary, but the unique phrase-level echo suggests a deliberate link.
   - **Outcome:** `UNCLEAR` (treat as an improved placement hypothesis; upgrade only if a second independent anchor emerges).
+
+### Phase 6 trial variant (v10) — move Page 100 into `N01` (Ecky/Aquarius) bundle
+
+Delta from v2 (do not treat as accepted until falsified):
+
+- **Motivation:** Pages/cains_jawbone_page_100.md is now best treated as a likely `N01` extension (multiple independent anchors to Pages/cains_jawbone_page_1.md / Pages/cains_jawbone_page_17.md / Pages/cains_jawbone_page_43.md), and its v2 tail adjacency `Pages/cains_jawbone_page_46.md → Pages/cains_jawbone_page_100.md` is a pure placeholder with no continuity marker. Pulling Page 100 into the `N01` block reduces “singleton tail” noise and lets the tail re-stitch independently of the Scotland Yard/Kursaal collapse scene.
+- **Change A (trial):** remove Pages/cains_jawbone_page_100.md from v2 Block X (tail), so Block X becomes `Pages/cains_jawbone_page_2.md → Pages/cains_jawbone_page_9.md → Pages/cains_jawbone_page_16.md → Pages/cains_jawbone_page_18.md → Pages/cains_jawbone_page_37.md → Pages/cains_jawbone_page_38.md → Pages/cains_jawbone_page_40.md → Pages/cains_jawbone_page_51.md → Pages/cains_jawbone_page_63.md → Pages/cains_jawbone_page_72.md → Pages/cains_jawbone_page_76.md → Pages/cains_jawbone_page_78.md → Pages/cains_jawbone_page_81.md → Pages/cains_jawbone_page_84.md → Pages/cains_jawbone_page_98.md → Pages/cains_jawbone_page_77.md → Pages/cains_jawbone_page_46.md` (terminal for now).
+- **Change B (trial):** append Pages/cains_jawbone_page_100.md to v2 Block N after Pages/cains_jawbone_page_43.md (so Block N becomes `Pages/cains_jawbone_page_1.md → Pages/cains_jawbone_page_17.md → Pages/cains_jawbone_page_43.md → Pages/cains_jawbone_page_100.md`).
+- **Resulting join swaps (v2 → v10):**
+  - Removed: `Pages/cains_jawbone_page_46.md → Pages/cains_jawbone_page_100.md`
+  - Added: `Pages/cains_jawbone_page_43.md → Pages/cains_jawbone_page_100.md` (candidate; within merged `N01`)
+  - Removed: `Pages/cains_jawbone_page_43.md → Pages/cains_jawbone_page_62.md` (block-boundary join in the v2 full-order draft)
+  - Added: `Pages/cains_jawbone_page_100.md → Pages/cains_jawbone_page_62.md` (placeholder)
+- **Phase 6 test (2025-12-31):** re-read the Pages/cains_jawbone_page_43.md ending and Pages/cains_jawbone_page_100.md opening; no direct scene-continuation marker is present, but the shared Francis Thompson embedding + Scots-dialect texture and the continuation of the “sinister/beautiful woman” suspicion read naturally within a single narrator bundle.
+  - **Outcome:** `UNCLEAR` (treat as a better-motivated placement than the v2 tail join, but do not upgrade without a second continuity marker beyond voice-level similarity).
+- **Phase 6 test (2025-12-31):** re-read the Pages/cains_jawbone_page_100.md ending and Pages/cains_jawbone_page_62.md opening; found no continuity marker (cast/prop/place/time/quote), so treat this new block-boundary as a placeholder only.
+  - **Outcome:** `UNCLEAR`
