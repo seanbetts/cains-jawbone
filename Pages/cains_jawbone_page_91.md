@@ -44,5 +44,6 @@ LIKELY WORDPLAY
 - **Clustering hypotheses:**
   - MAYBE: belongs with the detective/self-fashioning cluster (crime-museum + sleuth allusions).
   - MAYBE (Phase 5 bridge candidate): Pages/cains_jawbone_page_80.md ↔ Pages/cains_jawbone_page_91.md (“Blue Rocket” LIKELY = aconite ↔ Pages/cains_jawbone_page_80.md’s explicit aconitum; Henry present). Treat as a cross-strand method/prop echo unless a second independent anchor emerges. See `Order/hypotheses.md`.
+  - Phase 6 test (2025-12-31): institutional overlap with Pages/cains_jawbone_page_100.md (Scotland Yard ↔ “Black Museum”) has no phrase-level continuity (only generic shared 3‑gram `i would have`) and no shared prop/cast/place anchor beyond high-noise `Henry` → treat as thematic only, not stitch evidence.
 - **Disconfirming evidence:**
   - If “Black Museum” and Cadaver Charlie are purely figurative or offhand jokes with no recurrence.

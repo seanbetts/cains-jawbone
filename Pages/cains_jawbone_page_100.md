@@ -8,7 +8,7 @@ I dimly guess why the old dead so wanted this. I had worked for him, Henry had w
   - CERTAIN: “her” / “beastly woman” (unnamed; gloating over narrator).
   - CERTAIN: “old dead” (unnamed dead person for whom narrator and Henry worked).
   - MAYBE: “old dead” = the “dead old man” referenced by Pages/cains_jawbone_page_1.md’s Aquarius‑pen narrator; treat as a potential shared-employer thread, not an adjacency claim (see `Order/hypotheses.md`).
-  - MAYBE: “old dead” = the “deceased” who “wished us to know each other” on Pages/cains_jawbone_page_84.md; treat as a thematic stitch candidate until a second concrete anchor appears (see `Order/hypotheses.md`).
+  - MAYBE: “old dead” = the “deceased” who “wished us to know each other” on Pages/cains_jawbone_page_84.md; Phase 6 test (2025-12-31): overlap is thematic only (no shared 3‑grams or concrete prop/cast/place), so do not treat this as adjacency evidence unless a second independent anchor appears (see `Order/hypotheses.md`).
   - CERTAIN: “reckless old cock” (unnamed “he” slipping past Woolworth’s).
   - MAYBE: “the girl” (smiling at narrator).
   - MAYBE: May (used as a comparison “flush… as May”; could be person/month).
@@ -33,6 +33,8 @@ I dimly guess why the old dead so wanted this. I had worked for him, Henry had w
   - MAYBE: belongs with the Henry + Scotland Yard / detective cluster (police framing + Henry present).
   - Phase 6 test (2025-12-31): shared “buttonhole” word with Pages/cains_jawbone_page_4.md (“day’s buttonhole” ↔ “buttonhole has escaped from the buttonholer”), but no second anchor (prop/place/person/quote) and only the generic shared 3‑gram `i would have` → treat as motif-only echo (Outcome: `FAIL`, not a stitch candidate).
   - Phase 6 test (2025-12-31): Pages/cains_jawbone_page_79.md ↔ Pages/cains_jawbone_page_100.md share only the Hamlet quotation layer (page-body n‑gram scan: **zero** shared 3‑grams or longer; only quote-fragment bigrams like `as flush`/`as may`) and no shared prop/place/participant → treat as cross-quote echo only (Outcome: `FAIL`, not a stitch candidate).
+  - Phase 6 test (2025-12-31): Pages/cains_jawbone_page_38.md ↔ Pages/cains_jawbone_page_100.md share only an inferred locale layer (Southend ↔ Kursal/Kursaal) with **zero** shared 3‑grams (or longer) and no shared prop/cast/quote anchor → treat as place-only (Outcome: `FAIL`, not a stitch candidate).
+  - Phase 6 test (2025-12-31): institutional overlap with Pages/cains_jawbone_page_91.md (Scotland Yard ↔ “Black Museum”) has no phrase-level continuity (only generic shared 3‑gram `i would have`) and no shared prop/cast/place anchor beyond high-noise `Henry` → treat as thematic only, not stitch evidence.
   - MAYBE (Phase 6 merge candidate): Pages/cains_jawbone_page_100.md appears to share multiple independent `N01` anchors — dead-employer phrasing with Pages/cains_jawbone_page_1.md (“dead old man” ↔ “old dead”), page-body-unique phrasing bundle with Pages/cains_jawbone_page_17.md (“Why should I think…” + “her beauty” + “slips”), plus shared Francis Thompson embedding + Scots-dialect markers with Pages/cains_jawbone_page_43.md. Treat as a likely `N01` extension unless contradicted (see `Order/hypotheses.md`, `Indexes/narrators.md`).
 - **Disconfirming evidence:**
   - If the collapse/death framing is revealed as purely rhetorical (no actual in-world harm).

@@ -20,7 +20,7 @@ I wish she would tell me more. I wish she would give me some hint as to why the 
   - CERTAIN: “Kismet” = “fate, destiny” (Chambers 1908): https://en.wikisource.org/wiki/Chambers%27s_Twentieth_Century_Dictionary_1908/K_Kythe.
 - **Motifs/continuity hooks:**
   - Death-driven introduction (“why the deceased wished us to know each other”).
-  - MAYBE: cross-page hinge — this “why the deceased wished…” setup may connect to Pages/cains_jawbone_page_100.md’s “why the old dead so wanted this” (treat as a possible tail stitch; see `Order/hypotheses.md`).
+  - Phase 6 test (2025-12-31): thematic echo with Pages/cains_jawbone_page_100.md (“why the deceased wished…” ↔ “why the old dead so wanted…”), but page-body n‑gram scan shows **zero** shared 3‑grams (or longer) and no shared prop/cast/place/quote anchor → treat as low-weight thematic only, not stitch evidence.
   - Bathing/leisure imagery (one-piece; towel).
   - Fate framing (Kismet) + amputation reference.
 - **Voice/tells:**
