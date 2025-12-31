@@ -13,6 +13,7 @@ My ears were becoming attuned, and for the first time I heard clearly what the w
   - Will/inheritance: “leave everything to me”.
   - Spilled wine + “fragments of… flesh” (disturbing physical aftermath).
   - Pastoral nostalgia: hay field; buttered rolls; straw games; cricket-as-war-horse imagery.
+  - Phase 6 scan (2025-12-31): page-body word `fragments` appears only on Pages/cains_jawbone_page_14.md and Pages/cains_jawbone_page_70.md; treat as a low-weight possible re-stitch cue (do not assume adjacency without a second continuity marker).
 - **Voice/tells:**
   - Eavesdropping, then retreat (“none of my business”); memory-driven associative leaps.
 - **Clustering hypotheses:**
