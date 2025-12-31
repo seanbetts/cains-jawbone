@@ -523,7 +523,7 @@ Goal: highlight likely “join surfaces” between macro strands (people/place/o
   - Aconite mention (see `Indexes/objects_motifs.md`): Botany/poison page (80) ↔ Detective/violence page (91). Falsifier: aconite is incidental on one side and does not participate in the same “means/method” register.
 
 - **Narrator bridges (multi-macro join surfaces):**
-  - `N01` (Pages/cains_jawbone_page_1.md, Pages/cains_jawbone_page_17.md, Pages/cains_jawbone_page_43.md) spans Paper/money (pen/handwriting) ↔ Aesthetic/high-society (venue/menu-title register). Treat “to-day” phrasing on these pages as generic until a date-derivable anchor appears.
+  - `N01` (Pages/cains_jawbone_page_1.md, Pages/cains_jawbone_page_17.md, Pages/cains_jawbone_page_43.md) spans Paper/money (pen/handwriting) ↔ Aesthetic/high-society (venue/menu-title register). Phase 6 merge candidate: Pages/cains_jawbone_page_100.md (currently `N24`) likely belongs to this narrator bundle (see `Indexes/narrators.md`); treat as narrator-merge evidence, not adjacency evidence. Treat “to-day” phrasing on these pages as generic until a date-derivable anchor appears.
   - `N16` (Pages/cains_jawbone_page_7.md, Pages/cains_jawbone_page_26.md, Pages/cains_jawbone_page_44.md, Pages/cains_jawbone_page_45.md, Pages/cains_jawbone_page_55.md) spans Botany/poison, Paper/money, Detective/violence, and Time/calendar via smell-memory + evidence/violence framing; treat Pages/cains_jawbone_page_26.md (thematic overlap with `N12`’s murder-counting thread) and Pages/cains_jawbone_page_55.md as lower-confidence edge-overlaps until reinforced by a second distinctive `N16` anchor beyond the smell/Hodge layer.
   - `N17` (Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_41.md) spans Paper/money and Aesthetic/high-society through the shared Time/calendar register (dog-watch “first dog” timekeeping + London geography).
   - `N26` (Pages/cains_jawbone_page_54.md, Pages/cains_jawbone_page_56.md) spans Botany/poison + Time/calendar (Waterloo-day “to-day”) and Aesthetic/high-society (breakfast/second-sight voice); treat the time layer as anchored on Pages/cains_jawbone_page_54.md unless reinforced elsewhere.
@@ -537,6 +537,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Rationale:** Pen/hand/income fixation + astrology wordplay + “Dawn/Moon” venue language suggest a consistent narrator signature.
   - **Key anchors:** “mottled black and silver Aquarius”; “ruin my hand”; desserts/cocktails treated as titled items; “the Dawn”.
   - **Disconfirming evidence:** Alexander (“Ecky”) is later shown to be a different POV than the Aquarius-pen narrator, or “Aquarius” is found elsewhere in page-body text (making it a less specific signature anchor).
+  - **Phase 6 merge candidate:** Pages/cains_jawbone_page_100.md (currently `N24`) shares multiple independent `N01` anchors (unique “Why should I think…” phrasing + “her beauty” + “slips” bundle with Pages/cains_jawbone_page_17.md; shared Francis Thompson embedding + Scots-dialect markers with Pages/cains_jawbone_page_43.md; “dead old man”/“old dead” employer phrasing with Pages/cains_jawbone_page_1.md). Treat this as likely narrator-merger evidence, not a direct adjacency lock.
   - **Phase 4 internal ordering hypotheses (N01):**
     - **Sequence A — Moon/Dawn table scene** (confidence: `CERTAIN`)
       - **Pages (ordered):** Pages/cains_jawbone_page_17.md → Pages/cains_jawbone_page_43.md
@@ -835,6 +836,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Pages:** Pages/cains_jawbone_page_100.md
   - **Rationale:** Page 100’s narrator is physically incapacitated and frames a collapse scene via Scotland Yard and specific Southend Kursaal geography, with a gloating antagonist and a valedictory “Good-bye, Henry.”
   - **Key anchors:** Scotland Yard; Woolworth’s; Kursaal; buttonhole motif; “how ill… about my heart”.
+  - **Phase 6 merge candidate (high priority):** Pages/cains_jawbone_page_100.md may not be a standalone “police voice” at all; it likely extends `N01` (see `Indexes/narrators.md` and `Order/hypotheses.md` join-falsification notes around the `N24 → N01` test). Treat this as narrator-merger evidence; do not use it to justify weak tail adjacencies.
   - **Phase 6 scan (2025-12-31):** page-body `I cannot` appears only on Pages/cains_jawbone_page_100.md and Pages/cains_jawbone_page_63.md, and both pages treat Henry as something physically handled (cap on/off ↔ “getting out of hand” / “drops awa”); treat as a low-weight stitch/merge candidate unless reinforced.
   - **Disconfirming evidence:** the collapse frame is purely rhetorical or the Scotland Yard/Kursaal layer is reused by other narrators.
 
