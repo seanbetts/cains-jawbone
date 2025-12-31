@@ -16,8 +16,7 @@ Death’s clumsy fingered, that was the really frightful thing : I had seen them
   - Evidence/weapon: “open the bores” reads as firearm language (Chambers 1908 defines *bore* as “the size of the cavity of a gun”): https://en.wikisource.org/wiki/Chambers%27s_Twentieth_Century_Dictionary_1908/Boomerang_Brine
   - Yellow jasmine bowl; rococo mirror.
   - Phrase-level echo: page-body 5‑gram `I looked across the table` appears only here and Pages/cains_jawbone_page_85.md; treat as a potential stitch cue (direction unknown) but keep low-weight until a second independent anchor appears.
-  - MAYBE: page-body phrase-level echo `believe me` appears only here (“who would believe me?”) and Pages/cains_jawbone_page_100.md (“believe me, I cannot…”); treat as a weak cross-narrator stitch candidate pending a second anchor.
-    - Phase 6 check (2025-12-30): no second shared phrase-level overlap found beyond `believe me`, and no shared named anchor found.
+  - Phase 6 test (2025-12-31): page-body phrase-level echo `believe me` appears only here (“who would believe me?”) and Pages/cains_jawbone_page_100.md (“believe me, I cannot…”), but no second shared anchor (cast/prop/place/quote) exists → treat as rhetorical coincidence only (Outcome: `FAIL`, not a stitch candidate).
 - **Voice/tells:**
   - Forensic anxiety + ornate setting; identity remark (“my parents… I should be one… never… the other”) suggests a personal/biographical tell.
 - **Clustering hypotheses:**

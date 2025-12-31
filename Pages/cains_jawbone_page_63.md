@@ -15,7 +15,8 @@ I cannot help, even with this supreme distraction, thinking of my Babbie’s---d
     - LIKELY: “Rainbow” here is shorthand for a Rainbow Sundae (layered ice-cream sundae).
   - Hair fetishisation + French quotation.
   - Writer/source obsession: narrator dislikes anonymous writers; insists on naming them.
-  - Phase 6 stitch candidate: page-body `I cannot` appears only here and Pages/cains_jawbone_page_100.md, and both pages treat “Henry” as something physically handled (cap on/off here; “getting out of hand” / “drops awa” on p100), suggesting Henry may be a handheld capped object (e.g., a pen) across both pages; treat as `MAYBE` until reinforced by a second independent anchor (shared setting/prop/participant beyond Henry).
+  - Phase 6 test (2025-12-31): Pages/cains_jawbone_page_63.md ↔ Pages/cains_jawbone_page_100.md share only generic bigrams (including page-body `I cannot`) and **zero** shared 3‑grams (or longer) → treat as an accidental overlap (Outcome: `FAIL`, not a stitch candidate).
+  - MAYBE: “Henry” here may be a handheld capped object (cap on/off; “trying him out on the table”).
 - **Voice/tells:**
   - Infatuated, performatively learned; food-ordering amid literary rapture.
 - **Clustering hypotheses:**

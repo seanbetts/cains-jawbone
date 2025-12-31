@@ -205,13 +205,14 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
   - **Disconfirming evidence:** “Caroline” is later shown to be a different person from Caroline Jasmine (or a purely incidental naming coincidence), and/or Yeats quotation is shown to be generic scene-dressing across multiple unrelated narrators.
   - **Next falsification check:** find a second non-quote continuity anchor between the pages (shared prop/place/relationship), and decide whether the “Next day” openings can be reconciled within a single local run (or force non-adjacent placement).
   - **Phase 6 test (2025-12-30):** scanned shared bigrams/trigrams across page bodies; no additional phrase-level overlap found beyond generic `next day I` (also appears on Pages/cains_jawbone_page_20.md). Outcome: `UNCLEAR` for adjacency; keep as a strong shared-cast/citation bridge only until a concrete prop/place/relationship anchor emerges.
-- **Candidate:** Pages/cains_jawbone_page_37.md ↔ Pages/cains_jawbone_page_100.md (`N29` ↔ `N24`) (confidence: `MAYBE`)
+- **Candidate:** Pages/cains_jawbone_page_37.md ↔ Pages/cains_jawbone_page_100.md (`N29` ↔ `N01`) (confidence: `MAYBE`, disposition: `FALSIFIED`)
   - **Prior anchor:** `believe me` appears only on these page bodies (Pages/cains_jawbone_page_37.md: “who would believe me?”; Pages/cains_jawbone_page_100.md: “believe me, I cannot…”).
-  - **Why it might matter:** provides a rare phrase-level handle for stitching Pages/cains_jawbone_page_100.md into the late tail without relying only on singletons like Woolworth’s/Kursaal.
+  - **Why it might matter:** previously offered a rare phrase-level handle for stitching Pages/cains_jawbone_page_100.md into the late tail without relying only on singletons like Woolworth’s/Kursaal; now superseded by the stronger Pages/cains_jawbone_page_17.md ↔ Pages/cains_jawbone_page_100.md multi-anchor merge into `N01`.
   - **Disconfirming evidence:** if no second independent anchor exists (shared cast/prop/place, or a second unique phrase echo), treat as rhetorical coincidence rather than continuity.
   - **Next falsification check:** search for any additional shared non-generic phrase or shared participant/mechanism between the art-world “jasmine bowl” scene and the Scotland Yard/Kursaal collapse.
   - **Phase 6 test (2025-12-30):** scanned shared bigrams/trigrams across page bodies; no additional phrase-level overlap found beyond `believe me`.
-  - **Phase 6 test (2025-12-30):** checked for any shared named anchors (people/place/prop) between the two page bodies; none found (no overlapping proper nouns; their concrete anchors are disjoint). Outcome: `UNCLEAR` → keep as a low-weight phrase echo only.
+  - **Phase 6 test (2025-12-30):** checked for any shared named anchors (people/place/prop) between the two page bodies; none found (no overlapping proper nouns; their concrete anchors are disjoint).
+  - **Phase 6 test (2025-12-31):** given Pages/cains_jawbone_page_100.md now has a stronger narrator merge into `N01` (via Pages/cains_jawbone_page_17.md) and no second independent anchor exists here, treat `believe me` as a rhetorical coincidence only (not stitch evidence). Outcome: `FAIL`.
 
 ### Falsified cross-narrator candidates (Phase 3)
 
@@ -839,7 +840,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Rationale:** Page 100’s narrator is physically incapacitated and frames a collapse scene via Scotland Yard and specific Southend Kursaal geography, with a gloating antagonist and a valedictory “Good-bye, Henry.”
   - **Key anchors:** Scotland Yard; Woolworth’s; Kursaal; buttonhole motif; “how ill… about my heart”.
   - **Phase 6 merge candidate (high priority):** Pages/cains_jawbone_page_100.md may not be a standalone “police voice” at all; it likely extends `N01` (see `Indexes/narrators.md` and `Order/hypotheses.md` join-falsification notes around the `N24 → N01` test). Treat this as narrator-merger evidence; do not use it to justify weak tail adjacencies.
-  - **Phase 6 scan (2025-12-31):** page-body `I cannot` appears only on Pages/cains_jawbone_page_100.md and Pages/cains_jawbone_page_63.md, and both pages treat Henry as something physically handled (cap on/off ↔ “getting out of hand” / “drops awa”); treat as a low-weight stitch/merge candidate unless reinforced.
+  - **Phase 6 test (2025-12-31):** page-body n‑gram scan shows Pages/cains_jawbone_page_63.md ↔ Pages/cains_jawbone_page_100.md share **zero** 3‑grams (or longer) and only generic bigrams (including `i cannot`); treat this as an accidental overlap (Outcome: `FAIL`, not stitch/merge evidence).
   - **Disconfirming evidence:** the collapse frame is purely rhetorical or the Scotland Yard/Kursaal layer is reused by other narrators.
 
 - **Cluster:** `N25` Quicksands-of-crime interviewer / papers voice (confidence: `LIKELY`)
@@ -1054,7 +1055,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Rationale:** A distinctive infatuated, performatively learned voice combines French verse with dessert-order rules and an obsession with attributing writers, while observing Henry being “tried out” (cap on/off).
   - **Key anchors:** Babbie’s hair fixation; Baudelaire “La Chevelure”; “Rainbow” + Lent “second Sundae” rule; “I have always hated that these writers should be anonymous.”
   - **Disconfirming evidence:** later pages show the same motifs used casually by multiple unrelated narrators, or Page 63’s Henry is proven to be a different referent (not the recurring character-name).
-  - **Phase 6 scan (2025-12-31):** page-body `I cannot` appears only on Pages/cains_jawbone_page_63.md and Pages/cains_jawbone_page_100.md, and both pages treat Henry as physically handled (cap on/off ↔ “getting out of hand” / “drops awa”). Treat this as a possible stitch/merge candidate, but keep low-weight until a second independent anchor (shared setting/prop/participant) emerges.
+  - **Phase 6 test (2025-12-31):** page-body n‑gram scan: Pages/cains_jawbone_page_63.md ↔ Pages/cains_jawbone_page_100.md share **zero** 3‑grams (or longer) and only generic bigrams (including `i cannot`); treat this as an accidental overlap (Outcome: `FAIL`, not stitch/merge evidence).
 
 - **Cluster:** `N05` School colours / “the Head” voice (merged into `N06`) (confidence: `CERTAIN`)
   - **Pages:** Pages/cains_jawbone_page_66.md, Pages/cains_jawbone_page_67.md
@@ -1932,8 +1933,8 @@ These are the **highest-risk segment joins** inside the v2 full ordering draft. 
   - **Why:** no direct continuation; Pages/cains_jawbone_page_100.md has Scotland Yard + “buttonhole” and a collapsing narrator, while Pages/cains_jawbone_page_46.md is a dog-coded aside with a different domestic register.
   - **Bridge candidates (direction unknown):**
     - Pages/cains_jawbone_page_100.md ↔ Pages/cains_jawbone_page_4.md (unique “buttonhole” word echo).
-    - Pages/cains_jawbone_page_100.md ↔ Pages/cains_jawbone_page_37.md (unique “believe me” phrase echo).
-    - Pages/cains_jawbone_page_100.md ↔ Pages/cains_jawbone_page_63.md (unique page-body `I cannot` + Henry handled as an object (cap on/off ↔ “drops awa”)).
+    - Pages/cains_jawbone_page_100.md ↔ Pages/cains_jawbone_page_37.md (unique “believe me” phrase echo; Phase 6 test (2025-12-31): no second anchor → treat as rhetorical coincidence (Outcome: `FAIL`), not a stitch).
+    - Pages/cains_jawbone_page_100.md ↔ Pages/cains_jawbone_page_63.md (page-body `I cannot` + Henry handled as an object; Phase 6 test (2025-12-31): zero shared 3‑grams (or longer) and only generic bigrams → treat as accidental overlap (Outcome: `FAIL`), not a stitch).
     - Pages/cains_jawbone_page_100.md ↔ Pages/cains_jawbone_page_16.md (corpus-unique 3‑gram `of course and` + corpus-unique bigram `henry he`; still low-weight without a second concrete anchor).
     - Pages/cains_jawbone_page_100.md ↔ Pages/cains_jawbone_page_17.md (unique “Why should I think…” phrasing + “her beauty” + “slips” only occur on these pages; also both have the same “sinister beauty” register).
     - Pages/cains_jawbone_page_100.md ↔ Pages/cains_jawbone_page_43.md (both embed Francis Thompson and both use Scots-dialect markers; supports a possible narrator merge into `N01` rather than a tail-adjacency stitch).
@@ -1951,7 +1952,7 @@ These are the **highest-risk segment joins** inside the v2 full ordering draft. 
   - **Phase 6 test (2025-12-30):** re-read Pages/cains_jawbone_page_84.md and Pages/cains_jawbone_page_100.md for an explicit continuation of the “why the deceased/old dead wanted this” framing; the thematic hinge is strong, but there is no shared concrete prop/place/name marker (no Southend/Woolworth’s/Kursal/Dagenham carryover), so keep as a promising but unproven stitch idea.
   - **Phase 6 test (2025-12-30):** re-read Pages/cains_jawbone_page_91.md and Pages/cains_jawbone_page_100.md for a stronger institutional crime continuity (“Black Museum” ↔ Scotland Yard) and a shared Henry-misbehaviour beat (“playing about” ↔ “getting out of hand”); suggestive, but still lacks a hard boundary continuation and competes with the stronger `Pages/cains_jawbone_page_60.md → Pages/cains_jawbone_page_91.md` placement.
   - **Phase 6 test (2025-12-30):** re-read the Pages/cains_jawbone_page_46.md ending and Pages/cains_jawbone_page_100.md opening; found no continuity marker at the boundary and no shared unique anchor that would justify immediate adjacency.
-  - **Phase 6 test (2025-12-30):** corpus scan found `believe me` appears only on Pages/cains_jawbone_page_37.md and Pages/cains_jawbone_page_100.md; treat this as a possible alternative stitch candidate (still requires a second independent anchor).
+  - **Phase 6 test (2025-12-31):** corpus scan confirms `believe me` appears only on Pages/cains_jawbone_page_37.md and Pages/cains_jawbone_page_100.md, but no second anchor exists; treat this as a rhetorical coincidence only (Outcome: `FAIL`), not stitch evidence.
   - **Phase 6 test (2025-12-30):** corpus scan confirms Pages/cains_jawbone_page_46.md’s distinctive anchors (“Hal”, “Maltese”, “chop”) appear only on that page, and Pages/cains_jawbone_page_100.md’s key anchors (“Scotland Yard”, “Woolworth’s”, “Kursal”) appear only on that page, reinforcing that this is currently a pure placeholder join.
   - **Phase 6 test (2025-12-31):** page-body n‑gram scan between Pages/cains_jawbone_page_46.md and Pages/cains_jawbone_page_100.md found no shared 4‑grams (or longer), and no shared-unique word anchors; the only overlap is the generic 3‑gram `for the first`.
   - **Phase 6 test (2025-12-31):** corpus scan found the “work for him” framing appears only on Pages/cains_jawbone_page_51.md (“doing another man’s work for him”) and Pages/cains_jawbone_page_100.md (“I had worked for him, Henry had worked for him”), suggesting Page 100 may stitch more naturally into the Page 51 → Page 63 tail pocket (shared “employer/assignment” posture + heart-focus) than to the dog-coded Page 46. Treat as low-weight until reinforced by a second, more concrete anchor (shared prop/participant/place).
