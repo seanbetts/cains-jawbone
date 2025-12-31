@@ -130,7 +130,7 @@ Track *in-world* death/murder hypotheses separately from page-ordering hypothese
   - **Evidence summary:** Strong in-world crisis/death signal at the end of a segment, but agency and the exact victim(s) are not confirmed.
   - **Falsifiers:** Later pages show the narrator (and Henry) intact and the scene is revealed as rhetorical rather than an in-world death event.
 
-- `E10` (confidence: `0.85`; status: `active`)
+- `E10` (confidence: `0.35`; status: `downgraded`)
   - **Pages:** Pages/cains_jawbone_page_58.md
   - **Victim candidate(s):** `P92` (old family lawyer; Henry’s “third”)
   - **Murderer candidate(s):** `P01` (Henry)
@@ -138,10 +138,10 @@ Track *in-world* death/murder hypotheses separately from page-ordering hypothese
   - **Motive:** `UNKNOWN`
   - **Opportunity:** Henry is described in direct proximity to the aftermath and is framed as the agent by the “third… victim” tally.
   - **Narrative tells:** Explicit victim counting (“his third”) + grotesque detail (“viscera”) suggest an in-world killing rather than a mere threat.
-  - **Evidence summary:** Page 58 asserts a specific in-world victim as Henry’s “third” with physical remains described.
-  - **Falsifiers:** The “third… victim” and “viscera” are shown to be metaphor/genre exaggeration, or refer to non-lethal “victim” usage (stage/medical/etc.).
+  - **Evidence summary:** Page 58 asserts a specific victim as Henry’s “third” with physical remains described, but this is a single-page claim inside a strongly allusive/genre register (Browning monologue + serial-counting) with no corroborating page naming this victim; downgrade until we can confirm this is in-world rather than embedded fiction/metaphor.
+  - **Falsifiers:** A later page shows this “third… victim” framing is metaphor/genre exaggeration (or non-lethal “victim” usage), or a later page shows the lawyer alive/unrelated.
 
-- `E11` (confidence: `0.85`; status: `active`)
+- `E11` (confidence: `0.35`; status: `downgraded`)
   - **Pages:** Pages/cains_jawbone_page_58.md
   - **Victim candidate(s):** `P93` (intruding charlady; Henry’s “fourth”)
   - **Murderer candidate(s):** `P01` (Henry)
@@ -149,8 +149,8 @@ Track *in-world* death/murder hypotheses separately from page-ordering hypothese
   - **Motive:** `UNKNOWN`
   - **Opportunity:** Henry is described stooping over “cooling remains” and is framed as the agent by the “fourth… victim” tally.
   - **Narrative tells:** Immediate physical proximity to a body (“cooling remains”) makes a non-literal reading harder, though still possible.
-  - **Evidence summary:** Page 58 asserts a second specific in-world victim as Henry’s “fourth,” with the body still present.
-  - **Falsifiers:** The scene is revealed as embedded fiction/metaphor, or later pages show the “chardlady” alive/unrelated.
+  - **Evidence summary:** Page 58 asserts a second victim as Henry’s “fourth,” with the body still present, but this is only asserted on one page and sits inside the same “Browning/genre” register; downgrade until corroborated as an in-world death.
+  - **Falsifiers:** The scene is revealed as embedded fiction/metaphor (or non-lethal “victim” usage), or later pages show the charlady alive/unrelated.
 
 - `E12` (confidence: `0.50`; status: `active`)
   - **Pages:** Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md

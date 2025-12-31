@@ -32,7 +32,7 @@ Track people as candidates with evolving roles. This file is deliberately probab
   - **Role candidate:** `murderer`
   - **Confidence (0.0–1.0):** 0.55
   - **Supporting pages:** Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_45.md, Pages/cains_jawbone_page_58.md
-  - **Evidence summary:** Strongest in-world kill evidence is within the Pages/cains_jawbone_page_21.md / Pages/cains_jawbone_page_35.md / Pages/cains_jawbone_page_36.md strand (blood + corpse burial + pursuit), with additional murder-counting corroboration on Pages/cains_jawbone_page_58.md; treat Pages/cains_jawbone_page_45.md as a low-weight echo given the overloaded “Henry” label.
+  - **Evidence summary:** Strongest in-world kill evidence is within the Pages/cains_jawbone_page_21.md / Pages/cains_jawbone_page_35.md / Pages/cains_jawbone_page_36.md strand (blood + corpse burial + pursuit); treat Pages/cains_jawbone_page_58.md as low-weight corroboration only (possible embedded/genre register) and Pages/cains_jawbone_page_45.md as a low-weight echo given the overloaded “Henry” label.
   - **Falsifiers:** “Victim/corpse” language resolves as non-lethal (e.g., stage/medical metaphor), or `P01` conflates multiple distinct “Henrys” (including object-coded/assistant uses) and the murderous Henry is a different person from other Henry appearances.
   - **Status:** `active`
 
@@ -75,20 +75,20 @@ Track people as candidates with evolving roles. This file is deliberately probab
 - `P92`
   - **Aliases / names used:** “old family lawyer” (unnamed)
   - **Role candidate:** `victim`
-  - **Confidence (0.0–1.0):** 0.90
+  - **Confidence (0.0–1.0):** 0.35
   - **Supporting pages:** Pages/cains_jawbone_page_58.md
-  - **Evidence summary:** Referred to as Henry’s “third” victim with explicit bodily aftermath (“viscera”).
-  - **Falsifiers:** The passage is revealed as metaphor/genre exaggeration, or “third… victim” is shown to refer to something other than an in-world death.
-  - **Status:** `active`
+  - **Evidence summary:** Referred to as Henry’s “third” victim with explicit bodily aftermath (“viscera”), but the claim appears only on a single page inside a strongly allusive/genre register; treat as a provisional in-world victim pending corroboration.
+  - **Falsifiers:** The passage is revealed as metaphor/embedded fiction (or non-lethal “victim” usage), or later pages show the lawyer alive/unrelated.
+  - **Status:** `downgraded`
 
 - `P93`
   - **Aliases / names used:** “rash intruding charlady” (unnamed)
   - **Role candidate:** `victim`
-  - **Confidence (0.0–1.0):** 0.90
+  - **Confidence (0.0–1.0):** 0.35
   - **Supporting pages:** Pages/cains_jawbone_page_58.md
-  - **Evidence summary:** Referred to as Henry’s “fourth” victim with “cooling remains” immediately present.
-  - **Falsifiers:** The “fourth… victim” framing is metaphorical/embedded-fiction, or later pages show the charlady is alive and the scene is non-literal.
-  - **Status:** `active`
+  - **Evidence summary:** Referred to as Henry’s “fourth” victim with “cooling remains” present, but asserted only on a single page and not corroborated elsewhere; treat as a provisional in-world victim pending confirmation.
+  - **Falsifiers:** The “fourth… victim” framing is metaphorical/embedded-fiction (or non-lethal “victim” usage), or later pages show the charlady alive/unrelated.
+  - **Status:** `downgraded`
 
 - `P91`
   - **Aliases / names used:** “dead old man”
