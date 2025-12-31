@@ -152,27 +152,27 @@ Track *in-world* death/murder hypotheses separately from page-ordering hypothese
   - **Evidence summary:** Page 58 asserts a second specific in-world victim as Henry’s “fourth,” with the body still present.
   - **Falsifiers:** The scene is revealed as embedded fiction/metaphor, or later pages show the “chardlady” alive/unrelated.
 
-- `E12` (confidence: `0.45`; status: `active`)
-  - **Pages:** Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_45.md
-  - **Victim candidate(s):** `UNKNOWN` (Henry’s “latest victim” / “corpse of his own making”)
+- `E12` (confidence: `0.50`; status: `active`)
+  - **Pages:** Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md
+  - **Victim candidate(s):** `UNKNOWN` (Henry’s “latest victim” / buried corpse; additional victims implied by “crimson list”)
   - **Murderer candidate(s):** `P01` (Henry)
   - **Means/method:** `UNKNOWN`
   - **Motive:** `UNKNOWN`
-  - **Opportunity:** Henry is seen directly over a body, with blood present, and later again over a corpse framed as his own doing.
-  - **Narrative tells:** Repeated corpse/victim framing across pages suggests continuity in Henry’s role as killer (even if the specific victim is not named).
-  - **Evidence summary:** Multiple pages depict Henry in immediate contact with a corpse/victim with blood, supporting an in-world death event tied to him.
-  - **Falsifiers:** “Victim/corpse” language is consistently metaphorical (medical/stage), or these pages are shown to belong to different “Henry” identities.
+  - **Opportunity:** Henry is seen directly over a body with blood present (p21), later treated as an active manhunt target (p35), and is explicitly described as having buried a corpse (p36).
+  - **Narrative tells:** “body of his latest victim”; “flying squad”; “crimson list”; “He had buried the corpse; only the eyes showed.”
+  - **Evidence summary:** A coherent within-voice strand depicts Henry as a killer under police pursuit, with at least one in-world corpse explicitly present/hidden even if the victim’s identity is not yet recoverable from these pages alone.
+  - **Falsifiers:** “Victim/corpse” language is consistently metaphorical (medical/stage), or the Henry on these pages is shown to be a different referent from the murderous Henry elsewhere (name collision).
 
-- `E13` (confidence: `0.35`; status: `active`)
-  - **Pages:** Pages/cains_jawbone_page_26.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md
-  - **Victim candidate(s):** `UNKNOWN` (at least two prior “killings” implied)
-  - **Murderer candidate(s):** `P01` (Henry)
+- `E13` (confidence: `0.15`; status: `downgraded`)
+  - **Pages:** Pages/cains_jawbone_page_26.md, Pages/cains_jawbone_page_45.md
+  - **Victim candidate(s):** `UNKNOWN` (at least two prior “killings” implied; “corpse of his own making”)
+  - **Murderer candidate(s):** `P01` (Henry; identity may be overloaded)
   - **Means/method:** `UNKNOWN`
   - **Motive:** `UNKNOWN`
-  - **Opportunity:** The narration treats Henry’s killings as established history and links them to active pursuit (police “flying squad”) and corpse disposal (“buried the corpse; only the eyes showed”).
-  - **Narrative tells:** “First two killings” + “crimson list” + police manhunt reads like serial killing rather than idle metaphor, but remains unconfirmed without named victims.
-  - **Evidence summary:** These pages collectively strengthen the hypothesis that Henry has multiple in-world victims beyond those explicitly named on Page 58.
-  - **Falsifiers:** The “killings” are shown to refer to performances/figures of speech, or the pages are not in the same narrative strand/“Henry”.
+  - **Opportunity:** The pages assert prior killings and place Henry in proximity to a corpse, but do not establish a named victim or a full scene-mechanic continuity.
+  - **Narrative tells:** “first two killings of his” (p26); “bending innocently over an innocent corpse of his own making” (p45).
+  - **Evidence summary:** Treat as a low-confidence supporting echo for a murderous-Henry reading; the cross-narrator “Henry” label is heavily overloaded elsewhere, so do not count this as a distinct death event unless a later anchor ties these pages to a specific victim/method sequence.
+  - **Falsifiers:** “killings/corpse” language is shown to be figurative or embedded-story content, or this Henry is proven to be a different identity from the killer-Henry strand (name collision).
 
 - `E14` (confidence: `0.65`; status: `active`)
   - **Pages:** Pages/cains_jawbone_page_80.md, Pages/cains_jawbone_page_59.md, Pages/cains_jawbone_page_60.md

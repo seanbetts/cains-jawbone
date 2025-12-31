@@ -30,10 +30,10 @@ Track people as candidates with evolving roles. This file is deliberately probab
 - `P01`
   - **Aliases / names used:** Henry
   - **Role candidate:** `murderer`
-  - **Confidence (0.0–1.0):** 0.60
+  - **Confidence (0.0–1.0):** 0.55
   - **Supporting pages:** Pages/cains_jawbone_page_21.md, Pages/cains_jawbone_page_35.md, Pages/cains_jawbone_page_36.md, Pages/cains_jawbone_page_45.md, Pages/cains_jawbone_page_58.md
-  - **Evidence summary:** Repeatedly framed with victims/corpses and a numbered victim list: seen over “the body of his latest victim” with blood; linked to corpse-burial; described with an ongoing “crimson list”; explicitly tallied “third” and “fourth” victims.
-  - **Falsifiers:** “Victim/corpse” language resolves as non-lethal (e.g., stage/medical metaphor), or `P01` conflates multiple distinct “Henrys” and the murderous Henry is a different person from other Henry appearances.
+  - **Evidence summary:** Strongest in-world kill evidence is within the Pages/cains_jawbone_page_21.md / Pages/cains_jawbone_page_35.md / Pages/cains_jawbone_page_36.md strand (blood + corpse burial + pursuit), with additional murder-counting corroboration on Pages/cains_jawbone_page_58.md; treat Pages/cains_jawbone_page_45.md as a low-weight echo given the overloaded “Henry” label.
+  - **Falsifiers:** “Victim/corpse” language resolves as non-lethal (e.g., stage/medical metaphor), or `P01` conflates multiple distinct “Henrys” (including object-coded/assistant uses) and the murderous Henry is a different person from other Henry appearances.
   - **Status:** `active`
 
 - `P104`
