@@ -911,7 +911,8 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Pages:** Pages/cains_jawbone_page_37.md
   - **Rationale:** Page 37’s voice blends art-world framing and ornate decor with anxious weapon/evidence language and a credibility fear (“who would believe me?”), anchored by the Firbank/Malta name-drop.
   - **Key anchors:** “yellow jasmine”; “rococo mirror”; “private view… post‑Vorticists”; Ronald Firbank in Malta; “chamber within chamber”; “open the bores”; “Death… fingered”; Shrewsbury lock‑up/prison “this time” hearing contrast.
-  - **Phase 6 scan (2025-12-31):** page-body 5‑gram `I looked across the table` appears only on Pages/cains_jawbone_page_37.md and Pages/cains_jawbone_page_85.md (`N08`), suggesting a possible cross-strand stitch cue; keep low-weight unless a second independent anchor (participant/prop/setting) is found.
+  - **Phase 6 test (2025-12-31):** n‑gram scan confirms Pages/cains_jawbone_page_37.md ↔ Pages/cains_jawbone_page_85.md share only variants of the generic table-phrase `I looked across the table` (no second shared anchor). Treat as an accidental overlap (not a stitch candidate).
+    - **Outcome:** `FAIL`
   - **Disconfirming evidence:** the art/Firbank layer is shown to be detachable quotation collage used by multiple narrators, or the “bores/chambers” language is proven non-weapon and the voice aligns with an existing narrator signature.
   - **Overlap hinge (cross-narrator; do not treat as membership):** Pages/cains_jawbone_page_27.md shares the rare “Death… fingered” metaphor + Shrewsbury lock‑up/prison “this time” hearing contrast, but its Clem/coffee anchors align with `N03` → keep it as overlap-only.
   - **Falsification check (2025-12-25):** searched the page corpus for any additional N29 anchor repetition beyond Pages/cains_jawbone_page_37.md (Firbank/Malta/post‑Vorticists/rococo mirror/jasmine bowl/bores/chambers) and any Pages/cains_jawbone_page_27.md-specific anchors beyond Pages/cains_jawbone_page_27.md (Peaberry Mysore/Blue Mountain/Clem) and found no cross-over beyond Shrewsbury + “Death… fingered” + “this time” hearing contrast → do not increase confidence.
@@ -922,7 +923,8 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Pages:** Pages/cains_jawbone_page_38.md
   - **Rationale:** Page 38 combines classical self-awareness, covert observation, and a Southend memory with abrupt violence language and deliberate misnaming in the Marat vignette.
   - **Key anchors:** “Video meliora proboque”; Sonia Gordon; “tragic fortnight at Southend”; omelette/eggs metaphor; “as I stabbed once”; Brontë-for-Corday misnaming.
-  - **Phase 6 scan (2025-12-31):** page-body 4‑gram `There was something wrong` appears only on Pages/cains_jawbone_page_38.md and Pages/cains_jawbone_page_79.md (`N02`), suggesting a possible cross-strand stitch cue; keep low-weight unless reinforced by a second independent anchor.
+  - **Phase 6 test (2025-12-31):** n‑gram scan confirms Pages/cains_jawbone_page_38.md ↔ Pages/cains_jawbone_page_79.md share only variants of the generic phrase `There was something wrong` (no second shared anchor). Treat as an accidental overlap (not a stitch candidate).
+    - **Outcome:** `FAIL`
   - **Disconfirming evidence:** “stabbed” is later shown to be purely culinary, or the Sonia Gordon/Southend anchors recur under a clearly different narrator voice.
 
 - **Cluster:** `N31` Flecker/Whitman compost + Surrey place-pun + pill voice (confidence: `MAYBE`)
@@ -1149,7 +1151,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Rationale:** Pages 85 and 94 share a narrator-name clue (schoolboy “Kipling” jibe → King; narrator sees own name in a window-sign) and a recurring Henry-in-scene frame; Page 82 shares the same Henry-at-table setting plus the same cryptic-transform habits, and Page 15 adds an explicit 21→21:00 clock pun plus the same table/dog framing (Bart ↔ Bartholomew).
   - **Key anchors:** “Kipling” as a name-jibe; narrator seeing their own name printed in a window; Baker Street / detective framing; Bartholomew dog at the table (Page 82) ↔ “Bart” chewing moccasins at a familiar table (Page 15).
   - **Disconfirming evidence:** the name clue resolves differently, the window-sign name refers to someone/something other than the narrator, or Page 15’s “Bart” is shown not to be the same dog as Bartholomew in Page 82.
-  - **Overlap candidates:** MAYBE: Pages/cains_jawbone_page_100.md (police/extremis framing + Henry present); MAYBE: Pages/cains_jawbone_page_37.md (unique page-body 5‑gram `I looked across the table` shared with Pages/cains_jawbone_page_85.md); treat both as overlap-only unless a second `N08`-specific anchor recurs.
+  - **Overlap candidates:** MAYBE: Pages/cains_jawbone_page_100.md (police/extremis framing + Henry present). Phase 6 test (2025-12-31): drop the Pages/cains_jawbone_page_37.md overlap candidate — its only link to Pages/cains_jawbone_page_85.md is the generic phrase `I looked across the table` (no second anchor; Outcome: `FAIL`).
   - **Phase 4 internal ordering hypotheses (N08):**
     - **Sequence A — Henry waiting → driven home** (confidence: `LIKELY`)
       - **Pages (ordered):** Pages/cains_jawbone_page_94.md → Pages/cains_jawbone_page_85.md
