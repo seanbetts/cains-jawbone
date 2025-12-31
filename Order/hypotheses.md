@@ -125,6 +125,9 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
 - **Constraint:** Pages/cains_jawbone_page_4.md ↔ Pages/cains_jawbone_page_21.md (confidence: `MAYBE`)
   - **Anchor:** page-body unique 4‑gram “my wits about me” appears only on these two pages (p4: “have my wits about me” ↔ p21: “keep my wits about me”).
   - **Falsifier:** “my wits about me” appears in a third page body, or later evidence anchors the two scenes to incompatible narrators/settings (making this a generic idiom reuse).
+- **Constraint:** Pages/cains_jawbone_page_76.md ↔ Pages/cains_jawbone_page_98.md (confidence: `LIKELY`)
+  - **Anchor:** page-body-unique decision/deliberation phrase echo: 5‑gram `I would have to think` appears only on these two pages (`p76` “I would have to think it over.” ↔ `p98` “I would have to think seriously of that.”).
+  - **Falsifier:** a third page is found containing the same phrase-level echo, or later context shows the two “think” clauses refer to clearly incompatible situations/narrators (making the overlap coincidental).
 - **Constraint:** Pages/cains_jawbone_page_5.md ↔ Pages/cains_jawbone_page_58.md (confidence: `CERTAIN`)
   - **Anchor:** page-body unique “went on … Browning” complaint while Henry’s serial-killing beat proceeds (“He went on about Browning.” ↔ “He went on talking about Browning.”), reinforced by the adjacent-count logic (`p58`’s “cooling remains of his fourth” ↔ `p5`’s “intended fifth”).
   - **Falsifier:** a third page-body instance of the same “went on … Browning” phrasing appears, or later evidence shows the Henry-count language is not comparable across the two scenes (different “fourth/fifth” referents) and the Browning‑talking bystanders/contexts are incompatible.
@@ -1808,6 +1811,7 @@ These are the **highest-risk segment joins** inside the v2 full ordering draft. 
   - **Falsifier:** “May” on Pages/cains_jawbone_page_98.md is clearly only the person `P16` (not a month-layer cue), or Pages/cains_jawbone_page_77.md is anchored to a different local time-layer that is incompatible with a May placement.
   - **Next falsification check:** check whether any other page uses the “May be / May be not” punning posture as an explicit month-layer marker, or whether Pages/cains_jawbone_page_98.md carries a second date/season anchor.
   - **Phase 6 test (2025-12-30):** re-read the Pages/cains_jawbone_page_98.md ending and Pages/cains_jawbone_page_77.md opening; found no continuity marker at the boundary (no shared participant/prop/quote/place), and corpus scans show “Quarry hills”/“sedulous ape” occur only on Page 98 and “Compact, they call it” only on Page 77.
+  - **Phase 6 test (2025-12-31):** page-body n‑gram scan around Pages/cains_jawbone_page_98.md found stronger competing stitch signals elsewhere: 5‑gram `I would have to think` appears only on Pages/cains_jawbone_page_76.md and Pages/cains_jawbone_page_98.md, and 4‑gram `I thought of May` appears only on Pages/cains_jawbone_page_71.md and Pages/cains_jawbone_page_98.md. No comparable phrase-level overlap ties Pages/cains_jawbone_page_98.md to Pages/cains_jawbone_page_77.md beyond the ambiguous “May”/Hamlet layer, so treat `98 → 77` as a tail placeholder and prioritise testing `Pages/cains_jawbone_page_76.md ↔ Pages/cains_jawbone_page_98.md` as a candidate join/cluster.
   - **Outcome:** `UNCLEAR` (keep as placeholder; treat the “May” alignment as insufficient without a second independent anchor).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_77.md → Pages/cains_jawbone_page_46.md
@@ -1951,3 +1955,18 @@ Delta from v2 (do not treat as accepted until falsified):
   - **Outcome:** `UNCLEAR` (treat as a better-motivated placement than the v2 tail join, but do not upgrade without a second continuity marker beyond voice-level similarity).
 - **Phase 6 test (2025-12-31):** re-read the Pages/cains_jawbone_page_100.md ending and Pages/cains_jawbone_page_62.md opening; found no continuity marker (cast/prop/place/time/quote), so treat this new block-boundary as a placeholder only.
   - **Outcome:** `UNCLEAR`
+
+### Phase 6 trial variant (v11) — pull Page 98 toward Page 76 via unique phrase echo
+
+Delta from v2 (do not treat as accepted until falsified):
+
+- **Motivation:** Pages/cains_jawbone_page_76.md ends on “I would have to think it over,” and page-body n‑gram scans confirm 5‑gram `I would have to think` appears only on Pages/cains_jawbone_page_76.md and Pages/cains_jawbone_page_98.md. Meanwhile, the v2 tail join `Pages/cains_jawbone_page_98.md → Pages/cains_jawbone_page_77.md` remains a low-signal placeholder.
+- **Change A (trial):** move Pages/cains_jawbone_page_98.md from its v2 position (after Pages/cains_jawbone_page_84.md) to immediately after Pages/cains_jawbone_page_76.md in v2 Block X.
+- **Resulting join swaps (v2 → v11):**
+  - Removed: `Pages/cains_jawbone_page_76.md → Pages/cains_jawbone_page_78.md`
+  - Added: `Pages/cains_jawbone_page_76.md → Pages/cains_jawbone_page_98.md` (candidate; phrase-level anchor)
+  - Added: `Pages/cains_jawbone_page_98.md → Pages/cains_jawbone_page_78.md` (placeholder)
+  - Removed: `Pages/cains_jawbone_page_84.md → Pages/cains_jawbone_page_98.md`
+  - Added: `Pages/cains_jawbone_page_84.md → Pages/cains_jawbone_page_77.md` (placeholder)
+  - Removed: `Pages/cains_jawbone_page_98.md → Pages/cains_jawbone_page_77.md`
+- **Phase 6 note:** this trial is intended to preserve the high-signal `p76 ↔ p98` linkage while acknowledging it creates new weak tail boundaries. It likely pairs best with v8 (which removes Pages/cains_jawbone_page_77.md from the tail by pulling it into `N12`) to avoid introducing `Pages/cains_jawbone_page_84.md → Pages/cains_jawbone_page_77.md` as a long-term join.

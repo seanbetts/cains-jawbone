@@ -18,7 +18,7 @@ Looking over at the sly sideways smile which seemed to fill all the foreground o
 - **Motifs/continuity hooks:**
   - Green/ripeness/fruit metaphors used to justify action (“young women are green”).
   - “Green” as victim name + injury metaphor (“greenstick fracture”) + plant language.
-  - MAYBE: phrase-level self-echo “I would have to think…” appears only here and Pages/cains_jawbone_page_98.md (archive-level unique); Phase 6 check (2025-12-30) found no second independent anchor, so treat as a stylistic echo only until reinforced.
+  - Phase 6 scan (2025-12-31): phrase-level self-echo “I would have to think…” is uniquely shared with Pages/cains_jawbone_page_98.md (5‑gram `I would have to think` appears only on Pages/cains_jawbone_page_76.md and Pages/cains_jawbone_page_98.md). Treat as a higher-signal stitch candidate (shared narrator or close proximity) to test.
 - **Voice/tells:**
   - Self-justifying moral calculus; frames murder as an adult/ripe duty; literate allusion density.
 - **Clustering hypotheses:**
