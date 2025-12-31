@@ -770,7 +770,8 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - “intended fifth” is shown to mean something other than a victim-count escalation, or a later page supplies an explicit “fifth” corpse beat that must precede Pages/cains_jawbone_page_5.md.
   - **Resolved check:** the unique `Pages/cains_jawbone_page_5.md ↔ Pages/cains_jawbone_page_58.md` Browning-complaint lock is treated as within-`N19` continuity (not a cross-narrator bridge).
   - **Falsification check (2025-12-30):** scanned all page bodies for the `N19` unique anchors (Sir Roland Mowthalorn; gin-faced Annie; Lesurques/Le Cirque d’Hiver; Maestro Jimson; “Emperor’s Peg”; ruined lighthouse; “Evelyn Hope”) and found **no third-page repeats** beyond Pages/cains_jawbone_page_4.md and Pages/cains_jawbone_page_5.md. Also found **no shared page-body 4-grams** between Pages/cains_jawbone_page_4.md and Pages/cains_jawbone_page_5.md, so there is still no phrase-level continuation lock to force adjacency or direction.
-  - **Phase 6 scan (2025-12-31):** page-body 4‑gram `as far as I could` appears only on Pages/cains_jawbone_page_2.md and Pages/cains_jawbone_page_5.md (“…see” ↔ “…gather”); treat as a low-weight cross-voice hook (`N22` ↔ `N19`) unless reinforced by a second non-generic anchor.
+  - **Phase 6 test (2025-12-31):** n‑gram scan for Pages/cains_jawbone_page_2.md ↔ Pages/cains_jawbone_page_5.md shows the only shared low-frequency overlap is the generic phrase family `as far as I could` (4–5‑gram variants), with no second shared anchor (named participant/place/prop/quote continuation). Treat this as an accidental overlap (do not use as a stitch).
+    - **Outcome:** `FAIL`
   - **Next falsification check:** keep Pages/cains_jawbone_page_4.md ↔ Pages/cains_jawbone_page_5.md as co-clustered but non-adjacent-possible until a new `N19` page is found that repeats ≥1 page-body anchor from each (p4: Mowthalorn/Annie/Lesurques/Cirque d’Hiver; p5: Emperor’s Peg/ruined lighthouse/Evelyn Hope) and can act as a bridge to fix direction/adjoining.
 
 - **Cluster:** `N20` Bloomsbury/nomenclature + grim-scene voice (confidence: `LIKELY`)
@@ -823,7 +824,8 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Pages:** Pages/cains_jawbone_page_2.md
   - **Rationale:** Page 2 combines a distinctive “figures and letters” decoding finish line with a sepulchral London observation filtered through an embedded plague quotation.
   - **Key anchors:** “figures and letters swam”; “There were no more”; plague prose snippets + “writer had strangely died to-day.”
-  - **Phase 6 scan (2025-12-31):** page-body 4‑gram `as far as I could` appears only on Pages/cains_jawbone_page_2.md and Pages/cains_jawbone_page_5.md (`N19`) (“…see” ↔ “…gather”); treat as low-weight until reinforced.
+  - **Phase 6 test (2025-12-31):** n‑gram scan confirms Pages/cains_jawbone_page_2.md ↔ Pages/cains_jawbone_page_5.md share only variants of the generic phrase `as far as I could` (no second shared anchor). Treat as an accidental overlap (not a stitch candidate).
+    - **Outcome:** `FAIL`
   - **Disconfirming evidence:** the plague quotation and decoding framing recur as generic motifs across unrelated narrators.
 
 - **Cluster:** `N23` Music-hall cosmetics / Highgate Empire voice (confidence: `MAYBE`)
@@ -895,7 +897,8 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Pages:** Pages/cains_jawbone_page_9.md
   - **Rationale:** Page 9’s narrator is sharply characterised by a snobbish servant-bell frame and a specific academic self-positioning (mineralogy lectures at “Peebles University” with assistant Charles Day), plus an explicit Day/Knight pun.
   - **Key anchors:** “sound of the bell”; “lower orders”; “lectures on mineralogy at Peebles University”; “assistant Charles Day”; “Day… Knight cometh”.
-  - **Phase 6 scan (2025-12-31):** page-body 4‑gram `I remembered that, when` appears only on Pages/cains_jawbone_page_9.md and Pages/cains_jawbone_page_45.md (`N16`); treat as low-weight unless reinforced by a second shared anchor.
+  - **Phase 6 test (2025-12-31):** n‑gram scan confirms Pages/cains_jawbone_page_9.md ↔ Pages/cains_jawbone_page_45.md share only the generic phrase `I remembered that when` (no second shared anchor: bells/class/mineralogy/Typhoon anchors do not overlap). Treat as an accidental overlap (not a stitch candidate).
+    - **Outcome:** `FAIL`
   - **Disconfirming evidence:** the Peebles/mineralogy identity is later shown to belong to a different narrator, or the scene is revealed as a quoted anecdote.
 
 - **Cluster:** `N28` Window-throw / “no detective” voice (confidence: `MAYBE`)
@@ -1818,7 +1821,7 @@ These are the **highest-risk segment joins** inside the v2 full ordering draft. 
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_9.md → Pages/cains_jawbone_page_16.md
   - **Why:** current v2 tail adjacency; no continuity marker is currently known (bell/mineralogy lecture voice → cosmetics/music-hall voice).
-  - **Falsifier:** any page-level anchor shows Pages/cains_jawbone_page_9.md must sit adjacent to a different page in the bell/academic thread (e.g., via the unique `I remembered that, when` echo with Pages/cains_jawbone_page_45.md), or Pages/cains_jawbone_page_16.md is forced into a different Henry romance run.
+  - **Falsifier:** Pages/cains_jawbone_page_9.md is anchored into a different bell/academic predecessor by a concrete continuity marker (e.g., a second page that repeats Charles Day / Peebles / the Day‑Knight pun), and/or Pages/cains_jawbone_page_16.md gains a stronger successor/predecessor that forces it away from the tail.
   - **Next falsification check:** search for any shared named participant/venue/quotation cue beyond the overloaded `Henry` name.
   - **Phase 6 test (2025-12-31):** page-body n‑gram scan found **zero** shared 3‑grams (or longer) and **zero** shared-unique word anchors between the pages. Treat as a pure placeholder join.
   - **Outcome:** `UNCLEAR`
