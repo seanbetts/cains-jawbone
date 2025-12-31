@@ -75,7 +75,7 @@ Track *in-world* death/murder hypotheses separately from page-ordering hypothese
   - **Evidence summary:** The page explicitly anticipates a woman’s near-future death while describing document manipulation.
   - **Falsifiers:** The “soon to be dead” phrasing is metaphorical, or the document is unrelated to any death plot.
 
-- `E05` (confidence: `0.35`; status: `active`)
+- `E05` (confidence: `0.10`; status: `downgraded`)
   - **Pages:** Pages/cains_jawbone_page_80.md
   - **Victim candidate(s):** `P50` (Sir Paul Trinder)
   - **Murderer candidate(s):** `P107` (host narrator; identity unknown)
@@ -83,8 +83,8 @@ Track *in-world* death/murder hypotheses separately from page-ordering hypothese
   - **Motive:** MAYBE connected to May (host wants to “do my best for May”)
   - **Opportunity:** Visitor arrives before lunch and is served drink while poisonous plant/preparation is foregrounded.
   - **Narrative tells:** “I am not incautious” + immediate move to exhibit aconitum reads like deliberate staging.
-  - **Evidence summary:** A likely in-world poisoning setup involving a named target (Sir Paul) is described; Pages/cains_jawbone_page_59.md–Pages/cains_jawbone_page_60.md (see `E14`) contain a later “success” + “figurehead beard… no more” outcome claim consistent with a Trinder kill, which strengthens this as a true setup rather than mere didactic display.
-  - **Falsifiers:** Later context shows no administration/ingestion, or the “figurehead beard” killed on Pages/cains_jawbone_page_60.md is clearly not Trinder.
+  - **Evidence summary:** This reads as the **setup** for the Sir Paul Trinder poisoning that culminates in the Pages/cains_jawbone_page_59.md → Pages/cains_jawbone_page_60.md “success” claim; keep the unified murder event in `E14` and treat `E05` as a supporting precursor record rather than a separate counted death event.
+  - **Falsifiers:** Pages/cains_jawbone_page_80.md is shown to be a non-administrative specimen-demonstration scene unrelated to the Pages/cains_jawbone_page_59.md–Pages/cains_jawbone_page_60.md “figurehead beard” death, or Sir Paul Trinder is shown to survive unaffected by this visit.
 
 - `E06` (confidence: `0.85`; status: `active`)
   - **Pages:** Pages/cains_jawbone_page_81.md
@@ -175,14 +175,14 @@ Track *in-world* death/murder hypotheses separately from page-ordering hypothese
   - **Falsifiers:** The “killings” are shown to refer to performances/figures of speech, or the pages are not in the same narrative strand/“Henry”.
 
 - `E14` (confidence: `0.65`; status: `active`)
-  - **Pages:** Pages/cains_jawbone_page_59.md, Pages/cains_jawbone_page_60.md
+  - **Pages:** Pages/cains_jawbone_page_80.md, Pages/cains_jawbone_page_59.md, Pages/cains_jawbone_page_60.md
   - **Victim candidate(s):** `P50` (Sir Paul Trinder; “figurehead beard”)
   - **Murderer candidate(s):** `P107` (narrator; identity unknown)
   - **Means/method:** LIKELY poison (wolfsbane/aconite/gelsemium register across Pages/cains_jawbone_page_59.md + Pages/cains_jawbone_page_80.md)
   - **Motive:** `UNKNOWN`
   - **Opportunity:** Narrator is positioned to recount/influence events around a strange death investigation; later frames a specific “success” and a man “more dead”.
   - **Narrative tells:** Self-congratulatory “I had succeeded” + explicit death outcome language; suspicious pulpit “did the trick” phrasing.
-  - **Evidence summary:** Pages/cains_jawbone_page_59.md explicitly has Trinder “about,” and Pages/cains_jawbone_page_60.md claims a successful operation that leaves a “figurehead beard” to “plough the pseudo-scientific seas no more,” strongly matching the introduced Sir Paul Trinder beard persona (Pages/cains_jawbone_page_53.md) and supporting an in-world death.
+  - **Evidence summary:** Pages/cains_jawbone_page_80.md foregrounds an aconitum/Fleming’s-tincture poisoning setup aimed at Sir Paul Trinder; Pages/cains_jawbone_page_59.md explicitly has Trinder “about,” and Pages/cains_jawbone_page_60.md claims a successful operation that leaves a “figurehead beard” to “plough the pseudo-scientific seas no more,” strongly matching Trinder’s introduced beard persona (Pages/cains_jawbone_page_53.md) and supporting an in-world death.
   - **Falsifiers:** “Figurehead beard” is later clearly identified as someone other than Trinder, or the Pages/cains_jawbone_page_60.md “more dead” language is shown to be a quotation/metaphor with no in-world death.
 
 - `E15` (confidence: `0.20`; status: `active`)
