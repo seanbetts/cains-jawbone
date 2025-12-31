@@ -1948,6 +1948,7 @@ Delta from v2 (do not treat as accepted until falsified):
   - Removed: `Pages/cains_jawbone_page_5.md → Pages/cains_jawbone_page_49.md` (block-boundary join in the v2 full-order draft)
   - Added: `Pages/cains_jawbone_page_5.md → Pages/cains_jawbone_page_72.md` (placeholder)
   - Added: `Pages/cains_jawbone_page_72.md → Pages/cains_jawbone_page_49.md` (candidate)
+- **Phase 6 test (2025-12-31):** scanned the removed v2 tail joins `Pages/cains_jawbone_page_63.md → Pages/cains_jawbone_page_72.md` and `Pages/cains_jawbone_page_72.md → Pages/cains_jawbone_page_76.md`; page-body n‑gram scans found **zero** shared 3‑grams (or longer) and **zero** shared-unique word anchors for both pairs. Treat both joins as pure placeholders; this makes it less costly to pull Pages/cains_jawbone_page_72.md out of the tail, though the replacement join `Pages/cains_jawbone_page_63.md → Pages/cains_jawbone_page_76.md` is still a placeholder.
 - **Phase 6 test (2025-12-31):** re-read the Pages/cains_jawbone_page_72.md ending and Pages/cains_jawbone_page_49.md opening; no direct prop/participant continuation appears at the boundary, but the unique phrase-level echo suggests a deliberate link.
   - **Outcome:** `UNCLEAR` (treat as an improved placement hypothesis; upgrade only if a second independent anchor emerges).
 
