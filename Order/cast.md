@@ -93,11 +93,11 @@ Track people as candidates with evolving roles. This file is deliberately probab
 - `P91`
   - **Aliases / names used:** “dead old man”
   - **Role candidate:** `victim`
-  - **Confidence (0.0–1.0):** 0.15
+  - **Confidence (0.0–1.0):** 0.10
   - **Supporting pages:** Pages/cains_jawbone_page_1.md
-  - **Evidence summary:** Mentioned as already dead (“the dead old man”) in a context implying prior narrative work done for him.
+  - **Evidence summary:** Mentioned as already dead (“the dead old man”) in a context implying prior narrative work done for him; treat as background-context death unless later pages connect it to a concrete murder method/agent.
   - **Falsifiers:** Later context shows this is a purely allusive/quoted “dead old man” rather than an in-world person, or the death is unrelated to the book’s six in-world murders.
-  - **Status:** `active`
+  - **Status:** `downgraded`
 
 - `P48`
   - **Aliases / names used:** Hal
@@ -156,8 +156,8 @@ Track people as candidates with evolving roles. This file is deliberately probab
 - `P82`
   - **Aliases / names used:** signature-man (unnamed “ancient”)
   - **Role candidate:** `victim`
-  - **Confidence (0.0–1.0):** 0.20
+  - **Confidence (0.0–1.0):** 0.10
   - **Supporting pages:** Pages/cains_jawbone_page_89.md
-  - **Evidence summary:** Narrator frames a newly introduced man as doomed (“That signed his death warrant”) with punning emphasis on his signature business.
+  - **Evidence summary:** Narrator frames a newly introduced man as doomed (“That signed his death warrant”) with punning emphasis on his signature business, but no in-world death is established yet.
   - **Falsifiers:** “Death warrant” resolves as a purely idiomatic joke, or the man is later shown to be unharmed and unrelated to in-world murders.
-  - **Status:** `active`
+  - **Status:** `downgraded`

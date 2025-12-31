@@ -97,7 +97,7 @@ Track *in-world* death/murder hypotheses separately from page-ordering hypothese
   - **Evidence summary:** The page narrates a direct killing act with intent and an explicit “victim” label; outcome is treated as likely fatal (“with any luck, was dead”).
   - **Falsifiers:** Later pages show the victim survives, or the whole incident resolves as a quoted story/metaphor rather than an in-world event.
 
-- `E07` (confidence: `0.20`; status: `active`)
+- `E07` (confidence: `0.10`; status: `downgraded`)
   - **Pages:** Pages/cains_jawbone_page_89.md
   - **Victim candidate(s):** `P82` (signature-man; identity unknown)
   - **Murderer candidate(s):** `UNKNOWN` (narrator implies intent)
@@ -105,7 +105,7 @@ Track *in-world* death/murder hypotheses separately from page-ordering hypothese
   - **Motive:** MAYBE fear of exposure/blackmail (“good memory” + “signatures were his business”)
   - **Opportunity:** Narrator is in conversation immediately after being introduced to the target.
   - **Narrative tells:** Wordplay that reads like a literal threat (“That signed his death warrant. Well, signatures were his business.”).
-  - **Evidence summary:** The page implies a decision to kill a newly introduced man, but no act or outcome is narrated.
+  - **Evidence summary:** The page implies a decision to kill a newly introduced man, but no act or outcome is narrated; treat as a threat/intent cue until a later page establishes an in-world death for this target.
   - **Falsifiers:** “Death warrant” is purely idiomatic or comic wordplay with no subsequent in-world harm to this person.
 
 - `E08` (confidence: `0.10`; status: `downgraded`)
@@ -185,7 +185,7 @@ Track *in-world* death/murder hypotheses separately from page-ordering hypothese
   - **Evidence summary:** Pages/cains_jawbone_page_80.md foregrounds an aconitum/Fleming’s-tincture poisoning setup aimed at Sir Paul Trinder; Pages/cains_jawbone_page_59.md explicitly has Trinder “about,” and Pages/cains_jawbone_page_60.md claims a successful operation that leaves a “figurehead beard” to “plough the pseudo-scientific seas no more,” strongly matching Trinder’s introduced beard persona (Pages/cains_jawbone_page_53.md) and supporting an in-world death.
   - **Falsifiers:** “Figurehead beard” is later clearly identified as someone other than Trinder, or the Pages/cains_jawbone_page_60.md “more dead” language is shown to be a quotation/metaphor with no in-world death.
 
-- `E15` (confidence: `0.20`; status: `active`)
+- `E15` (confidence: `0.10`; status: `downgraded`)
   - **Pages:** Pages/cains_jawbone_page_1.md
   - **Victim candidate(s):** `P91` (dead old man; identity unknown)
   - **Murderer candidate(s):** `UNKNOWN`
@@ -193,10 +193,10 @@ Track *in-world* death/murder hypotheses separately from page-ordering hypothese
   - **Motive:** `UNKNOWN`
   - **Opportunity:** `UNKNOWN`
   - **Narrative tells:** Offhand reference to prior work done “for the dead old man” suggests a real past death rather than a hypothetical.
-  - **Evidence summary:** Page 1 establishes an in-world dead man in the narrator’s recent past, but gives no cause or agency. Pages/cains_jawbone_page_100.md also references an “old dead” for whom the narrator and Henry “had worked”; MAYBE the same dead employer, but do not merge without a second anchor.
+  - **Evidence summary:** Page 1 establishes an in-world dead man in the narrator’s recent past, but gives no cause or agency; treat as background-context death (not yet one of the six) unless later pages tie it to a concrete murder method/agent.
   - **Falsifiers:** Later context shows the “dead old man” is purely allusive/quoted, or is explicitly unrelated to the in-world murders.
 
-- `E16` (confidence: `0.10`; status: `active`)
+- `E16` (confidence: `0.05`; status: `downgraded`)
   - **Pages:** Pages/cains_jawbone_page_33.md
   - **Victim candidate(s):** `UNKNOWN` (woman; “dead the same day”)
   - **Murderer candidate(s):** `UNKNOWN`
