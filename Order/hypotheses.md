@@ -2062,6 +2062,12 @@ Delta from v2 (do not treat as accepted until falsified):
   - Added: `Pages/cains_jawbone_page_43.md → Pages/cains_jawbone_page_100.md` (candidate; within merged `N01`)
   - Removed: `Pages/cains_jawbone_page_43.md → Pages/cains_jawbone_page_62.md` (block-boundary join in the v2 full-order draft)
   - Added: `Pages/cains_jawbone_page_100.md → Pages/cains_jawbone_page_62.md` (placeholder)
+- **Phase 6 test (2025-12-31):** page-body scan confirms **three independent, corpus-unique anchors** shared only by Pages/cains_jawbone_page_17.md and Pages/cains_jawbone_page_100.md:
+  - word `slips` (only these two pages)
+  - bigram `her beauty` (only these two pages)
+  - 4‑gram `why should i think` (only these two pages)
+  This upgrades the `p17 ↔ p100` narrator merge inside `N01` from “plausible” to “strongly supported” (though it still does not, by itself, force adjacency to Pages/cains_jawbone_page_43.md).
+  - **Outcome:** `PASS` (for merging Pages/cains_jawbone_page_100.md into `N01`; exact within-`N01` placement remains `UNCLEAR`)
 - **Phase 6 test (2025-12-31):** re-read the Pages/cains_jawbone_page_43.md ending and Pages/cains_jawbone_page_100.md opening; no direct scene-continuation marker is present, but the shared Francis Thompson embedding + Scots-dialect texture and the continuation of the “sinister/beautiful woman” suspicion read naturally within a single narrator bundle.
   - **Outcome:** `UNCLEAR` (treat as a better-motivated placement than the v2 tail join, but do not upgrade without a second continuity marker beyond voice-level similarity).
 - **Phase 6 test (2025-12-31):** re-read the Pages/cains_jawbone_page_100.md ending and Pages/cains_jawbone_page_62.md opening; found no continuity marker (cast/prop/place/time/quote), so treat this new block-boundary as a placeholder only.
