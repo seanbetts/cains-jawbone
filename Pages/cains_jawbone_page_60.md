@@ -20,6 +20,7 @@ I had sufficient knowledge to realise that I had succeeded. I ordered Charles to
   - Completion/success: narrator declares success; “man more dead”.
   - Photography: “heliographic record” taken from folding steps.
   - Henry-as-investigator instructed not to pursue further.
+  - Phase 6 scan (2025-12-31): page-body word `steps` appears only on Pages/cains_jawbone_page_60.md and Pages/cains_jawbone_page_91.md (p60 “folding steps… my steps”; p91 “take steps”), supporting the join candidate `Pages/cains_jawbone_page_60.md → Pages/cains_jawbone_page_91.md` (see `Order/hypotheses.md`).
 - **Voice/tells:**
   - Self-congratulatory “work of noble note” framing; mixes moralising with logistics (dessert order, photo).
 - **Clustering hypotheses:**

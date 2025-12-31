@@ -18,6 +18,7 @@ In my youth I had been worried that I bore the same name as Newbolt’s admiral 
   - LIKELY: “see any green (in my eye)” is a sceptical idiom (“do you take me for a greenhorn/fool?”), attested in Sabine Baring-Gould, *The Frobishers* (1901), Chapter 20: https://en.wikisource.org/wiki/The_Frobishers/Chapter_20 and Theodore Goodridge Roberts, “The Red Pirogue” (*Popular* magazine, 1922), Chapter 4: https://en.wikisource.org/wiki/The_Red_Pirogue/Chapter_4. No direct pre‑1934 match found for the specific Cadaver Charlie / Chicago sleuth framing; treat as in-world colour layered on the idiom.
   - CERTAIN: “Smiler with the Knife” is Chaucer’s phrase in *The Knight’s Tale* (Temple of Mars description): “the smiler with the knife under the mantle” (Page:The_Canterbury_tales_of_Geoffrey_Chaucer.djvu/67).
   - Name-play: “capitalise my third letter” (identity-cipher style).
+  - Phase 6 scan (2025-12-31): page-body word `steps` appears only on Pages/cains_jawbone_page_91.md and Pages/cains_jawbone_page_60.md (p91 “take steps”; p60 “folding steps… my steps”), supporting the join candidate `Pages/cains_jawbone_page_60.md → Pages/cains_jawbone_page_91.md` (see `Order/hypotheses.md`).
 - **Wordplay (synthesis):**
 
 CANDIDATE
