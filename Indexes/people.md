@@ -106,7 +106,7 @@ Template:
   - **Tells:** addressed directly in will/inheritance talk (“leave everything to me?” / “do just as you think fit, May”).
   - **Pronouns/relationships:** “she” in overheard dialogue; companion (unnamed).
   - **Pages:** Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_71.md, Pages/cains_jawbone_page_80.md, Pages/cains_jawbone_page_98.md, Pages/cains_jawbone_page_100.md
-  - **Notes:** MAYBE linked to Page 12’s will/documents scene. CERTAIN May-as-person: Pages/cains_jawbone_page_14.md (direct address), Pages/cains_jawbone_page_80.md (“do my best for May”); LIKELY May-as-person but with pun-layer: Pages/cains_jawbone_page_98.md (“I thought of May. May be…”). MAYBE month/May-blossom (“red May” / “blight on the May”) or simile: Pages/cains_jawbone_page_71.md, Pages/cains_jawbone_page_100.md. (Page 75’s “the May” reads as hawthorn/May-blossom rather than `P16` May.)
+  - **Notes:** MAYBE linked to Page 12’s will/documents scene. CERTAIN May-as-person: Pages/cains_jawbone_page_14.md (direct address), Pages/cains_jawbone_page_80.md (“do my best for May”); LIKELY May-as-person but with pun-layer: Pages/cains_jawbone_page_98.md (“I thought of May. May be…”). Phase 6 scan (2025-12-31): page-body phrase `I thought of May` appears only on Pages/cains_jawbone_page_71.md and Pages/cains_jawbone_page_98.md, suggesting Pages/cains_jawbone_page_71.md’s “May” may also be person-invocation (even if “red May” also reads seasonally). Treat Pages/cains_jawbone_page_100.md’s “as flush as May” as month/simile until a second personal-May anchor appears there. (Page 75’s “the May” reads as hawthorn/May-blossom rather than `P16` May.)
 
 - `P17` — Names/aliases: Janetta Sheringham
   - **Tells:** voice resemblance reference (“like and yet not like”).
