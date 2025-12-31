@@ -1743,6 +1743,29 @@ Delta from v2.2 (Phase 6 tightening; keep falsifiable):
 - **Block W (`N06`, confidence: `LIKELY` internal; Page 71 tentative):** Pages/cains_jawbone_page_66.md → Pages/cains_jawbone_page_67.md → Pages/cains_jawbone_page_71.md → Pages/cains_jawbone_page_73.md → Pages/cains_jawbone_page_74.md → Pages/cains_jawbone_page_75.md → Pages/cains_jawbone_page_83.md
 - **Block X (tail, confidence: `MAYBE`):** Pages/cains_jawbone_page_2.md → Pages/cains_jawbone_page_9.md → Pages/cains_jawbone_page_16.md → Pages/cains_jawbone_page_18.md → Pages/cains_jawbone_page_37.md → Pages/cains_jawbone_page_38.md → Pages/cains_jawbone_page_40.md → Pages/cains_jawbone_page_51.md → Pages/cains_jawbone_page_63.md → Pages/cains_jawbone_page_72.md → Pages/cains_jawbone_page_76.md → Pages/cains_jawbone_page_78.md → Pages/cains_jawbone_page_81.md → Pages/cains_jawbone_page_84.md → Pages/cains_jawbone_page_98.md
 
+### Phase 6 boundary tests for v2.3 (block boundaries)
+
+- **Join (confidence: `LIKELY`):** Pages/cains_jawbone_page_24.md → Pages/cains_jawbone_page_86.md
+  - **Why:** page-body name `Caroline` appears only on these two pages, and both open with “Next day…” framing; v2.3 uses this to justify placing `N13` immediately after Block A rather than after Page 91.
+  - **Falsifier:** `Caroline` on Pages/cains_jawbone_page_24.md is later shown to be a different referent from Caroline Jasmine on Pages/cains_jawbone_page_86.md, or another page repeats the same Caroline+“Next day” bundle and forces a different predecessor/successor.
+  - **Next falsification check:** look for any second independent continuity marker across the boundary (shared prop, shared action beat, or a quote/phrase continuation) beyond the name/time cue.
+  - **Phase 6 test (2025-12-31):** page-body n‑gram scan found only the generic 3‑gram `next day i` shared; page-body word `caroline` appears only on these two pages.
+  - **Outcome:** `PASS` (keep as the best current stitch into the `N13` coastal-house run; still not a phrase-level lock).
+
+- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_87.md → Pages/cains_jawbone_page_33.md
+  - **Why:** current v2.3 block boundary placeholder (both contain letters + death language, but nothing concrete).
+  - **Falsifier:** Pages/cains_jawbone_page_87.md gains a stronger anchored successor (Sanders/bay/“dead man’s letter” prop), or Pages/cains_jawbone_page_33.md gains a stronger anchored predecessor beyond the `N25` debts/bills run.
+  - **Next falsification check:** scan for any shared non-generic anchor (named person, venue, or quoted-source continuation) that would justify adjacency.
+  - **Phase 6 test (2025-12-31):** page-body n‑gram scan found **zero** shared 3‑grams (or longer) and **zero** shared-unique word anchors between the two pages.
+  - **Outcome:** `UNCLEAR` (treat as a pure placeholder join).
+
+- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_91.md → Pages/cains_jawbone_page_4.md
+  - **Why:** current v2.3 block boundary placeholder; no scene/prop/cast continuity is known.
+  - **Falsifier:** Pages/cains_jawbone_page_91.md is forced adjacent to the aconite/poison chain (via `Blue Rocket`/`exhibit`/`steps`) with a successor other than Pages/cains_jawbone_page_4.md, and/or Pages/cains_jawbone_page_4.md is anchored into the coastal-comic run with a different predecessor.
+  - **Next falsification check:** test whether the shared-unique word `snowy` (p91 “snowy-banded” ↔ p4 “snowy cumulus”) has any second supporting anchor (shared time/place/person/quote) or is pure coincidence.
+  - **Phase 6 test (2025-12-31):** page-body n‑gram scan found **zero** shared 4‑grams (or longer); the only shared 3‑gram is the generic `i would have`. Page-body word `snowy` appears only on these two pages.
+  - **Outcome:** `UNCLEAR` (keep as placeholder; the `snowy` echo is too thin on its own).
+
 ### Phase 6 trial variant (v3) — re-stitch around Page 77
 
 Delta from v2 (do not treat as accepted until falsified):
