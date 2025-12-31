@@ -150,7 +150,7 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_41.md
   - **Confidence:** `LIKELY`
   - **Disconfirming evidence:** the shared nautical/Kipling anchors are shown to be generic motifs reused across unrelated narrators, or the Henry relationship (husband vs teacher) proves incompatible.
-  - **Notes:** This voice may be the best candidate behind the “Nautical timekeeping register” motif cluster. CERTAIN within-voice order: Pages/cains_jawbone_page_41.md → Pages/cains_jawbone_page_11.md (first dog → end of the second dog).
+  - **Notes:** This voice may be the best candidate behind the “Nautical timekeeping register” motif cluster. CERTAIN within-voice order: Pages/cains_jawbone_page_41.md → Pages/cains_jawbone_page_11.md (first dog → end of the second dog). Phase 6 update: Pages/cains_jawbone_page_84.md shares page-body-unique words `catch`, `tawny`, and `terribly` with Pages/cains_jawbone_page_41.md; treat as a strong cross-narrator bridge candidate (see `Order/hypotheses.md` v2.6) but do not merge narrator IDs without a second continuity anchor.
 
 - `N18` — Diary/verify + falser-hand forgery voice:
   - **Signature tells:** explicit falsifiability framing (“verify… I never travel without my diary”); document/handwriting manipulation (“mimic artistry”; “falser hand”); tool/instrument emphasis; travel-as-alibi tone.
@@ -311,7 +311,7 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_84.md
   - **Confidence:** `MAYBE`
   - **Disconfirming evidence:** “deceased” is later shown to be a dead author rather than an in-world person, or the Barbara/Alistair/Dagenham anchors recur under a clearly different narrator voice.
-  - **Notes:** Singleton for now; next check: search for the Barbara + yellow‑jasmine bathing description and the Dagenham/oast-house travel detail; don’t merge narrators on date-anchoring alone.
+  - **Notes:** Singleton for now; next check: search for the Barbara + yellow‑jasmine bathing description and the Dagenham/oast-house travel detail; don’t merge narrators on date-anchoring alone. Phase 6 update: page-body words `catch`, `tawny`, and `terribly` appear only here and Pages/cains_jawbone_page_41.md; treat this as a strong cross-narrator bridge candidate and a placement aid (see `Order/hypotheses.md` v2.6), while keeping narrator IDs separate pending a second continuity anchor.
 
 - `N38` — Medical-advice payoff + “May be” pun / Quarry hills voice:
   - **Signature tells:** slow money exchange used for later identification; physicians/medical-advice framing; emphatic repetition (“He went. He went.”); Shakespeare/Stevenson/Scott allusion weave; explicit “May be. May be not.” decision pun; vivid sunset “bruise” image over the Quarry hills.
