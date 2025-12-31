@@ -303,7 +303,7 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_51.md
   - **Confidence:** `MAYBE`
   - **Disconfirming evidence:** the Whitman-heavy phrasing is later shown to be a generic quotation collage used by multiple narrators, or the sporting/heartbeat anchors recur clearly under a different voice.
-  - **Notes:** Singleton for now; next check: search for the “passing through” posture plus the heartbeat-counting (“distinct ninety”) combination; treat Whitman cadence as motif unless these anchors recur.
+  - **Notes:** Singleton for now; next check: search for the “passing through” posture plus the heartbeat-counting (“distinct ninety”) combination; treat Whitman cadence as motif unless these anchors recur. Phase 6 candidate: the “work for him” framing appears only here and Pages/cains_jawbone_page_100.md (low-weight until a second independent anchor links them).
 
 - `N37` — Deceased-introduction + Barbara yellow-jasmine bathing voice:
   - **Signature tells:** anxious curiosity about why a “deceased” arranged an introduction; rapturous physical description of Barbara (yellow-jasmine one-piece; towel); named travel detail (Dagenham bus; converted oast-house); Nelson blind-eye/arm-loss “to-day” anchor.

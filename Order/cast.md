@@ -36,6 +36,15 @@ Track people as candidates with evolving roles. This file is deliberately probab
   - **Falsifiers:** “Victim/corpse” language resolves as non-lethal (e.g., stage/medical metaphor), or `P01` conflates multiple distinct “Henrys” (including object-coded/assistant uses) and the murderous Henry is a different person from other Henry appearances.
   - **Status:** `active`
 
+- `P90`
+  - **Aliases / names used:** gloating woman; “wicked”/“beastly woman” (unnamed)
+  - **Role candidate:** `murderer`
+  - **Confidence (0.0–1.0):** 0.15
+  - **Supporting pages:** Pages/cains_jawbone_page_100.md
+  - **Evidence summary:** Present in the Page 100 collapse scene, physically looming and “gloating” as the narrator cannot rise; may be implicated, but the page does not explicitly state agency or outcome.
+  - **Falsifiers:** The collapse resolves as natural illness/fainting with no external agency, or the woman is shown to be uninvolved/bystander (or purely a quotation-layer figure) in later linked context.
+  - **Status:** `downgraded`
+
 - `P104`
   - **Aliases / names used:** window-throw narrator (“no detective” voice; unknown)
   - **Role candidate:** `murderer`

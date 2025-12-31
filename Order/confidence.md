@@ -121,14 +121,14 @@ Track *in-world* death/murder hypotheses separately from page-ordering hypothese
 
 - `E09` (confidence: `0.35`; status: `active`)
   - **Pages:** Pages/cains_jawbone_page_100.md
-  - **Victim candidate(s):** `UNKNOWN` (narrator collapse/possible death); MAYBE `P01` (Henry)
-  - **Murderer candidate(s):** `UNKNOWN` (woman present; role unclear)
+  - **Victim candidate(s):** `UNKNOWN` (narrator collapse/possible death)
+  - **Murderer candidate(s):** MAYBE `P90` (gloating woman; role unclear)
   - **Means/method:** `UNKNOWN` (MAYBE heart failure; MAYBE poisoning/violence)
   - **Motive:** `UNKNOWN`
-  - **Opportunity:** Antagonistic woman is physically present and “gloating” as narrator cannot rise; Henry is “getting out of hand.”
-  - **Narrative tells:** Valedictory framing (“Good-bye, Henry”); quoted lines about withdrawing and heart-illness; Scotland Yard invoked.
-  - **Evidence summary:** Strong in-world crisis/death signal at the end of a segment, but agency and the exact victim(s) are not confirmed.
-  - **Falsifiers:** Later pages show the narrator (and Henry) intact and the scene is revealed as rhetorical rather than an in-world death event.
+  - **Opportunity:** Antagonistic woman is physically present and “gloating” as narrator cannot rise; the scene ends with a valediction and a “drop” (“Good-bye, Henry. He drops awa…”).
+  - **Narrative tells:** Direct incapacity (“believe me, I cannot” get up) + “how ill… about my heart” framing; Scotland Yard invoked; ambiguous “Henry” role (may be overloaded).
+  - **Evidence summary:** Strong in-world collapse signal, but it is still unclear whether this is a completed death, an attempted killing, or purely rhetorical quotation-layer staging.
+  - **Falsifiers:** Later pages show the narrator remains intact/active after this moment, or clarify that the collapse language is purely figurative/quoted rather than an in-world medical crisis.
 
 - `E10` (confidence: `0.35`; status: `downgraded`)
   - **Pages:** Pages/cains_jawbone_page_58.md
