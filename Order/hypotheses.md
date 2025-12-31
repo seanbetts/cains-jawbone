@@ -1809,6 +1809,13 @@ These are the **highest-risk segment joins** inside the v2 full ordering draft. 
   - **Phase 6 test (2025-12-30):** re-read the Pages/cains_jawbone_page_83.md ending and Pages/cains_jawbone_page_2.md opening; confirmed the news → reading/decoding continuity is the strongest available interpretation, and no competing page repeats either anchor.
   - **Outcome:** `PASS` (upgrade join from `MAYBE` to `LIKELY`).
 
+- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_37.md → Pages/cains_jawbone_page_38.md
+  - **Why:** current v2 tail adjacency; both are “at table” scenes, but no concrete prop/place/participant continuation has been identified.
+  - **Falsifier:** Pages/cains_jawbone_page_38.md is forced adjacent to a different predecessor by a stronger continuity marker (e.g., explicit Southend/Kursaal bridge into Pages/cains_jawbone_page_100.md), or Pages/cains_jawbone_page_37.md is anchored into a jasmine/weapon thread that excludes Pages/cains_jawbone_page_38.md.
+  - **Next falsification check:** look for a second independent anchor beyond generic “table” staging (shared named person, shared venue-name, shared quoted source, or phrase-level continuation).
+  - **Phase 6 test (2025-12-31):** page-body n‑gram scan found **zero** shared 3‑grams (or longer) and **zero** shared-unique word anchors between Pages/cains_jawbone_page_37.md and Pages/cains_jawbone_page_38.md. Treat this as a pure placeholder join pending a positive stitch.
+  - **Outcome:** `UNCLEAR`
+
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_51.md → Pages/cains_jawbone_page_63.md
   - **Why:** current v2 tail adjacency; no shared participant/prop/place/quote continuation is known.
   - **Falsifier:** Pages/cains_jawbone_page_63.md gains a stronger anchored predecessor that forces it out of this tail pocket, and/or Pages/cains_jawbone_page_51.md gains a stronger, more concrete successor candidate.
