@@ -126,7 +126,7 @@ Template:
   - **Pages:** Pages/cains_jawbone_page_63.md
   - **Confidence:** `MAYBE`
   - **Disconfirming evidence:** the dessert/Lent and attribution habits are later shown to be incidental rather than a stable narrator signature.
-  - **Notes:** Singleton for now; next check: search for a repeat of the Rainbow/Lent “second Sundae” rule plus the hair/attribution obsession (merge only if a phrase-level anchor recurs, not just dessert titles). Phase 6 test (2025-12-31): Pages/cains_jawbone_page_63.md ↔ Pages/cains_jawbone_page_100.md share only generic bigrams (including page-body `I cannot`) and **zero** shared 3‑grams (or longer) → treat as an accidental overlap (Outcome: `FAIL`, not stitch/merge evidence).
+  - **Notes:** Singleton for now; next check: search for a repeat of the Rainbow/Lent “second Sundae” rule plus the hair/attribution obsession (merge only if a phrase-level anchor recurs, not just dessert titles). Phase 6 test (2025-12-31): Pages/cains_jawbone_page_63.md ↔ Pages/cains_jawbone_page_100.md share only generic bigrams (including page-body `I cannot`) and **zero** shared 3‑grams (or longer) → treat as an accidental overlap (Outcome: `FAIL`, not stitch/merge evidence). Phase 6 update: page-body words `coloured` and `putting` appear only here and Pages/cains_jawbone_page_87.md; treat as a cross-narrator bridge candidate (see `Order/hypotheses.md` v2.5), but do not merge narrator IDs without a second continuity anchor.
 
 - `N15` — “Green” victim / De Quincey tooling moral‑calculus voice:
   - **Signature tells:** self-justifying moral calculus around a named victim (Green); De Quincey “tooling” murder‑means frame; proverb-scrambling; explicit “do the thing myself” framing.
