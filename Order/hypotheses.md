@@ -1809,6 +1809,34 @@ These are the **highest-risk segment joins** inside the v2 full ordering draft. 
   - **Phase 6 test (2025-12-30):** re-read the Pages/cains_jawbone_page_83.md ending and Pages/cains_jawbone_page_2.md opening; confirmed the news → reading/decoding continuity is the strongest available interpretation, and no competing page repeats either anchor.
   - **Outcome:** `PASS` (upgrade join from `MAYBE` to `LIKELY`).
 
+- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_2.md → Pages/cains_jawbone_page_9.md
+  - **Why:** current v2 tail adjacency; no shared participant/prop/place/quote continuation is currently known.
+  - **Falsifier:** Pages/cains_jawbone_page_9.md is anchored into the bell/mineralogy lecturer voice (Charles Day; Peebles) with a stronger predecessor, forcing it away from the Defoe/London decoding scene.
+  - **Next falsification check:** look for a second independent anchor beyond generic posture words (shared named participant, shared venue/occupation cue, or phrase-level continuation).
+  - **Phase 6 test (2025-12-31):** page-body n‑gram scan found no shared 4‑grams (or longer) and no shared-unique word anchors; the only overlap is the generic 3‑gram `I felt I` (non-unique across the corpus). Treat as a pure placeholder join.
+  - **Outcome:** `UNCLEAR`
+
+- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_9.md → Pages/cains_jawbone_page_16.md
+  - **Why:** current v2 tail adjacency; no continuity marker is currently known (bell/mineralogy lecture voice → cosmetics/music-hall voice).
+  - **Falsifier:** any page-level anchor shows Pages/cains_jawbone_page_9.md must sit adjacent to a different page in the bell/academic thread (e.g., via the unique `I remembered that, when` echo with Pages/cains_jawbone_page_45.md), or Pages/cains_jawbone_page_16.md is forced into a different Henry romance run.
+  - **Next falsification check:** search for any shared named participant/venue/quotation cue beyond the overloaded `Henry` name.
+  - **Phase 6 test (2025-12-31):** page-body n‑gram scan found **zero** shared 3‑grams (or longer) and **zero** shared-unique word anchors between the pages. Treat as a pure placeholder join.
+  - **Outcome:** `UNCLEAR`
+
+- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_16.md → Pages/cains_jawbone_page_18.md
+  - **Why:** current v2 tail adjacency; both are “table/dinner” adjacent in a loose social sense, but no concrete prop/place/participant continuity has been identified.
+  - **Falsifier:** Pages/cains_jawbone_page_18.md is anchored to a documents/money suspicion run elsewhere, or Pages/cains_jawbone_page_16.md is anchored to a cosmetics/music-hall run with a different successor.
+  - **Next falsification check:** search for a second anchor beyond generic dinner/menu language (shared quoted source, shared named person, or phrase-level continuation).
+  - **Phase 6 test (2025-12-31):** page-body n‑gram scan found **zero** shared 3‑grams (or longer) and **zero** shared-unique word anchors between the pages. Treat as a pure placeholder join.
+  - **Outcome:** `UNCLEAR`
+
+- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_18.md → Pages/cains_jawbone_page_37.md
+  - **Why:** current v2 tail adjacency; both use “table” staging and fear/suspicion register, but no concrete continuity marker is known.
+  - **Falsifier:** Pages/cains_jawbone_page_37.md is anchored into the jasmine/weapon/intrinsicate-chambers thread with a stronger predecessor, or Pages/cains_jawbone_page_18.md is anchored into a money/documents run with a different successor.
+  - **Next falsification check:** look for any second independent anchor beyond generic “realised” phrasing (shared named participant, shared venue name, or repeated quoted source).
+  - **Phase 6 test (2025-12-31):** page-body n‑gram scan found no shared 4‑grams (or longer) and no shared-unique word anchors; the only overlap is the generic 3‑gram `I realised that` (non-unique across the corpus). Treat as a pure placeholder join.
+  - **Outcome:** `UNCLEAR`
+
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_37.md → Pages/cains_jawbone_page_38.md
   - **Why:** current v2 tail adjacency; both are “at table” scenes, but no concrete prop/place/participant continuation has been identified.
   - **Falsifier:** Pages/cains_jawbone_page_38.md is forced adjacent to a different predecessor by a stronger continuity marker (e.g., explicit Southend/Kursaal bridge into Pages/cains_jawbone_page_100.md), or Pages/cains_jawbone_page_37.md is anchored into a jasmine/weapon thread that excludes Pages/cains_jawbone_page_38.md.
@@ -1835,6 +1863,48 @@ These are the **highest-risk segment joins** inside the v2 full ordering draft. 
   - **Falsifier:** Pages/cains_jawbone_page_63.md gains a stronger anchored predecessor that forces it out of this tail pocket, and/or Pages/cains_jawbone_page_51.md gains a stronger, more concrete successor candidate.
   - **Next falsification check:** search for any second, non-generic anchor linking the pages (shared named entity, shared quoted source fragment, shared distinctive object/venue, or a phrase-level continuation).
   - **Phase 6 test (2025-12-31):** page-body n‑gram scan found **zero** shared 3‑grams (or longer) and **zero** shared-unique word anchors between Pages/cains_jawbone_page_51.md and Pages/cains_jawbone_page_63.md. Treat this as a pure placeholder join pending a positive stitch.
+  - **Outcome:** `UNCLEAR`
+
+- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_63.md → Pages/cains_jawbone_page_72.md
+  - **Why:** current v2 tail adjacency; no concrete continuity marker is known.
+  - **Falsifier:** Pages/cains_jawbone_page_72.md is anchored into the Blake/Henry block via Pages/cains_jawbone_page_49.md (v9), forcing it out of the tail, or Pages/cains_jawbone_page_63.md is shown to belong to a different desserts/“Henry cap” run with a different successor.
+  - **Next falsification check:** search for a second anchor beyond generic “I…” scaffolding (shared named participant/venue, shared quoted source, or shared food title).
+  - **Phase 6 test (2025-12-31):** page-body n‑gram scan found **zero** shared 3‑grams (or longer) and **zero** shared-unique word anchors between the pages. Treat as a pure placeholder join.
+  - **Outcome:** `UNCLEAR`
+
+- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_72.md → Pages/cains_jawbone_page_76.md
+  - **Why:** current v2 tail adjacency; no concrete continuity marker is known.
+  - **Falsifier:** Pages/cains_jawbone_page_76.md is shown to belong in a different murder-deliberation run (e.g., via the strong phrase-level `p76 ↔ p98` echo), and Pages/cains_jawbone_page_72.md is moved into a different block (v9).
+  - **Next falsification check:** look for any second independent anchor (shared named participant, shared quoted source, or shared place/venue name).
+  - **Phase 6 test (2025-12-31):** page-body n‑gram scan found **zero** shared 3‑grams (or longer) and **zero** shared-unique word anchors between the pages. Treat as a pure placeholder join.
+  - **Outcome:** `UNCLEAR`
+
+- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_76.md → Pages/cains_jawbone_page_78.md
+  - **Why:** current v2 tail adjacency; both pages include the narrator resolving to act/learn (“I would have to…”), but this phrasing is common across the corpus and no concrete continuity marker is known.
+  - **Falsifier:** Pages/cains_jawbone_page_76.md is shown to join directly to Pages/cains_jawbone_page_98.md (unique 5‑gram `I would have to think`) in a tighter run, or Pages/cains_jawbone_page_78.md gains a stronger attachment to a will/forgery block elsewhere.
+  - **Next falsification check:** search for a second anchor beyond generic resolve language (shared named participant, shared object/prop, shared place/venue, or phrase-level continuation that is corpus-unique).
+  - **Phase 6 test (2025-12-31):** page-body n‑gram scan found no shared 5‑grams and no shared-unique word anchors; the strongest overlaps are generic 4‑grams (`I would have to`, `I felt I could`) that also occur on other pages. Treat as a placeholder join.
+  - **Outcome:** `UNCLEAR`
+
+- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_78.md → Pages/cains_jawbone_page_81.md
+  - **Why:** current v2 tail adjacency; both carry threat/fear register, but no concrete continuity marker is known.
+  - **Falsifier:** either page gains a stronger anchored neighbour elsewhere (e.g., via a shared named participant/object or a quote continuation).
+  - **Next falsification check:** look for any phrase-level overlap or shared named entity beyond generic “Henry” usage.
+  - **Phase 6 test (2025-12-31):** page-body n‑gram scan found **zero** shared 3‑grams (or longer); the only overlap detected is the page-body word `fear`, which appears only on these two pages. Treat this as a low-weight lexical echo, not a join lock.
+  - **Outcome:** `UNCLEAR`
+
+- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_81.md → Pages/cains_jawbone_page_84.md
+  - **Why:** current v2 tail adjacency; no concrete continuity marker is currently known.
+  - **Falsifier:** Pages/cains_jawbone_page_84.md is anchored into the Scotland Yard/Kursaal coda via a stronger predecessor (e.g., Southend/Kursaal plus a second anchor), or Pages/cains_jawbone_page_81.md is anchored elsewhere by a shared participant/object.
+  - **Next falsification check:** look for any shared prop/place/name marker that forces proximity.
+  - **Phase 6 test (2025-12-31):** page-body n‑gram scan found **zero** shared 3‑grams (or longer) and **zero** shared-unique word anchors between the pages. Treat as a pure placeholder join.
+  - **Outcome:** `UNCLEAR`
+
+- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_84.md → Pages/cains_jawbone_page_98.md
+  - **Why:** current v2 tail adjacency; thematic hinge (“why the deceased wished…” ↔ narrator’s continuing concern) is suggestive, but no concrete continuity marker is known.
+  - **Falsifier:** Pages/cains_jawbone_page_98.md is shown to belong in a different run (e.g., via the strong phrase-level echo with Pages/cains_jawbone_page_76.md), forcing it away from Pages/cains_jawbone_page_84.md.
+  - **Next falsification check:** search for a second anchor beyond general “dead/wished” framing (shared named participant, shared quoted source, shared place/venue name, or phrase-level continuation).
+  - **Phase 6 test (2025-12-31):** page-body n‑gram scan found **zero** shared 3‑grams (or longer) and **zero** shared-unique word anchors between the pages. Treat as a pure placeholder join.
   - **Outcome:** `UNCLEAR`
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_98.md → Pages/cains_jawbone_page_77.md
