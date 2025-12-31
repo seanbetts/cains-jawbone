@@ -1816,6 +1816,20 @@ These are the **highest-risk segment joins** inside the v2 full ordering draft. 
   - **Phase 6 test (2025-12-31):** page-body n‑gram scan found **zero** shared 3‑grams (or longer) and **zero** shared-unique word anchors between Pages/cains_jawbone_page_37.md and Pages/cains_jawbone_page_38.md. Treat this as a pure placeholder join pending a positive stitch.
   - **Outcome:** `UNCLEAR`
 
+- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_38.md → Pages/cains_jawbone_page_40.md
+  - **Why:** current v2 tail adjacency; no concrete continuity marker is currently known (different allusion/setting registers).
+  - **Falsifier:** Pages/cains_jawbone_page_38.md is anchored instead to the Southend/Kursaal coda material (Pages/cains_jawbone_page_100.md), or Pages/cains_jawbone_page_40.md is anchored to a Whitman/“This Compost” run that excludes Pages/cains_jawbone_page_38.md.
+  - **Next falsification check:** search for any second anchor (shared participant, shared quoted source, shared place name, or phrase-level continuation) beyond generic travel/journey language.
+  - **Phase 6 test (2025-12-31):** page-body n‑gram scan found **zero** shared 3‑grams (or longer) and **zero** shared-unique word anchors between Pages/cains_jawbone_page_38.md and Pages/cains_jawbone_page_40.md. Treat as a pure placeholder join.
+  - **Outcome:** `UNCLEAR`
+
+- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_40.md → Pages/cains_jawbone_page_51.md
+  - **Why:** both pages embed dense Walt Whitman material and share the corpus-unique page-body word `calls` (p40 “as Eric Parker calls her” ↔ p51 “indecent calls”), suggesting a possible shared reading/quotation register.
+  - **Falsifier:** a third page is found using `calls` in its page body (making this non-unique), or a stronger Whitman-heavy successor is found for either page that forces them apart.
+  - **Next falsification check:** test whether any additional Whitman-line fragment or travel/posture marker repeats across both pages (beyond generic scaffolding like `I began to`).
+  - **Phase 6 test (2025-12-31):** page-body n‑gram scan found no shared 4‑grams (or longer); only the generic 3‑gram `I began to` overlaps. Treat this as a low-weight continuity hint (word-level + motif), not a join lock.
+  - **Outcome:** `UNCLEAR`
+
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_51.md → Pages/cains_jawbone_page_63.md
   - **Why:** current v2 tail adjacency; no shared participant/prop/place/quote continuation is known.
   - **Falsifier:** Pages/cains_jawbone_page_63.md gains a stronger anchored predecessor that forces it out of this tail pocket, and/or Pages/cains_jawbone_page_51.md gains a stronger, more concrete successor candidate.
