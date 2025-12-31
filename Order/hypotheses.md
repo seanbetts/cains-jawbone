@@ -197,11 +197,11 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
 ### Candidate cross-narrator overlap (falsify before treating as a constraint)
 
 - **Candidate:** Pages/cains_jawbone_page_6.md ↔ Pages/cains_jawbone_page_81.md (`N12` ↔ `N28`) (confidence: `MAYBE`)
-  - **Prior anchors:** “Speckled” appears only on these two page bodies in the archive (Doyle “Speckled Band” allusion on both sides), and the trigram `I could make` appears only on these two page bodies (different contexts).
+  - **Prior anchors:** page-body words `band` and `speckled` appear only on these two pages (Doyle “Speckled Band” allusion on both sides), and the trigram `I could make` appears only on these two page bodies (different contexts).
   - **Why it might matter:** could be a deliberate echo linking the poison-logistics voice to the window-throw vignette, or a marker that the same narrator returns later with a “no detective” posture.
   - **Disconfirming evidence:** if the Sherlock Holmes allusion is the only overlap (no shared voice tells, cast, or props), treat as an isolated allusion rather than a continuity signal.
   - **Next falsification check:** check for any second anchor tying the scenes (bell-wire/window motif, repeated “detective” self-reference, shared poison/botany register, or shared named person).
-  - **Phase 6 test (2025-12-30):** scanned shared n-grams and named anchors; beyond `Speckled` + `I could make`, no shared prop/place/person anchor is present. Outcome: `UNCLEAR` → keep as a low-weight stylistic echo until a concrete continuity marker emerges.
+  - **Phase 6 test (2025-12-31):** corpus scan confirms page-body words `band` and `speckled` appear only on these two pages and the trigram `i could make` appears only here; page-body n‑gram scan found **zero** shared 4‑grams (or longer) and no shared participant/prop/place anchor. Outcome: `PASS` (multi-anchor lexical bridge; still cross-narrator and provisional).
 - **Candidate:** Pages/cains_jawbone_page_24.md ↔ Pages/cains_jawbone_page_86.md (`N03` ↔ `N13`) (confidence: `LIKELY`)
   - **Prior anchors:** page-body unique `Caroline` name appears only on these pages (plain “Caroline” ↔ “Caroline Jasmine”), Pages/cains_jawbone_page_24.md foregrounds “wild jasmine” as a trigger motif while Pages/cains_jawbone_page_86.md uses “Jasmine” as the key proper name, and both pages quote Yeats’s “Song of Red Hanrahan” (different lines).
   - **Why it might matter:** this is the strongest current bridge candidate for re-stitching the weak v2 boundary around Pages/cains_jawbone_page_91.md → Pages/cains_jawbone_page_86.md, and may indicate the same household/cast and narrator voice under different registers.
@@ -1714,7 +1714,7 @@ Key changes vs v1:
 - **Block W (`N06`, confidence: `LIKELY` internal; Page 71 tentative):** Pages/cains_jawbone_page_66.md → Pages/cains_jawbone_page_67.md → Pages/cains_jawbone_page_71.md → Pages/cains_jawbone_page_73.md → Pages/cains_jawbone_page_74.md → Pages/cains_jawbone_page_75.md → Pages/cains_jawbone_page_83.md
 - **Block X (tail, confidence: `MAYBE`):** Pages/cains_jawbone_page_2.md → Pages/cains_jawbone_page_9.md → Pages/cains_jawbone_page_16.md → Pages/cains_jawbone_page_18.md → Pages/cains_jawbone_page_37.md → Pages/cains_jawbone_page_38.md → Pages/cains_jawbone_page_40.md → Pages/cains_jawbone_page_51.md → Pages/cains_jawbone_page_63.md → Pages/cains_jawbone_page_72.md → Pages/cains_jawbone_page_76.md → Pages/cains_jawbone_page_78.md → Pages/cains_jawbone_page_81.md → Pages/cains_jawbone_page_84.md → Pages/cains_jawbone_page_98.md → Pages/cains_jawbone_page_77.md → Pages/cains_jawbone_page_46.md → Pages/cains_jawbone_page_100.md
 
-### Proposed order (all 100 pages; v2.6)
+### Proposed order (all 100 pages; v2.7)
 
 Delta from v2.2 (Phase 6 tightening; keep falsifiable):
 
@@ -1722,11 +1722,13 @@ Delta from v2.2 (Phase 6 tightening; keep falsifiable):
 - Trial re-stitch: pull Pages/cains_jawbone_page_78.md out of the tail and place immediately after Pages/cains_jawbone_page_91.md (multi-anchor bridge: page-body-unique words `handed` + `suave` shared with Page 91). Treat the new block boundary into Pages/cains_jawbone_page_4.md as a placeholder until a better successor for Page 78 is found.
 - Trial re-stitch: pull Pages/cains_jawbone_page_63.md out of the tail and place immediately after Pages/cains_jawbone_page_87.md (multi-anchor bridge: page-body-unique words `coloured` + `putting` shared with Page 87). Treat the new block boundary into Pages/cains_jawbone_page_33.md as a placeholder until a better successor for Page 63 is found.
 - Trial re-stitch: pull Pages/cains_jawbone_page_84.md out of the tail and place immediately before Pages/cains_jawbone_page_41.md (multi-anchor bridge: page-body-unique words `catch` + `tawny` + `terribly` shared between Pages/cains_jawbone_page_84.md and Pages/cains_jawbone_page_41.md). Treat the new block boundary out of Pages/cains_jawbone_page_81.md as a placeholder until a better successor for Page 81 is found.
+- Trial re-stitch: pull Pages/cains_jawbone_page_81.md out of the tail and place immediately before Pages/cains_jawbone_page_6.md (multi-anchor bridge: page-body-unique words `band` + `speckled` shared between Pages/cains_jawbone_page_81.md and Pages/cains_jawbone_page_6.md, plus a shared corpus-unique trigram `i could make`). This shrinks the tail and makes `Pages/cains_jawbone_page_76.md → Pages/cains_jawbone_page_98.md` (unique 5‑gram `i would have to think`) the best current tail hinge, pending further falsification.
 
 - **Block A (`N03` + `N40`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_32.md → Pages/cains_jawbone_page_3.md → Pages/cains_jawbone_page_27.md → Pages/cains_jawbone_page_30.md → Pages/cains_jawbone_page_23.md → Pages/cains_jawbone_page_24.md
 - **Block E (`N13`, confidence: `CERTAIN` internal):** Pages/cains_jawbone_page_86.md → Pages/cains_jawbone_page_87.md
 - **Block E2 (`N14`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_63.md
 - **Block B (`N25` merged run, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_33.md → Pages/cains_jawbone_page_34.md → Pages/cains_jawbone_page_52.md → Pages/cains_jawbone_page_53.md
+- **Block C0 (`N28`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_81.md
 - **Block C (`N12` poison-logistics + Trinder chain, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_6.md → Pages/cains_jawbone_page_21.md → Pages/cains_jawbone_page_36.md → Pages/cains_jawbone_page_29.md → Pages/cains_jawbone_page_35.md → Pages/cains_jawbone_page_77.md → Pages/cains_jawbone_page_80.md → Pages/cains_jawbone_page_59.md → Pages/cains_jawbone_page_60.md
 - **Block D (`N11`, confidence: `LIKELY` placement):** Pages/cains_jawbone_page_91.md
 - **Block D2 (`N18`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_78.md
@@ -1747,12 +1749,12 @@ Delta from v2.2 (Phase 6 tightening; keep falsifiable):
 - **Block R (`N09`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_68.md → Pages/cains_jawbone_page_69.md → Pages/cains_jawbone_page_95.md → Pages/cains_jawbone_page_70.md
 - **Block V (`N10` + `N39`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_14.md → Pages/cains_jawbone_page_12.md → Pages/cains_jawbone_page_50.md → Pages/cains_jawbone_page_28.md
 - **Block W (`N06`, confidence: `LIKELY` internal; Page 71 tentative):** Pages/cains_jawbone_page_66.md → Pages/cains_jawbone_page_67.md → Pages/cains_jawbone_page_71.md → Pages/cains_jawbone_page_73.md → Pages/cains_jawbone_page_74.md → Pages/cains_jawbone_page_75.md → Pages/cains_jawbone_page_83.md
-- **Block X (tail, confidence: `MAYBE`):** Pages/cains_jawbone_page_2.md → Pages/cains_jawbone_page_9.md → Pages/cains_jawbone_page_16.md → Pages/cains_jawbone_page_18.md → Pages/cains_jawbone_page_37.md → Pages/cains_jawbone_page_38.md → Pages/cains_jawbone_page_40.md → Pages/cains_jawbone_page_51.md → Pages/cains_jawbone_page_72.md → Pages/cains_jawbone_page_76.md → Pages/cains_jawbone_page_81.md → Pages/cains_jawbone_page_98.md
+- **Block X (tail, confidence: `MAYBE`):** Pages/cains_jawbone_page_2.md → Pages/cains_jawbone_page_9.md → Pages/cains_jawbone_page_16.md → Pages/cains_jawbone_page_18.md → Pages/cains_jawbone_page_37.md → Pages/cains_jawbone_page_38.md → Pages/cains_jawbone_page_40.md → Pages/cains_jawbone_page_51.md → Pages/cains_jawbone_page_72.md → Pages/cains_jawbone_page_76.md → Pages/cains_jawbone_page_98.md
 
-### Phase 6 boundary tests for v2.6 (block boundaries)
+### Phase 6 boundary tests for v2.7 (block boundaries)
 
 - **Join (confidence: `LIKELY`):** Pages/cains_jawbone_page_24.md → Pages/cains_jawbone_page_86.md
-  - **Why:** page-body name `Caroline` appears only on these two pages, and both open with “Next day…” framing; v2.6 uses this to justify placing `N13` immediately after Block A rather than after Page 91.
+  - **Why:** page-body name `Caroline` appears only on these two pages, and both open with “Next day…” framing; v2.7 uses this to justify placing `N13` immediately after Block A rather than after Page 91.
   - **Falsifier:** `Caroline` on Pages/cains_jawbone_page_24.md is later shown to be a different referent from Caroline Jasmine on Pages/cains_jawbone_page_86.md, or another page repeats the same Caroline+“Next day” bundle and forces a different predecessor/successor.
   - **Next falsification check:** look for any second independent continuity marker across the boundary (shared prop, shared action beat, or a quote/phrase continuation) beyond the name/time cue.
   - **Phase 6 test (2025-12-31):** page-body n‑gram scan found only the generic 3‑gram `next day i` shared; page-body word `caroline` appears only on these two pages.
@@ -1771,6 +1773,20 @@ Delta from v2.2 (Phase 6 tightening; keep falsifiable):
   - **Next falsification check:** scan for any shared non-generic anchor (named person, object, quoted source, or phrase-level continuation) to justify adjacency.
   - **Phase 6 test (2025-12-31):** page-body n‑gram scan found **zero** shared 3‑grams (or longer) and **zero** shared-unique word anchors between the pages.
   - **Outcome:** `UNCLEAR` (treat as a pure placeholder join).
+
+- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_53.md → Pages/cains_jawbone_page_81.md
+  - **Why:** new v2.7 block boundary placeholder after extracting Page 81 from the tail; no scene/prop/cast continuity is currently known.
+  - **Falsifier:** Pages/cains_jawbone_page_81.md is forced adjacent elsewhere by a stronger multi-anchor (shared participant/prop/time), or Pages/cains_jawbone_page_53.md gains a stronger successor that excludes the window-throw vignette.
+  - **Next falsification check:** scan for any shared non-generic anchor (named person, object, quoted source, or phrase-level continuation) to justify adjacency.
+  - **Phase 6 test (2025-12-31):** page-body n‑gram scan found **zero** shared 3‑grams (or longer) and **zero** shared-unique word anchors between the pages.
+  - **Outcome:** `UNCLEAR` (treat as a pure placeholder join).
+
+- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_81.md → Pages/cains_jawbone_page_6.md
+  - **Why:** page-body words `band` and `speckled` appear only on these two pages, and the trigram `i could make` appears only on these two page bodies; this is a stronger multi-anchor bridge than leaving Page 81 floating in the tail.
+  - **Falsifier:** a third page is found containing `band`, `speckled`, or the trigram `i could make` in its page body (making the overlap non-unique), or Pages/cains_jawbone_page_81.md is anchored elsewhere by a stronger multi-anchor (shared cast/prop/time) that forces it away from Pages/cains_jawbone_page_6.md.
+  - **Next falsification check:** re-read the Pages/cains_jawbone_page_81.md ending and Pages/cains_jawbone_page_6.md opening for any continuity beyond the Speckled Band layer (shared bell-wire/window handling, shared named participant, or shared poison/botany register).
+  - **Phase 6 test (2025-12-31):** page-body n‑gram scan found **zero** shared 4‑grams (or longer); corpus scan confirms `band` + `speckled` and `i could make` are unique to this pair.
+  - **Outcome:** `PASS` (multi-anchor lexical bridge; direction still provisional).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_91.md → Pages/cains_jawbone_page_78.md
   - **Why:** page-body words `handed` and `suave` appear only on these two pages; this is stronger multi-anchor support than the removed v2.3 placeholder `Pages/cains_jawbone_page_91.md → Pages/cains_jawbone_page_4.md` (single-word `snowy` + generic overlap only).
@@ -1792,6 +1808,13 @@ Delta from v2.2 (Phase 6 tightening; keep falsifiable):
   - **Next falsification check:** look for a second continuity marker beyond shared vocabulary (shared named participant/object, or a quote/prop continuation) to justify adjacency direction.
   - **Phase 6 test (2025-12-31):** page-body scan confirms `catch`, `tawny`, and `terribly` appear only on Pages/cains_jawbone_page_84.md and Pages/cains_jawbone_page_41.md; page-body n‑gram scan found **zero** shared 3‑grams (or longer).
   - **Outcome:** `PASS` (multi-anchor bridge; direction still provisional).
+
+- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_76.md → Pages/cains_jawbone_page_98.md
+  - **Why:** Pages/cains_jawbone_page_76.md ends “I would have to think it over,” and Pages/cains_jawbone_page_98.md contains “I would have to think seriously of that”; corpus scan confirms the 5‑gram `i would have to think` appears only on these two page bodies.
+  - **Falsifier:** a third page is found containing the same phrase-level echo, or later context makes the two “think” clauses clearly incompatible (making the overlap coincidental).
+  - **Next falsification check:** re-read the Pages/cains_jawbone_page_76.md ending and the Pages/cains_jawbone_page_98.md “think” sentence for any second independent continuity marker (shared participant, place name, or quoted source) beyond the echo.
+  - **Phase 6 test (2025-12-31):** page-body n‑gram scan confirms shared 3‑gram `have to think`, shared 4‑gram `would have to think`, and shared 5‑gram `i would have to think` occur only on these two pages; no shared-unique word anchors were found.
+  - **Outcome:** `PASS` (phrase-level echo; keep low-weight until a second anchor emerges).
 
 ### Phase 6 trial variant (v3) — re-stitch around Page 77
 
