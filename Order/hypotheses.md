@@ -1966,4 +1966,8 @@ Delta from v2 (do not treat as accepted until falsified):
   - Removed: `Pages/cains_jawbone_page_84.md → Pages/cains_jawbone_page_98.md`
   - Added: `Pages/cains_jawbone_page_84.md → Pages/cains_jawbone_page_77.md` (placeholder)
   - Removed: `Pages/cains_jawbone_page_98.md → Pages/cains_jawbone_page_77.md`
+- **Phase 6 test (2025-12-31):** re-read the Pages/cains_jawbone_page_76.md ending and Pages/cains_jawbone_page_98.md opening; the “I would have to think…” echo reads like a deliberate hand-off, and both pages open with the narrator watching a man opposite (“Looking over…” ↔ “He stood and looked down…”), but no concrete prop/place/name continuity is present at the boundary.
+  - **Outcome:** `UNCLEAR` (treat `Pages/cains_jawbone_page_76.md → Pages/cains_jawbone_page_98.md` as a better-motivated adjacency candidate than `Pages/cains_jawbone_page_84.md → Pages/cains_jawbone_page_98.md`, but do not upgrade without a second independent anchor).
+- **Phase 6 test (2025-12-31):** re-read the Pages/cains_jawbone_page_98.md ending and Pages/cains_jawbone_page_78.md opening; no continuity marker (shared participant/prop/place/quote) appears, so treat `Pages/cains_jawbone_page_98.md → Pages/cains_jawbone_page_78.md` as a placeholder only.
+  - **Outcome:** `UNCLEAR`
 - **Phase 6 note:** this trial is intended to preserve the high-signal `p76 ↔ p98` linkage while acknowledging it creates new weak tail boundaries. It likely pairs best with v8 (which removes Pages/cains_jawbone_page_77.md from the tail by pulling it into `N12`) to avoid introducing `Pages/cains_jawbone_page_84.md → Pages/cains_jawbone_page_77.md` as a long-term join.
