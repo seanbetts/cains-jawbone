@@ -37,7 +37,7 @@ LIKELY WORDPLAY
 - **Clustering hypotheses:**
   - MAYBE: coastal cluster with Pages/cains_jawbone_page_1.md and Pages/cains_jawbone_page_5.md (sea/lighthouse imagery + Henry continuity).
   - MAYBE: loose coastal/Henry motif overlap with Pages/cains_jawbone_page_5.md (church/puddles + boy-near-sea vignette ↔ ruined lighthouse scene), but no phrase-level anchor found; treat as non-binding unless a unique shared prop/phrase emerges. Falsification check (2025-12-30): corpus scan found no third-page repeats of `N19`’s distinctive anchors (Mowthalorn/Annie/Lesurques/Cirque d’Hiver; Emperor’s Peg/ruined lighthouse/Evelyn Hope), so no additional placement lock yet.
-  - MAYBE: shared “buttonhole” word (page-body unique) with Pages/cains_jawbone_page_100.md (“day’s buttonhole” ↔ “buttonhole has escaped from the buttonholer”); treat as a cross-narrator continuity candidate until a second independent anchor emerges (see `Order/hypotheses.md`).
+  - Phase 6 test (2025-12-31): shared “buttonhole” word with Pages/cains_jawbone_page_100.md (“day’s buttonhole” ↔ “buttonhole has escaped from the buttonholer”), but no second anchor (prop/place/person/quote) and only the generic shared 3‑gram `i would have` → treat as motif-only echo (Outcome: `FAIL`, not a stitch candidate).
   - MAYBE: shared page-body 4-gram “my wits about me” with Pages/cains_jawbone_page_21.md (“have my wits about me” ↔ “keep my wits about me”); treat as a cross-narrator phrase echo until reinforced by a second independent anchor (see `Order/hypotheses.md`).
 - **Disconfirming evidence:**
   - If later identifies this as inland/figurative “sea” or Henry differs.
