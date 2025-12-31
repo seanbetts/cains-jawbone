@@ -1880,3 +1880,23 @@ Delta from v2 (do not treat as accepted until falsified):
   - Added: `Pages/cains_jawbone_page_77.md → Pages/cains_jawbone_page_100.md` (placeholder)
 - **Phase 6 test (2025-12-31):** re-read the Pages/cains_jawbone_page_57.md ending and Pages/cains_jawbone_page_46.md opening; no direct scene-continuation marker is present at the boundary, but the unique phrase-level echo (`it was good` occurs only on these two page bodies) plus the shared dog-as-listener + food framing makes this the highest-signal available stitch into the Dec 14 coda beat.
   - **Outcome:** `UNCLEAR` (treat as an improved placeholder; upgrade only if a second non-generic continuity marker emerges).
+
+### Phase 6 trial variant (v8) — combine v3 + v7 (cleaner tail)
+
+Delta from v2 (do not treat as accepted until falsified):
+
+- **Motivation:** v2’s tail block contains multiple forced low-signal joins around Pages/cains_jawbone_page_98.md / Pages/cains_jawbone_page_77.md / Pages/cains_jawbone_page_46.md. Separately, Pages/cains_jawbone_page_77.md is now best treated as `N12` (phrase lock to Pages/cains_jawbone_page_35.md), and Pages/cains_jawbone_page_46.md is now best treated as `N02` (unique `it was good` echo with Pages/cains_jawbone_page_57.md). Applying both re-stitches at once yields a shorter, cleaner tail with fewer cross-voice discontinuities.
+- **Change A (trial):** apply v3 Change A: insert Pages/cains_jawbone_page_77.md into v2 Block C immediately after Pages/cains_jawbone_page_35.md (so Block C becomes `Pages/cains_jawbone_page_6.md → Pages/cains_jawbone_page_21.md → Pages/cains_jawbone_page_36.md → Pages/cains_jawbone_page_29.md → Pages/cains_jawbone_page_35.md → Pages/cains_jawbone_page_77.md → Pages/cains_jawbone_page_80.md → Pages/cains_jawbone_page_59.md → Pages/cains_jawbone_page_60.md`).
+- **Change B (trial):** apply v7: append Pages/cains_jawbone_page_46.md to v2 Block S after Pages/cains_jawbone_page_57.md.
+- **Change C (trial):** remove Pages/cains_jawbone_page_77.md and Pages/cains_jawbone_page_46.md from v2 Block X (tail), yielding a new tail adjacency `Pages/cains_jawbone_page_98.md → Pages/cains_jawbone_page_100.md` to falsify (still placeholder).
+- **Resulting join swaps (v2 → v8):**
+  - Removed: `Pages/cains_jawbone_page_35.md → Pages/cains_jawbone_page_80.md`
+  - Added: `Pages/cains_jawbone_page_35.md → Pages/cains_jawbone_page_77.md` (candidate)
+  - Added: `Pages/cains_jawbone_page_77.md → Pages/cains_jawbone_page_80.md` (candidate)
+  - Added: `Pages/cains_jawbone_page_57.md → Pages/cains_jawbone_page_46.md` (candidate)
+  - Removed: `Pages/cains_jawbone_page_98.md → Pages/cains_jawbone_page_77.md`
+  - Removed: `Pages/cains_jawbone_page_77.md → Pages/cains_jawbone_page_46.md`
+  - Removed: `Pages/cains_jawbone_page_46.md → Pages/cains_jawbone_page_100.md`
+  - Added: `Pages/cains_jawbone_page_98.md → Pages/cains_jawbone_page_100.md` (placeholder)
+- **Phase 6 test (2025-12-31):** re-read the Pages/cains_jawbone_page_98.md ending and Pages/cains_jawbone_page_100.md opening; found no continuity marker (cast/prop/place/time/quote), so treat this as a placeholder only pending a stronger stitch into Pages/cains_jawbone_page_100.md.
+  - **Outcome:** `UNCLEAR`
