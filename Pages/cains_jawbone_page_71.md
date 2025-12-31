@@ -18,7 +18,7 @@ But next day that religious fellow’s head drapery, if I might thus unscientifi
   - MAYBE: Spartan mother / Lucius Junius Brutus (stoic virtue allusions; tone-setting).
 - **Motifs/continuity hooks:**
   - Flowers/seasonal scent: “old odour of red May” (links to later “blight on the May” language).
-  - MAYBE (Phase 6 scan, 2025-12-31): page-body phrase `I thought of May` appears only here and Pages/cains_jawbone_page_98.md; treat as a low-weight continuity cue toward a shared May thread (do not assume adjacency).
+  - Phase 6 test (2025-12-31): page-body phrase `I thought of May` appears only here and Pages/cains_jawbone_page_98.md, but page-body n‑gram scan shows no second anchor (no shared prop/cast/place/quote; only this 4‑gram) → treat as low-weight May-thread only (do not use for ordering).
   - Food: anchovy toast + “various hot dishes”.
   - Eyes/vision: struck “full in the eye”.
 - **Voice/tells:**
