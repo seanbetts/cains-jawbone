@@ -1783,6 +1783,7 @@ Delta from v2.2 (Phase 6 tightening; keep falsifiable):
   - **Falsifier:** Pages/cains_jawbone_page_63.md gains a stronger successor (dessert/Lent/attribution thread), or Pages/cains_jawbone_page_33.md gains a stronger predecessor beyond the `N13`/`N14` bridge.
   - **Next falsification check:** scan for any shared non-generic anchor (named person, object, quoted source, or phrase-level continuation) to justify adjacency.
   - **Phase 6 test (2025-12-31):** page-body n‑gram scan found **zero** shared 3‑grams (or longer) and **zero** shared-unique word anchors between the pages.
+  - **Phase 6 test (2026-01-01):** page-body df==2 token scan suggests Pages/cains_jawbone_page_63.md has a plausible alternative successor lead: page-body word `dimples` appears only on Pages/cains_jawbone_page_63.md and Pages/cains_jawbone_page_38.md (both describing physical dimples). Treat this as a re-stitch lead only until reinforced by a second independent continuity marker.
   - **Outcome:** `UNCLEAR` (treat as a pure placeholder join).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_53.md → Pages/cains_jawbone_page_81.md
