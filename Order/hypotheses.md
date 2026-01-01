@@ -2226,13 +2226,15 @@ These are the **highest-risk segment joins** inside the v2 full ordering draft. 
   - **Next falsification check:** look for any second independent anchor (shared named participant, shared quoted source, or shared place/venue name).
   - **Phase 6 test (2025-12-31):** page-body n‑gram scan found **zero** shared 3‑grams (or longer) and **zero** shared-unique word anchors between the pages. Treat as a pure placeholder join.
   - **Phase 6 test (2026-01-01):** page-body df==2 token scan suggests no lexical bridge exists: Pages/cains_jawbone_page_72.md uniquely links to Pages/cains_jawbone_page_49.md (`pleasant`) and Pages/cains_jawbone_page_92.md (`stories`), while Pages/cains_jawbone_page_76.md uniquely links to Pages/cains_jawbone_page_20.md (`arrived`), Pages/cains_jawbone_page_37.md (`smile`), and Pages/cains_jawbone_page_87.md (`foreground`) among others. Treat these as re-stitch leads only.
+  - **Phase 6 test (2026-01-01):** page-body df==2 n‑gram scan suggests additional re-stitch directions: Pages/cains_jawbone_page_72.md shares df==2 bigrams `lips were` and `to us` with Pages/cains_jawbone_page_78.md, and shares the df==2 tokenised 4‑gram `to sit down and` with Pages/cains_jawbone_page_52.md. Treat as re-stitch leads only unless reinforced by a second independent continuity marker (shared participant/prop/place/time).
   - **Outcome:** `UNCLEAR`
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_76.md → Pages/cains_jawbone_page_78.md
-  - **Why:** current v2 tail adjacency; both pages include the narrator resolving to act/learn (“I would have to…”), but this phrasing is common across the corpus and no concrete continuity marker is known.
+  - **Why:** current v2 tail adjacency; both pages quote Henry as aphorist (“as Henry said”) while the narrator resolves to act/learn (“I would have to…”), but no concrete scene/prop/place continuation is currently known.
   - **Falsifier:** Pages/cains_jawbone_page_76.md is shown to join directly to Pages/cains_jawbone_page_98.md (unique 5‑gram `I would have to think`) in a tighter run, or Pages/cains_jawbone_page_78.md gains a stronger attachment to a will/forgery block elsewhere.
   - **Next falsification check:** search for a second anchor beyond generic resolve language (shared named participant, shared object/prop, shared place/venue, or phrase-level continuation that is corpus-unique).
   - **Phase 6 test (2025-12-31):** page-body n‑gram scan found no shared 5‑grams and no shared-unique word anchors; the strongest overlaps are generic 4‑grams (`I would have to`, `I felt I could`) that also occur on other pages. Treat as a placeholder join.
+  - **Phase 6 test (2026-01-01):** corpus scan found the trigram `as henry said` appears only on Pages/cains_jawbone_page_76.md and Pages/cains_jawbone_page_78.md (and the bigram `henry said` is also unique to this pair), so this is no longer a “generic resolve language only” candidate. Treat this as a concrete shared-phrase anchor, but do not adopt without a second independent continuity marker (shared participant/prop/place/time) and without resolving competition from the stronger phrase-level `Pages/cains_jawbone_page_76.md → Pages/cains_jawbone_page_98.md` echo.
   - **Outcome:** `UNCLEAR`
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_78.md → Pages/cains_jawbone_page_81.md
