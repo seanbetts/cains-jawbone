@@ -1832,6 +1832,8 @@ Delta from v2.2 (Phase 6 tightening; keep falsifiable):
   - **Next falsification check:** scan for any shared non-generic anchor (named person, object, quoted source, or phrase-level continuation) to justify adjacency.
   - **Phase 6 test (2025-12-31):** page-body n‑gram scan found **zero** shared 4‑grams (or longer) and no shared-unique word anchors; only the generic shared 3‑gram `i would have`.
   - **Phase 6 test (2026-01-01):** page-body df==2 token scan suggests both pages likely have cleaner neighbors elsewhere: Pages/cains_jawbone_page_78.md links to Pages/cains_jawbone_page_18.md (`sensational`) and Pages/cains_jawbone_page_14.md (`clean`), while Pages/cains_jawbone_page_4.md links to Pages/cains_jawbone_page_14.md (`clearly`) and Pages/cains_jawbone_page_28.md (`church`). Treat as re-stitch leads only until reinforced by a second anchor.
+  - **Phase 6 test (2026-01-01):** re-read the Pages/cains_jawbone_page_78.md ending and Pages/cains_jawbone_page_4.md opening; no narrative/setting/participant continuity is present (diary/forgery + train-reading register ↔ coastal-comic puddles/buttonholes/church register). Treat as a pure placeholder join.
+  - **Phase 6 test (2026-01-01):** re-read Pages/cains_jawbone_page_78.md and Pages/cains_jawbone_page_18.md for the `sensational` re-stitch lead; both pages use `sensational` in a reading/editorial context (train “something sensational to read” ↔ “chapter… too sensational”), but no second independent continuity marker emerged. Keep as a low-weight candidate successor to test later.
   - **Outcome:** `UNCLEAR` (treat as a pure placeholder join).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_84.md → Pages/cains_jawbone_page_41.md
