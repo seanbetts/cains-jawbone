@@ -225,9 +225,10 @@ Track *in-world* death/murder hypotheses separately from page-ordering hypothese
   - **Pages:** Pages/cains_jawbone_page_77.md
   - **Victim candidate(s):** `UNKNOWN` (unnamed “first” victim; described via “bony ankles” warmth → cold)
   - **Murderer candidate(s):** `P105` (narrator; identity unknown)
-  - **Means/method:** “Compact” (a named tool used by the narrator; likely a weapon/implement)
+  - **Means/method:** LIKELY hypodermic syringe (“Compact” model name); injection (substance unknown)
   - **Motive:** `UNKNOWN` (narrator distinguishes a “political” killing from “my own” as “understandable”)
   - **Opportunity:** Narrator is “alone again” immediately after the act and frames tactile contact with the victim.
   - **Narrative tells:** Self-positioning (“Don’t think me squeamish ; it was my first.”) + concrete bodily aftermath strongly signals an in-world killing, while the Spencer Perceval references read as a historical/allusive layer rather than the in-world victim’s identity.
   - **Evidence summary:** Page 77 contains a strong in-world first-murder confession with a named implement (“Compact”), but victim identity and linkage to other deaths remain unclear.
+  - **Phase 6 test (2026-01-01):** re-read Pages/cains_jawbone_page_77.md; the act reads as in-world (warm→cold body aftermath + “alone again”), and `Compact` is plausibly physical (see `Indexes/objects_motifs.md` hypodermic “Compact” attestation), reducing the chance it is merely metaphorical.
   - **Falsifiers:** “my first” is shown to refer to something non-lethal (or purely figurative), “Compact” is shown not to be a weapon/means of harm, or later pages explicitly identify the victim in a way that collapses this into a different event record.
