@@ -1714,7 +1714,7 @@ Key changes vs v1:
 - **Block W (`N06`, confidence: `LIKELY` internal; Page 71 tentative):** Pages/cains_jawbone_page_66.md → Pages/cains_jawbone_page_67.md → Pages/cains_jawbone_page_71.md → Pages/cains_jawbone_page_73.md → Pages/cains_jawbone_page_74.md → Pages/cains_jawbone_page_75.md → Pages/cains_jawbone_page_83.md
 - **Block X (tail, confidence: `MAYBE`):** Pages/cains_jawbone_page_2.md → Pages/cains_jawbone_page_9.md → Pages/cains_jawbone_page_16.md → Pages/cains_jawbone_page_18.md → Pages/cains_jawbone_page_37.md → Pages/cains_jawbone_page_38.md → Pages/cains_jawbone_page_40.md → Pages/cains_jawbone_page_51.md → Pages/cains_jawbone_page_63.md → Pages/cains_jawbone_page_72.md → Pages/cains_jawbone_page_76.md → Pages/cains_jawbone_page_78.md → Pages/cains_jawbone_page_81.md → Pages/cains_jawbone_page_84.md → Pages/cains_jawbone_page_98.md → Pages/cains_jawbone_page_77.md → Pages/cains_jawbone_page_46.md → Pages/cains_jawbone_page_100.md
 
-### Proposed order (all 100 pages; v2.9)
+### Proposed order (all 100 pages; v2.10)
 
 Delta from v2.2 (Phase 6 tightening; keep falsifiable):
 
@@ -1725,6 +1725,7 @@ Delta from v2.2 (Phase 6 tightening; keep falsifiable):
 - Trial re-stitch: pull Pages/cains_jawbone_page_81.md out of the tail and place immediately before Pages/cains_jawbone_page_6.md (multi-anchor bridge: page-body-unique words `band` + `speckled` shared between Pages/cains_jawbone_page_81.md and Pages/cains_jawbone_page_6.md, plus a shared corpus-unique trigram `i could make`). This shrinks the tail and makes `Pages/cains_jawbone_page_76.md → Pages/cains_jawbone_page_98.md` (unique 5‑gram `i would have to think`) the best current tail hinge, pending further falsification.
 - Trial re-stitch: pull Pages/cains_jawbone_page_2.md out of the tail and place immediately after Pages/cains_jawbone_page_42.md (multi-anchor bridge: page-body-unique words `figures` + `surmised` shared between Pages/cains_jawbone_page_2.md and Pages/cains_jawbone_page_42.md). Keep Pages/cains_jawbone_page_92.md → Pages/cains_jawbone_page_42.md intact (Browning continuation lock); treat the new block boundary into Pages/cains_jawbone_page_47.md as a placeholder until a stronger successor for Page 2 emerges.
 - Trial re-stitch: move Pages/cains_jawbone_page_47.md to sit immediately after Pages/cains_jawbone_page_50.md (multi-anchor bridge: page-body-unique words `begin` + `straight` and corpus-unique trigram `i always think` shared between Pages/cains_jawbone_page_47.md and Pages/cains_jawbone_page_50.md). This replaces the v2.8 placeholder successor to Page 2 with a different placeholder (Page 2 → Page 1) but upgrades the Page 50 successor to a multi-anchor join.
+- Trial re-stitch: pull Pages/cains_jawbone_page_28.md out of its late placeholder slot and place immediately before Pages/cains_jawbone_page_15.md (multi-anchor bridge: page-body-unique word `interesting` and corpus-unique 4‑gram `and i wondered if` shared between Pages/cains_jawbone_page_28.md and Pages/cains_jawbone_page_15.md). This removes the pure-placeholder v2.9 boundary Pages/cains_jawbone_page_47.md → Pages/cains_jawbone_page_28.md, introducing two new placeholders (Pages/cains_jawbone_page_11.md → Pages/cains_jawbone_page_28.md and Pages/cains_jawbone_page_47.md → Pages/cains_jawbone_page_66.md) pending further falsification.
 
 - **Block A (`N03` + `N40`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_32.md → Pages/cains_jawbone_page_3.md → Pages/cains_jawbone_page_27.md → Pages/cains_jawbone_page_30.md → Pages/cains_jawbone_page_23.md → Pages/cains_jawbone_page_24.md
 - **Block E (`N13`, confidence: `CERTAIN` internal):** Pages/cains_jawbone_page_86.md → Pages/cains_jawbone_page_87.md
@@ -1739,6 +1740,7 @@ Delta from v2.2 (Phase 6 tightening; keep falsifiable):
 - **Block H (`N16`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_7.md → Pages/cains_jawbone_page_45.md → Pages/cains_jawbone_page_26.md → Pages/cains_jawbone_page_44.md → Pages/cains_jawbone_page_55.md
 - **Block H2 (`N37`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_84.md
 - **Block I (`N17`, confidence: `CERTAIN` internal):** Pages/cains_jawbone_page_41.md → Pages/cains_jawbone_page_11.md
+- **Block I2 (`N39`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_28.md
 - **Block J (`N08`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_15.md → Pages/cains_jawbone_page_82.md → Pages/cains_jawbone_page_94.md → Pages/cains_jawbone_page_85.md
 - **Block K (`N07`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_97.md → Pages/cains_jawbone_page_93.md
 - **Block L (`N26`, confidence: `CERTAIN` internal):** Pages/cains_jawbone_page_56.md → Pages/cains_jawbone_page_54.md
@@ -1752,14 +1754,13 @@ Delta from v2.2 (Phase 6 tightening; keep falsifiable):
 - **Block R (`N09`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_68.md → Pages/cains_jawbone_page_69.md → Pages/cains_jawbone_page_95.md → Pages/cains_jawbone_page_70.md
 - **Block V (`N10` + `N39`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_14.md → Pages/cains_jawbone_page_12.md → Pages/cains_jawbone_page_50.md
 - **Block V2 (`N21`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_47.md
-- **Block V3 (`N39`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_28.md
 - **Block W (`N06`, confidence: `LIKELY` internal; Page 71 tentative):** Pages/cains_jawbone_page_66.md → Pages/cains_jawbone_page_67.md → Pages/cains_jawbone_page_71.md → Pages/cains_jawbone_page_73.md → Pages/cains_jawbone_page_74.md → Pages/cains_jawbone_page_75.md → Pages/cains_jawbone_page_83.md
 - **Block X (tail, confidence: `MAYBE`):** Pages/cains_jawbone_page_9.md → Pages/cains_jawbone_page_16.md → Pages/cains_jawbone_page_18.md → Pages/cains_jawbone_page_37.md → Pages/cains_jawbone_page_38.md → Pages/cains_jawbone_page_40.md → Pages/cains_jawbone_page_51.md → Pages/cains_jawbone_page_72.md → Pages/cains_jawbone_page_76.md → Pages/cains_jawbone_page_98.md
 
-### Phase 6 boundary tests for v2.9 (block boundaries)
+### Phase 6 boundary tests for v2.10 (block boundaries)
 
 - **Join (confidence: `LIKELY`):** Pages/cains_jawbone_page_24.md → Pages/cains_jawbone_page_86.md
-  - **Why:** page-body name `Caroline` appears only on these two pages, and both open with “Next day…” framing; v2.9 uses this to justify placing `N13` immediately after Block A rather than after Page 91.
+  - **Why:** page-body name `Caroline` appears only on these two pages, and both open with “Next day…” framing; v2.10 uses this to justify placing `N13` immediately after Block A rather than after Page 91.
   - **Falsifier:** `Caroline` on Pages/cains_jawbone_page_24.md is later shown to be a different referent from Caroline Jasmine on Pages/cains_jawbone_page_86.md, or another page repeats the same Caroline+“Next day” bundle and forces a different predecessor/successor.
   - **Next falsification check:** look for any second independent continuity marker across the boundary (shared prop, shared action beat, or a quote/phrase continuation) beyond the name/time cue.
   - **Phase 6 test (2025-12-31):** page-body n‑gram scan found only the generic 3‑gram `next day i` shared; page-body word `caroline` appears only on these two pages.
@@ -1794,7 +1795,7 @@ Delta from v2.2 (Phase 6 tightening; keep falsifiable):
   - **Outcome:** `PASS` (multi-anchor lexical bridge; direction still provisional).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_42.md → Pages/cains_jawbone_page_2.md
-  - **Why:** page-body words `figures` and `surmised` appear only on these two pages; v2.9 uses this to pull Page 2 out of the tail while preserving the hard Browning continuation lock Pages/cains_jawbone_page_92.md → Pages/cains_jawbone_page_42.md.
+  - **Why:** page-body words `figures` and `surmised` appear only on these two pages; v2.10 uses this to pull Page 2 out of the tail while preserving the hard Browning continuation lock Pages/cains_jawbone_page_92.md → Pages/cains_jawbone_page_42.md.
   - **Falsifier:** a third page is found using `figures` or `surmised` in its page body (making either non-unique), or Pages/cains_jawbone_page_2.md is anchored elsewhere by a stronger multi-anchor (shared cast/prop/place/time) that forces it away from Pages/cains_jawbone_page_42.md.
   - **Next falsification check:** re-read the Pages/cains_jawbone_page_42.md ending and Pages/cains_jawbone_page_2.md opening for a continuity marker beyond shared vocabulary (shared location marker, same woman identifier, or a phrase-level continuation).
   - **Phase 6 test (2025-12-31):** page-body n‑gram scan found **zero** shared 3‑grams (or longer); corpus scan confirms `figures` and `surmised` are unique to this pair.
@@ -1808,17 +1809,17 @@ Delta from v2.2 (Phase 6 tightening; keep falsifiable):
   - **Outcome:** `UNCLEAR` (treat as a pure placeholder join).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_50.md → Pages/cains_jawbone_page_47.md
-  - **Why:** page-body words `begin` and `straight` appear only on these two pages, and the trigram `i always think` appears only on these two page bodies; v2.9 uses this to give Page 50 a multi-anchor successor without breaking the hard Pages/cains_jawbone_page_12.md → Pages/cains_jawbone_page_50.md epigram continuation lock.
+  - **Why:** page-body words `begin` and `straight` appear only on these two pages, and the trigram `i always think` appears only on these two page bodies; v2.10 uses this to give Page 50 a multi-anchor successor without breaking the hard Pages/cains_jawbone_page_12.md → Pages/cains_jawbone_page_50.md epigram continuation lock.
   - **Falsifier:** a third page is found containing `begin`, `straight`, or the trigram `i always think` in its page body (making the overlap non-unique), or Pages/cains_jawbone_page_47.md is anchored elsewhere by a stronger multi-anchor (shared cast/prop/time) that forces it away from Pages/cains_jawbone_page_50.md.
   - **Next falsification check:** re-read the Pages/cains_jawbone_page_50.md ending and Pages/cains_jawbone_page_47.md opening for any continuity beyond shared vocabulary (shared participant, setting, or a quote/prop continuation).
   - **Phase 6 test (2025-12-31):** corpus scan confirms `begin` + `straight` and the trigram `i always think` are unique to this pair; no shared 4‑grams (or longer) were found.
   - **Outcome:** `PASS` (multi-anchor lexical bridge; direction still provisional).
 
-- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_47.md → Pages/cains_jawbone_page_28.md
-  - **Why:** new v2.9 block boundary placeholder after extracting Pages/cains_jawbone_page_47.md as a successor to Pages/cains_jawbone_page_50.md; no scene/prop/cast continuity is currently known.
-  - **Falsifier:** Pages/cains_jawbone_page_28.md gains a stronger predecessor inside the will/forgery run (beyond the general Wilde quotation layer), or Pages/cains_jawbone_page_47.md gains a stronger successor that excludes Pages/cains_jawbone_page_28.md.
+- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_47.md → Pages/cains_jawbone_page_66.md
+  - **Why:** new v2.10 block boundary placeholder after extracting Pages/cains_jawbone_page_28.md away from the Page 47 successor slot; no scene/prop/cast continuity is currently known.
+  - **Falsifier:** Pages/cains_jawbone_page_47.md gains a stronger successor (shared participant/prop/place/time or phrase-level continuation) that excludes Pages/cains_jawbone_page_66.md, or Pages/cains_jawbone_page_66.md gains a stronger predecessor inside `N06` that excludes Pages/cains_jawbone_page_47.md.
   - **Next falsification check:** scan for any shared non-generic anchor (named person, object, quoted source, or phrase-level continuation) to justify adjacency.
-  - **Phase 6 test (2025-12-31):** page-body n‑gram scan found **zero** shared 3‑grams (or longer) and **zero** shared-unique word anchors between the pages.
+  - **Phase 6 test (2026-01-01):** page-body n‑gram scan found **zero** shared 3‑grams (or longer) and **zero** shared-unique word anchors between the pages.
   - **Outcome:** `UNCLEAR` (treat as a pure placeholder join).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_91.md → Pages/cains_jawbone_page_78.md
@@ -1841,6 +1842,20 @@ Delta from v2.2 (Phase 6 tightening; keep falsifiable):
   - **Next falsification check:** look for a second continuity marker beyond shared vocabulary (shared named participant/object, or a quote/prop continuation) to justify adjacency direction.
   - **Phase 6 test (2025-12-31):** page-body scan confirms `catch`, `tawny`, and `terribly` appear only on Pages/cains_jawbone_page_84.md and Pages/cains_jawbone_page_41.md; page-body n‑gram scan found **zero** shared 3‑grams (or longer).
   - **Outcome:** `PASS` (multi-anchor bridge; direction still provisional).
+
+- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_11.md → Pages/cains_jawbone_page_28.md
+  - **Why:** new v2.10 block boundary placeholder after placing Pages/cains_jawbone_page_28.md as a stitched predecessor to Pages/cains_jawbone_page_15.md; no scene/prop/cast continuity is currently known.
+  - **Falsifier:** Pages/cains_jawbone_page_28.md gains a stronger predecessor inside the will/forgery run (beyond the general Wilde quotation layer), or Pages/cains_jawbone_page_11.md gains a stronger successor that excludes Pages/cains_jawbone_page_28.md.
+  - **Next falsification check:** scan for any shared non-generic anchor (named person, object, quoted source, or phrase-level continuation) to justify adjacency.
+  - **Phase 6 test (2026-01-01):** page-body n‑gram scan found **zero** shared 3‑grams (or longer) and **zero** shared-unique word anchors between the pages.
+  - **Outcome:** `UNCLEAR` (treat as a pure placeholder join).
+
+- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_28.md → Pages/cains_jawbone_page_15.md
+  - **Why:** page-body word `interesting` appears only on these two pages, and the page-body 4‑gram `and i wondered if` appears only on these two page bodies; v2.10 uses this as a multi-anchor stitch for placing Page 28 immediately before Page 15.
+  - **Falsifier:** a third page is found containing `interesting` or the 4‑gram `and i wondered if` in its page body (making the overlap non-unique), or later context makes the two “wondered if” passages clearly incompatible.
+  - **Next falsification check:** re-read the Pages/cains_jawbone_page_28.md ending and Pages/cains_jawbone_page_15.md opening for a second continuity marker (shared participant, shared table/meal prop, or a phrase-level continuation beyond the lexical anchor).
+  - **Phase 6 test (2026-01-01):** corpus scan confirms `interesting` and the 4‑gram `and i wondered if` appear only on Pages/cains_jawbone_page_28.md and Pages/cains_jawbone_page_15.md.
+  - **Outcome:** `PASS` (multi-anchor lexical bridge; direction still provisional).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_76.md → Pages/cains_jawbone_page_98.md
   - **Why:** Pages/cains_jawbone_page_76.md ends “I would have to think it over,” and Pages/cains_jawbone_page_98.md contains “I would have to think seriously of that”; corpus scan confirms the 5‑gram `i would have to think` appears only on these two page bodies.
