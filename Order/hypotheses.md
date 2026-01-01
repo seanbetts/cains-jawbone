@@ -1953,6 +1953,7 @@ Delta from v2.2 (Phase 6 tightening; keep falsifiable):
   - **Falsifier:** a third page is found using `fragments` in its page body (making the overlap non-unique), or Pages/cains_jawbone_page_14.md gains a stronger predecessor (shared participant/setting/object) that excludes Pages/cains_jawbone_page_70.md.
   - **Next falsification check:** re-read the Pages/cains_jawbone_page_70.md ending and Pages/cains_jawbone_page_14.md opening for a second anchor beyond the single-word overlap (shared named person, prop, or a quote continuation).
   - **Phase 6 test (2026-01-01):** corpus scan confirms page-body word `fragments` appears only on Pages/cains_jawbone_page_70.md and Pages/cains_jawbone_page_14.md; no shared corpus-unique 3‑grams (or longer) were found.
+  - **Phase 6 test (2026-01-01):** page-body df==2 token scan suggests both sides may ultimately stitch elsewhere: p70 also uniquely shares `painted` with Pages/cains_jawbone_page_67.md and `worst` with Pages/cains_jawbone_page_50.md; p14 uniquely shares `cricket` with Pages/cains_jawbone_page_67.md and `leave` with Pages/cains_jawbone_page_84.md. Treat these as re-stitch leads only (not order claims) until a second continuity marker emerges.
   - **Outcome:** `UNCLEAR` (single-anchor hint only; treat as a placeholder join until reinforced).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_83.md → Pages/cains_jawbone_page_9.md
@@ -1960,6 +1961,7 @@ Delta from v2.2 (Phase 6 tightening; keep falsifiable):
   - **Falsifier:** Pages/cains_jawbone_page_83.md gains a stronger successor (shared participant/place/object or phrase-level continuation) that excludes the tail opener Pages/cains_jawbone_page_9.md, or Pages/cains_jawbone_page_9.md gains a stronger predecessor that excludes Pages/cains_jawbone_page_83.md.
   - **Next falsification check:** re-read the Pages/cains_jawbone_page_83.md ending and Pages/cains_jawbone_page_9.md opening for any non-generic continuity marker; treat this boundary as a high-priority candidate for replacement because it gates the entire tail.
   - **Phase 6 test (2026-01-01):** page-body scan found **zero** shared corpus-unique 3‑grams (or longer) and **zero** shared-unique word anchors between the pages.
+  - **Phase 6 test (2026-01-01):** page-body df==2 token scan found candidate successor overlaps for Pages/cains_jawbone_page_83.md that are absent with Pages/cains_jawbone_page_9.md: `metallic` appears only on Pages/cains_jawbone_page_83.md and Pages/cains_jawbone_page_18.md; `hurried` only on Pages/cains_jawbone_page_83.md and Pages/cains_jawbone_page_98.md; `dew` only on Pages/cains_jawbone_page_83.md and Pages/cains_jawbone_page_92.md. Prioritise testing the in-tail candidates first (Pages/cains_jawbone_page_18.md / Pages/cains_jawbone_page_98.md) before moving larger blocks.
   - **Outcome:** `UNCLEAR` (treat as a pure placeholder join).
 
 ### Phase 6 trial variant (v3) — re-stitch around Page 77
