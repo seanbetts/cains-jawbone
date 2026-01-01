@@ -2169,6 +2169,14 @@ These are the **highest-risk segment joins** inside the v2 full ordering draft. 
   - **Phase 6 test (2025-12-31):** page-body n‑gram scan found **zero** shared 3‑grams (or longer) and **zero** shared-unique word anchors between Pages/cains_jawbone_page_37.md and Pages/cains_jawbone_page_38.md. Treat this as a pure placeholder join pending a positive stitch.
   - **Outcome:** `UNCLEAR`
 
+- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_38.md → Pages/cains_jawbone_page_72.md
+  - **Why:** current v2.14 tail adjacency; no continuity marker is currently known (Southend/omelette stabbing voice ↔ Medehamstede/Peterborough + magazine/short-stories voice).
+  - **Falsifier:** either page is anchored elsewhere by a stronger multi-anchor continuity (shared participant/place/prop, or phrase-level continuation) that excludes this boundary.
+  - **Next falsification check:** re-read the Pages/cains_jawbone_page_38.md ending and Pages/cains_jawbone_page_72.md opening for a concrete continuity marker (shared named participant, shared venue/drink/reading prop) and run page-body n‑gram + df==2 token scans for replacement leads.
+  - **Phase 6 test (2026-01-01):** page-body scan found **zero** shared corpus-unique 3‑grams (or longer), **zero** shared corpus-unique 4‑grams (or longer), and **zero** shared df==2 word anchors between the pages.
+  - **Phase 6 test (2026-01-01):** page-body df==2 token scan suggests both pages likely stitch elsewhere: Pages/cains_jawbone_page_38.md uniquely shares `dimples` with Pages/cains_jawbone_page_63.md and `led` with Pages/cains_jawbone_page_29.md, while Pages/cains_jawbone_page_72.md uniquely shares `pleasant` with Pages/cains_jawbone_page_49.md and `stories` with Pages/cains_jawbone_page_92.md. Treat as re-stitch leads only until reinforced by non-lexical continuity.
+  - **Outcome:** `UNCLEAR` (treat as a pure placeholder join).
+
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_38.md → Pages/cains_jawbone_page_40.md
   - **Why:** current v2 tail adjacency; no concrete continuity marker is currently known (different allusion/setting registers).
   - **Falsifier:** Pages/cains_jawbone_page_38.md is anchored instead to the Southend/Kursaal coda material (Pages/cains_jawbone_page_100.md), or Pages/cains_jawbone_page_40.md is anchored to a Whitman/“This Compost” run that excludes Pages/cains_jawbone_page_38.md.
