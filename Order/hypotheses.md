@@ -1790,6 +1790,7 @@ Delta from v2.2 (Phase 6 tightening; keep falsifiable):
   - **Falsifier:** Pages/cains_jawbone_page_81.md is forced adjacent elsewhere by a stronger multi-anchor (shared participant/prop/time), or Pages/cains_jawbone_page_53.md gains a stronger successor that excludes the window-throw vignette.
   - **Next falsification check:** scan for any shared non-generic anchor (named person, object, quoted source, or phrase-level continuation) to justify adjacency.
   - **Phase 6 test (2025-12-31):** page-body n‑gram scan found **zero** shared 3‑grams (or longer) and **zero** shared-unique word anchors between the pages.
+  - **Phase 6 test (2026-01-01):** page-body n‑gram scan confirms Pages/cains_jawbone_page_53.md shares the corpus-unique phrase bundle `if i mistook not` (unique 4‑gram; plus unique trigrams `if i mistook` / `i mistook not`) with Pages/cains_jawbone_page_25.md. Treat as a possible within-voice tell and a re-stitch lead for finding a better successor/predecessor for Page 53 than Pages/cains_jawbone_page_81.md; do not adopt as adjacency without a second independent continuity marker.
   - **Outcome:** `UNCLEAR` (treat as a pure placeholder join).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_81.md → Pages/cains_jawbone_page_6.md
@@ -1844,6 +1845,15 @@ Delta from v2.2 (Phase 6 tightening; keep falsifiable):
   - **Next falsification check:** look for any second independent continuity marker (shared prop/cast/time cue) beyond `blank`, and confirm that Pages/cains_jawbone_page_20.md’s other df==2 “bridge words” do not force a different placement.
   - **Phase 6 test (2026-01-01):** page-body df==2 token scan confirms `blank` appears only on Pages/cains_jawbone_page_18.md and Pages/cains_jawbone_page_20.md; re-read finds no prop/cast continuity, but this removes the prior pure-placeholder boundary after Page 18.
   - **Outcome:** `PASS` (adopt as the v2.14 successor for Page 18; keep confidence `MAYBE`).
+
+- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_20.md → Pages/cains_jawbone_page_4.md
+  - **Why:** current v2.14 block boundary out of the editorial/suspicion singleton into the `N19` coastal-comic run; no scene/prop/cast continuity is currently known.
+  - **Falsifier:** Pages/cains_jawbone_page_20.md gains a stronger successor (shared participant/place/prop or phrase-level continuation) that excludes Pages/cains_jawbone_page_4.md, or Pages/cains_jawbone_page_4.md gains a stronger predecessor inside the Henry/coastal-comic cluster that excludes Pages/cains_jawbone_page_20.md.
+  - **Next falsification check:** re-read the boundary for a concrete continuity marker (shared named participant, travel/time cue, or quote continuation); cross-check page-body df==2 token leads for both pages to identify likely re-stitch targets.
+  - **Phase 6 test (2026-01-01):** page-body scan found **zero** shared corpus-unique 3‑grams (or longer) and **zero** shared-unique word anchors between the pages; only high-noise overlap like `i would have`.
+  - **Phase 6 test (2026-01-01):** re-read Pages/cains_jawbone_page_20.md ending and Pages/cains_jawbone_page_4.md opening; no continuity of setting (Surrey/Mole/monumental brass ↔ puddles/buttonhole/church), cast, or quoted source is present; treat as a pure placeholder.
+  - **Phase 6 test (2026-01-01):** page-body df==2 token scan suggests cleaner re-stitch directions: Page 20 uniquely links to Pages/cains_jawbone_page_76.md (`arrived`), Pages/cains_jawbone_page_69.md (`waking`), Pages/cains_jawbone_page_77.md (`suspicious`, `wife`), Pages/cains_jawbone_page_28.md (`stone`), and Pages/cains_jawbone_page_6.md (`lie`) among others; Page 4 uniquely links to Pages/cains_jawbone_page_91.md (`snowy`), Pages/cains_jawbone_page_28.md (`church`), Pages/cains_jawbone_page_77.md (`day’s`), and Pages/cains_jawbone_page_21.md (`wits`) among others. Treat these as re-stitch leads only (not order claims) until reinforced by a second independent continuity marker.
+  - **Outcome:** `UNCLEAR` (treat as a pure placeholder join; do not upgrade).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_78.md → Pages/cains_jawbone_page_4.md
   - **Why:** former v2.4 block boundary placeholder after extracting Page 78; removed in v2.14 after adopting the cleaner Pages/cains_jawbone_page_78.md → Pages/cains_jawbone_page_18.md (`sensational`) successor.
