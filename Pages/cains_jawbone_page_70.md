@@ -27,4 +27,5 @@ It flashed through my mind that the place between Eros and the Queen’s Hall ha
 - **Disconfirming evidence:**
   - If “he” is clearly a different person from the “old man” and the letter is unrelated to the death scene.
 - **Research needed:**
+  - Resolved: no exact pre‑1934 source pinned for the “cabbage butterflies… fragments of a poem… torn up” aphorism; closest located is a review image where torn “billets‑doux” become butterflies (*The British Quarterly Review*, 1883, p. 81): https://books.google.co.uk/books?id=W3pHAAAAYAAJ&pg=PA81.
   - Interpret “warnings of the Ming”, “modest Munich”, and “Efate” bracket wordplay (Efate itself is pinned as an island name, but the intended bracket/cipher operation remains unclear).

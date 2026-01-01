@@ -23,15 +23,15 @@ Template:
   - **Type:** place/other
   - **Pages:** Pages/cains_jawbone_page_9.md
   - **Why it matters:** If this is an external allusion (vs pure invention), it can anchor this narrator’s setting/voice and help replace weak Phase 6 joins involving Pages/cains_jawbone_page_9.md.
-  - **Status:** `open`
-  - **Result:** 
+  - **Status:** `resolved`
+  - **Result:** No pre‑1934 match found for a real “Peebles University” as an institution name (Google Books phrase searches primarily return surname+university lists like “Peebles, University of …”). EB1911 describes Peebles as a Scottish royal burgh/town with civic buildings (no university is mentioned): https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Peebles. Treat “Peebles University” as a satirical/in‑world “obscure seat… of learning” label rather than a map‑pin.
 
 - **Item:** Identify the source of “cabbage butterflies were fragments of a poem God had written… torn up”
   - **Type:** quote
   - **Pages:** Pages/cains_jawbone_page_70.md
   - **Why it matters:** If it’s a sourced aphorism/quotation, it may link Pages/cains_jawbone_page_70.md to other pages/narrators that reuse the same author/source, improving Phase 6 stitch evidence.
-  - **Status:** `open`
-  - **Result:** 
+  - **Status:** `resolved`
+  - **Result:** No exact pre‑1934 source has been pinned for the full aphorism. Closest located: a review of Victor Hugo notes an image where “billets‑doux… are torn up and sent fluttering, as butterflies, among the flowers” (*The British Quarterly Review*, Vol. 77, 1883, “Early Poems.”, p. 81): https://books.google.co.uk/books?id=W3pHAAAAYAAJ&pg=PA81. Treat Page 70’s line as a likely riff on a broader “torn writing → butterflies” metaphor, not a strict quotation anchor unless corroborated elsewhere.
 
 - **Item:** Identify the source of “Death’s clumsy fingered” / “lightly fingering for the sign of a breach”
   - **Type:** quote
@@ -1178,13 +1178,15 @@ Template:
   - **Type:** quote/other
   - **Pages:** Pages/cains_jawbone_page_83.md
   - **Why it matters:** Could be a strong phrase-level anchor for the `N06` flower/rose scene (potentially pointing to a text, place, or deliberate clue-word list).
-  - **Status:** `open`
+  - **Status:** `resolved`
+  - **Result:** The “gaudy melon‑flower” line is Browning: “Far brighter than this gaudy melon‑flower!” in “Home Thoughts, from Abroad” (as printed in *Pomegranates from an English Garden*): https://www.gutenberg.org/cache/epub/53335/pg53335.txt. The rest of the flower list (“ironic daffodils… young pert bluebells…”) does not match a pinned external source and appears to be the narrator’s own catalogue wrapped around Browning allusion.
 
 - **Item:** Identify what the “Manchester speech on sane mediocrity” is referring to (Page 74)
   - **Type:** quote/other
   - **Pages:** Pages/cains_jawbone_page_74.md
   - **Why it matters:** Could identify or characterise the “old man” and enable a stronger cross-page continuity lock within `N06`.
-  - **Status:** `open`
+  - **Status:** `resolved`
+  - **Result:** No pre‑1934 external match has been pinned for the exact phrasing (Google Books phrase searches return only modern Cain’s Jawbone editions). Treat as in‑world description of the old man’s public persona (moderate/“sane mediocrity”) rather than a quotable external anchor unless a later recurrence supplies a clearer citation.
 
 - **Item:** Identify the “blind sailor” reference/quote in Page 84
   - **Type:** quote/other

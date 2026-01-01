@@ -40,4 +40,5 @@ LIKELY WORDPLAY
 - **Disconfirming evidence:**
   - If bell references resolve to unrelated settings/narrators with no continuity.
 - **Research needed:**
-  - Is “Peebles University” a real/period reference or a joke? Track if Charles Day reappears.
+  - Resolved: no evidence of a real “Peebles University” in pre‑1934 sources; treat as satirical/in‑world (EB1911 Peebles): https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Peebles.
+  - Track if Charles Day reappears.

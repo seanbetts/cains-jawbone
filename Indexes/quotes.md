@@ -658,7 +658,7 @@ Template:
   - **Research needed:** no
 
 - **Snippet:** “Oh, to be in England”
-  - **Likely source/author:** Robert Browning (“Home-Thoughts, from Abroad”)
+  - **Likely source/author:** Robert Browning, “Home Thoughts, from Abroad” (as printed in *Pomegranates from an English Garden*): https://www.gutenberg.org/cache/epub/53335/pg53335.txt
   - **Why it matters:** Strong Browning anchor; may cluster a flower-seller/rose scene and help identify narrator reading set.
   - **Pages:** Pages/cains_jawbone_page_83.md
   - **Confidence:** `CERTAIN`

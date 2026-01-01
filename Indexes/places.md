@@ -61,10 +61,10 @@ Template:
   - **Notes:** Cold morning wading imagery; Scotland anchor.
 
 - **Peebles University**
-  - **Type:** university (uncertain)
-  - **Confidence:** `MAYBE`
+  - **Type:** university (in-world/satirical)
+  - **Confidence:** `LIKELY`
   - **Pages:** Pages/cains_jawbone_page_9.md
-  - **Notes:** Mineralogy lectures; may be fictional/joke (Peebles is a Scottish town).
+  - **Notes:** Mineralogy lectures; no evidence of a real institution by this name found in pre‑1934 sources. EB1911 describes Peebles as a Scottish royal burgh/town (no university mentioned): https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Peebles. Treat as satirical/in‑world “obscure seat of learning” rather than a map‑pin.
 
 - **Bologna (“sausage place”)**
   - **Type:** city

@@ -13,6 +13,7 @@ A flower-seller, fed ruddily, it seemed, on hope, broke in and would have made a
   - CERTAIN: late night (“late night final”).
 - **Quotes & allusions:**
   - CERTAIN: “Oh, to be in England” (Browning allusion; “unquotable he had become”).
+  - CERTAIN: “gaudy melon-flower” is Browning, “Home Thoughts, from Abroad” (“Far brighter than this gaudy melon-flower!”): https://www.gutenberg.org/cache/epub/53335/pg53335.txt
   - CERTAIN: “I must learn Spanish… only for that slow sweet name’s sake” = Browning, “The Flower’s Name” (Bells and Pomegranates, Second Series): https://en.wikisource.org/wiki/Bells_and_Pomegranates,_Second_Series/The_Flower%27s_Name.
   - CERTAIN: “good news from Ghent” (Browning, *How They Brought the Good News from Ghent to Aix*).
 - **Motifs/continuity hooks:**
@@ -29,4 +30,4 @@ A flower-seller, fed ruddily, it seemed, on hope, broke in and would have made a
   - If the red-rose phrasing is generic and no other shared props/voices recur.
 - **Research needed:**
   - Resolved check (2025-12-30): the text never specifies the dropped item beyond “some metallic object”; treat it as a small dropped item (LIKELY coin/key) unless a later cross-page prop recurrence names it explicitly.
-  - Identify whether the flower catalogue (“ironic daffodils… irises… bluebells… hedge-rose… carnation… No gaudy melon flower”) is a quotation or points to a specific source/clue-list.
+  - Resolved: no separate source pinned for the full flower catalogue; the closing “gaudy melon‑flower” is Browning, with the rest reading as narrator’s own list wrapped around Browning allusion.
