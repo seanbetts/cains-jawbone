@@ -2211,6 +2211,7 @@ These are the **highest-risk segment joins** inside the v2 full ordering draft. 
   - **Falsifier:** Pages/cains_jawbone_page_76.md is shown to belong in a different murder-deliberation run (e.g., via the strong phrase-level `p76 ↔ p98` echo), or Pages/cains_jawbone_page_72.md is anchored into a different block by a stronger multi-anchor link.
   - **Next falsification check:** look for any second independent anchor (shared named participant, shared quoted source, or shared place/venue name).
   - **Phase 6 test (2025-12-31):** page-body n‑gram scan found **zero** shared 3‑grams (or longer) and **zero** shared-unique word anchors between the pages. Treat as a pure placeholder join.
+  - **Phase 6 test (2026-01-01):** page-body df==2 token scan suggests no lexical bridge exists: Pages/cains_jawbone_page_72.md uniquely links to Pages/cains_jawbone_page_49.md (`pleasant`) and Pages/cains_jawbone_page_92.md (`stories`), while Pages/cains_jawbone_page_76.md uniquely links to Pages/cains_jawbone_page_20.md (`arrived`), Pages/cains_jawbone_page_37.md (`smile`), and Pages/cains_jawbone_page_87.md (`foreground`) among others. Treat these as re-stitch leads only.
   - **Outcome:** `UNCLEAR`
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_76.md → Pages/cains_jawbone_page_78.md
