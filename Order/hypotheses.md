@@ -1143,6 +1143,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - Pages/cains_jawbone_page_97.md frames “That was the day when I was going to do a thing I had never done before,” with physical nausea/pills and an explicit tennis→rowing venue shift, reading like an on-the-day setup beat.
         - Pages/cains_jawbone_page_93.md reads like a later after-the-fact weighing of evidence (“tangible proof” vs “semi-conviction”) after the internal debate has “been at it hammer and tongs,” and its “Cambridge week” clue pairs naturally with Pages/cains_jawbone_page_97.md’s Cambridge wordplay layer.
         - Pages/cains_jawbone_page_93.md’s “their hour had come and was now over… emphatically over” reads like a post‑event beat rather than a wake/start-of-day setup.
+        - **Phase 6 test (2026-01-01):** page-body n‑gram scan confirms the shared 5‑gram `at it hammer and tongs` appears only on Pages/cains_jawbone_page_97.md and Pages/cains_jawbone_page_93.md, and the shared 3‑gram `bunny and perry` also appears only on those two page bodies.
       - **Disconfirming evidence:**
         - Pages/cains_jawbone_page_93.md’s “their hour had come and was now over” is shown to refer to something unrelated to the “never done before” day on Pages/cains_jawbone_page_97.md.
         - The Cambridge references resolve to different targets/contexts (making the bridge coincidental).
