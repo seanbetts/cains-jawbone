@@ -253,10 +253,10 @@ Template:
   - **Notes:** Track whether this is an allusive “Kitchener” name or an in-world character.
 
 - `P41` — Names/aliases: Alexander; “Ecky” (nickname; uncertain)
-  - **Tells:** sends an invitation to a private view; appears in jasmine-bowl scene (as “young Alexander”); Page 43 embeds a *The Wrecker* (1892) quotation (“Alexander’s my name… Ecky…”), plus “ruin my hand” and Aquarius↔Gemini wordplay; Page 48 (Dog POV) meets “Ecky” “that evening” (in-scene encounter).
+  - **Tells:** invitation to a private view (Pages/cains_jawbone_page_37.md); Page 43 embeds a *The Wrecker* (1892) quotation (“Alexander’s my name… Ecky…”) plus the non-quotation Aquarius/hand/income register; Pages/cains_jawbone_page_1.md + Pages/cains_jawbone_page_43.md share the unique “Aquarius” pen/handwriting layer; Pages/cains_jawbone_page_17.md + Pages/cains_jawbone_page_43.md share the Moon/Dawn venue pair + “hand” avoidance register; Page 48 (Dog POV) meets “Ecky” “that evening” (in-scene encounter); Page 100 appears to continue the same narrator’s arc via the “dead old man” ↔ “old dead” phrasing echo (Pages/cains_jawbone_page_1.md ↔ Pages/cains_jawbone_page_100.md) and the corpus-unique “Why should I think…” + `slips` bundle (Pages/cains_jawbone_page_17.md ↔ Pages/cains_jawbone_page_100.md).
   - **Pronouns/relationships:** called “young” in one context.
-  - **Pages:** Pages/cains_jawbone_page_37.md, Pages/cains_jawbone_page_43.md, Pages/cains_jawbone_page_48.md
-  - **Notes:** MAYBE multiple different Alexanders. Treat Pages/cains_jawbone_page_43.md’s Alexander/Ecky line as a quotation-layer anchor (not proof of narrator identity) unless a second non-quotation tell recurs. Do not merge Page 37’s “young Alexander” with Page 48’s “Ecky” on name alone.
+  - **Pages:** Pages/cains_jawbone_page_1.md, Pages/cains_jawbone_page_17.md, Pages/cains_jawbone_page_37.md, Pages/cains_jawbone_page_43.md, Pages/cains_jawbone_page_48.md, Pages/cains_jawbone_page_100.md
+  - **Notes:** MAYBE multiple different Alexanders. Treat Pages/cains_jawbone_page_37.md’s “young Alexander” as a separate candidate referent unless/until the invitation/private-view mechanism + a second non-quotation anchor recurs; by contrast, Pages/cains_jawbone_page_1.md / Pages/cains_jawbone_page_17.md / Pages/cains_jawbone_page_43.md / Pages/cains_jawbone_page_100.md now have multiple independent, non-quotation cross-anchors (Aquarius; Moon/Dawn+hand; dead-employer phrasing; unique “Why should I think…” bundle) supporting treating them as a single person/narrator cluster.
 
 - `P42` — Names/aliases: Sonia Gordon
   - **Tells:** referenced in “tragic fortnight” memory; elbow-dimple comparison.

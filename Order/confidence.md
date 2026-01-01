@@ -121,16 +121,16 @@ Track *in-world* death/murder hypotheses separately from page-ordering hypothese
   - **Evidence summary:** The page contains a “killed” admission, but the surrounding dog‑POV register makes it more likely to be an animal-kill or idiom layer than one of the six in-world murders.
   - **Falsifiers:** Later pages explicitly identify a human victim for this “killed” admission and link it to a broader murder sequence.
 
-- `E09` (confidence: `0.35`; status: `active`)
+- `E09` (confidence: `0.40`; status: `active`)
   - **Pages:** Pages/cains_jawbone_page_100.md
-  - **Victim candidate(s):** `UNKNOWN` (narrator collapse/possible death)
+  - **Victim candidate(s):** `P41` (Alexander/Ecky narrator; identity inferred via `N01` cross-anchors)
   - **Murderer candidate(s):** MAYBE `P90` (gloating woman; role unclear)
   - **Means/method:** `UNKNOWN` (MAYBE heart failure; MAYBE poisoning/violence)
   - **Motive:** `UNKNOWN`
   - **Opportunity:** Antagonistic woman is physically present and “gloating” as narrator cannot rise; the scene ends with a valediction and a “drop” (“Good-bye, Henry. He drops awa…”).
   - **Narrative tells:** Direct incapacity (“believe me, I cannot” get up) + “how ill… about my heart” framing; Scotland Yard invoked; ambiguous “Henry” role (may be a person-name collision or an object-coded “handheld” Henry).
-  - **Evidence summary:** Strong in-world collapse signal, but it is still unclear whether this is a completed death, an attempted killing, or purely rhetorical quotation-layer staging. Note: Page 100’s “Henry… getting out of hand” + “drops awa” can also be read as a pen/object slipping from the narrator’s hand (compare Pages/cains_jawbone_page_63.md’s “Henry’s cap… trying him out on the table”), so do not assume `P01` Henry is involved in this event without a second anchor.
-  - **Phase 6 test (2026-01-01):** re-read Pages/cains_jawbone_page_100.md and cross-check Pages/cains_jawbone_page_63.md + `Indexes/people.md` object-coded Henry note; the “getting out of hand” + “drops awa…” wording remains more consistent with a handheld/capped Henry (LIKELY pen) than with a coherent in-scene person. The woman’s involvement remains suggestive (gloating) but not explicit; keep `P90` as a low-confidence candidate only.
+  - **Evidence summary:** Strong in-world collapse signal, but it is still unclear whether this is a completed death, an attempted killing, or purely rhetorical quotation-layer staging. Identity: multiple independent, non-quotation cross-anchors support treating Page 100 as part of the `P41` / `N01` Aquarius-handwriting narrator cluster (Pages/cains_jawbone_page_1.md “dead old man” ↔ Page 100 “old dead”; Pages/cains_jawbone_page_17.md ↔ Page 100 corpus-unique “Why should I think…” + `slips`). Do not assume `P01` Henry is involved: Page 100’s “Henry… getting out of hand” + “drops awa…” reads more consistently as a handheld object (LIKELY a pen) slipping from the narrator’s hand than as a coherent in-scene person.
+  - **Phase 6 test (2026-01-01):** re-read Pages/cains_jawbone_page_100.md and cross-check Pages/cains_jawbone_page_1.md + Pages/cains_jawbone_page_17.md; the N01 linkage strengthens the “in-world collapse” reading, but agency remains unproven. Keep `P90` as a low-confidence candidate only.
   - **Falsifiers:** Later pages show the narrator remains intact/active after this moment, or clarify that the collapse language is purely figurative/quoted rather than an in-world medical crisis; or later context shows “Henry” here is a named person acting in a coherent in-world scene (disproving the object-coded reading).
 
 - `E10` (confidence: `0.35`; status: `downgraded`)

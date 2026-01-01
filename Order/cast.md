@@ -36,6 +36,15 @@ Track people as candidates with evolving roles. This file is deliberately probab
   - **Falsifiers:** “Victim/corpse” language resolves as non-lethal (e.g., stage/medical metaphor), or `P01` conflates multiple distinct “Henrys” (including object-coded/assistant uses) and the murderous Henry is a different person from other Henry appearances.
   - **Status:** `active`
 
+- `P41`
+  - **Aliases / names used:** Alexander; “Ecky”
+  - **Role candidate:** `victim`
+  - **Confidence (0.0–1.0):** 0.30
+  - **Supporting pages:** Pages/cains_jawbone_page_1.md, Pages/cains_jawbone_page_17.md, Pages/cains_jawbone_page_43.md, Pages/cains_jawbone_page_100.md
+  - **Evidence summary:** Treated as the likely `N01` Aquarius-handwriting narrator cluster (identity inferred via cross-page anchors), with Page 100 describing an in-world collapse/possible death (cannot rise; heart distress; valediction + “drops awa” beat).
+  - **Falsifiers:** Pages/cains_jawbone_page_100.md is purely quoted/metaphorical with no in-world collapse, Pages/cains_jawbone_page_100.md is shown to be a different narrator from the Aquarius/Moon+Dawn bundle, or later context shows this narrator survives and continues after Page 100.
+  - **Status:** `active`
+
 - `P90`
   - **Aliases / names used:** gloating woman; “wicked”/“beastly woman” (unnamed)
   - **Role candidate:** `murderer`
