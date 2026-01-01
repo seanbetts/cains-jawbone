@@ -2153,11 +2153,12 @@ These are the **highest-risk segment joins** inside the v2 full ordering draft. 
   - **Outcome:** `UNCLEAR` (treat as a pure placeholder join pending a positive stitch).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_9.md → Pages/cains_jawbone_page_16.md
-  - **Why:** current v2 tail adjacency; no continuity marker is currently known (bell/mineralogy lecture voice → cosmetics/music-hall voice).
+  - **Why:** current v2.16 tail adjacency; no continuity marker is currently known (bell/mineralogy lecture voice → cosmetics/music-hall voice).
   - **Falsifier:** Pages/cains_jawbone_page_9.md is anchored into a different bell/academic predecessor by a concrete continuity marker (e.g., a second page that repeats Charles Day / Peebles / the Day‑Knight pun), and/or Pages/cains_jawbone_page_16.md gains a stronger successor/predecessor that forces it away from the tail.
   - **Next falsification check:** search for any shared named participant/venue/quotation cue beyond the overloaded `Henry` name.
   - **Phase 6 test (2025-12-31):** page-body n‑gram scan found **zero** shared 3‑grams (or longer) and **zero** shared-unique word anchors between the pages. Treat as a pure placeholder join.
   - **Phase 6 test (2026-01-01):** page-body df==2 token scan suggests Pages/cains_jawbone_page_9.md has a weak in-tail echo to Pages/cains_jawbone_page_38.md (`fortnight`), and a stronger cross-block phrase echo to Pages/cains_jawbone_page_45.md (tokenised `i remembered that when`, with the sub-ngrams `remembered that when` / `that when` also df==2) but that adjacency is blocked by the Pages/cains_jawbone_page_7.md → Pages/cains_jawbone_page_45.md Typhoon lock. Treat as re-stitch leads only.
+  - **Phase 6 test (2026-01-01):** corpus scan confirms the tokenised trigram `back to henry` appears only on Pages/cains_jawbone_page_16.md (“…go back to Henry”) and Pages/cains_jawbone_page_44.md (“…get back to Henry”), giving Pages/cains_jawbone_page_16.md a stronger re-stitch lead into `N16` than this tail placement. Treat as a re-stitch lead only unless reinforced by a second independent continuity marker (shared participant/prop/place/time).
   - **Outcome:** `UNCLEAR`
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_16.md → Pages/cains_jawbone_page_72.md
@@ -2165,7 +2166,7 @@ These are the **highest-risk segment joins** inside the v2 full ordering draft. 
   - **Falsifier:** either page is anchored elsewhere by a stronger multi-anchor continuity (shared participant/place/prop, or phrase-level continuation) that excludes this boundary.
   - **Next falsification check:** re-read the Pages/cains_jawbone_page_16.md ending and Pages/cains_jawbone_page_72.md opening for any concrete continuity marker (shared named participant, shared venue/place, or prop carryover) and run page-body n‑gram + df==2 token scans for replacement leads.
   - **Phase 6 test (2026-01-01):** page-body scan found **zero** shared corpus-unique 3‑grams (or longer), **zero** shared corpus-unique 4‑grams (or longer), and **zero** shared df==2 word anchors between the pages.
-  - **Phase 6 test (2026-01-01):** page-body df==2 token scan suggests both pages likely stitch elsewhere: Pages/cains_jawbone_page_16.md uniquely shares `naturally` with Pages/cains_jawbone_page_94.md and `ceased` with Pages/cains_jawbone_page_90.md, while Pages/cains_jawbone_page_72.md uniquely shares `pleasant` with Pages/cains_jawbone_page_49.md and `stories` with Pages/cains_jawbone_page_92.md. Treat as re-stitch leads only until reinforced by non-lexical continuity.
+  - **Phase 6 test (2026-01-01):** page-body df==2 token scan suggests both pages likely stitch elsewhere: Pages/cains_jawbone_page_16.md uniquely shares `naturally` with Pages/cains_jawbone_page_94.md and `ceased` with Pages/cains_jawbone_page_90.md, and also uniquely shares the tokenised trigram `back to henry` with Pages/cains_jawbone_page_44.md; Pages/cains_jawbone_page_72.md uniquely shares `pleasant` with Pages/cains_jawbone_page_49.md and `stories` with Pages/cains_jawbone_page_92.md. Treat these as re-stitch leads only until reinforced by a second independent continuity marker.
   - **Outcome:** `UNCLEAR` (treat as a pure placeholder join).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_16.md → Pages/cains_jawbone_page_18.md
