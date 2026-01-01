@@ -1792,6 +1792,7 @@ Delta from v2.2 (Phase 6 tightening; keep falsifiable):
   - **Falsifier:** Pages/cains_jawbone_page_38.md is anchored elsewhere by a stronger multi-anchor continuity, or Pages/cains_jawbone_page_33.md gains a stronger predecessor beyond the post-`N13` dessert bridge.
   - **Next falsification check:** scan for any shared non-generic anchor (named person, object, quoted source, or phrase-level continuation) to justify adjacency.
   - **Phase 6 test (2026-01-01):** page-body n‑gram scan found **zero** shared corpus-unique 3‑grams (or longer) and **zero** shared df==2 word anchors between the pages.
+  - **Phase 6 test (2026-01-01):** page-body df==2 token/phrase scan suggests Pages/cains_jawbone_page_38.md has multiple alternative stitch leads that outcompete this boundary on vocabulary alone: `fortnight` ↔ Pages/cains_jawbone_page_9.md, `pondered` ↔ Pages/cains_jawbone_page_26.md, `led` ↔ Pages/cains_jawbone_page_29.md, `breaking` ↔ Pages/cains_jawbone_page_93.md, `skin` ↔ Pages/cains_jawbone_page_65.md; it also shares the corpus-unique phrase `there was something wrong` (tokenised 4‑gram) with Pages/cains_jawbone_page_79.md. Treat these as re-stitch leads only until reinforced by a second independent continuity marker (shared participant/prop/place/time).
   - **Outcome:** `UNCLEAR` (treat as a pure placeholder join).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_53.md → Pages/cains_jawbone_page_81.md
