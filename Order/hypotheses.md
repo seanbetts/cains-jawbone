@@ -1871,6 +1871,7 @@ Delta from v2.2 (Phase 6 tightening; keep falsifiable):
   - **Falsifier:** a third page is found using `steps` in its page body (making the overlap non-unique), or Pages/cains_jawbone_page_91.md is anchored elsewhere by a stronger multi-anchor that forces it away from the `N12` block ending Pages/cains_jawbone_page_60.md.
   - **Next falsification check:** re-read the Pages/cains_jawbone_page_60.md ending and Pages/cains_jawbone_page_91.md opening for a second anchor (shared institution/person/object, or phrase-level continuation) beyond the single-word overlap.
   - **Phase 6 test (2026-01-01):** corpus scan confirms page-body word `steps` appears only on Pages/cains_jawbone_page_60.md and Pages/cains_jawbone_page_91.md; no shared corpus-unique 3‑grams (or longer) were found.
+  - **Phase 6 test (2026-01-01):** page-body df==2 token scan suggests both pages have other distinctive ties that may outcompete this single-word boundary: Pages/cains_jawbone_page_60.md also uniquely shares `expense` with Pages/cains_jawbone_page_70.md and `sundae` with Pages/cains_jawbone_page_63.md, while Pages/cains_jawbone_page_91.md uniquely shares `snowy` with Pages/cains_jawbone_page_4.md and `sergeant` with Pages/cains_jawbone_page_59.md (and has the stronger two-token bridge to Pages/cains_jawbone_page_78.md already used in v2.10). Treat as re-stitch leads only until a second continuity marker supports adjacency.
   - **Outcome:** `UNCLEAR` (single-anchor hint only; treat as a placeholder join until reinforced).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_5.md → Pages/cains_jawbone_page_49.md
@@ -1878,6 +1879,7 @@ Delta from v2.2 (Phase 6 tightening; keep falsifiable):
   - **Falsifier:** either page gains a stronger neighbor (shared participant/place/object or phrase-level continuation) that excludes this boundary.
   - **Next falsification check:** re-read the Pages/cains_jawbone_page_5.md ending and Pages/cains_jawbone_page_49.md opening for a non-generic continuity marker; cross-check `Indexes/people.md` and `Indexes/objects_motifs.md` for a shared named referent or recurring prop.
   - **Phase 6 test (2026-01-01):** page-body scan found **zero** shared corpus-unique 3‑grams (or longer) and **zero** shared-unique word anchors between the pages.
+  - **Phase 6 test (2026-01-01):** page-body df==2 token scan suggests replacement directions: Pages/cains_jawbone_page_5.md uniquely shares `reverse` with Pages/cains_jawbone_page_61.md and `thomas` with Pages/cains_jawbone_page_35.md, while Pages/cains_jawbone_page_49.md has a multi-token overlap with Pages/cains_jawbone_page_21.md (`dazed`, `keep`) and single-token overlaps with Pages/cains_jawbone_page_50.md (`ordinary`) / Pages/cains_jawbone_page_67.md (`soul`). Treat as re-stitch leads only; do not upgrade without a second independent continuity marker.
   - **Outcome:** `UNCLEAR` (treat as a pure placeholder join).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_31.md → Pages/cains_jawbone_page_7.md
@@ -1899,6 +1901,7 @@ Delta from v2.2 (Phase 6 tightening; keep falsifiable):
   - **Falsifier:** Pages/cains_jawbone_page_85.md gains a stronger successor inside the `N08`/table-dog run, or Pages/cains_jawbone_page_97.md gains a stronger predecessor inside the `N07` internal-debate run.
   - **Next falsification check:** re-read the Pages/cains_jawbone_page_85.md ending and Pages/cains_jawbone_page_97.md opening for a non-generic continuity marker (shared named participant, prop, or phrase-level continuation).
   - **Phase 6 test (2026-01-01):** page-body scan found **zero** shared corpus-unique 3‑grams (or longer) and **zero** shared-unique word anchors between the pages.
+  - **Phase 6 test (2026-01-01):** page-body df==2 token scan suggests Pages/cains_jawbone_page_97.md may have a stronger predecessor than Pages/cains_jawbone_page_85.md: p97 uniquely shares `return` and `surrounded` with Pages/cains_jawbone_page_35.md and `ordered` with Pages/cains_jawbone_page_60.md (while its internal multi-token overlap with Pages/cains_jawbone_page_93.md remains strong: `bunny`, `cambridge`, `hammer`, `perry`, `tongs`). Pages/cains_jawbone_page_85.md’s distinctive links point elsewhere (`twin` ↔ Pages/cains_jawbone_page_47.md; `pale` ↔ Pages/cains_jawbone_page_87.md). Treat as re-stitch leads only until reinforced by non-lexical continuity.
   - **Outcome:** `UNCLEAR` (treat as a pure placeholder join).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_93.md → Pages/cains_jawbone_page_56.md
@@ -1927,6 +1930,7 @@ Delta from v2.2 (Phase 6 tightening; keep falsifiable):
   - **Falsifier:** Pages/cains_jawbone_page_89.md gains a stronger successor inside the signature/“death warrant” cluster, or Pages/cains_jawbone_page_64.md gains a stronger predecessor inside the Great Lexicographer (`N04`) run.
   - **Next falsification check:** re-read the Pages/cains_jawbone_page_89.md ending and Pages/cains_jawbone_page_64.md opening for a non-generic continuity marker (shared named person/object, or phrase-level continuation).
   - **Phase 6 test (2026-01-01):** page-body scan found **zero** shared corpus-unique 3‑grams (or longer) and **zero** shared-unique word anchors between the pages.
+  - **Phase 6 test (2026-01-01):** page-body df==2 token scan suggests both pages have stronger ties elsewhere: Pages/cains_jawbone_page_89.md has multi-token overlaps with Pages/cains_jawbone_page_29.md (`taste`, `unsatisfactory`) and Pages/cains_jawbone_page_77.md (`public`, `warrant`), while Pages/cains_jawbone_page_64.md uniquely shares `tasted` with Pages/cains_jawbone_page_80.md and `lexicographer` with Pages/cains_jawbone_page_61.md. Treat as re-stitch leads only until a second anchor supports this boundary.
   - **Outcome:** `UNCLEAR` (treat as a pure placeholder join).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_61.md → Pages/cains_jawbone_page_25.md
@@ -1948,6 +1952,7 @@ Delta from v2.2 (Phase 6 tightening; keep falsifiable):
   - **Falsifier:** Pages/cains_jawbone_page_46.md gains a stronger successor inside the dog‑POV strand, or Pages/cains_jawbone_page_68.md gains a stronger predecessor inside the “old man”/letter-blackmail (`N09`) run.
   - **Next falsification check:** re-read the Pages/cains_jawbone_page_46.md ending and Pages/cains_jawbone_page_68.md opening for a non-generic continuity marker; check whether the “Hal/Henry/Jasmine” name layer is an in-world link or a detachable allusion.
   - **Phase 6 test (2026-01-01):** page-body scan found **zero** shared corpus-unique 3‑grams (or longer) and **zero** shared-unique word anchors between the pages.
+  - **Phase 6 test (2026-01-01):** page-body df==2 token scan suggests the join is likely a placeholder: Pages/cains_jawbone_page_46.md uniquely shares `education` with Pages/cains_jawbone_page_74.md, while Pages/cains_jawbone_page_68.md uniquely shares `distracted` with Pages/cains_jawbone_page_74.md and `buttered` with Pages/cains_jawbone_page_14.md. Treat as re-stitch leads only; do not upgrade without a second independent continuity marker.
   - **Outcome:** `UNCLEAR` (treat as a pure placeholder join).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_70.md → Pages/cains_jawbone_page_14.md
