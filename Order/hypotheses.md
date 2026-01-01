@@ -1820,6 +1820,7 @@ Delta from v2.2 (Phase 6 tightening; keep falsifiable):
   - **Falsifier:** Pages/cains_jawbone_page_47.md gains a stronger successor (shared participant/prop/place/time or phrase-level continuation) that excludes Pages/cains_jawbone_page_66.md, or Pages/cains_jawbone_page_66.md gains a stronger predecessor inside `N06` that excludes Pages/cains_jawbone_page_47.md.
   - **Next falsification check:** scan for any shared non-generic anchor (named person, object, quoted source, or phrase-level continuation) to justify adjacency.
   - **Phase 6 test (2026-01-01):** page-body n‑gram scan found **zero** shared 3‑grams (or longer) and **zero** shared-unique word anchors between the pages.
+  - **Phase 6 test (2026-01-01):** page-body df==2 token scan suggests likely replacement directions exist: Pages/cains_jawbone_page_47.md has multi-token overlaps with Pages/cains_jawbone_page_73.md (`river`, `thunder`) and single-token overlaps with Pages/cains_jawbone_page_67.md (`gasping`) / Pages/cains_jawbone_page_71.md (`hot`), while Pages/cains_jawbone_page_66.md has a single-token overlap with Pages/cains_jawbone_page_50.md (`neither`) and a voice-internal overlap with Pages/cains_jawbone_page_73.md (`initiation`). Treat as re-stitch leads only; do not upgrade without a second independent continuity marker.
   - **Outcome:** `UNCLEAR` (treat as a pure placeholder join).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_91.md → Pages/cains_jawbone_page_78.md
@@ -1834,6 +1835,7 @@ Delta from v2.2 (Phase 6 tightening; keep falsifiable):
   - **Falsifier:** Pages/cains_jawbone_page_78.md gains a stronger successor (diary/forgery thread), or Pages/cains_jawbone_page_4.md gains a stronger predecessor inside the `N19` coastal-comic run.
   - **Next falsification check:** scan for any shared non-generic anchor (named person, object, quoted source, or phrase-level continuation) to justify adjacency.
   - **Phase 6 test (2025-12-31):** page-body n‑gram scan found **zero** shared 4‑grams (or longer) and no shared-unique word anchors; only the generic shared 3‑gram `i would have`.
+  - **Phase 6 test (2026-01-01):** page-body df==2 token scan suggests both pages likely have cleaner neighbors elsewhere: Pages/cains_jawbone_page_78.md links to Pages/cains_jawbone_page_18.md (`sensational`) and Pages/cains_jawbone_page_14.md (`clean`), while Pages/cains_jawbone_page_4.md links to Pages/cains_jawbone_page_14.md (`clearly`) and Pages/cains_jawbone_page_28.md (`church`). Treat as re-stitch leads only until reinforced by a second anchor.
   - **Outcome:** `UNCLEAR` (treat as a pure placeholder join).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_84.md → Pages/cains_jawbone_page_41.md
