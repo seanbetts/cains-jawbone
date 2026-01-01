@@ -1864,6 +1864,104 @@ Delta from v2.2 (Phase 6 tightening; keep falsifiable):
   - **Phase 6 test (2025-12-31):** page-body n‑gram scan confirms shared 3‑gram `have to think`, shared 4‑gram `would have to think`, and shared 5‑gram `i would have to think` occur only on these two pages; no shared-unique word anchors were found.
   - **Outcome:** `PASS` (phrase-level echo; keep low-weight until a second anchor emerges).
 
+- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_60.md → Pages/cains_jawbone_page_91.md
+  - **Why:** block-boundary into the De’Ath/Black Museum singleton; page-body word `steps` appears only on these two pages, but no phrase-level carryover or second independent continuity marker is currently known.
+  - **Falsifier:** a third page is found using `steps` in its page body (making the overlap non-unique), or Pages/cains_jawbone_page_91.md is anchored elsewhere by a stronger multi-anchor that forces it away from the `N12` block ending Pages/cains_jawbone_page_60.md.
+  - **Next falsification check:** re-read the Pages/cains_jawbone_page_60.md ending and Pages/cains_jawbone_page_91.md opening for a second anchor (shared institution/person/object, or phrase-level continuation) beyond the single-word overlap.
+  - **Phase 6 test (2026-01-01):** corpus scan confirms page-body word `steps` appears only on Pages/cains_jawbone_page_60.md and Pages/cains_jawbone_page_91.md; no shared corpus-unique 3‑grams (or longer) were found.
+  - **Outcome:** `UNCLEAR` (single-anchor hint only; treat as a placeholder join until reinforced).
+
+- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_5.md → Pages/cains_jawbone_page_49.md
+  - **Why:** current v2.10 block boundary; no scene/prop/cast continuity is currently known.
+  - **Falsifier:** either page gains a stronger neighbor (shared participant/place/object or phrase-level continuation) that excludes this boundary.
+  - **Next falsification check:** re-read the Pages/cains_jawbone_page_5.md ending and Pages/cains_jawbone_page_49.md opening for a non-generic continuity marker; cross-check `Indexes/people.md` and `Indexes/objects_motifs.md` for a shared named referent or recurring prop.
+  - **Phase 6 test (2026-01-01):** page-body scan found **zero** shared corpus-unique 3‑grams (or longer) and **zero** shared-unique word anchors between the pages.
+  - **Outcome:** `UNCLEAR` (treat as a pure placeholder join).
+
+- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_31.md → Pages/cains_jawbone_page_7.md
+  - **Why:** current v2.10 block boundary; no scene/prop/cast continuity is currently known.
+  - **Falsifier:** either page gains a stronger neighbor (shared participant/place/object or phrase-level continuation) that excludes this boundary.
+  - **Next falsification check:** re-read the Pages/cains_jawbone_page_31.md ending and Pages/cains_jawbone_page_7.md opening for a non-generic continuity marker; cross-check `Indexes/people.md` for any shared named person.
+  - **Phase 6 test (2026-01-01):** page-body scan found **zero** shared corpus-unique 3‑grams (or longer) and **zero** shared-unique word anchors between the pages.
+  - **Outcome:** `UNCLEAR` (treat as a pure placeholder join).
+
+- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_55.md → Pages/cains_jawbone_page_84.md
+  - **Why:** current v2.10 block boundary; no scene/prop/cast continuity is currently known.
+  - **Falsifier:** Pages/cains_jawbone_page_84.md is anchored elsewhere by a stronger multi-anchor (shared participant/prop/place/time), or Pages/cains_jawbone_page_55.md gains a stronger successor inside `N16`.
+  - **Next falsification check:** re-read the Pages/cains_jawbone_page_55.md ending and Pages/cains_jawbone_page_84.md opening for a non-generic continuity marker; cross-check `Indexes/people.md` for overlaps (Barbara/Alistair/“deceased”).
+  - **Phase 6 test (2026-01-01):** page-body scan found **zero** shared corpus-unique 3‑grams (or longer) and **zero** shared-unique word anchors between the pages.
+  - **Outcome:** `UNCLEAR` (treat as a pure placeholder join).
+
+- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_85.md → Pages/cains_jawbone_page_97.md
+  - **Why:** current v2.10 block boundary; no scene/prop/cast continuity is currently known.
+  - **Falsifier:** Pages/cains_jawbone_page_85.md gains a stronger successor inside the `N08`/table-dog run, or Pages/cains_jawbone_page_97.md gains a stronger predecessor inside the `N07` internal-debate run.
+  - **Next falsification check:** re-read the Pages/cains_jawbone_page_85.md ending and Pages/cains_jawbone_page_97.md opening for a non-generic continuity marker (shared named participant, prop, or phrase-level continuation).
+  - **Phase 6 test (2026-01-01):** page-body scan found **zero** shared corpus-unique 3‑grams (or longer) and **zero** shared-unique word anchors between the pages.
+  - **Outcome:** `UNCLEAR` (treat as a pure placeholder join).
+
+- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_93.md → Pages/cains_jawbone_page_56.md
+  - **Why:** current v2.10 block boundary; no scene/prop/cast continuity is currently known.
+  - **Falsifier:** Pages/cains_jawbone_page_93.md gains a stronger successor inside the `N07` run, or Pages/cains_jawbone_page_56.md gains a stronger predecessor inside the `N26` breakfast-recapping run.
+  - **Next falsification check:** re-read the Pages/cains_jawbone_page_93.md ending and Pages/cains_jawbone_page_56.md opening for a non-generic continuity marker (shared named participant, shared setting, or phrase-level continuation).
+  - **Phase 6 test (2026-01-01):** page-body scan found **zero** shared corpus-unique 3‑grams (or longer) and **zero** shared-unique word anchors between the pages.
+  - **Outcome:** `UNCLEAR` (treat as a pure placeholder join).
+
+- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_54.md → Pages/cains_jawbone_page_92.md
+  - **Why:** current v2.10 block boundary; no scene/prop/cast continuity is currently known.
+  - **Falsifier:** Pages/cains_jawbone_page_54.md gains a stronger successor inside the `N26` run, or Pages/cains_jawbone_page_92.md gains a stronger predecessor inside `N21` beyond the Browning-lock into Pages/cains_jawbone_page_42.md.
+  - **Next falsification check:** re-read the Pages/cains_jawbone_page_54.md ending and Pages/cains_jawbone_page_92.md opening for a non-generic continuity marker (shared named person/object, or quote continuation).
+  - **Phase 6 test (2026-01-01):** page-body scan found **zero** shared corpus-unique 3‑grams (or longer) and **zero** shared-unique word anchors between the pages.
+  - **Outcome:** `UNCLEAR` (treat as a pure placeholder join).
+
+- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_100.md → Pages/cains_jawbone_page_62.md
+  - **Why:** current v2.10 block boundary; no scene/prop/cast continuity is currently known.
+  - **Falsifier:** Pages/cains_jawbone_page_100.md gains a stronger successor within the Scotland Yard/collapse cluster, or Pages/cains_jawbone_page_62.md gains a stronger predecessor inside the signature/death-warrant thread.
+  - **Next falsification check:** re-read the Pages/cains_jawbone_page_100.md ending and Pages/cains_jawbone_page_62.md opening for a non-generic continuity marker (shared participant, institution, or object).
+  - **Phase 6 test (2026-01-01):** page-body scan found **zero** shared corpus-unique 3‑grams (or longer) and **zero** shared-unique word anchors between the pages.
+  - **Outcome:** `UNCLEAR` (treat as a pure placeholder join).
+
+- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_89.md → Pages/cains_jawbone_page_64.md
+  - **Why:** current v2.10 block boundary; no scene/prop/cast continuity is currently known.
+  - **Falsifier:** Pages/cains_jawbone_page_89.md gains a stronger successor inside the signature/“death warrant” cluster, or Pages/cains_jawbone_page_64.md gains a stronger predecessor inside the Great Lexicographer (`N04`) run.
+  - **Next falsification check:** re-read the Pages/cains_jawbone_page_89.md ending and Pages/cains_jawbone_page_64.md opening for a non-generic continuity marker (shared named person/object, or phrase-level continuation).
+  - **Phase 6 test (2026-01-01):** page-body scan found **zero** shared corpus-unique 3‑grams (or longer) and **zero** shared-unique word anchors between the pages.
+  - **Outcome:** `UNCLEAR` (treat as a pure placeholder join).
+
+- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_61.md → Pages/cains_jawbone_page_25.md
+  - **Why:** current v2.10 block boundary; no scene/prop/cast continuity is currently known.
+  - **Falsifier:** Pages/cains_jawbone_page_61.md gains a stronger successor inside the Great Lexicographer (`N04`) run, or Pages/cains_jawbone_page_25.md gains a stronger predecessor inside the Time-factor/Didling (`N34`) run.
+  - **Next falsification check:** re-read the Pages/cains_jawbone_page_61.md ending and Pages/cains_jawbone_page_25.md opening for a non-generic continuity marker; check whether either page contains a date/“to-day” anchor that forces broader placement.
+  - **Phase 6 test (2026-01-01):** page-body scan found **zero** shared corpus-unique 3‑grams (or longer) and **zero** shared-unique word anchors between the pages.
+  - **Outcome:** `UNCLEAR` (treat as a pure placeholder join).
+
+- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_20.md → Pages/cains_jawbone_page_22.md
+  - **Why:** current v2.10 block boundary; no scene/prop/cast continuity is currently known.
+  - **Falsifier:** Pages/cains_jawbone_page_20.md gains a stronger successor inside the Time-factor/Didling (`N34`) run, or Pages/cains_jawbone_page_22.md gains a stronger predecessor inside the dog‑POV August run (`N02`).
+  - **Next falsification check:** re-read the Pages/cains_jawbone_page_20.md ending and Pages/cains_jawbone_page_22.md opening for a non-generic continuity marker (shared named participant/place, or travel/time cue).
+  - **Phase 6 test (2026-01-01):** page-body scan found **zero** shared corpus-unique 3‑grams (or longer) and **zero** shared-unique word anchors between the pages.
+  - **Outcome:** `UNCLEAR` (treat as a pure placeholder join).
+
+- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_46.md → Pages/cains_jawbone_page_68.md
+  - **Why:** current v2.10 block boundary; no scene/prop/cast continuity is currently known.
+  - **Falsifier:** Pages/cains_jawbone_page_46.md gains a stronger successor inside the dog‑POV strand, or Pages/cains_jawbone_page_68.md gains a stronger predecessor inside the “old man”/letter-blackmail (`N09`) run.
+  - **Next falsification check:** re-read the Pages/cains_jawbone_page_46.md ending and Pages/cains_jawbone_page_68.md opening for a non-generic continuity marker; check whether the “Hal/Henry/Jasmine” name layer is an in-world link or a detachable allusion.
+  - **Phase 6 test (2026-01-01):** page-body scan found **zero** shared corpus-unique 3‑grams (or longer) and **zero** shared-unique word anchors between the pages.
+  - **Outcome:** `UNCLEAR` (treat as a pure placeholder join).
+
+- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_70.md → Pages/cains_jawbone_page_14.md
+  - **Why:** current v2.10 block boundary; page-body word `fragments` appears only on these two pages, but no phrase-level carryover or second independent continuity marker is currently known.
+  - **Falsifier:** a third page is found using `fragments` in its page body (making the overlap non-unique), or Pages/cains_jawbone_page_14.md gains a stronger predecessor (shared participant/setting/object) that excludes Pages/cains_jawbone_page_70.md.
+  - **Next falsification check:** re-read the Pages/cains_jawbone_page_70.md ending and Pages/cains_jawbone_page_14.md opening for a second anchor beyond the single-word overlap (shared named person, prop, or a quote continuation).
+  - **Phase 6 test (2026-01-01):** corpus scan confirms page-body word `fragments` appears only on Pages/cains_jawbone_page_70.md and Pages/cains_jawbone_page_14.md; no shared corpus-unique 3‑grams (or longer) were found.
+  - **Outcome:** `UNCLEAR` (single-anchor hint only; treat as a placeholder join until reinforced).
+
+- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_83.md → Pages/cains_jawbone_page_9.md
+  - **Why:** current v2.10 block boundary into the tail; no scene/prop/cast continuity is currently known.
+  - **Falsifier:** Pages/cains_jawbone_page_83.md gains a stronger successor (shared participant/place/object or phrase-level continuation) that excludes the tail opener Pages/cains_jawbone_page_9.md, or Pages/cains_jawbone_page_9.md gains a stronger predecessor that excludes Pages/cains_jawbone_page_83.md.
+  - **Next falsification check:** re-read the Pages/cains_jawbone_page_83.md ending and Pages/cains_jawbone_page_9.md opening for any non-generic continuity marker; treat this boundary as a high-priority candidate for replacement because it gates the entire tail.
+  - **Phase 6 test (2026-01-01):** page-body scan found **zero** shared corpus-unique 3‑grams (or longer) and **zero** shared-unique word anchors between the pages.
+  - **Outcome:** `UNCLEAR` (treat as a pure placeholder join).
+
 ### Phase 6 trial variant (v3) — re-stitch around Page 77
 
 Delta from v2 (do not treat as accepted until falsified):
