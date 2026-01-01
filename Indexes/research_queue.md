@@ -19,13 +19,6 @@ Template:
 
 ## Open items
 
-- **Item:** Identify whether the Page 83 flower catalogue (“ironic daffodils… irises of the stream… No gaudy melon flower”) is a quotation/allusion
-  - **Type:** quote/other
-  - **Pages:** Pages/cains_jawbone_page_83.md
-  - **Why it matters:** If it’s a detachable quotation or a specific sourced list, it may be a stronger external anchor than the generic “flowers” motif for Phase 6 boundary falsification.
-  - **Status:** `open`
-  - **Result:** 
-
 - **Item:** Identify whether “Peebles University” (mineralogy lectures) is a real/period reference or a satirical invention
   - **Type:** place/other
   - **Pages:** Pages/cains_jawbone_page_9.md
@@ -33,31 +26,10 @@ Template:
   - **Status:** `open`
   - **Result:** 
 
-- **Item:** Identify “Janetta Sheringham” (name reference) — real person vs fictional character vs in-text invention
-  - **Type:** name
-  - **Pages:** Pages/cains_jawbone_page_14.md
-  - **Why it matters:** A resolvable name could provide a hard external anchor for the “May / Henry / will” strand and help tighten Phase 6 boundary uncertainty.
-  - **Status:** `open`
-  - **Result:** 
-
 - **Item:** Identify the source of “cabbage butterflies were fragments of a poem God had written… torn up”
   - **Type:** quote
   - **Pages:** Pages/cains_jawbone_page_70.md
   - **Why it matters:** If it’s a sourced aphorism/quotation, it may link Pages/cains_jawbone_page_70.md to other pages/narrators that reuse the same author/source, improving Phase 6 stitch evidence.
-  - **Status:** `open`
-  - **Result:** 
-
-- **Item:** Resolve the intended reference/wordplay of “warnings of the Ming” / “modest Munich” / “Efate” bracketing (Page 70)
-  - **Type:** other
-  - **Pages:** Pages/cains_jawbone_page_70.md
-  - **Why it matters:** This looks like deliberate place-name/wordplay machinery; resolving it could supply a stronger anchor than the single-word `fragments` overlap used in one weak join.
-  - **Status:** `open`
-  - **Result:** 
-
-- **Item:** Identify the source of “little springs of a fairy’s sofa” (hair simile)
-  - **Type:** quote
-  - **Pages:** Pages/cains_jawbone_page_63.md
-  - **Why it matters:** If it’s a quotation/allusion, it could connect the “Babbie / Sundae / Baudelaire” strand to other pages beyond generic dessert vocabulary.
   - **Status:** `open`
   - **Result:** 
 
