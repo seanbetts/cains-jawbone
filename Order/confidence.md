@@ -177,7 +177,7 @@ Track *in-world* death/murder hypotheses separately from page-ordering hypothese
   - **Evidence summary:** Treat as a low-confidence supporting echo for a murderous-Henry reading; the cross-narrator “Henry” label is heavily overloaded elsewhere, so do not count this as a distinct death event unless a later anchor ties these pages to a specific victim/method sequence.
   - **Falsifiers:** “killings/corpse” language is shown to be figurative or embedded-story content, or this Henry is proven to be a different identity from the killer-Henry strand (name collision).
 
-- `E14` (confidence: `0.65`; status: `active`)
+- `E14` (confidence: `0.70`; status: `active`)
   - **Pages:** Pages/cains_jawbone_page_80.md, Pages/cains_jawbone_page_59.md, Pages/cains_jawbone_page_60.md
   - **Victim candidate(s):** `P50` (Sir Paul Trinder; “figurehead beard”)
   - **Murderer candidate(s):** `P107` (narrator; identity unknown)
@@ -186,6 +186,7 @@ Track *in-world* death/murder hypotheses separately from page-ordering hypothese
   - **Opportunity:** Narrator is positioned to recount/influence events around a strange death investigation; later frames a specific “success” and a man “more dead”.
   - **Narrative tells:** Self-congratulatory “I had succeeded” + explicit death outcome language; suspicious pulpit “did the trick” phrasing.
   - **Evidence summary:** Pages/cains_jawbone_page_80.md foregrounds an aconitum/Fleming’s-tincture poisoning setup aimed at Sir Paul Trinder; Pages/cains_jawbone_page_59.md explicitly has Trinder “about,” and Pages/cains_jawbone_page_60.md claims a successful operation that leaves a “figurehead beard” to “plough the pseudo-scientific seas no more,” strongly matching Trinder’s introduced beard persona (Pages/cains_jawbone_page_53.md) and supporting an in-world death.
+  - **Phase 6 test (2026-01-01):** re-read Pages/cains_jawbone_page_80.md, Pages/cains_jawbone_page_59.md, Pages/cains_jawbone_page_60.md; the poison setup (aconitum + sherry) → “bane… failed” pivot (with Trinder “about” + gelsemium) → “I had succeeded” + “figurehead beard… no more” payoff is internally consistent and reads as an in-world death outcome (no contradiction found).
   - **Falsifiers:** “Figurehead beard” is later clearly identified as someone other than Trinder, or the Pages/cains_jawbone_page_60.md “more dead” language is shown to be a quotation/metaphor with no in-world death.
 
 - `E15` (confidence: `0.10`; status: `downgraded`)
