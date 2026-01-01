@@ -2140,6 +2140,14 @@ These are the **highest-risk segment joins** inside the v2 full ordering draft. 
   - **Phase 6 test (2026-01-01):** page-body df==2 token scan suggests Pages/cains_jawbone_page_9.md has a weak in-tail echo to Pages/cains_jawbone_page_38.md (`fortnight`), and a stronger cross-block phrase echo to Pages/cains_jawbone_page_45.md (`i remembered that when`) but that latter adjacency is blocked by the Pages/cains_jawbone_page_7.md → Pages/cains_jawbone_page_45.md Typhoon lock. Treat as re-stitch leads only.
   - **Outcome:** `UNCLEAR`
 
+- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_16.md → Pages/cains_jawbone_page_37.md
+  - **Why:** current v2.14 tail adjacency; no continuity marker is currently known (music-hall/cosmetics nostalgia voice ↔ forensic jasmine/“private view” murder-awareness voice).
+  - **Falsifier:** either page is anchored elsewhere by a stronger multi-anchor continuity (shared participant/place/prop, or phrase-level continuation) that excludes this boundary.
+  - **Next falsification check:** re-read the Pages/cains_jawbone_page_16.md ending and Pages/cains_jawbone_page_37.md opening for a non-generic continuity marker (shared named participant, shared venue/letter/weapon prop, or time cue) and run page-body n‑gram + df==2 token scans for replacement leads.
+  - **Phase 6 test (2026-01-01):** page-body scan found **zero** shared corpus-unique 3‑grams (or longer), **zero** shared corpus-unique 4‑grams (or longer), and **zero** shared df==2 word anchors between the pages.
+  - **Phase 6 test (2026-01-01):** page-body df==2 token scan suggests both pages likely stitch elsewhere: Pages/cains_jawbone_page_16.md uniquely shares `ceased` with Pages/cains_jawbone_page_90.md and `naturally` with Pages/cains_jawbone_page_94.md, while Pages/cains_jawbone_page_37.md uniquely shares `concealed` with Pages/cains_jawbone_page_35.md, `smile` with Pages/cains_jawbone_page_76.md, `private` with Pages/cains_jawbone_page_12.md, and `view` with Pages/cains_jawbone_page_87.md (among others). Treat as re-stitch leads only until reinforced by non-lexical continuity.
+  - **Outcome:** `UNCLEAR` (treat as a pure placeholder join).
+
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_16.md → Pages/cains_jawbone_page_18.md
   - **Why:** current v2 tail adjacency; both are “table/dinner” adjacent in a loose social sense, but no concrete prop/place/participant continuity has been identified.
   - **Falsifier:** Pages/cains_jawbone_page_18.md is anchored to a documents/money suspicion run elsewhere, or Pages/cains_jawbone_page_16.md is anchored to a cosmetics/music-hall run with a different successor.
