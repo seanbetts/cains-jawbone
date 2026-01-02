@@ -2232,6 +2232,7 @@ These are the **highest-risk segment joins** inside the v2 full ordering draft. 
   - **Next falsification check:** test whether any additional Whitman-line fragment or travel/posture marker repeats across both pages (beyond generic scaffolding like `I began to`).
   - **Phase 6 test (2025-12-31):** page-body n‑gram scan found no shared 4‑grams (or longer); only the generic 3‑gram `I began to` overlaps. Treat this as a low-weight motif overlap only (word-level + shared Whitman embedding), not a join lock.
   - **Phase 6 test (2026-01-01):** re-read Pages/cains_jawbone_page_40.md ending and Pages/cains_jawbone_page_51.md opening; both pages sit in the same travel posture (p40 “approaching journey’s end… I did not linger” after passing “Long Ditton” ↔ p51 “not staying, but only passing through”), supporting this as a coherent within-voice continuation when combined with the shared Whitman embedding + unique `calls` overlap.
+  - **Phase 6 test (2026-01-02):** replicated overlap scan found no additional shared df==2 tokens beyond `calls` and no shared low-df n‑grams (n=2–6, df≤3). Keep this as a travel/voice continuity candidate, but do not upgrade without a second concrete anchor (shared named participant/venue/prop).
   - **Outcome:** `PASS` (best available successor for Pages/cains_jawbone_page_40.md in the current tail; keep confidence `MAYBE`).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_51.md → Pages/cains_jawbone_page_63.md
