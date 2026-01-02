@@ -2277,6 +2277,14 @@ These are the **highest-risk segment joins** inside the v2 full ordering draft. 
   - **Phase 6 test (2026-01-02):** overlap scan confirms shared low-df n‑grams `back to henry` (df==2) plus the df==2 bigram `back to`; no shared df==2 tokens were found.
   - **Outcome:** `UNCLEAR` (strong phrase-level anchor; treat as a re-stitch candidate, not an adjacency lock, until a second continuity marker is found).
 
+- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_16.md → Pages/cains_jawbone_page_21.md
+  - **Why:** Pages/cains_jawbone_page_16.md contains “Though I did remember…” and “it was not so”, and Pages/cains_jawbone_page_21.md contains “though I did not…” and “he was not so…”; corpus scan shows the trigrams `though i did` and `was not so` appear only on these two pages, and both pages are Henry-centric (p16 “go back to Henry?” ↔ p21 “To reckon with Henry!”).
+  - **Falsifier:** a third page is found containing either trigram (making the overlap non-unique), or re-reading shows the Henry contexts are clearly different (forcing these overlaps to be generic coincidence only), or Pages/cains_jawbone_page_21.md is locked to a different local predecessor/successor by stronger multi-anchor continuity that excludes placing Page 16 nearby.
+  - **Next falsification check:** re-read the p16 ending against the p21 opening for a second independent continuity marker (shared participant/prop/place/time) beyond the Henry-name layer and the shared trigrams.
+  - **Phase 6 test (2026-01-02):** overlap scan confirms the df==2 trigrams `though i did` and `was not so` are shared only by these pages; no shared df==2 tokens were found.
+  - **Phase 6 test (2026-01-02):** re-read the Pages/cains_jawbone_page_16.md ending and Pages/cains_jawbone_page_21.md opening; no shared venue/prop continuity emerged (music-hall/cosmetics dinner beat ↔ garden/poison murder scene), so treat this as a re-stitch lead only unless reinforced.
+  - **Outcome:** `UNCLEAR` (two phrase-level anchors, but not yet supported by non-lexical continuity).
+
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_16.md → Pages/cains_jawbone_page_72.md
   - **Why:** former v2.16 tail adjacency; removed in v2.17 after moving Pages/cains_jawbone_page_72.md to precede Pages/cains_jawbone_page_49.md.
   - **Falsifier:** either page is anchored elsewhere by a stronger multi-anchor continuity (shared participant/place/prop, or phrase-level continuation) that excludes this boundary.
