@@ -1985,7 +1985,15 @@ Delta from v2.2 (Phase 6 tightening; keep falsifiable):
   - **Falsifier:** Pages/cains_jawbone_page_54.md gains a stronger successor inside the `N26` run, or Pages/cains_jawbone_page_92.md gains a stronger predecessor inside `N21` beyond the Browning-lock into Pages/cains_jawbone_page_42.md.
   - **Next falsification check:** re-read the Pages/cains_jawbone_page_54.md ending and Pages/cains_jawbone_page_92.md opening for a non-generic continuity marker (shared named person/object, or quote continuation).
   - **Phase 6 test (2026-01-01):** page-body scan found **zero** shared corpus-unique 3‑grams (or longer) and **zero** shared-unique word anchors between the pages.
-  - **Outcome:** `UNCLEAR` (treat as a pure placeholder join).
+  - **Phase 6 test (2026-01-02):** found a stronger successor candidate for Pages/cains_jawbone_page_54.md: Pages/cains_jawbone_page_54.md ↔ Pages/cains_jawbone_page_71.md share the corpus-unique bigrams `not appropriate` (df=2) and `toast and` (df=2), and Pages/cains_jawbone_page_71.md opens “But next day…”, which is compatible with Pages/cains_jawbone_page_54.md’s “to-day” breakfast scene. Treat this boundary as superseded unless a second anchor emerges for Pages/cains_jawbone_page_54.md → Pages/cains_jawbone_page_92.md.
+  - **Outcome:** `UNCLEAR` (deprioritise; treat as a pure placeholder join).
+
+- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_54.md → Pages/cains_jawbone_page_71.md
+  - **Why:** multi-anchor phrase bridge: both corpus-unique bigrams `toast and` (df=2) and `not appropriate` (df=2) occur only on this pair, and Pages/cains_jawbone_page_71.md’ s “But next day…” aligns naturally with Pages/cains_jawbone_page_54.md’s “to-day” + breakfast framing.
+  - **Falsifier:** a third page is found containing either bigram in its page body (making the overlap non-unique), or re-reading shows the settings/participants are incompatible (making the phrase-level echo coincidental).
+  - **Next falsification check:** re-read the Pages/cains_jawbone_page_54.md ending and Pages/cains_jawbone_page_71.md opening for a second continuity marker (shared named participant, shared place cue, or shared quoted source beyond the generic “literary allusion” density).
+  - **Phase 6 test (2026-01-02):** n‑gram df scan confirms both `toast and` and `not appropriate` occur only on Pages/cains_jawbone_page_54.md and Pages/cains_jawbone_page_71.md; no shared low-df trigrams (or longer) were found.
+  - **Outcome:** `PASS` (promote to the primary successor candidate for Page 54; keep falsifiable).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_100.md → Pages/cains_jawbone_page_62.md
   - **Why:** current v2.10 block boundary; no scene/prop/cast continuity is currently known.
