@@ -2206,6 +2206,14 @@ These are the **highest-risk segment joins** inside the v2 full ordering draft. 
   - **Phase 6 test (2026-01-02):** verified `poem` appears in page bodies only on Pages/cains_jawbone_page_70.md and Pages/cains_jawbone_page_96.md; verified `in the morning` appears only on Pages/cains_jawbone_page_7.md + Pages/cains_jawbone_page_70.md + Pages/cains_jawbone_page_96.md; overlap scan also shows shared low-df tokens `written` and `try` (generic but supportive). Re-read found no contradiction.
   - **Outcome:** `PASS` (adopt as the v2.18 successor for Pages/cains_jawbone_page_70.md; keep confidence `MAYBE`).
 
+- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_100.md → Pages/cains_jawbone_page_72.md
+  - **Why:** phrase-level farewell echo: tokenised page-body bigram `good bye` appears only on these two pages (p100 “Good-bye, Henry.” ↔ p72 “good-bye to old Medehamstede”), supporting this as a less arbitrary boundary than the earlier placeholder successor for Page 100.
+  - **Predictions:** if this is a real adjacency, we should see at least one of: (a) a continuation of the “farewell / departure” register; (b) a credible scene transition from the climactic Page 100 tableau into an “alone at last” decompression beat; (c) a time cue that doesn’t contradict the immediate aftermath.
+  - **Falsifier:** a third page is found containing tokenised `good bye` in its page body (making the anchor non-unique), or re-reading shows Page 100’s ending is terminal for the narrator (making any successor implausible), or Pages/cains_jawbone_page_72.md gains a stronger predecessor that forces it away from this boundary.
+  - **Next falsification check:** re-read the Page 100 ending and Page 72 opening for any shared prop/venue continuity (beyond `good bye`) that would justify immediate adjacency direction.
+  - **Phase 6 test (2026-01-02):** tokenised n‑gram scan confirms `good bye` is df==2 and shared only by Pages/cains_jawbone_page_100.md and Pages/cains_jawbone_page_72.md; re-read found no direct contradiction but no second anchor beyond the farewell echo.
+  - **Outcome:** `PASS` (adopt as the current v2.18 boundary; keep confidence `MAYBE`).
+
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_72.md → Pages/cains_jawbone_page_1.md
   - **Why:** phrase-level sitting-alone continuity: page-body bigram `alone at` appears only on these two pages (p72 “find myself alone at last” ↔ p1 “alone at the appointed table”), and the bigram `sit down` occurs only on Pages/cains_jawbone_page_1.md + Pages/cains_jawbone_page_52.md + Pages/cains_jawbone_page_72.md. Re-read supports a plausible posture handoff (solitary sit-down decompression + reading register → solitary sit-down writing register).
   - **Predictions:** if this is a real adjacency, we should see at least one of: (a) shared “alone at table” staging; (b) a prop/venue continuity (drink/paper/table) that carries across; (c) a time cue that makes the transition plausible.
