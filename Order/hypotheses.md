@@ -1915,6 +1915,7 @@ Delta from v2.2 (Phase 6 tightening; keep falsifiable):
   - **Falsifier:** a third page is found containing the same phrase-level echo, or later context makes the two “think” clauses clearly incompatible (making the overlap coincidental).
   - **Next falsification check:** re-read the Pages/cains_jawbone_page_76.md ending and the Pages/cains_jawbone_page_98.md “think” sentence for any second independent continuity marker (shared participant, place name, or quoted source) beyond the echo.
   - **Phase 6 test (2025-12-31):** page-body n‑gram scan confirms shared 3‑gram `have to think`, shared 4‑gram `would have to think`, and shared 5‑gram `i would have to think` occur only on these two pages; no shared-unique word anchors were found.
+  - **Phase 6 test (2026-01-02):** checked competition from the df==2 word overlap Pages/cains_jawbone_page_51.md ↔ Pages/cains_jawbone_page_98.md (`purple`), and found no shared low-df n‑grams (3–6) between those pages; the only shared low-df bigram was the generic `from me` (df=3). Treat `p51 ↔ p98` as a re-stitch lead only and keep `p76 → p98` as the stronger phrase-level candidate.
   - **Outcome:** `PASS` (phrase-level echo; keep low-weight until a second anchor emerges).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_60.md → Pages/cains_jawbone_page_91.md
