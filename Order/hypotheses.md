@@ -1829,6 +1829,7 @@ Delta from v2.2 (Phase 6 tightening; keep falsifiable):
   - **Next falsification check:** scan for any non-generic continuity marker (named person, quoted source continuation, or a repeated venue cue) that would justify adjacency; keep Pages/cains_jawbone_page_42.md → Pages/cains_jawbone_page_2.md as an alternate candidate until a second non-generic anchor appears.
   - **Phase 6 test (2026-01-01):** page-body scan found **zero** shared corpus-unique 3‑grams (or longer) and **zero** shared df==2 word anchors between the pages; treat as a pure placeholder join.
   - **Phase 6 test (2026-01-01):** page-body df==2 token scan suggests Pages/cains_jawbone_page_42.md’s strongest lexical tie remains Pages/cains_jawbone_page_2.md (`figures`, `surmised`), and a weaker single-token lead exists to Pages/cains_jawbone_page_94.md (`aware`). Treat as re-stitch leads only until reinforced by non-lexical continuity.
+  - **Phase 6 test (2026-01-02):** page-body n‑gram scan suggests a stronger competing successor candidate exists: the bigram `near me` appears only on Pages/cains_jawbone_page_42.md and Pages/cains_jawbone_page_38.md (both describe an observed woman “sitting near me”, and share low-df tokens `near`/`sitting`/`excellent`). Re-read still found no shared named participant/prop/time/quote continuity, so treat as a re-stitch lead only until reinforced.
   - **Outcome:** `UNCLEAR` (treat as a pure placeholder join).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_50.md → Pages/cains_jawbone_page_47.md
