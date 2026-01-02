@@ -1993,6 +1993,7 @@ Delta from v2.2 (Phase 6 tightening; keep falsifiable):
   - **Falsifier:** a third page is found containing either bigram in its page body (making the overlap non-unique), or re-reading shows the settings/participants are incompatible (making the phrase-level echo coincidental).
   - **Next falsification check:** re-read the Pages/cains_jawbone_page_54.md ending and Pages/cains_jawbone_page_71.md opening for a second continuity marker (shared named participant, shared place cue, or shared quoted source beyond the generic “literary allusion” density).
   - **Phase 6 test (2026-01-02):** n‑gram df scan confirms both `toast and` and `not appropriate` occur only on Pages/cains_jawbone_page_54.md and Pages/cains_jawbone_page_71.md; no shared low-df trigrams (or longer) were found.
+  - **Phase 6 test (2026-01-02):** checked Pages/cains_jawbone_page_71.md for any additional low-df n‑gram ties that would force its placement elsewhere; only single-anchor df==2 phrase overlaps were found (`up henry` ↔ Pages/cains_jawbone_page_36.md; `it till` ↔ Pages/cains_jawbone_page_67.md; `I thought of May` ↔ Pages/cains_jawbone_page_98.md). No second independent continuity marker currently upgrades any of these alternatives.
   - **Outcome:** `PASS` (promote to the primary successor candidate for Page 54; keep falsifiable).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_100.md → Pages/cains_jawbone_page_62.md
