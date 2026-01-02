@@ -2247,6 +2247,7 @@ These are the **highest-risk segment joins** inside the v2 full ordering draft. 
   - **Falsifier:** a third page is found containing the `opposite me` / `opposite me i` bundle (making the anchor non-unique), or re-reading confirms the “opposite me” referent/scene is incompatible (forcing the overlap to be rhetorical coincidence only), or Pages/cains_jawbone_page_76.md gains a stronger predecessor inside its own late-thread that excludes taking Pages/cains_jawbone_page_47.md as predecessor.
   - **Next falsification check:** treat this primarily as a re-stitch lead for replacing the current tail gate; test the 2-step chain `Pages/cains_jawbone_page_47.md → Pages/cains_jawbone_page_76.md → Pages/cains_jawbone_page_98.md` against current v2.16 tail structure (does it reduce placeholders without breaking any higher-confidence joins?).
   - **Phase 6 test (2026-01-02):** overlap scan confirms shared low-df n‑grams `opposite me` (df==2) and `opposite me i` (df==2); shared tokens df≤10 are limited to `opposite` (df=4), `thoughts` (df=5), and `looking` (df=8).
+  - **Phase 6 test (2026-01-02):** re-read Pages/cains_jawbone_page_47.md and Pages/cains_jawbone_page_76.md at the “opposite me” hinge; no second independent continuity marker (shared named participant/prop/place/time) emerged beyond the seating-posture echo + Henry-name noise.
   - **Outcome:** `UNCLEAR` (strong phrase-level anchor; keep as a candidate replacement for `p47→p9` until a second independent continuity marker is found).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_9.md → Pages/cains_jawbone_page_16.md
@@ -2330,6 +2331,7 @@ These are the **highest-risk segment joins** inside the v2 full ordering draft. 
   - **Falsifier:** a third page is found containing the bigram `my breast` (making the anchor non-unique), or re-reading confirms the frames/settings are incompatible (forcing the overlap to be rhetorical coincidence only), or Pages/cains_jawbone_page_17.md gains a stronger predecessor inside its own strand that excludes taking Pages/cains_jawbone_page_51.md as predecessor.
   - **Next falsification check:** re-read the boundary to test whether Page 51’s “remembering / bodily self-monitoring” posture plausibly hands off into Page 17’s “conveniently situated” social tableau (chair opposite, heart in breast), and compare against any other Page 51 successor candidates with multi-anchor support.
   - **Phase 6 test (2026-01-02):** overlap scan confirms shared low-df n‑gram `my breast` (df==2) plus shared tokens `delicate` (df=4) and `remember` (df=8).
+  - **Phase 6 test (2026-01-02):** re-read the Page 51 ending against the Page 17 opening; beyond the shared “breast/heart” bodily-register, no scene/venue/participant continuity emerged (Whitman-heavy passing-through travel voice ↔ Moon/Dawn tea-room society tableau). Keep as a re-stitch lead only.
   - **Outcome:** `UNCLEAR` (promising re-stitch candidate; do not adopt until it beats all alternatives on a second independent continuity marker).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_51.md → Pages/cains_jawbone_page_63.md
