@@ -2356,6 +2356,7 @@ These are the **highest-risk segment joins** inside the v2 full ordering draft. 
   - **Why:** current v2.17 tail adjacency after removing Pages/cains_jawbone_page_72.md from the tail; no scene/prop/cast continuity is currently known.
   - **Falsifier:** Pages/cains_jawbone_page_16.md gains a stronger successor (multi-anchor continuity) that excludes Pages/cains_jawbone_page_76.md, and/or Pages/cains_jawbone_page_76.md gains a stronger predecessor that excludes Pages/cains_jawbone_page_16.md.
   - **Next falsification check:** re-read the Pages/cains_jawbone_page_16.md ending and Pages/cains_jawbone_page_76.md opening for any shared participant/venue cue (beyond generic “opposite me” seating posture), and scan for any low-df token/phrase overlaps to justify adjacency.
+  - **Phase 6 test (2026-01-02):** overlap scan found **zero** shared tokens with df≤15 and **zero** shared low-df n‑grams (n=2–6, df≤5), confirming this is a pure placeholder join.
   - **Outcome:** `UNCLEAR` (placeholder; introduced by moving Page 72 to precede Page 49).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_76.md → Pages/cains_jawbone_page_78.md
