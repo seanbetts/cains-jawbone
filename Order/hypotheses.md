@@ -116,6 +116,9 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
 - **Constraint:** Pages/cains_jawbone_page_1.md ↔ Pages/cains_jawbone_page_43.md (confidence: `CERTAIN`)
   - **Anchor:** “Aquarius” appears only on these two pages (Aquarius pen on Page 1; Aquarius↔Gemini income/hand wordplay on Page 43).
   - **Falsifier:** “Aquarius” is found elsewhere in page-body text, or Page 43’s Aquarius/Gemini line is proven to be a standalone zodiac/menu pun unrelated to Page 1’s pen.
+- **Constraint:** Pages/cains_jawbone_page_1.md ↔ Pages/cains_jawbone_page_95.md (confidence: `MAYBE`)
+  - **Anchor:** writing-with-pen phrase bundle: page-body token `pen` is df==2 on exactly these pages, and the trigram `up my pen` is also df==2 (p1 “take up my pen” ↔ p95 “took up my pen”).
+  - **Falsifier:** a third page is found containing either `pen` or the trigram `up my pen` in its page body (making this non-unique), or re-reading confirms the writing-table scenes are incompatible in a way that makes the overlap clearly accidental.
 - **Constraint:** Pages/cains_jawbone_page_43.md ↔ Pages/cains_jawbone_page_74.md (confidence: `MAYBE`)
   - **Anchor:** unique husk-voice descriptor for an unnamed “she”: Page 43’s “huskily lisping…” ↔ Page 74’s “husky miracle of a voice”.
   - **Falsifier:** a third page body uses the same husk-/husky voice descriptor, or later evidence identifies the two “she/her” referents as different people.
