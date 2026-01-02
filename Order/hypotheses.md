@@ -1731,7 +1731,7 @@ Key changes vs v1:
 - **Block W (`N06`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_66.md → Pages/cains_jawbone_page_67.md → Pages/cains_jawbone_page_73.md → Pages/cains_jawbone_page_74.md → Pages/cains_jawbone_page_75.md → Pages/cains_jawbone_page_83.md
 - **Block X (tail, confidence: `MAYBE`):** Pages/cains_jawbone_page_2.md → Pages/cains_jawbone_page_9.md → Pages/cains_jawbone_page_16.md → Pages/cains_jawbone_page_18.md → Pages/cains_jawbone_page_37.md → Pages/cains_jawbone_page_38.md → Pages/cains_jawbone_page_40.md → Pages/cains_jawbone_page_51.md → Pages/cains_jawbone_page_63.md → Pages/cains_jawbone_page_72.md → Pages/cains_jawbone_page_76.md → Pages/cains_jawbone_page_78.md → Pages/cains_jawbone_page_81.md → Pages/cains_jawbone_page_84.md → Pages/cains_jawbone_page_98.md → Pages/cains_jawbone_page_77.md → Pages/cains_jawbone_page_46.md → Pages/cains_jawbone_page_100.md
 
-### Proposed order (all 100 pages; v2.16)
+### Proposed order (all 100 pages; v2.17)
 
 Delta from v2.2 (Phase 6 tightening; keep falsifiable):
 
@@ -1760,7 +1760,7 @@ Delta from v2.2 (Phase 6 tightening; keep falsifiable):
 - **Block D3 (`N35`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_18.md
 - **Block D4 (`N34`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_20.md
 - **Block F (`N19`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_4.md → Pages/cains_jawbone_page_58.md → Pages/cains_jawbone_page_5.md
-- **Block G (`N20`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_49.md → Pages/cains_jawbone_page_13.md → Pages/cains_jawbone_page_31.md
+- **Block G (`N20` + bridge, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_72.md → Pages/cains_jawbone_page_49.md → Pages/cains_jawbone_page_13.md → Pages/cains_jawbone_page_31.md
 - **Block H (`N16`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_7.md → Pages/cains_jawbone_page_45.md → Pages/cains_jawbone_page_26.md → Pages/cains_jawbone_page_44.md → Pages/cains_jawbone_page_55.md
 - **Block H1 (`N29`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_37.md
 - **Block H2 (`N37`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_84.md
@@ -1780,9 +1780,9 @@ Delta from v2.2 (Phase 6 tightening; keep falsifiable):
 - **Block R (`N09`, confidence: `MAYBE` internal):** Pages/cains_jawbone_page_68.md → Pages/cains_jawbone_page_69.md → Pages/cains_jawbone_page_95.md → Pages/cains_jawbone_page_70.md
 - **Block V (`N10` + `N39`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_14.md → Pages/cains_jawbone_page_12.md → Pages/cains_jawbone_page_50.md
 - **Block V2 (`N21`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_47.md
-- **Block X (tail, confidence: `MAYBE`):** Pages/cains_jawbone_page_9.md → Pages/cains_jawbone_page_16.md → Pages/cains_jawbone_page_72.md → Pages/cains_jawbone_page_76.md → Pages/cains_jawbone_page_98.md
+- **Block X (tail, confidence: `MAYBE`):** Pages/cains_jawbone_page_9.md → Pages/cains_jawbone_page_16.md → Pages/cains_jawbone_page_76.md → Pages/cains_jawbone_page_98.md
 
-### Phase 6 boundary tests for v2.16 (block boundaries)
+### Phase 6 boundary tests for v2.17 (block boundaries)
 
 - **Join (confidence: `LIKELY`):** Pages/cains_jawbone_page_24.md → Pages/cains_jawbone_page_86.md
   - **Why:** page-body name `Caroline` appears only on these two pages, and both open with “Next day…” framing; v2.10 uses this to justify placing `N13` immediately after Block A rather than after Page 91.
@@ -1941,13 +1941,19 @@ Delta from v2.2 (Phase 6 tightening; keep falsifiable):
   - **Outcome:** `UNCLEAR` (single-anchor hint only; treat as a placeholder join until reinforced).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_5.md → Pages/cains_jawbone_page_49.md
-  - **Why:** current v2.10 block boundary; no scene/prop/cast continuity is currently known.
+  - **Why:** former v2.16 block boundary; removed in v2.17 after adopting `Pages/cains_jawbone_page_72.md → Pages/cains_jawbone_page_49.md` as the preferred predecessor for Page 49.
   - **Falsifier:** either page gains a stronger neighbor (shared participant/place/object or phrase-level continuation) that excludes this boundary.
   - **Next falsification check:** re-read the Pages/cains_jawbone_page_5.md ending and Pages/cains_jawbone_page_49.md opening for a non-generic continuity marker; cross-check `Indexes/people.md` and `Indexes/objects_motifs.md` for a shared named referent or recurring prop.
   - **Phase 6 test (2026-01-01):** page-body scan found **zero** shared corpus-unique 3‑grams (or longer) and **zero** shared-unique word anchors between the pages.
   - **Phase 6 test (2026-01-01):** page-body df==2 token scan suggests replacement directions: Pages/cains_jawbone_page_5.md uniquely shares `reverse` with Pages/cains_jawbone_page_61.md and `thomas` with Pages/cains_jawbone_page_35.md, while Pages/cains_jawbone_page_49.md has a multi-token overlap with Pages/cains_jawbone_page_21.md (`dazed`, `keep`) plus df==2 bigram `to keep`, and a two-anchor overlap with Pages/cains_jawbone_page_58.md (df==2 token `silent` + df==2 bigram `henry though`) alongside single-token overlaps with Pages/cains_jawbone_page_50.md (`ordinary`) / Pages/cains_jawbone_page_67.md (`soul`). Treat as re-stitch leads only; do not upgrade without a second independent continuity marker.
   - **Phase 6 test (2026-01-01):** re-read Pages/cains_jawbone_page_5.md ending and Pages/cains_jawbone_page_49.md opening; no shared scene/prop/place continuity is present, and the only apparent overlap is the high-noise presence of `Henry` (p5 “Henry… plying his intended fifth” at a ruined lighthouse; p49 “yen for Henry” as a first introduction in a different register). Keep as a pure placeholder.
-  - **Outcome:** `UNCLEAR` (treat as a pure placeholder join).
+  - **Outcome:** `FAIL` (not used in v2.17; superseded by `p72 → p49`).
+
+- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_5.md → Pages/cains_jawbone_page_72.md
+  - **Why:** current v2.17 block boundary after the Henry/coastal-comic run (`Pages/cains_jawbone_page_4.md → Pages/cains_jawbone_page_58.md → Pages/cains_jawbone_page_5.md`) and before the new `Pages/cains_jawbone_page_72.md → Pages/cains_jawbone_page_49.md` bridge; no scene/prop/cast continuity is currently known.
+  - **Falsifier:** Pages/cains_jawbone_page_5.md gains a stronger successor that excludes Pages/cains_jawbone_page_72.md, and/or Pages/cains_jawbone_page_72.md gains a stronger predecessor that excludes taking Pages/cains_jawbone_page_5.md.
+  - **Next falsification check:** re-read the Pages/cains_jawbone_page_5.md ending and Pages/cains_jawbone_page_72.md opening for any shared venue/prop/quoted-source continuity, and scan for any low-df token/phrase overlaps that would justify adjacency.
+  - **Outcome:** `UNCLEAR` (placeholder; introduced by moving Page 72 to precede Page 49).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_31.md → Pages/cains_jawbone_page_7.md
   - **Why:** current v2.10 block boundary; no scene/prop/cast continuity is currently known.
@@ -2333,21 +2339,24 @@ These are the **highest-risk segment joins** inside the v2 full ordering draft. 
   - **Phase 6 test (2025-12-31):** page-body n‑gram scan found **zero** shared 3‑grams (or longer) and **zero** shared-unique word anchors between the pages. Treat as a pure placeholder join.
   - **Outcome:** `UNCLEAR`
 
-- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_72.md → Pages/cains_jawbone_page_49.md
+- **Join (confidence: `LIKELY`):** Pages/cains_jawbone_page_72.md → Pages/cains_jawbone_page_49.md
   - **Why:** multi-anchor phrase echo: the 5‑gram `but it was pleasant to` appears only on these two pages, and the page-body word `pleasant` also appears only on this pair (p72 “pleasant to sit down…” ↔ p49 “pleasant to collect oneself…”), making this a strong re-stitch lead for pulling Page 72 out of the late tail and placing it nearer the `N20`/Henry-introduction material.
   - **Falsifier:** a third page is found containing either the 5‑gram `but it was pleasant to` or the token `pleasant` in its page body (making the overlap non-unique), or Pages/cains_jawbone_page_49.md is shown to have a locked predecessor that excludes taking Pages/cains_jawbone_page_72.md as predecessor (e.g., via a quote continuation or shared cast/venue).
   - **Next falsification check:** re-read the p72 ending against the p49 opening to see whether p49’s “these occasions” can plausibly refer to p72’s “emotional times”, and confirm that adopting this would not break the apparent Blake-quote continuation `Pages/cains_jawbone_page_49.md → Pages/cains_jawbone_page_13.md`.
   - **Phase 6 test (2026-01-02):** overlap scan found multiple shared low-df n‑grams (including the 5‑gram `but it was pleasant to`, df==2) plus the df==2 token `pleasant`; no second cast/prop/venue continuity marker is yet known.
-  - **Outcome:** `UNCLEAR` (strong phrase-level overlap; keep as a candidate predecessor for Page 49 and alternate placement for Page 72).
+  - **Outcome:** `PASS` (adopt as the v2.17 predecessor for Page 49; placement of Page 72 remains provisional pending a second non-lexical continuity marker).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_72.md → Pages/cains_jawbone_page_76.md
-  - **Why:** current v2 tail adjacency; no concrete continuity marker is known.
-  - **Falsifier:** Pages/cains_jawbone_page_76.md is shown to belong in a different murder-deliberation run (e.g., via the strong phrase-level `p76 ↔ p98` echo), or Pages/cains_jawbone_page_72.md is anchored into a different block by a stronger multi-anchor link.
-  - **Next falsification check:** look for any second independent anchor (shared named participant, shared quoted source, or shared place/venue name).
-  - **Phase 6 test (2025-12-31):** page-body n‑gram scan found **zero** shared 3‑grams (or longer) and **zero** shared-unique word anchors between the pages. Treat as a pure placeholder join.
-  - **Phase 6 test (2026-01-01):** page-body df==2 token scan suggests no lexical bridge exists: Pages/cains_jawbone_page_72.md uniquely links to Pages/cains_jawbone_page_49.md (`pleasant`) and Pages/cains_jawbone_page_92.md (`stories`), while Pages/cains_jawbone_page_76.md uniquely links to Pages/cains_jawbone_page_20.md (`arrived`), Pages/cains_jawbone_page_37.md (`smile`), and Pages/cains_jawbone_page_87.md (`foreground`) among others. Treat these as re-stitch leads only.
-  - **Phase 6 test (2026-01-01):** page-body df==2 n‑gram scan suggests additional re-stitch directions: Pages/cains_jawbone_page_72.md shares df==2 bigrams `lips were` and `to us` with Pages/cains_jawbone_page_78.md, and shares multiple df==2 “sit down” phrases with Pages/cains_jawbone_page_52.md (`to sit down`, `sit down and`, `to sit down and`). Treat as re-stitch leads only unless reinforced by a second independent continuity marker (shared participant/prop/place/time).
-  - **Outcome:** `UNCLEAR`
+  - **Why:** former v2.16 tail adjacency; removed in v2.17 after moving Pages/cains_jawbone_page_72.md to precede Pages/cains_jawbone_page_49.md.
+  - **Falsifier:** Pages/cains_jawbone_page_72.md is later forced back into the tail by a stronger successor/predecessor that excludes the new `p72 → p49` placement.
+  - **Next falsification check:** keep as a backup only; prefer finding a positive stitch for Pages/cains_jawbone_page_16.md (now the predecessor of Pages/cains_jawbone_page_76.md in v2.17).
+  - **Outcome:** `FAIL` (not used in v2.17).
+
+- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_16.md → Pages/cains_jawbone_page_76.md
+  - **Why:** current v2.17 tail adjacency after removing Pages/cains_jawbone_page_72.md from the tail; no scene/prop/cast continuity is currently known.
+  - **Falsifier:** Pages/cains_jawbone_page_16.md gains a stronger successor (multi-anchor continuity) that excludes Pages/cains_jawbone_page_76.md, and/or Pages/cains_jawbone_page_76.md gains a stronger predecessor that excludes Pages/cains_jawbone_page_16.md.
+  - **Next falsification check:** re-read the Pages/cains_jawbone_page_16.md ending and Pages/cains_jawbone_page_76.md opening for any shared participant/venue cue (beyond generic “opposite me” seating posture), and scan for any low-df token/phrase overlaps to justify adjacency.
+  - **Outcome:** `UNCLEAR` (placeholder; introduced by moving Page 72 to precede Page 49).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_76.md → Pages/cains_jawbone_page_78.md
   - **Why:** current v2 tail adjacency; both pages quote Henry as aphorist (“as Henry said”) while the narrator resolves to act/learn (“I would have to…”), but no concrete scene/prop/place continuation is currently known.
@@ -2518,8 +2527,8 @@ Delta from v2 (do not treat as accepted until falsified):
   - Added: `Pages/cains_jawbone_page_5.md → Pages/cains_jawbone_page_72.md` (placeholder)
   - Added: `Pages/cains_jawbone_page_72.md → Pages/cains_jawbone_page_49.md` (candidate)
 - **Phase 6 test (2025-12-31):** scanned the removed v2 tail joins `Pages/cains_jawbone_page_63.md → Pages/cains_jawbone_page_72.md` and `Pages/cains_jawbone_page_72.md → Pages/cains_jawbone_page_76.md`; page-body n‑gram scans found **zero** shared 3‑grams (or longer) and **zero** shared-unique word anchors for both pairs. Treat both joins as pure placeholders; this makes it less costly to pull Pages/cains_jawbone_page_72.md out of the tail, though the replacement join `Pages/cains_jawbone_page_63.md → Pages/cains_jawbone_page_76.md` is still a placeholder.
-- **Phase 6 test (2025-12-31):** page-body n‑gram scan shows no second anchor beyond the generic phrase `but it was pleasant to` (no shared prop/cast/place/quote), and the two pages’ concrete anchors are disjoint (p49 Henry + Blake; p72 Medehamstede/Pasquier/Rue de la Harpe) → treat the phrase echo as an accidental overlap (Outcome: `FAIL`).
-  - **Outcome:** `FAIL` (do not apply v9 unless a second independent anchor emerges).
+- **Phase 6 test (2026-01-02):** overlap scan confirms the 5‑gram `but it was pleasant to` and the token `pleasant` are unique to Pages/cains_jawbone_page_72.md ↔ Pages/cains_jawbone_page_49.md, giving a multi-anchor lexical bridge; re-read still finds no shared prop/cast/place continuity, so treat the placement as provisional even when adopted.
+  - **Outcome:** `PASS` (adopted in v2.17 as a working re-stitch; revisit if contradicted by a stronger Page 49 predecessor or a non-lexical incompatibility).
 
 ### Phase 6 trial variant (v10) — move Page 100 into `N01` (Ecky/Aquarius) bundle
 
