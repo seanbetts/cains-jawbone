@@ -1792,7 +1792,8 @@ Delta from v2.2 (Phase 6 tightening; keep falsifiable):
   - **Falsifier:** a third page is found containing `dimples` in its page body (making this non-unique), or Pages/cains_jawbone_page_38.md is anchored elsewhere by a stronger multi-anchor continuity that excludes this placement.
   - **Next falsification check:** re-read the Pages/cains_jawbone_page_63.md ending and Pages/cains_jawbone_page_38.md opening for any second independent continuity marker (shared participant/venue/prop, or a phrase-level carryover) beyond the `dimples` echo.
   - **Phase 6 test (2026-01-01):** corpus scan confirms page-body word `dimples` appears only on Pages/cains_jawbone_page_63.md and Pages/cains_jawbone_page_38.md; page-body n‑gram scan found **zero** shared 3‑grams (or longer).
-  - **Outcome:** `PASS` (adopt as the v2.16 successor for Page 63; direction still provisional).
+  - **Phase 6 test (2026-01-02):** re-read the Pages/cains_jawbone_page_63.md ending and Pages/cains_jawbone_page_38.md opening; no continuity marker appears beyond the `dimples` echo (dessert/hair/table banter ↔ Southend/omelette/stabbing vignette). Treat as a re-stitch lead only.
+  - **Outcome:** `UNCLEAR` (lexical bridge confirmed; best available successor for now).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_38.md → Pages/cains_jawbone_page_33.md
   - **Why:** current v2.16 block boundary after pulling Page 38 out of the tail; no scene/prop/cast continuity is currently known.
