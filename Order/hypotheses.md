@@ -2250,7 +2250,7 @@ These are the **highest-risk segment joins** inside the v2 full ordering draft. 
   - **Outcome:** `UNCLEAR` (strong phrase-level anchor; keep as a candidate replacement for `p47→p9` until a second independent continuity marker is found).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_9.md → Pages/cains_jawbone_page_16.md
-  - **Why:** current v2.16 tail adjacency; no continuity marker is currently known (bell/mineralogy lecture voice → cosmetics/music-hall voice).
+  - **Why:** current v2.17 tail adjacency; no continuity marker is currently known (bell/mineralogy lecture voice → cosmetics/music-hall voice).
   - **Falsifier:** Pages/cains_jawbone_page_9.md is anchored into a different bell/academic predecessor by a concrete continuity marker (e.g., a second page that repeats Charles Day / Peebles / the Day‑Knight pun), and/or Pages/cains_jawbone_page_16.md gains a stronger successor/predecessor that forces it away from the tail.
   - **Next falsification check:** search for any shared named participant/venue/quotation cue beyond the overloaded `Henry` name.
   - **Phase 6 test (2025-12-31):** page-body n‑gram scan found **zero** shared 3‑grams (or longer) and **zero** shared-unique word anchors between the pages. Treat as a pure placeholder join.
@@ -2258,13 +2258,20 @@ These are the **highest-risk segment joins** inside the v2 full ordering draft. 
   - **Phase 6 test (2026-01-01):** corpus scan confirms the tokenised trigram `back to henry` appears only on Pages/cains_jawbone_page_16.md (“…go back to Henry”) and Pages/cains_jawbone_page_44.md (“…get back to Henry”), giving Pages/cains_jawbone_page_16.md a stronger re-stitch lead into `N16` than this tail placement. Treat as a re-stitch lead only unless reinforced by a second independent continuity marker (shared participant/prop/place/time).
   - **Outcome:** `UNCLEAR`
 
+- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_44.md → Pages/cains_jawbone_page_16.md
+  - **Why:** phrase-level anchor: the trigram `back to henry` (df==2) appears only on these two pages (p44 “get back to Henry” ↔ p16 “go back to Henry”), making this the strongest currently-known re-stitch direction for extracting Page 16 from the v2.17 tail.
+  - **Falsifier:** a third page is found containing the trigram `back to henry` (making the anchor non-unique), or re-reading shows the Henry contexts are incompatible (forcing the overlap to be rhetorical coincidence only), or Pages/cains_jawbone_page_44.md’s successor is locked by a stronger continuity marker that excludes inserting Pages/cains_jawbone_page_16.md nearby.
+  - **Next falsification check:** re-read the Pages/cains_jawbone_page_44.md ending and Pages/cains_jawbone_page_16.md opening for any prop/venue continuity (food/drink, theatre, travel) beyond the Henry name, and test whether moving Page 16 into the `N16` block reduces more placeholders than it introduces.
+  - **Phase 6 test (2026-01-02):** overlap scan confirms shared low-df n‑grams `back to henry` (df==2) plus the df==2 bigram `back to`; no shared df==2 tokens were found.
+  - **Outcome:** `UNCLEAR` (strong phrase-level anchor; treat as a re-stitch candidate, not an adjacency lock, until a second continuity marker is found).
+
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_16.md → Pages/cains_jawbone_page_72.md
-  - **Why:** current v2.16 tail adjacency after pulling Pages/cains_jawbone_page_38.md to follow Pages/cains_jawbone_page_63.md; no continuity marker is currently known (music-hall/cosmetics nostalgia voice ↔ Medehamstede/Peterborough + magazine/short-stories voice).
+  - **Why:** former v2.16 tail adjacency; removed in v2.17 after moving Pages/cains_jawbone_page_72.md to precede Pages/cains_jawbone_page_49.md.
   - **Falsifier:** either page is anchored elsewhere by a stronger multi-anchor continuity (shared participant/place/prop, or phrase-level continuation) that excludes this boundary.
   - **Next falsification check:** re-read the Pages/cains_jawbone_page_16.md ending and Pages/cains_jawbone_page_72.md opening for any concrete continuity marker (shared named participant, shared venue/place, or prop carryover) and run page-body n‑gram + df==2 token scans for replacement leads.
   - **Phase 6 test (2026-01-01):** page-body scan found **zero** shared corpus-unique 3‑grams (or longer), **zero** shared corpus-unique 4‑grams (or longer), and **zero** shared df==2 word anchors between the pages.
   - **Phase 6 test (2026-01-01):** page-body df==2 token scan suggests both pages likely stitch elsewhere: Pages/cains_jawbone_page_16.md uniquely shares `naturally` with Pages/cains_jawbone_page_94.md and `ceased` with Pages/cains_jawbone_page_90.md, and also uniquely shares the tokenised trigram `back to henry` with Pages/cains_jawbone_page_44.md; Pages/cains_jawbone_page_72.md uniquely shares `pleasant` with Pages/cains_jawbone_page_49.md and `stories` with Pages/cains_jawbone_page_92.md. Treat these as re-stitch leads only until reinforced by a second independent continuity marker.
-  - **Outcome:** `UNCLEAR` (treat as a pure placeholder join).
+  - **Outcome:** `FAIL` (not used in v2.17).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_16.md → Pages/cains_jawbone_page_18.md
   - **Why:** former v2 tail adjacency; removed in v2.15 after placing Pages/cains_jawbone_page_18.md in the editorial/suspicion run (Pages/cains_jawbone_page_78.md → Pages/cains_jawbone_page_18.md → Pages/cains_jawbone_page_20.md).
