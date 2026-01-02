@@ -1775,12 +1775,13 @@ Delta from v2.2 (Phase 6 tightening; keep falsifiable):
 - **Block W (`N06`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_66.md → Pages/cains_jawbone_page_67.md → Pages/cains_jawbone_page_73.md → Pages/cains_jawbone_page_74.md → Pages/cains_jawbone_page_75.md → Pages/cains_jawbone_page_83.md
 - **Block M (`N21`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_92.md → Pages/cains_jawbone_page_42.md
 - **Block M2 (bridge, confidence: `MAYBE`):** Pages/cains_jawbone_page_2.md → Pages/cains_jawbone_page_40.md → Pages/cains_jawbone_page_51.md
-- **Block N (`N01`, confidence: `MAYBE` internal):** Pages/cains_jawbone_page_1.md → Pages/cains_jawbone_page_96.md → Pages/cains_jawbone_page_17.md → Pages/cains_jawbone_page_43.md → Pages/cains_jawbone_page_100.md
+- **Block N (`N01`, confidence: `MAYBE` internal):** Pages/cains_jawbone_page_96.md → Pages/cains_jawbone_page_17.md → Pages/cains_jawbone_page_43.md → Pages/cains_jawbone_page_100.md
 - **Block O (`N32`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_62.md → Pages/cains_jawbone_page_65.md → Pages/cains_jawbone_page_90.md → Pages/cains_jawbone_page_89.md
 - **Block P (`N04`, confidence: `MAYBE` internal direction):** Pages/cains_jawbone_page_64.md → Pages/cains_jawbone_page_61.md
 - **Block Q (`N34`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_25.md
 - **Block S (`N02` dog POV (Aug run), confidence: `LIKELY` internal):** Pages/cains_jawbone_page_22.md → Pages/cains_jawbone_page_79.md → Pages/cains_jawbone_page_48.md → Pages/cains_jawbone_page_88.md → Pages/cains_jawbone_page_39.md → Pages/cains_jawbone_page_10.md → Pages/cains_jawbone_page_99.md → Pages/cains_jawbone_page_8.md → Pages/cains_jawbone_page_19.md → Pages/cains_jawbone_page_57.md → Pages/cains_jawbone_page_46.md
 - **Block R (`N09`, confidence: `MAYBE` internal):** Pages/cains_jawbone_page_68.md → Pages/cains_jawbone_page_69.md → Pages/cains_jawbone_page_95.md → Pages/cains_jawbone_page_70.md
+- **Block V0 (bridge, confidence: `MAYBE`):** Pages/cains_jawbone_page_1.md
 - **Block V (`N10` + `N39`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_14.md → Pages/cains_jawbone_page_12.md → Pages/cains_jawbone_page_50.md
 - **Block V2 (`N21`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_47.md
 - **Block X (tail, confidence: `MAYBE`):** Pages/cains_jawbone_page_9.md → Pages/cains_jawbone_page_16.md → Pages/cains_jawbone_page_76.md → Pages/cains_jawbone_page_98.md
@@ -2351,6 +2352,14 @@ These are the **highest-risk segment joins** inside the v2 full ordering draft. 
   - **Phase 6 test (2026-01-02):** overlap scan (tokenised; apostrophe-preserving and apostrophe-stripping) found only the shared token `work` (df=9) and **zero** shared low-df n‑grams (n=2–6, df≤3).
   - **Phase 6 test (2026-01-02):** df/phrase scan suggests Pages/cains_jawbone_page_1.md is more strongly pulled toward other writing-account pages than toward this boundary: Pages/cains_jawbone_page_1.md ↔ Pages/cains_jawbone_page_95.md share df==2 token `pen` plus df==2 trigram `up my pen`, and Pages/cains_jawbone_page_1.md ↔ Pages/cains_jawbone_page_59.md share df==2 token `account` plus df==2 bigram `account of`. Treat `p51 → p1` as a high-priority placeholder to replace.
   - **Outcome:** `UNCLEAR` (treat as a pure placeholder join; prioritise replacing it).
+
+- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_1.md → Pages/cains_jawbone_page_14.md
+  - **Why:** strong phrase-level echo: the 4‑gram `none of my business` appears only on these two page bodies (p1 “it is none of my business” ↔ p14 “After all it was none of my business”), giving Pages/cains_jawbone_page_1.md a concrete alternative placement signal outside the current `p51 → p1` placeholder boundary.
+  - **Falsifier:** a third page is found containing the 4‑gram `none of my business` in its page body (making the overlap non-unique), or re-reading shows the “none of my business” clauses are clearly incompatible in speaker/scene (forcing the overlap to be rhetorical coincidence only), or Pages/cains_jawbone_page_1.md is locked into a different cluster by a stronger multi-anchor continuity.
+  - **Next falsification check:** re-read the Pages/cains_jawbone_page_1.md ending and Pages/cains_jawbone_page_14.md opening for any non-lexical continuity marker (shared venue/participant/time cue) that would justify immediate adjacency direction; otherwise treat as a re-stitch lead only.
+  - **Phase 6 test (2026-01-02):** tokenised n‑gram scan confirms the 4‑gram `none of my business` is df==2, with the component 3‑grams `none of my` / `of my business` and bigrams `none of` / `my business` also df==2 for this pair.
+  - **Phase 6 test (2026-01-02):** re-read Page 1 and Page 14 around the shared phrase; no shared participant/prop/venue continuity emerged beyond the repeated “none of my business” stance. Keep as a placement lead (not a direction lock) pending a second independent anchor.
+  - **Outcome:** `UNCLEAR` (strong phrase-level overlap; direction and adjacency still unproven).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_51.md → Pages/cains_jawbone_page_17.md
   - **Why:** stronger phrase-level anchor than the current placeholder `Pages/cains_jawbone_page_51.md → Pages/cains_jawbone_page_1.md`: the bigram `my breast` appears only on these two pages (p51 “out of my breast…” ↔ p17 “in my breast…”), and the pages share additional low-frequency voice markers (`delicate`, `remember`).
