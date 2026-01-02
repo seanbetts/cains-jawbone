@@ -1734,10 +1734,12 @@ Key changes vs v1:
 - **Block W (`N06`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_66.md → Pages/cains_jawbone_page_67.md → Pages/cains_jawbone_page_73.md → Pages/cains_jawbone_page_74.md → Pages/cains_jawbone_page_75.md → Pages/cains_jawbone_page_83.md
 - **Block X (tail, confidence: `MAYBE`):** Pages/cains_jawbone_page_2.md → Pages/cains_jawbone_page_9.md → Pages/cains_jawbone_page_16.md → Pages/cains_jawbone_page_18.md → Pages/cains_jawbone_page_37.md → Pages/cains_jawbone_page_38.md → Pages/cains_jawbone_page_40.md → Pages/cains_jawbone_page_51.md → Pages/cains_jawbone_page_63.md → Pages/cains_jawbone_page_72.md → Pages/cains_jawbone_page_76.md → Pages/cains_jawbone_page_78.md → Pages/cains_jawbone_page_81.md → Pages/cains_jawbone_page_84.md → Pages/cains_jawbone_page_98.md → Pages/cains_jawbone_page_77.md → Pages/cains_jawbone_page_46.md → Pages/cains_jawbone_page_100.md
 
-### Proposed order (all 100 pages; v2.17)
+### Proposed order (all 100 pages; v2.18)
 
 Delta from v2.2 (Phase 6 tightening; keep falsifiable):
 
+- Trial re-stitch (v2.18): replace the placeholder boundary `Pages/cains_jawbone_page_70.md → Pages/cains_jawbone_page_1.md` with `Pages/cains_jawbone_page_70.md → Pages/cains_jawbone_page_96.md` (multi-anchor: page-body token `poem` appears only on Pages/cains_jawbone_page_70.md + Pages/cains_jawbone_page_96.md; both also share `written` and the phrase `in the morning`). This keeps the Café Royal / threat‑retaliation strand adjacent to the “waiting for her” café strand.
+- Trial re-stitch (v2.18): move Pages/cains_jawbone_page_72.md to precede Pages/cains_jawbone_page_1.md (df==2 bigram `alone at` + low-df `sit down`) and remove it from the provisional `Pages/cains_jawbone_page_72.md → Pages/cains_jawbone_page_49.md` bridge, so Page 1 no longer needs to follow Page 70 in the full-order draft.
 - Trial re-stitch: move `N13` (Pages/cains_jawbone_page_86.md → Pages/cains_jawbone_page_87.md) to sit immediately after Block A’s Yeats/Masefield swap (Pages/cains_jawbone_page_23.md → Pages/cains_jawbone_page_24.md), removing the weak v2.2 boundary `Pages/cains_jawbone_page_91.md → Pages/cains_jawbone_page_86.md` in favor of the stronger shared Yeats/Caroline + “poet’s lines” framing.
 - Trial re-stitch: pull Pages/cains_jawbone_page_78.md out of the tail and place immediately after Pages/cains_jawbone_page_91.md (multi-anchor bridge: page-body-unique words `handed` + `suave` shared with Page 91). Treat the new block boundary into Pages/cains_jawbone_page_4.md as a placeholder until a better successor for Page 78 is found.
 - Trial re-stitch: pull Pages/cains_jawbone_page_63.md out of the tail and place immediately after Pages/cains_jawbone_page_87.md (multi-anchor bridge: page-body-unique words `coloured` + `putting` shared with Page 87), then pull Pages/cains_jawbone_page_38.md out of the tail and place immediately after Pages/cains_jawbone_page_63.md (df==2 word `dimples` shared between Pages/cains_jawbone_page_63.md and Pages/cains_jawbone_page_38.md). Treat the new block boundary into Pages/cains_jawbone_page_33.md as a placeholder until a better successor for Page 38 is found.
@@ -1763,7 +1765,7 @@ Delta from v2.2 (Phase 6 tightening; keep falsifiable):
 - **Block D3 (`N35`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_18.md
 - **Block D4 (`N34`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_20.md
 - **Block F (`N19`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_4.md → Pages/cains_jawbone_page_58.md → Pages/cains_jawbone_page_5.md
-- **Block G (`N20` + bridge, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_72.md → Pages/cains_jawbone_page_49.md → Pages/cains_jawbone_page_13.md → Pages/cains_jawbone_page_31.md
+- **Block G (`N20` + bridge, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_49.md → Pages/cains_jawbone_page_13.md → Pages/cains_jawbone_page_31.md
 - **Block H (`N16`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_7.md → Pages/cains_jawbone_page_45.md → Pages/cains_jawbone_page_26.md → Pages/cains_jawbone_page_44.md → Pages/cains_jawbone_page_55.md
 - **Block H1 (`N29`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_37.md
 - **Block H2 (`N37`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_84.md
@@ -1775,18 +1777,18 @@ Delta from v2.2 (Phase 6 tightening; keep falsifiable):
 - **Block W (`N06`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_66.md → Pages/cains_jawbone_page_67.md → Pages/cains_jawbone_page_73.md → Pages/cains_jawbone_page_74.md → Pages/cains_jawbone_page_75.md → Pages/cains_jawbone_page_83.md
 - **Block M (`N21`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_92.md → Pages/cains_jawbone_page_42.md
 - **Block M2 (bridge, confidence: `MAYBE`):** Pages/cains_jawbone_page_2.md → Pages/cains_jawbone_page_40.md → Pages/cains_jawbone_page_51.md
-- **Block N (`N01`, confidence: `MAYBE` internal):** Pages/cains_jawbone_page_96.md → Pages/cains_jawbone_page_17.md → Pages/cains_jawbone_page_43.md → Pages/cains_jawbone_page_100.md
 - **Block O (`N32`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_62.md → Pages/cains_jawbone_page_65.md → Pages/cains_jawbone_page_90.md → Pages/cains_jawbone_page_89.md
 - **Block P (`N04`, confidence: `MAYBE` internal direction):** Pages/cains_jawbone_page_64.md → Pages/cains_jawbone_page_61.md
 - **Block Q (`N34`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_25.md
 - **Block S (`N02` dog POV (Aug run), confidence: `LIKELY` internal):** Pages/cains_jawbone_page_22.md → Pages/cains_jawbone_page_79.md → Pages/cains_jawbone_page_48.md → Pages/cains_jawbone_page_88.md → Pages/cains_jawbone_page_39.md → Pages/cains_jawbone_page_10.md → Pages/cains_jawbone_page_99.md → Pages/cains_jawbone_page_8.md → Pages/cains_jawbone_page_19.md → Pages/cains_jawbone_page_57.md → Pages/cains_jawbone_page_46.md
 - **Block R (`N09`, confidence: `MAYBE` internal):** Pages/cains_jawbone_page_68.md → Pages/cains_jawbone_page_69.md → Pages/cains_jawbone_page_95.md → Pages/cains_jawbone_page_70.md
-- **Block V0 (bridge, confidence: `MAYBE`):** Pages/cains_jawbone_page_1.md
+- **Block N (`N01`, confidence: `MAYBE` internal):** Pages/cains_jawbone_page_96.md → Pages/cains_jawbone_page_17.md → Pages/cains_jawbone_page_43.md → Pages/cains_jawbone_page_100.md
+- **Block V0 (bridge, confidence: `MAYBE`):** Pages/cains_jawbone_page_72.md → Pages/cains_jawbone_page_1.md
 - **Block V (`N10` + `N39`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_14.md → Pages/cains_jawbone_page_12.md → Pages/cains_jawbone_page_50.md
 - **Block V2 (`N21`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_47.md
 - **Block X (tail, confidence: `MAYBE`):** Pages/cains_jawbone_page_9.md → Pages/cains_jawbone_page_16.md → Pages/cains_jawbone_page_76.md → Pages/cains_jawbone_page_98.md
 
-### Phase 6 boundary tests for v2.17 (block boundaries)
+### Phase 6 boundary tests for v2.18 (block boundaries)
 
 - **Join (confidence: `LIKELY`):** Pages/cains_jawbone_page_24.md → Pages/cains_jawbone_page_86.md
   - **Why:** page-body name `Caroline` appears only on these two pages, and both open with “Next day…” framing; v2.10 uses this to justify placing `N13` immediately after Block A rather than after Page 91.
@@ -2188,13 +2190,29 @@ These are the **highest-risk segment joins** inside the v2 full ordering draft. 
   - **Update (2025-12-30):** since `N09` Sequence E (`Pages/cains_jawbone_page_68.md → Pages/cains_jawbone_page_69.md → Pages/cains_jawbone_page_95.md → Pages/cains_jawbone_page_70.md`) is now treated as `LIKELY` (unique decision-phrase bridge), deprioritise `Pages/cains_jawbone_page_70.md → Pages/cains_jawbone_page_14.md` as an adjacency unless a second, non-generic anchor to the will/inheritance strand appears.
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_70.md → Pages/cains_jawbone_page_1.md
-  - **Why:** current v2.17 block boundary after the `N09` write→aftermath chain `Pages/cains_jawbone_page_95.md → Pages/cains_jawbone_page_70.md`; the adjacency is motivated only by the shared “write an account” posture and remains a placeholder until Page 1 gains a better predecessor.
+  - **Why:** former v2.17 block boundary after the `N09` write→aftermath chain `Pages/cains_jawbone_page_95.md → Pages/cains_jawbone_page_70.md`; the adjacency was motivated only by the shared “write an account” posture and remained a placeholder.
   - **Predictions:** if this is a real adjacency, we should see at least one of: (a) the same in-world writing act continuing (same recipient, same “franked”/delivery mechanic, same location/venue); (b) a concrete shared prop (pen/ink brand, stationery, table setting); (c) a shared named participant; (d) a shared quoted source continuation; (e) a shared time cue tying “in the morning”/“to-day” across the boundary.
   - **Falsifier:** Pages/cains_jawbone_page_1.md gains a stronger anchored predecessor (multi-anchor continuity) that excludes Pages/cains_jawbone_page_70.md — especially via the existing re-stitch leads `p95 ↔ p1` (`pen` + `up my pen`) or `p43 ↔ p1` (`Aquarius`) — and/or Pages/cains_jawbone_page_70.md gains a stronger successor that excludes placing the `N01` Aquarius-pen page immediately after the Café Royal letter.
   - **Next falsification check:** directly compare the best current Page 1 predecessor candidates — Pages/cains_jawbone_page_70.md (theme-only), Pages/cains_jawbone_page_95.md (`pen` / `up my pen`), Pages/cains_jawbone_page_92.md (`watch`), Pages/cains_jawbone_page_96.md (df==2 phrase echoes `reminds me of` + `of what`), and Pages/cains_jawbone_page_14.md (`none of my business`) — and adopt whichever yields a second, non-generic continuity marker on re-read.
   - **Phase 6 test (2026-01-02):** overlap scan found **zero** shared df==2 tokens and **zero** shared low-df n‑grams (n=2–6, df≤3); the only shared low-frequency token is `since` (df=4), which is too generic to support adjacency.
   - **Phase 6 test (2026-01-02):** re-read Page 70 ending and Page 1 opening; while both are “writing/account” framed, the boundary introduces a new cast + coastal setting (Casy Ferris, sea, Aquarius pen) with no shared venue/recipient/prop continuity from the Café Royal scene.
-  - **Outcome:** `UNCLEAR` (theme-level echo only; treat as a placeholder until Page 1 gains a better predecessor).
+  - **Outcome:** `FAIL` (no positive continuity; superseded by `Pages/cains_jawbone_page_70.md → Pages/cains_jawbone_page_96.md` in v2.18).
+
+- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_70.md → Pages/cains_jawbone_page_96.md
+  - **Why:** multi-anchor lexical bridge: page-body token `poem` appears only on these two pages; both also contain page-body token `written` (shared with only one other page, Pages/cains_jawbone_page_50.md), and the phrase `in the morning` occurs on Pages/cains_jawbone_page_70.md + Pages/cains_jawbone_page_96.md + Pages/cains_jawbone_page_7.md. Re-read supports a plausible handoff (threat/anxiety after leaving the franked item “in the morning” → café waiting/meeting anxiety with a second “written poem” anecdote).
+  - **Predictions:** if this is a real adjacency, we should see at least one of: (a) continued “letter/response” posture (waiting for “her” / consequences); (b) continued anxiety about retaliation; (c) continued “poem/written” register tied to the same memory/association; (d) a time cue making the “morning” reference compatible.
+  - **Falsifier:** a third page is found containing `poem` in its page body (making the anchor non-unique), or re-reading shows the venues/casts are incompatible (p70’s Eros/Queen’s Hall corridor + franked note ↔ p96’s tea/menu waiting + Sinai anecdote), or a stronger successor for Pages/cains_jawbone_page_70.md emerges that forces Pages/cains_jawbone_page_96.md elsewhere.
+  - **Next falsification check:** re-read the Pages/cains_jawbone_page_70.md ending and Pages/cains_jawbone_page_96.md opening for any shared participant/venue detail beyond the lexical anchors (especially whether “the girl” (p70) aligns with “the possible her” (p96)).
+  - **Phase 6 test (2026-01-02):** verified `poem` appears in page bodies only on Pages/cains_jawbone_page_70.md and Pages/cains_jawbone_page_96.md; verified `in the morning` appears only on Pages/cains_jawbone_page_7.md + Pages/cains_jawbone_page_70.md + Pages/cains_jawbone_page_96.md; overlap scan also shows shared low-df tokens `written` and `try` (generic but supportive). Re-read found no contradiction.
+  - **Outcome:** `PASS` (adopt as the v2.18 successor for Pages/cains_jawbone_page_70.md; keep confidence `MAYBE`).
+
+- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_72.md → Pages/cains_jawbone_page_1.md
+  - **Why:** phrase-level sitting-alone continuity: page-body bigram `alone at` appears only on these two pages (p72 “find myself alone at last” ↔ p1 “alone at the appointed table”), and the bigram `sit down` occurs only on Pages/cains_jawbone_page_1.md + Pages/cains_jawbone_page_52.md + Pages/cains_jawbone_page_72.md. Re-read supports a plausible posture handoff (solitary sit-down decompression + reading register → solitary sit-down writing register).
+  - **Predictions:** if this is a real adjacency, we should see at least one of: (a) shared “alone at table” staging; (b) a prop/venue continuity (drink/paper/table) that carries across; (c) a time cue that makes the transition plausible.
+  - **Falsifier:** a third page is found containing `alone at` in its page body (making the overlap non-unique), or re-reading shows incompatible settings/time cues, or Pages/cains_jawbone_page_1.md gains a stronger predecessor that forces Pages/cains_jawbone_page_72.md away.
+  - **Next falsification check:** test whether Pages/cains_jawbone_page_72.md’s “magazine / short stories” register has any second continuity marker with Pages/cains_jawbone_page_1.md’s “exact account” register (shared publication name, shared person, or a repeated phrase beyond `sit down` / `alone at`).
+  - **Phase 6 test (2026-01-02):** verified `alone at` appears in page bodies only on Pages/cains_jawbone_page_1.md and Pages/cains_jawbone_page_72.md; verified `sit down` appears only on Pages/cains_jawbone_page_1.md + Pages/cains_jawbone_page_52.md + Pages/cains_jawbone_page_72.md; re-read found no contradiction but no shared named participant/venue anchor either.
+  - **Outcome:** `PASS` (adopt as the v2.18 predecessor for Pages/cains_jawbone_page_1.md; keep confidence `MAYBE`).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_96.md → Pages/cains_jawbone_page_1.md
   - **Why:** multi-anchor phrase echo: the trigram `reminds me of` and the bigram `of what` are both df==2 and shared only by these two page bodies, suggesting a non-random link between the “meeting reminiscence” voice on Pages/cains_jawbone_page_96.md and the “writing an exact account” posture on Pages/cains_jawbone_page_1.md.
