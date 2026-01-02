@@ -127,11 +127,11 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
 - **Constraint:** Pages/cains_jawbone_page_4.md ↔ Pages/cains_jawbone_page_21.md (confidence: `MAYBE`)
   - **Anchor:** page-body unique 4‑gram “my wits about me” appears only on these two pages (p4: “have my wits about me” ↔ p21: “keep my wits about me”).
   - **Falsifier:** “my wits about me” appears in a third page body, or later evidence anchors the two scenes to incompatible narrators/settings (making this a generic idiom reuse).
-- **Constraint:** Pages/cains_jawbone_page_76.md ↔ Pages/cains_jawbone_page_98.md (confidence: `MAYBE`)
+- **Constraint:** Pages/cains_jawbone_page_76.md ↔ Pages/cains_jawbone_page_98.md (confidence: `LIKELY`)
   - **Anchor:** page-body-unique decision/deliberation phrase echo: 5‑gram `I would have to think` appears only on these two pages (`p76` “I would have to think it over.” ↔ `p98` “I would have to think seriously of that.”).
   - **Falsifier:** a third page is found containing the same phrase-level echo, or later context shows the two “think” clauses refer to clearly incompatible situations/narrators (making the overlap coincidental).
   - **Phase 6 note (2025-12-31):** previously treated as a falsified cross-narrator echo in Phase 3; revived after Page 98 tail falsification scans identified this as its strongest phrase-level stitch candidate.
-  - **Phase 6 test (2025-12-31):** page-body n‑gram scan shows no second anchor (no shared prop/cast/place/quote beyond the generic phrase) → keep as a low-weight constraint until reinforced.
+  - **Phase 6 test (2026-01-02):** overlap scan found an additional low-df bigram `he stood` (df=3; also appears on Pages/cains_jawbone_page_78.md) and re-reading suggests a coherent physical hand-off; upgrade from `MAYBE`.
 - **Constraint:** Pages/cains_jawbone_page_5.md ↔ Pages/cains_jawbone_page_58.md (confidence: `CERTAIN`)
   - **Anchor:** page-body unique “went on … Browning” complaint while Henry’s serial-killing beat proceeds (“He went on about Browning.” ↔ “He went on talking about Browning.”), reinforced by the adjacent-count logic (`p58`’s “cooling remains of his fourth” ↔ `p5`’s “intended fifth”).
   - **Falsifier:** a third page-body instance of the same “went on … Browning” phrasing appears, or later evidence shows the Henry-count language is not comparable across the two scenes (different “fourth/fifth” referents) and the Browning‑talking bystanders/contexts are incompatible.
@@ -1923,13 +1923,15 @@ Delta from v2.2 (Phase 6 tightening; keep falsifiable):
   - **Phase 6 test (2026-01-01):** corpus scan confirms `interesting` and the 4‑gram `and i wondered if` appear only on Pages/cains_jawbone_page_28.md and Pages/cains_jawbone_page_15.md.
   - **Outcome:** `PASS` (multi-anchor lexical bridge; direction still provisional).
 
-- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_76.md → Pages/cains_jawbone_page_98.md
+- **Join (confidence: `LIKELY`):** Pages/cains_jawbone_page_76.md → Pages/cains_jawbone_page_98.md
   - **Why:** Pages/cains_jawbone_page_76.md ends “I would have to think it over,” and Pages/cains_jawbone_page_98.md contains “I would have to think seriously of that”; corpus scan confirms the 5‑gram `i would have to think` appears only on these two page bodies.
   - **Falsifier:** a third page is found containing the same phrase-level echo, or later context makes the two “think” clauses clearly incompatible (making the overlap coincidental).
   - **Next falsification check:** re-read the Pages/cains_jawbone_page_76.md ending and the Pages/cains_jawbone_page_98.md “think” sentence for any second independent continuity marker (shared participant, place name, or quoted source) beyond the echo.
   - **Phase 6 test (2025-12-31):** page-body n‑gram scan confirms shared 3‑gram `have to think`, shared 4‑gram `would have to think`, and shared 5‑gram `i would have to think` occur only on these two pages; no shared-unique word anchors were found.
   - **Phase 6 test (2026-01-02):** checked competition from the df==2 word overlap Pages/cains_jawbone_page_51.md ↔ Pages/cains_jawbone_page_98.md (`purple`), and found no shared low-df n‑grams (3–6) between those pages; the only shared low-df bigram was the generic `from me` (df=3). Treat `p51 ↔ p98` as a re-stitch lead only and keep `p76 → p98` as the stronger phrase-level candidate.
-  - **Outcome:** `PASS` (phrase-level echo; keep low-weight until a second anchor emerges).
+  - **Phase 6 test (2026-01-02):** overlap scan found an additional low-df bigram `he stood` (df=3) plus shared low-frequency tokens `stood` (df=4) and `less` (df=4); note `he stood` also appears on Pages/cains_jawbone_page_78.md, so it is supportive but not decisive.
+  - **Phase 6 test (2026-01-02):** re-read the Pages/cains_jawbone_page_76.md ending and Pages/cains_jawbone_page_98.md opening; the physical hand-off reads coherent (p76 “opposite me…” posture + decision to act → p98 “He stood and looked down at me…” money-hand-over), with no contradiction found.
+  - **Outcome:** `PASS` (upgrade confidence: multi-anchor + boundary coherence).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_60.md → Pages/cains_jawbone_page_91.md
   - **Why:** block-boundary into the De’Ath/Black Museum singleton; page-body word `steps` appears only on these two pages, but no phrase-level carryover or second independent continuity marker is currently known.
@@ -2274,6 +2276,7 @@ These are the **highest-risk segment joins** inside the v2 full ordering draft. 
   - **Next falsification check:** re-read the Pages/cains_jawbone_page_16.md ending and Pages/cains_jawbone_page_72.md opening for any concrete continuity marker (shared named participant, shared venue/place, or prop carryover) and run page-body n‑gram + df==2 token scans for replacement leads.
   - **Phase 6 test (2026-01-01):** page-body scan found **zero** shared corpus-unique 3‑grams (or longer), **zero** shared corpus-unique 4‑grams (or longer), and **zero** shared df==2 word anchors between the pages.
   - **Phase 6 test (2026-01-01):** page-body df==2 token scan suggests both pages likely stitch elsewhere: Pages/cains_jawbone_page_16.md uniquely shares `naturally` with Pages/cains_jawbone_page_94.md and `ceased` with Pages/cains_jawbone_page_90.md, and also uniquely shares the tokenised trigram `back to henry` with Pages/cains_jawbone_page_44.md; Pages/cains_jawbone_page_72.md uniquely shares `pleasant` with Pages/cains_jawbone_page_49.md and `stories` with Pages/cains_jawbone_page_92.md. Treat these as re-stitch leads only until reinforced by a second independent continuity marker.
+  - **Phase 6 test (2026-01-02):** additional re-stitch lead for Pages/cains_jawbone_page_16.md: the trigram `could make up` appears only on Pages/cains_jawbone_page_16.md and Pages/cains_jawbone_page_6.md; no second independent continuity marker is known, so treat as an echo only.
   - **Outcome:** `FAIL` (not used in v2.17).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_16.md → Pages/cains_jawbone_page_18.md
@@ -2377,6 +2380,7 @@ These are the **highest-risk segment joins** inside the v2 full ordering draft. 
   - **Next falsification check:** search for a second anchor beyond generic resolve language (shared named participant, shared object/prop, shared place/venue, or phrase-level continuation that is corpus-unique).
   - **Phase 6 test (2025-12-31):** page-body n‑gram scan found no shared 5‑grams and no shared-unique word anchors; the strongest overlaps are generic 4‑grams (`I would have to`, `I felt I could`) that also occur on other pages. Treat as a placeholder join.
   - **Phase 6 test (2026-01-01):** corpus scan found the trigram `as henry said` appears only on Pages/cains_jawbone_page_76.md and Pages/cains_jawbone_page_78.md (and the bigram `henry said` is also unique to this pair), so this is no longer a “generic resolve language only” candidate. Treat this as a concrete shared-phrase anchor, but do not adopt without a second independent continuity marker (shared participant/prop/place/time) and without resolving competition from the stronger phrase-level `Pages/cains_jawbone_page_76.md → Pages/cains_jawbone_page_98.md` echo.
+  - **Phase 6 test (2026-01-02):** overlap scan found additional low-df overlaps (`stood`, df=4; `thoughts`, df=5; trigram `felt i could`, df=3), but no second non-lexical continuity marker (shared participant/prop/place/time) is currently known.
   - **Outcome:** `UNCLEAR`
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_78.md → Pages/cains_jawbone_page_81.md
