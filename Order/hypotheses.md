@@ -196,12 +196,13 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
 
 ### Candidate cross-narrator overlap (falsify before treating as a constraint)
 
-- **Candidate:** Pages/cains_jawbone_page_6.md ↔ Pages/cains_jawbone_page_81.md (`N12` ↔ `N28`) (confidence: `MAYBE`)
+- **Candidate:** Pages/cains_jawbone_page_6.md ↔ Pages/cains_jawbone_page_81.md (`N12` ↔ `N28`) (confidence: `MAYBE`, disposition: `FALSIFIED`)
   - **Prior anchors:** page-body words `band` and `speckled` appear only on these two pages (Doyle “Speckled Band” allusion on both sides), and the trigram `I could make` appears only on these two page bodies (different contexts).
   - **Why it might matter:** could be a deliberate echo linking the poison-logistics voice to the window-throw vignette, or a marker that the same narrator returns later with a “no detective” posture.
   - **Disconfirming evidence:** if the Sherlock Holmes allusion is the only overlap (no shared voice tells, cast, or props), treat as an isolated allusion rather than a continuity signal.
   - **Next falsification check:** check for any second anchor tying the scenes (bell-wire/window motif, repeated “detective” self-reference, shared poison/botany register, or shared named person).
   - **Phase 6 test (2025-12-31):** corpus scan confirms page-body words `band` and `speckled` appear only on these two pages and the trigram `i could make` appears only here; page-body n‑gram scan found **zero** shared 4‑grams (or longer) and no shared participant/prop/place anchor. Outcome: `PASS` (multi-anchor lexical bridge; still cross-narrator and provisional).
+  - **Phase 6 test (2026-01-02):** re-read Pages/cains_jawbone_page_81.md ending and Pages/cains_jawbone_page_6.md opening for any second continuity anchor; overlap remains confined to the Speckled Band layer (bell-wire nightmare ↔ misheard last words) plus the generic trigram `I could make`, with no shared named participant/prop/time cue. Outcome: `FAIL` (treat as an isolated allusion, not a continuity constraint).
 - **Candidate:** Pages/cains_jawbone_page_24.md ↔ Pages/cains_jawbone_page_86.md (`N03` ↔ `N13`) (confidence: `LIKELY`)
   - **Prior anchors:** page-body unique `Caroline` name appears only on these pages (plain “Caroline” ↔ “Caroline Jasmine”), Pages/cains_jawbone_page_24.md foregrounds “wild jasmine” as a trigger motif while Pages/cains_jawbone_page_86.md uses “Jasmine” as the key proper name, and both pages quote Yeats’s “Song of Red Hanrahan” (different lines).
   - **Why it might matter:** this is the strongest current bridge candidate for re-stitching the weak v2 boundary around Pages/cains_jawbone_page_91.md → Pages/cains_jawbone_page_86.md, and may indicate the same household/cast and narrator voice under different registers.
@@ -1808,7 +1809,8 @@ Delta from v2.2 (Phase 6 tightening; keep falsifiable):
   - **Falsifier:** a third page is found containing `band`, `speckled`, or the trigram `i could make` in its page body (making the overlap non-unique), or Pages/cains_jawbone_page_81.md is anchored elsewhere by a stronger multi-anchor (shared cast/prop/time) that forces it away from Pages/cains_jawbone_page_6.md.
   - **Next falsification check:** re-read the Pages/cains_jawbone_page_81.md ending and Pages/cains_jawbone_page_6.md opening for any continuity beyond the Speckled Band layer (shared bell-wire/window handling, shared named participant, or shared poison/botany register).
   - **Phase 6 test (2025-12-31):** page-body n‑gram scan found **zero** shared 4‑grams (or longer); corpus scan confirms `band` + `speckled` and `i could make` are unique to this pair.
-  - **Outcome:** `PASS` (multi-anchor lexical bridge; direction still provisional).
+  - **Phase 6 test (2026-01-02):** re-read the Page 81 → Page 6 boundary; no continuity marker appears beyond the shared Speckled Band allusion (no shared cast/prop/time; Page 81’s water/window killing vignette does not hand off into Page 6’s house/foxglove register). Treat as a re-stitch lead only.
+  - **Outcome:** `UNCLEAR` (lexical bridge confirmed; no second continuity anchor).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_42.md → Pages/cains_jawbone_page_1.md
   - **Why:** new v2.11 block boundary placeholder after restoring Pages/cains_jawbone_page_2.md to the tail; no scene/prop/cast continuity is currently known.

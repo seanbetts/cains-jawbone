@@ -98,6 +98,7 @@ Track *in-world* death/murder hypotheses separately from page-ordering hypothese
   - **Narrative tells:** Self-exculpation (“thank goodness, I was no detective”); black humour (“pulled up his socks… heaved outward”); deliberate death-wish framing (“He was asking for it”).
   - **Evidence summary:** The page narrates a direct killing act with intent and an explicit “victim” label; outcome is treated as likely fatal (“with any luck, was dead”).
   - **Falsifiers:** Later pages show the victim survives, or the whole incident resolves as a quoted story/metaphor rather than an in-world event.
+  - **Phase 6 test (2026-01-02):** re-read Pages/cains_jawbone_page_81.md and cross-checked the only strong lexical bridge candidate (Pages/cains_jawbone_page_6.md) for any second continuity anchor; none found. Keep `E06` as an isolated in-world killing vignette until a later page identifies `P75` or `P104` by a shared cast/prop/time marker.
 
 - `E07` (confidence: `0.10`; status: `downgraded`)
   - **Pages:** Pages/cains_jawbone_page_89.md
