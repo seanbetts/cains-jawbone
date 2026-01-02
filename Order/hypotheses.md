@@ -2235,6 +2235,13 @@ These are the **highest-risk segment joins** inside the v2 full ordering draft. 
   - **Phase 6 test (2026-01-02):** overlap scan (tokenised; apostrophe-preserving and apostrophe-stripping) confirms the only shared low-df n‑gram is `me from` (df==2); shared tokens df≤10 are only `let` (df=9). No shared low-df n‑grams (n=3–6, df≤3) were found.
   - **Outcome:** `UNCLEAR` (phrase-level echo only; treat as a placeholder gate pending a second continuity marker).
 
+- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_47.md → Pages/cains_jawbone_page_76.md
+  - **Why:** stronger phrase-level continuity than `Pages/cains_jawbone_page_47.md → Pages/cains_jawbone_page_9.md`: the bigram `opposite me` (df==2) and trigram `opposite me i` (df==2) appear only on these two pages, and both use the same “looking … opposite me” posture as the hinge into recollection (p47 “looking across at the figure opposite me…” ↔ p76 “Looking over at … opposite me, I could not help recalling…”).
+  - **Falsifier:** a third page is found containing the `opposite me` / `opposite me i` bundle (making the anchor non-unique), or re-reading confirms the “opposite me” referent/scene is incompatible (forcing the overlap to be rhetorical coincidence only), or Pages/cains_jawbone_page_76.md gains a stronger predecessor inside its own late-thread that excludes taking Pages/cains_jawbone_page_47.md as predecessor.
+  - **Next falsification check:** treat this primarily as a re-stitch lead for replacing the current tail gate; test the 2-step chain `Pages/cains_jawbone_page_47.md → Pages/cains_jawbone_page_76.md → Pages/cains_jawbone_page_98.md` against current v2.16 tail structure (does it reduce placeholders without breaking any higher-confidence joins?).
+  - **Phase 6 test (2026-01-02):** overlap scan confirms shared low-df n‑grams `opposite me` (df==2) and `opposite me i` (df==2); shared tokens df≤10 are limited to `opposite` (df=4), `thoughts` (df=5), and `looking` (df=8).
+  - **Outcome:** `UNCLEAR` (strong phrase-level anchor; keep as a candidate replacement for `p47→p9` until a second independent continuity marker is found).
+
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_9.md → Pages/cains_jawbone_page_16.md
   - **Why:** current v2.16 tail adjacency; no continuity marker is currently known (bell/mineralogy lecture voice → cosmetics/music-hall voice).
   - **Falsifier:** Pages/cains_jawbone_page_9.md is anchored into a different bell/academic predecessor by a concrete continuity marker (e.g., a second page that repeats Charles Day / Peebles / the Day‑Knight pun), and/or Pages/cains_jawbone_page_16.md gains a stronger successor/predecessor that forces it away from the tail.
