@@ -1830,6 +1830,7 @@ Delta from v2.2 (Phase 6 tightening; keep falsifiable):
   - **Phase 6 test (2026-01-01):** page-body scan found **zero** shared corpus-unique 3‑grams (or longer) and **zero** shared df==2 word anchors between the pages; treat as a pure placeholder join.
   - **Phase 6 test (2026-01-01):** page-body df==2 token scan suggests Pages/cains_jawbone_page_42.md’s strongest lexical tie remains Pages/cains_jawbone_page_2.md (`figures`, `surmised`), and a weaker single-token lead exists to Pages/cains_jawbone_page_94.md (`aware`). Treat as re-stitch leads only until reinforced by non-lexical continuity.
   - **Phase 6 test (2026-01-02):** page-body n‑gram scan suggests a stronger competing successor candidate exists: the bigram `near me` appears only on Pages/cains_jawbone_page_42.md and Pages/cains_jawbone_page_38.md (both describe an observed woman “sitting near me”, and share low-df tokens `near`/`sitting`/`excellent`). Re-read still found no shared named participant/prop/time/quote continuity, so treat as a re-stitch lead only until reinforced.
+  - **Phase 6 test (2026-01-02):** page-body overlap scan for Pages/cains_jawbone_page_42.md ↔ Pages/cains_jawbone_page_1.md found **zero** shared df==2 tokens and **zero** shared low-df n‑grams (n=2–6, df≤3). Re-read found no continuity marker (cast/prop/place/time/quote). Keep this join as a pure placeholder until Page 42 gains a positive successor.
   - **Outcome:** `UNCLEAR` (treat as a pure placeholder join).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_50.md → Pages/cains_jawbone_page_47.md
