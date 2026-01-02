@@ -2333,6 +2333,13 @@ These are the **highest-risk segment joins** inside the v2 full ordering draft. 
   - **Phase 6 test (2025-12-31):** page-body n‑gram scan found **zero** shared 3‑grams (or longer) and **zero** shared-unique word anchors between the pages. Treat as a pure placeholder join.
   - **Outcome:** `UNCLEAR`
 
+- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_72.md → Pages/cains_jawbone_page_49.md
+  - **Why:** multi-anchor phrase echo: the 5‑gram `but it was pleasant to` appears only on these two pages, and the page-body word `pleasant` also appears only on this pair (p72 “pleasant to sit down…” ↔ p49 “pleasant to collect oneself…”), making this a strong re-stitch lead for pulling Page 72 out of the late tail and placing it nearer the `N20`/Henry-introduction material.
+  - **Falsifier:** a third page is found containing either the 5‑gram `but it was pleasant to` or the token `pleasant` in its page body (making the overlap non-unique), or Pages/cains_jawbone_page_49.md is shown to have a locked predecessor that excludes taking Pages/cains_jawbone_page_72.md as predecessor (e.g., via a quote continuation or shared cast/venue).
+  - **Next falsification check:** re-read the p72 ending against the p49 opening to see whether p49’s “these occasions” can plausibly refer to p72’s “emotional times”, and confirm that adopting this would not break the apparent Blake-quote continuation `Pages/cains_jawbone_page_49.md → Pages/cains_jawbone_page_13.md`.
+  - **Phase 6 test (2026-01-02):** overlap scan found multiple shared low-df n‑grams (including the 5‑gram `but it was pleasant to`, df==2) plus the df==2 token `pleasant`; no second cast/prop/venue continuity marker is yet known.
+  - **Outcome:** `UNCLEAR` (strong phrase-level overlap; keep as a candidate predecessor for Page 49 and alternate placement for Page 72).
+
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_72.md → Pages/cains_jawbone_page_76.md
   - **Why:** current v2 tail adjacency; no concrete continuity marker is known.
   - **Falsifier:** Pages/cains_jawbone_page_76.md is shown to belong in a different murder-deliberation run (e.g., via the strong phrase-level `p76 ↔ p98` echo), or Pages/cains_jawbone_page_72.md is anchored into a different block by a stronger multi-anchor link.
