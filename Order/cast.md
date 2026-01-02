@@ -68,7 +68,7 @@ Track people as candidates with evolving roles. This file is deliberately probab
   - **Role candidate:** `murderer`
   - **Confidence (0.0–1.0):** 0.55
   - **Supporting pages:** Pages/cains_jawbone_page_77.md
-  - **Evidence summary:** Confesses a first killing (“it was my first”) and describes immediate bodily aftermath, while naming the implement “Compact”.
+  - **Evidence summary:** Confesses a first killing (“it was my first”) and describes immediate bodily aftermath (warm→cold ankles), naming the implement “Compact” (LIKELY a portable hypodermic syringe model; see `Indexes/objects_motifs.md`).
   - **Falsifiers:** “my first” is shown to be non-lethal/metaphorical, “Compact” is not a means of harm, or this narrator is later identified as the same person as `P107` (making the murder count/identity model need revision).
   - **Status:** `active`
 
