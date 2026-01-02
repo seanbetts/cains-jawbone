@@ -1606,6 +1606,7 @@ Template:
 - **Sequence (confidence: MAYBE):** `Pages/cains_jawbone_page_68.md → Pages/cains_jawbone_page_69.md`
   - **Why:** Both pages sit in the same “old man” thread: Pages/cains_jawbone_page_68.md’s “last crucial meeting” + suspected eavesdropping is followed by Pages/cains_jawbone_page_69.md’s late-night attempt to “collect myself” after the old man is “done slowly to death.”
   - **Note:** treat as a narrative-continuity chain within `N09`, not a phrase-level lock.
+  - **Phase 6 test (2026-01-02):** token df scan found no shared tokens with df≤4 and no shared low-df n‑grams (n=2–6, df≤3); the only shared token with df≤10 is `look` (df=5). Treat this as a narrative-only hypothesis and prioritise testing alternative predecessors for Pages/cains_jawbone_page_69.md (including the stronger lexical candidate Pages/cains_jawbone_page_83.md) before adopting as an adjacency.
   - **Disconfirming evidence:** “old man” is generic or the pronoun targets differ across pages.
 
 - **Sequence (confidence: CERTAIN):** `Pages/cains_jawbone_page_65.md → Pages/cains_jawbone_page_90.md`
