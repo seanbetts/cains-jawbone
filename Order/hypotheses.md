@@ -1834,7 +1834,7 @@ Delta from v2.2 (Phase 6 tightening; keep falsifiable):
   - **Outcome:** `UNCLEAR` (lexical bridge confirmed; no second continuity anchor).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_42.md → Pages/cains_jawbone_page_1.md
-  - **Why:** new v2.11 block boundary placeholder after restoring Pages/cains_jawbone_page_2.md to the tail; no scene/prop/cast continuity is currently known.
+  - **Why:** former v2.11 block boundary placeholder; not used in v2.16 after adopting the stronger Pages/cains_jawbone_page_42.md → Pages/cains_jawbone_page_2.md successor candidate.
   - **Note:** v2.10 used the word-only bridge Pages/cains_jawbone_page_42.md → Pages/cains_jawbone_page_2.md (page-body-unique words `figures` + `surmised`), but Pages/cains_jawbone_page_83.md → Pages/cains_jawbone_page_9.md was actively disfavoured, and restoring Pages/cains_jawbone_page_2.md to the tail enables the stronger Pages/cains_jawbone_page_83.md → Pages/cains_jawbone_page_2.md stitch instead.
   - **Falsifier:** Pages/cains_jawbone_page_42.md gains a stronger successor (shared participant/prop/place/time or phrase-level continuation) that excludes Pages/cains_jawbone_page_1.md, or Pages/cains_jawbone_page_1.md gains a stronger predecessor inside `N01` that excludes Pages/cains_jawbone_page_42.md.
   - **Next falsification check:** scan for any non-generic continuity marker (named person, quoted source continuation, or a repeated venue cue) that would justify adjacency; keep Pages/cains_jawbone_page_42.md → Pages/cains_jawbone_page_2.md as an alternate candidate until a second non-generic anchor appears.
@@ -1843,9 +1843,9 @@ Delta from v2.2 (Phase 6 tightening; keep falsifiable):
   - **Phase 6 test (2026-01-02):** page-body overlap scan for Pages/cains_jawbone_page_42.md ↔ Pages/cains_jawbone_page_94.md found only the df==2 word `aware` plus the generic bigram `you i` (df=3), with no shared low-df n‑grams (n=3–6, df≤3). Treat `aware` as a low-weight re-stitch lead only (do not adopt as a successor candidate).
   - **Phase 6 test (2026-01-02):** page-body overlap scan for Pages/cains_jawbone_page_42.md ↔ Pages/cains_jawbone_page_38.md confirms the only non-generic shared n‑gram is the bigram `near me` (df==2); no shared low-df n‑grams (n=3–6, df≤3) were found, and the only other low-df bigram overlap is the generic `you i` (df=3). Treat as a re-stitch lead only until reinforced by a second anchor (shared participant/prop/time/quote).
   - **Phase 6 test (2026-01-02):** page-body overlap scan for Pages/cains_jawbone_page_42.md ↔ Pages/cains_jawbone_page_47.md found **zero** shared df≤5 word anchors and **zero** shared low-df n‑grams (n=2–6, df≤3). Treat Pages/cains_jawbone_page_47.md as same-voice evidence only, not a successor candidate.
-  - **Phase 6 test (2026-01-02):** page-body overlap scan for Pages/cains_jawbone_page_42.md ↔ Pages/cains_jawbone_page_1.md found **zero** shared df==2 tokens and **zero** shared low-df n‑grams (n=2–6, df≤3). Re-read found no continuity marker (cast/prop/place/time/quote). Keep this join as a pure placeholder until Page 42 gains a positive successor.
+  - **Phase 6 test (2026-01-02):** page-body overlap scan for Pages/cains_jawbone_page_42.md ↔ Pages/cains_jawbone_page_1.md found **zero** shared df==2 tokens and **zero** shared low-df n‑grams (n=2–6, df≤3). Re-read found no continuity marker (cast/prop/place/time/quote). Do not use in v2.16 now that `Pages/cains_jawbone_page_42.md → Pages/cains_jawbone_page_2.md` is preferred.
   - **Phase 6 test (2026-01-02):** re-read Pages/cains_jawbone_page_42.md and Pages/cains_jawbone_page_2.md: the multi-anchor lexical bridge (`figures` + `surmised` + df==2 bigram `i surmised`) is real and both pages describe Henry positioned by an observed woman, but no prop/venue/time continuity beyond that emerged, and Page 2’s opening “plunged… figures and letters” remains ambiguous (newspaper vs other decoding). Treat `Pages/cains_jawbone_page_42.md → Pages/cains_jawbone_page_2.md` as the top successor candidate to replace this placeholder if a second independent anchor appears.
-  - **Outcome:** `UNCLEAR` (treat as a pure placeholder join).
+  - **Outcome:** `FAIL` (not used in v2.16; keep only as a documented non-fit).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_50.md → Pages/cains_jawbone_page_47.md
   - **Why:** page-body words `begin` and `straight` appear only on these two pages, and the trigram `i always think` appears only on these two page bodies; v2.10 uses this to give Page 50 a multi-anchor successor without breaking the hard Pages/cains_jawbone_page_12.md → Pages/cains_jawbone_page_50.md epigram continuation lock.
@@ -1855,13 +1855,13 @@ Delta from v2.2 (Phase 6 tightening; keep falsifiable):
   - **Outcome:** `PASS` (multi-anchor lexical bridge; direction still provisional).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_47.md → Pages/cains_jawbone_page_66.md
-  - **Why:** new v2.10 block boundary placeholder after extracting Pages/cains_jawbone_page_28.md away from the Page 47 successor slot; no scene/prop/cast continuity is currently known.
+  - **Why:** former v2.10 block boundary placeholder; not used in v2.16 now that Pages/cains_jawbone_page_47.md is used as the tail gate into Pages/cains_jawbone_page_9.md.
   - **Falsifier:** Pages/cains_jawbone_page_47.md gains a stronger successor (shared participant/prop/place/time or phrase-level continuation) that excludes Pages/cains_jawbone_page_66.md, or Pages/cains_jawbone_page_66.md gains a stronger predecessor inside `N06` that excludes Pages/cains_jawbone_page_47.md.
   - **Next falsification check:** scan for any shared non-generic anchor (named person, object, quoted source, or phrase-level continuation) to justify adjacency.
   - **Phase 6 test (2026-01-01):** page-body n‑gram scan found **zero** shared 3‑grams (or longer) and **zero** shared-unique word anchors between the pages.
   - **Phase 6 test (2026-01-01):** page-body df==2 token scan suggests likely replacement directions exist: Pages/cains_jawbone_page_47.md has multi-token overlaps with Pages/cains_jawbone_page_73.md (`river`, `thunder`) and single-token overlaps with Pages/cains_jawbone_page_67.md (`gasping`) / Pages/cains_jawbone_page_71.md (`hot`), while Pages/cains_jawbone_page_66.md has a single-token overlap with Pages/cains_jawbone_page_50.md (`neither`) and a voice-internal overlap with Pages/cains_jawbone_page_73.md (`initiation`). Treat as re-stitch leads only; do not upgrade without a second independent continuity marker.
   - **Phase 6 test (2026-01-01):** page-body n‑gram scan suggests Pages/cains_jawbone_page_66.md has additional weak re-stitch leads: the 4‑gram `in front of me` appears only on Pages/cains_jawbone_page_66.md and Pages/cains_jawbone_page_37.md, and the 4‑gram `i wished i could` appears only on Pages/cains_jawbone_page_66.md and Pages/cains_jawbone_page_6.md. Treat as low-weight only (both phrases are generic and lack a second scene/prop anchor).
-  - **Outcome:** `UNCLEAR` (treat as a pure placeholder join).
+  - **Outcome:** `UNCLEAR` (not used in v2.16; keep as an alternate successor candidate only).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_91.md → Pages/cains_jawbone_page_78.md
   - **Why:** page-body words `handed` and `suave` appear only on these two pages; this is stronger multi-anchor support than the removed v2.3 placeholder `Pages/cains_jawbone_page_91.md → Pages/cains_jawbone_page_4.md` (single-word `snowy` + generic overlap only).
@@ -2218,14 +2218,21 @@ These are the **highest-risk segment joins** inside the v2 full ordering draft. 
   - **Outcome:** `FAIL` (reject as a v2.12 adjacency; keep only as a documented non-fit and re-stitch lead source for Pages/cains_jawbone_page_9.md).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_51.md → Pages/cains_jawbone_page_9.md
-  - **Why:** current v2.16 tail adjacency; no shared participant/prop/place/quote continuation is currently known (Whitman-heavy travel + bodily self-monitoring voice ↔ bell-summoning mineralogy lecturer voice).
+  - **Why:** former v2.15 tail adjacency; removed in v2.16 after moving Page 51 into the `Pages/cains_jawbone_page_2.md → Pages/cains_jawbone_page_40.md → Pages/cains_jawbone_page_51.md` bridge and using Pages/cains_jawbone_page_47.md as the tail gate into Page 9.
   - **Falsifier:** Pages/cains_jawbone_page_51.md gains a stronger anchored successor (shared participant/place/prop or phrase-level continuation) that excludes Pages/cains_jawbone_page_9.md, or Pages/cains_jawbone_page_9.md gains a stronger anchored predecessor (Charles Day/Peebles/lecture continuity) that excludes Pages/cains_jawbone_page_51.md.
   - **Next falsification check:** scan for any shared named participant/venue/quotation cue; run page-body n‑gram scan + df==2 token scan for replacement leads on both sides.
   - **Phase 6 test (2026-01-01):** page-body scan found **zero** shared corpus-unique 3‑grams (or longer), **zero** shared corpus-unique 4‑grams (or longer), and **zero** shared df==2 word anchors between the pages.
   - **Phase 6 test (2026-01-01):** page-body df==2 token scan suggests both pages likely stitch elsewhere: Pages/cains_jawbone_page_51.md uniquely shares `favourite` with Pages/cains_jawbone_page_41.md, `cool` with Pages/cains_jawbone_page_47.md, `purple` with Pages/cains_jawbone_page_98.md, `thee` with Pages/cains_jawbone_page_60.md, and `smoke` with Pages/cains_jawbone_page_75.md; it also shares the df==2 tokenised 4‑gram `after all i was` (plus the df==2 trigram `all i was`) with Pages/cains_jawbone_page_70.md. Meanwhile Pages/cains_jawbone_page_9.md uniquely shares `finger` with Pages/cains_jawbone_page_12.md, `assistant` with Pages/cains_jawbone_page_35.md, `absence` with Pages/cains_jawbone_page_89.md, `earth` with Pages/cains_jawbone_page_25.md, and `lower` with Pages/cains_jawbone_page_43.md. Treat as re-stitch leads only until reinforced by non-lexical continuity.
   - **Phase 6 test (2026-01-02):** replicated overlap scan confirms Pages/cains_jawbone_page_51.md ↔ Pages/cains_jawbone_page_9.md share no low-df n‑grams (n=2–6, df≤3). Separately, Pages/cains_jawbone_page_51.md has an additional re-stitch lead to Pages/cains_jawbone_page_17.md via the df==2 bigram `my breast` (and shared low-df word `delicate`), but no second non-generic continuity marker is yet known to justify moving it into `N01`. Treat `p51→p9` as a placeholder join and prioritise replacing it.
   - **Phase 6 test (2026-01-02):** computed shared-token doc frequencies across all page bodies (apostrophe-preserving word tokenisation): Pages/cains_jawbone_page_51.md ↔ Pages/cains_jawbone_page_9.md share **no** tokens with df≤5, reinforcing that no second anchor exists via lexical rarity (generic overlap only).
-  - **Outcome:** `UNCLEAR` (treat as a pure placeholder join pending a positive stitch).
+  - **Outcome:** `FAIL` (not used in v2.16; keep only as a documented non-fit).
+
+- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_47.md → Pages/cains_jawbone_page_9.md
+  - **Why:** page-body bigram `me from` appears only on these two pages (p47 “wean me from…” ↔ p9 “pluck me from…”), making this the strongest currently-known phrase-level echo for moving from Page 47 into the tail opener Page 9.
+  - **Falsifier:** Pages/cains_jawbone_page_9.md gains a stronger anchored predecessor (e.g., via its df==2 tokens `finger` ↔ Pages/cains_jawbone_page_12.md and `assistant` ↔ Pages/cains_jawbone_page_35.md) that excludes taking Pages/cains_jawbone_page_47.md as predecessor, and/or Pages/cains_jawbone_page_47.md gains a stronger successor with a second independent continuity marker (shared participant/prop/place/time).
+  - **Next falsification check:** re-read the boundary for narrator/setting incompatibility and search for a second independent anchor beyond `me from` (shared participant/prop/place/time).
+  - **Phase 6 test (2026-01-02):** overlap scan (tokenised; apostrophe-preserving and apostrophe-stripping) confirms the only shared low-df n‑gram is `me from` (df==2); shared tokens df≤10 are only `let` (df=9). No shared low-df n‑grams (n=3–6, df≤3) were found.
+  - **Outcome:** `UNCLEAR` (phrase-level echo only; treat as a placeholder gate pending a second continuity marker).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_9.md → Pages/cains_jawbone_page_16.md
   - **Why:** current v2.16 tail adjacency; no continuity marker is currently known (bell/mineralogy lecture voice → cosmetics/music-hall voice).
@@ -2287,17 +2294,24 @@ These are the **highest-risk segment joins** inside the v2 full ordering draft. 
   - **Phase 6 test (2025-12-31):** page-body n‑gram scan found no shared 4‑grams (or longer); only the generic 3‑gram `I began to` overlaps. Treat this as a low-weight motif overlap only (word-level + shared Whitman embedding), not a join lock.
   - **Phase 6 test (2026-01-01):** re-read Pages/cains_jawbone_page_40.md ending and Pages/cains_jawbone_page_51.md opening; both pages sit in the same travel posture (p40 “approaching journey’s end… I did not linger” after passing “Long Ditton” ↔ p51 “not staying, but only passing through”), supporting this as a coherent within-voice continuation when combined with the shared Whitman embedding + unique `calls` overlap.
   - **Phase 6 test (2026-01-02):** replicated overlap scan found no additional shared df==2 tokens beyond `calls` and no shared low-df n‑grams (n=2–6, df≤3). Keep this as a travel/voice continuity candidate, but do not upgrade without a second concrete anchor (shared named participant/venue/prop).
-  - **Outcome:** `PASS` (best available successor for Pages/cains_jawbone_page_40.md in the current tail; keep confidence `MAYBE`).
+  - **Outcome:** `PASS` (best available successor for Pages/cains_jawbone_page_40.md in the current bridge block; keep confidence `MAYBE`).
+
+- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_51.md → Pages/cains_jawbone_page_1.md
+  - **Why:** current v2.16 block boundary after the Whitman-heavy bridge `Pages/cains_jawbone_page_2.md → Pages/cains_jawbone_page_40.md → Pages/cains_jawbone_page_51.md`; no scene/prop/cast continuity is currently known.
+  - **Falsifier:** Pages/cains_jawbone_page_51.md gains a stronger successor (shared participant/prop/place/time or phrase-level continuation) that excludes Pages/cains_jawbone_page_1.md, and/or Pages/cains_jawbone_page_1.md gains a stronger predecessor (multi-anchor continuity, or a stronger df==2/phrase tie such as `watch` ↔ Pages/cains_jawbone_page_92.md or `pen` ↔ Pages/cains_jawbone_page_95.md).
+  - **Next falsification check:** re-read the boundary for any continuity/contradiction (voice, setting, time cue), and scan for any shared low-df n‑grams/tokens that would justify adjacency; if absent, prioritise moving either Page 51 or Page 1 to a better-anchored neighbour.
+  - **Phase 6 test (2026-01-02):** overlap scan (tokenised; apostrophe-preserving and apostrophe-stripping) found only the shared token `work` (df=9) and **zero** shared low-df n‑grams (n=2–6, df≤3).
+  - **Outcome:** `UNCLEAR` (treat as a pure placeholder join; prioritise replacing it).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_51.md → Pages/cains_jawbone_page_63.md
-  - **Why:** current v2 tail adjacency; no shared participant/prop/place/quote continuation is known.
+  - **Why:** former v2 tail adjacency; not used in v2.16 after moving Pages/cains_jawbone_page_63.md into `Pages/cains_jawbone_page_87.md → Pages/cains_jawbone_page_63.md → Pages/cains_jawbone_page_38.md`.
   - **Falsifier:** Pages/cains_jawbone_page_63.md gains a stronger anchored predecessor that forces it out of this tail pocket, and/or Pages/cains_jawbone_page_51.md gains a stronger, more concrete successor candidate.
   - **Next falsification check:** search for any second, non-generic anchor linking the pages (shared named entity, shared quoted source fragment, shared distinctive object/venue, or a phrase-level continuation).
   - **Phase 6 test (2025-12-31):** page-body n‑gram scan found **zero** shared 3‑grams (or longer) and **zero** shared-unique word anchors between Pages/cains_jawbone_page_51.md and Pages/cains_jawbone_page_63.md. Treat this as a pure placeholder join pending a positive stitch.
   - **Outcome:** `UNCLEAR`
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_63.md → Pages/cains_jawbone_page_72.md
-  - **Why:** current v2 tail adjacency; no concrete continuity marker is known.
+  - **Why:** former v2 tail adjacency; not used in v2.16 (Pages/cains_jawbone_page_63.md now feeds Pages/cains_jawbone_page_38.md, and Pages/cains_jawbone_page_72.md sits in the late tail).
   - **Falsifier:** Pages/cains_jawbone_page_72.md is anchored into a non-tail block by a stronger multi-anchor link (shared prop/cast/place/quote), forcing it out of this tail pocket, or Pages/cains_jawbone_page_63.md is shown to belong to a different desserts/“Henry cap” run with a different successor.
   - **Next falsification check:** search for a second anchor beyond generic “I…” scaffolding (shared named participant/venue, shared quoted source, or shared food title).
   - **Phase 6 test (2025-12-31):** page-body n‑gram scan found **zero** shared 3‑grams (or longer) and **zero** shared-unique word anchors between the pages. Treat as a pure placeholder join.
