@@ -2311,6 +2311,13 @@ These are the **highest-risk segment joins** inside the v2 full ordering draft. 
   - **Phase 6 test (2026-01-02):** overlap scan (tokenised; apostrophe-preserving and apostrophe-stripping) found only the shared token `work` (df=9) and **zero** shared low-df n‑grams (n=2–6, df≤3).
   - **Outcome:** `UNCLEAR` (treat as a pure placeholder join; prioritise replacing it).
 
+- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_51.md → Pages/cains_jawbone_page_17.md
+  - **Why:** stronger phrase-level anchor than the current placeholder `Pages/cains_jawbone_page_51.md → Pages/cains_jawbone_page_1.md`: the bigram `my breast` appears only on these two pages (p51 “out of my breast…” ↔ p17 “in my breast…”), and the pages share additional low-frequency voice markers (`delicate`, `remember`).
+  - **Falsifier:** a third page is found containing the bigram `my breast` (making the anchor non-unique), or re-reading confirms the frames/settings are incompatible (forcing the overlap to be rhetorical coincidence only), or Pages/cains_jawbone_page_17.md gains a stronger predecessor inside its own strand that excludes taking Pages/cains_jawbone_page_51.md as predecessor.
+  - **Next falsification check:** re-read the boundary to test whether Page 51’s “remembering / bodily self-monitoring” posture plausibly hands off into Page 17’s “conveniently situated” social tableau (chair opposite, heart in breast), and compare against any other Page 51 successor candidates with multi-anchor support.
+  - **Phase 6 test (2026-01-02):** overlap scan confirms shared low-df n‑gram `my breast` (df==2) plus shared tokens `delicate` (df=4) and `remember` (df=8).
+  - **Outcome:** `UNCLEAR` (promising re-stitch candidate; do not adopt until it beats all alternatives on a second independent continuity marker).
+
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_51.md → Pages/cains_jawbone_page_63.md
   - **Why:** former v2 tail adjacency; not used in v2.16 after moving Pages/cains_jawbone_page_63.md into `Pages/cains_jawbone_page_87.md → Pages/cains_jawbone_page_63.md → Pages/cains_jawbone_page_38.md`.
   - **Falsifier:** Pages/cains_jawbone_page_63.md gains a stronger anchored predecessor that forces it out of this tail pocket, and/or Pages/cains_jawbone_page_51.md gains a stronger, more concrete successor candidate.
