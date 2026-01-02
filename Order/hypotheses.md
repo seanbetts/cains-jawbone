@@ -2147,12 +2147,13 @@ These are the **highest-risk segment joins** inside the v2 full ordering draft. 
   - **Phase 6 test (2026-01-02):** replicated overlap scan shows **zero** shared df==2 tokens and no shared low-df n‑grams (n=2–6, df≤3). Separately, Pages/cains_jawbone_page_2.md has a stronger multi-anchor tie to Pages/cains_jawbone_page_42.md (`figures` + `surmised` + df==2 bigram `i surmised`), so treat this as the best available *Page 83 successor* for now, but not a settled predecessor for Page 2.
   - **Outcome:** `UNCLEAR` (strong narrative reading, but non-exclusive; keep falsifiable).
 
-- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_2.md → Pages/cains_jawbone_page_40.md
+- **Join (confidence: `LIKELY`):** Pages/cains_jawbone_page_2.md → Pages/cains_jawbone_page_40.md
   - **Why:** multi-anchor lexical bridge: the page-body word `worth` appears only on these two pages, and the tokenised trigram `yes it was` is also corpus-unique to this pair (p2 “Yes it was…” ↔ p40 “Yes, it was…”). The infection register (Defoe plague-prose on p2 ↔ Whitman “winds… not infectious” on p40) is a secondary thematic alignment.
   - **Falsifier:** a third page is found using `worth` in its page body (making this non-unique), or Pages/cains_jawbone_page_40.md is anchored to a different successor/predecessor by a stronger multi-anchor continuity that excludes placement immediately after Pages/cains_jawbone_page_2.md.
   - **Next falsification check:** re-read the p2 ending and p40 opening for any explicit continuity/contradiction (cast, place, time), and confirm no third page shares either `worth` or the tokenised `yes it was` trigram.
   - **Phase 6 test (2026-01-01):** page-body df==2 scan confirms `worth` appears only on Pages/cains_jawbone_page_2.md and Pages/cains_jawbone_page_40.md; page-body n‑gram scan confirms `yes it was` appears only on this pair (tokenised; punctuation differs).
-  - **Outcome:** `PASS` (best available successor for Pages/cains_jawbone_page_2.md; still lacks prop/cast continuity, so keep confidence `MAYBE`).
+  - **Phase 6 test (2026-01-02):** re-read the Page 2 → Page 40 boundary: Page 2’s Defoe plague-prose lens (“great pit”, mass death) hands off cleanly into Whitman’s “This Compost” opener (“winds… not infectious”), and the “money’s worth” / “worth it” phrasing reads as deliberate continuation. Treat as a stronger-than-lexical bridge (theme + phrase) and upgrade confidence.
+  - **Outcome:** `PASS` (upgrade join from `MAYBE` to `LIKELY`).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_2.md → Pages/cains_jawbone_page_9.md
   - **Why:** former v2.11 tail adjacency; no shared participant/prop/place/quote continuation is currently known.
