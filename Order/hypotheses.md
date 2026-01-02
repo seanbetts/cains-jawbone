@@ -2240,6 +2240,7 @@ These are the **highest-risk segment joins** inside the v2 full ordering draft. 
   - **Falsifier:** Pages/cains_jawbone_page_9.md gains a stronger anchored predecessor (e.g., via its df==2 tokens `finger` ↔ Pages/cains_jawbone_page_12.md and `assistant` ↔ Pages/cains_jawbone_page_35.md) that excludes taking Pages/cains_jawbone_page_47.md as predecessor, and/or Pages/cains_jawbone_page_47.md gains a stronger successor with a second independent continuity marker (shared participant/prop/place/time).
   - **Next falsification check:** re-read the boundary for narrator/setting incompatibility and search for a second independent anchor beyond `me from` (shared participant/prop/place/time).
   - **Phase 6 test (2026-01-02):** overlap scan (tokenised; apostrophe-preserving and apostrophe-stripping) confirms the only shared low-df n‑gram is `me from` (df==2); shared tokens df≤10 are only `let` (df=9). No shared low-df n‑grams (n=3–6, df≤3) were found.
+  - **Phase 6 test (2026-01-02):** re-read Pages/cains_jawbone_page_47.md and Pages/cains_jawbone_page_9.md at the boundary; beyond the “pluck/wean me from…” echo, no shared venue/role/prop continuity emerged (tea/rain/hair + Henry policing diction ↔ bell-summoning mineralogy lecturer + assistant Charles Day).
   - **Outcome:** `UNCLEAR` (phrase-level echo only; treat as a placeholder gate pending a second continuity marker).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_47.md → Pages/cains_jawbone_page_76.md
@@ -2257,6 +2258,7 @@ These are the **highest-risk segment joins** inside the v2 full ordering draft. 
   - **Phase 6 test (2025-12-31):** page-body n‑gram scan found **zero** shared 3‑grams (or longer) and **zero** shared-unique word anchors between the pages. Treat as a pure placeholder join.
   - **Phase 6 test (2026-01-01):** page-body df==2 token scan suggests Pages/cains_jawbone_page_9.md has a weak in-tail echo to Pages/cains_jawbone_page_38.md (`fortnight`), and a stronger cross-block phrase echo to Pages/cains_jawbone_page_45.md (tokenised `i remembered that when`, with the sub-ngrams `remembered that when` / `that when` also df==2) but that adjacency is blocked by the Pages/cains_jawbone_page_7.md → Pages/cains_jawbone_page_45.md Typhoon lock. Treat as re-stitch leads only.
   - **Phase 6 test (2026-01-01):** corpus scan confirms the tokenised trigram `back to henry` appears only on Pages/cains_jawbone_page_16.md (“…go back to Henry”) and Pages/cains_jawbone_page_44.md (“…get back to Henry”), giving Pages/cains_jawbone_page_16.md a stronger re-stitch lead into `N16` than this tail placement. Treat as a re-stitch lead only unless reinforced by a second independent continuity marker (shared participant/prop/place/time).
+  - **Phase 6 test (2026-01-02):** re-read Pages/cains_jawbone_page_9.md and Pages/cains_jawbone_page_16.md end-to-start; no continuity beyond generic “sound/performance” atmosphere and the high-noise Henry-name layer (Page 16’s Henry is purely romantic) → keep as a tail placeholder.
   - **Outcome:** `UNCLEAR`
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_44.md → Pages/cains_jawbone_page_16.md
@@ -2366,6 +2368,7 @@ These are the **highest-risk segment joins** inside the v2 full ordering draft. 
   - **Falsifier:** Pages/cains_jawbone_page_16.md gains a stronger successor (multi-anchor continuity) that excludes Pages/cains_jawbone_page_76.md, and/or Pages/cains_jawbone_page_76.md gains a stronger predecessor that excludes Pages/cains_jawbone_page_16.md.
   - **Next falsification check:** re-read the Pages/cains_jawbone_page_16.md ending and Pages/cains_jawbone_page_76.md opening for any shared participant/venue cue (beyond generic “opposite me” seating posture), and scan for any low-df token/phrase overlaps to justify adjacency.
   - **Phase 6 test (2026-01-02):** overlap scan found **zero** shared tokens with df≤15 and **zero** shared low-df n‑grams (n=2–6, df≤5), confirming this is a pure placeholder join.
+  - **Phase 6 test (2026-01-02):** re-read the Pages/cains_jawbone_page_16.md ending and Pages/cains_jawbone_page_76.md opening; no hand-off cue emerged beyond the generic Henry-name layer (Page 16 romance vacillation ↔ Page 76 moral-casuistry murder-prep).
   - **Outcome:** `UNCLEAR` (placeholder; introduced by moving Page 72 to precede Page 49).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_76.md → Pages/cains_jawbone_page_78.md
