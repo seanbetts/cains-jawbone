@@ -1933,6 +1933,13 @@ Delta from v2.2 (Phase 6 tightening; keep falsifiable):
   - **Phase 6 test (2026-01-02):** re-read the Pages/cains_jawbone_page_76.md ending and Pages/cains_jawbone_page_98.md opening; the physical hand-off reads coherent (p76 “opposite me…” posture + decision to act → p98 “He stood and looked down at me…” money-hand-over), with no contradiction found.
   - **Outcome:** `PASS` (upgrade confidence: multi-anchor + boundary coherence).
 
+- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_18.md → Pages/cains_jawbone_page_98.md
+  - **Why:** multi-anchor “meeting-for-money” bridge: page-body word `money` appears only on these two pages, and the bigram `course of` appears only on these two pages (p18 “for a course of soup…” ↔ p98 “course of action”); both pages also share the same “the man” interview/meeting frame and the narrator’s desire to later identify him (p18 “afraid he will look just like every one else” ↔ p98 “I wished to be able to describe him”).
+  - **Falsifier:** a third page is found using `money` or the bigram `course of` in its page body (making either anchor non-unique), or re-reading shows the two “money” contexts are incompatible (different transaction types / different “man”), or Pages/cains_jawbone_page_98.md is locked to a different predecessor by a stronger multi-anchor continuity.
+  - **Next falsification check:** resolve predecessor competition: compare this directly against `Pages/cains_jawbone_page_76.md → Pages/cains_jawbone_page_98.md` (unique 5‑gram `i would have to think`) by testing whether `Pages/cains_jawbone_page_18.md` can be placed before Pages/cains_jawbone_page_76.md (forming `18 → 76 → 98`), or whether one join collapses under re-read.
+  - **Phase 6 test (2026-01-02):** overlap scan confirms `money` is df==2 and the bigram `course of` is df==2 for this pair; no shared corpus-unique 3‑grams (or longer) were found.
+  - **Outcome:** `UNCLEAR` (strong overlap; predecessor placement unresolved).
+
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_60.md → Pages/cains_jawbone_page_91.md
   - **Why:** block-boundary into the De’Ath/Black Museum singleton; page-body word `steps` appears only on these two pages, but no phrase-level carryover or second independent continuity marker is currently known.
   - **Falsifier:** a third page is found using `steps` in its page body (making the overlap non-unique), or Pages/cains_jawbone_page_91.md is anchored elsewhere by a stronger multi-anchor that forces it away from the `N12` block ending Pages/cains_jawbone_page_60.md.
