@@ -165,6 +165,9 @@ High-signal continuity constraints to use for clustering and later Phase 4 order
 - **Constraint:** Pages/cains_jawbone_page_29.md ↔ Pages/cains_jawbone_page_36.md (confidence: `CERTAIN`)
   - **Anchor:** ordeal-bean/physostigma thread: Page 29’s “discarded my useless physostigma” (West African ordeal beans) aligns with Page 36’s “old Calabar… should fail me… could not rely on him.”
   - **Falsifier:** “physostigma/ordeal bean” is shown to refer to a different substance/plan than Page 36’s “old Calabar” (or the failure/discard beats are shown to be separate experiments).
+- **Constraint:** Pages/cains_jawbone_page_9.md ↔ Pages/cains_jawbone_page_29.md (confidence: `LIKELY`)
+  - **Anchor:** unique mineralogy/mineralogist role match: Page 9’s narrator is a mineralogy lecturer (Peebles University), and Page 29 targets an “old mineralogist” as a guest/victim candidate. Treat as shared-cast identity evidence, not adjacency.
+  - **Falsifier:** a third page-body instance of the mineralogy/mineralogist role appears (making this non-unique), or Page 29’s “old mineralogist” is later identified in a way incompatible with Page 9’s narrator.
 - **Constraint:** Pages/cains_jawbone_page_36.md ↔ Pages/cains_jawbone_page_59.md (confidence: `CERTAIN`)
   - **Anchor:** unique “awkward” poison-failure phrasing: Page 36 repeats “distinctly awkward” while describing Calabar’s failure (“could not rely on him”), and Page 59 mirrors it (“awkward with Trinder about”) while noting a “bane… definitely failed”; in the page bodies, “awkward” appears only on these two pages.
   - **Falsifier:** only if “awkward” is found in a third page body in a tighter continuity context, or later evidence anchors the two scenes/voices as incompatible.

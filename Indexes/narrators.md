@@ -227,11 +227,11 @@ Template:
 
 - `N27` — Peebles mineralogy lecturer / bell-summoning voice:
   - **Signature tells:** snobbish class register (“lower orders”); bell-summoning framing with an ambivalent reliance on a skilled subordinate; academic self-positioning (mineralogy lectures at “Peebles University”); punning blackboard proverb (“Day”/“Knight” swap).
-  - **Likely identity (if any):** unknown.
+  - **Likely identity (if any):** `P35` (“old mineralogist”; unnamed; see Pages/cains_jawbone_page_29.md).
   - **Pages:** Pages/cains_jawbone_page_9.md
   - **Confidence:** `MAYBE`
   - **Disconfirming evidence:** “Peebles University” and the Day/Knight blackboard pun recur under a clearly different narrator voice, or Page 9 is later shown to be a quoted anecdote rather than the narrator’s lived scene.
-  - **Notes:** Singleton for now; next check: search for Peebles University / Charles Day / Day‑Knight proverb-pun recurrence; treat the Page 29 “old mineralogist” link as cast only unless voice tells match. Phase 6 test (2025-12-31): Pages/cains_jawbone_page_9.md ↔ Pages/cains_jawbone_page_45.md share only the generic phrase `I remembered that when` (no second shared anchor) → treat as an accidental overlap (Outcome: `FAIL`, not a stitch candidate).
+  - **Notes:** Singleton for now; next check: search for Peebles University / Charles Day / Day‑Knight proverb-pun recurrence. Phase 6 test (2026-01-02): Page 9’s mineralogy lecturer self-positioning is the only mineralogy instance across page bodies, matching Page 29’s only “old mineralogist” instance → treat Pages/cains_jawbone_page_9.md ↔ Pages/cains_jawbone_page_29.md as a shared-cast link (not adjacency evidence). Phase 6 test (2025-12-31): Pages/cains_jawbone_page_9.md ↔ Pages/cains_jawbone_page_45.md share only the generic phrase `I remembered that when` (no second shared anchor) → treat as an accidental overlap (Outcome: `FAIL`, not a stitch candidate).
 
 - `N28` — Window-throw / “no detective” voice:
   - **Signature tells:** black-humoured self-exculpation (“thank goodness, I was no detective”) embedded in a hands-on violence vignette (tidying socks, heaving a victim out of a window); quotation-stitching (Browning + Shakespeare) used as narration rather than decoration; misheard dying-words riff (“Band, Speckled”).

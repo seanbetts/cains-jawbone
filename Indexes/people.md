@@ -217,10 +217,10 @@ Template:
   - **Notes:** Likely allusion/character; do not treat as confirmed in-world person yet.
 
 - `P35` — Names/aliases: “old mineralogist” (unnamed)
-  - **Tells:** led “up the garden” and introduced to poisonous plants; MAYBE the “old man” repeatedly led up the garden on Page 45.
+  - **Tells:** led “up the garden” and introduced to poisonous plants; LIKELY the mineralogy lecturer narrator on Page 9 (Peebles University; assistant Charles Day); MAYBE the “old man” repeatedly led up the garden on Page 45.
   - **Pronouns/relationships:** guest/victim candidate.
-  - **Pages:** Pages/cains_jawbone_page_29.md, Pages/cains_jawbone_page_45.md
-  - **Notes:** Not externally identifiable yet; treat as in-world placeholder. MAYBE connected to Peebles/mineralogy thread (Pages/cains_jawbone_page_9.md); “led up the garden” phrasing recurs.
+  - **Pages:** Pages/cains_jawbone_page_9.md, Pages/cains_jawbone_page_29.md, Pages/cains_jawbone_page_45.md
+  - **Notes:** Not externally identifiable yet; treat as an in-world placeholder. LIKELY linkage: Page 29’s “old mineralogist” ↔ Page 9’s Peebles mineralogy lecturer voice (the only mineralogy/mineralogist instance across page bodies). Keep Page 45’s “old man… up the garden” as MAYBE only unless a second identifier emerges.
 
 - `P36` — Names/aliases: Flora (household staff; uncertain)
   - **Tells:** arranged breakfast (“seven… long stout shapes”).
