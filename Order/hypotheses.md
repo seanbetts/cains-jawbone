@@ -2042,6 +2042,20 @@ Delta from v2.2 (Phase 6 tightening; keep falsifiable):
   - **Phase 6 test (2026-01-03):** page-body df==2 token scan suggests both pages likely stitch elsewhere: Pages/cains_jawbone_page_71.md uniquely shares `odour` with Pages/cains_jawbone_page_7.md, `duty` with Pages/cains_jawbone_page_46.md, and `hot` with Pages/cains_jawbone_page_47.md; Pages/cains_jawbone_page_66.md uniquely shares `lose` with Pages/cains_jawbone_page_31.md and `sorrow` with Pages/cains_jawbone_page_33.md (and also `cleaner` with Pages/cains_jawbone_page_52.md / `morbid` with Pages/cains_jawbone_page_61.md / `neither` with Pages/cains_jawbone_page_50.md). Treat as re-stitch leads only.
   - **Outcome:** `UNCLEAR` (treat as a pure placeholder join).
 
+- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_33.md → Pages/cains_jawbone_page_66.md
+  - **Why:** candidate replacement predecessor for the `N06` start: page-body token `sorrow` appears only on these two pages (p33 “my gray hairs would go down in sorrow…” ↔ p66 “joy’s crown of sorrow…”), and the echo occurs exactly at the boundary (end-of-page → opening sentence).
+  - **Falsifier:** a third page is found containing `sorrow` in its page body (making this non-unique), or re-reading shows incompatible in-world setting/participants (making the “sorrow” echo rhetorical coincidence), or Page 33 is forced to remain adjacent to Page 34 by a stronger continuity marker.
+  - **Next falsification check:** confirm whether Page 33’s “gray hairs… sorrow to the grave” quote is being deliberately answered by Page 66’s Tennyson “crown of sorrow” riff (vs. accidental shared word), and look for a second independent continuity marker (shared cast/prop/venue/time) beyond `sorrow`.
+  - **Phase 6 test (2026-01-03):** df scan confirms `sorrow` appears only on Pages/cains_jawbone_page_33.md and Pages/cains_jawbone_page_66.md; re-read finds no second concrete continuity marker beyond the boundary-level echo.
+  - **Outcome:** `UNCLEAR` (strong boundary-level echo; do not adopt as adjacency without a second independent anchor or a necessity-driven re-stitch).
+
+- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_31.md → Pages/cains_jawbone_page_66.md
+  - **Why:** candidate replacement predecessor for the `N06` start: page-body token `lose` appears only on these two pages (p31 “To lose even two…” ↔ p66 “I might lose all…”). Additionally, if placed adjacent, Page 31’s other df==2 link `balance` ↔ Page 67 would add a second internal echo inside the sentence-locked `N06` block (p67 “The balance was too hard to strike.”).
+  - **Falsifier:** a third page is found containing `lose` in its page body (making this non-unique), or re-reading shows the settings/voices are incompatible across the boundary (making the shared token accidental), or Page 31 is forced to take a different successor by a stronger multi-anchor continuity.
+  - **Next falsification check:** re-read Page 31’s ending and Page 66’s opening for any non-lexical continuity marker (shared participant/venue/time cue) beyond the single-token overlap; treat this as a low-weight bridge candidate until reinforced.
+  - **Phase 6 test (2026-01-03):** df scan confirms `lose` appears only on Pages/cains_jawbone_page_31.md and Pages/cains_jawbone_page_66.md; re-read finds no second boundary-level anchor beyond the single token.
+  - **Outcome:** `UNCLEAR` (single-token bridge only; keep as a re-stitch lead).
+
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_54.md → Pages/cains_jawbone_page_92.md
   - **Why:** current v2.10 block boundary; no scene/prop/cast continuity is currently known.
   - **Falsifier:** Pages/cains_jawbone_page_54.md gains a stronger successor inside the `N26` run, or Pages/cains_jawbone_page_92.md gains a stronger predecessor inside `N21` beyond the Browning-lock into Pages/cains_jawbone_page_42.md.
