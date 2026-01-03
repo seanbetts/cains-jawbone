@@ -1792,7 +1792,7 @@ Delta from v2.2 (Phase 6 tightening; keep falsifiable):
 
 ### Phase 6 boundary tests for v2.20 (block boundaries)
 
-- **Phase 6 scan (2026-01-03):** ran an automated df==2 token/ngram scan over **all** v2.20 adjacencies (page-body only; Notes ignored) to prioritise falsification effort. After rehoming Pages/cains_jawbone_page_9.md out of the tail and adopting `Pages/cains_jawbone_page_47.md → Pages/cains_jawbone_page_76.md`, the end-tail no longer contains a zero-anchor join: both `Pages/cains_jawbone_page_47.md → Pages/cains_jawbone_page_76.md` and `Pages/cains_jawbone_page_76.md → Pages/cains_jawbone_page_98.md` have df==2 phrase anchors. The new highest-risk adjacency introduced by this rehome is `Pages/cains_jawbone_page_9.md → Pages/cains_jawbone_page_64.md` (currently **zero** df==2 anchors and no non-lexical continuity markers).
+- **Phase 6 scan (2026-01-03):** ran an automated df==2 token/ngram scan over **all** v2.20 adjacencies (page-body only; Notes ignored) to prioritise falsification effort. After rehoming Pages/cains_jawbone_page_9.md out of the tail and adopting `Pages/cains_jawbone_page_47.md → Pages/cains_jawbone_page_76.md`, the end-tail no longer contains a zero-anchor join: both `Pages/cains_jawbone_page_47.md → Pages/cains_jawbone_page_76.md` and `Pages/cains_jawbone_page_76.md → Pages/cains_jawbone_page_98.md` have df==2 phrase anchors. The highest-risk *block-boundary* adjacencies with **zero** df==2 anchors and no non-lexical continuity currently logged are `Pages/cains_jawbone_page_51.md → Pages/cains_jawbone_page_62.md` and `Pages/cains_jawbone_page_9.md → Pages/cains_jawbone_page_64.md`.
 
 - **Join (confidence: `LIKELY`):** Pages/cains_jawbone_page_24.md → Pages/cains_jawbone_page_86.md
   - **Why:** page-body name `Caroline` appears only on these two pages, and both open with “Next day…” framing; v2.10 uses this to justify placing `N13` immediately after Block A rather than after Page 91.
@@ -2039,6 +2039,14 @@ Delta from v2.2 (Phase 6 tightening; keep falsifiable):
   - **Next falsification check:** re-read the Pages/cains_jawbone_page_100.md ending and Pages/cains_jawbone_page_62.md opening for a non-generic continuity marker (shared participant, institution, or object).
   - **Phase 6 test (2026-01-01):** page-body scan found **zero** shared corpus-unique 3‑grams (or longer) and **zero** shared-unique word anchors between the pages.
   - **Outcome:** `UNCLEAR` (treat as a pure placeholder join).
+
+- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_51.md → Pages/cains_jawbone_page_62.md
+  - **Why:** current v2.20 block boundary out of the `Pages/cains_jawbone_page_2.md → Pages/cains_jawbone_page_40.md → Pages/cains_jawbone_page_51.md` bridge into the `N32` dining/signature block; no scene/prop/cast continuity is currently known.
+  - **Predictions:** if this is a real adjacency we should see at least one of: (a) shared venue/meal/service cue (chair/table/restaurant), (b) shared named participant, (c) shared quoted source continuation, (d) shared object/prop carryover (letters, documents, drink), or (e) a narrator-voice match (same habitual quotation layer + same stance).
+  - **Falsifier:** Pages/cains_jawbone_page_51.md gains a stronger successor (multi-anchor continuity) that excludes Pages/cains_jawbone_page_62.md, and/or Pages/cains_jawbone_page_62.md gains a stronger predecessor inside `N32` that excludes Pages/cains_jawbone_page_51.md.
+  - **Next falsification check:** re-read the Pages/cains_jawbone_page_51.md ending and Pages/cains_jawbone_page_62.md opening for any non-generic hand-off cue; scan for any shared df==2 token/ngram anchors (apostrophe-preserving and apostrophe-stripping).
+  - **Phase 6 test (2026-01-03):** token/n‑gram df scan found **zero** shared df==2 token anchors and **zero** shared df==2 phrase anchors between the pages; re-read suggests incompatible frames (p51 Hambledon/Whitman travel posture ↔ p62 cat/chair + Trafalgar Square/Guy Fawkes memory) → treat as a pure placeholder join.
+  - **Outcome:** `UNCLEAR` (used by v2.20 but currently unsupported; high priority to replace).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_89.md → Pages/cains_jawbone_page_64.md
   - **Why:** former v2.10/v2.19 block boundary; removed in v2.20 by inserting the `N27` singleton Pages/cains_jawbone_page_9.md between these blocks (weak but positive df==2 token bridge `absence`: Pages/cains_jawbone_page_89.md ↔ Pages/cains_jawbone_page_9.md).
