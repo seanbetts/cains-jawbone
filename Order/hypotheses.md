@@ -1734,7 +1734,7 @@ Key changes vs v1:
 - **Block W (`N06`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_66.md → Pages/cains_jawbone_page_67.md → Pages/cains_jawbone_page_73.md → Pages/cains_jawbone_page_74.md → Pages/cains_jawbone_page_75.md → Pages/cains_jawbone_page_83.md
 - **Block X (tail, confidence: `MAYBE`):** Pages/cains_jawbone_page_2.md → Pages/cains_jawbone_page_9.md → Pages/cains_jawbone_page_16.md → Pages/cains_jawbone_page_18.md → Pages/cains_jawbone_page_37.md → Pages/cains_jawbone_page_38.md → Pages/cains_jawbone_page_40.md → Pages/cains_jawbone_page_51.md → Pages/cains_jawbone_page_63.md → Pages/cains_jawbone_page_72.md → Pages/cains_jawbone_page_76.md → Pages/cains_jawbone_page_78.md → Pages/cains_jawbone_page_81.md → Pages/cains_jawbone_page_84.md → Pages/cains_jawbone_page_98.md → Pages/cains_jawbone_page_77.md → Pages/cains_jawbone_page_46.md → Pages/cains_jawbone_page_100.md
 
-### Proposed order (all 100 pages; v2.21)
+### Proposed order (all 100 pages; v2.22)
 
 Delta from v2.2 (Phase 6 tightening; keep falsifiable):
 
@@ -1743,6 +1743,7 @@ Delta from v2.2 (Phase 6 tightening; keep falsifiable):
 - Trial re-stitch (v2.19): move Pages/cains_jawbone_page_16.md into the King/Henry `N08` run between Pages/cains_jawbone_page_94.md and Pages/cains_jawbone_page_85.md (df==2 token `naturally`; shared “return to Henry” decision/action beats), eliminating the unsupported adjacencies `Pages/cains_jawbone_page_9.md → Pages/cains_jawbone_page_16.md` / `Pages/cains_jawbone_page_16.md → Pages/cains_jawbone_page_76.md`.
 - Trial re-stitch (v2.20): rehome the `N27` singleton Pages/cains_jawbone_page_9.md immediately after Pages/cains_jawbone_page_89.md (weak df==2 bridge token `absence`), allowing adoption of the stronger tail gate `Pages/cains_jawbone_page_47.md → Pages/cains_jawbone_page_76.md` and collapsing the tail to `Pages/cains_jawbone_page_47.md → Pages/cains_jawbone_page_76.md → Pages/cains_jawbone_page_98.md`.
 - Trial re-stitch (v2.21): move the Great Lexicographer pair `Pages/cains_jawbone_page_64.md → Pages/cains_jawbone_page_61.md` out of the high-risk block-boundary slot and into the `N02` tail by inserting it between Pages/cains_jawbone_page_57.md and Pages/cains_jawbone_page_46.md (df==2 phrase anchors: `my people had`, `great lexicographer`, `i had always been`). This removes the zero-anchor boundary `Pages/cains_jawbone_page_9.md → Pages/cains_jawbone_page_64.md` by making Page 9’s successor Page 25 (df==2 token `earth`).
+- Trial re-stitch (v2.22): remove the zero-anchor dog-run gate `Pages/cains_jawbone_page_25.md → Pages/cains_jawbone_page_22.md` by moving Block S to sit immediately after Pages/cains_jawbone_page_89.md (df==2 token `loved`), and rehome the `N27`/`N34` singletons to sit immediately after Pages/cains_jawbone_page_38.md as `Pages/cains_jawbone_page_38.md → Pages/cains_jawbone_page_9.md → Pages/cains_jawbone_page_25.md` (df==2 tokens `fortnight`, `earth`). Treat the new block boundary `Pages/cains_jawbone_page_25.md → Pages/cains_jawbone_page_33.md` as a placeholder until a stronger successor for Page 25 is found.
 - Trial re-stitch: move `N13` (Pages/cains_jawbone_page_86.md → Pages/cains_jawbone_page_87.md) to sit immediately after Block A’s Yeats/Masefield swap (Pages/cains_jawbone_page_23.md → Pages/cains_jawbone_page_24.md), removing the weak v2.2 boundary `Pages/cains_jawbone_page_91.md → Pages/cains_jawbone_page_86.md` in favor of the stronger shared Yeats/Caroline + “poet’s lines” framing.
 - Trial re-stitch: pull Pages/cains_jawbone_page_78.md out of the tail and place immediately after Pages/cains_jawbone_page_91.md (multi-anchor bridge: page-body-unique words `handed` + `suave` shared with Page 91). Treat the new block boundary into Pages/cains_jawbone_page_4.md as a placeholder until a better successor for Page 78 is found.
 - Trial re-stitch: pull Pages/cains_jawbone_page_63.md out of the tail and place immediately after Pages/cains_jawbone_page_87.md (multi-anchor bridge: page-body-unique words `coloured` + `putting` shared with Page 87), then pull Pages/cains_jawbone_page_38.md out of the tail and place immediately after Pages/cains_jawbone_page_63.md (df==2 word `dimples` shared between Pages/cains_jawbone_page_63.md and Pages/cains_jawbone_page_38.md). Treat the new block boundary into Pages/cains_jawbone_page_33.md as a placeholder until a better successor for Page 38 is found.
@@ -1760,6 +1761,8 @@ Delta from v2.2 (Phase 6 tightening; keep falsifiable):
 - **Block A (`N03` + `N40`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_32.md → Pages/cains_jawbone_page_3.md → Pages/cains_jawbone_page_27.md → Pages/cains_jawbone_page_30.md → Pages/cains_jawbone_page_23.md → Pages/cains_jawbone_page_24.md
 - **Block E (`N13`, confidence: `CERTAIN` internal):** Pages/cains_jawbone_page_86.md → Pages/cains_jawbone_page_87.md
 - **Block E2 (`N14`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_63.md → Pages/cains_jawbone_page_38.md
+- **Block O1 (`N27`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_9.md
+- **Block Q (`N34`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_25.md
 - **Block B (`N25` merged run, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_33.md → Pages/cains_jawbone_page_34.md → Pages/cains_jawbone_page_52.md → Pages/cains_jawbone_page_53.md
 - **Block C0 (`N28`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_81.md
 - **Block C (`N12` poison-logistics + Trinder chain, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_6.md → Pages/cains_jawbone_page_21.md → Pages/cains_jawbone_page_36.md → Pages/cains_jawbone_page_29.md → Pages/cains_jawbone_page_35.md → Pages/cains_jawbone_page_77.md → Pages/cains_jawbone_page_80.md → Pages/cains_jawbone_page_59.md → Pages/cains_jawbone_page_60.md
@@ -1781,8 +1784,6 @@ Delta from v2.2 (Phase 6 tightening; keep falsifiable):
 - **Block M (`N21`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_92.md → Pages/cains_jawbone_page_42.md
 - **Block M2 (bridge, confidence: `MAYBE`):** Pages/cains_jawbone_page_2.md → Pages/cains_jawbone_page_40.md → Pages/cains_jawbone_page_51.md
 - **Block O (`N32`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_62.md → Pages/cains_jawbone_page_65.md → Pages/cains_jawbone_page_90.md → Pages/cains_jawbone_page_89.md
-- **Block O1 (`N27`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_9.md
-- **Block Q (`N34`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_25.md
 - **Block S (`N02` dog POV (Aug run), confidence: `LIKELY` internal):** Pages/cains_jawbone_page_22.md → Pages/cains_jawbone_page_79.md → Pages/cains_jawbone_page_48.md → Pages/cains_jawbone_page_88.md → Pages/cains_jawbone_page_39.md → Pages/cains_jawbone_page_10.md → Pages/cains_jawbone_page_99.md → Pages/cains_jawbone_page_8.md → Pages/cains_jawbone_page_19.md → Pages/cains_jawbone_page_57.md → Pages/cains_jawbone_page_64.md → Pages/cains_jawbone_page_61.md → Pages/cains_jawbone_page_46.md
 - **Block R (`N09`, confidence: `MAYBE` internal):** Pages/cains_jawbone_page_68.md → Pages/cains_jawbone_page_69.md → Pages/cains_jawbone_page_95.md → Pages/cains_jawbone_page_70.md
 - **Block N (`N01`, confidence: `MAYBE` internal):** Pages/cains_jawbone_page_96.md → Pages/cains_jawbone_page_17.md → Pages/cains_jawbone_page_43.md → Pages/cains_jawbone_page_100.md
@@ -1790,9 +1791,9 @@ Delta from v2.2 (Phase 6 tightening; keep falsifiable):
 - **Block V (`N10` + `N39`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_14.md → Pages/cains_jawbone_page_12.md → Pages/cains_jawbone_page_50.md
 - **Block X (tail, confidence: `MAYBE`):** Pages/cains_jawbone_page_47.md → Pages/cains_jawbone_page_76.md → Pages/cains_jawbone_page_98.md
 
-### Phase 6 boundary tests for v2.21 (block boundaries)
+### Phase 6 boundary tests for v2.22 (block boundaries)
 
-- **Phase 6 scan (2026-01-03):** ran an automated df==2 token/ngram scan over **all** v2.21 adjacencies (page-body only; Notes ignored) to prioritise falsification effort. After moving `Pages/cains_jawbone_page_64.md → Pages/cains_jawbone_page_61.md` into the dog-run tail, the v2.20 zero-anchor boundary `Pages/cains_jawbone_page_9.md → Pages/cains_jawbone_page_64.md` is eliminated (new boundary `Pages/cains_jawbone_page_9.md → Pages/cains_jawbone_page_25.md` has df==2 token `earth`). The highest-risk *block-boundary* adjacencies with **zero** df==2 anchors and no non-lexical continuity currently logged remain `Pages/cains_jawbone_page_51.md → Pages/cains_jawbone_page_62.md`, `Pages/cains_jawbone_page_25.md → Pages/cains_jawbone_page_22.md`, and `Pages/cains_jawbone_page_46.md → Pages/cains_jawbone_page_68.md`.
+- **Phase 6 scan (2026-01-03):** ran an automated df==2 token/ngram scan over **all** v2.22 adjacencies (page-body only; Notes ignored) to prioritise falsification effort. This v2.22 trial removes the prior zero-anchor boundary `Pages/cains_jawbone_page_25.md → Pages/cains_jawbone_page_22.md` by moving Block S to sit after Pages/cains_jawbone_page_89.md (new boundary `Pages/cains_jawbone_page_89.md → Pages/cains_jawbone_page_22.md` has df==2 token `loved`) and by rehoming the `N27/N34` singleton pair to sit after Pages/cains_jawbone_page_38.md (`Pages/cains_jawbone_page_38.md → Pages/cains_jawbone_page_9.md` has df==2 token `fortnight`; `Pages/cains_jawbone_page_9.md → Pages/cains_jawbone_page_25.md` has df==2 token `earth`). The df==2 scan flags the following *block-boundary* adjacencies with **zero** shared df==2 token anchors and **zero** shared df==2 n‑gram anchors (n=2–6): `Pages/cains_jawbone_page_25.md → Pages/cains_jawbone_page_33.md`, `Pages/cains_jawbone_page_53.md → Pages/cains_jawbone_page_81.md`, `Pages/cains_jawbone_page_20.md → Pages/cains_jawbone_page_4.md`, `Pages/cains_jawbone_page_5.md → Pages/cains_jawbone_page_49.md`, `Pages/cains_jawbone_page_31.md → Pages/cains_jawbone_page_7.md`, `Pages/cains_jawbone_page_11.md → Pages/cains_jawbone_page_28.md`, `Pages/cains_jawbone_page_85.md → Pages/cains_jawbone_page_97.md`, `Pages/cains_jawbone_page_93.md → Pages/cains_jawbone_page_56.md`, `Pages/cains_jawbone_page_71.md → Pages/cains_jawbone_page_66.md`, `Pages/cains_jawbone_page_51.md → Pages/cains_jawbone_page_62.md`, and `Pages/cains_jawbone_page_46.md → Pages/cains_jawbone_page_68.md`.
 
 - **Join (confidence: `LIKELY`):** Pages/cains_jawbone_page_24.md → Pages/cains_jawbone_page_86.md
   - **Why:** page-body name `Caroline` appears only on these two pages, and both open with “Next day…” framing; v2.10 uses this to justify placing `N13` immediately after Block A rather than after Page 91.
@@ -1816,8 +1817,22 @@ Delta from v2.2 (Phase 6 tightening; keep falsifiable):
   - **Phase 6 test (2026-01-02):** re-read the Pages/cains_jawbone_page_63.md ending and Pages/cains_jawbone_page_38.md opening; no continuity marker appears beyond the `dimples` echo (dessert/hair/table banter ↔ Southend/omelette/stabbing vignette). Treat as a re-stitch lead only.
   - **Outcome:** `UNCLEAR` (lexical bridge confirmed; best available successor for now).
 
+- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_38.md → Pages/cains_jawbone_page_9.md
+  - **Why:** v2.22 replacement successor candidate for Pages/cains_jawbone_page_38.md after rehoming the `N27` singleton; the page-body token `fortnight` appears only on these two pages (p38 “that tragic fortnight…” ↔ p9 “a fortnight’s absence…”), giving a minimal positive bridge while eliminating the pure-placeholder `Pages/cains_jawbone_page_38.md → Pages/cains_jawbone_page_33.md` boundary.
+  - **Falsifier:** a third page is found containing `fortnight` in its page body (making this non-unique), or either page gains a stronger multi-anchor neighbour that excludes this adjacency.
+  - **Next falsification check:** re-read the Pages/cains_jawbone_page_38.md ending and Pages/cains_jawbone_page_9.md opening for any second independent continuity marker beyond the single-token overlap (shared participant/venue/prop/time cue).
+  - **Phase 6 test (2026-01-03):** page-body df scan confirms `fortnight` appears only on Pages/cains_jawbone_page_38.md and Pages/cains_jawbone_page_9.md.
+  - **Outcome:** `UNCLEAR` (single-token bridge; used by v2.22 but still provisional).
+
+- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_25.md → Pages/cains_jawbone_page_33.md
+  - **Why:** v2.22 block boundary into the `N25` debts run after moving Block S to sit after Pages/cains_jawbone_page_89.md and rehoming Pages/cains_jawbone_page_9.md → Pages/cains_jawbone_page_25.md behind Pages/cains_jawbone_page_38.md; no scene/prop/cast continuity is currently known.
+  - **Falsifier:** Pages/cains_jawbone_page_25.md gains a stronger successor inside the Time-factor/Didling (`N34`) run, and/or Pages/cains_jawbone_page_33.md gains a stronger predecessor inside the `N25` debts run that excludes this adjacency.
+  - **Next falsification check:** scan for any shared non-generic anchor (named participant, object, quoted source, or phrase-level continuation) to justify adjacency; otherwise treat as a pure placeholder join.
+  - **Phase 6 test (2026-01-03):** token/n‑gram df scan found **zero** shared df==2 token anchors and **zero** shared df==2 n‑gram anchors (n=2–6) between the pages.
+  - **Outcome:** `UNCLEAR` (used by v2.22; treat as a pure placeholder join).
+
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_38.md → Pages/cains_jawbone_page_33.md
-  - **Why:** current v2.16 block boundary after pulling Page 38 out of the tail; no scene/prop/cast continuity is currently known.
+  - **Why:** former v2.21 block boundary after pulling Page 38 out of the tail; removed in v2.22 by inserting `Pages/cains_jawbone_page_9.md → Pages/cains_jawbone_page_25.md` after Page 38 and using the df==2 bridge `Pages/cains_jawbone_page_38.md → Pages/cains_jawbone_page_9.md` (`fortnight`).
   - **Falsifier:** Pages/cains_jawbone_page_38.md is anchored elsewhere by a stronger multi-anchor continuity, or Pages/cains_jawbone_page_33.md gains a stronger predecessor beyond the post-`N13` dessert bridge.
   - **Next falsification check:** scan for any shared non-generic anchor (named person, object, quoted source, or phrase-level continuation) to justify adjacency.
   - **Phase 6 test (2026-01-01):** page-body n‑gram scan found **zero** shared corpus-unique 3‑grams (or longer) and **zero** shared df==2 word anchors between the pages.
@@ -1825,7 +1840,7 @@ Delta from v2.2 (Phase 6 tightening; keep falsifiable):
   - **Phase 6 test (2026-01-02):** re-read Pages/cains_jawbone_page_38.md and Pages/cains_jawbone_page_79.md around the shared phrase `there was something wrong`; no second anchor (shared participant/prop/place/time/quote) emerged, and the Page 79 context remains strongly dog‑POV (mating + Bob Martin + fetch register), incompatible with Page 38’s Southend/restaurant scene. Treat the phrase echo as accidental overlap (not a join).
   - **Phase 6 test (2026-01-02):** page-body n‑gram scan confirms Pages/cains_jawbone_page_38.md also shares the corpus-unique 4‑gram `but i could not` with Pages/cains_jawbone_page_75.md (both in “visual inability” contexts), but re-read found no shared participant/prop/place/time or quote continuity; treat as a re-stitch lead only.
   - **Phase 6 test (2026-01-02):** re-read Page 38 against the strongest df==2-led successor candidates (Pages/cains_jawbone_page_9.md/26/29/65/75/93); beyond their single-token/phrase overlaps, no second independent continuity marker (cast/prop/place/time) emerged, and the surrounding narrator frames remain incompatible. Keep this join as a placeholder until Page 38 gains a stronger multi-anchor successor.
-  - **Outcome:** `UNCLEAR` (treat as a pure placeholder join).
+  - **Outcome:** `FAIL` (not used in v2.22; superseded by `Pages/cains_jawbone_page_38.md → Pages/cains_jawbone_page_9.md`).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_53.md → Pages/cains_jawbone_page_81.md
   - **Why:** new v2.9 block boundary placeholder after extracting Page 81 from the tail; no scene/prop/cast continuity is currently known.
@@ -2041,7 +2056,7 @@ Delta from v2.2 (Phase 6 tightening; keep falsifiable):
   - **Outcome:** `UNCLEAR` (treat as a pure placeholder join).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_51.md → Pages/cains_jawbone_page_62.md
-  - **Why:** current v2.21 block boundary out of the `Pages/cains_jawbone_page_2.md → Pages/cains_jawbone_page_40.md → Pages/cains_jawbone_page_51.md` bridge into the `N32` dining/signature block; no scene/prop/cast continuity is currently known.
+  - **Why:** current v2.22 block boundary out of the `Pages/cains_jawbone_page_2.md → Pages/cains_jawbone_page_40.md → Pages/cains_jawbone_page_51.md` bridge into the `N32` dining/signature block; no scene/prop/cast continuity is currently known.
   - **Predictions:** if this is a real adjacency we should see at least one of: (a) shared venue/meal/service cue (chair/table/restaurant), (b) shared named participant, (c) shared quoted source continuation, (d) shared object/prop carryover (letters, documents, drink), or (e) a narrator-voice match (same habitual quotation layer + same stance).
   - **Falsifier:** Pages/cains_jawbone_page_51.md gains a stronger successor (multi-anchor continuity) that excludes Pages/cains_jawbone_page_62.md, and/or Pages/cains_jawbone_page_62.md gains a stronger predecessor inside `N32` that excludes Pages/cains_jawbone_page_51.md.
   - **Next falsification check:** re-read the Pages/cains_jawbone_page_51.md ending and Pages/cains_jawbone_page_62.md opening for any non-generic hand-off cue; scan for any shared df==2 token/ngram anchors (apostrophe-preserving and apostrophe-stripping).
@@ -2065,29 +2080,29 @@ Delta from v2.2 (Phase 6 tightening; keep falsifiable):
   - **Falsifier:** a third page is found containing `absence` in its page body (making this non-unique), or Pages/cains_jawbone_page_9.md gains a stronger anchored predecessor that forces it away from the `N32` boundary.
   - **Next falsification check:** re-read the Pages/cains_jawbone_page_89.md ending and Pages/cains_jawbone_page_9.md opening for any second independent continuity marker (shared participant/venue/prop/time cue) beyond the single-word overlap.
   - **Phase 6 test (2026-01-03):** page-body df scan confirms `absence` appears only on these two pages; token/n‑gram df scan found no shared low-df n‑grams (n=2–6, df≤3).
-  - **Outcome:** `UNCLEAR` (single-token bridge; used by v2.21 but still provisional).
+  - **Outcome:** `FAIL` (not used in v2.22; superseded by `Pages/cains_jawbone_page_38.md → Pages/cains_jawbone_page_9.md` and `Pages/cains_jawbone_page_89.md → Pages/cains_jawbone_page_22.md`).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_89.md → Pages/cains_jawbone_page_22.md
-  - **Why:** replacement successor candidate for Pages/cains_jawbone_page_89.md to eliminate the unsupported boundary `Pages/cains_jawbone_page_25.md → Pages/cains_jawbone_page_22.md`; the page-body token `loved` appears only on Pages/cains_jawbone_page_89.md (“…loved I not on a moor…”) and Pages/cains_jawbone_page_22.md (“…how much I loved him…”).
+  - **Why:** v2.22 block boundary into the dog‑POV August run (`N02`); the page-body token `loved` appears only on Pages/cains_jawbone_page_89.md (“…loved I not on a moor…”) and Pages/cains_jawbone_page_22.md (“…how much I loved him…”), making it a minimal positive bridge that replaces the zero-anchor former gate `Pages/cains_jawbone_page_25.md → Pages/cains_jawbone_page_22.md`.
   - **Falsifier:** a third page is found containing `loved` in its page body (making this non-unique), or Pages/cains_jawbone_page_89.md is locked to a different successor by a stronger multi-anchor (shared named participant/place/prop/quote continuation).
   - **Next falsification check:** re-read the Pages/cains_jawbone_page_89.md ending and Pages/cains_jawbone_page_22.md opening for any second independent continuity marker beyond the single-token bridge (shared participant/venue/prop/time cue); if none, keep as a re-stitch lead only.
   - **Phase 6 test (2026-01-03):** page-body df scan confirms `loved` appears only on Pages/cains_jawbone_page_89.md and Pages/cains_jawbone_page_22.md.
-  - **Outcome:** `UNCLEAR` (single-token bridge, but a stronger candidate than `Pages/cains_jawbone_page_25.md → Pages/cains_jawbone_page_22.md` because it is at least falsifiable by df uniqueness).
+  - **Outcome:** `UNCLEAR` (single-token bridge; used by v2.22 but still provisional).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_9.md → Pages/cains_jawbone_page_25.md
-  - **Why:** v2.21 block boundary after moving `Pages/cains_jawbone_page_64.md → Pages/cains_jawbone_page_61.md` into the dog-run tail; the page-body token `earth` appears only on these two pages (p9 “what on earth…” ↔ p25 “earth beetles”), giving a minimal positive bridge for the rehomed `N27` singleton.
+  - **Why:** v2.22 adjacency inside the rehomed `N27/N34` singleton pair; the page-body token `earth` appears only on these two pages (p9 “what on earth…” ↔ p25 “earth beetles”), giving a minimal positive bridge for the rehomed `N27` singleton.
   - **Falsifier:** a third page is found containing `earth` in its page body (making this non-unique), or either page gains a stronger multi-anchor neighbour that excludes this adjacency.
   - **Next falsification check:** re-read the Pages/cains_jawbone_page_9.md ending and Pages/cains_jawbone_page_25.md opening for any second independent continuity marker (shared participant/venue/prop/time cue) beyond the single-word overlap.
   - **Phase 6 test (2026-01-03):** page-body df scan confirms `earth` appears only on Pages/cains_jawbone_page_9.md and Pages/cains_jawbone_page_25.md; token/n‑gram df scan found **zero** shared df==2 phrase anchors (n=2–6) between the pages.
-  - **Outcome:** `UNCLEAR` (single-token bridge; used by v2.21 but still provisional).
+  - **Outcome:** `UNCLEAR` (single-token bridge; used by v2.22 but still provisional).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_25.md → Pages/cains_jawbone_page_22.md
-  - **Why:** v2.21 block boundary into the dog‑POV August run (`N02`); no scene/prop/cast continuity is currently known.
+  - **Why:** former v2.21 block boundary into the dog‑POV August run (`N02`); removed in v2.22 by moving Block S to sit after Pages/cains_jawbone_page_89.md.
   - **Falsifier:** Pages/cains_jawbone_page_25.md gains a stronger successor inside the Time-factor/Didling (`N34`) run, and/or Pages/cains_jawbone_page_22.md gains a stronger predecessor inside the dog‑POV (`N02`) run.
   - **Next falsification check:** re-read the Pages/cains_jawbone_page_25.md ending and Pages/cains_jawbone_page_22.md opening for a non-generic continuity marker (shared named participant/place, travel/time cue, or quotation layer).
   - **Phase 6 test (2026-01-03):** token/n‑gram df scan found **zero** shared df==2 token anchors and **zero** shared df==2 phrase anchors (n=2–6) between the pages → treat as a pure placeholder boundary.
   - **Replacement lead:** Pages/cains_jawbone_page_22.md has a df==2 token bridge `loved` to Pages/cains_jawbone_page_89.md; consider re-stitching to `Pages/cains_jawbone_page_89.md → Pages/cains_jawbone_page_22.md` (single-token but positive) and rehoming Pages/cains_jawbone_page_9.md / Pages/cains_jawbone_page_25.md away from the dog-run gate.
-  - **Outcome:** `UNCLEAR` (used by v2.21 but currently unsupported; high priority to replace).
+  - **Outcome:** `FAIL` (not used in v2.22; superseded by `Pages/cains_jawbone_page_89.md → Pages/cains_jawbone_page_22.md`).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_9.md → Pages/cains_jawbone_page_64.md
   - **Why:** former v2.20 block boundary created by rehoming Pages/cains_jawbone_page_9.md out of the tail; removed in v2.21 after moving `Pages/cains_jawbone_page_64.md → Pages/cains_jawbone_page_61.md` into the dog-run tail.
