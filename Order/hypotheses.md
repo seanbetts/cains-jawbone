@@ -1851,6 +1851,7 @@ Delta from v2.2 (Phase 6 tightening; keep falsifiable):
   - **Next falsification check:** scan for any shared non-generic anchor (named person, object, quoted source, or phrase-level continuation) to justify adjacency.
   - **Phase 6 test (2025-12-31):** page-body n‑gram scan found **zero** shared 3‑grams (or longer) and **zero** shared-unique word anchors between the pages.
   - **Phase 6 test (2026-01-01):** page-body n‑gram scan confirms Pages/cains_jawbone_page_53.md shares the corpus-unique phrase bundle `if i mistook not` (unique 4‑gram; plus unique trigrams `if i mistook` / `i mistook not`) with Pages/cains_jawbone_page_25.md. Treat as a possible within-voice tell and a re-stitch lead for finding a better successor/predecessor for Page 53 than Pages/cains_jawbone_page_81.md; do not adopt as adjacency without a second independent continuity marker.
+  - **Phase 6 test (2026-01-03):** re-read the Pages/cains_jawbone_page_53.md ending and Pages/cains_jawbone_page_81.md opening; no continuity marker appears (no shared cast/prop/place/time/quote). The register jump (Trinder interview satire ↔ window‑throw killing vignette + Speckled Band/Browning layer) reads like a hard scene break → treat as a pure placeholder.
   - **Outcome:** `UNCLEAR` (treat as a pure placeholder join).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_53.md → Pages/cains_jawbone_page_25.md
@@ -1858,6 +1859,7 @@ Delta from v2.2 (Phase 6 tightening; keep falsifiable):
   - **Falsifier:** a third page is found containing the same phrase-level bundle (making the overlap non-unique), or a re-read shows incompatible in-world framing/voice (making the shared phrase a coincidence), or Pages/cains_jawbone_page_25.md remains locked to a different predecessor/successor by a stronger multi-anchor.
   - **Next falsification check:** re-read the Page 53 ending and Page 25 opening to look for any second continuity marker beyond the phrase (shared participant/setting/object/time cue), and check whether adopting this would also improve the adjacent block-boundary `Pages/cains_jawbone_page_25.md → Pages/cains_jawbone_page_33.md` without creating worse new gaps.
   - **Phase 6 test (2026-01-03):** token/n‑gram df scan confirms the **only** low-df overlap is the `mistook` bundle (`if i mistook not` and its sub‑ngrams); there are no additional shared df≤10 tokens beyond `mistook`, and no other shared low-df n‑grams (n=2–6, df≤3) beyond the phrase family. Treat as a strong voice-tell candidate only unless a second continuity marker appears.
+  - **Phase 6 test (2026-01-03):** re-read the Pages/cains_jawbone_page_53.md ending and Pages/cains_jawbone_page_25.md opening; no shared participant/prop/place/time hand-off appears, and the narrative frames diverge immediately (Trinder interview setup ↔ time-factor/Didling wordplay monologue). Treat the phrase bundle as a voice-tell only (not an adjacency).
   - **Outcome:** `UNCLEAR` (strong phrase-level echo; keep as a re-stitch lead until a second anchor appears).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_81.md → Pages/cains_jawbone_page_6.md
