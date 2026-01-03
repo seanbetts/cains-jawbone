@@ -1588,9 +1588,9 @@ Template:
   - **Why:** Pages/cains_jawbone_page_97.md is an on-the-day “never done before” setup; Pages/cains_jawbone_page_93.md reads like the later weighing-of-proof aftermath (“their hour had come and was now over”), with the same Bunny-and-Perry internal debate frame.
   - **Disconfirming evidence:** Pages/cains_jawbone_page_93.md’s “hour… over” is shown to refer to something that must occur before Pages/cains_jawbone_page_97.md’s setup, or the Cambridge references resolve to different contexts.
 
-- **Sequence (confidence: LIKELY):** `Pages/cains_jawbone_page_94.md → Pages/cains_jawbone_page_85.md`
-  - **Why:** Pages/cains_jawbone_page_94.md ends “Henry was waiting for me,” and Pages/cains_jawbone_page_85.md follows with the action “I drove Henry home” in the same King narrator register.
-  - **Disconfirming evidence:** “Henry” is clearly different referents across the two pages (incompatible role/setting), or a third page provides a tighter continuation out of Pages/cains_jawbone_page_94.md’s closing line.
+- **Sequence (confidence: `MAYBE`):** `Pages/cains_jawbone_page_94.md → Pages/cains_jawbone_page_16.md → Pages/cains_jawbone_page_85.md`
+  - **Why:** Pages/cains_jawbone_page_94.md ends “Henry was waiting for me,” Pages/cains_jawbone_page_16.md ends with the decision-beat “go back to Henry,” and Pages/cains_jawbone_page_85.md follows with the action “I drove Henry home,” forming a coherent “return-to-Henry” micro-run in the same social/romantic register.
+  - **Disconfirming evidence:** “Henry” is clearly different referents across these pages (incompatible role/setting), or Pages/cains_jawbone_page_16.md is forced elsewhere by a stronger multi-anchor continuity that makes this a coincidence.
 
 - **Sequence (confidence: LIKELY):** `Pages/cains_jawbone_page_33.md → Pages/cains_jawbone_page_34.md`
   - **Why:** Debt/bills language plus a covert/manipulative register aligns across the pair (“I always pay my debts” label ↔ “Bills should always be met squarely” moralising).
@@ -1681,7 +1681,7 @@ Purpose: provide a **single full 100-page ordering** that satisfies the current 
 - **Segment F (`N20`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_49.md → Pages/cains_jawbone_page_13.md → Pages/cains_jawbone_page_31.md
 - **Segment G (`N16`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_7.md → Pages/cains_jawbone_page_45.md → Pages/cains_jawbone_page_26.md → Pages/cains_jawbone_page_44.md → Pages/cains_jawbone_page_55.md
 - **Segment H (`N17`, confidence: `CERTAIN` internal):** Pages/cains_jawbone_page_41.md → Pages/cains_jawbone_page_11.md
-- **Segment I (`N08`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_15.md → Pages/cains_jawbone_page_82.md → Pages/cains_jawbone_page_94.md → Pages/cains_jawbone_page_85.md
+- **Segment I (`N08`, confidence: `MAYBE` internal):** Pages/cains_jawbone_page_15.md → Pages/cains_jawbone_page_82.md → Pages/cains_jawbone_page_94.md → Pages/cains_jawbone_page_16.md → Pages/cains_jawbone_page_85.md
 - **Segment J (`N07`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_97.md → Pages/cains_jawbone_page_93.md
 - **Segment K (`N26`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_56.md → Pages/cains_jawbone_page_54.md → Pages/cains_jawbone_page_71.md
 - **Segment L (`N21`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_92.md → Pages/cains_jawbone_page_42.md → Pages/cains_jawbone_page_47.md
@@ -1694,7 +1694,7 @@ Purpose: provide a **single full 100-page ordering** that satisfies the current 
 - **Segment S (`N25`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_33.md → Pages/cains_jawbone_page_34.md → Pages/cains_jawbone_page_52.md → Pages/cains_jawbone_page_53.md
 - **Segment T (`N10` + `N39`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_14.md → Pages/cains_jawbone_page_12.md → Pages/cains_jawbone_page_50.md → Pages/cains_jawbone_page_28.md
 - **Segment U (`N06`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_66.md → Pages/cains_jawbone_page_67.md → Pages/cains_jawbone_page_73.md → Pages/cains_jawbone_page_74.md → Pages/cains_jawbone_page_75.md → Pages/cains_jawbone_page_83.md
-- **Segment V (singletons tail, confidence: `MAYBE`):** Pages/cains_jawbone_page_9.md → Pages/cains_jawbone_page_16.md → Pages/cains_jawbone_page_76.md → Pages/cains_jawbone_page_98.md
+- **Segment V (singletons tail, confidence: `MAYBE`):** Pages/cains_jawbone_page_9.md → Pages/cains_jawbone_page_76.md → Pages/cains_jawbone_page_98.md
 
 ## Phase 5 full ordering draft (v2)
 
@@ -1734,12 +1734,13 @@ Key changes vs v1:
 - **Block W (`N06`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_66.md → Pages/cains_jawbone_page_67.md → Pages/cains_jawbone_page_73.md → Pages/cains_jawbone_page_74.md → Pages/cains_jawbone_page_75.md → Pages/cains_jawbone_page_83.md
 - **Block X (tail, confidence: `MAYBE`):** Pages/cains_jawbone_page_2.md → Pages/cains_jawbone_page_9.md → Pages/cains_jawbone_page_16.md → Pages/cains_jawbone_page_18.md → Pages/cains_jawbone_page_37.md → Pages/cains_jawbone_page_38.md → Pages/cains_jawbone_page_40.md → Pages/cains_jawbone_page_51.md → Pages/cains_jawbone_page_63.md → Pages/cains_jawbone_page_72.md → Pages/cains_jawbone_page_76.md → Pages/cains_jawbone_page_78.md → Pages/cains_jawbone_page_81.md → Pages/cains_jawbone_page_84.md → Pages/cains_jawbone_page_98.md → Pages/cains_jawbone_page_77.md → Pages/cains_jawbone_page_46.md → Pages/cains_jawbone_page_100.md
 
-### Proposed order (all 100 pages; v2.18)
+### Proposed order (all 100 pages; v2.19)
 
 Delta from v2.2 (Phase 6 tightening; keep falsifiable):
 
-- Trial re-stitch (v2.18): replace the placeholder boundary `Pages/cains_jawbone_page_70.md → Pages/cains_jawbone_page_1.md` with `Pages/cains_jawbone_page_70.md → Pages/cains_jawbone_page_96.md` (multi-anchor: page-body token `poem` appears only on Pages/cains_jawbone_page_70.md + Pages/cains_jawbone_page_96.md; both also share `written` and the phrase `in the morning`). This keeps the Café Royal / threat‑retaliation strand adjacent to the “waiting for her” café strand.
-- Trial re-stitch (v2.18): move Pages/cains_jawbone_page_72.md to precede Pages/cains_jawbone_page_1.md (df==2 bigram `alone at` + low-df `sit down`) and remove it from the provisional `Pages/cains_jawbone_page_72.md → Pages/cains_jawbone_page_49.md` bridge, so Page 1 no longer needs to follow Page 70 in the full-order draft.
+- Trial re-stitch (v2.19): replace the placeholder boundary `Pages/cains_jawbone_page_70.md → Pages/cains_jawbone_page_1.md` with `Pages/cains_jawbone_page_70.md → Pages/cains_jawbone_page_96.md` (multi-anchor: page-body token `poem` appears only on Pages/cains_jawbone_page_70.md + Pages/cains_jawbone_page_96.md; both also share `written` and the phrase `in the morning`). This keeps the Café Royal / threat‑retaliation strand adjacent to the “waiting for her” café strand.
+- Trial re-stitch (v2.19): move Pages/cains_jawbone_page_72.md to precede Pages/cains_jawbone_page_1.md (df==2 bigram `alone at` + low-df `sit down`) and remove it from the provisional `Pages/cains_jawbone_page_72.md → Pages/cains_jawbone_page_49.md` bridge, so Page 1 no longer needs to follow Page 70 in the full-order draft.
+- Trial re-stitch (v2.19): move Pages/cains_jawbone_page_16.md into the King/Henry `N08` run between Pages/cains_jawbone_page_94.md and Pages/cains_jawbone_page_85.md (df==2 token `naturally`; shared “return to Henry” decision/action beats), shrinking the end-tail to `Pages/cains_jawbone_page_9.md → Pages/cains_jawbone_page_76.md → Pages/cains_jawbone_page_98.md` and eliminating the unsupported adjacencies `Pages/cains_jawbone_page_9.md → Pages/cains_jawbone_page_16.md` / `Pages/cains_jawbone_page_16.md → Pages/cains_jawbone_page_76.md`.
 - Trial re-stitch: move `N13` (Pages/cains_jawbone_page_86.md → Pages/cains_jawbone_page_87.md) to sit immediately after Block A’s Yeats/Masefield swap (Pages/cains_jawbone_page_23.md → Pages/cains_jawbone_page_24.md), removing the weak v2.2 boundary `Pages/cains_jawbone_page_91.md → Pages/cains_jawbone_page_86.md` in favor of the stronger shared Yeats/Caroline + “poet’s lines” framing.
 - Trial re-stitch: pull Pages/cains_jawbone_page_78.md out of the tail and place immediately after Pages/cains_jawbone_page_91.md (multi-anchor bridge: page-body-unique words `handed` + `suave` shared with Page 91). Treat the new block boundary into Pages/cains_jawbone_page_4.md as a placeholder until a better successor for Page 78 is found.
 - Trial re-stitch: pull Pages/cains_jawbone_page_63.md out of the tail and place immediately after Pages/cains_jawbone_page_87.md (multi-anchor bridge: page-body-unique words `coloured` + `putting` shared with Page 87), then pull Pages/cains_jawbone_page_38.md out of the tail and place immediately after Pages/cains_jawbone_page_63.md (df==2 word `dimples` shared between Pages/cains_jawbone_page_63.md and Pages/cains_jawbone_page_38.md). Treat the new block boundary into Pages/cains_jawbone_page_33.md as a placeholder until a better successor for Page 38 is found.
@@ -1771,7 +1772,7 @@ Delta from v2.2 (Phase 6 tightening; keep falsifiable):
 - **Block H2 (`N37`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_84.md
 - **Block I (`N17`, confidence: `CERTAIN` internal):** Pages/cains_jawbone_page_41.md → Pages/cains_jawbone_page_11.md
 - **Block I2 (`N39`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_28.md
-- **Block J (`N08`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_15.md → Pages/cains_jawbone_page_82.md → Pages/cains_jawbone_page_94.md → Pages/cains_jawbone_page_85.md
+- **Block J (`N08`, confidence: `MAYBE` internal):** Pages/cains_jawbone_page_15.md → Pages/cains_jawbone_page_82.md → Pages/cains_jawbone_page_94.md → Pages/cains_jawbone_page_16.md → Pages/cains_jawbone_page_85.md
 - **Block K (`N07`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_97.md → Pages/cains_jawbone_page_93.md
 - **Block L (`N26`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_56.md → Pages/cains_jawbone_page_54.md → Pages/cains_jawbone_page_71.md
 - **Block W (`N06`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_66.md → Pages/cains_jawbone_page_67.md → Pages/cains_jawbone_page_73.md → Pages/cains_jawbone_page_74.md → Pages/cains_jawbone_page_75.md → Pages/cains_jawbone_page_83.md
@@ -1786,11 +1787,11 @@ Delta from v2.2 (Phase 6 tightening; keep falsifiable):
 - **Block V0 (bridge, confidence: `MAYBE`):** Pages/cains_jawbone_page_72.md → Pages/cains_jawbone_page_1.md
 - **Block V (`N10` + `N39`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_14.md → Pages/cains_jawbone_page_12.md → Pages/cains_jawbone_page_50.md
 - **Block V2 (`N21`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_47.md
-- **Block X (tail, confidence: `MAYBE`):** Pages/cains_jawbone_page_9.md → Pages/cains_jawbone_page_16.md → Pages/cains_jawbone_page_76.md → Pages/cains_jawbone_page_98.md
+- **Block X (tail, confidence: `MAYBE`):** Pages/cains_jawbone_page_9.md → Pages/cains_jawbone_page_76.md → Pages/cains_jawbone_page_98.md
 
-### Phase 6 boundary tests for v2.18 (block boundaries)
+### Phase 6 boundary tests for v2.19 (block boundaries)
 
-- **Phase 6 scan (2026-01-02):** ran an automated df==2 token/ngram scan over **all** v2.18 adjacencies (page-body only; Notes ignored) to prioritise falsification effort. The *end-tail* remains the highest-risk area: `Pages/cains_jawbone_page_9.md → Pages/cains_jawbone_page_16.md` and `Pages/cains_jawbone_page_16.md → Pages/cains_jawbone_page_76.md` have **zero** df==2 anchors (and still no non-lexical continuity markers). The strongest currently-known replacement gate remains `Pages/cains_jawbone_page_47.md → Pages/cains_jawbone_page_76.md` (df==2 `opposite me` / `opposite me i`), which would allow collapsing the tail to `… → Pages/cains_jawbone_page_47.md → Pages/cains_jawbone_page_76.md → Pages/cains_jawbone_page_98.md` once Pages/cains_jawbone_page_9.md and Pages/cains_jawbone_page_16.md are rehomed.
+- **Phase 6 scan (2026-01-03):** ran an automated df==2 token/ngram scan over **all** v2.19 adjacencies (page-body only; Notes ignored) to prioritise falsification effort. After rehoming Pages/cains_jawbone_page_16.md into `N08`, the *end-tail* remains the highest-risk area: `Pages/cains_jawbone_page_9.md → Pages/cains_jawbone_page_76.md` has **zero** df==2 anchors (and still no non-lexical continuity markers). The strongest currently-known replacement gate remains `Pages/cains_jawbone_page_47.md → Pages/cains_jawbone_page_76.md` (df==2 `opposite me` / `opposite me i`), which would allow collapsing the tail to `… → Pages/cains_jawbone_page_47.md → Pages/cains_jawbone_page_76.md → Pages/cains_jawbone_page_98.md` once Pages/cains_jawbone_page_9.md is rehomed.
 
 - **Join (confidence: `LIKELY`):** Pages/cains_jawbone_page_24.md → Pages/cains_jawbone_page_86.md
   - **Why:** page-body name `Caroline` appears only on these two pages, and both open with “Next day…” framing; v2.10 uses this to justify placing `N13` immediately after Block A rather than after Page 91.
