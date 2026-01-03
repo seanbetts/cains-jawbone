@@ -1952,6 +1952,7 @@ Delta from v2.2 (Phase 6 tightening; keep falsifiable):
   - **Falsifier:** Pages/cains_jawbone_page_28.md gains a stronger predecessor inside the will/forgery run (beyond the general Wilde quotation layer), or Pages/cains_jawbone_page_11.md gains a stronger successor that excludes Pages/cains_jawbone_page_28.md.
   - **Next falsification check:** scan for any shared non-generic anchor (named person, object, quoted source, or phrase-level continuation) to justify adjacency.
   - **Phase 6 test (2026-01-01):** page-body n‑gram scan found **zero** shared 3‑grams (or longer) and **zero** shared-unique word anchors between the pages.
+  - **Phase 6 test (2026-01-03):** re-read the Pages/cains_jawbone_page_11.md ending and Pages/cains_jawbone_page_28.md opening; no continuity marker appears (no shared cast/prop/place/time/quote). The register jump (nautical dog‑watch + Ravager/Kipling + Swift/De Quincey ↔ Pluckley church window + Wilde quote + forgery setup) reads like a hard scene break → treat as a pure placeholder join.
   - **Outcome:** `UNCLEAR` (treat as a pure placeholder join).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_28.md → Pages/cains_jawbone_page_15.md
