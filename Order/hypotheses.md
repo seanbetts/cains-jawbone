@@ -1832,6 +1832,7 @@ Delta from v2.2 (Phase 6 tightening; keep falsifiable):
   - **Next falsification check:** scan for any shared non-generic anchor (named participant, object, quoted source, or phrase-level continuation) to justify adjacency; otherwise treat as a pure placeholder join.
   - **Phase 6 test (2026-01-03):** token/n‑gram df scan found **zero** shared df==2 token anchors and **zero** shared df==2 n‑gram anchors (n=2–6) between the pages.
   - **Phase 6 test (2026-01-03):** replacement lead inventory (lexical only): Page 25’s strongest low-df ties point away from Page 33 (e.g., df==2 `mistook` ↔ Pages/cains_jawbone_page_53.md; df==2 `earth` ↔ Pages/cains_jawbone_page_9.md; df==2 `consciousness` ↔ Pages/cains_jawbone_page_15.md; df==2 `woke` ↔ Pages/cains_jawbone_page_27.md; df==2 `continued` ↔ Pages/cains_jawbone_page_2.md). Treat as re-stitch leads only until reinforced by non-lexical continuity.
+  - **Phase 6 test (2026-01-03):** re-read the Pages/cains_jawbone_page_25.md ending and Pages/cains_jawbone_page_33.md opening; no continuity marker appears (no shared cast/prop/place/time cue). The register jump (time-factor/Didling wordplay monologue ↔ behind-the-armchair voyeur + debt-label/cigarette-box scene) reads like a hard scene break → treat as a pure placeholder join.
   - **Outcome:** `UNCLEAR` (used by v2.22; treat as a pure placeholder join).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_38.md → Pages/cains_jawbone_page_33.md
