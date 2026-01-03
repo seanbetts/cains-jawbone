@@ -2067,6 +2067,8 @@ Delta from v2.2 (Phase 6 tightening; keep falsifiable):
   - **Why:** v2.20 block boundary created by rehoming Pages/cains_jawbone_page_9.md out of the tail; no scene/prop/cast continuity is currently known.
   - **Falsifier:** Pages/cains_jawbone_page_9.md gains a stronger successor (via its Charles Day/Peebles/bell/Day‑Knight anchors), and/or Pages/cains_jawbone_page_64.md gains a stronger predecessor inside the Great Lexicographer (`N04`) run.
   - **Next falsification check:** re-read the Pages/cains_jawbone_page_9.md ending and Pages/cains_jawbone_page_64.md opening for any non-generic continuity marker (shared named person/object, shared quoted source, or a place/time cue).
+  - **Phase 6 test (2026-01-03):** token/n‑gram df scan found **zero** shared df==2 token anchors and **zero** shared df==2 phrase anchors between the pages; shared n‑grams are limited to high-noise overlap (e.g., `i had`, `as i`, `for me`) → treat as a pure placeholder join.
+  - **Phase 6 test (2026-01-03):** replacement lead scan: Pages/cains_jawbone_page_9.md’s df==2 token ties are to Pages/cains_jawbone_page_12.md (`finger`), Pages/cains_jawbone_page_35.md (`assistant`), Pages/cains_jawbone_page_38.md (`fortnight`), Pages/cains_jawbone_page_43.md (`lower`), Pages/cains_jawbone_page_25.md (`earth`), plus the current minimal bridge to Pages/cains_jawbone_page_89.md (`absence`); Pages/cains_jawbone_page_64.md’s strongest external phrase lead is the df==2 4‑gram `afterwards i found it` ↔ Pages/cains_jawbone_page_91.md. Treat these as re-stitch leads only until reinforced by non-lexical continuity.
   - **Outcome:** `UNCLEAR` (pure placeholder join).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_61.md → Pages/cains_jawbone_page_25.md
