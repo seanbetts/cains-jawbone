@@ -1852,6 +1852,12 @@ Delta from v2.2 (Phase 6 tightening; keep falsifiable):
   - **Phase 6 test (2026-01-01):** page-body n‑gram scan confirms Pages/cains_jawbone_page_53.md shares the corpus-unique phrase bundle `if i mistook not` (unique 4‑gram; plus unique trigrams `if i mistook` / `i mistook not`) with Pages/cains_jawbone_page_25.md. Treat as a possible within-voice tell and a re-stitch lead for finding a better successor/predecessor for Page 53 than Pages/cains_jawbone_page_81.md; do not adopt as adjacency without a second independent continuity marker.
   - **Outcome:** `UNCLEAR` (treat as a pure placeholder join).
 
+- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_53.md → Pages/cains_jawbone_page_25.md
+  - **Why:** candidate re-stitch to eliminate the v2.23 zero-anchor boundary out of Page 53: the page-body 4‑gram `if i mistook not` appears only on Pages/cains_jawbone_page_53.md and Pages/cains_jawbone_page_25.md, suggesting an unusually specific shared rhetorical tick (potential same narrator/voice).
+  - **Falsifier:** a third page is found containing the same phrase-level bundle (making the overlap non-unique), or a re-read shows incompatible in-world framing/voice (making the shared phrase a coincidence), or Pages/cains_jawbone_page_25.md remains locked to a different predecessor/successor by a stronger multi-anchor.
+  - **Next falsification check:** re-read the Page 53 ending and Page 25 opening to look for any second continuity marker beyond the phrase (shared participant/setting/object/time cue), and check whether adopting this would also improve the adjacent block-boundary `Pages/cains_jawbone_page_25.md → Pages/cains_jawbone_page_33.md` without creating worse new gaps.
+  - **Outcome:** `UNCLEAR` (strong phrase-level echo; keep as a re-stitch lead until a second anchor appears).
+
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_81.md → Pages/cains_jawbone_page_6.md
   - **Why:** page-body words `band` and `speckled` appear only on these two pages, and the trigram `i could make` appears only on these two page bodies; this is a stronger multi-anchor bridge than leaving Page 81 floating in the tail.
   - **Falsifier:** a third page is found containing `band`, `speckled`, or the trigram `i could make` in its page body (making the overlap non-unique), or Pages/cains_jawbone_page_81.md is anchored elsewhere by a stronger multi-anchor (shared cast/prop/time) that forces it away from Pages/cains_jawbone_page_6.md.
