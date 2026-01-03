@@ -23,10 +23,12 @@ But next day that religious fellow’s head drapery, if I might thus unscientifi
   - Eyes/vision: struck “full in the eye”.
 - **Voice/tells:**
   - Determined, moralising self-casting (“no intention of letting up”); classical-name register.
+  - LIKELY: same “breakfast/meal + judgement” voice as `N26` (Pages/cains_jawbone_page_56.md, Pages/cains_jawbone_page_54.md): shared toast/meal framing + the reused “not appropriate” verdict (see `Order/hypotheses.md` join ledger for Pages/cains_jawbone_page_54.md → Pages/cains_jawbone_page_71.md).
 - **Clustering hypotheses:**
-  - MAYBE: `N06` (weakest member): “red May” scent + explicit eye/vision stress (hit in the eye) matches `N06`’s May/flower register and eyesight weakness; “religious fellow’s head drapery” reads like a botanical cryptic definition (monk’s hood → monkshood/aconite), consistent with the `N06` flower/plant fixation, but this page is lexically isolated (no phrase-level overlap with other `N06` pages yet).
-  - MAYBE: additional `N06` support via inherited/descent framing + Hamlet: the coastguard’s “direct descent” joke + Hamlet quote echoes Pages/cains_jawbone_page_73.md’s “inherited” name discussion and “Hamlet’s one” comparison.
+  - LIKELY: `N26` (breakfast-recapping / second-sight voice): meal-time framing + the Phase 6 multi-anchor phrase tie to Pages/cains_jawbone_page_54.md (unique bigrams `toast and` + `not appropriate`).
+  - MAYBE: overlap with `N06` (flower/eyesight register) via “red May” scent + “hit… full in the eye” + the Hamlet “duty… in his eye” line; treat as overlap-only unless a second independent `N06` anchor emerges beyond May/eye language.
 - **Disconfirming evidence:**
   - If “May” is clearly only the calendar month and has no continuity with later “May” references.
+  - If the reused “toast and … not appropriate” phrasing is shown to be a detachable quotation layer (weakening `N26` membership).
 - **Research needed:**
   - Identify “Herebald the Drake” and whether it’s genealogical wordplay or a specific reference.
