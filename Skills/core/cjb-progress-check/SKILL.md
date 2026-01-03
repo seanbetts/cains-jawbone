@@ -66,4 +66,5 @@ Provide a lightweight, repeatable way to answer: **“Are we done with this phas
 ### Phase 6 (convergence and falsification)
 - Falsification runs are being logged (what was tested + pass/fail/unclear).
 - Remaining doubts are minor/local (not structural) per the phase playbook.
-
+- `Order/hypotheses.md` has an explicit join/boundary ledger (even if informal) so “structural vs local” is measurable.
+- If the same set of zero-anchor joins persists across multiple sessions, consider proposing a short Phase 3 (narrator profiling) or Phase 2 (targeted research) micro-pass — only with explicit user approval.
