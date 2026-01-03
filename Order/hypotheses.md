@@ -1790,6 +1790,8 @@ Delta from v2.2 (Phase 6 tightening; keep falsifiable):
 
 ### Phase 6 boundary tests for v2.18 (block boundaries)
 
+- **Phase 6 scan (2026-01-02):** ran an automated df==2 token/ngram scan over **all** v2.18 adjacencies (page-body only; Notes ignored) to prioritise falsification effort. The *end-tail* remains the highest-risk area: `Pages/cains_jawbone_page_9.md → Pages/cains_jawbone_page_16.md` and `Pages/cains_jawbone_page_16.md → Pages/cains_jawbone_page_76.md` have **zero** df==2 anchors (and still no non-lexical continuity markers). The strongest currently-known replacement gate remains `Pages/cains_jawbone_page_47.md → Pages/cains_jawbone_page_76.md` (df==2 `opposite me` / `opposite me i`), which would allow collapsing the tail to `… → Pages/cains_jawbone_page_47.md → Pages/cains_jawbone_page_76.md → Pages/cains_jawbone_page_98.md` once Pages/cains_jawbone_page_9.md and Pages/cains_jawbone_page_16.md are rehomed.
+
 - **Join (confidence: `LIKELY`):** Pages/cains_jawbone_page_24.md → Pages/cains_jawbone_page_86.md
   - **Why:** page-body name `Caroline` appears only on these two pages, and both open with “Next day…” framing; v2.10 uses this to justify placing `N13` immediately after Block A rather than after Page 91.
   - **Falsifier:** `Caroline` on Pages/cains_jawbone_page_24.md is later shown to be a different referent from Caroline Jasmine on Pages/cains_jawbone_page_86.md, or another page repeats the same Caroline+“Next day” bundle and forces a different predecessor/successor.
