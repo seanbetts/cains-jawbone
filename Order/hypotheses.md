@@ -2046,6 +2046,7 @@ Delta from v2.2 (Phase 6 tightening; keep falsifiable):
   - **Falsifier:** Pages/cains_jawbone_page_93.md gains a stronger successor inside the `N07` run, or Pages/cains_jawbone_page_56.md gains a stronger predecessor inside the `N26` breakfast-recapping run.
   - **Next falsification check:** re-read the Pages/cains_jawbone_page_93.md ending and Pages/cains_jawbone_page_56.md opening for a non-generic continuity marker (shared named participant, shared setting, or phrase-level continuation).
   - **Phase 6 test (2026-01-01):** page-body scan found **zero** shared corpus-unique 3‑grams (or longer) and **zero** shared-unique word anchors between the pages.
+  - **Phase 6 test (2026-01-03):** re-read the Pages/cains_jawbone_page_93.md ending and Pages/cains_jawbone_page_56.md opening; no continuity marker appears (no shared cast/prop/place/time cue). The register jump (Bunny/Perry internal proof-weighing + “Cambridge week” wire-tap metaphor ↔ Browning/Pippa “morning” + insomnia/breakfast clairvoyance pun) reads like a hard scene break → treat as a pure placeholder join.
   - **Outcome:** `UNCLEAR` (treat as a pure placeholder join).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_71.md → Pages/cains_jawbone_page_66.md
