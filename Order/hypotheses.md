@@ -1689,12 +1689,12 @@ Purpose: provide a **single full 100-page ordering** that satisfies the current 
 - **Segment N (`N32`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_62.md → Pages/cains_jawbone_page_65.md → Pages/cains_jawbone_page_90.md → Pages/cains_jawbone_page_89.md
 - **Segment O (`N04`, confidence: `MAYBE` internal direction):** Pages/cains_jawbone_page_64.md → Pages/cains_jawbone_page_61.md
 - **Segment P (`N34`, confidence: `MAYBE` internal direction):** Pages/cains_jawbone_page_25.md → Pages/cains_jawbone_page_20.md
-- **Segment Q (`N09`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_68.md → Pages/cains_jawbone_page_69.md → Pages/cains_jawbone_page_96.md → Pages/cains_jawbone_page_95.md → Pages/cains_jawbone_page_70.md
+- **Segment Q (`N09`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_68.md → Pages/cains_jawbone_page_69.md → Pages/cains_jawbone_page_95.md → Pages/cains_jawbone_page_70.md
 - **Segment R (`N02`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_22.md → Pages/cains_jawbone_page_79.md → Pages/cains_jawbone_page_48.md → Pages/cains_jawbone_page_88.md → Pages/cains_jawbone_page_39.md → Pages/cains_jawbone_page_10.md → Pages/cains_jawbone_page_99.md → Pages/cains_jawbone_page_8.md → Pages/cains_jawbone_page_19.md → Pages/cains_jawbone_page_57.md → Pages/cains_jawbone_page_46.md
 - **Segment S (`N25`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_33.md → Pages/cains_jawbone_page_34.md → Pages/cains_jawbone_page_52.md → Pages/cains_jawbone_page_53.md
 - **Segment T (`N10` + `N39`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_14.md → Pages/cains_jawbone_page_12.md → Pages/cains_jawbone_page_50.md → Pages/cains_jawbone_page_28.md
 - **Segment U (`N06`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_66.md → Pages/cains_jawbone_page_67.md → Pages/cains_jawbone_page_73.md → Pages/cains_jawbone_page_74.md → Pages/cains_jawbone_page_75.md → Pages/cains_jawbone_page_83.md
-- **Segment V (singletons tail, confidence: `MAYBE`):** Pages/cains_jawbone_page_2.md → Pages/cains_jawbone_page_9.md → Pages/cains_jawbone_page_16.md → Pages/cains_jawbone_page_18.md → Pages/cains_jawbone_page_37.md → Pages/cains_jawbone_page_38.md → Pages/cains_jawbone_page_40.md → Pages/cains_jawbone_page_51.md → Pages/cains_jawbone_page_63.md → Pages/cains_jawbone_page_72.md → Pages/cains_jawbone_page_76.md → Pages/cains_jawbone_page_78.md → Pages/cains_jawbone_page_81.md → Pages/cains_jawbone_page_84.md → Pages/cains_jawbone_page_98.md → Pages/cains_jawbone_page_100.md
+- **Segment V (singletons tail, confidence: `MAYBE`):** Pages/cains_jawbone_page_9.md → Pages/cains_jawbone_page_16.md → Pages/cains_jawbone_page_76.md → Pages/cains_jawbone_page_98.md
 
 ## Phase 5 full ordering draft (v2)
 
