@@ -2042,6 +2042,27 @@ Delta from v2.2 (Phase 6 tightening; keep falsifiable):
   - **Phase 6 test (2026-01-03):** page-body df==2 token scan suggests both pages likely stitch elsewhere: Pages/cains_jawbone_page_71.md uniquely shares `odour` with Pages/cains_jawbone_page_7.md, `duty` with Pages/cains_jawbone_page_46.md, and `hot` with Pages/cains_jawbone_page_47.md; Pages/cains_jawbone_page_66.md uniquely shares `lose` with Pages/cains_jawbone_page_31.md and `sorrow` with Pages/cains_jawbone_page_33.md (and also `cleaner` with Pages/cains_jawbone_page_52.md / `morbid` with Pages/cains_jawbone_page_61.md / `neither` with Pages/cains_jawbone_page_50.md). Treat as re-stitch leads only.
   - **Outcome:** `UNCLEAR` (treat as a pure placeholder join).
 
+- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_71.md → Pages/cains_jawbone_page_47.md
+  - **Why:** candidate replacement successor for Page 71: page-body token `hot` appears only on these two pages (p71 “hot dishes” ↔ p47 “dead, hot, close air”), and both include Henry + tea framing (p71 “before our tea…”; p47 tea naming + Henry policing diction), making this a plausible non-lexical continuity cluster even if adjacency remains unproven.
+  - **Falsifier:** a third page is found containing `hot` in its page body (making this non-unique), or re-reading shows clearly incompatible in-world settings/participants (forcing the overlap to be rhetorical coincidence), or Page 47 remains locked as the tail gate by a stronger multi-anchor chain that excludes moving it here.
+  - **Next falsification check:** re-read for a second independent continuity marker beyond `hot` (shared named participant other than Henry, shared object/food, or a quote continuation); if absent, treat as an ordering lead only.
+  - **Phase 6 test (2026-01-03):** df scan confirms `hot` appears only on Pages/cains_jawbone_page_71.md and Pages/cains_jawbone_page_47.md; boundary re-read finds no second concrete anchor beyond Henry/tea motif overlap.
+  - **Outcome:** `UNCLEAR` (promising thematic fit; still lacks a second independent anchor).
+
+- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_71.md → Pages/cains_jawbone_page_7.md
+  - **Why:** candidate replacement successor for Page 71: page-body token `odour` appears only on these two pages (p71 “old odour…” ↔ p7 “concomitant odour”), giving a rare sensory/wording anchor.
+  - **Falsifier:** a third page is found containing `odour` in its page body (making this non-unique), or re-reading confirms incompatible voice/setting constraints across the boundary (making the shared token accidental).
+  - **Next falsification check:** re-read boundary for any second independent continuity marker (shared cast/prop/time cue) beyond `odour`.
+  - **Phase 6 test (2026-01-03):** df scan confirms `odour` appears only on Pages/cains_jawbone_page_71.md and Pages/cains_jawbone_page_7.md; no second boundary-level anchor was found on re-read.
+  - **Outcome:** `UNCLEAR` (single-token bridge only; keep as a re-stitch lead).
+
+- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_71.md → Pages/cains_jawbone_page_46.md
+  - **Why:** candidate replacement successor for Page 71: page-body token `duty` appears only on these two pages (p71 “express my duty…” ↔ p46 “path of duty”), giving a rare word-level anchor; both pages also contain animal-coded physicality (p71 Henry “displayed himself all over me” / p46 “provided a chop for me”), but this is not yet a reliable second anchor.
+  - **Falsifier:** a third page is found containing `duty` in its page body (making this non-unique), or re-reading confirms the POVs are incompatible (forcing the overlap to be coincidence), or Page 46 is forced to remain inside the dog-run block by stronger internal locks.
+  - **Next falsification check:** re-read boundary for any shared household participant/prop continuity (e.g., same Henry role, same domestic setting) that would support treating `duty` as intentional handoff rather than accidental vocabulary overlap.
+  - **Phase 6 test (2026-01-03):** df scan confirms `duty` appears only on Pages/cains_jawbone_page_71.md and Pages/cains_jawbone_page_46.md; no second concrete continuity marker currently upgrades this beyond a re-stitch lead.
+  - **Outcome:** `UNCLEAR` (single-token bridge only; keep as a re-stitch lead).
+
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_33.md → Pages/cains_jawbone_page_66.md
   - **Why:** candidate replacement predecessor for the `N06` start: page-body token `sorrow` appears only on these two pages (p33 “my gray hairs would go down in sorrow…” ↔ p66 “joy’s crown of sorrow…”), and the echo occurs exactly at the boundary (end-of-page → opening sentence).
   - **Falsifier:** a third page is found containing `sorrow` in its page body (making this non-unique), or re-reading shows incompatible in-world setting/participants (making the “sorrow” echo rhetorical coincidence), or Page 33 is forced to remain adjacent to Page 34 by a stronger continuity marker.
