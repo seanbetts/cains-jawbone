@@ -1735,10 +1735,11 @@ Key changes vs v1:
 - **Block W (`N06`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_66.md → Pages/cains_jawbone_page_67.md → Pages/cains_jawbone_page_73.md → Pages/cains_jawbone_page_74.md → Pages/cains_jawbone_page_75.md → Pages/cains_jawbone_page_83.md
 - **Block X (tail, confidence: `MAYBE`):** Pages/cains_jawbone_page_2.md → Pages/cains_jawbone_page_9.md → Pages/cains_jawbone_page_16.md → Pages/cains_jawbone_page_18.md → Pages/cains_jawbone_page_37.md → Pages/cains_jawbone_page_38.md → Pages/cains_jawbone_page_40.md → Pages/cains_jawbone_page_51.md → Pages/cains_jawbone_page_63.md → Pages/cains_jawbone_page_72.md → Pages/cains_jawbone_page_76.md → Pages/cains_jawbone_page_78.md → Pages/cains_jawbone_page_81.md → Pages/cains_jawbone_page_84.md → Pages/cains_jawbone_page_98.md → Pages/cains_jawbone_page_77.md → Pages/cains_jawbone_page_46.md → Pages/cains_jawbone_page_100.md
 
-### Proposed order (all 100 pages; v2.29)
+### Proposed order (all 100 pages; v2.30)
 
 Delta from v2.2 (Phase 6 tightening; keep falsifiable):
 
+- Trial re-stitch (v2.30): replace the weakest v2.29 permutation gate `Pages/cains_jawbone_page_70.md → Pages/cains_jawbone_page_84.md` by splitting `N09`’s `Block R` into a meeting sub-strand (`Pages/cains_jawbone_page_68.md → Pages/cains_jawbone_page_69.md`) and a Café Royal/confession sub-strand (`Pages/cains_jawbone_page_95.md → Pages/cains_jawbone_page_70.md`), then inserting the Café Royal/confession sub-strand after `Block I` (so `Pages/cains_jawbone_page_11.md → Pages/cains_jawbone_page_95.md` via df==2 phrase `what to do`, and `Pages/cains_jawbone_page_70.md → Pages/cains_jawbone_page_96.md` via df==2 token `poem`). This keeps zero-anchor block boundaries at 0, at the cost of breaking the former cross-substrand decision-phrase continuity `Pages/cains_jawbone_page_69.md (“The answer was plain enough”) → Pages/cains_jawbone_page_95.md (“Because I had decided what to do”)`.
 - Trial re-stitch (v2.19): replace the placeholder boundary `Pages/cains_jawbone_page_70.md → Pages/cains_jawbone_page_1.md` with `Pages/cains_jawbone_page_70.md → Pages/cains_jawbone_page_96.md` (multi-anchor: page-body token `poem` appears only on Pages/cains_jawbone_page_70.md + Pages/cains_jawbone_page_96.md; both also share `written` and the phrase `in the morning`). This keeps the Café Royal / threat‑retaliation strand adjacent to the “waiting for her” café strand.
 - Trial re-stitch (v2.19): move Pages/cains_jawbone_page_72.md to precede Pages/cains_jawbone_page_1.md (df==2 bigram `alone at` + low-df `sit down`) and remove it from the provisional `Pages/cains_jawbone_page_72.md → Pages/cains_jawbone_page_49.md` bridge, so Page 1 no longer needs to follow Page 70 in the full-order draft.
 - Trial re-stitch (v2.19): move Pages/cains_jawbone_page_16.md into the King/Henry `N08` run between Pages/cains_jawbone_page_94.md and Pages/cains_jawbone_page_85.md (df==2 token `naturally`; shared “return to Henry” decision/action beats), eliminating the unsupported adjacencies `Pages/cains_jawbone_page_9.md → Pages/cains_jawbone_page_16.md` / `Pages/cains_jawbone_page_16.md → Pages/cains_jawbone_page_76.md`.
@@ -1785,11 +1786,12 @@ Delta from v2.2 (Phase 6 tightening; keep falsifiable):
 - **Block G (`N20` + bridge, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_49.md → Pages/cains_jawbone_page_13.md → Pages/cains_jawbone_page_31.md
 - **Block O (`N32`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_62.md → Pages/cains_jawbone_page_65.md → Pages/cains_jawbone_page_90.md → Pages/cains_jawbone_page_89.md
 - **Block H (`N16`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_7.md → Pages/cains_jawbone_page_45.md → Pages/cains_jawbone_page_26.md → Pages/cains_jawbone_page_44.md → Pages/cains_jawbone_page_55.md
-- **Block R (`N09`, confidence: `MAYBE` internal):** Pages/cains_jawbone_page_68.md → Pages/cains_jawbone_page_69.md → Pages/cains_jawbone_page_95.md → Pages/cains_jawbone_page_70.md
+- **Block R (`N09`, confidence: `MAYBE` internal):** Pages/cains_jawbone_page_68.md → Pages/cains_jawbone_page_69.md
 - **Block H2 (`N37`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_84.md
 - **Block H1 (`N29`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_37.md
 - **Block K (`N07`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_97.md → Pages/cains_jawbone_page_93.md
 - **Block I (`N17`, confidence: `CERTAIN` internal):** Pages/cains_jawbone_page_41.md → Pages/cains_jawbone_page_11.md
+- **Block R2 (`N09` Café Royal/confession, confidence: `MAYBE` internal):** Pages/cains_jawbone_page_95.md → Pages/cains_jawbone_page_70.md
 - **Block N (`N01`, confidence: `MAYBE` internal):** Pages/cains_jawbone_page_96.md → Pages/cains_jawbone_page_17.md → Pages/cains_jawbone_page_43.md → Pages/cains_jawbone_page_100.md
 - **Block W (`N06`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_66.md → Pages/cains_jawbone_page_67.md → Pages/cains_jawbone_page_73.md → Pages/cains_jawbone_page_74.md → Pages/cains_jawbone_page_75.md → Pages/cains_jawbone_page_83.md
 - **Block M (`N21`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_92.md → Pages/cains_jawbone_page_42.md
@@ -1799,32 +1801,32 @@ Delta from v2.2 (Phase 6 tightening; keep falsifiable):
 - **Block V (`N10` + `N39`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_14.md → Pages/cains_jawbone_page_12.md → Pages/cains_jawbone_page_50.md
 - **Block X (tail, confidence: `MAYBE`):** Pages/cains_jawbone_page_47.md → Pages/cains_jawbone_page_76.md → Pages/cains_jawbone_page_98.md
 
-### Phase 6 boundary tests for v2.29 (block boundaries)
+### Phase 6 boundary tests for v2.30 (block boundaries)
 
-- **Phase 6 scan (2026-01-04):** recomputed df==2 token/ngram overlaps for v2.29 *block-boundary* adjacencies (page-body only; Notes ignored). v2.29 retains the v2.28 boundary-fix moves (v2.25 Block F move; v2.26 Block L move; v2.27 moving Block O after Page 31 and restoring `Pages/cains_jawbone_page_74.md → Pages/cains_jawbone_page_75.md` inside `N06`; v2.28 dog-run re-stitch `Pages/cains_jawbone_page_46.md → Pages/cains_jawbone_page_72.md`) but permutes the post-Block R segment to eliminate the remaining zero-anchor boundaries. Key new boundary anchors include `Pages/cains_jawbone_page_70.md → Pages/cains_jawbone_page_84.md` (`i do`), `Pages/cains_jawbone_page_93.md → Pages/cains_jawbone_page_41.md` (`M'Cullough`), `Pages/cains_jawbone_page_11.md → Pages/cains_jawbone_page_96.md` (`that night`), `Pages/cains_jawbone_page_100.md → Pages/cains_jawbone_page_66.md` (`smiling`), `Pages/cains_jawbone_page_83.md → Pages/cains_jawbone_page_92.md` (`dew`), and `Pages/cains_jawbone_page_42.md → Pages/cains_jawbone_page_2.md` (`figures`/`surmised`). The df==2 scan flags **no** v2.29 block-boundary adjacencies with zero shared df==2 token anchors and zero shared df==2 n‑gram anchors.
+- **Phase 6 scan (2026-01-04):** recomputed df==2 token/ngram overlaps for v2.30 *block-boundary* adjacencies (page-body only; Notes ignored). v2.30 retains the v2.29 zero-boundary elimination, but replaces the weakest permutation gate `Pages/cains_jawbone_page_70.md → Pages/cains_jawbone_page_84.md` by splitting `Block R` and relocating the Café Royal/confession pair `Pages/cains_jawbone_page_95.md → Pages/cains_jawbone_page_70.md` to sit after `Block I`. Key new boundary anchors include `Pages/cains_jawbone_page_69.md → Pages/cains_jawbone_page_84.md` (`bus`), `Pages/cains_jawbone_page_11.md → Pages/cains_jawbone_page_95.md` (df==2 phrase `what to do`), and `Pages/cains_jawbone_page_70.md → Pages/cains_jawbone_page_96.md` (df==2 token `poem`), while preserving the prior non-zero gates `Pages/cains_jawbone_page_100.md → Pages/cains_jawbone_page_66.md` (`smiling`), `Pages/cains_jawbone_page_83.md → Pages/cains_jawbone_page_92.md` (`dew`), and `Pages/cains_jawbone_page_42.md → Pages/cains_jawbone_page_2.md` (`figures`/`surmised`). The df==2 scan flags **no** v2.30 block-boundary adjacencies with zero shared df==2 token anchors and zero shared df==2 n‑gram anchors.
 
-#### Phase 6 boundary ledger (v2.29; “zero-anchor” block boundaries)
+#### Phase 6 boundary ledger (v2.30; “zero-anchor” block boundaries)
 
-- None. (All v2.29 block-boundary adjacencies have at least one shared df==2 token anchor or df==2 n‑gram anchor; the v2.28 placeholders `Pages/cains_jawbone_page_11.md → Pages/cains_jawbone_page_97.md` and `Pages/cains_jawbone_page_93.md → Pages/cains_jawbone_page_66.md` are removed by the v2.29 permutation.)
+- None. (All v2.30 block-boundary adjacencies have at least one shared df==2 token anchor or df==2 n‑gram anchor.)
 
-#### Phase 6 boundary ledger (v2.29; weakest non-zero block boundaries)
+#### Phase 6 boundary ledger (v2.30; weakest non-zero block boundaries)
 
-- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_70.md → Pages/cains_jawbone_page_84.md
-  - **Why:** v2.29 permutation gate; only df==2 phrase anchor is the bigram `i do` (high-noise).
-  - **Falsifier:** a stronger successor for Pages/cains_jawbone_page_70.md emerges (2+ independent anchors), and/or re-reading confirms incompatible scene constraints across the boundary (different in-world “girl”, different venue/time framing).
-  - **Next falsification check:** re-read the p70 ending and p84 opening for any second independent anchor (shared cast/venue/prop/time cue) beyond the generic phrase overlap; if none, treat this as a placeholder boundary used only to avoid zero-anchor joins.
-  - **Phase 6 test (2026-01-04):** re-read p70 ending + p84 opening; found no shared participant/venue/prop continuity beyond the generic overlap (p70 written-confession/threat beat ↔ p84 “deceased wished us to know each other” + Alistair/Barbara scene).
-  - **Outcome:** `UNCLEAR` (keep falsifiable; high-priority to replace if a stronger Page 70 successor is found).
+- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_69.md → Pages/cains_jawbone_page_84.md
+  - **Why:** v2.30 split-`Block R` gate; the page-body word `bus` appears only on these two pages (p69 bus tickets ↔ p84 Dagenham bus), providing a non-zero handoff into the `N37` singleton.
+  - **Falsifier:** a third page is found containing `bus` in its page body (making this non-unique), and/or a stronger anchored successor for Pages/cains_jawbone_page_69.md is recovered that excludes Pages/cains_jawbone_page_84.md.
+  - **Next falsification check:** re-read p69 ending + p84 opening for a second independent continuity marker beyond `bus` (shared participant/venue/prop/time cue); if none emerges, treat this as a weak bridge.
+  - **Phase 6 test (2026-01-04):** re-read p69 ending + p84 opening; confirmed `bus` is a deliberate motif in both pages but no second concrete continuity marker was found.
+  - **Outcome:** `UNCLEAR` (non-zero but weak; keep falsifiable).
 
-- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_11.md → Pages/cains_jawbone_page_96.md
-  - **Why:** v2.29 permutation gate; only df==2 phrase anchor is `that night` (generic time phrase).
-  - **Falsifier:** Pages/cains_jawbone_page_96.md gains a stronger predecessor with 2+ independent anchors, and/or re-reading identifies a hard contradiction in voice/scene constraints across the boundary.
-  - **Next falsification check:** re-read the p11 ending and p96 opening for any second independent continuity marker (shared participant/venue/prop, or narrator-voice carryover) beyond `that night`; if none, keep this as a non-zero but weak bridge between `N17` and `N01`.
-  - **Phase 6 test (2026-01-04):** re-read p11 ending + p96 opening; no concrete continuity marker found beyond the shared `that night` phrasing.
-  - **Outcome:** `UNCLEAR` (weak gate only; do not treat as stitch evidence).
+- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_70.md → Pages/cains_jawbone_page_96.md
+  - **Why:** v2.30 replacement successor for Pages/cains_jawbone_page_70.md; df==2 token `poem` appears only on these two pages (p70 “fragments of a poem God had written…” ↔ p96 Padre “written that poem…”), supporting a cleaner bridge out of the Café Royal/confession sub-strand than the removed v2.29 `i do` gate.
+  - **Falsifier:** a third page is found containing `poem` in its page body (making this non-unique), and/or a stronger successor for Pages/cains_jawbone_page_70.md with 2+ independent anchors excludes Pages/cains_jawbone_page_96.md.
+  - **Next falsification check:** re-read p70 ending + p96 opening for a second independent continuity marker (shared participant/venue/prop/time cue) beyond the `poem` echo; if none, treat as a re-stitch lead only.
+  - **Phase 6 test (2026-01-04):** re-read p70 ending + p96 opening; no concrete continuity marker found beyond the `poem` echo and generic “in the morning” framing.
+  - **Outcome:** `UNCLEAR` (better than the removed `i do` gate, but still needs a second anchor).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_100.md → Pages/cains_jawbone_page_66.md
-  - **Why:** v2.29 permutation gate; only df==2 token anchor is `smiling` (generic).
+  - **Why:** v2.29/v2.30 permutation gate; only df==2 token anchor is `smiling` (generic).
   - **Falsifier:** Pages/cains_jawbone_page_100.md is rehomed within `N01` (so it no longer ends the block), and/or Pages/cains_jawbone_page_66.md gains a stronger predecessor inside the `N06` run that excludes Pages/cains_jawbone_page_100.md.
   - **Next falsification check:** re-read the p100 ending and p66 opening for a non-generic continuity marker (shared place/route constraint, shared cast/prop, or a quote-level carryover); if none, keep this as a placeholder boundary.
   - **Phase 6 test (2026-01-04):** re-read p100 ending + p66 opening; no hard continuity marker found beyond `smiling` (the “dead”/woman-in-scene overlap is thematic but non-exclusive).
