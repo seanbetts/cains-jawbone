@@ -1816,14 +1816,15 @@ Delta from v2.2 (Phase 6 tightening; keep falsifiable):
   - **Falsifier:** a third page is found containing `bus` in its page body (making this non-unique), and/or a stronger anchored successor for Pages/cains_jawbone_page_69.md is recovered that excludes Pages/cains_jawbone_page_84.md.
   - **Next falsification check:** re-read p69 ending + p84 opening for a second independent continuity marker beyond `bus` (shared participant/venue/prop/time cue); if none emerges, treat this as a weak bridge.
   - **Phase 6 test (2026-01-04):** re-read p69 ending + p84 opening; confirmed `bus` is a deliberate motif in both pages but no second concrete continuity marker was found.
+  - **Phase 6 test (2026-01-04):** token/n‑gram df scan found **no** shared low-df n‑grams (n=2–6, df≤3) and no shared low-df tokens (df≤8) beyond the df==2 token `bus`.
   - **Outcome:** `UNCLEAR` (non-zero but weak; keep falsifiable).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_70.md → Pages/cains_jawbone_page_96.md
-  - **Why:** v2.30 replacement successor for Pages/cains_jawbone_page_70.md; df==2 token `poem` appears only on these two pages (p70 “fragments of a poem God had written…” ↔ p96 Padre “written that poem…”), supporting a cleaner bridge out of the Café Royal/confession sub-strand than the removed v2.29 `i do` gate.
+  - **Why:** v2.30 replacement successor for Pages/cains_jawbone_page_70.md; multiple low-df lexical anchors align across the boundary: df==2 token `poem` (p70 “fragments of a poem God had written…” ↔ p96 Padre “written that poem…”), df==3 token `written`, and df==3 trigram `in the morning`.
   - **Falsifier:** a third page is found containing `poem` in its page body (making this non-unique), and/or a stronger successor for Pages/cains_jawbone_page_70.md with 2+ independent anchors excludes Pages/cains_jawbone_page_96.md.
-  - **Next falsification check:** re-read p70 ending + p96 opening for a second independent continuity marker (shared participant/venue/prop/time cue) beyond the `poem` echo; if none, treat as a re-stitch lead only.
-  - **Phase 6 test (2026-01-04):** re-read p70 ending + p96 opening; no concrete continuity marker found beyond the `poem` echo and generic “in the morning” framing.
-  - **Outcome:** `UNCLEAR` (better than the removed `i do` gate, but still needs a second anchor).
+  - **Next falsification check:** re-read p70 ending + p96 opening for a non-lexical continuity marker (shared participant/venue/prop/time constraint) beyond the low-df writing/morning bundle; if none, treat as a re-stitch lead only.
+  - **Phase 6 test (2026-01-04):** token/n‑gram df scan found df==2 token `poem` plus df==3 token `written` and df==3 trigram `in the morning` shared; no additional shared low-df n‑grams (n=4–6, df≤3) were found.
+  - **Outcome:** `UNCLEAR` (multi-anchor lexical bridge; still lacks a non-lexical continuity anchor).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_100.md → Pages/cains_jawbone_page_66.md
   - **Why:** v2.29/v2.30 permutation gate; only df==2 token anchor is `smiling` (generic).
