@@ -1807,6 +1807,29 @@ Delta from v2.2 (Phase 6 tightening; keep falsifiable):
 
 - None. (All v2.29 block-boundary adjacencies have at least one shared df==2 token anchor or df==2 n‑gram anchor; the v2.28 placeholders `Pages/cains_jawbone_page_11.md → Pages/cains_jawbone_page_97.md` and `Pages/cains_jawbone_page_93.md → Pages/cains_jawbone_page_66.md` are removed by the v2.29 permutation.)
 
+#### Phase 6 boundary ledger (v2.29; weakest non-zero block boundaries)
+
+- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_70.md → Pages/cains_jawbone_page_84.md
+  - **Why:** v2.29 permutation gate; only df==2 phrase anchor is the bigram `i do` (high-noise).
+  - **Falsifier:** a stronger successor for Pages/cains_jawbone_page_70.md emerges (2+ independent anchors), and/or re-reading confirms incompatible scene constraints across the boundary (different in-world “girl”, different venue/time framing).
+  - **Next falsification check:** re-read the p70 ending and p84 opening for any second independent anchor (shared cast/venue/prop/time cue) beyond the generic phrase overlap; if none, treat this as a placeholder boundary used only to avoid zero-anchor joins.
+  - **Phase 6 test (2026-01-04):** re-read p70 ending + p84 opening; found no shared participant/venue/prop continuity beyond the generic overlap (p70 written-confession/threat beat ↔ p84 “deceased wished us to know each other” + Alistair/Barbara scene).
+  - **Outcome:** `UNCLEAR` (keep falsifiable; high-priority to replace if a stronger Page 70 successor is found).
+
+- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_11.md → Pages/cains_jawbone_page_96.md
+  - **Why:** v2.29 permutation gate; only df==2 phrase anchor is `that night` (generic time phrase).
+  - **Falsifier:** Pages/cains_jawbone_page_96.md gains a stronger predecessor with 2+ independent anchors, and/or re-reading identifies a hard contradiction in voice/scene constraints across the boundary.
+  - **Next falsification check:** re-read the p11 ending and p96 opening for any second independent continuity marker (shared participant/venue/prop, or narrator-voice carryover) beyond `that night`; if none, keep this as a non-zero but weak bridge between `N17` and `N01`.
+  - **Phase 6 test (2026-01-04):** re-read p11 ending + p96 opening; no concrete continuity marker found beyond the shared `that night` phrasing.
+  - **Outcome:** `UNCLEAR` (weak gate only; do not treat as stitch evidence).
+
+- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_100.md → Pages/cains_jawbone_page_66.md
+  - **Why:** v2.29 permutation gate; only df==2 token anchor is `smiling` (generic).
+  - **Falsifier:** Pages/cains_jawbone_page_100.md is rehomed within `N01` (so it no longer ends the block), and/or Pages/cains_jawbone_page_66.md gains a stronger predecessor inside the `N06` run that excludes Pages/cains_jawbone_page_100.md.
+  - **Next falsification check:** re-read the p100 ending and p66 opening for a non-generic continuity marker (shared place/route constraint, shared cast/prop, or a quote-level carryover); if none, keep this as a placeholder boundary.
+  - **Phase 6 test (2026-01-04):** re-read p100 ending + p66 opening; no hard continuity marker found beyond `smiling` (the “dead”/woman-in-scene overlap is thematic but non-exclusive).
+  - **Outcome:** `UNCLEAR` (non-zero but weak; keep falsifiable).
+
 - **Join (confidence: `LIKELY`):** Pages/cains_jawbone_page_24.md → Pages/cains_jawbone_page_86.md
   - **Why:** page-body name `Caroline` appears only on these two pages, and both open with “Next day…” framing; v2.10 uses this to justify placing `N13` immediately after Block A rather than after Page 91.
   - **Falsifier:** `Caroline` on Pages/cains_jawbone_page_24.md is later shown to be a different referent from Caroline Jasmine on Pages/cains_jawbone_page_86.md, or another page repeats the same Caroline+“Next day” bundle and forces a different predecessor/successor.
