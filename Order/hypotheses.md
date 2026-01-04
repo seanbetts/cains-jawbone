@@ -1991,12 +1991,12 @@ Delta from v2.2 (Phase 6 tightening; keep falsifiable):
   - **Outcome:** `UNCLEAR` (lexical-only; treat as a provisional placement boundary).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_81.md → Pages/cains_jawbone_page_6.md
-  - **Why:** page-body words `band` and `speckled` appear only on these two pages, and the trigram `i could make` appears only on these two page bodies; this is a stronger multi-anchor bridge than leaving Page 81 floating in the tail.
+  - **Why:** multi-anchor lexical overlap: page-body words `band` and `speckled` appear only on these two pages, and the trigram `i could make` appears only on these two page bodies; historically used as a re-stitch lead for placing Page 81.
   - **Falsifier:** a third page is found containing `band`, `speckled`, or the trigram `i could make` in its page body (making the overlap non-unique), or Pages/cains_jawbone_page_81.md is anchored elsewhere by a stronger multi-anchor (shared cast/prop/time) that forces it away from Pages/cains_jawbone_page_6.md.
   - **Next falsification check:** re-read the Pages/cains_jawbone_page_81.md ending and Pages/cains_jawbone_page_6.md opening for any continuity beyond the Speckled Band layer (shared bell-wire/window handling, shared named participant, or shared poison/botany register).
   - **Phase 6 test (2025-12-31):** page-body n‑gram scan found **zero** shared 4‑grams (or longer); corpus scan confirms `band` + `speckled` and `i could make` are unique to this pair.
-  - **Phase 6 test (2026-01-02):** re-read the Page 81 → Page 6 boundary; no continuity marker appears beyond the shared Speckled Band allusion (no shared cast/prop/time; Page 81’s water/window killing vignette does not hand off into Page 6’s house/foxglove register). Treat as a re-stitch lead only.
-  - **Outcome:** `UNCLEAR` (lexical bridge confirmed; no second continuity anchor).
+  - **Phase 6 test (2026-01-02):** re-read the Page 81 → Page 6 boundary; no continuity marker appears beyond the shared Speckled Band allusion (no shared cast/prop/time; Page 81’s water/window killing vignette does not hand off into Page 6’s house/foxglove register). Treat as an allusion overlap only (not an adjacency constraint).
+  - **Outcome:** `FAIL` (treat as an isolated allusion overlap; do not use as an adjacency constraint).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_42.md → Pages/cains_jawbone_page_1.md
   - **Why:** former v2.11 block boundary placeholder; not used in v2.16 after adopting the stronger Pages/cains_jawbone_page_42.md → Pages/cains_jawbone_page_2.md successor candidate.
@@ -2581,6 +2581,7 @@ These are the **highest-risk segment joins** inside the v2 full ordering draft. 
   - **Falsifier:** a third page is found containing `alone at` in its page body (making the overlap non-unique), or re-reading shows incompatible settings/time cues, or Pages/cains_jawbone_page_1.md gains a stronger predecessor that forces Pages/cains_jawbone_page_72.md away.
   - **Next falsification check:** test whether Pages/cains_jawbone_page_72.md’s “magazine / short stories” register has any second continuity marker with Pages/cains_jawbone_page_1.md’s “exact account” register (shared publication name, shared person, or a repeated phrase beyond `sit down` / `alone at`).
   - **Phase 6 test (2026-01-02):** verified `alone at` appears in page bodies only on Pages/cains_jawbone_page_1.md and Pages/cains_jawbone_page_72.md; verified `sit down` appears only on Pages/cains_jawbone_page_1.md + Pages/cains_jawbone_page_52.md + Pages/cains_jawbone_page_72.md; re-read found no contradiction but no shared named participant/venue anchor either.
+  - **Phase 6 test (2026-01-04):** focused overlap scan (tokens df≤8; tokenised n‑grams n=2–6 with df≤3) found only `sit` (df=4) plus the anchors `alone at` (df=2) and `sit down` (df=3); no additional shared low-df token or n‑gram anchors were found.
   - **Outcome:** `PASS` (adopt as the v2.18 predecessor for Pages/cains_jawbone_page_1.md; keep confidence `MAYBE`).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_96.md → Pages/cains_jawbone_page_1.md
@@ -2605,6 +2606,7 @@ These are the **highest-risk segment joins** inside the v2 full ordering draft. 
   - **Next falsification check:** re-read the boundary to confirm the Browning quotations plausibly carry across the join (not just “both quote Browning”), and check whether another Browning-heavy page fits more cleanly as the immediate successor/predecessor.
   - **Phase 6 test (2026-01-02):** token df scan: the only shared df≤10 tokens are `dew` (df=2) plus generic `days` (df=7) and `meant` (df=8); no shared low-df n‑grams (n=2–6, df≤3).
   - **Phase 6 test (2026-01-02):** cross-check against `Indexes/quotes.md`: Page 83’s “good news from Ghent” is Robert Browning, and Page 92’s indented stanza (“Yet now my heart leaps, O beloved! …”) is Browning (“Saul”), giving an explicit second anchor beyond `dew`.
+  - **Phase 6 test (2026-01-04):** re-read p83 ending + p92 opening; no contradiction found. The scene/venue shifts (newsboys/“old man” companion beat ↔ oysters/earlier-days reflection), so Browning remains the only concrete continuity anchor (treat this as a gate, not a scene-continuity lock).
   - **Outcome:** `PASS` (upgrade from `MAYBE` to `LIKELY`; adopt as the current v2.16 gate from Page 83 into Page 92).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_83.md → Pages/cains_jawbone_page_2.md
