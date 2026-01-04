@@ -1811,6 +1811,16 @@ Delta from v2.2 (Phase 6 tightening; keep falsifiable):
 
 #### Phase 6 boundary ledger (v2.30; weakest non-zero block boundaries)
 
+- **Phase 6 triage (2026-01-04):** df==2 scan across v2.30 block boundaries found 18 adjacencies with exactly one df==2 anchor; the highest-priority replacements are those anchored only by generic df==2 trigrams (no df==2 token anchors): `Pages/cains_jawbone_page_25.md → Pages/cains_jawbone_page_56.md` (`to me that`), `Pages/cains_jawbone_page_71.md → Pages/cains_jawbone_page_33.md` (`it seemed to`), `Pages/cains_jawbone_page_51.md → Pages/cains_jawbone_page_22.md` (`as i was`), `Pages/cains_jawbone_page_85.md → Pages/cains_jawbone_page_49.md` (`i was still`), `Pages/cains_jawbone_page_37.md → Pages/cains_jawbone_page_97.md` (`thing i had`).
+
+- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_25.md → Pages/cains_jawbone_page_56.md
+  - **Why:** v2.26/v2.30 block boundary placing the `N34` “Didling” time-factor singleton immediately before the `N26` breakfast/insomnia run; the only df==2 anchor is the generic trigram `to me that` (no df==2 token anchors).
+  - **Falsifier:** Pages/cains_jawbone_page_25.md gains a stronger successor (2+ independent anchors) that excludes Pages/cains_jawbone_page_56.md, and/or Pages/cains_jawbone_page_56.md gains a stronger predecessor (2+ independent anchors) that excludes Pages/cains_jawbone_page_25.md.
+  - **Next falsification check:** re-read the boundary for any non-lexical continuity marker (shared participant/prop/place/time), and enumerate df==2 successor/predecessor leads as replacement candidates.
+  - **Phase 6 test (2026-01-04):** focused overlap scan found **zero** df==2 token anchors and only the df==2 trigram `to me that` shared (no other shared df==2 n‑grams n=2–6).
+  - **Phase 6 test (2026-01-04):** checked top df==2 successor leads for Pages/cains_jawbone_page_25.md (`art` → Pages/cains_jawbone_page_78.md; `consciousness` → Pages/cains_jawbone_page_15.md; `continued` → Pages/cains_jawbone_page_2.md; `former` → Pages/cains_jawbone_page_58.md; `mistook` → Pages/cains_jawbone_page_53.md; `woke` → Pages/cains_jawbone_page_27.md) and top df==2 predecessor leads for Pages/cains_jawbone_page_56.md (`disappointed` ← Pages/cains_jawbone_page_81.md; `reflected` ← Pages/cains_jawbone_page_18.md; `tiny` ← Pages/cains_jawbone_page_27.md; `spent` ← Pages/cains_jawbone_page_36.md; `stomach` ← Pages/cains_jawbone_page_89.md); all currently require block-level re-stitch because they are pinned by stronger internal locks. No minimal v2.31 replacement join found.
+  - **Outcome:** `UNCLEAR` (treat as a pure placeholder join).
+
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_69.md → Pages/cains_jawbone_page_84.md
   - **Why:** v2.30 split-`Block R` gate; the page-body word `bus` appears only on these two pages (p69 bus tickets ↔ p84 Dagenham bus), providing a non-zero handoff into the `N37` singleton.
   - **Falsifier:** a third page is found containing `bus` in its page body (making this non-unique), and/or a stronger anchored successor for Pages/cains_jawbone_page_69.md is recovered that excludes Pages/cains_jawbone_page_84.md.
