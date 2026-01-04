@@ -1954,6 +1954,15 @@ Delta from v2.2 (Phase 6 tightening; keep falsifiable):
   - **Phase 6 test (2026-01-03):** re-read the Pages/cains_jawbone_page_53.md ending and Pages/cains_jawbone_page_25.md opening; no shared participant/prop/place/time hand-off appears, and the narrative frames diverge immediately (Trinder interview setup ↔ time-factor/Didling wordplay monologue). Treat the phrase bundle as a voice-tell only (not an adjacency).
   - **Outcome:** `UNCLEAR` (strong phrase-level echo; keep as a re-stitch lead until a second anchor appears).
 
+- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_5.md → Pages/cains_jawbone_page_81.md
+  - **Why:** v2.30 block boundary between Block F (ending Pages/cains_jawbone_page_5.md) and Block C0 (Pages/cains_jawbone_page_81.md); the only shared low-df anchor is the df==2 sentence-crossing phrase bundle `was dead what` (bigrams `was dead` / `dead what` and trigram `was dead what`).
+  - **Falsifier:** Pages/cains_jawbone_page_81.md gains a stronger predecessor (2+ independent anchors) that excludes Pages/cains_jawbone_page_5.md, and/or Pages/cains_jawbone_page_5.md gains a stronger successor (2+ independent anchors) that excludes Pages/cains_jawbone_page_81.md.
+  - **Next falsification check:** re-read p5 ending + p81 opening for any non-lexical continuity marker (shared cast/prop/place/time or quote continuation); if absent, treat as voice/phrase echo only and enumerate alternate predecessors for Pages/cains_jawbone_page_81.md.
+  - **Phase 6 test (2026-01-04):** focused overlap scan (tokens df≤8; tokenised n‑grams n=2–6 with df≤3) found only df==2 n‑gram anchors `was dead`, `dead what`, and `was dead what`, plus token `caught` (df=3); no df==2 token anchors or other shared low-df n‑grams were found.
+  - **Phase 6 test (2026-01-04):** boundary re-read finds a hard scene/voice break (ruined-lighthouse gossip ↔ window-throw killing vignette) with no shared participant/prop/time cue.
+  - **Phase 6 test (2026-01-04):** checked df==2 predecessor leads for Pages/cains_jawbone_page_81.md (`asking`/`goodness` ← Pages/cains_jawbone_page_74.md; `window` ← Pages/cains_jawbone_page_94.md; `fear` ← Pages/cains_jawbone_page_78.md; `babbled` ← Pages/cains_jawbone_page_70.md) and found each requires block-level re-stitch (candidates are pinned inside stronger internal chains).
+  - **Outcome:** `UNCLEAR` (lexical-only; treat as a provisional placement boundary).
+
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_81.md → Pages/cains_jawbone_page_6.md
   - **Why:** page-body words `band` and `speckled` appear only on these two pages, and the trigram `i could make` appears only on these two page bodies; this is a stronger multi-anchor bridge than leaving Page 81 floating in the tail.
   - **Falsifier:** a third page is found containing `band`, `speckled`, or the trigram `i could make` in its page body (making the overlap non-unique), or Pages/cains_jawbone_page_81.md is anchored elsewhere by a stronger multi-anchor (shared cast/prop/time) that forces it away from Pages/cains_jawbone_page_6.md.
