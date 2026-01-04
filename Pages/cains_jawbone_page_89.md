@@ -19,6 +19,7 @@ The ancient had then sat down among the heather to a great dish of brown and swi
 - **Clustering hypotheses:**
   - CERTAIN: links strongly with Pages/cains_jawbone_page_90.md (unique deer-set-piece bundle: collops + Spey Royal + deer focus ↔ deer-stalker + soigné/parquet dining scene). Treat as an immediate-neighbour constraint `Pages/cains_jawbone_page_90.md → Pages/cains_jawbone_page_89.md`; see `Order/hypotheses.md`.
   - MAYBE: body-only df==2 token overlap with Pages/cains_jawbone_page_7.md: `concomitant` (“concomitant Spey Royal” ↔ “concomitant odour”). Treat as a low-weight cross-voice bridge only.
+  - MAYBE: body-only df==2 token overlap with Pages/cains_jawbone_page_56.md: `stomach`. Treat as a low-weight cross-voice bridge only unless reinforced by a second independent anchor.
 - **Disconfirming evidence:**
   - If “death warrant” is purely idiomatic (no in-world death intended).
 - **Research needed:**

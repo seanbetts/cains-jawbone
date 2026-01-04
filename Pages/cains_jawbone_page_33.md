@@ -22,6 +22,8 @@ He was picking round among all she had left behind and found a box with his name
 - **Clustering hypotheses:**
   - CERTAIN: links strongly with Pages/cains_jawbone_page_34.md (debts/bills hinge: “I always pay my debts” ↔ “Bills should always be met squarely” + shared coercive manipulation register). Treat as a continuity constraint `Pages/cains_jawbone_page_33.md ↔ Pages/cains_jawbone_page_34.md`; see `Order/hypotheses.md` constraints inventory.
   - LIKELY (Phase 5 bridge candidate): Pages/cains_jawbone_page_10.md ↔ Pages/cains_jawbone_page_33.md (Gourdoulis 100-box; debts/owing framing). Treat as cross-narrator prop echo unless a second independent continuity anchor emerges. See `Order/hypotheses.md`.
+  - MAYBE: body-only df==2 token overlap with Pages/cains_jawbone_page_96.md: `reading`. Treat as a low-weight cross-voice bridge only unless reinforced by a second independent anchor.
+  - MAYBE: body-only df==2 token overlap with Pages/cains_jawbone_page_49.md: `hairs`. Treat as a low-weight cross-voice bridge only unless reinforced by a second independent anchor.
 - **Disconfirming evidence:**
   - If “Gourdoulis” is later shown to be something other than cigarettes.
   - If the debt/bills framing proves generic and no additional phrase-level anchor links this scene to Pages/cains_jawbone_page_34.md.

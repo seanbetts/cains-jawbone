@@ -20,6 +20,7 @@ I had gone to sleep the night before after rereading Typhoon. It had always stru
   - MAYBE: overlaps Detective/police + violence macro via Baker Street / investigator-judge framing; don’t merge on motif alone.
   - MAYBE: body-only df==2 token overlap with Pages/cains_jawbone_page_89.md: `concomitant` (“concomitant odour” ↔ “concomitant Spey Royal”). Treat as a low-weight cross-voice bridge only.
   - MAYBE: body-only df==2 n‑gram bundle with Pages/cains_jawbone_page_96.md (e.g., `the morning I had` family). Treat as an overlap/voice-tell lead only unless reinforced by a second independent anchor.
+  - MAYBE: body-only df==2 token overlap with Pages/cains_jawbone_page_71.md: `odour`. Treat as a low-weight cross-voice bridge only unless reinforced by a second independent anchor.
 - **Disconfirming evidence:**
   - If “Baker Steet” is later shown as non-Sherlock/address pun only.
 - **Research needed:**

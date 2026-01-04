@@ -41,6 +41,7 @@ LIKELY WORDPLAY
   - CERTAIN (Phase 5 adjacency candidate): Pages/cains_jawbone_page_56.md → Pages/cains_jawbone_page_54.md (insomnia/recapitulation pre-breakfast → breakfast table letter-reading beat). See `Order/hypotheses.md`.
   - MAYBE: links to other Browning/Pippa references (e.g., Pages/cains_jawbone_page_58.md).
   - MAYBE: body-only df==2 token `sausage` overlaps with Pages/cains_jawbone_page_8.md (“sausage place”); treat as a motif-only overlap unless reinforced.
+  - MAYBE: body-only df==2 token overlap with Pages/cains_jawbone_page_89.md: `stomach`. Treat as a low-weight cross-voice bridge only unless reinforced by a second independent anchor.
 - **Disconfirming evidence:**
   - If Asolo/Pippa references resolve to unrelated in-world labels rather than Browning allusion.
 - **Research needed:**

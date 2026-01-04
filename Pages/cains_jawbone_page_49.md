@@ -22,6 +22,7 @@ I always feel a bit dazed on these occasions, and was so then. But it was pleasa
 - **Clustering hypotheses:**
   - CERTAIN: add to Henry-occurrence cluster.
   - MAYBE: overlaps with Pages/cains_jawbone_page_21.md via body-only df==2 bundle `dazed` + `keep` (+ bigram `to keep`); treat as a narrator/strand overlap lead only unless reinforced by a second independent anchor.
+  - MAYBE: body-only df==2 token overlap with Pages/cains_jawbone_page_33.md: `hairs`. Treat as a low-weight cross-voice bridge only unless reinforced by a second independent anchor.
   - MAYBE: family-curse/motive thread for Henry’s repeated destruction.
   - CERTAIN (Phase 5 adjacency candidate): Pages/cains_jawbone_page_49.md → Pages/cains_jawbone_page_13.md (Blake quote continuation: this page’s “Bring Palamabron… Elynittria…” → p13’s “Rintrah… Ocalythron.”). See `Order/hypotheses.md`.
   - MAYBE: links strongly with Pages/cains_jawbone_page_92.md ↔ Pages/cains_jawbone_page_42.md (p49 “first introduction to Henry” → later guided/anticipatory scenes). Falsifier: “first introduction” refers to a different Henry than the p92/p42 guide/axis Henry, or p49 is fully accounted for by the Blake quote continuation to Pages/cains_jawbone_page_13.md.

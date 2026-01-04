@@ -37,6 +37,7 @@ LIKELY WORDPLAY
   - Snobbish, managerial; expects obedience; distrusts but relies on skilled subordinate.
 - **Clustering hypotheses:**
   - MAYBE: bell motif cluster with Pages/cains_jawbone_page_6.md (bell-wire + bell focus).
+  - MAYBE: body-only df==2 token overlap with Pages/cains_jawbone_page_25.md: `earth`. Treat as a low-weight cross-voice bridge only unless reinforced by a second independent anchor.
 - **Disconfirming evidence:**
   - If bell references resolve to unrelated settings/narrators with no continuity.
 - **Research needed:**

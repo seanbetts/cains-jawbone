@@ -27,6 +27,7 @@ But next day that religious fellow’s head drapery, if I might thus unscientifi
 - **Clustering hypotheses:**
   - LIKELY: `N26` (breakfast-recapping / second-sight voice): meal-time framing + the Phase 6 multi-anchor phrase tie to Pages/cains_jawbone_page_54.md (unique bigrams `toast and` + `not appropriate`).
   - MAYBE: overlap with `N06` (flower/eyesight register) via “red May” scent + “hit… full in the eye” + the Hamlet “duty… in his eye” line; treat as overlap-only unless a second independent `N06` anchor emerges beyond May/eye language.
+  - MAYBE: body-only df==2 token overlap with Pages/cains_jawbone_page_7.md: `odour`. Treat as a low-weight cross-voice bridge only unless reinforced by a second independent anchor.
 - **Disconfirming evidence:**
   - If “May” is clearly only the calendar month and has no continuity with later “May” references.
   - If the reused “toast and … not appropriate” phrasing is shown to be a detachable quotation layer (weakening `N26` membership).
