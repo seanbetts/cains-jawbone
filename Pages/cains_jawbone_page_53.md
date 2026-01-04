@@ -15,6 +15,7 @@ So far the mind had been ambling, if I may dare the expression ; moving forward 
 - **Clustering hypotheses:**
   - CERTAIN: links strongly with Pages/cains_jawbone_page_52.md (same interview/papers setup; “introduced to me” beat identifies the subject as Sir Paul Trinder). Treat as a continuity constraint `Pages/cains_jawbone_page_52.md ↔ Pages/cains_jawbone_page_53.md`; see `Order/hypotheses.md` constraints inventory.
   - MAYBE: Pages/cains_jawbone_page_57.md overlaps via Westphalian ham + paper-reading, but keep it separate unless it gains a second distinctive interview mechanic (door/papers/interview framing) that supports adding it to this cluster.
+  - MAYBE: body-only df==2 token overlap with Pages/cains_jawbone_page_4.md: `purpose` (p53 “for my purpose” ↔ p4 “for another purpose”). Treat as a low-weight cross-voice bridge only unless reinforced.
 - **Disconfirming evidence:**
   - If Pages/cains_jawbone_page_52.md’s interview scene and this Trinder introduction are later anchored to incompatible settings/participants, indicating different narrators.
 - **Research needed:**

@@ -22,6 +22,7 @@ What should such a man need with such a companion, I asked myself. And then I th
   - Self-justifying tone (“warrior… without being a bounder”); suspicion/interpretation of others’ motives.
 - **Clustering hypotheses:**
   - MAYBE: links to other “removed/arrested/locked in” threads (asylum/police); hold until more anchors.
+  - MAYBE: body-only df==2 token overlap with Pages/cains_jawbone_page_31.md: `square` (Trafalgar Square ↔ “square accounts”). Treat as a low-weight cross-voice bridge only.
 - **Disconfirming evidence:**
   - If “dead man” is metaphorical or purely a quoted/storytold figure rather than an in-world death.
 - **Research needed:**

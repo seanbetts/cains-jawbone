@@ -18,6 +18,7 @@ I came out of my waking dream with temples moist and tongue most damnably dry. I
 - **Clustering hypotheses:**
   - MAYBE: shares a generic “old man” motif with Pages/cains_jawbone_page_68.md, but no phrase-level overlap found; treat as non-binding unless a unique shared identifier (name/place/prop/quote) emerges.
   - MAYBE: links strongly with Pages/cains_jawbone_page_95.md / Pages/cains_jawbone_page_70.md as motivation for producing a full “hour by hour, day by day” written account (time-granularity echo: “seen every minute of it”).
+  - MAYBE: body-only df==2 token overlap with Pages/cains_jawbone_page_84.md: `bus` (bus tickets ↔ Dagenham bus). Treat as a low-weight cross-voice bridge only unless reinforced.
 - **Disconfirming evidence:**
   - If “done slowly to death” is later shown to be figurative (bored/exhausted) rather than literal.
 - **Research needed:**

@@ -25,8 +25,10 @@ Now I think I will try a cup of what they insolently call Golden Tips, a find yo
   - MAYBE: memory-trigger phrasing (“How vividly… How it all comes back”) echoes Pages/cains_jawbone_page_68.md’s “touched a chord of memory” + distraction register.
 - **Clustering hypotheses:**
   - MAYBE: café/meeting motif overlap with Pages/cains_jawbone_page_95.md, but no phrase-level overlap found; treat as non-binding unless a shared person/prop/venue marker emerges.
+  - MAYBE: body-only df==2 token overlap with Pages/cains_jawbone_page_70.md: `poem` (“written that poem…”). Treat as a low-weight cross-voice bridge only unless reinforced.
   - MAYBE (Phase 6 join candidate): Pages/cains_jawbone_page_96.md → Pages/cains_jawbone_page_17.md (café/tea waiting “for the possible her” → “Ah, here she is…” arrival beat; shared “Somerset” + marriage framing). Falsifier: “Somerset” is purely the somersault idiom and the scenes are demonstrably different venues/casts.
   - MAYBE: cross-narrator phrase echo with Pages/cains_jawbone_page_29.md (page-body unique 7‑gram “if I may be permitted the expression”), but no second anchor found; treat as a stylistic echo only (not a constraint) unless a second independent scene anchor emerges.
+  - MAYBE: body-only df==2 n‑gram bundle with Pages/cains_jawbone_page_7.md (`the morning I had` family). Treat as an overlap/voice-tell lead only unless reinforced by a second independent anchor.
 - **Disconfirming evidence:**
   - If “Catharine” and “Padre” are purely anecdotal/allusive with no recurrence.
 - **Research needed:**

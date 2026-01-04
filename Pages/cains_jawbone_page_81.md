@@ -19,6 +19,7 @@ The victim, for that I must now reluctantly call him, blocked all the sweet air 
   - Misheard last words (“… Band, Speckled”) likely echo the “It was the band! The speckled band!” dying-words line in Doyle.
   - Window/air/light imagery (“window was no more dark”).
   - MAYBE: archive-level uniqueness — “Speckled” and the trigram `I could make` appear only here and Pages/cains_jawbone_page_6.md; Phase 6 check (2025-12-30) found no additional shared continuity anchor, so treat as a stylistic echo only until reinforced.
+  - MAYBE: body-only df==2 phrase bundle with Pages/cains_jawbone_page_5.md: `was dead what` (and sub-bigrams `was dead` / `dead what`). Treat as an overlap/voice-tell lead only unless reinforced by a second independent anchor.
 - **Voice/tells:**
   - Black humour + self-exculpation (“thank goodness, I was no detective”).
 - **Clustering hypotheses:**

@@ -36,6 +36,7 @@ LIKELY WORDPLAY
   - CERTAIN: links strongly with Pages/cains_jawbone_page_13.md (unique Grantham marker: “conduit dating from 1597” in the market place ↔ “in this very place… reckon with Henry”). LIKELY within-incident order: `Pages/cains_jawbone_page_13.md → Pages/cains_jawbone_page_31.md`; see `Order/hypotheses.md` (`N20`).
   - MAYBE: cross-narrator phrase echo with Pages/cains_jawbone_page_21.md (“to reckon with Henry” is page-body unique), but no second anchor found; treat as a Henry‑motif overlap only (not a constraint) unless a tighter shared prop/place emerges.
   - MAYBE: connects to other Henry “reckon with Henry” pages (Pages/cains_jawbone_page_26.md).
+  - MAYBE: body-only df==2 token overlap with Pages/cains_jawbone_page_62.md: `square` (accounts idiom ↔ Trafalgar Square). Treat as a low-weight cross-voice bridge only.
 - **Disconfirming evidence:**
   - If “Caseus”/Cassius reading doesn’t recur and “hip pocket” is purely idiomatic (not weapon).
 - **Research needed:**

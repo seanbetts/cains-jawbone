@@ -41,6 +41,7 @@ If Henry had been there he could have told me what to do. His great voice, tuned
   - CERTAIN: links strongly with Pages/cains_jawbone_page_41.md (West-End “Orchard” geography + dog-watch timekeeping register + Selfridges/Bond Street patch). CERTAIN within-voice order (not necessarily adjacent): `Pages/cains_jawbone_page_41.md → Pages/cains_jawbone_page_11.md` (first dog → end of the second dog); see `Order/hypotheses.md` (`N17`).
   - MAYBE: sea/sailor-voice cluster with Pages/cains_jawbone_page_1.md (sea + sailor cues) and other nautical-time pages.
   - MAYBE: Henry name recurrence; track whether this Henry is the same as other Henry mentions.
+  - MAYBE: body-only df==2 phrase bundle with Pages/cains_jawbone_page_95.md: `what to do` (and bigram `what to`). Treat as an overlap/bridge lead only unless reinforced by a second independent anchor.
 - **Disconfirming evidence:**
   - If later pages show “second dog” is not nautical timekeeping (or Henry is clearly non-nautical here).
 - **Research needed:**
