@@ -15,6 +15,7 @@ To have slept and to wake right up surrounded by an atmosphere in which Bunny an
 - **Motifs/continuity hooks:**
   - Pills: “I took two pills.”
   - Tennis → rowing venue shift (scene transition marker).
+  - Phase 3 micro-pass (2026-01-04): body-only df==2 token bundle with Pages/cains_jawbone_page_35.md: `return` + `surrounded`. Treat as an overlap/bridge lead only unless reinforced by a second independent anchor.
   - Repeats the “Bunny and Perry… hammer and tongs” phrasing also used in Pages/cains_jawbone_page_93.md.
 - **Quotes & allusions:**
   - CERTAIN: “Ellen Brine ov Allenburn / Would never mwore return” — William Barnes, “Ellen Brine ov Allenburn” (*Poems of Rural Life in the Dorset Dialect*, 1879), Page:Barnes_(1879)_Poems_of_rural_life_in_the_Dorset_dialect_(combined).djvu/219.

@@ -23,6 +23,7 @@ I wish she would tell me more. I wish she would give me some hint as to why the 
   - Phase 6 test (2025-12-31): thematic echo with Pages/cains_jawbone_page_100.md (“why the deceased wished…” ↔ “why the old dead so wanted…”), but page-body n‑gram scan shows **zero** shared 3‑grams (or longer) and no shared prop/cast/place/quote anchor → treat as low-weight thematic only, not stitch evidence.
   - Bathing/leisure imagery (one-piece; towel).
   - Fate framing (Kismet) + amputation reference.
+  - Phase 3 micro-pass (2026-01-04): body-only df==2 bundle with Pages/cains_jawbone_page_37.md: token `yellow`, bigram `yellow jasmine`, bigram `to know` → treat as a cross-voice overlap lead only unless reinforced by a second independent anchor.
 - **Voice/tells:**
   - Rapturous description of Barbara; anxious curiosity about the deceased’s motive.
 - **Disconfirming evidence:**

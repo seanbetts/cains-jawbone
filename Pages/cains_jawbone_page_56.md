@@ -40,6 +40,7 @@ LIKELY WORDPLAY
   - CERTAIN: links strongly with Pages/cains_jawbone_page_54.md (exact shared aside “in the awful and literal sense of the word” + morning/breakfast framing; treat as a continuity constraint `Pages/cains_jawbone_page_54.md ↔ Pages/cains_jawbone_page_56.md`; see `Order/hypotheses.md` constraints inventory).
   - CERTAIN (Phase 5 adjacency candidate): Pages/cains_jawbone_page_56.md → Pages/cains_jawbone_page_54.md (insomnia/recapitulation pre-breakfast → breakfast table letter-reading beat). See `Order/hypotheses.md`.
   - MAYBE: links to other Browning/Pippa references (e.g., Pages/cains_jawbone_page_58.md).
+  - MAYBE: body-only df==2 token `sausage` overlaps with Pages/cains_jawbone_page_8.md (“sausage place”); treat as a motif-only overlap unless reinforced.
 - **Disconfirming evidence:**
   - If Asolo/Pippa references resolve to unrelated in-world labels rather than Browning allusion.
 - **Research needed:**

@@ -36,6 +36,8 @@ LIKELY WORDPLAY
 - **Clustering hypotheses:**
   - MAYBE: place anchor at Didling (if confirmed) could connect to other Sussex/Downs locations later.
   - MAYBE: links strongly with Pages/cains_jawbone_page_20.md (N34) via self-laceration + “same way home” motif echoing “arrived home again” (see Order/hypotheses.md).
+  - MAYBE: body-only df==2 phrase bundle with Pages/cains_jawbone_page_53.md: `if I mistook not` (token `mistook` appears only on these two pages). Treat as an overlap/voice-tell lead only unless reinforced by a second independent anchor.
+  - MAYBE: body-only df==2 phrase bundle with Pages/cains_jawbone_page_85.md: `it occurred to me` (generic; treat as low-weight overlap only).
 - **Disconfirming evidence:**
   - If “Didling” is not meant as a place-name but purely a wordplay dead-end.
 - **Research needed:**
