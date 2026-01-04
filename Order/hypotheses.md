@@ -1821,10 +1821,12 @@ Delta from v2.2 (Phase 6 tightening; keep falsifiable):
   - **Outcome:** `UNCLEAR` (non-zero but weak; keep falsifiable).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_70.md → Pages/cains_jawbone_page_96.md
-  - **Why:** v2.30 replacement successor for Pages/cains_jawbone_page_70.md; multiple low-df lexical anchors align across the boundary: df==2 token `poem` (p70 “fragments of a poem God had written…” ↔ p96 Padre “written that poem…”), df==3 token `written`, and df==3 trigram `in the morning`.
+  - **Why:** v2.30 replacement successor for Pages/cains_jawbone_page_70.md; low-df lexical echo across the boundary: df==2 token `poem` (p70 “fragments of a poem God had written…” ↔ p96 Padre “written that poem…”), supported by df==3 token `written`. The shared df==3 trigram `in the morning` exists but is contextually non-continuous (p70 letter found in the morning ↔ p96 castor-oil quip in the Padre line).
   - **Falsifier:** a third page is found containing `poem` in its page body (making this non-unique), and/or a stronger successor for Pages/cains_jawbone_page_70.md with 2+ independent anchors excludes Pages/cains_jawbone_page_96.md.
   - **Next falsification check:** re-read p70 ending + p96 opening for a non-lexical continuity marker (shared participant/venue/prop/time constraint) beyond the low-df writing/morning bundle; if none, treat as a re-stitch lead only.
   - **Phase 6 test (2026-01-04):** token/n‑gram df scan found df==2 token `poem` plus df==3 token `written` and df==3 trigram `in the morning` shared; no additional shared low-df n‑grams (n=4–6, df≤3) were found.
+  - **Phase 6 test (2026-01-04):** inspected `in the morning` usage and confirmed it does **not** describe the same in-world timebeat across the boundary (p70: “the girl would find it in the morning…”; p96: Padre quote “take castor oil in the morning”), so treat it as a low-weight lexical echo only.
+  - **Phase 6 test (2026-01-04):** checked top df==2 successor leads for Pages/cains_jawbone_page_70.md (`babbled` → Pages/cains_jawbone_page_81.md; `intended` → Pages/cains_jawbone_page_5.md; `warnings` → Pages/cains_jawbone_page_31.md; `worst` → Pages/cains_jawbone_page_50.md; `fragments` → Pages/cains_jawbone_page_14.md; `knee` → Pages/cains_jawbone_page_92.md; `leaving` → Pages/cains_jawbone_page_83.md; `painted` → Pages/cains_jawbone_page_67.md; `expense` → Pages/cains_jawbone_page_60.md) and found each would require a block-level re-stitch (all are currently pinned by stronger internal locks). No minimal v2.31 replacement join found.
   - **Outcome:** `UNCLEAR` (multi-anchor lexical bridge; still lacks a non-lexical continuity anchor).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_100.md → Pages/cains_jawbone_page_66.md
