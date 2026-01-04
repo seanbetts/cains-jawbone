@@ -1865,6 +1865,8 @@ Delta from v2.2 (Phase 6 tightening; keep falsifiable):
   - **Falsifier:** a third page is found containing `fortnight` in its page body (making this non-unique), or either page gains a stronger multi-anchor neighbour that excludes this adjacency.
   - **Next falsification check:** re-read the Pages/cains_jawbone_page_38.md ending and Pages/cains_jawbone_page_9.md opening for any second independent continuity marker beyond the single-token overlap (shared participant/venue/prop/time cue).
   - **Phase 6 test (2026-01-03):** page-body df scan confirms `fortnight` appears only on Pages/cains_jawbone_page_38.md and Pages/cains_jawbone_page_9.md.
+  - **Phase 6 test (2026-01-04):** focused overlap scan found no supporting low-df phrasing beyond `fortnight` (no shared low-df n‑grams (n=2–6, df≤3); only other shared low-df token is generic `glad` (df=7)).
+  - **Phase 6 test (2026-01-04):** checked Pages/cains_jawbone_page_38.md’s other df==2 successor leads (`breaking` → Pages/cains_jawbone_page_93.md; `led` → Pages/cains_jawbone_page_29.md; `pondered` → Pages/cains_jawbone_page_26.md; `skin` → Pages/cains_jawbone_page_65.md) and found each would require a block-level re-stitch (all are currently pinned by stronger internal locks). No minimal v2.31 replacement join found.
   - **Outcome:** `UNCLEAR` (single-token bridge; used by v2.22 but still provisional).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_25.md → Pages/cains_jawbone_page_33.md
