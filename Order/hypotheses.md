@@ -1817,6 +1817,7 @@ Delta from v2.2 (Phase 6 tightening; keep falsifiable):
   - **Next falsification check:** re-read p69 ending + p84 opening for a second independent continuity marker beyond `bus` (shared participant/venue/prop/time cue); if none emerges, treat this as a weak bridge.
   - **Phase 6 test (2026-01-04):** re-read p69 ending + p84 opening; confirmed `bus` is a deliberate motif in both pages but no second concrete continuity marker was found.
   - **Phase 6 test (2026-01-04):** token/n‑gram df scan found **no** shared low-df n‑grams (n=2–6, df≤3) and no shared low-df tokens (df≤8) beyond the df==2 token `bus`.
+  - **Phase 6 test (2026-01-04):** checked top df==2 successor leads for Pages/cains_jawbone_page_69.md (`answer`/`temples` → Pages/cains_jawbone_page_12.md; `waking` → Pages/cains_jawbone_page_20.md; `tongue` → Pages/cains_jawbone_page_83.md) and found each would require a block-level re-stitch (all are currently pinned by stronger internal locks). No minimal v2.31 replacement join found.
   - **Outcome:** `UNCLEAR` (non-zero but weak; keep falsifiable).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_70.md → Pages/cains_jawbone_page_96.md
