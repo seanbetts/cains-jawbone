@@ -38,6 +38,7 @@ LIKELY WORDPLAY
 - **Clustering hypotheses:**
   - CERTAIN: links strongly with Pages/cains_jawbone_page_32.md via the shared “yesterday” instruction-giver appointment + Whitman/weather/kit register (“weeping weather” ↔ “rain-proof coat, good shoes”); see `Order/hypotheses.md` constraints inventory.
   - MAYBE: Clement/Clément/Clem continuity across Pages/cains_jawbone_page_24.md + Pages/cains_jawbone_page_27.md + Pages/cains_jawbone_page_32.md (pending disambiguation: Clement-as-met-person vs Clement-as-narrator-name clue).
+  - MAYBE: body-only df==2 token overlap with Pages/cains_jawbone_page_22.md: `clement`. Treat as a low-weight cross-voice bridge only unless reinforced by a second independent anchor.
 - **Disconfirming evidence:**
   - If later context shows “pills” are benign/medical and “assassin” is figurative.
 - **Research needed:**

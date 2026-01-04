@@ -14,6 +14,7 @@ He stood and looked down at me ; but I was not to be hurried. The money changed 
   - Money exchange + desire to later “describe him” (witness/identification register).
   - Medical framing (“physicians”; “proper medical advice”; “doctors and doctors”).
   - May-wordplay (person vs month; “May be” pun).
+  - Phase 3 micro-pass (2026-01-04): body-only df==2 token overlap with Pages/cains_jawbone_page_51.md: `purple`. Treat as a low-weight cross-voice bridge only unless reinforced by a second independent anchor.
   - Phase 6 test (2025-12-31): page-body phrase `I thought of May` appears only here and Pages/cains_jawbone_page_71.md, but page-body n‑gram scan shows no second anchor (no shared prop/cast/place/quote; only this 4‑gram) → treat as low-weight May-thread only (do not use for ordering).
   - Phase 6 test (2025-12-31): phrase-level echo “I would have to think…” is uniquely shared with Pages/cains_jawbone_page_76.md (5‑gram `I would have to think` appears only on these pages), but no second independent anchor is present (no shared prop/cast/place/quote) → keep low-weight until reinforced.
 - **Places:**
