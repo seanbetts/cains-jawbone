@@ -1931,7 +1931,7 @@ Delta from v2.2 (Phase 6 tightening; keep falsifiable):
   - **Phase 6 test (2026-01-03):** page-body df scan confirms `fortnight` appears only on Pages/cains_jawbone_page_38.md and Pages/cains_jawbone_page_9.md.
   - **Phase 6 test (2026-01-04):** focused overlap scan found no supporting low-df phrasing beyond `fortnight` (no shared low-df n‑grams (n=2–6, df≤3); only other shared low-df token is generic `glad` (df=7)).
   - **Phase 6 test (2026-01-04):** checked Pages/cains_jawbone_page_38.md’s other df==2 successor leads (`breaking` → Pages/cains_jawbone_page_93.md; `led` → Pages/cains_jawbone_page_29.md; `pondered` → Pages/cains_jawbone_page_26.md; `skin` → Pages/cains_jawbone_page_65.md) and found each would require a block-level re-stitch (all are currently pinned by stronger internal locks). No minimal v2.31 replacement join found.
-  - **Outcome:** `UNCLEAR` (single-token bridge; used by v2.22 but still provisional).
+  - **Outcome:** `UNCLEAR` (single-token bridge; treat as a pure placeholder join).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_25.md → Pages/cains_jawbone_page_33.md
   - **Why:** former v2.22–v2.25 block boundary into the `N25` debts run after moving Block S to sit after Pages/cains_jawbone_page_89.md and rehoming Pages/cains_jawbone_page_9.md → Pages/cains_jawbone_page_25.md behind Pages/cains_jawbone_page_38.md; removed in v2.26 by inserting Block L after Pages/cains_jawbone_page_25.md (so the debts run no longer immediately follows Page 25).
@@ -2356,6 +2356,9 @@ Delta from v2.2 (Phase 6 tightening; keep falsifiable):
   - **Falsifier:** a third page is found containing `earth` in its page body (making this non-unique), or either page gains a stronger multi-anchor neighbour that excludes this adjacency.
   - **Next falsification check:** re-read the Pages/cains_jawbone_page_9.md ending and Pages/cains_jawbone_page_25.md opening for any second independent continuity marker (shared participant/venue/prop/time cue) beyond the single-word overlap.
   - **Phase 6 test (2026-01-03):** page-body df scan confirms `earth` appears only on Pages/cains_jawbone_page_9.md and Pages/cains_jawbone_page_25.md; token/n‑gram df scan found **zero** shared df==2 phrase anchors (n=2–6) between the pages.
+  - **Phase 6 test (2026-01-04):** re-read p9 ending + p25 opening; no continuity marker appears (hard voice/scene break: Charles Day/mineralogy/Day‑Knight pun ↔ Didling/time-factor monologue). Treat as a pure placeholder join.
+  - **Phase 6 test (2026-01-04):** focused overlap scan (tokens df≤8; tokenised n‑grams n=2–6 with df≤3) found only the df==2 token `earth`; no shared low-df n‑gram anchors were found.
+  - **Phase 6 test (2026-01-04):** checked df==2 successor leads for Pages/cains_jawbone_page_9.md (`finger` → Pages/cains_jawbone_page_12.md; `assistant` → Pages/cains_jawbone_page_35.md; `lower` → Pages/cains_jawbone_page_43.md; `absence` → Pages/cains_jawbone_page_89.md) and df==2 predecessor leads for Pages/cains_jawbone_page_25.md (`continued` ← Pages/cains_jawbone_page_2.md; `mistook` ← Pages/cains_jawbone_page_53.md; `woke` ← Pages/cains_jawbone_page_27.md; `consciousness` ← Pages/cains_jawbone_page_15.md; `former` ← Pages/cains_jawbone_page_58.md; `art` ← Pages/cains_jawbone_page_78.md); all currently require block-level re-stitch because they are pinned by stronger internal locks. No minimal replacement join found.
   - **Outcome:** `UNCLEAR` (single-token bridge; used by v2.22 but still provisional).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_25.md → Pages/cains_jawbone_page_22.md
