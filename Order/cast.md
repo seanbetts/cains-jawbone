@@ -41,7 +41,7 @@ Track people as candidates with evolving roles. This file is deliberately probab
   - **Role candidate:** `victim`
   - **Confidence (0.0–1.0):** 0.30
   - **Supporting pages:** Pages/cains_jawbone_page_1.md, Pages/cains_jawbone_page_17.md, Pages/cains_jawbone_page_43.md, Pages/cains_jawbone_page_100.md
-  - **Evidence summary:** Treated as the likely `N01` Aquarius-handwriting narrator cluster (identity inferred via cross-page anchors), with Page 100 describing an in-world collapse/possible death (cannot rise; heart distress; valediction + “drops awa” beat).
+  - **Evidence summary:** Treated as the likely `N01` Aquarius-handwriting narrator cluster (identity inferred via cross-page anchors), with Page 100 describing an in-world collapse/possible death (cannot rise; heart distress; valediction + “drops awa” beat). Phase 6 cross-check: Page 1’s pen is explicitly treated as having “work” for the dead old man, strengthening the reading that Page 100’s “Henry… getting out of hand”/“drops awa” beat refers to an object (pen/tool) slipping during incapacity rather than to `P01` Henry.
   - **Falsifiers:** Pages/cains_jawbone_page_100.md is purely quoted/metaphorical with no in-world collapse, Pages/cains_jawbone_page_100.md is shown to be a different narrator from the Aquarius/Moon+Dawn bundle, or later context shows this narrator survives and continues after Page 100.
   - **Status:** `active`
 
@@ -50,7 +50,7 @@ Track people as candidates with evolving roles. This file is deliberately probab
   - **Role candidate:** `murderer`
   - **Confidence (0.0–1.0):** 0.15
   - **Supporting pages:** Pages/cains_jawbone_page_100.md
-  - **Evidence summary:** Present in the Page 100 collapse scene, physically looming and “gloating” as the narrator cannot rise; may be implicated, but the page does not explicitly state agency or outcome.
+  - **Evidence summary:** Present in the Page 100 collapse scene, physically looming and “gloating” as the narrator cannot rise; may be implicated, but the page does not explicitly state agency or outcome, and the “Good-bye, Henry… drops awa” beat reads more cleanly as object-coded (pen/tool) than as a human Henry death.
   - **Falsifiers:** The collapse resolves as natural illness/fainting with no external agency, or the woman is shown to be uninvolved/bystander (or purely a quotation-layer figure) in later linked context.
   - **Status:** `downgraded`
 
