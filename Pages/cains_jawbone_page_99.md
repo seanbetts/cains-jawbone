@@ -27,6 +27,7 @@ And she wore a mauve love-knot on her breast, and the ends were unequal. He said
   - CERTAIN (Phase 5 adjacency candidate): Pages/cains_jawbone_page_10.md → Pages/cains_jawbone_page_99.md (“My mistress wore them” ↔ “And she wore…” opening + shared “…, as X … called them” parenthetical). See `Order/hypotheses.md`.
   - CERTAIN (Phase 5 adjacency candidate): Pages/cains_jawbone_page_99.md → Pages/cains_jawbone_page_8.md (unequal bow ends + missing “jossers” → later “same bow… trimmed the left end”). See `Order/hypotheses.md`.
   - CERTAIN: mid‑August daybook layer via Aug 17 “closing day in Potsdam” (Frederick II death at Sanssouci).
+  - MAYBE: body-only df==2 token overlaps: `brilliant` (Pages/cains_jawbone_page_90.md), `chest` (Pages/cains_jawbone_page_73.md), `dry` (Pages/cains_jawbone_page_69.md), `especially` (Pages/cains_jawbone_page_84.md), `foot` (Pages/cains_jawbone_page_68.md), `large` (Pages/cains_jawbone_page_51.md), `sun` (Pages/cains_jawbone_page_43.md). Treat as overlap-only unless reinforced by a second independent anchor.
 - **Disconfirming evidence:**
   - If “killed” refers to an animal kill or metaphor rather than one of the in-world murders.
   - If “jossers” is not the cutting/adjusting tool for the bow ends (weakening the plural-only noun continuity with Pages/cains_jawbone_page_10.md).
