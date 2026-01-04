@@ -18,6 +18,7 @@ Looking over at the sly sideways smile which seemed to fill all the foreground o
 - **Motifs/continuity hooks:**
   - Green/ripeness/fruit metaphors used to justify action (“young women are green”).
   - “Green” as victim name + injury metaphor (“greenstick fracture”) + plant language.
+  - Phase 3 micro-pass (2026-01-04): body-only df==2 token overlap with Pages/cains_jawbone_page_37.md: `smile`. Treat as a low-weight cross-voice bridge only unless reinforced by a second independent anchor.
   - Phase 6 test (2025-12-31): phrase-level echo “I would have to think…” is uniquely shared with Pages/cains_jawbone_page_98.md (5‑gram `I would have to think` appears only on these pages), but no second independent anchor is present (no shared prop/cast/place/quote) → keep low-weight until reinforced.
 - **Voice/tells:**
   - Self-justifying moral calculus; frames murder as an adult/ripe duty; literate allusion density.

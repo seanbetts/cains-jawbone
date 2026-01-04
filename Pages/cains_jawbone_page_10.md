@@ -25,6 +25,7 @@ Then came Hyacinth’s day. He laughed when he remembered that, as we were walki
   - CERTAIN (Phase 5 adjacency candidate): Pages/cains_jawbone_page_39.md → Pages/cains_jawbone_page_10.md (“They made a bet.” ↔ “went back two days… formulated their bet… third point”). See `Order/hypotheses.md`.
   - CERTAIN (Phase 5 adjacency candidate): Pages/cains_jawbone_page_10.md → Pages/cains_jawbone_page_99.md (phrase continuation “My mistress wore them” ↔ “And she wore…”, plus shared “…, as X … called them” parenthetical + mid‑August daybook anchors). See `Order/hypotheses.md`.
   - LIKELY (Phase 5 bridge candidate): Pages/cains_jawbone_page_10.md ↔ Pages/cains_jawbone_page_33.md (unique `Gourdoulis` 100-box; owe/debts framing). Treat as cross-narrator prop echo (order unknown) unless a second independent continuity anchor emerges. See `Order/hypotheses.md`.
+  - MAYBE: body-only df==2 token overlap with Pages/cains_jawbone_page_85.md: `childish`. Treat as a low-weight cross-voice bridge only unless reinforced by a second independent anchor.
 - **Disconfirming evidence:**
   - If “Hyacinth’s day/Jasmine’s day” are shown to be private nicknames rather than public calendar anchors.
   - If “jossers” on Pages/cains_jawbone_page_99.md is not the cutting/adjusting tool for the bow ends (weakening the singular/plural vocabulary continuity read).

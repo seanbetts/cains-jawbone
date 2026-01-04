@@ -43,6 +43,7 @@ LIKELY WORDPLAY
   - CERTAIN: links strongly with Pages/cains_jawbone_page_14.md (will-talk to May + spilled wine/flesh cleanup beat aligns with this “documents/abstracted will” scene). LIKELY within-voice order: `Pages/cains_jawbone_page_14.md → Pages/cains_jawbone_page_12.md`; see `Order/hypotheses.md` (`N10`).
   - Falsification check (2025-12-30): scanned page bodies for “pronated finger-tips” / “abstracted will” / “velvet… cinders” / “small topaz searchlights” and found no third-page repeats; keep `Pages/cains_jawbone_page_14.md → Pages/cains_jawbone_page_12.md` as `LIKELY` only (not a hard adjacency).
   - MAYBE: paired with Pages/cains_jawbone_page_14.md more loosely as a will/document motif cluster if the scenes prove distinct.
+  - MAYBE: body-only df==2 token overlap with Pages/cains_jawbone_page_37.md: `private`. Treat as a low-weight cross-voice bridge only unless reinforced by a second independent anchor.
   - CERTAIN: cross-narrator continuity lock with Pages/cains_jawbone_page_75.md via the unique “searchlights” eye-metaphor over documents/writing; treat as a directionless cross-voice constraint `Pages/cains_jawbone_page_12.md ↔ Pages/cains_jawbone_page_75.md` (see `Order/hypotheses.md`).
   - CERTAIN (Phase 5 adjacency candidate): Pages/cains_jawbone_page_12.md → Pages/cains_jawbone_page_50.md (Greek Anthology epigram continuation: Atimetus → Homonoea; plus shared will/documents-at-table register); see `Order/hypotheses.md`.
 - **Disconfirming evidence:**

@@ -27,6 +27,8 @@ My guest has, I think, a Byzantine beauty, as of a golden snake. Is she, or is s
 - **Clustering hypotheses:**
   - CERTAIN: links strongly with Pages/cains_jawbone_page_86.md (quote continuation).
   - MAYBE: Pages/cains_jawbone_page_80.md is a thematic overlap (host/guest poisoning) but currently lacks a phrase-level anchor to the coastal-house segment; keep as overlap-only.
+  - MAYBE: body-only df==2 token overlap with Pages/cains_jawbone_page_37.md: `view`. Treat as a low-weight cross-voice bridge only unless reinforced by a second independent anchor.
+  - MAYBE: body-only df==2 token overlap with Pages/cains_jawbone_page_85.md: `pale`. Treat as a low-weight cross-voice bridge only unless reinforced by a second independent anchor.
 - **Disconfirming evidence:**
   - If “Of the old bold mate of Henry Morgan” is a separate allusion rather than the continuation of the prior quotation.
 - **Research needed:**

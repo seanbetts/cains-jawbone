@@ -28,6 +28,7 @@ I always liked to listen to him. It was St. Wigbert’s day, I was told, and Aug
   - CERTAIN (Phase 5 adjacency candidate): Pages/cains_jawbone_page_48.md → Pages/cains_jawbone_page_88.md (Tate-sugar anchor + shared “He said… She said…” register). See `Order/hypotheses.md`.
   - CERTAIN (Phase 5 adjacency candidate): Pages/cains_jawbone_page_88.md → Pages/cains_jawbone_page_39.md (“how few the other had done so late in the year” → “it didn’t matter what they had done… two all for that year” + same cadence). See `Order/hypotheses.md`.
   - MAYBE: shares Tom/Jasmine household reference and a “listen to him” frame with Pages/cains_jawbone_page_46.md; treat as overlap unless time anchors can be reconciled.
+  - MAYBE: body-only df==2 token overlap with Pages/cains_jawbone_page_97.md: `son`. Treat as a low-weight cross-voice bridge only unless reinforced by a second independent anchor.
 - **Disconfirming evidence:**
   - If St. Wigbert’s day is shown to be an in-world nickname rather than a calendar marker.
   - If “Tom and Flora’s Jasmine” is shown to be a different Jasmine (person/plant/paint) unrelated to the Page 22 cat.

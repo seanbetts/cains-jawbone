@@ -17,6 +17,7 @@ I plunged for the last time. The few remaining figures and letters swam as they 
   - Morbid, literary quotation as immediate lens for observation.
 - **Clustering hypotheses:**
   - MAYBE: same Henry as Pages/cains_jawbone_page_4.md + Pages/cains_jawbone_page_5.md (track Henry’s role/occupation).
+  - MAYBE: body-only df==2 token overlap with Pages/cains_jawbone_page_37.md: `glanced`. Treat as a low-weight cross-voice bridge only unless reinforced by a second independent anchor.
 - **Disconfirming evidence:**
   - If later reveals this “Henry” is a different person in another voice/setting.
 - **Research needed:**
