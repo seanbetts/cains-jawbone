@@ -42,6 +42,7 @@ LIKELY WORDPLAY
   - MAYBE: links to other Browning/Pippa references (e.g., Pages/cains_jawbone_page_58.md).
   - MAYBE: body-only df==2 token `sausage` overlaps with Pages/cains_jawbone_page_8.md (“sausage place”); treat as a motif-only overlap unless reinforced.
   - MAYBE: body-only df==2 token overlap with Pages/cains_jawbone_page_89.md: `stomach`. Treat as a low-weight cross-voice bridge only unless reinforced by a second independent anchor.
+  - MAYBE: body-only df==2 token overlaps: `beastly` (Pages/cains_jawbone_page_100.md), `bursting` (Pages/cains_jawbone_page_29.md), `disappointed` (Pages/cains_jawbone_page_81.md), `realisation` (Pages/cains_jawbone_page_76.md), `reflected` (Pages/cains_jawbone_page_18.md), `spent` (Pages/cains_jawbone_page_36.md), `tiny` (Pages/cains_jawbone_page_27.md). Treat as low-weight cross-voice bridge leads only unless reinforced by a second independent anchor.
 - **Disconfirming evidence:**
   - If Asolo/Pippa references resolve to unrelated in-world labels rather than Browning allusion.
 - **Research needed:**

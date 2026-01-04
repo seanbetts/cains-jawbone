@@ -22,6 +22,7 @@ Strange that old Calabar, as I called him, should fail me ; yet on the morning a
   - CERTAIN: links strongly with Pages/cains_jawbone_page_29.md (ordeal-bean/physostigma thread: “discarded my useless physostigma” ↔ “old Calabar… should fail me”; treat as a continuity constraint `Pages/cains_jawbone_page_29.md ↔ Pages/cains_jawbone_page_36.md`; see `Order/hypotheses.md` constraints inventory).
   - CERTAIN: links strongly with Pages/cains_jawbone_page_59.md via the unique “awkward” poison-failure phrasing (“distinctly awkward” ↔ “awkward with Trinder about”); treat as a continuity constraint `Pages/cains_jawbone_page_36.md ↔ Pages/cains_jawbone_page_59.md` (Phase 4 direction hypothesis: `Pages/cains_jawbone_page_36.md → Pages/cains_jawbone_page_59.md` is `MAYBE`, but keep the reverse alive; see `Order/hypotheses.md`).
   - LIKELY: strengthens plant/poison thread (Calabar/physostigma) and Henry-as-killer thread.
+  - MAYBE: body-only df==2 token overlaps: `buried` (Pages/cains_jawbone_page_33.md) and `spent` (Pages/cains_jawbone_page_56.md). Treat as low-weight cross-voice bridge leads only unless reinforced by a second independent anchor.
 - **Disconfirming evidence:**
   - If “Calabar” and corpse-burial are later shown to be figurative/embedded narrative.
 - **Research needed:**

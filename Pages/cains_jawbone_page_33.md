@@ -24,6 +24,7 @@ He was picking round among all she had left behind and found a box with his name
   - LIKELY (Phase 5 bridge candidate): Pages/cains_jawbone_page_10.md ↔ Pages/cains_jawbone_page_33.md (Gourdoulis 100-box; debts/owing framing). Treat as cross-narrator prop echo unless a second independent continuity anchor emerges. See `Order/hypotheses.md`.
   - MAYBE: body-only df==2 token overlap with Pages/cains_jawbone_page_96.md: `reading`. Treat as a low-weight cross-voice bridge only unless reinforced by a second independent anchor.
   - MAYBE: body-only df==2 token overlap with Pages/cains_jawbone_page_49.md: `hairs`. Treat as a low-weight cross-voice bridge only unless reinforced by a second independent anchor.
+  - MAYBE: body-only df==2 token overlaps: `bits` (Pages/cains_jawbone_page_57.md), `buried` (Pages/cains_jawbone_page_36.md), `gourdoulis` (Pages/cains_jawbone_page_10.md), `sorrow` (Pages/cains_jawbone_page_66.md), `suppose` (Pages/cains_jawbone_page_1.md). Treat as low-weight cross-voice bridge leads only unless reinforced by a second independent anchor.
 - **Disconfirming evidence:**
   - If “Gourdoulis” is later shown to be something other than cigarettes.
   - If the debt/bills framing proves generic and no additional phrase-level anchor links this scene to Pages/cains_jawbone_page_34.md.
