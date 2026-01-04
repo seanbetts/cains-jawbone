@@ -25,6 +25,7 @@ To reckon with Henry! That was never easy. Just beyond the laurels, I turned sha
   - LIKELY: poison/gardening thread with Pages/cains_jawbone_page_6.md (foxgloves/digitalis) and other pill/substance pages (Pages/cains_jawbone_page_3.md).
   - MAYBE: cross-narrator phrase echo with Pages/cains_jawbone_page_4.md (“my wits about me” is a page-body unique 4‑gram), but no second anchor found; treat as an idiom-level overlap only unless reinforced (see `Order/hypotheses.md`).
   - MAYBE: cross-narrator phrase echo with Pages/cains_jawbone_page_31.md (“to reckon with Henry” is page-body unique), but no second anchor found; treat as a Henry‑motif overlap only (not a constraint) unless a tighter shared prop/place emerges.
+  - MAYBE: body-only df==2 bundle with Pages/cains_jawbone_page_49.md: `dazed`, `keep`, `to keep`. Treat as an overlap/voice-tell lead only unless a second, non-lexical anchor (shared quote/place/object) aligns.
   - MAYBE: Henry-as-killer thread (compare Henry scenes on Pages/cains_jawbone_page_11.md, Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_14.md).
 - **Disconfirming evidence:**
   - If “victim” is later clearly metaphorical (surgical patient, etc.) rather than murder.
