@@ -17,6 +17,7 @@ What chemistry! That the winds are really not infectious. Now that I was approac
   - Pill-taking (“I took a pill… it was worth it”).
   - Gardening growth imagery: bean bursting; potato leaves.
   - Place wordplay: “Thames Ditton’s sister… Long she was” implies Long Ditton (cf. Eric Parker, *Highways and Byways in Surrey*, Ch. XXIII: “Thames Ditton’s sister, Long Ditton…” https://www.gutenberg.org/ebooks/28057.txt.utf-8).
+  - Phase 3 micro-pass (2026-01-04): body-only df==2 token overlaps: `ago` (Pages/cains_jawbone_page_27.md), `bean` (Pages/cains_jawbone_page_21.md), `calls` (Pages/cains_jawbone_page_51.md), `court` (Pages/cains_jawbone_page_93.md), `hill` (Pages/cains_jawbone_page_67.md), `jack` (Pages/cains_jawbone_page_65.md), `pray` (Pages/cains_jawbone_page_78.md), `probably` (Pages/cains_jawbone_page_10.md), `rise` (Pages/cains_jawbone_page_29.md), `sister` (Pages/cains_jawbone_page_23.md), `tale` (Pages/cains_jawbone_page_62.md), `toward` (Pages/cains_jawbone_page_100.md), `turn` (Pages/cains_jawbone_page_43.md), `worth` (Pages/cains_jawbone_page_2.md). Treat as overlap-only unless reinforced by a second independent anchor.
 - **Places:**
   - CERTAIN: Thames Ditton; LIKELY: Long Ditton.
 - **Voice/tells:**

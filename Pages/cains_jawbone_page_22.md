@@ -22,6 +22,8 @@ He always talked to me about murder, when we were alone together. And that day h
   - MAYBE: jasmine name overlaps Pages/cains_jawbone_page_24.md (wild jasmine); treat as motif coincidence unless reinforced by a second shared anchor.
   - MAYBE: body-only df==2 token overlap with Pages/cains_jawbone_page_3.md: `clement`. Treat as a low-weight cross-voice bridge only unless reinforced by a second independent anchor.
   - MAYBE: body-only df==2 token overlap with Pages/cains_jawbone_page_89.md: `loved`. Treat as a low-weight cross-voice bridge only unless reinforced by a second independent anchor.
+  - MAYBE: body-only df==2 token overlap with Pages/cains_jawbone_page_19.md: `agreed`. Treat as overlap-only unless reinforced by a second independent anchor.
+  - MAYBE: body-only df==2 token overlap with Pages/cains_jawbone_page_79.md: `understood`. Treat as overlap-only unless reinforced by a second independent anchor.
 - **Disconfirming evidence:**
   - If later pages show human POV here (tail “vibration” is a metaphor) or Flora/Jasmine are people.
 - **Research needed:**
