@@ -31,6 +31,7 @@ LIKELY WORDPLAY
   - later context makes the chain purely self-deprecating wordplay with no geographic intent
 - **Motifs/continuity hooks:**
   - Time obsession; mortality (“you yourself would not continue”); “earth beetles” (burial imagery?).
+  - Phase 3 micro-pass (2026-01-05): body-only df==2 token overlaps: `continued` (Pages/cains_jawbone_page_2.md), `earth` (Pages/cains_jawbone_page_9.md), `consciousness` (Pages/cains_jawbone_page_15.md), `woke` (Pages/cains_jawbone_page_27.md), `mistook` (Pages/cains_jawbone_page_53.md), `former` (Pages/cains_jawbone_page_58.md), `art` (Pages/cains_jawbone_page_78.md). Treat as overlap-only unless reinforced by a second independent anchor.
 - **Voice/tells:**
   - Philosophical, self-lacerating; pun-driven.
 - **Clustering hypotheses:**
@@ -38,8 +39,6 @@ LIKELY WORDPLAY
   - MAYBE: links strongly with Pages/cains_jawbone_page_20.md (N34) via self-laceration + “same way home” motif echoing “arrived home again” (see Order/hypotheses.md).
   - MAYBE: body-only df==2 phrase bundle with Pages/cains_jawbone_page_53.md: `if I mistook not` (token `mistook` appears only on these two pages). Treat as an overlap/voice-tell lead only unless reinforced by a second independent anchor.
   - MAYBE: body-only df==2 phrase bundle with Pages/cains_jawbone_page_85.md: `it occurred to me` (generic; treat as low-weight overlap only).
-  - MAYBE: body-only df==2 token overlap with Pages/cains_jawbone_page_9.md: `earth`. Treat as a low-weight cross-voice bridge only unless reinforced by a second independent anchor.
-  - MAYBE: body-only df==2 token overlaps: `art` (Pages/cains_jawbone_page_78.md), `consciousness` (Pages/cains_jawbone_page_15.md), `continued` (Pages/cains_jawbone_page_2.md), `former` (Pages/cains_jawbone_page_58.md), `woke` (Pages/cains_jawbone_page_27.md). Treat as low-weight cross-voice bridge leads only unless reinforced by a second independent anchor.
 - **Disconfirming evidence:**
   - If “Didling” is not meant as a place-name but purely a wordplay dead-end.
 - **Research needed:**

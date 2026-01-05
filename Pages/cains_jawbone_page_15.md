@@ -37,6 +37,7 @@ LIKELY WORDPLAY
   - Broadcasting/England: urge to “broadcast it all” and let “England” deal with it.
   - Lightning death details (injury descriptions); letters + epitaph as evidence.
   - Domestic scene marker: dog chewing footwear.
+  - Phase 3 micro-pass (2026-01-05): body-only df==2 token overlaps: `recalled` (Pages/cains_jawbone_page_2.md), `native` (Pages/cains_jawbone_page_13.md), `field` (Pages/cains_jawbone_page_14.md), `happened` (Pages/cains_jawbone_page_20.md), `consciousness` (Pages/cains_jawbone_page_25.md), `interesting` (Pages/cains_jawbone_page_28.md), `familiar` (Pages/cains_jawbone_page_53.md), `coming` (Pages/cains_jawbone_page_54.md), `land` (Pages/cains_jawbone_page_67.md), `nursed` (Pages/cains_jawbone_page_92.md). Treat as overlap-only unless reinforced by a second independent anchor.
 - **Voice/tells:**
   - Reflective, civic-minded (“mighty heart of England”); detail-heavy macabre reportage.
 - **Clustering hypotheses:**

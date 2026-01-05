@@ -21,6 +21,7 @@ Next day I saw that my suspicions of Caroline had been well-founded. This was an
 - **Motifs/continuity hooks:**
   - Flowers/plants: wild jasmine, roses, hellebore.
   - Smoking; self-reproach.
+  - Phase 3 micro-pass (2026-01-05): body-only df==2 token overlaps: `roses` (Pages/cains_jawbone_page_2.md), `mercy` (Pages/cains_jawbone_page_20.md), `share` (Pages/cains_jawbone_page_57.md), `extent` (Pages/cains_jawbone_page_59.md), `carry` (Pages/cains_jawbone_page_64.md), `dream` (Pages/cains_jawbone_page_69.md), `caroline` (Pages/cains_jawbone_page_86.md). Treat as overlap-only unless reinforced by a second independent anchor.
 - **Voice/tells:**
   - Gardener/plant-person voice; moral hardness (“quality of mercy… little exerted”).
 - **Clustering hypotheses:**

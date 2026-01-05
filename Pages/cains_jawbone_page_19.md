@@ -19,6 +19,7 @@ Yesterday he got in another of his own kind, who agreed she’d done it all hers
 - **Motifs/continuity hooks:**
   - Polished knob / repeated Mr. Hall entrances: LIKELY a call-bell/bell-push being rung to summon him.
   - Animal-coded behaviour: ear pulling; “low noise” reaction.
+  - Phase 3 micro-pass (2026-01-05): body-only df==2 token overlaps: `twiddled` (Pages/cains_jawbone_page_8.md), `choice` (Pages/cains_jawbone_page_17.md), `agreed` (Pages/cains_jawbone_page_22.md), `noise` (Pages/cains_jawbone_page_57.md), `william` (Pages/cains_jawbone_page_61.md), `famous` (Pages/cains_jawbone_page_73.md). Treat as overlap-only unless reinforced by a second independent anchor.
 - **Voice/tells:**
   - Outsider/naïve social position (ears pulled); unexpected love of music with “my people” origin clue.
 - **Clustering hypotheses:**
