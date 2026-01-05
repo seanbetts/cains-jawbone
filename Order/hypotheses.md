@@ -1915,6 +1915,12 @@ Delta from v2.30 (Phase 5 stitching; keep falsifiable):
   - **Re-read outcome:** p27→p56 supports the shared morning/breakfast frame (both are explicitly “morning” reflections leading into breakfast) in addition to the `tiny`/`a tiny` anchor; p25→p27 remains lexical-only (both mention waking/morning, but no shared cast/prop/venue cue yet surfaced).
   - **Status:** p27→p56 = `PASS` (upgrade from pure lexical); p25→p27 = `UNCLEAR` (keep as a placeholder until a second independent anchor appears).
 
+- **Phase 6 test (2026-01-05; boundary falsification):** `Pages/cains_jawbone_page_71.md → Pages/cains_jawbone_page_33.md`
+  - **Predictions:** if this boundary is real, expect at least one non-lexical hinge across the narrator switch (shared named participant, shared prop/letter/food/drink, shared venue, or a time-constraint cue that makes the cut meaningful), not just a generic phrase overlap.
+  - **Re-read outcome:** hard scene/voice break with no shared cast/prop/venue marker surfaced; page-body df==2 scan finds only the df==2 trigram `it seemed to` (no df==2 token anchors; no other shared df≤3 n‑grams n=2–6).
+  - **Status:** p71→p33 = `UNCLEAR` (placeholder join; treat as high-priority to replace).
+  - **Replacement leads (block-level re-stitch):** p71→p98 via df==2 phrase family `thought of may` / `i thought of may`; p10→p33 via df==2 token `gourdoulis` + df==2 phrases `box of` / `a hundred`; p57→p33 via df==2 token `bits` + df==2 phrases `bits of` / `he read`. (All require re-stitching because these pages are currently pinned in other blocks.)
+
 - **Block A (`N03` + `N40`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_32.md → Pages/cains_jawbone_page_3.md → Pages/cains_jawbone_page_30.md → Pages/cains_jawbone_page_23.md → Pages/cains_jawbone_page_24.md
 - **Block E (`N13`, confidence: `CERTAIN` internal):** Pages/cains_jawbone_page_86.md → Pages/cains_jawbone_page_87.md
 - **Block E2 (`N14`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_63.md → Pages/cains_jawbone_page_38.md
