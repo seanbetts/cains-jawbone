@@ -21,14 +21,13 @@ But next day that religious fellow’s head drapery, if I might thus unscientifi
   - Phase 6 test (2025-12-31): page-body phrase `I thought of May` appears only here and Pages/cains_jawbone_page_98.md, but page-body n‑gram scan shows no second anchor (no shared prop/cast/place/quote; only this 4‑gram) → treat as low-weight May-thread only (do not use for ordering).
   - Food: anchovy toast + “various hot dishes”.
   - Eyes/vision: struck “full in the eye”.
+  - Phase 3 micro-pass (2026-01-05): body-only df==2 token overlaps: `odour` (Pages/cains_jawbone_page_7.md), `prove` (Pages/cains_jawbone_page_32.md), `play` (Pages/cains_jawbone_page_34.md), `duty` (Pages/cains_jawbone_page_46.md), `hot` (Pages/cains_jawbone_page_47.md), `success` (Pages/cains_jawbone_page_60.md). Treat as overlap-only unless reinforced by a second independent anchor.
 - **Voice/tells:**
   - Determined, moralising self-casting (“no intention of letting up”); classical-name register.
   - LIKELY: same “breakfast/meal + judgement” voice as `N26` (Pages/cains_jawbone_page_56.md, Pages/cains_jawbone_page_54.md): shared toast/meal framing + the reused “not appropriate” verdict (see `Order/hypotheses.md` join ledger for Pages/cains_jawbone_page_54.md → Pages/cains_jawbone_page_71.md).
 - **Clustering hypotheses:**
   - LIKELY: `N26` (breakfast-recapping / second-sight voice): meal-time framing + the Phase 6 multi-anchor phrase tie to Pages/cains_jawbone_page_54.md (unique bigrams `toast and` + `not appropriate`).
   - MAYBE: overlap with `N06` (flower/eyesight register) via “red May” scent + “hit… full in the eye” + the Hamlet “duty… in his eye” line; treat as overlap-only unless a second independent `N06` anchor emerges beyond May/eye language.
-  - MAYBE: body-only df==2 token overlap with Pages/cains_jawbone_page_7.md: `odour`. Treat as a low-weight cross-voice bridge only unless reinforced by a second independent anchor.
-  - MAYBE: body-only df==2 token overlaps: `duty` (Pages/cains_jawbone_page_46.md), `hot` (Pages/cains_jawbone_page_47.md), `play` (Pages/cains_jawbone_page_34.md), `prove` (Pages/cains_jawbone_page_32.md), `success` (Pages/cains_jawbone_page_60.md). Treat as low-weight cross-voice bridge leads only unless reinforced by a second independent anchor.
 - **Disconfirming evidence:**
   - If “May” is clearly only the calendar month and has no continuity with later “May” references.
   - If the reused “toast and … not appropriate” phrasing is shown to be a detachable quotation layer (weakening `N26` membership).

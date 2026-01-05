@@ -13,6 +13,8 @@ Compact, they call it ; but when I used it, I was feeling anything but so. Don�
 - **Time markers:**
   - CERTAIN: “my first” (first killing).
   - CERTAIN: “that day’s killing of Perceval” alludes to the assassination of Spencer Perceval on Monday, 11 May 1812: https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Perceval,_Spencer.
+- **Motifs/continuity hooks:**
+  - Phase 3 micro-pass (2026-01-05): body-only df==2 token overlaps: `suspicious` (Pages/cains_jawbone_page_20.md), `killing` (Pages/cains_jawbone_page_26.md), `boat` (Pages/cains_jawbone_page_57.md), `solution` (Pages/cains_jawbone_page_67.md), `ankles`/`cold` (Pages/cains_jawbone_page_82.md), `public`/`warrant` (Pages/cains_jawbone_page_89.md), `contact` (Pages/cains_jawbone_page_95.md). Treat as overlap-only unless reinforced by a second independent anchor.
 - **Voice/tells:**
   - Cool, reflective, slightly aesthetic about murder; distinguishes “public political” killing vs “my own”.
 - **Clustering hypotheses:**

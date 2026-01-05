@@ -19,6 +19,7 @@ Out cascaded the darling young. It was no tragedy ; that was, no tragedy compara
   - Surveillance/paranoia: eavesdropping at “last crucial meeting”.
   - MAYBE: memory-trigger/digression habit: “touched a chord of memory” + “how often…” parallels Pages/cains_jawbone_page_96.md’s “How vividly… How it all comes back.”
   - MAYBE: “Alexander’s Ragtime Wedding Feast” could be purely the Irving Berlin song-title riff, but it may also be a self-echo toward the Pages/cains_jawbone_page_43.md narrator who names himself Alexander (“Ecky”); keep this as a possible bridge between the N09 “old man” strand and the N01 Moon/Dawn dessert-register until a second shared anchor appears.
+  - Phase 3 micro-pass (2026-01-05): body-only df==2 token overlaps: `whistling` (Pages/cains_jawbone_page_13.md), `buttered` (Pages/cains_jawbone_page_14.md), `chord` (Pages/cains_jawbone_page_55.md), `tragedy` (Pages/cains_jawbone_page_65.md), `distracted` (Pages/cains_jawbone_page_74.md), `foot` (Pages/cains_jawbone_page_99.md). Treat as overlap-only unless reinforced by a second independent anchor.
 - **Voice/tells:**
   - Irritated, inward; sensory trigger (stepped-on foot → memory chord).
 - **Clustering hypotheses:**

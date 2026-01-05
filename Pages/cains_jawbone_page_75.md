@@ -13,6 +13,7 @@ I saw to it that I should be for a moment alone among the marigolds. Thinking ki
   - Documents: “orange tinted documents” (possibly linked to the secret purchases mentioned on Pages/cains_jawbone_page_74.md).
   - Eyes/vision: cannot read documents; “searchlights of my eyes” fail.
   - Tobacco/plant remedies: “Indian tobacco” = “Indian-tobacco” (*Lobelia inflata*) (Grieve, *A Modern Herbal* (1931), “Indian-tobacco (Lobelia inflata LINN.)”): https://www.botanical.com/botanical/mgmh/l/lobeli38.html. Grieve notes tobacco-infusion is used as a horticultural insecticide (“An infusion of Tobacco is generally used in horticulture as an insecticide.”): https://www.botanical.com/botanical/mgmh/t/tobacc21.html, matching the surface “blight would be destroyed” reading.
+  - Phase 3 micro-pass (2026-01-05): body-only df==2 token overlaps: `four` (Pages/cains_jawbone_page_2.md), `eyed` (Pages/cains_jawbone_page_8.md), `documents`/`searchlights` (Pages/cains_jawbone_page_12.md), `blight` (Pages/cains_jawbone_page_43.md), `smoke` (Pages/cains_jawbone_page_51.md), `exulted` (Pages/cains_jawbone_page_62.md), `tinted` (Pages/cains_jawbone_page_100.md). Treat as overlap-only unless reinforced by a second independent anchor.
 - **Voice/tells:**
   - Botanically literate; mixes classical/philological flexing with practical horticulture and courtship strategy.
 - **Clustering hypotheses:**
@@ -20,6 +21,5 @@ I saw to it that I should be for a moment alone among the marigolds. Thinking ki
   - LIKELY: ties to Pages/cains_jawbone_page_74.md (flowers + secret purchases/documents + eyesight failure) and Pages/cains_jawbone_page_83.md (flower-state progression to a surviving red rose); treat as continuity hooks (Phase 4 placement checks), not asserted order in Phase 3.
   - CERTAIN: cross-narrator continuity lock with Pages/cains_jawbone_page_12.md via the unique “searchlights” eye-metaphor over documents/writing; treat as a directionless cross-voice constraint `Pages/cains_jawbone_page_12.md ↔ Pages/cains_jawbone_page_75.md` (see `Order/hypotheses.md`).
   - MAYBE: ties to Pages/cains_jawbone_page_71.md via May + eyesight/eye-stress (weaker fit; keep falsifiable).
-  - MAYBE: body-only df==2 token overlap with Pages/cains_jawbone_page_51.md: `smoke`. Treat as a low-weight cross-voice bridge only unless reinforced by a second independent anchor.
 - **Disconfirming evidence:**
   - If the “documents” are unrelated to Page 74’s “them”, and the blight is purely metaphorical.
