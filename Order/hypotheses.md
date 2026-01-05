@@ -1235,6 +1235,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - Haslemere and Midhurst are geographically close, and both pages lean on *Highways and Byways* guidebook texture, making it plausible the school-colours/Haslemere sub-strand sits near the Midhurst/Marseille initiation segment within the same narrator run (even if separated by intervening pages).
       - **Disconfirming evidence:**
         - Either place identification is later shown to be purely literary quotation with no in-world location implication, or later pages place the narrator clearly elsewhere between these segments.
+  - **Placement note (Phase 4):** treat `Pages/cains_jawbone_page_66.md → Pages/cains_jawbone_page_67.md` and `Pages/cains_jawbone_page_73.md → Pages/cains_jawbone_page_74.md → Pages/cains_jawbone_page_75.md` as the two strongest internal blocks; keep block-to-block adjacency unforced (shared refrains like `I remembered the place of my initiation` / `the Head, as we called him` can be self-echo, not adjacency), and keep Pages/cains_jawbone_page_83.md as later-than-rose-state but not necessarily adjacent.
     - **Overlap-only note — May/eye-strike** (confidence: `MAYBE`)
       - **Pages:** Pages/cains_jawbone_page_71.md
       - **Why:**
