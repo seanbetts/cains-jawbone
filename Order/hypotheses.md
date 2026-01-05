@@ -1908,6 +1908,8 @@ Delta from v2.30 (Phase 5 stitching; keep falsifiable):
 
 - Adopt the replacement bridge for the weakest block boundary by moving Pages/cains_jawbone_page_27.md out of Block A and inserting it between Pages/cains_jawbone_page_25.md and Pages/cains_jawbone_page_56.md, yielding `Pages/cains_jawbone_page_25.md → Pages/cains_jawbone_page_27.md → Pages/cains_jawbone_page_56.md` (df==2 anchors: `woke`; `tiny` + `a tiny`).
 
+- **Sanity check (2026-01-05; page-body df==2 scan):** v2.32 has zero *zero-anchor* block boundaries; the new/changed boundary anchors are `Pages/cains_jawbone_page_24.md → Pages/cains_jawbone_page_86.md` (`caroline`), `Pages/cains_jawbone_page_25.md → Pages/cains_jawbone_page_27.md` (`woke`), and `Pages/cains_jawbone_page_27.md → Pages/cains_jawbone_page_56.md` (`tiny` + `a tiny`).
+
 - **Block A (`N03` + `N40`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_32.md → Pages/cains_jawbone_page_3.md → Pages/cains_jawbone_page_30.md → Pages/cains_jawbone_page_23.md → Pages/cains_jawbone_page_24.md
 - **Block E (`N13`, confidence: `CERTAIN` internal):** Pages/cains_jawbone_page_86.md → Pages/cains_jawbone_page_87.md
 - **Block E2 (`N14`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_63.md → Pages/cains_jawbone_page_38.md
