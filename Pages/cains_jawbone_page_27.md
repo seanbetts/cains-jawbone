@@ -12,13 +12,13 @@ I had seen, day after day, every sunlit or night obscured detail of the funny ol
   - Gothic “Death” imagery in an old house; “tapping… at the very walls”.
   - Confinement: lock-up in county town (Severn).
   - Coffee + breakfast: Peaberry Mysore + Blue Mountain; “two on toast” with “silver skins” and “golden blood” (food ID unclear).
+  - Phase 3 micro-pass (2026-01-05): body-only df==2 token overlaps: `lightly` (Pages/cains_jawbone_page_4.md), `lock` (Pages/cains_jawbone_page_17.md), `woke` (Pages/cains_jawbone_page_25.md), `walk` (Pages/cains_jawbone_page_30.md), `ago` (Pages/cains_jawbone_page_40.md), `fingering` (Pages/cains_jawbone_page_44.md), `visited` (Pages/cains_jawbone_page_46.md), `tiny` (Pages/cains_jawbone_page_56.md), `usual` (Pages/cains_jawbone_page_67.md). Treat as overlap-only unless reinforced by a second independent anchor.
 - **Voice/tells:**
   - Lyrical, metaphoric “Death” register mixed with domestic routine (coffee/food).
 - **Clustering hypotheses:**
   - LIKELY: connects to the Clement/Clem thread (Pages/cains_jawbone_page_3.md, Pages/cains_jawbone_page_24.md) via the nickname “Clem”.
   - MAYBE: functions as retrospective “Clem” backstory (Sequence C in `Order/hypotheses.md`’s `N03` block) that can sit adjacent to either the instruction/pills beat (Pages/cains_jawbone_page_32.md, Pages/cains_jawbone_page_3.md) or the house/jasmine suspicion beat (Pages/cains_jawbone_page_30.md, Pages/cains_jawbone_page_24.md) once a phrase-level anchor repeats.
   - MAYBE: overlaps Pages/cains_jawbone_page_37.md via the rare “Death… fingered” phrasing + Shrewsbury lock‑up/prison framing (“this time” the incarcerated person would/could not hear).
-  - MAYBE: body-only df==2 token overlaps: `woke` (Pages/cains_jawbone_page_25.md) and `tiny` (Pages/cains_jawbone_page_56.md). Treat as low-weight cross-voice bridge leads only unless reinforced by a second independent anchor.
   - **Falsification check (2025-12-25):** scanned all page bodies for this page’s distinctive anchors (“Peaberry Mysore”, “Blue Mountain”, “hushed my brat”, “county town on the Severn”, “lock-up”, “tapping unnoticed”, “tiny opening”) and found no repeats beyond this page → keep unplaced within `N03` until a second independent anchor emerges.
 - **Disconfirming evidence:**
   - If “Clem” is later clearly a different person than “Clement” on Page 3 (surname/role mismatch).

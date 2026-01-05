@@ -17,6 +17,7 @@ I see that old dandy has purchased Cape Jasmine. Your gardenia is difficult at a
   - Plants: Cape Jasmine (gardenia), Gardener’s Garters (Phalaris arundinacea variegata).
   - Illness: narrator repeatedly “not at all well”.
   - Food: “American mess”; Quebec association; soup-tasting test; suspicion (“Can she be guilty?”).
+  - Phase 3 micro-pass (2026-01-05): body-only df==2 token overlaps: `spoon` (Pages/cains_jawbone_page_4.md), `walk` (Pages/cains_jawbone_page_27.md), `your` (Pages/cains_jawbone_page_36.md), `urges` (Pages/cains_jawbone_page_43.md), `james`/`loud` (Pages/cains_jawbone_page_55.md), `local` (Pages/cains_jawbone_page_58.md), `wolf` (Pages/cains_jawbone_page_59.md), `blink` (Pages/cains_jawbone_page_67.md), `pass` (Pages/cains_jawbone_page_83.md). Treat as overlap-only unless reinforced by a second independent anchor.
 - **Voice/tells:**
   - Botanical precision; detective/quotational reflex (Watson).
 - **Clustering hypotheses:**

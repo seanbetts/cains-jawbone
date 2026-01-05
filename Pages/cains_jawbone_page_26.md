@@ -14,6 +14,7 @@ The girl had left Henry by this time, thank God. She was an obvious whey-face. S
   - Physical tell: Hodge has a “wen” and scratches “left whisker”.
   - CERTAIN: `P33` Hodge appears only here and Pages/cains_jawbone_page_44.md; treat as a continuity constraint `Pages/cains_jawbone_page_26.md ↔ Pages/cains_jawbone_page_44.md` (see `Order/hypotheses.md` constraints inventory).
   - CERTAIN: unique phrase echo to Pages/cains_jawbone_page_45.md (“The girl had left Henry…” ↔ “The girl was no longer there.”); treat as a thread lock `Pages/cains_jawbone_page_26.md ↔ Pages/cains_jawbone_page_45.md` (Phase 4 direction hypothesis: `Pages/cains_jawbone_page_45.md → Pages/cains_jawbone_page_26.md`, confidence: `LIKELY`; see `Order/hypotheses.md`).
+  - Phase 3 micro-pass (2026-01-05): body-only df==2 token overlaps: `singer` (Pages/cains_jawbone_page_23.md), `sent` (Pages/cains_jawbone_page_37.md), `pondered` (Pages/cains_jawbone_page_38.md), `hodge` (Pages/cains_jawbone_page_44.md), `explained` (Pages/cains_jawbone_page_52.md), `killing` (Pages/cains_jawbone_page_77.md), `foreign` (Pages/cains_jawbone_page_83.md). Treat as overlap-only unless reinforced by a second independent anchor.
 - **Voice/tells:**
   - Darkly amused, judgemental (“whey-face”); punning on “killing time”.
   - “bee with a sore bonnet” reads like a “foreign touch”/malapropism of the idiom “bear with a sore head” (Kipling, *The Light That Failed*, Ch. 12: https://en.wikisource.org/wiki/The_Light_That_Failed/Chapter_12).

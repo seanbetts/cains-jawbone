@@ -13,6 +13,7 @@ I found myself by that one of the windows which overlooked the stone broach spir
   - Forgery/forging: “Forging ahead… since the woman was not yet dead.”
   - Book as clue: blind-tooled green binding with device “a single star above what was perhaps a sea”.
   - Church-view window orientation: light over right shoulder (positioning detail).
+  - Phase 3 micro-pass (2026-01-05): body-only df==2 token overlaps: `church` (Pages/cains_jawbone_page_4.md), `interesting` (Pages/cains_jawbone_page_15.md), `single` (Pages/cains_jawbone_page_18.md), `stone` (Pages/cains_jawbone_page_20.md), `entered` (Pages/cains_jawbone_page_52.md), `experience` (Pages/cains_jawbone_page_59.md), `star` (Pages/cains_jawbone_page_69.md), `tooled` (Pages/cains_jawbone_page_76.md), `blind` (Pages/cains_jawbone_page_84.md). Treat as overlap-only unless reinforced by a second independent anchor.
 - **Voice/tells:**
   - Dry evasiveness (“No, Sir; it is not a very interesting subject…”); self-contradictory marriage talk may be a quotation/echo.
 - **Clustering hypotheses:**
