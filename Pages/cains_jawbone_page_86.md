@@ -28,6 +28,7 @@ Next day I let Caroline Jasmine---what a name!---do her very damnedest for my gu
 - **Motifs/continuity hooks:**
   - Jasmine name motif (Caroline Jasmine) in a run already heavy with jasmine/flowers.
   - Host/guest/patient framing echoes other “guest” poisoning setups (compare Pages/cains_jawbone_page_80.md).
+  - Phase 3 micro-pass (2026-01-05): body-only df==2 token overlaps: `die` (Pages/cains_jawbone_page_20.md), `caroline` (Pages/cains_jawbone_page_24.md), `confirmed` (Pages/cains_jawbone_page_29.md), `tool` (Pages/cains_jawbone_page_34.md), `doubtful` (Pages/cains_jawbone_page_35.md), `stick` (Pages/cains_jawbone_page_76.md), `practice` (Pages/cains_jawbone_page_91.md). Treat as overlap-only unless reinforced by a second independent anchor.
 - **Voice/tells:**
   - Over-precision/insistence about death (“and I know it”) + casual malice.
 - **Clustering hypotheses:**

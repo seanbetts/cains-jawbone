@@ -41,6 +41,7 @@ LIKELY WORDPLAY
   - CERTAIN: “John Montagu’s arrangement for an uninterrupted session at the gaming table” = the sandwich (named from the Earl of Sandwich; origin-story: invented so he could remain at the gaming table): Webster 1913 “Sandwich” (https://www.websters1913.com/words/Sandwich); *The Past at Our Doors* (1911), “The Story of Our Food” (https://ia601501.us.archive.org/33/items/in.ernet.dli.2015.84533/2015.84533.The-Past-At-Our-Doors-Or-The-Old-In-The-New-Around-Us_djvu.txt).
   - Writing/ink/pen ritual (repeatedly laying pen down; checking ink; “plunged in”).
   - LIKELY: “contact with his infancy” matches Pages/cains_jawbone_page_70.md’s “old association… babbled at me knee”, strengthening within-voice continuity beyond the generic “told all I knew” phrasing.
+  - Phase 3 micro-pass (2026-01-05): body-only df==2 token overlaps: `pen` (Pages/cains_jawbone_page_1.md), `plunged` (Pages/cains_jawbone_page_2.md), `phrase` (Pages/cains_jawbone_page_7.md), `horrid` (Pages/cains_jawbone_page_41.md), `sufficient` (Pages/cains_jawbone_page_60.md), `ink` (Pages/cains_jawbone_page_65.md), `contact` (Pages/cains_jawbone_page_77.md), `royal` (Pages/cains_jawbone_page_89.md). Treat as overlap-only unless reinforced by a second independent anchor.
 - **Voice/tells:**
   - Decision-point framing (“I had decided what to do”) followed by procedural recounting.
 - **Clustering hypotheses:**

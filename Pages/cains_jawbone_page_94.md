@@ -17,6 +17,7 @@ Naturally I looked up. And I tell you I found it awe-inspiring enough to actuall
   - Ashes/dust/earth: “saintly ashes” + “Agriculture… take back her own”.
   - Distraction by children (gum prunes) while trying to focus on Henry.
   - LIKELY: “the darbs” = slang “a darb” (“a fine thing/person”): cf. “You’re a darb” (Hammett, *The Dain Curse*, Page:Dashiell_Hammett_-_The_Dain_Curse.pdf/241) and “I’ve got some darbs” (Hemingway, *The Sun Also Rises*, Page:The_sun_also_rises_-_Hemingway,_Ernest,_1899-1961.pdf/111).
+  - Phase 3 micro-pass (2026-01-05): body-only df==2 token overlaps: `fringe` (Pages/cains_jawbone_page_13.md), `naturally` (Pages/cains_jawbone_page_16.md), `inspiring` (Pages/cains_jawbone_page_41.md), `aware` (Pages/cains_jawbone_page_42.md), `rejoiced` (Pages/cains_jawbone_page_79.md), `window` (Pages/cains_jawbone_page_81.md), `tapped` (Pages/cains_jawbone_page_93.md), `waiting` (Pages/cains_jawbone_page_96.md). Treat as overlap-only unless reinforced by a second independent anchor.
 - **Voice/tells:**
   - Self-conscious embarrassment (blush at seeing name) + impatience with children.
 - **Clustering hypotheses:**

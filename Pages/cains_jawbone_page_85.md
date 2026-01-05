@@ -37,13 +37,14 @@ LIKELY WORDPLAY
   - Time/automation (“true to time”; “automaton”).
   - Concealment: “put Henry’s keenness… below the… salt-cellar” (hiding an object/tool?).
   - Resolution/relief (“all the weary business was ended”).
+  - Phase 3 micro-pass (2026-01-05): body-only df==2 token overlaps: `childish` (Pages/cains_jawbone_page_10.md), `twin` (Pages/cains_jawbone_page_47.md), `pale` (Pages/cains_jawbone_page_87.md), `jibe` (Pages/cains_jawbone_page_90.md). Treat as overlap-only unless reinforced by a second independent anchor.
 - **Voice/tells:**
   - Self-referential about name-jibes; detective/allusion density; calm after stress.
 - **Clustering hypotheses:**
   - CERTAIN: `N08` King narrator cluster (Kipling name-jibe; detective allusions; Henry in-scene; table framing).
   - CERTAIN: strong continuity hook with Pages/cains_jawbone_page_94.md via the narrator-name tell (window-sign “my own name” ↔ Kipling/KING wordplay) plus Henry in-scene; LIKELY within-voice order: `Pages/cains_jawbone_page_94.md → Pages/cains_jawbone_page_85.md` (“Henry was waiting for me” → “I was true to time” / “I drove Henry home”); see `Order/hypotheses.md` (`N08`).
   - MAYBE: cross-strand stitch cue: page-body 5‑gram `I looked across the table` appears only here and Pages/cains_jawbone_page_37.md; treat as low-weight unless a second shared anchor (setting/participant/prop) emerges.
-  - MAYBE: body-only df==2 overlaps: `it occurred to me` with Pages/cains_jawbone_page_25.md; token `twin` with Pages/cains_jawbone_page_47.md; token `jibe` with Pages/cains_jawbone_page_90.md; token `childish` with Pages/cains_jawbone_page_10.md; token `pale` with Pages/cains_jawbone_page_87.md. Treat as overlap-only unless a second, non-lexical continuity anchor aligns.
+  - MAYBE: body-only df==2 phrase bundle with Pages/cains_jawbone_page_25.md: `it occurred to me`. Treat as overlap-only unless reinforced by a second independent anchor.
   - MAYBE: continuity hook with Pages/cains_jawbone_page_82.md via the table + dog + post-stress comedown register; falsification check (2025-12-30) found no second shared prop/phrase (salt-cellar unique to this page; biscuits unique to p82; Lapsang also appears on Pages/cains_jawbone_page_17.md) → keep as overlap-only (no adjacency assumption).
 - **Disconfirming evidence:**
   - If Pages/cains_jawbone_page_82.md is later anchored to a different narrator/setting (overlap only, no adjacency).
