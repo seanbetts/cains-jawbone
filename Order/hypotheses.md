@@ -1944,6 +1944,18 @@ Delta from v2.30 (Phase 5 stitching; keep falsifiable):
   - **Re-read outcome:** explicit day-to-day continuity (“Next day …” on both pages) plus shared `Caroline` reference (p86 naming “Caroline Jasmine”) supports the boundary beyond pure lexical overlap.
   - **Status:** p24→p86 = `PASS` (upgrade from lexical-only).
 
+- **Phase 6 test (2026-01-05; boundary falsification):** `Pages/cains_jawbone_page_38.md → Pages/cains_jawbone_page_9.md`
+  - **Predictions:** if this boundary is real, expect more than the shared df==2 token `fortnight`: either a shared time-constraint cue (the same fortnight), shared cast/prop, or a scene continuation across the cut.
+  - **Re-read outcome:** hard scene/voice break; the “fortnight” references appear to be unrelated (Southend memory ↔ professor’s deputised absence), and page-body df==2 scan finds only the df==2 token `fortnight` (no df==2 n‑gram anchors; no other shared df≤3 n‑grams n=2–6).
+  - **Status:** p38→p9 = `UNCLEAR` (placeholder join; treat as high-priority to replace).
+  - **Replacement leads (block-level re-stitch):** p38→p26 (`pondered` + `i pondered`); p38→p29 (`led`); p9↔p45 (df==2 phrase family `i remembered that when`); p9↔p12 (`finger`); p9↔p35 (`assistant`); p9↔p89 (`absence`). (All require re-stitching because these pages are currently pinned in other blocks.)
+
+- **Phase 6 test (2026-01-05; boundary falsification):** `Pages/cains_jawbone_page_9.md → Pages/cains_jawbone_page_25.md`
+  - **Predictions:** if this boundary is real, expect at least one non-lexical hinge across the narrator switch (shared cast/prop/venue/time constraint), not just the df==2 token `earth`.
+  - **Re-read outcome:** hard scene/voice break with no shared cast/prop/venue marker surfaced; page-body df==2 scan finds only the df==2 token `earth` (no df==2 n‑gram anchors; no other shared df≤3 n‑grams n=2–6).
+  - **Status:** p9→p25 = `UNCLEAR` (placeholder join; treat as high-priority to replace).
+  - **Replacement leads (block-level re-stitch):** for p9 successor, consider p9↔p12 (`finger`) / p9↔p35 (`assistant`) / p9↔p89 (`absence`) / p9↔p45 (`i remembered that when`); for p25 predecessor, consider df==2 token leads p2 (`continued`), p15 (`consciousness`), p53 (`mistook`), p58 (`former`), or p78 (`art`). (All require re-stitching because these pages are currently pinned in other blocks.)
+
 - **Block A (`N03` + `N40`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_32.md → Pages/cains_jawbone_page_3.md → Pages/cains_jawbone_page_30.md → Pages/cains_jawbone_page_23.md → Pages/cains_jawbone_page_24.md
 - **Block E (`N13`, confidence: `CERTAIN` internal):** Pages/cains_jawbone_page_86.md → Pages/cains_jawbone_page_87.md
 - **Block E2 (`N14`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_63.md → Pages/cains_jawbone_page_38.md
