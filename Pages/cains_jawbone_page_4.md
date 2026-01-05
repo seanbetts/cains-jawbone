@@ -32,6 +32,7 @@ LIKELY WORDPLAY
 - **Motifs/continuity hooks:**
   - Coastal peril (boy tumbling into sea); church + buttonholes; puddles after rain.
   - Golf-club pun: “mash… with a spoon” / “mashie” (club).
+  - Phase 3 micro-pass (2026-01-05): body-only df==2 token overlaps: `beautiful` (Pages/cains_jawbone_page_17.md), `boy`/`tells` (Pages/cains_jawbone_page_43.md), `buttonhole` (Pages/cains_jawbone_page_100.md), `church` (Pages/cains_jawbone_page_28.md), `clearly` (Pages/cains_jawbone_page_14.md), `crisp` (Pages/cains_jawbone_page_35.md), `heavily` (Pages/cains_jawbone_page_13.md), `le` (Pages/cains_jawbone_page_61.md), `lightly` (Pages/cains_jawbone_page_27.md), `purpose` (Pages/cains_jawbone_page_53.md), `snowy` (Pages/cains_jawbone_page_91.md), `spoon` (Pages/cains_jawbone_page_30.md), `suspect` (Pages/cains_jawbone_page_44.md), `wits` (Pages/cains_jawbone_page_21.md). Treat as overlap-only unless reinforced by a second independent anchor.
 - **Voice/tells:**
   - Comic, name-heavy, punning narration; suspicion aimed at a “beautiful” woman.
 - **Clustering hypotheses:**

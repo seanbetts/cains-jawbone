@@ -19,6 +19,7 @@ I started to read Hardy’s exquisite production, and every muscle of my brain w
   - Reading/interpretation as competition (harvest vs gleaning).
   - Manuscript/illumination imagery (green palette; gold leaf) + “uncorked his ink”.
   - Classification/typing (“pigeon-holing by type”) as a profession tell (LIKELY literal filing/sorting; Chambers 1908 “pigeon-hole” = “division of a case for papers”: https://en.wikisource.org/wiki/Chambers%27s_Twentieth_Century_Dictionary_1908/Philopena_Pistachio; “type” includes printing type/typewriter: https://en.wikisource.org/wiki/Chambers%27s_Twentieth_Century_Dictionary_1908/Tup_Tzigany).
+  - Phase 3 micro-pass (2026-01-05): body-only df==2 token overlaps: `able` (Pages/cains_jawbone_page_98.md), `become` (Pages/cains_jawbone_page_83.md), `clever` (Pages/cains_jawbone_page_88.md), `distinguished`/`learned`/`macabre` (Pages/cains_jawbone_page_90.md), `doubt` (Pages/cains_jawbone_page_1.md), `exquisite` (Pages/cains_jawbone_page_29.md), `fly` (Pages/cains_jawbone_page_58.md), `hardy` (Pages/cains_jawbone_page_5.md), `ink` (Pages/cains_jawbone_page_95.md), `jack` (Pages/cains_jawbone_page_40.md), `jim` (Pages/cains_jawbone_page_62.md), `reap` (Pages/cains_jawbone_page_76.md), `skin` (Pages/cains_jawbone_page_38.md), `tragedy` (Pages/cains_jawbone_page_68.md). Treat as overlap-only unless reinforced by a second independent anchor.
 - **Voice/tells:**
   - Triumphal, witty, and slightly cruel; frames people as “types”.
 - **Clustering hypotheses:**

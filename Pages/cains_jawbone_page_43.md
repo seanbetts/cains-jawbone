@@ -20,6 +20,7 @@ This is good. She accepts Lover’s Delight from me. She has spoken very little 
   - Hands/income dependence (“ruin my hand”).
   - Zodiac/astrology wordplay: Aquarius ↔ Gemini.
   - Scottish nickname/dialect framing (“Ecky”).
+  - Phase 3 micro-pass (2026-01-05): body-only df==2 token overlaps: `aquarius` (Pages/cains_jawbone_page_1.md), `blight` (Pages/cains_jawbone_page_75.md), `boy`/`tells` (Pages/cains_jawbone_page_4.md), `change` (Pages/cains_jawbone_page_6.md), `disappeared` (Pages/cains_jawbone_page_78.md), `ecky` (Pages/cains_jawbone_page_48.md), `hate` (Pages/cains_jawbone_page_23.md), `lower` (Pages/cains_jawbone_page_9.md), `meaning` (Pages/cains_jawbone_page_63.md), `petulant` (Pages/cains_jawbone_page_41.md), `pipe` (Pages/cains_jawbone_page_13.md), `split` (Pages/cains_jawbone_page_47.md), `sun` (Pages/cains_jawbone_page_99.md), `turn` (Pages/cains_jawbone_page_40.md), `turns` (Pages/cains_jawbone_page_17.md), `urges` (Pages/cains_jawbone_page_30.md). Treat as overlap-only unless reinforced by a second independent anchor.
 - **Voice/tells:**
   - Self-referential wordplay; astrological/handwriting sensitivity (possible link to “Aquarius” pen voice).
 - **Clustering hypotheses:**

@@ -10,6 +10,7 @@ For this time being, Henry was drawing towards a close. I was not sorry. The pol
   - Police pursuit: surrounded house; underground passage; concealed bathroom panel.
   - Escape attempt: “limping blimp”.
   - “Crimson list” (victim count) + “Murders were funny things.”
+  - Phase 3 micro-pass (2026-01-05): body-only df==2 token overlaps: `assistant` (Pages/cains_jawbone_page_9.md), `comfort` (Pages/cains_jawbone_page_92.md), `concealed` (Pages/cains_jawbone_page_37.md), `crimson` (Pages/cains_jawbone_page_54.md), `crisp` (Pages/cains_jawbone_page_4.md), `doubtful` (Pages/cains_jawbone_page_86.md), `drawing` (Pages/cains_jawbone_page_29.md), `ease` (Pages/cains_jawbone_page_3.md), `impossible` (Pages/cains_jawbone_page_20.md), `manner` (Pages/cains_jawbone_page_59.md), `police` (Pages/cains_jawbone_page_74.md), `return`/`surrounded` (Pages/cains_jawbone_page_97.md), `thomas` (Pages/cains_jawbone_page_5.md), `uncertain` (Pages/cains_jawbone_page_84.md). Treat as overlap-only unless reinforced by a second independent anchor.
 - **Quotes & allusions:**
   - CERTAIN: “alas, poor Richard! Alas, poor Thomas!” riffs on Shakespeare’s *Richard II* (York: “Alas, poor Richard! where rode he the whilst?”) and Dryden’s *The Mistaken Husband* (“Alas poor Thomas, we must all die!”): https://books.google.co.uk/books?id=9kVwN_5fp_wC&pg=RA1-PA131&dq=%22alas,+poor+Richard%22 ; https://books.google.co.uk/books?id=SxAcGP1I6TkC&pg=PA610&dq=%22alas,+poor+Thomas%22
 - **Voice/tells:**

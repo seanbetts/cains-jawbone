@@ -15,13 +15,13 @@ All the artist in me flared up. After all, my given name was world-famous as the
   - Oratory/voice: “orator’s joys… roll the thunder… a cause d’une femme”.
   - Appetite vs performance: sandwich enjoyed but “bad for the stuff”.
   - Initiation in “secret rooms” behind a port (Marseille Old Port).
+  - Phase 3 micro-pass (2026-01-05): body-only df==2 token overlaps: `absurd` (Pages/cains_jawbone_page_10.md), `ame` (Pages/cains_jawbone_page_97.md), `bold` (Pages/cains_jawbone_page_87.md), `chest` (Pages/cains_jawbone_page_99.md), `country` (Pages/cains_jawbone_page_29.md), `delightful` (Pages/cains_jawbone_page_84.md), `e` (Pages/cains_jawbone_page_41.md), `famous` (Pages/cains_jawbone_page_19.md), `furtive` (Pages/cains_jawbone_page_78.md), `heather` (Pages/cains_jawbone_page_89.md), `inherited` (Pages/cains_jawbone_page_39.md), `initiation` (Pages/cains_jawbone_page_66.md), `interest` (Pages/cains_jawbone_page_91.md), `river`/`thunder` (Pages/cains_jawbone_page_47.md), `venerable` (Pages/cains_jawbone_page_6.md). Treat as overlap-only unless reinforced by a second independent anchor.
 - **Voice/tells:**
   - Performative and educated; toggles between art-identity, rhetoric, and sensual memory.
 - **Clustering hypotheses:**
   - CERTAIN: `N06` orator/artist + flowers/documents voice; `Pages/cains_jawbone_page_73.md` and `Pages/cains_jawbone_page_74.md` share an explicit phrase-level continuation (“hung round with…”). Treat as a continuity constraint `Pages/cains_jawbone_page_73.md → Pages/cains_jawbone_page_74.md` (see `Order/hypotheses.md`).
   - CERTAIN: links strongly with Pages/cains_jawbone_page_66.md via the page-body unique phrase “I remembered the place of my initiation”. Treat as a continuity constraint `Pages/cains_jawbone_page_66.md ↔ Pages/cains_jawbone_page_73.md` (current direction hypothesis: `Pages/cains_jawbone_page_66.md → Pages/cains_jawbone_page_73.md`, confidence: `MAYBE`; see `Order/hypotheses.md` (`N06` order-only sequence)).
   - MAYBE: Pages/cains_jawbone_page_73.md’s Midhurst (Sussex) guidebook quotation sits near Pages/cains_jawbone_page_67.md’s Haslemere (“place of the Whympers”) guidebook cluster; together they suggest a local Sussex/Surrey hop within the same narrator run (order-only; not necessarily adjacent).
-  - MAYBE: body-only df==2 token overlap with Pages/cains_jawbone_page_97.md: `ame`. Treat as a low-weight cross-voice bridge only unless reinforced by a second independent anchor.
 - **Disconfirming evidence:**
   - Only if later evidence shows an editorial/transcription artifact (unlikely).
 - **Research needed:**
