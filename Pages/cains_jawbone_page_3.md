@@ -33,12 +33,12 @@ LIKELY WORDPLAY
   - Numeric precision: “seventeen thousand six hundred yards” = 10 miles exactly (1760 yd/mile).
   - Pills / “assassin’s wonderful substance”: LIKELY hashish/hasheesh, per EB1911’s etymology of “assassin” as “Hashīshīn, from Hashish” (and note that fedais “were intoxicated with the hashīsh”): https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Assassin.
   - Publishing-world references; travel readiness (“rain-proof coat, good shoes”); “I have no chair.”
+  - Phase 3 micro-pass (2026-01-05): body-only df==2 token overlaps: `exact` (Pages/cains_jawbone_page_1.md), `mary` (Pages/cains_jawbone_page_16.md), `clement` (Pages/cains_jawbone_page_22.md), `ease` (Pages/cains_jawbone_page_35.md), `coat` (Pages/cains_jawbone_page_39.md), `wonderful` (Pages/cains_jawbone_page_50.md), `forgotten` (Pages/cains_jawbone_page_55.md), `major` (Pages/cains_jawbone_page_62.md), `ration` (Pages/cains_jawbone_page_67.md). Treat as overlap-only unless reinforced by a second independent anchor.
 - **Voice/tells:**
   - Transactional, self-satisfied tone; mixes commerce (publishers) with menace (assassin substance).
 - **Clustering hypotheses:**
   - CERTAIN: links strongly with Pages/cains_jawbone_page_32.md via the shared “yesterday” instruction-giver appointment + Whitman/weather/kit register (“weeping weather” ↔ “rain-proof coat, good shoes”); see `Order/hypotheses.md` constraints inventory.
   - MAYBE: Clement/Clément/Clem continuity across Pages/cains_jawbone_page_24.md + Pages/cains_jawbone_page_27.md + Pages/cains_jawbone_page_32.md (pending disambiguation: Clement-as-met-person vs Clement-as-narrator-name clue).
-  - MAYBE: body-only df==2 token overlap with Pages/cains_jawbone_page_22.md: `clement`. Treat as a low-weight cross-voice bridge only unless reinforced by a second independent anchor.
 - **Disconfirming evidence:**
   - If later context shows “pills” are benign/medical and “assassin” is figurative.
 - **Research needed:**

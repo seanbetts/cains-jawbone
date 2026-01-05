@@ -13,14 +13,13 @@ I had gone to sleep the night before after rereading Typhoon. It had always stru
 - **Motifs/continuity hooks:**
   - Investigation/judgement motif (“investigator”, “judge”, “judgements”).
   - Odour/remedy: “a Jew’s lime” likely “Jew’s‑lime” (hort.) engrafting wax (pitch + turpentine) with strong “concomitant odour” (see research queue).
+  - Phase 3 micro-pass (2026-01-05): body-only df==2 token overlaps: `investigated` (Pages/cains_jawbone_page_8.md), `stirred` (Pages/cains_jawbone_page_54.md), `english` (Pages/cains_jawbone_page_55.md), `judge` (Pages/cains_jawbone_page_58.md), `investigator` (Pages/cains_jawbone_page_60.md), `odour` (Pages/cains_jawbone_page_71.md), `concomitant` (Pages/cains_jawbone_page_89.md), `phrase` (Pages/cains_jawbone_page_95.md). Treat as overlap-only unless reinforced by a second independent anchor.
 - **Voice/tells:**
   - Self-mocking, literary; blends detective/legal identity with armchair immobility (Baker Street).
 - **Clustering hypotheses:**
   - CERTAIN (Phase 5 adjacency candidate): Pages/cains_jawbone_page_7.md → Pages/cains_jawbone_page_45.md (Typhoon/Renard‑Beinsky scene frame continues into the “half Pole, half Frenchman” character-description beat). See `Order/hypotheses.md`.
   - MAYBE: overlaps Detective/police + violence macro via Baker Street / investigator-judge framing; don’t merge on motif alone.
-  - MAYBE: body-only df==2 token overlap with Pages/cains_jawbone_page_89.md: `concomitant` (“concomitant odour” ↔ “concomitant Spey Royal”). Treat as a low-weight cross-voice bridge only.
   - MAYBE: body-only df==2 n‑gram bundle with Pages/cains_jawbone_page_96.md (e.g., `the morning I had` family). Treat as an overlap/voice-tell lead only unless reinforced by a second independent anchor.
-  - MAYBE: body-only df==2 token overlap with Pages/cains_jawbone_page_71.md: `odour`. Treat as a low-weight cross-voice bridge only unless reinforced by a second independent anchor.
 - **Disconfirming evidence:**
   - If “Baker Steet” is later shown as non-Sherlock/address pun only.
 - **Research needed:**

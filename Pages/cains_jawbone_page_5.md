@@ -31,6 +31,7 @@ LIKELY WORDPLAY
 - **Motifs/continuity hooks:**
   - Drink/poison register: “Emperor’s Peg” is a “peg” (drink of spirits; Webster 1913: https://www.websters1913.com/words/Peg) and Henry’s variant is “equal parts” vitriol (sulphuric acid / “oil of vitriol”, or a metal sulphate; Webster 1913: https://www.websters1913.com/words/Vitriol) + applejack (cider brandy; New International Encyclopædia, 1905, “Cider”: https://en.wikisource.org/wiki/The_New_International_Encyclop%C3%A6dia/Cider).
   - Lighthouse as rendezvous; cosmetics (“powdered my nose”).
+  - Phase 3 micro-pass (2026-01-05): body-only df==2 token overlaps: `powerful` (Pages/cains_jawbone_page_8.md), `thomas` (Pages/cains_jawbone_page_35.md), `nose` (Pages/cains_jawbone_page_48.md), `fifth` (Pages/cains_jawbone_page_55.md), `browning` (Pages/cains_jawbone_page_58.md), `reverse` (Pages/cains_jawbone_page_61.md), `hardy` (Pages/cains_jawbone_page_65.md), `intended` (Pages/cains_jawbone_page_70.md), `parts` (Pages/cains_jawbone_page_79.md). Treat as overlap-only unless reinforced by a second independent anchor.
 - **Voice/tells:**
   - Social irritation; fast associative brand-name riffs; possibly feminine-coded gesture (“powdered my nose”).
 - **Clustering hypotheses:**

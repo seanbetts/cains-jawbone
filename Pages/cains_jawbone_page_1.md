@@ -13,6 +13,7 @@ I sit down alone at the appointed table and take up my pen to give all whom it m
   - Pen: “mottled black and silver Aquarius”, nib “tempered… in Amsterdam”.
   - Sea/birds: “whaups” (curlews), gulls, “sailor”.
   - MAYBE: cross-page echo — “dead old man” wording overlaps with Pages/cains_jawbone_page_100.md’s “old dead” (only pages with this dead-man phrasing); treat as a possible shared-employer thread to test (see `Order/hypotheses.md`).
+  - Phase 3 micro-pass (2026-01-05): body-only df==2 token overlaps: `exact` (Pages/cains_jawbone_page_3.md), `birds` (Pages/cains_jawbone_page_18.md), `suppose` (Pages/cains_jawbone_page_33.md), `aquarius` (Pages/cains_jawbone_page_43.md), `account` (Pages/cains_jawbone_page_59.md), `doubt` (Pages/cains_jawbone_page_65.md), `sailor` (Pages/cains_jawbone_page_84.md), `watch` (Pages/cains_jawbone_page_92.md), `pen` (Pages/cains_jawbone_page_95.md). Treat as overlap-only unless reinforced by a second independent anchor.
 - **Voice/tells:**
   - Fixation on objects (pen) + lyrical sea/bird imagery; abrupt disgust (“Ugh.”).
 - **Clustering hypotheses:**
