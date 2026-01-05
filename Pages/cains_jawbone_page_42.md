@@ -19,6 +19,7 @@ I assure you I had not seen her enter  but suddenly I was electrically aware tha
   - Cigarette + heavy cocktail drinking.
   - “Surface… clear brown” with white figures (stars/heart) moving inside (eye vs drink detail; unclear).
   - White lace “butterfly” dabbing.
+  - Phase 3 micro-pass (2026-01-05): body-only df==2 token overlaps: `figures`/`surmised` (Pages/cains_jawbone_page_2.md), `broken` (Pages/cains_jawbone_page_11.md), `desert` (Pages/cains_jawbone_page_13.md), `quick` (Pages/cains_jawbone_page_29.md), `lean` (Pages/cains_jawbone_page_31.md), `strings` (Pages/cains_jawbone_page_44.md), `moving` (Pages/cains_jawbone_page_53.md), `torture` (Pages/cains_jawbone_page_64.md), `aware` (Pages/cains_jawbone_page_94.md). Treat as overlap-only unless reinforced by a second independent anchor.
 - **Voice/tells:**
   - Sensory, eroticised description; fixates on eyes/surface.
 - **Clustering hypotheses:**

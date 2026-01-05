@@ -13,12 +13,12 @@ I came out of my waking dream with temples moist and tongue most damnably dry. I
   - Collecting motif escalated to self-control (“collect myself”).
   - Physical aftermath: moist temples + dry tongue (stress, drink, illness?).
   - Explicit slow death witnessed (possible poisoning/neglect; unclear).
+  - Phase 3 micro-pass (2026-01-05): body-only df==2 token overlaps: `answer`/`temples` (Pages/cains_jawbone_page_12.md), `waking` (Pages/cains_jawbone_page_20.md), `dream` (Pages/cains_jawbone_page_24.md), `star` (Pages/cains_jawbone_page_28.md), `pole` (Pages/cains_jawbone_page_45.md), `collect` (Pages/cains_jawbone_page_49.md), `tongue` (Pages/cains_jawbone_page_83.md), `bus` (Pages/cains_jawbone_page_84.md), `dry` (Pages/cains_jawbone_page_99.md). Treat as overlap-only unless reinforced by a second independent anchor.
 - **Voice/tells:**
   - Self-assertion (“never previously deceived myself”) + punning wordplay (“ickets”).
 - **Clustering hypotheses:**
   - MAYBE: shares a generic “old man” motif with Pages/cains_jawbone_page_68.md, but no phrase-level overlap found; treat as non-binding unless a unique shared identifier (name/place/prop/quote) emerges.
   - MAYBE: links strongly with Pages/cains_jawbone_page_95.md / Pages/cains_jawbone_page_70.md as motivation for producing a full “hour by hour, day by day” written account (time-granularity echo: “seen every minute of it”).
-  - MAYBE: body-only df==2 token overlap with Pages/cains_jawbone_page_84.md: `bus` (bus tickets ↔ Dagenham bus). Treat as a low-weight cross-voice bridge only unless reinforced.
 - **Disconfirming evidence:**
   - If “done slowly to death” is later shown to be figurative (bored/exhausted) rather than literal.
 - **Research needed:**

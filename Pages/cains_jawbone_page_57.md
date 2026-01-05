@@ -24,6 +24,7 @@ It seemed from what I heard that Felton’s meat had been delivered at Brookesle
   - “bits of paper” reading as a recurring scene mechanism.
   - Holiday/boats: narrator claims ignorance; contrasts castle vs ship.
   - Phrase-level echo: page-body `it was good` appears only here and Pages/cains_jawbone_page_46.md (meat delivery ↔ chop/approval), supporting a close linkage inside `N02` even if not adjacent.
+  - Phase 3 micro-pass (2026-01-05): body-only df==2 token overlaps: `talk` (Pages/cains_jawbone_page_8.md), `noise` (Pages/cains_jawbone_page_19.md), `paper` (Pages/cains_jawbone_page_23.md), `share` (Pages/cains_jawbone_page_24.md), `bits` (Pages/cains_jawbone_page_33.md), `ham`/`westphalian` (Pages/cains_jawbone_page_52.md), `holiday` (Pages/cains_jawbone_page_55.md), `boat` (Pages/cains_jawbone_page_77.md), `crude` (Pages/cains_jawbone_page_88.md). Treat as overlap-only unless reinforced by a second independent anchor.
 - **Voice/tells:**
   - Discomfort with meat; attentive to companion’s verbal framing.
   - LIKELY: dog-as-listener register (“It seemed from what I heard”; “he read…”), with a Skye/pedigree hint (“Some of my people had known the old Armadale Castle…”) echoing Pages/cains_jawbone_page_19.md’s “my people” line.

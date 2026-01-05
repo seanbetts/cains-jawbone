@@ -15,6 +15,7 @@ Considering it was my name month, I wasn’t having too much luck. Henry, though
   - Official pressure: knock at “little blue door”; inspector vs local.
   - Psychoanalysis pun: “Nuts in May… Freudian” (children’s singing-game line: “Here we go gathering nuts in May…”; Kipling, *A Diversity of Creatures*: https://en.wikisource.org/wiki/A_Diversity_of_Creatures/The_Village_that_Voted_the_Earth_was_Flat) + “Be not a Freud” punning “Be not afraid, thy help is near” (Words of Anthems Used in Westminster Abbey (1878), p. 109: https://books.google.co.uk/books?id=FD9GAAAAYAAJ&pg=PA109&vq=%22thy+help+is+near%22).
   - Literature: stranger keeps talking about Browning.
+  - Phase 3 micro-pass (2026-01-05): body-only df==2 token overlaps: `browning` (Pages/cains_jawbone_page_5.md), `judge` (Pages/cains_jawbone_page_7.md), `stooping` (Pages/cains_jawbone_page_13.md), `former` (Pages/cains_jawbone_page_25.md), `local` (Pages/cains_jawbone_page_30.md), `distinctly` (Pages/cains_jawbone_page_36.md), `silent` (Pages/cains_jawbone_page_49.md), `argued` (Pages/cains_jawbone_page_53.md), `fly` (Pages/cains_jawbone_page_65.md), `sane` (Pages/cains_jawbone_page_74.md). Treat as overlap-only unless reinforced by a second independent anchor.
 - **Voice/tells:**
   - Darkly comic; enumerates murders; pun-heavy.
 - **Clustering hypotheses:**

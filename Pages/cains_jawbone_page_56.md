@@ -34,15 +34,13 @@ LIKELY WORDPLAY
   - Precognition/recapitulation: “uncanny powers”; “revisualise”.
   - Breakfast/satiation used to steady memory.
   - MAYBE: “bursting into pang in the sausage” as a distorted “burst into song” phrasing.
+  - Phase 3 micro-pass (2026-01-05): body-only df==2 token overlaps: `sausage` (Pages/cains_jawbone_page_8.md), `reflected` (Pages/cains_jawbone_page_18.md), `tiny` (Pages/cains_jawbone_page_27.md), `bursting` (Pages/cains_jawbone_page_29.md), `spent` (Pages/cains_jawbone_page_36.md), `literal` (Pages/cains_jawbone_page_54.md), `realisation` (Pages/cains_jawbone_page_76.md), `disappointed` (Pages/cains_jawbone_page_81.md), `stomach` (Pages/cains_jawbone_page_89.md), `beastly` (Pages/cains_jawbone_page_100.md). Treat as overlap-only unless reinforced by a second independent anchor.
 - **Voice/tells:**
   - Self-mocking wordplay + claimed second-sight; breakfast domesticity.
 - **Clustering hypotheses:**
   - CERTAIN: links strongly with Pages/cains_jawbone_page_54.md (exact shared aside “in the awful and literal sense of the word” + morning/breakfast framing; treat as a continuity constraint `Pages/cains_jawbone_page_54.md ↔ Pages/cains_jawbone_page_56.md`; see `Order/hypotheses.md` constraints inventory).
   - CERTAIN (Phase 5 adjacency candidate): Pages/cains_jawbone_page_56.md → Pages/cains_jawbone_page_54.md (insomnia/recapitulation pre-breakfast → breakfast table letter-reading beat). See `Order/hypotheses.md`.
   - MAYBE: links to other Browning/Pippa references (e.g., Pages/cains_jawbone_page_58.md).
-  - MAYBE: body-only df==2 token `sausage` overlaps with Pages/cains_jawbone_page_8.md (“sausage place”); treat as a motif-only overlap unless reinforced.
-  - MAYBE: body-only df==2 token overlap with Pages/cains_jawbone_page_89.md: `stomach`. Treat as a low-weight cross-voice bridge only unless reinforced by a second independent anchor.
-  - MAYBE: body-only df==2 token overlaps: `beastly` (Pages/cains_jawbone_page_100.md), `bursting` (Pages/cains_jawbone_page_29.md), `disappointed` (Pages/cains_jawbone_page_81.md), `realisation` (Pages/cains_jawbone_page_76.md), `reflected` (Pages/cains_jawbone_page_18.md), `spent` (Pages/cains_jawbone_page_36.md), `tiny` (Pages/cains_jawbone_page_27.md). Treat as low-weight cross-voice bridge leads only unless reinforced by a second independent anchor.
 - **Disconfirming evidence:**
   - If Asolo/Pippa references resolve to unrelated in-world labels rather than Browning allusion.
 - **Research needed:**
