@@ -1956,6 +1956,18 @@ Delta from v2.30 (Phase 5 stitching; keep falsifiable):
   - **Status:** p9→p25 = `UNCLEAR` (placeholder join; treat as high-priority to replace).
   - **Replacement leads (block-level re-stitch):** for p9 successor, consider p9↔p12 (`finger`) / p9↔p35 (`assistant`) / p9↔p89 (`absence`) / p9↔p45 (`i remembered that when`); for p25 predecessor, consider df==2 token leads p2 (`continued`), p15 (`consciousness`), p53 (`mistook`), p58 (`former`), or p78 (`art`). (All require re-stitching because these pages are currently pinned in other blocks.)
 
+- **Phase 6 test (2026-01-05; boundary falsification):** `Pages/cains_jawbone_page_69.md → Pages/cains_jawbone_page_84.md`
+  - **Predictions:** if this boundary is real, expect more than the shared df==2 token `bus`: either a shared time/place cue (the same bus/route) or a continuity marker tying p69’s “old man” death scene to p84’s “deceased” conversation.
+  - **Re-read outcome:** hard scene/voice break; the “bus” references appear to be unrelated (childhood bus-ticket collecting ↔ Dagenham bus travel), and page-body df==2 scan finds only the df==2 token `bus` (no df==2 n‑gram anchors; no other shared df≤3 n‑grams n=2–6).
+  - **Status:** p69→p84 = `UNCLEAR` (placeholder join; treat as high-priority to replace).
+  - **Replacement leads (block-level re-stitch):** p69→p49 (`collect`, matching “collect myself” ↔ “collect oneself”); p69↔p12 (`answer`, `temples`); p84 is more strongly pulled toward Pages/cains_jawbone_page_37.md (`yellow jasmine`) / Pages/cains_jawbone_page_41.md (`catch`, `tawny`, `terribly`) than toward p69. (All require re-stitching because these pages are currently pinned in other blocks.)
+
+- **Phase 6 test (2026-01-05; boundary falsification):** `Pages/cains_jawbone_page_70.md → Pages/cains_jawbone_page_96.md`
+  - **Predictions:** if this boundary is real, expect either narrator/scene continuity from the confession-writing context (p95→p70) into p96’s “Golden Tips” waiting scene, or at least a second independent anchor beyond the df==2 token `poem`.
+  - **Re-read outcome:** no explicit cast/venue/prop continuity marker surfaced; page-body df scan finds only the df==2 token `poem` plus weaker df==3 overlaps (`written`; trigram `in the morning`) that are not sufficient on their own.
+  - **Status:** p70→p96 = `UNCLEAR` (treat as a weak lexical gate until reinforced).
+  - **Replacement leads (block-level re-stitch):** p70 has stronger df==2 pulls toward p67 (`painted` + `i took the`) and p83 (`leaving` + `leaving me`); p96 has a large df==2 n‑gram overlap bundle with p29 (see `Indexes/narrators.md`). (All require re-stitching because these pages are currently pinned in other blocks.)
+
 - **Block A (`N03` + `N40`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_32.md → Pages/cains_jawbone_page_3.md → Pages/cains_jawbone_page_30.md → Pages/cains_jawbone_page_23.md → Pages/cains_jawbone_page_24.md
 - **Block E (`N13`, confidence: `CERTAIN` internal):** Pages/cains_jawbone_page_86.md → Pages/cains_jawbone_page_87.md
 - **Block E2 (`N14`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_63.md → Pages/cains_jawbone_page_38.md
