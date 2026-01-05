@@ -1968,6 +1968,18 @@ Delta from v2.30 (Phase 5 stitching; keep falsifiable):
   - **Status:** p70→p96 = `UNCLEAR` (treat as a weak lexical gate until reinforced).
   - **Replacement leads (block-level re-stitch):** p70 has stronger df==2 pulls toward p67 (`painted` + `i took the`) and p83 (`leaving` + `leaving me`); p96 has a large df==2 n‑gram overlap bundle with p29 (see `Indexes/narrators.md`). (All require re-stitching because these pages are currently pinned in other blocks.)
 
+- **Phase 6 test (2026-01-05; boundary falsification):** `Pages/cains_jawbone_page_100.md → Pages/cains_jawbone_page_66.md`
+  - **Predictions:** if this boundary is real, expect more than the shared df==2 token `smiling`: at least one non-lexical continuity cue (shared cast/venue/prop/time constraint) tying p100’s “old dead” scene to p66’s “old school colours” scene.
+  - **Re-read outcome:** hard scene/voice break with no shared cast/venue/prop marker surfaced; page-body df==2 scan finds only the df==2 token `smiling` (no df==2 n‑gram anchors; no other shared df≤3 n‑grams n=2–6).
+  - **Status:** p100→p66 = `UNCLEAR` (placeholder join; treat as high-priority to replace).
+  - **Replacement leads (block-level re-stitch):** p100→p79 (`flush` + phrase family `as flush as may`); p100 shares multiple df==2 n‑grams with p17 (`slips`; `why should i think`) but is currently pinned inside `N01`; p66 appears strongly locked inside `N06` (school-colours thread) and may need a different predecessor than p100. (All require re-stitching because these pages are currently pinned in other blocks.)
+
+- **Phase 6 test (2026-01-05; boundary falsification):** `Pages/cains_jawbone_page_83.md → Pages/cains_jawbone_page_92.md`
+  - **Predictions:** if this boundary is real, expect at least one non-lexical hinge across the narrator switch (shared cast/prop/venue/time constraint), not just the df==2 token `dew`.
+  - **Re-read outcome:** hard scene/voice break with no shared cast/prop/venue marker surfaced; page-body df==2 scan finds only the df==2 token `dew` (no df==2 n‑gram anchors; no other shared df≤3 n‑grams n=2–6).
+  - **Status:** p83→p92 = `UNCLEAR` (placeholder join; treat as high-priority to replace).
+  - **Replacement leads (block-level re-stitch):** p83→p70 (`leaving` + `leaving me`); p92←p55 (`groped`; `had groped`) and p92 has additional low-df overlaps with other “Henry” pages (e.g., df==2 token `knee` with p70). (All require re-stitching because these pages are currently pinned in other blocks.)
+
 - **Block A (`N03` + `N40`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_32.md → Pages/cains_jawbone_page_3.md → Pages/cains_jawbone_page_30.md → Pages/cains_jawbone_page_23.md → Pages/cains_jawbone_page_24.md
 - **Block E (`N13`, confidence: `CERTAIN` internal):** Pages/cains_jawbone_page_86.md → Pages/cains_jawbone_page_87.md
 - **Block E2 (`N14`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_63.md → Pages/cains_jawbone_page_38.md
