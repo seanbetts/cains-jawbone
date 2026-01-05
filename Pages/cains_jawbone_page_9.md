@@ -33,11 +33,11 @@ LIKELY WORDPLAY
   - Bells/summoning; class hierarchy (“lower orders”).
   - Academia/professional identity (mineralogy lecturer).
   - Phrase-level echo: page-body 4‑gram `I remembered that, when` appears only here and Pages/cains_jawbone_page_45.md; treat as low-weight unless reinforced by a second shared anchor (bell/assistant/class register, or a repeated quotation/pun structure).
+  - Phase 3 micro-pass (2026-01-05): body-only df==2 token overlaps: `finger` (Pages/cains_jawbone_page_12.md), `earth` (Pages/cains_jawbone_page_25.md), `assistant` (Pages/cains_jawbone_page_35.md), `fortnight` (Pages/cains_jawbone_page_38.md), `lower` (Pages/cains_jawbone_page_43.md), `absence` (Pages/cains_jawbone_page_89.md). Treat as overlap-only unless reinforced by a second independent anchor.
 - **Voice/tells:**
   - Snobbish, managerial; expects obedience; distrusts but relies on skilled subordinate.
 - **Clustering hypotheses:**
   - MAYBE: bell motif cluster with Pages/cains_jawbone_page_6.md (bell-wire + bell focus).
-  - MAYBE: body-only df==2 token overlap with Pages/cains_jawbone_page_25.md: `earth`. Treat as a low-weight cross-voice bridge only unless reinforced by a second independent anchor.
 - **Disconfirming evidence:**
   - If bell references resolve to unrelated settings/narrators with no continuity.
 - **Research needed:**

@@ -20,6 +20,7 @@ Then against a possible invasion of my privacy, I touched my white cheeks until 
 - **Motifs/continuity hooks:**
   - Bodies/corpses; discomfort about privacy; empty pipe.
   - Need for water vs fixed infrastructure (historic conduit).
+  - Phase 3 micro-pass (2026-01-05): body-only df==2 token overlaps: `standing` (Pages/cains_jawbone_page_2.md), `heavily` (Pages/cains_jawbone_page_4.md), `native` (Pages/cains_jawbone_page_15.md), `desert` (Pages/cains_jawbone_page_42.md), `pipe` (Pages/cains_jawbone_page_43.md), `stooping` (Pages/cains_jawbone_page_58.md), `whistling` (Pages/cains_jawbone_page_68.md), `fringe` (Pages/cains_jawbone_page_94.md). Treat as overlap-only unless reinforced by a second independent anchor.
 - **Voice/tells:**
   - Self-conscious, classed description (“Bloomsbury”); familiarity with grim scenes (“native to me”).
 - **Clustering hypotheses:**

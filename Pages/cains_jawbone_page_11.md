@@ -14,6 +14,7 @@ If Henry had been there he could have told me what to do. His great voice, tuned
   - Nautical register: capstan bar; dog-watch.
   - Direct Kipling allusion/quote (dog-POV register) embedded in the “Orchard… Ravager… short legs” sentence (see research queue).
   - “Struck” (Henry’s trade involved striking; could be bell/timekeeping or a blow).
+  - Phase 3 micro-pass (2026-01-05): body-only df==2 token overlaps: `bar` (Pages/cains_jawbone_page_17.md), `broken` (Pages/cains_jawbone_page_42.md), `agree` (Pages/cains_jawbone_page_53.md), `quincey` (Pages/cains_jawbone_page_76.md), `legs` (Pages/cains_jawbone_page_84.md). Treat as overlap-only unless reinforced by a second independent anchor.
 - **Voice/tells:**
   - Maritime diction + sudden sentimentality.
   - Swift + De Quincey name-drops; splices in Kipling.
