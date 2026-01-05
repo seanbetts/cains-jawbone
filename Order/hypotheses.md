@@ -1800,6 +1800,42 @@ Key changes vs v1:
 - **Block W (`N06`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_66.md → Pages/cains_jawbone_page_67.md → Pages/cains_jawbone_page_73.md → Pages/cains_jawbone_page_74.md → Pages/cains_jawbone_page_75.md (Pages/cains_jawbone_page_83.md: order-only continuation, unplaced adjacency)
 - **Block X (tail, confidence: `MAYBE`):** Pages/cains_jawbone_page_2.md → Pages/cains_jawbone_page_9.md → Pages/cains_jawbone_page_16.md → Pages/cains_jawbone_page_18.md → Pages/cains_jawbone_page_37.md → Pages/cains_jawbone_page_38.md → Pages/cains_jawbone_page_40.md → Pages/cains_jawbone_page_51.md → Pages/cains_jawbone_page_63.md → Pages/cains_jawbone_page_72.md → Pages/cains_jawbone_page_76.md → Pages/cains_jawbone_page_78.md → Pages/cains_jawbone_page_81.md → Pages/cains_jawbone_page_84.md → Pages/cains_jawbone_page_98.md → Pages/cains_jawbone_page_77.md → Pages/cains_jawbone_page_46.md → Pages/cains_jawbone_page_100.md
 
+### Proposed order (all 100 pages; v2.31)
+
+Delta from v2 (Phase 5 consolidation; keep falsifiable):
+
+- Adopt the provisional stitch `Pages/cains_jawbone_page_52.md → Pages/cains_jawbone_page_53.md → Pages/cains_jawbone_page_4.md → Pages/cains_jawbone_page_58.md → Pages/cains_jawbone_page_5.md → Pages/cains_jawbone_page_81.md → Pages/cains_jawbone_page_6.md` to pull `N19` + Page 81 out of the tail and remove the unsupported `Pages/cains_jawbone_page_53.md → Pages/cains_jawbone_page_6.md` jump.
+  - **Why:** uses the current best-known placement-gates (`purpose`; `was dead what`; `band`/`speckled`) while keeping all three joins explicitly `MAYBE` and falsifiable (see the Phase 6 boundary ledger entries for each boundary).
+  - **Falsifiers:** any of the three gates gains a stronger conflicting neighbour (2+ independent anchors) and/or Page 81’s allusion-only tie to Page 6 is superseded by a non-allusive continuity marker elsewhere.
+- Move Page 16 into the `N08` run between Pages/cains_jawbone_page_94.md and Pages/cains_jawbone_page_85.md, removing it from the tail (restoring the within-voice chain `Pages/cains_jawbone_page_94.md → Pages/cains_jawbone_page_16.md → Pages/cains_jawbone_page_85.md`).
+- **Next falsification check:** re-read the three new boundaries (`Pages/cains_jawbone_page_53.md → Pages/cains_jawbone_page_4.md`, `Pages/cains_jawbone_page_5.md → Pages/cains_jawbone_page_81.md`, `Pages/cains_jawbone_page_81.md → Pages/cains_jawbone_page_6.md`) for any non-lexical continuity marker (cast/prop/place/time), and prioritize replacing any boundary that remains allusion-only.
+
+- **Block A (`N03` + `N40`, confidence: `MAYBE` internal):** Pages/cains_jawbone_page_23.md → Pages/cains_jawbone_page_24.md (Pages/cains_jawbone_page_32.md, Pages/cains_jawbone_page_3.md, Pages/cains_jawbone_page_30.md: within-voice order-only; Pages/cains_jawbone_page_27.md: unplaced)
+- **Block B (`N25` interview, confidence: `CERTAIN` internal):** Pages/cains_jawbone_page_52.md → Pages/cains_jawbone_page_53.md
+- **Block F (`N19`, confidence: `MAYBE` internal):** Pages/cains_jawbone_page_4.md → Pages/cains_jawbone_page_58.md → Pages/cains_jawbone_page_5.md
+- **Block C0 (`N28`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_81.md
+- **Block C (`N12` poison-logistics + Trinder chain, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_6.md → Pages/cains_jawbone_page_21.md → Pages/cains_jawbone_page_36.md → Pages/cains_jawbone_page_29.md → Pages/cains_jawbone_page_35.md → Pages/cains_jawbone_page_80.md → Pages/cains_jawbone_page_59.md → Pages/cains_jawbone_page_60.md
+- **Block D (`N11`, confidence: `LIKELY` placement):** Pages/cains_jawbone_page_91.md
+- **Block E (`N13`, confidence: `CERTAIN` internal):** Pages/cains_jawbone_page_86.md → Pages/cains_jawbone_page_87.md
+- **Block G (`N20`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_49.md → Pages/cains_jawbone_page_13.md (Pages/cains_jawbone_page_31.md: within-incident follow-on, unplaced adjacency)
+- **Block H (`N16`, confidence: `MAYBE` internal):** Pages/cains_jawbone_page_7.md → Pages/cains_jawbone_page_45.md → Pages/cains_jawbone_page_26.md → Pages/cains_jawbone_page_44.md (Pages/cains_jawbone_page_55.md: edge-fit, unplaced)
+- **Block I (`N17`, confidence: `CERTAIN` internal):** Pages/cains_jawbone_page_41.md → Pages/cains_jawbone_page_11.md
+- **Block J (`N08`, confidence: `MAYBE` internal):** Pages/cains_jawbone_page_94.md → Pages/cains_jawbone_page_16.md → Pages/cains_jawbone_page_85.md (Pages/cains_jawbone_page_15.md, Pages/cains_jawbone_page_82.md: order-only; placement flexible)
+- **Block K (`N07`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_97.md → Pages/cains_jawbone_page_93.md
+- **Block L (`N26`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_56.md → Pages/cains_jawbone_page_54.md (Pages/cains_jawbone_page_71.md: likely next-day continuation, not adjacency-locked)
+- **Block M (`N21`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_92.md → Pages/cains_jawbone_page_42.md (Pages/cains_jawbone_page_47.md: core voice, unplaced)
+- **Block N (`N01`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_17.md → Pages/cains_jawbone_page_43.md (Pages/cains_jawbone_page_1.md, Pages/cains_jawbone_page_96.md: unplaced within `N01`)
+- **Block O (`N32`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_65.md → Pages/cains_jawbone_page_90.md → Pages/cains_jawbone_page_89.md (Pages/cains_jawbone_page_62.md: unplaced within `N32`)
+- **Block P (`N04`, confidence: `MAYBE` internal direction):** Pages/cains_jawbone_page_64.md → Pages/cains_jawbone_page_61.md
+- **Block Q (`N34`, confidence: `MAYBE` internal direction):** Pages/cains_jawbone_page_25.md → Pages/cains_jawbone_page_20.md
+- **Block R (`N09` meeting sub-strand, confidence: `MAYBE` internal):** Pages/cains_jawbone_page_68.md → Pages/cains_jawbone_page_69.md
+- **Block S (`N02` dog POV (Aug run), confidence: `LIKELY` internal):** Pages/cains_jawbone_page_22.md → Pages/cains_jawbone_page_79.md → Pages/cains_jawbone_page_48.md → Pages/cains_jawbone_page_88.md → Pages/cains_jawbone_page_39.md → Pages/cains_jawbone_page_10.md → Pages/cains_jawbone_page_99.md → Pages/cains_jawbone_page_8.md → Pages/cains_jawbone_page_19.md (Pages/cains_jawbone_page_57.md: later domestic beat; order-only)
+- **Block T (`N25` debts vignette, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_33.md → Pages/cains_jawbone_page_34.md
+- **Block U (`N09` Café Royal / account sub-strand, confidence: `MAYBE` internal):** Pages/cains_jawbone_page_95.md → Pages/cains_jawbone_page_70.md
+- **Block V (`N10` + `N39`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_12.md → Pages/cains_jawbone_page_50.md (Pages/cains_jawbone_page_14.md: within-voice predecessor, unplaced adjacency; Pages/cains_jawbone_page_28.md: within-voice pairing, unplaced adjacency)
+- **Block W (`N06`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_66.md → Pages/cains_jawbone_page_67.md → Pages/cains_jawbone_page_73.md → Pages/cains_jawbone_page_74.md → Pages/cains_jawbone_page_75.md (Pages/cains_jawbone_page_83.md: order-only continuation, unplaced adjacency)
+- **Block X (tail, confidence: `MAYBE`):** Pages/cains_jawbone_page_2.md → Pages/cains_jawbone_page_9.md → Pages/cains_jawbone_page_18.md → Pages/cains_jawbone_page_37.md → Pages/cains_jawbone_page_38.md → Pages/cains_jawbone_page_40.md → Pages/cains_jawbone_page_51.md → Pages/cains_jawbone_page_63.md → Pages/cains_jawbone_page_72.md → Pages/cains_jawbone_page_76.md → Pages/cains_jawbone_page_78.md → Pages/cains_jawbone_page_84.md → Pages/cains_jawbone_page_98.md → Pages/cains_jawbone_page_77.md → Pages/cains_jawbone_page_46.md → Pages/cains_jawbone_page_100.md
+
 ### Proposed order (all 100 pages; v2.30)
 
 Delta from v2.2 (Phase 6 tightening; keep falsifiable):
