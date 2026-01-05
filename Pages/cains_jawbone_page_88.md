@@ -21,6 +21,7 @@ I always liked to listen to him. It was St. Wigbert’s day, I was told, and Aug
   - Distemper colour debate (Dark French Grey vs Egg Shell Green) suggests decorating quarrel (or a coded colour clue).
   - Mice imagery (“mice were dancing on my little slab”) echoes other pages’ mouse-pressure imagery (Pages/cains_jawbone_page_82.md).
   - Jasmine reference (“Tom and Flora’s Jasmine”) LIKELY refers to the named cat on Pages/cains_jawbone_page_22.md (bridge to Pages/cains_jawbone_page_46.md / Pages/cains_jawbone_page_99.md), but do not use the shared name “Flora” as an ordering bridge unless another non-name anchor appears.
+  - Phase 3 micro-pass (2026-01-05): body-only df==2 token overlaps: `dreadful` (Pages/cains_jawbone_page_2.md), `listen` (Pages/cains_jawbone_page_14.md), `doors` (Pages/cains_jawbone_page_45.md), `tom` (Pages/cains_jawbone_page_46.md), `tate` (Pages/cains_jawbone_page_48.md), `french` (Pages/cains_jawbone_page_50.md), `crude` (Pages/cains_jawbone_page_57.md), `clever` (Pages/cains_jawbone_page_65.md), `mice` (Pages/cains_jawbone_page_82.md), `son` (Pages/cains_jawbone_page_97.md). Treat as overlap-only unless reinforced by a second independent anchor.
 - **Voice/tells:**
   - Social-observer stance: repetitive “He said… She said…” with narrator not fully understanding.
 - **Clustering hypotheses:**
@@ -28,7 +29,6 @@ I always liked to listen to him. It was St. Wigbert’s day, I was told, and Aug
   - CERTAIN (Phase 5 adjacency candidate): Pages/cains_jawbone_page_48.md → Pages/cains_jawbone_page_88.md (Tate-sugar anchor + shared “He said… She said…” register). See `Order/hypotheses.md`.
   - CERTAIN (Phase 5 adjacency candidate): Pages/cains_jawbone_page_88.md → Pages/cains_jawbone_page_39.md (“how few the other had done so late in the year” → “it didn’t matter what they had done… two all for that year” + same cadence). See `Order/hypotheses.md`.
   - MAYBE: shares Tom/Jasmine household reference and a “listen to him” frame with Pages/cains_jawbone_page_46.md; treat as overlap unless time anchors can be reconciled.
-  - MAYBE: body-only df==2 token overlap with Pages/cains_jawbone_page_97.md: `son`. Treat as a low-weight cross-voice bridge only unless reinforced by a second independent anchor.
 - **Disconfirming evidence:**
   - If St. Wigbert’s day is shown to be an in-world nickname rather than a calendar marker.
   - If “Tom and Flora’s Jasmine” is shown to be a different Jasmine (person/plant/paint) unrelated to the Page 22 cat.

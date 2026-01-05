@@ -18,7 +18,7 @@ It flashed through my mind that the place between Eros and the Queen’s Hall ha
   - Threat escalation: “try to do me in”.
   - Child-at-knee intimacy used as leverage (“old association”).
   - LIKELY: the “old association”/childhood-contact thread matches Pages/cains_jawbone_page_95.md’s “neglecting my contact with his infancy” while writing the full account.
-  - MAYBE: body-only df==2 token overlap with Pages/cains_jawbone_page_96.md: `poem` (“fragments of a poem…” ↔ “written that poem…”). Treat as a low-weight cross-voice bridge only unless reinforced.
+  - Phase 3 micro-pass (2026-01-05): body-only df==2 token overlaps: `intended` (Pages/cains_jawbone_page_5.md), `fragments` (Pages/cains_jawbone_page_14.md), `warnings` (Pages/cains_jawbone_page_31.md), `worst` (Pages/cains_jawbone_page_50.md), `expense` (Pages/cains_jawbone_page_60.md), `painted` (Pages/cains_jawbone_page_67.md), `babbled` (Pages/cains_jawbone_page_81.md), `leaving` (Pages/cains_jawbone_page_83.md), `knee` (Pages/cains_jawbone_page_92.md), `poem` (Pages/cains_jawbone_page_96.md). Treat as overlap-only unless reinforced by a second independent anchor.
   - Phase 6 scan (2025-12-31): page-body word `fragments` appears only on Pages/cains_jawbone_page_70.md and Pages/cains_jawbone_page_14.md (p70 “fragments of a poem…”; p14 “fragments of dejected flesh…”); treat as a low-weight possible re-stitch cue (not sufficient alone for adjacency).
 - **Voice/tells:**
   - Overheated associative leaps; heavy wordplay (“Ming”/Munich/Efate) amid fear and fatigue.

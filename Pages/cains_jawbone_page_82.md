@@ -52,6 +52,7 @@ LIKELY WORDPLAY
   - Tea: steaming Lapsang; biscuits.
   - Dogs: “first dog… at the very beginning” vs “third dog… in London” (possible clue about beginnings).
   - Mental/physical pressure imagery (“great asses of mice… pressing down on my head”).
+  - Phase 3 micro-pass (2026-01-05): body-only df==2 token overlaps: `london` (Pages/cains_jawbone_page_2.md), `lost` (Pages/cains_jawbone_page_8.md), `mistake` (Pages/cains_jawbone_page_14.md), `lapsang` (Pages/cains_jawbone_page_17.md), `gazing`/`job` (Pages/cains_jawbone_page_32.md), `danger` (Pages/cains_jawbone_page_74.md), `ankles`/`cold` (Pages/cains_jawbone_page_77.md), `mice` (Pages/cains_jawbone_page_88.md). Treat as overlap-only unless reinforced by a second independent anchor.
 - **Voice/tells:**
   - Disoriented (“forgot why I was… staring”); guilt/weight-of-certainty framing.
 - **Clustering hypotheses:**
