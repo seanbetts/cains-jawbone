@@ -14,6 +14,7 @@ I wondered if I should succeed in hurting the girl. But think of her no more. Th
   - Writing/forgery: “caseful of strange pens”; “wonderful hands” working.
   - Violence hesitation: “hurting the girl… think of her no more.”
   - Family/decency obsession (handbag birth rhetoric + French Revolution comparison).
+  - Phase 3 micro-pass (2026-01-05): body-only df==2 token overlaps: `wonderful` (Pages/cains_jawbone_page_3.md), `rate` (Pages/cains_jawbone_page_10.md), `chesterton` (Pages/cains_jawbone_page_32.md), `begin`/`straight` (Pages/cains_jawbone_page_47.md), `ordinary` (Pages/cains_jawbone_page_49.md), `neither` (Pages/cains_jawbone_page_66.md), `worst` (Pages/cains_jawbone_page_70.md), `french` (Pages/cains_jawbone_page_88.md). Treat as overlap-only unless reinforced by a second independent anchor.
 - **Quotes & allusions:**
   - “I begin at the beginning… go straight through to the end” (echoes Alice-in-Wonderland trial phrasing; likely deliberate).
   - “to be born… in a handbag… whether it had handles or not…” (strongly echoes Wilde’s *Importance of Being Earnest*).

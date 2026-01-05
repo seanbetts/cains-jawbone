@@ -18,11 +18,11 @@ What should such a man need with such a companion, I asked myself. And then I th
   - Money/coins: “gold” vs “silver”; “dime shape”.
   - Deceit/mind vs heart; waiting “upon events”.
   - Removal/custody implied (“take him away”) + subsequent death.
+  - Phase 3 micro-pass (2026-01-05): body-only df==2 token overlaps: `major` (Pages/cains_jawbone_page_3.md), `square` (Pages/cains_jawbone_page_31.md), `beside` (Pages/cains_jawbone_page_32.md), `vicar` (Pages/cains_jawbone_page_39.md), `tale` (Pages/cains_jawbone_page_40.md), `jim` (Pages/cains_jawbone_page_65.md), `exulted` (Pages/cains_jawbone_page_75.md). Treat as overlap-only unless reinforced by a second independent anchor.
 - **Voice/tells:**
   - Self-justifying tone (“warrior… without being a bounder”); suspicion/interpretation of others’ motives.
 - **Clustering hypotheses:**
   - MAYBE: links to other “removed/arrested/locked in” threads (asylum/police); hold until more anchors.
-  - MAYBE: body-only df==2 token overlap with Pages/cains_jawbone_page_31.md: `square` (Trafalgar Square ↔ “square accounts”). Treat as a low-weight cross-voice bridge only.
 - **Disconfirming evidence:**
   - If “dead man” is metaphorical or purely a quoted/storytold figure rather than an in-world death.
 - **Research needed:**

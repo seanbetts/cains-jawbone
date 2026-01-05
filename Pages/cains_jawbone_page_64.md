@@ -20,6 +20,7 @@ Needless to say I didn’t know that that was the last day. Afterwards I found i
   - Loyalty/fealty; inheritance of allegiance (“my people had always owned allegiance…”).
   - Angling/hook/bait metaphor for deceit/entrapment.
   - Great Lexicographer thread links strongly with Pages/cains_jawbone_page_61.md.
+  - Phase 3 micro-pass (2026-01-05): body-only df==2 token overlaps: `carry` (Pages/cains_jawbone_page_24.md), `torture` (Pages/cains_jawbone_page_42.md), `lexicographer` (Pages/cains_jawbone_page_61.md), `tasted` (Pages/cains_jawbone_page_80.md). Treat as overlap-only unless reinforced by a second independent anchor.
 - **Voice/tells:**
   - Reverential, clan/fealty language; heavy interleaving of learned allusion with personal devotion.
 - **Clustering hypotheses:**

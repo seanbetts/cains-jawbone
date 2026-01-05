@@ -21,6 +21,7 @@ I had always been proud of my namesake, the Great Lexicographer, as we, not unna
   - Institutions/confinement: “locked in” + asylum/prison anxieties.
   - Animals: hen + sheep; linked to Dickens allusion.
   - Water lilies / reed-bed imagery.
+  - Phase 3 micro-pass (2026-01-05): body-only df==2 token overlaps: `le` (Pages/cains_jawbone_page_4.md), `reverse` (Pages/cains_jawbone_page_5.md), `william` (Pages/cains_jawbone_page_19.md), `sur` (Pages/cains_jawbone_page_63.md), `lexicographer` (Pages/cains_jawbone_page_64.md), `morbid` (Pages/cains_jawbone_page_66.md), `lord` (Pages/cains_jawbone_page_76.md), `et` (Pages/cains_jawbone_page_97.md). Treat as overlap-only unless reinforced by a second independent anchor.
 - **Voice/tells:**
   - Dense learned allusion + bilingual quotation; playful etymology/portmanteau.
 - **Clustering hypotheses:**

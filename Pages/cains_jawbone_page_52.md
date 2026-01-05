@@ -13,6 +13,7 @@ The cardinal was acquitted to-day of all complicity in the affair of the Queen�
   - Interview setting: door opens/shuts; “papers”; narrator supplies coffee + sandwiches.
   - Food tells: Westphalian ham; cucumber sandwiches (extravagance noted).
   - Meta-structure hint: “words before my eyes… commentary… page after page” (suggests a run of interview-pages).
+  - Phase 3 micro-pass (2026-01-05): body-only df==2 token overlaps: `explained` (Pages/cains_jawbone_page_26.md), `entered` (Pages/cains_jawbone_page_28.md), `pleased` (Pages/cains_jawbone_page_46.md), `ham`/`westphalian` (Pages/cains_jawbone_page_57.md), `cleaner` (Pages/cains_jawbone_page_66.md), `reckless` (Pages/cains_jawbone_page_100.md). Treat as overlap-only unless reinforced by a second independent anchor.
 - **Voice/tells:**
   - Moralising, self-analytical; anticipates irony/commentary while questioning someone.
 - **Clustering hypotheses:**
