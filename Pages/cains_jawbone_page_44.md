@@ -15,6 +15,7 @@ I sometimes wish, and I wished then, that I had the gift of telling, or at least
   - Blood + guitar strings + “kenspeckle handkerchief”.
   - Evidence destruction: half-burned marriage certificate in an incinerator; “charred lines on Henry”.
   - Suspicion around Henry’s marriage history (second wife’s brother).
+  - Phase 3 micro-pass (2026-01-05): body-only df==2 token overlaps: `suspect` (Pages/cains_jawbone_page_4.md), `problem` (Pages/cains_jawbone_page_23.md), `hodge` (Pages/cains_jawbone_page_26.md), `fingering` (Pages/cains_jawbone_page_27.md), `strings` (Pages/cains_jawbone_page_42.md), `telling` (Pages/cains_jawbone_page_54.md), `smells` (Pages/cains_jawbone_page_55.md), `position` (Pages/cains_jawbone_page_59.md), `wiping` (Pages/cains_jawbone_page_76.md), `kept` (Pages/cains_jawbone_page_79.md), `vividly` (Pages/cains_jawbone_page_96.md). Treat as overlap-only unless reinforced by a second independent anchor.
 - **Voice/tells:**
   - Smell-centric perception (MAYBE animal-coded); self-critique about storytelling.
 - **Clustering hypotheses:**

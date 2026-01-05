@@ -15,6 +15,7 @@ Strange that old Calabar, as I called him, should fail me ; yet on the morning a
   - Horticulture: rhododendrons (“abortive Bengal attempts”).
   - Make-up: “Henry was always made up too.”
   - Burial detail: buried corpse with only the eyes showing.
+  - Phase 3 micro-pass (2026-01-05): body-only df==2 token overlaps: `calabar` (Pages/cains_jawbone_page_21.md), `your` (Pages/cains_jawbone_page_30.md), `fortune` (Pages/cains_jawbone_page_32.md), `buried` (Pages/cains_jawbone_page_33.md), `corpse` (Pages/cains_jawbone_page_45.md), `eleven` (Pages/cains_jawbone_page_51.md), `alliance` (Pages/cains_jawbone_page_54.md), `spent` (Pages/cains_jawbone_page_56.md), `distinctly` (Pages/cains_jawbone_page_58.md), `awkward` (Pages/cains_jawbone_page_59.md), `afford` (Pages/cains_jawbone_page_78.md). Treat as overlap-only unless reinforced by a second independent anchor.
 - **Voice/tells:**
   - Practical poison-garden logistics mixed with social marriage pressure.
 - **Clustering hypotheses:**
@@ -22,7 +23,6 @@ Strange that old Calabar, as I called him, should fail me ; yet on the morning a
   - CERTAIN: links strongly with Pages/cains_jawbone_page_29.md (ordeal-bean/physostigma thread: “discarded my useless physostigma” ↔ “old Calabar… should fail me”; treat as a continuity constraint `Pages/cains_jawbone_page_29.md ↔ Pages/cains_jawbone_page_36.md`; see `Order/hypotheses.md` constraints inventory).
   - CERTAIN: links strongly with Pages/cains_jawbone_page_59.md via the unique “awkward” poison-failure phrasing (“distinctly awkward” ↔ “awkward with Trinder about”); treat as a continuity constraint `Pages/cains_jawbone_page_36.md ↔ Pages/cains_jawbone_page_59.md` (Phase 4 direction hypothesis: `Pages/cains_jawbone_page_36.md → Pages/cains_jawbone_page_59.md` is `MAYBE`, but keep the reverse alive; see `Order/hypotheses.md`).
   - LIKELY: strengthens plant/poison thread (Calabar/physostigma) and Henry-as-killer thread.
-  - MAYBE: body-only df==2 token overlaps: `buried` (Pages/cains_jawbone_page_33.md) and `spent` (Pages/cains_jawbone_page_56.md). Treat as low-weight cross-voice bridge leads only unless reinforced by a second independent anchor.
 - **Disconfirming evidence:**
   - If “Calabar” and corpse-burial are later shown to be figurative/embedded narrative.
 - **Research needed:**

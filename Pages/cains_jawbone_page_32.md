@@ -19,6 +19,7 @@ I was a little consoled for the weeping weather by the fact that Gainsborough ha
 - **Motifs/continuity hooks:**
   - Near-sea appointment with “the man who gave me my instructions” (mission/job framing).
   - Poetry-scansion awareness (uses “scanned” as a test).
+  - Phase 3 micro-pass (2026-01-05): body-only df==2 token overlaps: `fortune` (Pages/cains_jawbone_page_36.md), `stayed` (Pages/cains_jawbone_page_45.md), `chesterton` (Pages/cains_jawbone_page_50.md), `scanned` (Pages/cains_jawbone_page_54.md), `earl` (Pages/cains_jawbone_page_55.md), `beside` (Pages/cains_jawbone_page_62.md), `prove` (Pages/cains_jawbone_page_71.md), `wouldn` (Pages/cains_jawbone_page_79.md), `gazing`/`job` (Pages/cains_jawbone_page_82.md), `wet` (Pages/cains_jawbone_page_87.md). Treat as overlap-only unless reinforced by a second independent anchor.
 - **Voice/tells:**
   - Literate, self-critical about fit/metrics; suggests a “job” with ominous outcome (“hemp”).
 - **Clustering hypotheses:**

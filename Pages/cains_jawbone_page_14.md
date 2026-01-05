@@ -14,6 +14,7 @@ My ears were becoming attuned, and for the first time I heard clearly what the w
   - Spilled wine + “fragments of… flesh” (disturbing physical aftermath).
   - Pastoral nostalgia: hay field; buttered rolls; straw games; cricket-as-war-horse imagery.
   - Phase 6 scan (2025-12-31): page-body word `fragments` appears only on Pages/cains_jawbone_page_14.md and Pages/cains_jawbone_page_70.md; treat as a low-weight possible re-stitch cue (do not assume adjacency without a second continuity marker).
+  - Phase 3 micro-pass (2026-01-05): body-only df==2 token overlaps: `clearly` (Pages/cains_jawbone_page_4.md), `field` (Pages/cains_jawbone_page_15.md), `further` (Pages/cains_jawbone_page_60.md), `fairy` (Pages/cains_jawbone_page_63.md), `cricket` (Pages/cains_jawbone_page_67.md), `buttered` (Pages/cains_jawbone_page_68.md), `fragments` (Pages/cains_jawbone_page_70.md), `clean` (Pages/cains_jawbone_page_78.md), `mistake` (Pages/cains_jawbone_page_82.md), `leave` (Pages/cains_jawbone_page_84.md), `listen` (Pages/cains_jawbone_page_88.md). Treat as overlap-only unless reinforced by a second independent anchor.
 - **Voice/tells:**
   - Eavesdropping, then retreat (“none of my business”); memory-driven associative leaps.
 - **Clustering hypotheses:**

@@ -30,13 +30,13 @@ LIKELY WORDPLAY
   - Threat/weapon: “hand dropped to my hip pocket”.
   - “Square accounts” / settling scores.
   - Sound motif: “rill and corncrake” as a duet (smooth running vs warning “crake/creak”) tied to “speeding” → likely vehicle/engine/chassis sounds.
+  - Phase 3 micro-pass (2026-01-05): body-only df==2 token overlaps: `phrases` (Pages/cains_jawbone_page_2.md), `burst` (Pages/cains_jawbone_page_8.md), `fall` (Pages/cains_jawbone_page_18.md), `reckon` (Pages/cains_jawbone_page_21.md), `sudden` (Pages/cains_jawbone_page_23.md), `lean` (Pages/cains_jawbone_page_42.md), `square` (Pages/cains_jawbone_page_62.md), `lose` (Pages/cains_jawbone_page_66.md), `balance` (Pages/cains_jawbone_page_67.md), `warnings` (Pages/cains_jawbone_page_70.md), `bothered` (Pages/cains_jawbone_page_90.md). Treat as overlap-only unless reinforced by a second independent anchor.
 - **Voice/tells:**
   - Fixation on naming (“nomenclature business”); oscillates between suddenness vs “triturative” slowness (bomb vs “exceeding small”).
 - **Clustering hypotheses:**
   - CERTAIN: links strongly with Pages/cains_jawbone_page_13.md (unique Grantham marker: “conduit dating from 1597” in the market place ↔ “in this very place… reckon with Henry”). LIKELY within-incident order: `Pages/cains_jawbone_page_13.md → Pages/cains_jawbone_page_31.md`; see `Order/hypotheses.md` (`N20`).
   - MAYBE: cross-narrator phrase echo with Pages/cains_jawbone_page_21.md (“to reckon with Henry” is page-body unique), but no second anchor found; treat as a Henry‑motif overlap only (not a constraint) unless a tighter shared prop/place emerges.
   - MAYBE: connects to other Henry “reckon with Henry” pages (Pages/cains_jawbone_page_26.md).
-  - MAYBE: body-only df==2 token overlap with Pages/cains_jawbone_page_62.md: `square` (accounts idiom ↔ Trafalgar Square). Treat as a low-weight cross-voice bridge only.
 - **Disconfirming evidence:**
   - If “Caseus”/Cassius reading doesn’t recur and “hip pocket” is purely idiomatic (not weapon).
 - **Research needed:**
