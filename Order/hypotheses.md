@@ -1028,6 +1028,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
       - **Disconfirming evidence:**
         - Pages/cains_jawbone_page_25.md’s explicit wake-location (Didling) and Pages/cains_jawbone_page_20.md’s “by the Mole” waking-routine are shown to be incompatible as a single-day progression (forcing these as non-adjacent beats or different voices).
   - **Placement note (Phase 4):** treat `Pages/cains_jawbone_page_25.md → Pages/cains_jawbone_page_20.md` as a within-voice order hypothesis but not a forced adjacency (word n‑grams 3–8: only the generic 3‑gram `i had done`; none longer).
+  - **Phase 4 check (2026-01-05):** page-body word n‑gram scan (n=3–8) for Pages/cains_jawbone_page_25.md ↔ Pages/cains_jawbone_page_20.md found only the generic 3‑gram `i had done` and **zero** overlaps 4–8.
   - **Falsification check (2025-12-30):** corpus scan found no third-page repeats of Pages/cains_jawbone_page_25.md’s Didling/Didlittle word-chain and no third-page repeats of Pages/cains_jawbone_page_20.md’s Mole/Daubernoun “oldest brass” bundle, so no bridge page currently exists to force a firmer order; keep Sequence A as `MAYBE`.
   - **Next falsification check:** look for any page that repeats either (a) Didling/Didlittle *and* a second `N34` tell (time-factor/dread-of-time register), or (b) the Mole/Daubernoun brass anchor *and* a second `N34` tell, to extend this beyond a two-page pairing and re-test order.
 
