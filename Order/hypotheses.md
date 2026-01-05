@@ -1139,6 +1139,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
       - **Why:** Pages/cains_jawbone_page_66.md ends “hung round with” and Pages/cains_jawbone_page_67.md begins “the darker works…”, creating an unambiguous syntactic continuation.
       - **Disconfirming evidence:** only if a later integrity check shows a transcription/scan error creating a false continuation (very unlikely).
   - **Placement note (Phase 4):** treat `Pages/cains_jawbone_page_66.md → Pages/cains_jawbone_page_67.md` as an adjacency-like lock (sentence continuation). Since this sub-strand is merged into `N06`, keep its placement relative to `N06`’s `Pages/cains_jawbone_page_73.md → Pages/cains_jawbone_page_74.md → Pages/cains_jawbone_page_75.md` block **unforced** until a second non-refrain continuity marker appears (see `N06` placement note).
+  - **Phase 4 check (2026-01-05):** page-body word n‑gram scan (n=3–8) found Pages/cains_jawbone_page_66.md ↔ Pages/cains_jawbone_page_67.md share the 5‑gram `head as we called him` (plus sub-grams), consistent with treating 66→67 as the tightest phrase-level lock inside the merged `N06` bundle.
 
 - **Cluster:** `N09` “Old man” slow-death / letter-blackmail voice (confidence: `LIKELY`)
   - **Pages:** Pages/cains_jawbone_page_68.md, Pages/cains_jawbone_page_69.md, Pages/cains_jawbone_page_95.md, Pages/cains_jawbone_page_70.md
