@@ -706,6 +706,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Rationale:** A self-justifying, literate murder‑as‑art register frames a named target (“Green”) and debates personal responsibility (“do the thing myself”), with dense allusive support (De Quincey “tooling” vocabulary).
   - **Key anchors:** victim named Green; De Quincey “tooling” murder‑means frame; “do the thing myself”; proverb-scramble (“rob a whirlwind… reap a scorpion”).
   - **Disconfirming evidence:** “Green” resolves as a purely metaphorical reference (no in‑world victim), or the De Quincey/tooling layer is shown to be a detachable quotation with no stable narrator signature.
+  - **Phase 4 check (2026-01-05):** singleton page; no internal ordering possible within `N15`.
   - **Notes:** Pages/cains_jawbone_page_77.md is now treated as `N12` due to the unique phrase-level lock `Pages/cains_jawbone_page_35.md ↔ Pages/cains_jawbone_page_77.md` (“Murders were funny things”).
   - **Next falsification check:** search for another page naming “Green” as a victim in the same moral‑calculus register before expanding this beyond a singleton.
 
@@ -774,6 +775,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Disconfirming evidence:** “diary/verify” language appears elsewhere in an unmistakably different voice, or Page 78 is later shown to be quoting another speaker rather than the narrator.
   - **Phase 4 internal ordering hypotheses (N18):**
     - Singleton page; no internal ordering possible yet.
+  - **Phase 4 check (2026-01-05):** singleton page; no internal ordering possible within `N18`.
   - **Placement note (Phase 4):** singleton voice-page; keep Pages/cains_jawbone_page_78.md **unplaced** relative to the will/forgery cluster until a second non-generic continuity marker appears (do not force adjacency based on shared “will/forgery” theme alone).
   - **Resolved check:** searched will/forgery pages (Pages/cains_jawbone_page_12.md, Pages/cains_jawbone_page_14.md, Pages/cains_jawbone_page_28.md, Pages/cains_jawbone_page_50.md) for phrase-level anchors (“verify/diary,” “falser hand,” “mimic artistry,” “new instrument,” “lips were wiped clean”) and found **no repeats**; keep Pages/cains_jawbone_page_78.md as a standalone voice that is thematically adjacent to the will/forgery strand but not yet placeable within it.
   - **Next falsification check:** look for a second non-quotation anchor that recurs with Pages/cains_jawbone_page_78.md (e.g., “new instrument,” “lips were wiped clean,” “Prussian beast”) before using it to stitch the will/forgery cluster (Phase 5).
@@ -870,12 +872,14 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Phase 6 test (2025-12-31):** n‑gram scan confirms Pages/cains_jawbone_page_2.md ↔ Pages/cains_jawbone_page_5.md share only variants of the generic phrase `as far as I could` (no second shared anchor). Treat as an accidental overlap (not a stitch candidate).
     - **Outcome:** `FAIL`
   - **Disconfirming evidence:** the plague quotation and decoding framing recur as generic motifs across unrelated narrators.
+  - **Phase 4 check (2026-01-05):** singleton page; no internal ordering possible within `N22`.
 
 - **Cluster:** `N23` Music-hall cosmetics / Highgate Empire voice (confidence: `MAYBE`)
   - **Pages:** Pages/cains_jawbone_page_16.md
   - **Rationale:** A distinctive theatre/cosmetics vignette voice (false eyebrows, make-up artist, Highgate Empire) stands apart from other Henry-linked scenes.
   - **Key anchors:** Highgate Empire; Russian ballet; false eyebrows in clear soup; “man who made up”.
   - **Disconfirming evidence:** later pages show this is a quoted anecdote recounted by multiple narrators with different voices.
+  - **Phase 4 check (2026-01-05):** singleton page; no internal ordering possible within `N23`.
 
 - **Cluster:** `N24` Scotland Yard collapse / Kursaal voice (confidence: `MAYBE`)
   - **Pages:** Pages/cains_jawbone_page_100.md
@@ -884,6 +888,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Phase 6 merge candidate (high priority):** Pages/cains_jawbone_page_100.md may not be a standalone “police voice” at all; it likely extends `N01` (see `Indexes/narrators.md` and `Order/hypotheses.md` join-falsification notes around the `N24 → N01` test). Treat this as narrator-merger evidence; do not use it to justify weak tail adjacencies.
   - **Phase 6 test (2025-12-31):** page-body n‑gram scan shows Pages/cains_jawbone_page_63.md ↔ Pages/cains_jawbone_page_100.md share **zero** 3‑grams (or longer) and only generic bigrams (including `i cannot`); treat this as an accidental overlap (Outcome: `FAIL`, not stitch/merge evidence).
   - **Disconfirming evidence:** the collapse frame is purely rhetorical or the Scotland Yard/Kursaal layer is reused by other narrators.
+  - **Phase 4 check (2026-01-05):** singleton page; no internal ordering possible within `N24`.
 
 - **Cluster:** `N25` Quicksands-of-crime interviewer / papers voice (confidence: `LIKELY`)
   - **Pages:** Pages/cains_jawbone_page_33.md, Pages/cains_jawbone_page_34.md, Pages/cains_jawbone_page_52.md, Pages/cains_jawbone_page_53.md
@@ -953,12 +958,14 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Phase 6 test (2025-12-31):** n‑gram scan confirms Pages/cains_jawbone_page_9.md ↔ Pages/cains_jawbone_page_45.md share only the generic phrase `I remembered that when` (no second shared anchor: bells/class/mineralogy/Typhoon anchors do not overlap). Treat as an accidental overlap (not a stitch candidate).
     - **Outcome:** `FAIL`
   - **Disconfirming evidence:** the Peebles/mineralogy identity is later shown to belong to a different narrator, or the scene is revealed as a quoted anecdote.
+  - **Phase 4 check (2026-01-05):** singleton page; no internal ordering possible within `N27`.
 
 - **Cluster:** `N28` Window-throw / “no detective” voice (confidence: `MAYBE`)
   - **Pages:** Pages/cains_jawbone_page_81.md
   - **Rationale:** A distinctive black-humoured violence vignette culminates in a pointed narrator disavowal of detective identity, with stitched-in Browning/Shakespeare and a “Speckled Band” mishearing riff.
   - **Key anchors:** “The victim… blocked… the window”; “Go find the bottom!”; “pulled up his socks… heaved outward”; “Band, Speckled”; “thank goodness, I was no detective”.
   - **Disconfirming evidence:** the scene is later shown to be metaphorical or an embedded quotation recounted by another narrator, or the same “no detective” self-exculpation recurs under an incompatible voice elsewhere.
+  - **Phase 4 check (2026-01-05):** singleton page; no internal ordering possible within `N28`.
 
 - **Cluster:** `N29` Post‑Vorticists / Firbank / “chamber within chamber” anxiety voice (confidence: `MAYBE`)
   - **Pages:** Pages/cains_jawbone_page_37.md
@@ -967,6 +974,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Phase 6 test (2025-12-31):** n‑gram scan confirms Pages/cains_jawbone_page_37.md ↔ Pages/cains_jawbone_page_85.md share only variants of the generic table-phrase `I looked across the table` (no second shared anchor). Treat as an accidental overlap (not a stitch candidate).
     - **Outcome:** `FAIL`
   - **Disconfirming evidence:** the art/Firbank layer is shown to be detachable quotation collage used by multiple narrators, or the “bores/chambers” language is proven non-weapon and the voice aligns with an existing narrator signature.
+  - **Phase 4 check (2026-01-05):** singleton page; no internal ordering possible within `N29`.
   - **Overlap hinge (cross-narrator; do not treat as membership):** Pages/cains_jawbone_page_27.md shares the rare “Death… fingered” metaphor + Shrewsbury lock‑up/prison “this time” hearing contrast, but its Clem/coffee anchors align with `N03` → keep it as overlap-only.
   - **Falsification check (2025-12-25):** searched the page corpus for any additional N29 anchor repetition beyond Pages/cains_jawbone_page_37.md (Firbank/Malta/post‑Vorticists/rococo mirror/jasmine bowl/bores/chambers) and any Pages/cains_jawbone_page_27.md-specific anchors beyond Pages/cains_jawbone_page_27.md (Peaberry Mysore/Blue Mountain/Clem) and found no cross-over beyond Shrewsbury + “Death… fingered” + “this time” hearing contrast → do not increase confidence.
   - **Falsification check (2025-12-25):** attempted to source “Death’s clumsy fingered” / “lightly fingering for the sign of a breach” via Wikisource full-text search (multiple variants) and found no clear match → research item marked `stalled`; keep the p27 overlap as overlap-only (do not upgrade) until sourced.
@@ -979,12 +987,14 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Phase 6 test (2025-12-31):** n‑gram scan confirms Pages/cains_jawbone_page_38.md ↔ Pages/cains_jawbone_page_79.md share only variants of the generic phrase `There was something wrong` (no second shared anchor). Treat as an accidental overlap (not a stitch candidate).
     - **Outcome:** `FAIL`
   - **Disconfirming evidence:** “stabbed” is later shown to be purely culinary, or the Sonia Gordon/Southend anchors recur under a clearly different narrator voice.
+  - **Phase 4 check (2026-01-05):** singleton page; no internal ordering possible within `N30`.
 
 - **Cluster:** `N31` Flecker/Whitman compost + Surrey place-pun + pill voice (confidence: `MAYBE`)
   - **Pages:** Pages/cains_jawbone_page_40.md
   - **Rationale:** A dense allusive voice splices Flecker and Whitman quotations into narrative reflection, with pill-taking and Surrey place-name wordplay as recurring techniques.
   - **Key anchors:** Flecker-ghazel substitution (“some to Flecker turn to pray…”); “What chemistry! That the winds are really not infectious”; “I took a pill”; Thames Ditton/Long Ditton pun.
   - **Disconfirming evidence:** Whitman/Flecker quotation-stitching is shown to be a generic technique used across many narrators with no shared voice tells, or the pill/place-pun register aligns more cleanly with an existing narrator signature.
+  - **Phase 4 check (2026-01-05):** singleton page; no internal ordering possible within `N31`.
 
 - **Cluster:** `N32` “Type” classifier / gilded metaphors + Wilde-allusion voice (confidence: `LIKELY`)
   - **Pages:** Pages/cains_jawbone_page_62.md, Pages/cains_jawbone_page_65.md, Pages/cains_jawbone_page_89.md, Pages/cains_jawbone_page_90.md
@@ -1017,6 +1027,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Key anchors:** “old Medehamstede”; Pasquier’s claret; Rue de la Harpe; “last paragraphs of the short stories”; “The complete novel length… Savage Conqueror.”
   - **Disconfirming evidence:** the magazine/short-story register is later shown to be a quoted inset rather than narrator voice, or the anchor set recurs under an unmistakably different narrator elsewhere.
   - **Phase 6 test (2025-12-31):** Pages/cains_jawbone_page_72.md ↔ Pages/cains_jawbone_page_49.md share only the generic phrase `but it was pleasant to` (no second anchor: no shared prop/cast/place/quote) → treat as an accidental overlap (Outcome: `FAIL`, not a stitch).
+  - **Phase 4 check (2026-01-05):** singleton page; no internal ordering possible within `N33`.
 
 - **Cluster:** `N34` Time-factor / Didling wordplay + antiquarian brass voice (confidence: `LIKELY`)
   - **Pages:** Pages/cains_jawbone_page_20.md, Pages/cains_jawbone_page_25.md
@@ -1041,24 +1052,28 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Rationale:** A single-page narrator voice is anchored by editorial/manuscript talk, money-motive introspection, and a distinctive metaphor chain that turns biblical “fishes/birds” into a menu-course suspicion.
   - **Key anchors:** “chapter on the fall of the rupee… omit”; “metallic problems”; “no single dish would satisfy the man… soup… fishes… birds”; “really wicked person”.
   - **Disconfirming evidence:** the editorial “rupee chapter” anchor is later shown to be a detachable quotation/reused reference, or the surrounding voice aligns more cleanly with an existing narrator signature.
+  - **Phase 4 check (2026-01-05):** singleton page; no internal ordering possible within `N35`.
 
 - **Cluster:** `N36` Passing-through travel + heartbeats + Whitman cadence voice (confidence: `MAYBE`)
   - **Pages:** Pages/cains_jawbone_page_51.md
   - **Rationale:** Page 51 is strongly characterised by a “passing through” travel posture, bodily self-monitoring (counting between heartbeats), and dense Whitman quotation cadence.
   - **Key anchors:** “passing through”; “All England for a thousand guineas… twenty-nine times in ten years”; “counted a distinct ninety between each beat of my heart”; “I dance with the dancers and drink with the drinkers.”
   - **Disconfirming evidence:** the Whitman-heavy phrasing is later shown to be a generic quotation collage used by multiple narrators, or the sporting/heartbeat anchors recur clearly under a different voice.
+  - **Phase 4 check (2026-01-05):** singleton page; no internal ordering possible within `N36`.
 
 - **Cluster:** `N37` Deceased-introduction + Barbara yellow-jasmine bathing voice (confidence: `MAYBE`)
   - **Pages:** Pages/cains_jawbone_page_84.md
   - **Rationale:** A single-page narrator voice mixes anxious curiosity about a “deceased” who arranged an introduction with rapturous beach/poolside description and a crisp Nelson “to-day” date anchor.
   - **Key anchors:** “the deceased wished us to know each other”; Barbara “yellow jasmine” one-piece; Dagenham bus; converted oast-house; “what the blind sailor said”; “Off went his arm to-day.”
   - **Disconfirming evidence:** “deceased” is later shown to be a dead author rather than an in-world person, or the Barbara/Alistair/Dagenham anchors recur under a clearly different narrator voice.
+  - **Phase 4 check (2026-01-05):** singleton page; no internal ordering possible within `N37`.
 
 - **Cluster:** `N38` Medical-advice payoff + “May be” pun / Quarry hills voice (confidence: `MAYBE`)
   - **Pages:** Pages/cains_jawbone_page_98.md
   - **Rationale:** A single-page narrator voice is anchored by a slow payoff-for-identification scene, heavy medical framing, and an explicit “May be” decision pun set against a distinctive sunset landscape.
   - **Key anchors:** “The money changed hands slowly… describe him”; “proper medical advice”; “He went. He went.”; “played the sedulous ape”; “May be. May be not.”; “Quarry hills”.
   - **Disconfirming evidence:** the scene is later shown to be recounted/quoted by another narrator, or the “May be” pun and medical-payoff framing recur under an incompatible voice elsewhere.
+  - **Phase 4 check (2026-01-05):** singleton page; no internal ordering possible within `N38`.
 
 - **Cluster:** `N39` Wilde/Earnest echoes + will/forgery voice (confidence: `LIKELY`)
   - **Pages:** Pages/cains_jawbone_page_28.md, Pages/cains_jawbone_page_50.md
@@ -1092,6 +1107,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Rationale:** A single-page voice anchored by bills-in-the-paper framing plus match/brand and Left Luggage cues; keep as a placeholder until a second page repeats this combination.
   - **Key anchors:** bills + “paper” framing; Bryant & May; Left Luggage Office.
   - **Disconfirming evidence:** the bills/matches/Left Luggage cues recur under an existing narrator signature with stronger continuity markers (scene mechanics, named participants), making this a motif-only page.
+  - **Phase 4 check (2026-01-05):** singleton page; no internal ordering possible within `N40`.
 
 - **Cluster:** `N04` Great Lexicographer / fealty voice (confidence: `CERTAIN`)
   - **Pages:** Pages/cains_jawbone_page_61.md, Pages/cains_jawbone_page_64.md
@@ -1127,6 +1143,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Rationale:** A distinctive infatuated, performatively learned voice combines French verse with dessert-order rules and an obsession with attributing writers, while observing Henry being “tried out” (cap on/off).
   - **Key anchors:** Babbie’s hair fixation; Baudelaire “La Chevelure”; “Rainbow” + Lent “second Sundae” rule; “I have always hated that these writers should be anonymous.”
   - **Disconfirming evidence:** later pages show the same motifs used casually by multiple unrelated narrators, or Page 63’s Henry is proven to be a different referent (not the recurring character-name).
+  - **Phase 4 check (2026-01-05):** singleton page; no internal ordering possible within `N14`.
   - **Phase 6 test (2025-12-31):** page-body n‑gram scan: Pages/cains_jawbone_page_63.md ↔ Pages/cains_jawbone_page_100.md share **zero** 3‑grams (or longer) and only generic bigrams (including `i cannot`); treat this as an accidental overlap (Outcome: `FAIL`, not stitch/merge evidence).
 
 - **Cluster:** `N05` School colours / “the Head” voice (merged into `N06`) (confidence: `CERTAIN`)
