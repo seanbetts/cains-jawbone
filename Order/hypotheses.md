@@ -925,6 +925,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
       - **Why:**
         - Pages/cains_jawbone_page_54.md and Pages/cains_jawbone_page_71.md uniquely share the bigrams `toast and` and `not appropriate`, and Pages/cains_jawbone_page_71.md explicitly opens “But next day…”, reading naturally as the successor beat to Pages/cains_jawbone_page_54.md’s “to-day” breakfast scene.
       - **Disconfirming evidence:** a third page is found containing either bigram (making the overlap non-unique), or re-reading shows incompatible cast/setting constraints across the boundary (phrase echo only).
+  - **Placement note (Phase 4):** treat `Pages/cains_jawbone_page_56.md → Pages/cains_jawbone_page_54.md` as the local adjacency; treat Pages/cains_jawbone_page_71.md as a likely next-day continuation but not a forced adjacency to Pages/cains_jawbone_page_54.md (no shared word n‑grams 3–8; only the unique bigrams + “But next day…”).
 
 - **Cluster:** `N27` Peebles mineralogy lecturer / bell-summoning voice (confidence: `MAYBE`)
   - **Pages:** Pages/cains_jawbone_page_9.md
