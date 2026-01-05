@@ -695,3 +695,4 @@ date,agent,phase,task,start,end,minutes,branch,commit,notes
 2026-01-05,codex-cli,phase-4,phase 4: N13 n-gram check,2026-01-05T18:34:59Z,2026-01-05T18:36:30Z,2,run/20251215-codex-extraction-pass1,ab88abd,"Added a Phase 4 n-gram check for N13 (p86↔p87); verified pages OK."
 2026-01-05,codex-cli,phase-4,phase 4: N11 check,2026-01-05T18:37:44Z,2026-01-05T18:38:44Z,1,run/20251215-codex-extraction-pass1,5a7037e,"Added a Phase 4 check marker for N11 (singleton); verified pages OK."
 2026-01-05,codex-cli,phase-4,phase 4: singleton checks batch,2026-01-05T18:39:52Z,2026-01-05T18:43:09Z,3,run/20251215-codex-extraction-pass1,d92565e,"Added Phase 4 check markers for remaining singleton narrator clusters; verified pages OK."
+2026-01-05,codex-cli,phase-4,phase 4: N16 core-edge n-gram check,2026-01-05T18:44:31Z,2026-01-05T18:46:10Z,2,run/20251215-codex-extraction-pass1,476da10,"Added a Phase 4 n-gram check for N16 core edges; verified pages OK."
