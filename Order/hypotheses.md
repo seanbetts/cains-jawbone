@@ -1006,16 +1006,16 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Key anchors:** “time factor”; Dolittle → Didlittle → Didling/didlet; “by the Mole” + “oldest brass in England”; “my waking, my strong tea, and my first pill”.
   - **Disconfirming evidence:** the wordplay/time register is shown to be a generic technique across multiple narrators, or the pages are later anchored to incompatible settings/participants.
   - **Phase 4 internal ordering hypotheses (N34):**
-	    - **Sequence A — Didling wake → “home again” brass-circuit** (confidence: `MAYBE`)
-	      - **Pages (ordered):** Pages/cains_jawbone_page_25.md → Pages/cains_jawbone_page_20.md
-	      - **Why:**
-	        - Both pages open from the same self-lacerating posture (“done very little” / “great thoughts… meagre”) and treat time/mortality as the frame, making Pages/cains_jawbone_page_25.md read like a morning “reset” that can preface Pages/cains_jawbone_page_20.md’s more concrete “waking… strong tea… first pill” + antiquarian-site detailing.
-	        - The “same way home” motif on Pages/cains_jawbone_page_25.md (“gone the same way home”) is echoed by Pages/cains_jawbone_page_20.md’s closing “circled and circled… arrived home again, we two,” suggesting a deliberate internal rhyme between the two pages even if the locations differ.
-	      - **Disconfirming evidence:**
-	        - Pages/cains_jawbone_page_25.md’s explicit wake-location (Didling) and Pages/cains_jawbone_page_20.md’s “by the Mole” waking-routine are shown to be incompatible as a single-day progression (forcing these as non-adjacent beats or different voices).
-	  - **Placement note (Phase 4):** treat `Pages/cains_jawbone_page_25.md → Pages/cains_jawbone_page_20.md` as a within-voice order hypothesis but not a forced adjacency (word n‑grams 3–8: only the generic 3‑gram `i had done`; none longer).
-	  - **Falsification check (2025-12-30):** corpus scan found no third-page repeats of Pages/cains_jawbone_page_25.md’s Didling/Didlittle word-chain and no third-page repeats of Pages/cains_jawbone_page_20.md’s Mole/Daubernoun “oldest brass” bundle, so no bridge page currently exists to force a firmer order; keep Sequence A as `MAYBE`.
-	  - **Next falsification check:** look for any page that repeats either (a) Didling/Didlittle *and* a second `N34` tell (time-factor/dread-of-time register), or (b) the Mole/Daubernoun brass anchor *and* a second `N34` tell, to extend this beyond a two-page pairing and re-test order.
+    - **Sequence A — Didling wake → “home again” brass-circuit** (confidence: `MAYBE`)
+      - **Pages (ordered):** Pages/cains_jawbone_page_25.md → Pages/cains_jawbone_page_20.md
+      - **Why:**
+        - Both pages open from the same self-lacerating posture (“done very little” / “great thoughts… meagre”) and treat time/mortality as the frame, making Pages/cains_jawbone_page_25.md read like a morning “reset” that can preface Pages/cains_jawbone_page_20.md’s more concrete “waking… strong tea… first pill” + antiquarian-site detailing.
+        - The “same way home” motif on Pages/cains_jawbone_page_25.md (“gone the same way home”) is echoed by Pages/cains_jawbone_page_20.md’s closing “circled and circled… arrived home again, we two,” suggesting a deliberate internal rhyme between the two pages even if the locations differ.
+      - **Disconfirming evidence:**
+        - Pages/cains_jawbone_page_25.md’s explicit wake-location (Didling) and Pages/cains_jawbone_page_20.md’s “by the Mole” waking-routine are shown to be incompatible as a single-day progression (forcing these as non-adjacent beats or different voices).
+  - **Placement note (Phase 4):** treat `Pages/cains_jawbone_page_25.md → Pages/cains_jawbone_page_20.md` as a within-voice order hypothesis but not a forced adjacency (word n‑grams 3–8: only the generic 3‑gram `i had done`; none longer).
+  - **Falsification check (2025-12-30):** corpus scan found no third-page repeats of Pages/cains_jawbone_page_25.md’s Didling/Didlittle word-chain and no third-page repeats of Pages/cains_jawbone_page_20.md’s Mole/Daubernoun “oldest brass” bundle, so no bridge page currently exists to force a firmer order; keep Sequence A as `MAYBE`.
+  - **Next falsification check:** look for any page that repeats either (a) Didling/Didlittle *and* a second `N34` tell (time-factor/dread-of-time register), or (b) the Mole/Daubernoun brass anchor *and* a second `N34` tell, to extend this beyond a two-page pairing and re-test order.
 
 - **Cluster:** `N35` Rupee chapter / money suspicion + wickedness anxiety voice (confidence: `MAYBE`)
   - **Pages:** Pages/cains_jawbone_page_18.md
