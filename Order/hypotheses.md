@@ -1196,6 +1196,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - Pages/cains_jawbone_page_93.md’s “their hour had come and was now over” is shown to refer to something unrelated to the “never done before” day on Pages/cains_jawbone_page_97.md.
         - The Cambridge references resolve to different targets/contexts (making the bridge coincidental).
   - **Placement note (Phase 4):** treat `Pages/cains_jawbone_page_97.md → Pages/cains_jawbone_page_93.md` as a within-voice order hypothesis but not a forced adjacency (no sentence/quote continuation at the boundary). Since `N07` currently contains only these two pages, keep direction but allow cross-cluster interleaving between them until a second continuity marker appears.
+  - **Phase 4 check (2026-01-05):** page-body word n‑gram scan (n=3–8) found Pages/cains_jawbone_page_97.md ↔ Pages/cains_jawbone_page_93.md share phrase overlap up to the unique 5‑gram `at it hammer and tongs` (plus sub-grams `bunny and perry`, `hammer and tongs`), with no other overlaps ≥4 → strong voice link, but not a boundary continuation lock.
   - **Rationale:** Both pages personify internal argument as “Bunny and Perry” going at it “hammer and tongs”, with tennis/venue imagery.
   - **Key anchors:** “Bunny and Perry”; “hammer and tongs”; explicit tennis/venue shifts.
   - **Disconfirming evidence:** later context shows “Bunny and Perry” refers to external people rather than an internal debate trope.
