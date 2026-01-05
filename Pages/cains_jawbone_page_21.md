@@ -17,6 +17,7 @@ To reckon with Henry! That was never easy. Just beyond the laurels, I turned sha
   - Poisons/heart agents: digitalis + calabar bean.
   - Blood/victim language around Henry.
   - Immortality/fountain-of-youth framing (“deathless”).
+  - Phase 3 micro-pass (2026-01-05): body-only df==2 token overlaps: `wits` (Pages/cains_jawbone_page_4.md), `reckon` (Pages/cains_jawbone_page_31.md), `calabar` (Pages/cains_jawbone_page_36.md), `pottered` (Pages/cains_jawbone_page_39.md), `bean` (Pages/cains_jawbone_page_40.md), `bending` (Pages/cains_jawbone_page_45.md), `dazed`/`keep` (Pages/cains_jawbone_page_49.md), `succeeded` (Pages/cains_jawbone_page_60.md), `brought` (Pages/cains_jawbone_page_83.md), `bay` (Pages/cains_jawbone_page_87.md), `friends` (Pages/cains_jawbone_page_89.md). Treat as overlap-only unless reinforced by a second independent anchor.
 - **Voice/tells:**
   - Botanical/pharmacological diction; clinical aside about “the profession prescribe it”.
 - **Clustering hypotheses:**

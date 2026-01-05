@@ -28,6 +28,7 @@ And then with horrid clearness I had seen a woman---not actually, if I could tru
   - Marriage to Henry; hints about “going gay”.
   - Dog/dog-watch register.
   - Lawful “means” emphasis; shopping geography (Selfridges vs Bond Street).
+  - Phase 3 micro-pass (2026-01-05): body-only df==2 token overlaps: `mistress` (Pages/cains_jawbone_page_10.md), `velvet` (Pages/cains_jawbone_page_12.md), `ones` (Pages/cains_jawbone_page_29.md), `petulant` (Pages/cains_jawbone_page_43.md), `favourite` (Pages/cains_jawbone_page_51.md), `e` (Pages/cains_jawbone_page_73.md), `marble` (Pages/cains_jawbone_page_74.md), `catch`/`tawny`/`terribly` (Pages/cains_jawbone_page_84.md), `cullough` (Pages/cains_jawbone_page_93.md), `inspiring` (Pages/cains_jawbone_page_94.md), `horrid` (Pages/cains_jawbone_page_95.md). Treat as overlap-only unless reinforced by a second independent anchor.
 - **Voice/tells:**
   - Malapropism/idiom-mixing; dense punning place language.
 - **Clustering hypotheses:**

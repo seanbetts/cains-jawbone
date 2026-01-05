@@ -15,7 +15,7 @@ I am conveniently situated, with the Moon on the one hand and the Dawn on the ot
   - “Bad for the hand” / avoiding “the stuff” (compare Pages/cains_jawbone_page_43.md: “hard stuff… ruin my hand”).
   - Courtship/marriage in the air; “sinister” beauty.
   - Car/lock fumbling (Fordor).
-  - Phase 3 micro-pass (2026-01-04): body-only df==2 token overlap with Pages/cains_jawbone_page_37.md: `fumbling`. Treat as a low-weight cross-voice bridge only unless reinforced by a second independent anchor.
+  - Phase 3 micro-pass (2026-01-05): body-only df==2 token overlaps: `beautiful` (Pages/cains_jawbone_page_4.md), `bar` (Pages/cains_jawbone_page_11.md), `choice` (Pages/cains_jawbone_page_19.md), `lock` (Pages/cains_jawbone_page_27.md), `seven` (Pages/cains_jawbone_page_29.md), `fumbling` (Pages/cains_jawbone_page_37.md), `turns` (Pages/cains_jawbone_page_43.md), `grace` (Pages/cains_jawbone_page_67.md), `lapsang` (Pages/cains_jawbone_page_82.md), `moon` (Pages/cains_jawbone_page_92.md), `somerset` (Pages/cains_jawbone_page_96.md), `slips` (Pages/cains_jawbone_page_100.md). Treat as overlap-only unless reinforced by a second independent anchor.
   - Pubs vs tea-room stance (“Why go to pubs?”) may be a setting/voice marker.
 - **Voice/tells:**
   - Observant, romantic, faintly suspicious; sensory focus on tea.

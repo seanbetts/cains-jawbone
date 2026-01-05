@@ -34,6 +34,7 @@ LIKELY WORDPLAY
   - Measuring/optics: “powerful glass”; careful measuring; “forty inches”.
   - Bows; trimming/piercing; “he found them and trimmed the left end” likely refers to the missing scissors/implements (“jossers” on Pages/cains_jawbone_page_99.md) used to fix the unequal bow ends; “black knobby thing… black and red” (mechanical detail).
   - Bells/summoning: “black knobby thing” is LIKELY a call-bell/bell-push used to summon Mr. Hall (cf. Pages/cains_jawbone_page_9.md bell opening).
+  - Phase 3 micro-pass (2026-01-05): body-only df==2 token overlaps: `powerful` (Pages/cains_jawbone_page_5.md), `investigated` (Pages/cains_jawbone_page_7.md), `twiddled` (Pages/cains_jawbone_page_19.md), `burst` (Pages/cains_jawbone_page_31.md), `developing` (Pages/cains_jawbone_page_49.md), `sausage` (Pages/cains_jawbone_page_56.md), `talk` (Pages/cains_jawbone_page_57.md), `eyed` (Pages/cains_jawbone_page_75.md), `completely`/`loathed` (Pages/cains_jawbone_page_79.md), `glass` (Pages/cains_jawbone_page_80.md), `lost` (Pages/cains_jawbone_page_82.md), `heads` (Pages/cains_jawbone_page_90.md). Treat as overlap-only unless reinforced by a second independent anchor.
 - **Voice/tells:**
   - Naïve about optics (“never could quite understand how it worked”); self-deprecating (“better brain”).
   - LIKELY dog-coded appetite tell: “sausage place… furtively I knew how excellent” reads more naturally as a non-human POV (secret food knowledge) than as human travel-talk.

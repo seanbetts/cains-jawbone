@@ -21,6 +21,7 @@ It was that day my friend Sandy told me he was sure he wouldn’t sleep all nigh
   - Phrase-level echo: page-body 4‑gram `there was something wrong` appears only here and Pages/cains_jawbone_page_38.md; treat as a low-weight cross-strand stitch cue unless reinforced.
   - Phase 6 test (2025-12-31): Pages/cains_jawbone_page_79.md ↔ Pages/cains_jawbone_page_100.md share only the Hamlet quotation layer (page-body n‑gram scan: **zero** shared 3‑grams or longer; only quote-fragment bigrams like `as flush`/`as may`) and no shared prop/place/participant → treat as cross-quote echo only (Outcome: `FAIL`, not a stitch candidate).
   - MAYBE: secondary echo of “May” = hawthorn/May-blossom (cf. Pages/cains_jawbone_page_48.md’s “Crataegus Oxyacantha” and Pages/cains_jawbone_page_75.md’s “the May”).
+  - Phase 3 micro-pass (2026-01-05): body-only df==2 token overlaps: `colouring` (Pages/cains_jawbone_page_2.md), `parts` (Pages/cains_jawbone_page_5.md), `completely`/`loathed` (Pages/cains_jawbone_page_8.md), `understood` (Pages/cains_jawbone_page_22.md), `wouldn` (Pages/cains_jawbone_page_32.md), `kept` (Pages/cains_jawbone_page_44.md), `result` (Pages/cains_jawbone_page_67.md), `sly` (Pages/cains_jawbone_page_76.md), `curls` (Pages/cains_jawbone_page_84.md), `rejoiced` (Pages/cains_jawbone_page_94.md), `flush` (Pages/cains_jawbone_page_100.md). Treat as overlap-only unless reinforced by a second independent anchor.
 - **Voice/tells:**
   - Non-human register (body-part framing; obedience to administered medicine; hunting anticipation).
 - **Clustering hypotheses:**
