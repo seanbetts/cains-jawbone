@@ -1939,6 +1939,11 @@ Delta from v2.30 (Phase 5 stitching; keep falsifiable):
   - **Status:** p37→p97 = `UNCLEAR` (placeholder join; treat as high-priority to replace).
   - **Replacement lead (block-level re-stitch):** insert Pages/cains_jawbone_page_35.md as a bridge: `Pages/cains_jawbone_page_37.md → Pages/cains_jawbone_page_35.md → Pages/cains_jawbone_page_97.md` (df==2 token anchors: `concealed`; `return` + `surrounded`). (Requires unpinning Pages/cains_jawbone_page_35.md from its current placement.)
 
+- **Phase 6 test (2026-01-05; boundary falsification):** `Pages/cains_jawbone_page_24.md → Pages/cains_jawbone_page_86.md`
+  - **Predictions:** if this boundary is real, expect an explicit time hinge and/or shared in-scene participants/setting, not just the df==2 token `caroline`.
+  - **Re-read outcome:** explicit day-to-day continuity (“Next day …” on both pages) plus shared `Caroline` reference (p86 naming “Caroline Jasmine”) supports the boundary beyond pure lexical overlap.
+  - **Status:** p24→p86 = `PASS` (upgrade from lexical-only).
+
 - **Block A (`N03` + `N40`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_32.md → Pages/cains_jawbone_page_3.md → Pages/cains_jawbone_page_30.md → Pages/cains_jawbone_page_23.md → Pages/cains_jawbone_page_24.md
 - **Block E (`N13`, confidence: `CERTAIN` internal):** Pages/cains_jawbone_page_86.md → Pages/cains_jawbone_page_87.md
 - **Block E2 (`N14`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_63.md → Pages/cains_jawbone_page_38.md
