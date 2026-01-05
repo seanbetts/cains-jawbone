@@ -16,6 +16,7 @@ I had always thought that Tate essentially meant sugar. This I liked almost next
   - Sugar hoarding: kept under the gas fire and pulled out secretly.
   - Dog-coded self-description: “sad dog”; greeted Ecky who nearly fell on narrator’s nose.
   - Cocktails + botanical joke-name: “Crataegus Oxyacantha” = hawthorn (“white-thorn” / “may”): https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Hawthorn_(plant) (MAYBE: used as a name-pun like “May”).
+  - Phase 3 micro-pass (2026-01-05): body-only df==2 token overlaps: `nose` (Pages/cains_jawbone_page_5.md), `else` (Pages/cains_jawbone_page_18.md), `fell` (Pages/cains_jawbone_page_34.md), `ecky` (Pages/cains_jawbone_page_43.md), `nearly` (Pages/cains_jawbone_page_80.md), `tate` (Pages/cains_jawbone_page_88.md). Treat as overlap-only unless reinforced by a second independent anchor.
 - **Voice/tells:**
   - Strong animal/dog POV candidate (nose/body perspective); comic literalism.
 - **Clustering hypotheses:**

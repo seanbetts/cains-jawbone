@@ -26,6 +26,7 @@ In one way, of course, I was glad they were married. I had always been rather a 
   - Phrase-level echo: page-body `it was good` appears only here and Pages/cains_jawbone_page_57.md (meat delivery ↔ chop/approval), supporting a close linkage inside `N02` even if not adjacent.
   - Murder continuity: “the one I killed in the matter of Jasmine” (links to jasmine motif pages; compare Pages/cains_jawbone_page_99.md’s “she wasn’t the one I’d killed” alongside a Jasmine reference).
   - LIKELY: “matter of Jasmine” points to the jasmine/cat thread (cf. cat “Jasmine” on Pages/cains_jawbone_page_22.md) and to Pages/cains_jawbone_page_88.md’s “Tom and Flora’s Jasmine” household reference.
+  - Phase 3 micro-pass (2026-01-05): body-only df==2 token overlaps: `visited` (Pages/cains_jawbone_page_27.md), `pleased` (Pages/cains_jawbone_page_52.md), `duty` (Pages/cains_jawbone_page_71.md), `education` (Pages/cains_jawbone_page_74.md), `original` (Pages/cains_jawbone_page_87.md), `tom` (Pages/cains_jawbone_page_88.md). Treat as overlap-only unless reinforced by a second independent anchor.
 - **Voice/tells:**
   - Naïve/undereducated self-description (“real education… just listening to him”); name/identity sensitivity (“Hal”).
 - **Clustering hypotheses:**

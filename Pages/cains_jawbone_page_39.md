@@ -15,6 +15,7 @@ She said it didn’t matter what they had done, because she was still an M.D., a
   - Credentials: “still an M.D.” + “got another one”.
   - Clothes: undercoats “raw liver colour”; narrator’s single inherited coat.
   - Betting + scoring: “two all for that year” reads as a tied running score; “vicarious” suggests a point credited by proxy (Chambers 1908: “vicarious” = “performed… in place of… another”: https://en.wikisource.org/wiki/Chambers%27s_Twentieth_Century_Dictionary_1908/Versed_Vying).
+  - Phase 3 micro-pass (2026-01-05): body-only df==2 token overlaps: `coat` (Pages/cains_jawbone_page_3.md), `bet` (Pages/cains_jawbone_page_10.md), `pottered` (Pages/cains_jawbone_page_21.md), `vicar` (Pages/cains_jawbone_page_62.md), `inherited` (Pages/cains_jawbone_page_73.md). Treat as overlap-only unless reinforced by a second independent anchor.
 - **Voice/tells:**
   - Naïve literalism (vicarious → vicar); plain-spoken class contrast on clothing.
   - MAYBE: animal-coded voice (coat/undercoat language; “pottered after rabbits”).

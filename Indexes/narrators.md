@@ -47,6 +47,10 @@ Template:
 
     - Phase 3 micro-pass (2026-01-05): Pages/cains_jawbone_page_19.md shares body-only df==2 tokens `twiddled` (Pages/cains_jawbone_page_8.md, `N02`), `choice` (Pages/cains_jawbone_page_17.md, `N01`), `agreed` (Pages/cains_jawbone_page_22.md, `N02`), `noise` (Pages/cains_jawbone_page_57.md, `N02`), `william` (Pages/cains_jawbone_page_61.md, `N04`), `famous` (Pages/cains_jawbone_page_73.md, `N06`) → treat as overlap-only unless reinforced by a second independent anchor.
 
+    - Phase 3 micro-pass (2026-01-05): Pages/cains_jawbone_page_39.md shares body-only df==2 tokens `coat` (Pages/cains_jawbone_page_3.md, `N03`), `bet` (Pages/cains_jawbone_page_10.md, `N02`), `pottered` (Pages/cains_jawbone_page_21.md, `N12`), `vicar` (Pages/cains_jawbone_page_62.md, `N32`), `inherited` (Pages/cains_jawbone_page_73.md, `N06`) → treat as overlap-only unless reinforced by a second independent anchor.
+    - Phase 3 micro-pass (2026-01-05): Pages/cains_jawbone_page_46.md shares body-only df==2 tokens `visited` (Pages/cains_jawbone_page_27.md, `N03`), `pleased` (Pages/cains_jawbone_page_52.md, `N25`), `duty` (Pages/cains_jawbone_page_71.md, `N26`), `education` (Pages/cains_jawbone_page_74.md, `N06`), `original` (Pages/cains_jawbone_page_87.md, `N13`), `tom` (Pages/cains_jawbone_page_88.md, `N02`) → treat as overlap-only unless reinforced by a second independent anchor.
+    - Phase 3 micro-pass (2026-01-05): Pages/cains_jawbone_page_48.md shares body-only df==2 tokens `nose` (Pages/cains_jawbone_page_5.md, `N19`), `else` (Pages/cains_jawbone_page_18.md, `N35`), `fell` (Pages/cains_jawbone_page_34.md, `N25`), `ecky` (Pages/cains_jawbone_page_43.md, `N01`), `nearly` (Pages/cains_jawbone_page_80.md, `N12`), `tate` (Pages/cains_jawbone_page_88.md, `N02`) → treat as overlap-only unless reinforced by a second independent anchor.
+
 - `N03` — Clement / pills / flowers-and-mercy register:
   - **Signature tells:** transactional planning + pills/“assassin’s wonderful substance”; publisher/book-world references; plant/flower precision (hellebore, wild jasmine, roses); declared hardness (“quality of mercy… little exerted”); job/instructions framing; scansion/poetry awareness; wordplay via professional charade clues (e.g., publisher pairing).
   - **Likely identity (if any):** MAYBE a narrator named Clement (Page 24’s pope-name clue), but Page 3 also treats “Clement” as a met person → keep pending disambiguation.
@@ -197,6 +201,8 @@ Template:
 
     - Phase 3 micro-pass (2026-01-05): Pages/cains_jawbone_page_26.md shares body-only df==2 tokens `singer` (Pages/cains_jawbone_page_23.md, `N40`), `sent` (Pages/cains_jawbone_page_37.md, `N29`), `pondered` (Pages/cains_jawbone_page_38.md, `N30`), `hodge` (Pages/cains_jawbone_page_44.md, `N16`), `explained` (Pages/cains_jawbone_page_52.md, `N25`), `killing` (Pages/cains_jawbone_page_77.md, `N12`), `foreign` (Pages/cains_jawbone_page_83.md, `N06`) → treat as overlap-only unless reinforced by a second independent anchor.
 
+    - Phase 3 micro-pass (2026-01-05): Pages/cains_jawbone_page_45.md shares body-only df==2 tokens `bending` (Pages/cains_jawbone_page_21.md, `N12`), `stayed` (Pages/cains_jawbone_page_32.md, `N03`), `corpse` (Pages/cains_jawbone_page_36.md, `N12`), `l` (Pages/cains_jawbone_page_63.md, `N14`), `pole` (Pages/cains_jawbone_page_69.md, `N09`), `doors` (Pages/cains_jawbone_page_88.md, `N02`) → treat as overlap-only unless reinforced by a second independent anchor.
+
 - `N17` — Dog-watch/capstan + Kipling-quoting punster voice:
   - **Signature tells:** nautical timekeeping register (dog-watch; capstan bar); heavy Kipling embedding (Mary Gloster / “Thy Servant a Dog”); literary name-dropping (Swift, De Quincey); punning London geography (Selfridges vs Bond Street); spoonerism/cryptic newspaper-title transforms (“Grundy Sapphic” → Sunday Graphic).
   - **Likely identity (if any):** unknown.
@@ -289,6 +295,8 @@ Template:
     - Phase 3 micro-pass (2026-01-04): Pages/cains_jawbone_page_33.md also shares body-only df==2 tokens `gourdoulis` (Pages/cains_jawbone_page_10.md), `bits` (Pages/cains_jawbone_page_57.md), `buried` (Pages/cains_jawbone_page_36.md), `sorrow` (Pages/cains_jawbone_page_66.md), and `suppose` (Pages/cains_jawbone_page_1.md) → treat as overlap-only unless reinforced by a second independent anchor.
 
     - Phase 3 micro-pass (2026-01-05): Pages/cains_jawbone_page_33.md shares body-only df==2 tokens `suppose` (Pages/cains_jawbone_page_1.md, `N01`), `gourdoulis` (Pages/cains_jawbone_page_10.md, `N02`), `buried` (Pages/cains_jawbone_page_36.md, `N12`), `hairs` (Pages/cains_jawbone_page_49.md, `N20`), `bits` (Pages/cains_jawbone_page_57.md, `N02`), `sorrow` (Pages/cains_jawbone_page_66.md, `N05/N06`), `reading` (Pages/cains_jawbone_page_96.md, `N01`) → treat as overlap-only unless reinforced by a second independent anchor.
+
+    - Phase 3 micro-pass (2026-01-05): Pages/cains_jawbone_page_34.md shares body-only df==2 tokens `fell` (Pages/cains_jawbone_page_48.md, `N02`), `foolish` (Pages/cains_jawbone_page_63.md, `N14`), `play` (Pages/cains_jawbone_page_71.md, `N26`), `tool` (Pages/cains_jawbone_page_86.md, `N13`) → treat as overlap-only unless reinforced by a second independent anchor.
 
 - `N26` — “Awful and literal sense” breakfast-recapping / second-sight voice:
   - **Signature tells:** the distinctive parenthetical aside “in the awful and literal sense of the word”; morning/breakfast domesticity; insomnia + “recapitulation” framing; claimed second-sight wordplay (“Clare” → clairvoyant/clairaudient); clipped “not appropriate” judgement + toast/meal phrasing reused as a continuation cue.

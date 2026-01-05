@@ -69,6 +69,7 @@ LIKELY WORDPLAY
     - Royans aux Achard(s): trademark/label for canned “ROYANS AUX TRUFFES & AUX ACHARDS” (Flouit Frères & C., Bordeaux) recorded in *Bulletin officiel de la propriété industrielle et commerciale* (1886), p. 168 (deposit note dated 24 Feb 1887): https://books.google.co.uk/books?id=YKNuP7yATQYC&pg=RA2-PA168-IA147&vq=ROYANS
     - Villacabras: advertised as Spanish “Natural Mineral Purgative Water” (Occidental Medical Times, 1892): https://books.google.co.uk/books?id=WagRAAAAYAAJ&dq=VILLACABRAS&jscmd=SearchWithinVolume2
   - Setting: “great building of many flats”; “stealing at the doors” (sneaking/eavesdropping/theft).
+  - Phase 3 micro-pass (2026-01-05): body-only df==2 token overlaps: `bending` (Pages/cains_jawbone_page_21.md), `stayed` (Pages/cains_jawbone_page_32.md), `corpse` (Pages/cains_jawbone_page_36.md), `l` (Pages/cains_jawbone_page_63.md), `pole` (Pages/cains_jawbone_page_69.md), `doors` (Pages/cains_jawbone_page_88.md). Treat as overlap-only unless reinforced by a second independent anchor.
 - **Voice/tells:**
   - Proverb-twisting; vivid menu/brand listing; self-described stealth/thievery.
 - **Clustering hypotheses:**

@@ -8,13 +8,13 @@ It was a petty employ for one of my reputation ; you would not hear, I felt, muc
   - Debts/bills: “Bills should always be met squarely.”
   - Double life / hypocrisy talk; “valuable services” hinting at blackmail or pay-off.
   - Tool metaphor: “play one tool against another.”
+  - Phase 3 micro-pass (2026-01-05): body-only df==2 token overlaps: `fell` (Pages/cains_jawbone_page_48.md), `foolish` (Pages/cains_jawbone_page_63.md), `play` (Pages/cains_jawbone_page_71.md), `tool` (Pages/cains_jawbone_page_86.md). Treat as overlap-only unless reinforced by a second independent anchor.
 - **Voice/tells:**
   - Confident, coercive social control; reputation-conscious.
   - Physical tell for the man: “throat… full of jelly” / “quag” speech.
 - **Clustering hypotheses:**
   - CERTAIN: links strongly with Pages/cains_jawbone_page_33.md within the `N25` debts/bills vignette (“I always pay my debts” ↔ “Bills should always be met squarely” + covert manipulation register). Treat as a continuity constraint `Pages/cains_jawbone_page_33.md ↔ Pages/cains_jawbone_page_34.md`; see `Order/hypotheses.md` constraints inventory.
   - CERTAIN: links strongly with Pages/cains_jawbone_page_52.md via the unique phrase echo “had ever been an innocent child” + shared “ironic” framing; treat as a continuity constraint `Pages/cains_jawbone_page_34.md ↔ Pages/cains_jawbone_page_52.md` (see `Order/hypotheses.md` constraints inventory; do not assume adjacency).
-  - MAYBE: body-only df==2 token overlap with Pages/cains_jawbone_page_71.md: `play`. Treat as a low-weight cross-voice bridge only unless reinforced by a second independent anchor.
 - **Disconfirming evidence:**
   - If the “bills” language is purely proverbial with no continuity in other pages.
   - If the “innocent child” phrasing is identified as a detachable quotation reused elsewhere (or a third instance appears under a clearly different voice), weakening it as same-voice evidence.
