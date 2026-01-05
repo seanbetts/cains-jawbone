@@ -48,6 +48,7 @@ LIKELY WORDPLAY
   - Poisons/plants: West African ordeal beans (physostigma/Calabar bean) vs “the broad ones” (broad beans); lobelia (“Indian tobacco”) and “lords and ladies” (*Arum maculatum*).
   - Food/sausages: “seven… long stout shapes rosily bursting…” (breakfast item; botulism tie).
   - Gardening stroll + “drawing towards a close” suggests a planned end.
+  - Phase 3 micro-pass (2026-01-05): body-only df==2 token overlaps: `seven` (Pages/cains_jawbone_page_17.md), `drawing` (Pages/cains_jawbone_page_35.md), `led` (Pages/cains_jawbone_page_38.md), `rise` (Pages/cains_jawbone_page_40.md), `ones` (Pages/cains_jawbone_page_41.md), `quick` (Pages/cains_jawbone_page_42.md), `nine` (Pages/cains_jawbone_page_51.md), `bursting` (Pages/cains_jawbone_page_56.md), `exquisite` (Pages/cains_jawbone_page_65.md), `combination` (Pages/cains_jawbone_page_66.md), `country` (Pages/cains_jawbone_page_73.md), `confirmed` (Pages/cains_jawbone_page_86.md), `taste`/`unsatisfactory` (Pages/cains_jawbone_page_89.md), `permitted` (Pages/cains_jawbone_page_96.md). Treat as overlap-only unless reinforced by a second independent anchor.
 - **Voice/tells:**
   - Confident poison-botany register; experimental attitude (“see how the combination would suit him”).
 - **Clustering hypotheses:**

@@ -18,6 +18,7 @@ What was it I held in my fingers? Looked at in one way it could just be a kea. I
   - Matches: lights a match; “consequences soothed me.”
   - Animal/bird wordplay: kea/phoenix chance.
   - Police attention: detective-sergeant visit re “died strangely”.
+  - Phase 3 micro-pass (2026-01-05): body-only df==2 token overlaps: `account` (Pages/cains_jawbone_page_1.md), `plural` (Pages/cains_jawbone_page_10.md), `match` (Pages/cains_jawbone_page_23.md), `extent` (Pages/cains_jawbone_page_24.md), `experience` (Pages/cains_jawbone_page_28.md), `wolf` (Pages/cains_jawbone_page_30.md), `manner` (Pages/cains_jawbone_page_35.md), `awkward` (Pages/cains_jawbone_page_36.md), `position` (Pages/cains_jawbone_page_44.md), `trinder` (Pages/cains_jawbone_page_53.md), `held` (Pages/cains_jawbone_page_67.md), `laughing` (Pages/cains_jawbone_page_74.md), `sergeant` (Pages/cains_jawbone_page_91.md), `however` (Pages/cains_jawbone_page_98.md). Treat as overlap-only unless reinforced by a second independent anchor.
 - **Voice/tells:**
   - Arch, punning; disdain for detective-sergeants’ vocabulary tolerance.
 - **Clustering hypotheses:**

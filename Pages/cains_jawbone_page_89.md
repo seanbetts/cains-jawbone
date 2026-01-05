@@ -14,13 +14,11 @@ The ancient had then sat down among the heather to a great dish of brown and swi
   - Legal/detective register: “Circumstances alter cases”; “death warrant”.
   - Signatures/document thread: “signatures were his business” (forgery/will cluster adjacency).
   - LIKELY: “panache” used as “plume” metaphor for facial hair (moustache/goatee) beneath the lips (Webster 1913: panache = “a plume or bunch of feathers”).
+  - Phase 3 micro-pass (2026-01-05): body-only df==2 token overlaps: `remaining` (Pages/cains_jawbone_page_2.md), `concomitant` (Pages/cains_jawbone_page_7.md), `absence` (Pages/cains_jawbone_page_9.md), `dish` (Pages/cains_jawbone_page_18.md), `friends` (Pages/cains_jawbone_page_21.md), `loved` (Pages/cains_jawbone_page_22.md), `taste`/`unsatisfactory` (Pages/cains_jawbone_page_29.md), `stomach` (Pages/cains_jawbone_page_56.md), `heather` (Pages/cains_jawbone_page_73.md), `public`/`warrant` (Pages/cains_jawbone_page_77.md), `personally` (Pages/cains_jawbone_page_90.md), `royal` (Pages/cains_jawbone_page_95.md). Treat as overlap-only unless reinforced by a second independent anchor.
 - **Voice/tells:**
   - Threatening punning (signature → death warrant) + self-conscious style commentary.
 - **Clustering hypotheses:**
   - CERTAIN: links strongly with Pages/cains_jawbone_page_90.md (unique deer-set-piece bundle: collops + Spey Royal + deer focus ↔ deer-stalker + soigné/parquet dining scene). Treat as an immediate-neighbour constraint `Pages/cains_jawbone_page_90.md → Pages/cains_jawbone_page_89.md`; see `Order/hypotheses.md`.
-  - MAYBE: body-only df==2 token overlap with Pages/cains_jawbone_page_7.md: `concomitant` (“concomitant Spey Royal” ↔ “concomitant odour”). Treat as a low-weight cross-voice bridge only.
-  - MAYBE: body-only df==2 token overlap with Pages/cains_jawbone_page_56.md: `stomach`. Treat as a low-weight cross-voice bridge only unless reinforced by a second independent anchor.
-  - MAYBE: body-only df==2 token overlap with Pages/cains_jawbone_page_22.md: `loved`. Treat as a low-weight cross-voice bridge only unless reinforced by a second independent anchor.
 - **Disconfirming evidence:**
   - If “death warrant” is purely idiomatic (no in-world death intended).
 - **Research needed:**

@@ -21,6 +21,7 @@ photographs of young and laughing athletes, lads who had profited and gone on, a
   - Red rose + white remaining (echoes earlier colour/flower triads).
   - MAYBE: coin/metal-drop imagery (“half-crowns dropped upon marble”) could be literalised by Pages/cains_jawbone_page_83.md’s “old man dropped some metallic object … daughterly swiftness”; page-body scan: “half-crowns” appears only here and “metallic object”/“daughterly” only on Page 83 (still no explicit identification of the object).
   - LIKELY: “them” = the plural items bought secretly in Leningrad (photographs/prints/reproductions and/or documents), with the Goya reproduction likely one of the set.
+  - Phase 3 micro-pass (2026-01-05): body-only df==2 token overlaps: `wretched` (Pages/cains_jawbone_page_2.md), `reconcile` (Pages/cains_jawbone_page_23.md), `police` (Pages/cains_jawbone_page_35.md), `marble` (Pages/cains_jawbone_page_41.md), `education` (Pages/cains_jawbone_page_46.md), `sane` (Pages/cains_jawbone_page_58.md), `laughing` (Pages/cains_jawbone_page_59.md), `ringing` (Pages/cains_jawbone_page_67.md), `distracted` (Pages/cains_jawbone_page_68.md), `asking`/`goodness` (Pages/cains_jawbone_page_81.md), `danger` (Pages/cains_jawbone_page_82.md), `gracious` (Pages/cains_jawbone_page_92.md). Treat as overlap-only unless reinforced by a second independent anchor.
 - **Voice/tells:**
   - Sensual + political; charged metaphors (“tense half-crowns… on marble”).
 - **Clustering hypotheses:**
