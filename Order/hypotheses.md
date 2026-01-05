@@ -938,6 +938,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - Pages/cains_jawbone_page_54.md and Pages/cains_jawbone_page_71.md uniquely share the bigrams `toast and` and `not appropriate`, and Pages/cains_jawbone_page_71.md explicitly opens “But next day…”, reading naturally as the successor beat to Pages/cains_jawbone_page_54.md’s “to-day” breakfast scene.
       - **Disconfirming evidence:** a third page is found containing either bigram (making the overlap non-unique), or re-reading shows incompatible cast/setting constraints across the boundary (phrase echo only).
   - **Placement note (Phase 4):** treat `Pages/cains_jawbone_page_56.md → Pages/cains_jawbone_page_54.md` as the local adjacency; treat Pages/cains_jawbone_page_71.md as a likely next-day continuation but not a forced adjacency to Pages/cains_jawbone_page_54.md (no shared word n‑grams 3–8; only the unique bigrams + “But next day…”).
+  - **Phase 4 check (2026-01-05):** page-body word n‑gram scan (n=3–8) found strong phrase overlap for Pages/cains_jawbone_page_56.md ↔ Pages/cains_jawbone_page_54.md (shared 8‑gram `the awful and literal sense of the word` and its sub-grams), and **zero** shared n‑grams 3–8 for Pages/cains_jawbone_page_54.md ↔ Pages/cains_jawbone_page_71.md and Pages/cains_jawbone_page_56.md ↔ Pages/cains_jawbone_page_71.md.
 
 - **Cluster:** `N27` Peebles mineralogy lecturer / bell-summoning voice (confidence: `MAYBE`)
   - **Pages:** Pages/cains_jawbone_page_9.md
