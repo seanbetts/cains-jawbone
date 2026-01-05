@@ -19,6 +19,7 @@ In my youth I had been worried that I bore the same name as Newbolt’s admiral 
   - CERTAIN: “Smiler with the Knife” is Chaucer’s phrase in *The Knight’s Tale* (Temple of Mars description): “the smiler with the knife under the mantle” (Page:The_Canterbury_tales_of_Geoffrey_Chaucer.djvu/67).
   - Name-play: “capitalise my third letter” (identity-cipher style).
   - Phase 6 scan (2025-12-31): page-body word `steps` appears only on Pages/cains_jawbone_page_91.md and Pages/cains_jawbone_page_60.md (p91 “take steps”; p60 “folding steps… my steps”), supporting the join candidate `Pages/cains_jawbone_page_60.md → Pages/cains_jawbone_page_91.md` (see `Order/hypotheses.md`).
+  - Phase 3 micro-pass (2026-01-05): body-only df==2 token overlaps: `exhibit` (Pages/cains_jawbone_page_80.md), `handed`/`suave` (Pages/cains_jawbone_page_78.md), `interest` (Pages/cains_jawbone_page_73.md), `practice` (Pages/cains_jawbone_page_86.md), `sergeant` (Pages/cains_jawbone_page_59.md), `snowy` (Pages/cains_jawbone_page_4.md), `steps` (Pages/cains_jawbone_page_60.md). Treat as overlap-only unless reinforced by a second independent anchor.
 - **Wordplay (synthesis):**
 
 CANDIDATE

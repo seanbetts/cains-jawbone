@@ -16,6 +16,7 @@ I cannot help, even with this supreme distraction, thinking of my Babbie’s---d
   - Hair fetishisation + French quotation.
   - Writer/source obsession: narrator dislikes anonymous writers; insists on naming them.
   - Phase 6 test (2025-12-31): Pages/cains_jawbone_page_63.md ↔ Pages/cains_jawbone_page_100.md share only generic bigrams (including page-body `I cannot`) and **zero** shared 3‑grams (or longer) → treat as an accidental overlap (Outcome: `FAIL`, not a stitch candidate).
+  - Phase 3 micro-pass (2026-01-05): body-only df==2 token overlaps: `cannot` (Pages/cains_jawbone_page_100.md), `coloured`/`putting` (Pages/cains_jawbone_page_87.md), `dare` (Pages/cains_jawbone_page_53.md), `dimples` (Pages/cains_jawbone_page_38.md), `fairy` (Pages/cains_jawbone_page_14.md), `foolish` (Pages/cains_jawbone_page_34.md), `meaning` (Pages/cains_jawbone_page_43.md), `sundae` (Pages/cains_jawbone_page_60.md), `supreme` (Pages/cains_jawbone_page_47.md), `sur` (Pages/cains_jawbone_page_61.md), token `l` (Pages/cains_jawbone_page_45.md; likely an initial). Treat as overlap-only unless reinforced by a second independent anchor.
   - MAYBE: “Henry” here may be a handheld capped object (cap on/off; “trying him out on the table”).
 - **Voice/tells:**
   - Infatuated, performatively learned; food-ordering amid literary rapture.

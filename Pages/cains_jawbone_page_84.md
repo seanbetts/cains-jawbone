@@ -24,7 +24,7 @@ I wish she would tell me more. I wish she would give me some hint as to why the 
   - Bathing/leisure imagery (one-piece; towel).
   - Fate framing (Kismet) + amputation reference.
   - Phase 3 micro-pass (2026-01-04): body-only df==2 bundle with Pages/cains_jawbone_page_37.md: token `yellow`, bigram `yellow jasmine`, bigram `to know` → treat as a cross-voice overlap lead only unless reinforced by a second independent anchor.
-  - MAYBE: body-only df==2 token overlap with Pages/cains_jawbone_page_69.md: `bus` (Dagenham bus ↔ bus tickets). Treat as a low-weight cross-voice bridge only unless reinforced.
+  - Phase 3 micro-pass (2026-01-05): body-only df==2 token overlaps: `blind` (Pages/cains_jawbone_page_28.md), `bus` (Pages/cains_jawbone_page_69.md), `catch`/`tawny`/`terribly` (Pages/cains_jawbone_page_41.md), `curls` (Pages/cains_jawbone_page_79.md), `delightful` (Pages/cains_jawbone_page_73.md), `especially` (Pages/cains_jawbone_page_99.md), `leave` (Pages/cains_jawbone_page_14.md), `legs` (Pages/cains_jawbone_page_11.md), `sailor` (Pages/cains_jawbone_page_1.md), `taken` (Pages/cains_jawbone_page_90.md), `uncertain` (Pages/cains_jawbone_page_35.md), `won` (Pages/cains_jawbone_page_10.md), `wonder` (Pages/cains_jawbone_page_87.md), `yellow` (Pages/cains_jawbone_page_37.md). Treat as overlap-only unless reinforced by a second independent anchor.
 - **Voice/tells:**
   - Rapturous description of Barbara; anxious curiosity about the deceased’s motive.
 - **Disconfirming evidence:**

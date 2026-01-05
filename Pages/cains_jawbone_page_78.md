@@ -20,6 +20,7 @@ Then there disappeared the last rose flivers of the Prussian beast. He had died 
 - **Clustering hypotheses:**
   - LIKELY: thematically adjacent to the will/forgery cluster (Pages/cains_jawbone_page_28.md, Pages/cains_jawbone_page_50.md), but no phrase-level anchors currently connect it to those pages beyond generic forgery/will motifs.
   - MAYBE: better treated as its own voice until a second non-quotation anchor recurs (e.g., “new instrument,” “lips were wiped clean,” “Prussian beast”).
+  - MAYBE (Phase 3 micro-pass, 2026-01-05): body-only df==2 token overlaps: `afford` (Pages/cains_jawbone_page_36.md), `art` (Pages/cains_jawbone_page_25.md), `clean` (Pages/cains_jawbone_page_14.md), `disappeared` (Pages/cains_jawbone_page_43.md), `fear` (Pages/cains_jawbone_page_81.md), `furtive` (Pages/cains_jawbone_page_73.md), `handed`/`suave` (Pages/cains_jawbone_page_91.md), `learn` (Pages/cains_jawbone_page_83.md), `pray` (Pages/cains_jawbone_page_40.md), `sensational` (Pages/cains_jawbone_page_18.md), `study` (Pages/cains_jawbone_page_96.md). Treat as overlap-only unless reinforced by a second independent anchor.
 - **Disconfirming evidence:**
   - If “instrument” is non-writing (e.g., medical) and “mimic artistry” refers to something other than handwriting/documents.
 - **Research needed:**

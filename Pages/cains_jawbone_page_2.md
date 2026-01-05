@@ -17,7 +17,7 @@ I plunged for the last time. The few remaining figures and letters swam as they 
   - Morbid, literary quotation as immediate lens for observation.
 - **Clustering hypotheses:**
   - MAYBE: same Henry as Pages/cains_jawbone_page_4.md + Pages/cains_jawbone_page_5.md (track Henry’s role/occupation).
-  - MAYBE: body-only df==2 token overlap with Pages/cains_jawbone_page_37.md: `glanced`. Treat as a low-weight cross-voice bridge only unless reinforced by a second independent anchor.
+  - MAYBE (Phase 3 micro-pass, 2026-01-05): body-only df==2 token overlaps: `brick` (Pages/cains_jawbone_page_55.md), `colouring` (Pages/cains_jawbone_page_79.md), `continued` (Pages/cains_jawbone_page_25.md), `dreadful` (Pages/cains_jawbone_page_88.md), `figures` (Pages/cains_jawbone_page_42.md), `four` (Pages/cains_jawbone_page_75.md), `glanced` (Pages/cains_jawbone_page_37.md), `london` (Pages/cains_jawbone_page_82.md), `phrases` (Pages/cains_jawbone_page_31.md), `plunged` (Pages/cains_jawbone_page_95.md), `recalled` (Pages/cains_jawbone_page_15.md), `remaining` (Pages/cains_jawbone_page_89.md), `roses` (Pages/cains_jawbone_page_24.md), `snow` (Pages/cains_jawbone_page_23.md), `standing` (Pages/cains_jawbone_page_13.md), `surmised` (Pages/cains_jawbone_page_42.md), `worth` (Pages/cains_jawbone_page_40.md), `wretched` (Pages/cains_jawbone_page_74.md). Treat as overlap-only unless reinforced by a second independent anchor.
 - **Disconfirming evidence:**
   - If later reveals this “Henry” is a different person in another voice/setting.
 - **Research needed:**
