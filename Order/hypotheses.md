@@ -757,6 +757,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - Location continuity is plausible (supporting): Pages/cains_jawbone_page_41.md’s Selfridges/Bond Street register aligns with Pages/cains_jawbone_page_11.md waiting “in Orchard” (MAYBE Orchard Street near Selfridges), suggesting the same London patch.
       - **Disconfirming evidence:**
         - “first dog”/“second dog” is later shown to be literal-dog framing (not nautical timekeeping), or “Orchard” is proven to be a different place/scene than the Selfridges/Bond Street setting.
+  - **Placement note (Phase 4):** treat `Pages/cains_jawbone_page_41.md → Pages/cains_jawbone_page_11.md` as a within-voice order hypothesis driven by dog-watch timekeeping; do not force adjacency (word n‑grams 3–8: none) until a second continuity marker appears.
   - **Next falsification check:** resolve Pages/cains_jawbone_page_41.md’s “moled and isled” / “Selfridget side” wordplay (see `Indexes/research_queue.md`) to pin the narrator’s London patch and validate whether “Orchard” is likely Orchard Street near Selfridges.
 
 - **Cluster:** `N18` Diary/verify + falser-hand forgery voice (confidence: `MAYBE`)
