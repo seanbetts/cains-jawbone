@@ -18,7 +18,7 @@ The victim, for that I must now reluctantly call him, blocked all the sweet air 
 - **Motifs/continuity hooks:**
   - Misheard last words (“… Band, Speckled”) likely echo the “It was the band! The speckled band!” dying-words line in Doyle.
   - Window/air/light imagery (“window was no more dark”).
-  - MAYBE: archive-level uniqueness — “Speckled” and the trigram `I could make` appear only here and Pages/cains_jawbone_page_6.md; Phase 6 check (2025-12-30) found no additional shared continuity anchor, so treat as a stylistic echo only until reinforced.
+  - Phase 3 micro-pass (2026-01-05): body-only df==2 token overlaps: `band`/`speckled` (Pages/cains_jawbone_page_6.md), `babbled` (Pages/cains_jawbone_page_70.md), `asking`/`goodness` (Pages/cains_jawbone_page_74.md), `disappointed` (Pages/cains_jawbone_page_56.md), `poison` (Pages/cains_jawbone_page_54.md), `fear` (Pages/cains_jawbone_page_78.md), `window` (Pages/cains_jawbone_page_94.md). Note: the corpus-unique trigram `I could make` also appears only here and Pages/cains_jawbone_page_6.md (Phase 6 check, 2025-12-30). Treat as overlap-only unless reinforced by a second independent anchor.
   - MAYBE: body-only df==2 phrase bundle with Pages/cains_jawbone_page_5.md: `was dead what` (and sub-bigrams `was dead` / `dead what`). Treat as an overlap/voice-tell lead only unless reinforced by a second independent anchor.
 - **Voice/tells:**
   - Black humour + self-exculpation (“thank goodness, I was no detective”).

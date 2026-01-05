@@ -15,6 +15,7 @@ The best I had done seemed to me blank and suspicious, my great thoughts as I su
   - Pills + strong tea (possible continuity with other pill/drug pages).
   - Antiquarian anchor: “oldest brass in England” inscription (French/Latinized spelling).
   - Circling/returning (“circled and circled… arrived home again, we two”).
+  - Phase 3 micro-pass (2026-01-05): body-only df==2 token overlaps: `arrived` (Pages/cains_jawbone_page_76.md), `blank` (Pages/cains_jawbone_page_18.md), `die` (Pages/cains_jawbone_page_86.md), `happened` (Pages/cains_jawbone_page_15.md), `impossible` (Pages/cains_jawbone_page_35.md), `lie` (Pages/cains_jawbone_page_6.md), `mercy` (Pages/cains_jawbone_page_24.md), `stone` (Pages/cains_jawbone_page_28.md), `suspicious` (Pages/cains_jawbone_page_77.md), `waking` (Pages/cains_jawbone_page_69.md). Treat as overlap-only unless reinforced by a second independent anchor.
 - **Places:**
   - CERTAIN: “by the Mole” (River Mole, Surrey; the “oldest brass” points to Stoke d’Abernon church). (EB1911 “Surrey”: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Surrey)
   - CERTAIN: Stoke d’Abernon (Surrey) church (earliest extant English brass: Sir John d’Aubernoun). (Fox-Davies, 1909: https://en.wikisource.org/wiki/A_Complete_Guide_to_Heraldry/Chapter_4)

@@ -12,6 +12,7 @@ I discussed certain passages with the man, and he was too guardedly ignorant in 
   - Money as driver (“had it not been for money?”); suspicion + fear of wickedness.
   - Editing/omission (“fall of the rupee” chapter; “too sensational”).
   - Appetite metaphor (no single dish would satisfy).
+  - Phase 3 micro-pass (2026-01-05): body-only df==2 token overlaps: `aching` (Pages/cains_jawbone_page_93.md), `birds` (Pages/cains_jawbone_page_1.md), `blank` (Pages/cains_jawbone_page_20.md), `dish` (Pages/cains_jawbone_page_89.md), `else` (Pages/cains_jawbone_page_48.md), `fall` (Pages/cains_jawbone_page_31.md), `metallic` (Pages/cains_jawbone_page_83.md), `reflected` (Pages/cains_jawbone_page_56.md), `sensational` (Pages/cains_jawbone_page_78.md), `single` (Pages/cains_jawbone_page_28.md). Treat as overlap-only unless reinforced by a second independent anchor.
 - **Voice/tells:**
   - Paranoid self-analysis; heightened moral fear; metaphor-dense interiority.
 - **Clustering hypotheses:**
