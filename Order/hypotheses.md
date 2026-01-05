@@ -546,7 +546,7 @@ Goal: highlight likely “join surfaces” between macro strands (people/place/o
 Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; **do not add within-cluster sequencing in Phase 3**.
 
 - **Cluster:** `N01` Aquarius pen / “Ecky” bar voice (confidence: `CERTAIN`)
-  - **Pages:** Pages/cains_jawbone_page_1.md, Pages/cains_jawbone_page_17.md, Pages/cains_jawbone_page_43.md
+  - **Pages:** Pages/cains_jawbone_page_1.md, Pages/cains_jawbone_page_17.md, Pages/cains_jawbone_page_43.md, Pages/cains_jawbone_page_96.md
   - **Rationale:** Pen/hand/income fixation + astrology wordplay + “Dawn/Moon” venue language suggest a consistent narrator signature.
   - **Key anchors:** “mottled black and silver Aquarius”; “ruin my hand”; desserts/cocktails treated as titled items; “the Dawn”.
   - **Disconfirming evidence:** Alexander (“Ecky”) is later shown to be a different POV than the Aquarius-pen narrator, or “Aquarius” is found elsewhere in page-body text (making it a less specific signature anchor).
@@ -559,7 +559,17 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - Pages/cains_jawbone_page_17.md’s arrival beat (“Ah, here she is… into the chair opposite”) reads as a clean prelude to Pages/cains_jawbone_page_43.md’s continuation (“She accepts Lover’s Delight from me… urges… Banana Split… Ecky passes over to the Dawn”).
       - **Disconfirming evidence:**
         - “the Moon”/“the Dawn” is later shown to be time-of-day metaphor rather than a spatial venue pair, or the woman/cast on Pages/cains_jawbone_page_17.md is shown to be incompatible with the woman/cast on Pages/cains_jawbone_page_43.md.
-    - **Sequence B — Aquarius pen seaside scene (unplaced)** (confidence: `MAYBE`)
+    - **Sequence B — tea waiting → arrival beat** (confidence: `LIKELY`)
+      - **Pages (ordered):** Pages/cains_jawbone_page_96.md → Pages/cains_jawbone_page_17.md
+      - **Why:**
+        - Pages/cains_jawbone_page_96.md is an in-situ café/tea waiting beat (“for the possible her”… “meeting… so mysterious”), and Pages/cains_jawbone_page_17.md resolves that posture into arrival (“Ah, here she is… into the chair opposite”).
+        - The “Somerset” + marriage framing is unusually specific: Pages/cains_jawbone_page_96.md’s “turning a Somerset in front of the altar” aligns with Pages/cains_jawbone_page_17.md’s named `Kate Somerset` + “marriage is in the air.”
+      - **Phase 6 test (2025-12-30):** corpus scan of page bodies found that “Somerset” appears only on Pages/cains_jawbone_page_96.md and Pages/cains_jawbone_page_17.md; “possible her” appears only on Pages/cains_jawbone_page_96.md; and “Ah, here she is” appears only on Pages/cains_jawbone_page_17.md.
+        - **Outcome:** `PASS` (upgrade join to `LIKELY`).
+      - **Disconfirming evidence:**
+        - “Somerset” on Pages/cains_jawbone_page_96.md is shown to be only the somersault idiom with no surname/person linkage, and Pages/cains_jawbone_page_17.md’s Kate Somerset is demonstrably unrelated.
+        - The Page 96 meeting is later anchored to a different venue/cast than the Moon/Dawn scene, so the “possible her” cannot be the “Ah, here she is” arrival.
+    - **Sequence C — Aquarius pen seaside scene (unplaced)** (confidence: `MAYBE`)
       - **Pages:** Pages/cains_jawbone_page_1.md
       - **Why:**
         - Shares the distinctive Aquarius/handwriting register (Aquarius pen ↔ Aquarius/Gemini pun), but lacks a phrase-level setting/cast anchor to place it relative to Pages/cains_jawbone_page_17.md → Pages/cains_jawbone_page_43.md.
@@ -1088,10 +1098,11 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
       - **Disconfirming evidence:** only if a later integrity check shows a transcription/scan error creating a false continuation (very unlikely).
 
 - **Cluster:** `N09` “Old man” slow-death / letter-blackmail voice (confidence: `LIKELY`)
-  - **Pages:** Pages/cains_jawbone_page_68.md, Pages/cains_jawbone_page_69.md, Pages/cains_jawbone_page_70.md, Pages/cains_jawbone_page_95.md, Pages/cains_jawbone_page_96.md
+  - **Pages:** Pages/cains_jawbone_page_68.md, Pages/cains_jawbone_page_69.md, Pages/cains_jawbone_page_95.md, Pages/cains_jawbone_page_70.md
   - **Rationale:** A recurring narrator signature links paranoia about an “old man” and a “crucial meeting” (with suspected eavesdropping) to an explicitly witnessed slow death, letter/retaliation anxiety, and a Café Royal time-budget strand tied to an explicit written account.
   - **Key anchors:** “old man”; “done slowly to death”; franked item to “the girl”; threat “do me in”; Café Royal; “told him all, hour by hour, day by day”.
-  - **Disconfirming evidence:** “done slowly to death” is figurative, the “he”/retaliation target in Page 70 is clearly not the same “old man” context as Pages 68–69, or the Café Royal + written-account pages (95–96) are shown to be a distinct voice.
+  - **Disconfirming evidence:** “done slowly to death” is figurative, the “he”/retaliation target in Page 70 is clearly not the same “old man” context as Pages 68–69, or the Café Royal + written-account pages (Pages/cains_jawbone_page_95.md, Pages/cains_jawbone_page_70.md) are shown to be a distinct voice.
+  - **Membership note:** Pages/cains_jawbone_page_96.md is now treated as `N01` (see `N01` Sequence B) unless a second independent `N09` anchor emerges.
   - **Phase 4 internal ordering hypotheses (N09):**
     - **Sequence A — written account → retaliation fear** (confidence: `LIKELY`)
       - **Pages (ordered):** Pages/cains_jawbone_page_95.md → Pages/cains_jawbone_page_70.md
@@ -1102,45 +1113,18 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
       - **Disconfirming evidence:**
         - Pages/cains_jawbone_page_70.md’s “franked” item is shown to be unrelated to Pages/cains_jawbone_page_95.md’s written account (different recipient/object), or the timing can’t accommodate a write-then-leave sequence.
         - Pages/cains_jawbone_page_95.md’s “him” and Pages/cains_jawbone_page_70.md’s “he” are shown to be different people (so the infancy/knee relationship doesn’t match).
-    - **Sequence B — café waiting → decide to write** (confidence: `MAYBE`)
-      - **Pages (ordered):** Pages/cains_jawbone_page_96.md → Pages/cains_jawbone_page_95.md
-      - **Why:**
-        - Pages/cains_jawbone_page_96.md is an in-situ café beat: ordering tea, reading the menu (“the only literature before me”), and waiting “for the possible her” amid a “mysterious” meeting.
-        - Pages/cains_jawbone_page_95.md then supplies the follow-through decision/action (“I had decided what to do” → pen/ink ritual → “told him all, hour by hour, day by day”), which reads like the next thing that happens once the waiting resolves into a plan.
-      - **Disconfirming evidence:**
-        - Pages/cains_jawbone_page_95.md’s opening time-budgeting is shown to be a pre-arrival travel beat incompatible with Pages/cains_jawbone_page_96.md’s already-seated tea/menu scene (forcing `95 → 96`), or Pages/cains_jawbone_page_96.md is later anchored to a non–Café Royal setting.
-    - **Join candidate (Phase 6) — café waiting → Moon/Dawn table scene** (confidence: `LIKELY`)
-      - **Pages (ordered):** Pages/cains_jawbone_page_96.md → Pages/cains_jawbone_page_17.md
-      - **Why:**
-        - Pages/cains_jawbone_page_96.md ends on a tense café/tea waiting beat (“for the possible her”… “meeting… so mysterious”), and Pages/cains_jawbone_page_17.md reads like the same posture resolving into arrival (“conveniently situated… Ah, here she is… into the chair opposite”).
-        - The “Somerset” + marriage framing is unusually specific: Pages/cains_jawbone_page_96.md’s “turning a Somerset in front of the altar” aligns with Pages/cains_jawbone_page_17.md’s named `Kate Somerset` + “marriage is in the air.”
-      - **Phase 6 test (2025-12-30):** corpus scan of page bodies found that “Somerset” appears only on Pages/cains_jawbone_page_96.md and Pages/cains_jawbone_page_17.md; “possible her” appears only on Pages/cains_jawbone_page_96.md; and “Ah, here she is” appears only on Pages/cains_jawbone_page_17.md.
-        - **Outcome:** `PASS` (upgrade join to `LIKELY`).
-      - **Disconfirming evidence:**
-        - “Somerset” on Pages/cains_jawbone_page_96.md is shown to be only the somersault idiom with no surname/person linkage, and Pages/cains_jawbone_page_17.md’s Kate Somerset is demonstrably unrelated.
-        - The Page 96 meeting is later anchored to a different venue/cast than the Moon/Dawn scene, so the “possible her” cannot be the “Ah, here she is” arrival.
-    - **Sequence C — old-man thread → café meeting → written account** (confidence: `MAYBE`)
-      - **Pages (ordered):** Pages/cains_jawbone_page_68.md → Pages/cains_jawbone_page_69.md → Pages/cains_jawbone_page_96.md → Pages/cains_jawbone_page_95.md → Pages/cains_jawbone_page_70.md
-      - **Why:**
-        - Pages/cains_jawbone_page_68.md supplies the “last crucial meeting with the old man” + suspected eavesdropper setup; Pages/cains_jawbone_page_69.md gives the late-night psychological aftermath of witnessing the old man “done slowly to death”.
-        - MAYBE: Pages/cains_jawbone_page_68.md’s “touched a chord of memory” / “how often…” self-distraction echoes Pages/cains_jawbone_page_96.md’s “How vividly… How it all comes back” (same memory-trigger/digression habit), and both pages explicitly frame a central “meeting” as interpretively charged.
-        - Pages/cains_jawbone_page_96.md → Pages/cains_jawbone_page_95.md reads as the café waiting beat resolving into the decision to write the full account.
-        - Pages/cains_jawbone_page_69.md’s “I had seen every minute of it” aligns with Pages/cains_jawbone_page_95.md’s “hour by hour, day by day” framing for the written account (time-granularity echo beyond the generic “old man/he”).
-        - Pages/cains_jawbone_page_95.md → Pages/cains_jawbone_page_70.md reads as write-then-aftermath: the narrator “told him all” then has “told all I knew” and fears retaliation; the shared infancy/knee relationship anchor strengthens that it’s the same recipient/antagonist thread.
-      - **Disconfirming evidence:**
-        - Pages/cains_jawbone_page_69.md’s “done slowly to death” proves figurative, Pages/cains_jawbone_page_96.md is later anchored to a clearly different setting/voice from the Café Royal strand, or Pages/cains_jawbone_page_95.md’s “horrid act” is later shown to be unrelated to the old-man strand.
-    - **Sequence E — night aftermath → decide to write (skip café-wait beat)** (confidence: `LIKELY`)
+    - **Sequence B — night aftermath → decide to write** (confidence: `LIKELY`)
       - **Pages (ordered):** Pages/cains_jawbone_page_68.md → Pages/cains_jawbone_page_69.md → Pages/cains_jawbone_page_95.md → Pages/cains_jawbone_page_70.md
       - **Why:**
         - Pages/cains_jawbone_page_69.md explicitly asks “What… ought I to do?” and repeats “The answer was plain enough,” while Pages/cains_jawbone_page_95.md uniquely resumes with “Because I had decided what to do,” reading like the follow-through to the same decision-point (even if not strictly same-scene).
         - Pages/cains_jawbone_page_69.md’s time-granularity emphasis (“I had seen every minute of it”) aligns with Pages/cains_jawbone_page_95.md’s “hour by hour, day by day” framing for the written account.
         - Pages/cains_jawbone_page_95.md → Pages/cains_jawbone_page_70.md remains the strongest within-voice action→aftermath chain (write full account → franked item found “in the morning” + retaliation fear).
       - **Phase 6 test (2025-12-30):** corpus scan of page bodies found “The answer was plain enough” occurs only on Pages/cains_jawbone_page_69.md and “Because I had decided what to do” occurs only on Pages/cains_jawbone_page_95.md.
-        - **Outcome:** `PASS` (upgrade Sequence E to `LIKELY`).
+        - **Outcome:** `PASS` (upgrade Sequence B to `LIKELY`).
       - **Disconfirming evidence:**
         - Pages/cains_jawbone_page_95.md’s “horrid act” is later shown to be unrelated to the Pages/cains_jawbone_page_68.md/Pages/cains_jawbone_page_69.md slow-death witness scene, or “What… ought I to do?” / “decided what to do” is shown to be a generic rhetorical posture repeated elsewhere in a way that breaks uniqueness.
         - A stronger immediate successor for Pages/cains_jawbone_page_69.md emerges that carries a concrete prop/venue anchor into the Café Royal strand.
-    - **Sequence D — crucial meeting → night aftermath** (confidence: `MAYBE`)
+    - **Sequence C — crucial meeting → night aftermath** (confidence: `MAYBE`)
       - **Pages (ordered):** Pages/cains_jawbone_page_68.md → Pages/cains_jawbone_page_69.md
       - **Why:**
         - Pages/cains_jawbone_page_68.md frames the narrator’s “last crucial meeting with the old man” (plus suspected eavesdropping), while Pages/cains_jawbone_page_69.md reads like the subsequent late-night attempt to “collect myself” after witnessing the old man “done slowly to death”.
@@ -1148,7 +1132,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
       - **Phase 6 test (2026-01-02):** token df scan found no shared tokens with df≤4 and no shared low-df n‑grams (n=2–6, df≤3); the only shared token with df≤10 is `look` (df=5) → treat as a narrative-only candidate until reinforced.
       - **Disconfirming evidence:**
         - The “old man” is shown to be different referents on Pages/cains_jawbone_page_68.md vs Pages/cains_jawbone_page_69.md, or Pages/cains_jawbone_page_68.md’s Selby/Latham Chapel setting is later shown to be incompatible with the witnessed-death situation on Pages/cains_jawbone_page_69.md.
-  - **Falsification check (2025-12-30):** re-scanned for cross-strand anchors tying the Selby/Latham/Kreisler/Ragtime segment (Pages/cains_jawbone_page_68.md, Pages/cains_jawbone_page_69.md) to the Café Royal/letter segment (Pages/cains_jawbone_page_96.md, Pages/cains_jawbone_page_95.md, Pages/cains_jawbone_page_70.md) and found no concrete prop/venue/cast carryover, but did find a unique decision-point echo Pages/cains_jawbone_page_69.md (“What… ought I to do? The answer was plain enough.”) ↔ Pages/cains_jawbone_page_95.md (“Because I had decided what to do.”) plus the time-granularity echo (“every minute” ↔ “hour by hour, day by day”). Treat this as multi-anchor support for Sequence E (now `LIKELY`), while continuing to look for a concrete scene/prop/venue carryover.
+  - **Falsification check (2025-12-30):** re-scanned for cross-strand anchors tying the Selby/Latham/Kreisler/Ragtime segment (Pages/cains_jawbone_page_68.md, Pages/cains_jawbone_page_69.md) to the Café Royal/letter segment (Pages/cains_jawbone_page_95.md, Pages/cains_jawbone_page_70.md) and found no concrete prop/venue/cast carryover, but did find a unique decision-point echo Pages/cains_jawbone_page_69.md (“What… ought I to do? The answer was plain enough.”) ↔ Pages/cains_jawbone_page_95.md (“Because I had decided what to do.”) plus the time-granularity echo (“every minute” ↔ “hour by hour, day by day”). Treat this as multi-anchor support for Sequence B (now `LIKELY`), while continuing to look for a concrete scene/prop/venue carryover.
   - **Phase 6 test (2026-01-02):** ran page-body df==2 token scan for Pages/cains_jawbone_page_68.md–Pages/cains_jawbone_page_70.md; surfaced only scattered single-token overlaps (e.g., p68 `buttered` ↔ Pages/cains_jawbone_page_14.md; p68 `distracted` ↔ Pages/cains_jawbone_page_74.md; p69 `collect` ↔ Pages/cains_jawbone_page_49.md; p70 `knee` ↔ Pages/cains_jawbone_page_92.md) and a single df==2 trigram `poor old man` (Pages/cains_jawbone_page_69.md ↔ Pages/cains_jawbone_page_54.md) with no second continuity marker. No concrete anchor yet collapses the Selby “old man” into the infancy/knee “he”.
   - **Next falsification check:** look for an explicit identifier that collapses “old man” (Pages/cains_jawbone_page_68.md/Pages/cains_jawbone_page_69.md) into the infancy/knee “he” (Pages/cains_jawbone_page_95.md/Pages/cains_jawbone_page_70.md), and treat Pages/cains_jawbone_page_68.md’s unique `distracted` overlap with Pages/cains_jawbone_page_74.md as a competing re-stitch direction until resolved.
 
