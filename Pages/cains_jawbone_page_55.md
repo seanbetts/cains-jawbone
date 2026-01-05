@@ -14,6 +14,7 @@ The picture of the Old Mill at Bramley, with its medlar tree overhanging the wat
   - Smell/synaesthesia: medlar + vine as chord; colours (venetian red, peridot).
   - Resolved check (2025-12-30): no recurrence of the “hard/gentle” variation found in other page bodies; a Morse-like read (hard = dash, gentle = dot) yields `- . - - . . . -` → `-.--` (Y) + `...-` (V) (tentative until a matching decode-key or repeated pattern appears elsewhere).
   - Cigarette routine: “first cigarette of the day”.
+  - Phase 3 micro-pass (2026-01-05): body-only df==2 token overlaps: `brick` (Pages/cains_jawbone_page_2.md), `forgotten` (Pages/cains_jawbone_page_3.md), `fifth` (Pages/cains_jawbone_page_5.md), `english` (Pages/cains_jawbone_page_7.md), `gently` (Pages/cains_jawbone_page_23.md), `james`/`loud` (Pages/cains_jawbone_page_30.md), `earl` (Pages/cains_jawbone_page_32.md), `open` (Pages/cains_jawbone_page_37.md), `smells` (Pages/cains_jawbone_page_44.md), `holiday` (Pages/cains_jawbone_page_57.md), `chord` (Pages/cains_jawbone_page_68.md), `groped` (Pages/cains_jawbone_page_92.md). Treat as overlap-only unless reinforced by a second independent anchor.
 - **Voice/tells:**
   - Sensory (smell → colour/sound) and self-correcting (“or did I mean…”).
   - LIKELY: same smell-forward voice as Pages/cains_jawbone_page_44.md (“Smells meant a lot to me”) and Pages/cains_jawbone_page_7.md (odour-as-relief).
@@ -21,7 +22,6 @@ The picture of the Old Mill at Bramley, with its medlar tree overhanging the wat
   - LIKELY: `N16` smell-synaesthesia voice; matches the self-correcting sensory-first register and tobacco routine (“first cigarette…”) but keep as edge-fit unless reinforced by a second `N16` anchor beyond smell/self-correction (Henry/Hodge/incinerator/Typhoon bundle).
   - Falsification check (2025-12-30): Bramley/medlar/peridot/venetian-red smell-chord vignette remains unique in page bodies (no other matches found), so this page still lacks a second distinctive `N16` anchor beyond smell/self-correction → keep as edge-fit.
   - CERTAIN: also participates in the Time obsession + calendar anchors macro via the Aug 5 Gowrie Conspiracy hook (“English holiday… like that other fifth”).
-  - MAYBE: body-only df==2 token overlap with Pages/cains_jawbone_page_37.md: `open`. Treat as a low-weight cross-voice bridge only unless reinforced by a second independent anchor.
 - **Disconfirming evidence:**
   - If the “holiday” reference is merely associative and the hard/gentle pattern never reappears or yields structure.
 - **Research needed:**

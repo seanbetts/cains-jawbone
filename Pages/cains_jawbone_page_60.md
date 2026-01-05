@@ -20,8 +20,7 @@ I had sufficient knowledge to realise that I had succeeded. I ordered Charles to
   - Completion/success: narrator declares success; “man more dead”.
   - Photography: “heliographic record” taken from folding steps.
   - Henry-as-investigator instructed not to pursue further.
-  - Phase 3 micro-pass (2026-01-04): body-only df==2 token overlap with Pages/cains_jawbone_page_97.md: `ordered`. Treat as a low-weight cross-voice bridge only unless reinforced by a second independent anchor.
-  - Phase 3 micro-pass (2026-01-04): body-only df==2 token overlap with Pages/cains_jawbone_page_71.md: `success`. Treat as a low-weight cross-voice bridge only unless reinforced by a second independent anchor.
+  - Phase 3 micro-pass (2026-01-05): body-only df==2 token overlaps: `spare` (Pages/cains_jawbone_page_6.md), `investigator` (Pages/cains_jawbone_page_7.md), `further` (Pages/cains_jawbone_page_14.md), `succeeded` (Pages/cains_jawbone_page_21.md), `francis` (Pages/cains_jawbone_page_23.md), `thee` (Pages/cains_jawbone_page_51.md), `sundae` (Pages/cains_jawbone_page_63.md), `expense` (Pages/cains_jawbone_page_70.md), `success` (Pages/cains_jawbone_page_71.md), `accomplished` (Pages/cains_jawbone_page_83.md), `steps` (Pages/cains_jawbone_page_91.md), `sufficient` (Pages/cains_jawbone_page_95.md), `ordered` (Pages/cains_jawbone_page_97.md). Treat as overlap-only unless reinforced by a second independent anchor.
   - Phase 6 scan (2025-12-31): page-body word `steps` appears only on Pages/cains_jawbone_page_60.md and Pages/cains_jawbone_page_91.md (p60 “folding steps… my steps”; p91 “take steps”), supporting the join candidate `Pages/cains_jawbone_page_60.md → Pages/cains_jawbone_page_91.md` (see `Order/hypotheses.md`).
 - **Voice/tells:**
   - Self-congratulatory “work of noble note” framing; mixes moralising with logistics (dessert order, photo).

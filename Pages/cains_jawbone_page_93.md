@@ -22,6 +22,7 @@ Had not the author of Wails of a Tayside Inn said of them that they were the liv
   - Evidence/conviction language (“tangible proof”; “semi-conviction”).
   - Surveillance register (“tapped its wire”).
   - Naming/wordplay: “Cambridge week” (MAYBE “May Week”).
+  - Phase 3 micro-pass (2026-01-05): body-only df==2 token overlaps: `wire` (Pages/cains_jawbone_page_6.md), `aching` (Pages/cains_jawbone_page_18.md), `wimpole` (Pages/cains_jawbone_page_23.md), `breaking` (Pages/cains_jawbone_page_38.md), `court` (Pages/cains_jawbone_page_40.md), `cullough` (Pages/cains_jawbone_page_41.md), `living` (Pages/cains_jawbone_page_92.md), `tapped` (Pages/cains_jawbone_page_94.md), `bunny`/`cambridge`/`hammer`/`perry`/`tongs` (Pages/cains_jawbone_page_97.md). Treat as overlap-only unless reinforced by a second independent anchor.
 - **Voice/tells:**
   - Formal reasoning dramatised as internal tennis match (“Bunny and Perry, Pro and Con”).
 - **Clustering hypotheses:**
