@@ -683,3 +683,4 @@ date,agent,phase,task,start,end,minutes,branch,commit,notes
 2026-01-05,codex-cli,phase-4,phase 4: N25 n-gram check,2026-01-05T16:20:20Z,2026-01-05T16:21:51Z,2,run/20251215-codex-extraction-pass1,63af745,"Added a Phase 4 n-gram check for N25 edges to keep bridge order-only; verified pages OK."
 2026-01-05,codex-cli,phase-4,phase 4: N17 n-gram check,2026-01-05T16:23:15Z,2026-01-05T16:25:35Z,2,run/20251215-codex-extraction-pass1,9916423,"Added a Phase 4 n-gram check for N17 (p41 vs p11); verified pages OK."
 2026-01-05,codex-cli,phase-4,phase 4: N01 n-gram check,2026-01-05T16:26:50Z,2026-01-05T16:31:56Z,5,run/20251215-codex-extraction-pass1,d3edc5d,"Added a Phase 4 n-gram check for N01 (p17↔p43 lock; p96 order-only); verified pages OK."
+2026-01-05,codex-cli,phase-4,phase 4: N39 n-gram check,2026-01-05T17:11:26Z,2026-01-05T17:12:47Z,1,run/20251215-codex-extraction-pass1,ceedb5b,"Added a Phase 4 n-gram check for N39 to keep it order-only; verified pages OK."
