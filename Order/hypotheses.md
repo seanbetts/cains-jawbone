@@ -575,6 +575,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - Shares the distinctive Aquarius/handwriting register (Aquarius pen ↔ Aquarius/Gemini pun), but lacks a phrase-level setting/cast anchor to place it relative to Pages/cains_jawbone_page_17.md → Pages/cains_jawbone_page_43.md.
       - **Disconfirming evidence:**
         - Casy Ferris / St. Lazarus-in-the-Chine is shown to be a different narrator/setting altogether, forcing Pages/cains_jawbone_page_1.md out of `N01`.
+  - **Placement note (Phase 4):** treat `Pages/cains_jawbone_page_17.md → Pages/cains_jawbone_page_43.md` as the only adjacency-like lock (Moon/Dawn + hand logic + page-body-unique `I almost wish I`); treat `Pages/cains_jawbone_page_96.md → Pages/cains_jawbone_page_17.md` as a strong within-`N01` direction cue but not a forced adjacency (no shared word n‑grams 4–8); keep Pages/cains_jawbone_page_1.md unplaced relative to the café/table run.
   - **Next falsification check:** search page bodies for Casy Ferris / St. Lazarus-in-the-Chine / “whaups” / “dead old man” to see whether the Aquarius-pen strand extends beyond Pages/cains_jawbone_page_1.md (without imposing order).
 
 - **Cluster:** `N12` Calabar/digitalis poison-logistics + murder-as-genre voice (confidence: `LIKELY`)
