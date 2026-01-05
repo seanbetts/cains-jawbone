@@ -1088,6 +1088,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
       - **Disconfirming evidence:**
         - The “last day” on Pages/cains_jawbone_page_64.md is later anchored to an event that must occur *after* Pages/cains_jawbone_page_61.md’s Broadmoor/Colney Hatch reflections (forcing reversal).
         - Another page-body instance of either df==2 phrase cue (`my people had` / `I had always been`) emerges, weakening the boundary-based direction support.
+  - **Placement note (Phase 4):** treat `Pages/cains_jawbone_page_64.md → Pages/cains_jawbone_page_61.md` as a within-voice order hypothesis but not a forced adjacency (word n‑grams 4–8: none; only shared 3‑gram is the signature anchor `the great lexicographer`).
   - **Next falsification check:** identify what “the last day” refers to on Pages/cains_jawbone_page_64.md (death, separation, last visit, last day at a place) and re-test whether Pages/cains_jawbone_page_61.md’s “there” location/animals (hen + sheep) implies a different day/setting that would reverse the order.
 
 - **Cluster:** Menu-title sweets (Lover’s Delight/Banana Split/Rainbow) (confidence: `MAYBE`)
