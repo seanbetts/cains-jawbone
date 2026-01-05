@@ -19,7 +19,7 @@ A flower-seller, fed ruddily, it seemed, on hope, broke in and would have made a
 - **Motifs/continuity hooks:**
   - Flowers: countryside-flower catalogue; red rose “sole survivor”.
   - Sensory gesture: tasting dew from the rose.
-  - MAYBE: body-only df==2 token overlap with Pages/cains_jawbone_page_92.md: `dew` (Browning quotation layer). Treat as a low-weight cross-voice overlap only unless reinforced.
+  - Phase 3 micro-pass (2026-01-05): body-only df==2 token overlaps: `metallic` (Pages/cains_jawbone_page_18.md), `brought` (Pages/cains_jawbone_page_21.md), `foreign` (Pages/cains_jawbone_page_26.md), `pass` (Pages/cains_jawbone_page_30.md), `accomplished` (Pages/cains_jawbone_page_60.md), `become` (Pages/cains_jawbone_page_65.md), `tongue` (Pages/cains_jawbone_page_69.md), `leaving` (Pages/cains_jawbone_page_70.md), `learn` (Pages/cains_jawbone_page_78.md), `dew` (Pages/cains_jawbone_page_92.md), `hurried` (Pages/cains_jawbone_page_98.md). Treat as overlap-only unless reinforced by a second independent anchor.
   - MAYBE: metallic object drop/retrieval is a continuity prop; page-body scan: “metallic object” and “daughterly” appear only here, while “half-crowns” appears only on Pages/cains_jawbone_page_74.md (object still unnamed: coin vs key/utensil/case). If `P102` is `P69`, `P103` may also overlap `P70` (husky-voiced woman).
   - MAYBE: “mal de mer” (sea-sickness) simile echoes Pages/cains_jawbone_page_73.md’s Marseille/old-Port initiation memory (additional cosmopolitan/travel tell within `N06`).
 - **Voice/tells:**

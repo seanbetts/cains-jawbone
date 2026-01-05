@@ -20,6 +20,7 @@ Babs now moves across the vision, crowned with two straight downfalls, as it wer
   - Tea: Orange Pekoe → Special Orange Supreme.
     - “Special Orange Supreme” is attested as a menu item name in *The Hotel Monthly* (menus section): https://books.google.co.uk/books?id=uLvmAAAAMAAJ&pg=RA2-PA29&dq=Special+Orange+Supreme.
   - Henry policing diction: dislikes “got me”.
+  - Phase 3 micro-pass (2026-01-05): body-only df==2 token overlaps: `split` (Pages/cains_jawbone_page_43.md), `begin`/`straight` (Pages/cains_jawbone_page_50.md), `cool` (Pages/cains_jawbone_page_51.md), `supreme` (Pages/cains_jawbone_page_63.md), `gasping` (Pages/cains_jawbone_page_67.md), `hot` (Pages/cains_jawbone_page_71.md), `river`/`thunder` (Pages/cains_jawbone_page_73.md), `twin` (Pages/cains_jawbone_page_85.md), `sunset` (Pages/cains_jawbone_page_98.md). Treat as overlap-only unless reinforced by a second independent anchor.
 - **Voice/tells:**
   - Highly visual, metaphor-heavy; keeps returning to sensory weather memories.
 - **Clustering hypotheses:**

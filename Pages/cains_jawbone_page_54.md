@@ -15,6 +15,7 @@ I was feeling about as good as man could feel that day. Everything horticultural
   - Preparation/poisoning: “To pestle a poison’d poison behind his crimson lights.” (Tennyson, *Maud*).
   - Smoking: “lit a Nestor”.
   - Scansion habit: “It would have to be scanned.”
+  - Phase 3 micro-pass (2026-01-05): body-only df==2 token overlaps: `stirred` (Pages/cains_jawbone_page_7.md), `coming` (Pages/cains_jawbone_page_15.md), `scanned` (Pages/cains_jawbone_page_32.md), `crimson` (Pages/cains_jawbone_page_35.md), `alliance` (Pages/cains_jawbone_page_36.md), `telling` (Pages/cains_jawbone_page_44.md), `literal` (Pages/cains_jawbone_page_56.md), `la` (Pages/cains_jawbone_page_72.md), `poison` (Pages/cains_jawbone_page_81.md), `lights` (Pages/cains_jawbone_page_90.md), `advice` (Pages/cains_jawbone_page_98.md). Treat as overlap-only unless reinforced by a second independent anchor.
 - **Voice/tells:**
   - Horticultural precision + moral irony; plans violence with literary/metrical framing.
 - **Clustering hypotheses:**

@@ -17,13 +17,12 @@ I always feel a bit dazed on these occasions, and was so then. But it was pleasa
   - Physical description of Henry (cleft chin; show hairs behind ears).
   - Henry framed as compelled to “destroy… for family reasons”.
   - Phase 6 test (2025-12-31): page-body phrase-level echo `but it was pleasant to` appears only here and Pages/cains_jawbone_page_72.md, but there is no second anchor (no shared prop/cast/place/quote) → treat as an accidental overlap (Outcome: `FAIL`, not a stitch candidate).
+  - Phase 3 micro-pass (2026-01-05): body-only df==2 token overlaps: `developing` (Pages/cains_jawbone_page_8.md), `bowed` (Pages/cains_jawbone_page_12.md), `dazed`/`keep` (Pages/cains_jawbone_page_21.md), `hairs` (Pages/cains_jawbone_page_33.md), `ordinary` (Pages/cains_jawbone_page_50.md), `chin` (Pages/cains_jawbone_page_53.md), `silent` (Pages/cains_jawbone_page_58.md), `soul` (Pages/cains_jawbone_page_67.md), `collect` (Pages/cains_jawbone_page_69.md), `pleasant` (Pages/cains_jawbone_page_72.md), `simple` (Pages/cains_jawbone_page_98.md). Treat as overlap-only unless reinforced by a second independent anchor.
 - **Voice/tells:**
   - “simple soul” register but highly allusive (poet quotation).
 - **Clustering hypotheses:**
   - CERTAIN: add to Henry-occurrence cluster.
   - MAYBE: overlaps with Pages/cains_jawbone_page_21.md via body-only df==2 bundle `dazed` + `keep` (+ bigram `to keep`); treat as a narrator/strand overlap lead only unless reinforced by a second independent anchor.
-  - MAYBE: body-only df==2 token overlap with Pages/cains_jawbone_page_33.md: `hairs`. Treat as a low-weight cross-voice bridge only unless reinforced by a second independent anchor.
-  - MAYBE: body-only df==2 token overlaps: `bowed` (Pages/cains_jawbone_page_12.md), `chin` (Pages/cains_jawbone_page_53.md), `collect` (Pages/cains_jawbone_page_69.md), `developing` (Pages/cains_jawbone_page_8.md), `ordinary` (Pages/cains_jawbone_page_50.md), `pleasant` (Pages/cains_jawbone_page_72.md), `silent` (Pages/cains_jawbone_page_58.md), `simple` (Pages/cains_jawbone_page_98.md), `soul` (Pages/cains_jawbone_page_67.md). Treat as overlap-only unless reinforced by a second independent anchor.
   - MAYBE: family-curse/motive thread for Henry’s repeated destruction.
   - CERTAIN (Phase 5 adjacency candidate): Pages/cains_jawbone_page_49.md → Pages/cains_jawbone_page_13.md (Blake quote continuation: this page’s “Bring Palamabron… Elynittria…” → p13’s “Rintrah… Ocalythron.”). See `Order/hypotheses.md`.
   - MAYBE: links strongly with Pages/cains_jawbone_page_92.md ↔ Pages/cains_jawbone_page_42.md (p49 “first introduction to Henry” → later guided/anticipatory scenes). Falsifier: “first introduction” refers to a different Henry than the p92/p42 guide/axis Henry, or p49 is fully accounted for by the Blake quote continuation to Pages/cains_jawbone_page_13.md.
