@@ -14,6 +14,7 @@ One’s eyebrows were one’s own, I always thought. Though I did remember a cas
 - **Motifs/continuity hooks:**
   - Eyebrows/cosmetics: false eyebrows as “fuzzy caterpillars”; applying black.
   - Theatre/music-hall + supper: eyebrow mishap “into the clear soup”.
+  - Phase 3 micro-pass (2026-01-05): body-only df==2 token overlaps: `ceased` (Pages/cains_jawbone_page_90.md), `mary` (Pages/cains_jawbone_page_3.md), `naturally` (Pages/cains_jawbone_page_94.md). Treat as overlap-only unless reinforced by a second independent anchor.
 - **Voice/tells:**
   - Stage/cosmetics knowingness; nostalgic (“The old days”); romantic vacillation about Henry.
 - **Clustering hypotheses:**

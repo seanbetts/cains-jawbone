@@ -24,6 +24,7 @@ I hate seeing things like this in the paper. Bill to Solve the Traffic Problem. 
   - Rail/travel: Left Luggage Office.
   - “Hocks” suggests an animal/quadrupled anatomy (Chambers 1908: hough/hock = hind-leg joint of a quadruped). https://en.wikisource.org/wiki/Chambers%27s_Twentieth_Century_Dictionary_1908/Holywell_Hurry
   - Alcohol: rum line.
+  - Phase 3 micro-pass (2026-01-05): body-only df==2 token overlaps: `francis` (Pages/cains_jawbone_page_60.md), `gently` (Pages/cains_jawbone_page_55.md), `hate` (Pages/cains_jawbone_page_43.md), `match` (Pages/cains_jawbone_page_59.md), `oscar` (Pages/cains_jawbone_page_90.md), `paper` (Pages/cains_jawbone_page_57.md), `problem` (Pages/cains_jawbone_page_44.md), `reconcile` (Pages/cains_jawbone_page_74.md), `singer` (Pages/cains_jawbone_page_26.md), `sister` (Pages/cains_jawbone_page_40.md), `snow` (Pages/cains_jawbone_page_2.md), `sudden` (Pages/cains_jawbone_page_31.md), `wimpole` (Pages/cains_jawbone_page_93.md). Treat as overlap-only unless reinforced by a second independent anchor.
 - **Voice/tells:**
   - Rapid associative allusion; self-reproach about “letting the dear girl down”.
 - **Clustering hypotheses:**

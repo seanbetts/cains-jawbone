@@ -16,6 +16,7 @@ I was feeling better already, and was glad that a memory, true though dim, had l
   - Violence: “as I stabbed once.”
   - Misnaming/near-miss references (Brontë vs Corday).
   - Phrase-level echo: page-body 4‑gram `There was something wrong` appears only here and Pages/cains_jawbone_page_79.md; treat as a possible stitch cue (direction unknown) but low-weight unless reinforced by a second anchor.
+  - Phase 3 micro-pass (2026-01-05): body-only df==2 token overlaps: `breaking` (Pages/cains_jawbone_page_93.md), `dimples` (Pages/cains_jawbone_page_63.md), `fortnight` (Pages/cains_jawbone_page_9.md), `led` (Pages/cains_jawbone_page_29.md), `pondered` (Pages/cains_jawbone_page_26.md), `skin` (Pages/cains_jawbone_page_65.md). Treat as overlap-only unless reinforced by a second independent anchor.
   - Phase 6 test (2025-12-31): Southend pointer overlaps Pages/cains_jawbone_page_100.md only indirectly (Southend ↔ Kursal/Kursaal); page-body n‑gram scan shows **zero** shared 3‑grams (or longer) and no shared prop/cast/quote anchor → treat as place-only (Outcome: `FAIL`, not a stitch candidate).
 - **Voice/tells:**
   - Highly self-aware/classical; slips/plays with names; abrupt aggression.

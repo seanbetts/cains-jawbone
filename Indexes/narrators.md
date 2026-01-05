@@ -146,6 +146,7 @@ Template:
   - **Confidence:** `MAYBE`
   - **Disconfirming evidence:** “Green” resolves as a purely metaphorical reference (no in‑world victim), or the De Quincey/tooling layer is shown to be a detachable quotation with no stable narrator signature.
   - **Notes:** Previously paired with Pages/cains_jawbone_page_77.md; Pages/cains_jawbone_page_77.md is now treated as `N12` due to the unique phrase-level echo with Pages/cains_jawbone_page_35.md (“Murders were funny things”).
+    - Phase 3 micro-pass (2026-01-05): Pages/cains_jawbone_page_76.md shares body-only df==2 tokens `arrived` (Pages/cains_jawbone_page_20.md, `N34`), `foreground` (Pages/cains_jawbone_page_87.md, `N13`), `lord` (Pages/cains_jawbone_page_61.md, `N04`), `quincey` (Pages/cains_jawbone_page_11.md, `N17`), `realisation` (Pages/cains_jawbone_page_56.md, `N26`), `reap` (Pages/cains_jawbone_page_65.md, `N32`), `sly` (Pages/cains_jawbone_page_79.md, `N02`), `smile` (Pages/cains_jawbone_page_37.md, `N29`), `stick` (Pages/cains_jawbone_page_86.md, `N13`), `tooled` (Pages/cains_jawbone_page_28.md, `N39`), and `wiping` (Pages/cains_jawbone_page_44.md, `N16`) → treat as overlap-only unless reinforced by a second independent anchor.
 
 - `N16` — St. Bruno / smell-memory + incinerator-evidence voice:
   - **Signature tells:** smell-triggered scene-shifts; tobacco fixation (St. Bruno) and other pungent “relief” smells; synaesthetic sensory metaphors (smell→colour/sound); self-interrupting self-corrections (e.g., “was it?”, “surely…”, “or did I mean…?”); self-aware narration about telling/following a story; vivid brand/food list; stealth/eavesdropping register (“stealing at the doors”); evidence-destruction detail (half-burned marriage certificate in an incinerator); occasional punning inside the “menu list”.
@@ -220,6 +221,7 @@ Template:
   - **Confidence:** `MAYBE`
   - **Disconfirming evidence:** later pages show the same eyebrow/cosmetics vignette is quoted/remembered by multiple narrators, or the Henry-relation here is incompatible with other Henry-linked scenes.
   - **Notes:** Singleton for now; next check: search for “Highgate Empire” or the false-eyebrows mishap and named music-hall acts (Wilkie Bard/Lauder) before merging with any other cosmetic-gesture pages.
+    - Phase 3 micro-pass (2026-01-05): Pages/cains_jawbone_page_16.md shares body-only df==2 tokens `ceased` (Pages/cains_jawbone_page_90.md, `N32`), `mary` (Pages/cains_jawbone_page_3.md, `N03`), and `naturally` (Pages/cains_jawbone_page_94.md, `N08`) → treat as overlap-only unless reinforced by a second independent anchor.
 
 - `N24` — Scotland Yard collapse / Kursaal voice:
   - **Signature tells:** narrator in physical extremis; police framing (Scotland Yard); gloating antagonist woman; Southend Kursaal landmark; buttonhole motif used as a fatalistic detail; valedictory address to Henry.
@@ -284,6 +286,7 @@ Template:
   - **Confidence:** `MAYBE`
   - **Disconfirming evidence:** “stabbed” is later shown to be purely culinary (cutting an omelette), or the Sonia Gordon/Southend anchors recur under a clearly different narrator voice.
   - **Notes:** Singleton for now; next check: search for Sonia Gordon + Southend “tragic fortnight” anchors; don’t merge with Pages/cains_jawbone_page_100.md on “Southend” alone. Phase 6 test (2025-12-31): Pages/cains_jawbone_page_38.md ↔ Pages/cains_jawbone_page_79.md share only variants of the generic phrase `There was something wrong` (no second shared anchor) → treat as an accidental overlap (Outcome: `FAIL`, not a stitch candidate).
+    - Phase 3 micro-pass (2026-01-05): Pages/cains_jawbone_page_38.md shares body-only df==2 tokens `breaking` (Pages/cains_jawbone_page_93.md, `N07`), `dimples` (Pages/cains_jawbone_page_63.md, `N14`), `fortnight` (Pages/cains_jawbone_page_9.md, `N27`), `led` (Pages/cains_jawbone_page_29.md, `N12`), `pondered` (Pages/cains_jawbone_page_26.md, `N16`), and `skin` (Pages/cains_jawbone_page_65.md, `N32`) → treat as overlap-only unless reinforced by a second independent anchor.
 
 - `N31` — Flecker/Whitman compost + Surrey place-pun + pill voice:
   - **Signature tells:** dense allusive weave with intentional substitution inside quotations (Flecker name inserted into a Flecker-ghazel line); Whitman’s compost imagery (“winds… not infectious”, bean/potato growth) used as narrative grounding; pill-taking + self-correction (“I had probably got it wrong… Yet it was all right.”); place-name punning (Thames Ditton/Long Ditton).
@@ -312,6 +315,7 @@ Template:
   - **Confidence:** `MAYBE`
   - **Disconfirming evidence:** the magazine/short-story register is later shown to be a quoted inset rather than narrator voice, or the same cluster of anchors appears under an unmistakably different narrator elsewhere.
   - **Notes:** Singleton for now; next check: search for Medehamstede, Pasquier’s claret, Rue de la Harpe, or “Savage Conqueror” magazine references (merge only if ≥2 anchors recur together). Phase 6 test (2025-12-31): Pages/cains_jawbone_page_72.md ↔ Pages/cains_jawbone_page_49.md share only the generic phrase `but it was pleasant to` (no second anchor) → treat as an accidental overlap (Outcome: `FAIL`, not stitch evidence).
+    - Phase 3 micro-pass (2026-01-05): Pages/cains_jawbone_page_72.md shares body-only df==2 tokens `la` (Pages/cains_jawbone_page_54.md, `N26`), `pleasant` (Pages/cains_jawbone_page_49.md, `N20`), and `stories` (Pages/cains_jawbone_page_92.md, `N21`) → treat as overlap-only unless reinforced by a second independent anchor.
 
 - `N34` — Time-factor / Didling wordplay + antiquarian brass voice:
   - **Signature tells:** obsessive time/mortality rumination (“to-day”, “next day”, “time factor”); self-deprecating pun chains (Dolittle → Didlittle → Didling/didlet); antiquarian inscription fixation (oldest brass by the Mole); strong tea + “first pill” morning ritual.
@@ -376,3 +380,4 @@ Template:
   - **Confidence:** `MAYBE`
   - **Disconfirming evidence:** Page 23 is later shown to share a stable interview/table mechanic or repeated phrasing with an existing narrator (especially `N25`), making the match/Left Luggage layer incidental.
   - **Notes:** Singleton for now; next check: search for Bryant & May matches + Left Luggage Office + the Blackwood name run; compare with `N25` only if interview/papers mechanics also recur.
+    - Phase 3 micro-pass (2026-01-05): Pages/cains_jawbone_page_23.md shares body-only df==2 tokens `francis` (Pages/cains_jawbone_page_60.md, `N12`), `gently` (Pages/cains_jawbone_page_55.md, `N16`), `hate` (Pages/cains_jawbone_page_43.md, `N01`), `match` (Pages/cains_jawbone_page_59.md, `N12`), `oscar` (Pages/cains_jawbone_page_90.md, `N32`), `paper` (Pages/cains_jawbone_page_57.md, `N02`), `problem` (Pages/cains_jawbone_page_44.md, `N16`), `reconcile` (Pages/cains_jawbone_page_74.md, `N06`), `singer` (Pages/cains_jawbone_page_26.md, `N16`), `sister` (Pages/cains_jawbone_page_40.md, `N31`), `snow` (Pages/cains_jawbone_page_2.md, `N22`), `sudden` (Pages/cains_jawbone_page_31.md, `N20`), and `wimpole` (Pages/cains_jawbone_page_93.md, `N07`) → treat as overlap-only unless reinforced by a second independent anchor.
