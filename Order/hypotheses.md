@@ -1319,6 +1319,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Pages:** Pages/cains_jawbone_page_91.md
   - **Rationale:** Page 91 contains a high-signal narrator self-identification (DEATH → De’Ath/DeAth) paired with a distinctive “Black Museum” crime-collection voice.
   - **Key anchors:** “Black Museum”; “capitalise my third letter” nameplay; macabre exhibit anecdote; “Smiler with the Knife”.
+  - **Phase 4 check (2026-01-05):** singleton page; no internal ordering possible within `N11`.
   - **Bridge candidate (Phase 5):** Pages/cains_jawbone_page_80.md ↔ Pages/cains_jawbone_page_91.md (`N12` ↔ `N11`) (confidence: `LIKELY`; order: `Pages/cains_jawbone_page_80.md → Pages/cains_jawbone_page_91.md`)
     - **Why:**
       - Poison continuity: Page 80’s explicit aconitum/Fleming’s tincture setup matches Page 91’s “Blue Rocket… going down next day… succeeding” continuation framing.
