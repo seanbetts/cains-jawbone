@@ -1068,6 +1068,17 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Rationale:** Both pages use the distinctive “Great Lexicographer” anchor and similar learned, punning diction; fealty/reading-aloud framing suggests a consistent narrator segment.
   - **Key anchors:** “Great Lexicographer”; Ockham’s razor joke; McLeod of that ilk; Bellerophon letters / bait/hook metaphor.
   - **Disconfirming evidence:** later pages show different narrators/settings using “Great Lexicographer” independently, or the McLeod/Johnson linkage is disproved.
+  - **Phase 4 internal ordering hypotheses (N04):**
+    - **Sequence A — “last day” devotion → asylum dread** (confidence: `LIKELY`)
+      - **Pages (ordered):** Pages/cains_jawbone_page_64.md → Pages/cains_jawbone_page_61.md
+      - **Why:**
+        - Pages/cains_jawbone_page_64.md frames an explicitly retrospective “last day” (“Afterwards I found it terrible to look back…”) while still grounding itself in an on-the-day reading/teaching beat (“put in his appearance to-day”; learning about Johnson tasting lotus with McLeod), ending in heightened fealty.
+        - Pages/cains_jawbone_page_61.md reads like aftermath: the narrator imagines their life “rather horribly” reversing the Great Lexicographer’s and fears being “locked in” at Broadmoor (“goal of my pilgrimage”), a tonal/intellectual crash that fits naturally after the “last day” realisation.
+        - Supportive boundary cues (Phase 5 use; supportive only): Pages/cains_jawbone_page_64.md shares the df==2 phrase `my people had` with Pages/cains_jawbone_page_57.md, while Pages/cains_jawbone_page_61.md shares the df==2 phrase `I had always been` with Pages/cains_jawbone_page_46.md — consistent with Pages/cains_jawbone_page_64.md being the earlier half of the `N04` pair.
+      - **Disconfirming evidence:**
+        - The “last day” on Pages/cains_jawbone_page_64.md is later anchored to an event that must occur *after* Pages/cains_jawbone_page_61.md’s Broadmoor/Colney Hatch reflections (forcing reversal).
+        - Another page-body instance of either df==2 phrase cue (`my people had` / `I had always been`) emerges, weakening the boundary-based direction support.
+  - **Next falsification check:** identify what “the last day” refers to on Pages/cains_jawbone_page_64.md (death, separation, last visit, last day at a place) and re-test whether Pages/cains_jawbone_page_61.md’s “there” location/animals (hen + sheep) implies a different day/setting that would reverse the order.
 
 - **Cluster:** Menu-title sweets (Lover’s Delight/Banana Split/Rainbow) (confidence: `MAYBE`)
   - **Pages:** Pages/cains_jawbone_page_43.md, Pages/cains_jawbone_page_60.md, Pages/cains_jawbone_page_63.md
