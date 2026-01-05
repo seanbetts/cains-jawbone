@@ -1921,6 +1921,12 @@ Delta from v2.30 (Phase 5 stitching; keep falsifiable):
   - **Status:** p71→p33 = `UNCLEAR` (placeholder join; treat as high-priority to replace).
   - **Replacement leads (block-level re-stitch):** p71→p98 via df==2 phrase family `thought of may` / `i thought of may`; p10→p33 via df==2 token `gourdoulis` + df==2 phrases `box of` / `a hundred`; p57→p33 via df==2 token `bits` + df==2 phrases `bits of` / `he read`. (All require re-stitching because these pages are currently pinned in other blocks.)
 
+- **Phase 6 test (2026-01-05; boundary falsification):** `Pages/cains_jawbone_page_85.md → Pages/cains_jawbone_page_49.md`
+  - **Predictions:** if this boundary is real, expect more than the shared name `Henry` + a generic phrase echo: at least one non-lexical continuity cue across the narrator switch (shared venue, shared prop/letter/food/drink, or a time-constraint cue that makes the cut meaningful).
+  - **Re-read outcome:** hard scene/voice break with no shared cast/prop/venue marker surfaced; page-body df==2 scan finds only the df==2 trigram `i was still` (no df==2 token anchors; no other shared df≤3 n‑grams n=2–6).
+  - **Status:** p85→p49 = `UNCLEAR` (placeholder join; treat as high-priority to replace).
+  - **Replacement leads (block-level re-stitch):** p85→p47 (`twin` + `and left`); p85→p90 (`jibe` + `a dog`); p49←p72 (`pleasant` + the `was pleasant to` phrase family); p49←p21 (`dazed`/`keep` + `to keep`); p49←p12 (`bowed` + `words of the poet`). (All require re-stitching because these pages are currently pinned in other blocks.)
+
 - **Block A (`N03` + `N40`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_32.md → Pages/cains_jawbone_page_3.md → Pages/cains_jawbone_page_30.md → Pages/cains_jawbone_page_23.md → Pages/cains_jawbone_page_24.md
 - **Block E (`N13`, confidence: `CERTAIN` internal):** Pages/cains_jawbone_page_86.md → Pages/cains_jawbone_page_87.md
 - **Block E2 (`N14`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_63.md → Pages/cains_jawbone_page_38.md
