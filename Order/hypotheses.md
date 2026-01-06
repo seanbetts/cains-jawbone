@@ -2170,9 +2170,106 @@ Delta from v2.32 (macro tail move; keep falsifiable):
 - **Block M (`N21`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_92.md → Pages/cains_jawbone_page_42.md
 - **Block M2 (bridge, confidence: `MAYBE`):** Pages/cains_jawbone_page_2.md → Pages/cains_jawbone_page_40.md → Pages/cains_jawbone_page_51.md
 
+### Proposed order (all 100 pages; v2.36)
+
+- **Status (2026-01-06):** `FAIL` (df==2 scan): introduces a zero-anchor block boundary `Pages/cains_jawbone_page_50.md → Pages/cains_jawbone_page_7.md` (`Block V → Block H`). Keep as documented attempt only.
+
+Delta from v2.34:
+
+- Adopt the v2.36 macro-chain idea by moving the full dog-run tail (`Block S → Block V0 → Block V`) to sit immediately after `Block O`, yielding the anchored join `Pages/cains_jawbone_page_89.md → Pages/cains_jawbone_page_22.md` (df==2 token `loved`) instead of the trigram-only `Pages/cains_jawbone_page_51.md → Pages/cains_jawbone_page_22.md`.
+- Tradeoff: this necessarily changes the post-tail successor from `Block V` (ending Pages/cains_jawbone_page_50.md) to whatever block follows; run a df==2 boundary scan to see whether it introduces a new zero-anchor block boundary.
+
+- **Phase 6 test (2026-01-06):** `python3 Scripts/scan_df2_boundaries.py --version v2.36 --mode block --list zero` → 1 zero-anchor boundary (`Pages/cains_jawbone_page_50.md → Pages/cains_jawbone_page_7.md`).
+
+- **Block A (`N03` + `N40`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_32.md → Pages/cains_jawbone_page_3.md → Pages/cains_jawbone_page_30.md → Pages/cains_jawbone_page_23.md → Pages/cains_jawbone_page_24.md
+- **Block E (`N13`, confidence: `CERTAIN` internal):** Pages/cains_jawbone_page_86.md → Pages/cains_jawbone_page_87.md
+- **Block E2 (`N14`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_63.md → Pages/cains_jawbone_page_38.md
+- **Block O1 (`N27`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_9.md
+- **Block Q (`N34`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_25.md
+- **Block Q2 (bridge, confidence: `MAYBE`):** Pages/cains_jawbone_page_27.md
+- **Block L (`N26`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_56.md → Pages/cains_jawbone_page_54.md
+- **Block B (`N25` merged run, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_33.md → Pages/cains_jawbone_page_34.md → Pages/cains_jawbone_page_52.md → Pages/cains_jawbone_page_53.md
+- **Block F (`N19`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_4.md → Pages/cains_jawbone_page_58.md → Pages/cains_jawbone_page_5.md
+- **Block C0 (`N28`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_81.md
+- **Block C (`N12` poison-logistics + Trinder chain, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_6.md → Pages/cains_jawbone_page_21.md → Pages/cains_jawbone_page_36.md → Pages/cains_jawbone_page_29.md → Pages/cains_jawbone_page_35.md → Pages/cains_jawbone_page_77.md → Pages/cains_jawbone_page_80.md → Pages/cains_jawbone_page_59.md → Pages/cains_jawbone_page_60.md
+- **Block L2 (`N26`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_71.md
+- **Block D (`N11`, confidence: `LIKELY` placement):** Pages/cains_jawbone_page_91.md
+- **Block D2 (`N18`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_78.md
+- **Block D3 (`N35`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_18.md
+- **Block D4 (`N34`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_20.md
+- **Block I2 (`N39`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_28.md
+- **Block J (`N08`, confidence: `MAYBE` internal):** Pages/cains_jawbone_page_15.md → Pages/cains_jawbone_page_82.md → Pages/cains_jawbone_page_94.md → Pages/cains_jawbone_page_16.md → Pages/cains_jawbone_page_85.md
+- **Block X (bridge, confidence: `MAYBE`):** Pages/cains_jawbone_page_47.md → Pages/cains_jawbone_page_76.md → Pages/cains_jawbone_page_98.md
+- **Block G (`N20` + `N21` bridge, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_49.md → Pages/cains_jawbone_page_13.md → Pages/cains_jawbone_page_31.md
+- **Block O (`N32`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_62.md → Pages/cains_jawbone_page_65.md → Pages/cains_jawbone_page_90.md → Pages/cains_jawbone_page_89.md
+- **Block S (`N02` dog POV (Aug run), confidence: `LIKELY` internal):** Pages/cains_jawbone_page_22.md → Pages/cains_jawbone_page_79.md → Pages/cains_jawbone_page_48.md → Pages/cains_jawbone_page_88.md → Pages/cains_jawbone_page_39.md → Pages/cains_jawbone_page_10.md → Pages/cains_jawbone_page_99.md → Pages/cains_jawbone_page_8.md → Pages/cains_jawbone_page_19.md → Pages/cains_jawbone_page_57.md → Pages/cains_jawbone_page_64.md → Pages/cains_jawbone_page_61.md → Pages/cains_jawbone_page_46.md
+- **Block V0 (bridge, confidence: `MAYBE`):** Pages/cains_jawbone_page_72.md → Pages/cains_jawbone_page_1.md
+- **Block V (`N10` + `N39`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_14.md → Pages/cains_jawbone_page_12.md → Pages/cains_jawbone_page_50.md
+- **Block H (`N16`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_7.md → Pages/cains_jawbone_page_45.md → Pages/cains_jawbone_page_26.md → Pages/cains_jawbone_page_44.md → Pages/cains_jawbone_page_55.md
+- **Block R (`N09`, confidence: `MAYBE` internal):** Pages/cains_jawbone_page_68.md → Pages/cains_jawbone_page_69.md
+- **Block H2 (`N37`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_84.md
+- **Block H1 (`N29`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_37.md
+- **Block K (`N07`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_97.md → Pages/cains_jawbone_page_93.md
+- **Block I (`N17`, confidence: `CERTAIN` internal):** Pages/cains_jawbone_page_41.md → Pages/cains_jawbone_page_11.md
+- **Block R2 (`N09` Café Royal/confession, confidence: `MAYBE` internal):** Pages/cains_jawbone_page_95.md → Pages/cains_jawbone_page_70.md
+- **Block N (`N01`, confidence: `MAYBE` internal):** Pages/cains_jawbone_page_96.md → Pages/cains_jawbone_page_17.md → Pages/cains_jawbone_page_43.md → Pages/cains_jawbone_page_100.md
+- **Block W (`N06`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_66.md → Pages/cains_jawbone_page_67.md → Pages/cains_jawbone_page_73.md → Pages/cains_jawbone_page_74.md → Pages/cains_jawbone_page_75.md → Pages/cains_jawbone_page_83.md
+- **Block M (`N21`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_92.md → Pages/cains_jawbone_page_42.md
+- **Block M2 (bridge, confidence: `MAYBE`):** Pages/cains_jawbone_page_2.md → Pages/cains_jawbone_page_40.md → Pages/cains_jawbone_page_51.md
+
+### Proposed order (all 100 pages; v2.37)
+
+- **Status (2026-01-06):** trial re-stitch; passes df==2 zero-anchor scan at block boundaries (0 zero).
+
+Delta from v2.36:
+
+- Replace the zero boundary `Block V → Block H` with a two-block bridge: `Block V → Block X → Block L2 → Block H` (anchors: `Pages/cains_jawbone_page_50.md → Pages/cains_jawbone_page_47.md` df==2 tokens `begin`, `straight`; `Pages/cains_jawbone_page_98.md → Pages/cains_jawbone_page_71.md` df==2 phrase `and more`; `Pages/cains_jawbone_page_71.md → Pages/cains_jawbone_page_7.md` df==2 token `odour`).
+- To free `Block L2` to act as the bridge, skip it earlier: `Block C → Block D` (anchor: `Pages/cains_jawbone_page_60.md → Pages/cains_jawbone_page_91.md` df==2 token `steps`).
+- To free `Block X` to act as the bridge, accept `Block J → Block G` (anchor: `Pages/cains_jawbone_page_85.md → Pages/cains_jawbone_page_49.md` df==2 trigram `i was still`) instead of `Block J → Block X`.
+
+- **Phase 6 test (2026-01-06):** `python3 Scripts/scan_df2_boundaries.py --version v2.37 --mode block --list zero` → 0 zero-anchor boundaries.
+- **Phase 6 triage:** treat the new weak joins as provisional and re-read at their boundaries: `Pages/cains_jawbone_page_85.md → Pages/cains_jawbone_page_49.md` (ngram-only) and `Pages/cains_jawbone_page_71.md → Pages/cains_jawbone_page_7.md` (single df==2 token).
+- **Falsifier(s):** any stronger predecessor/successor evidence (2+ independent anchors, or hard continuity) that excludes these joins should cause immediate rollback of v2.37.
+
+- **Block A (`N03` + `N40`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_32.md → Pages/cains_jawbone_page_3.md → Pages/cains_jawbone_page_30.md → Pages/cains_jawbone_page_23.md → Pages/cains_jawbone_page_24.md
+- **Block E (`N13`, confidence: `CERTAIN` internal):** Pages/cains_jawbone_page_86.md → Pages/cains_jawbone_page_87.md
+- **Block E2 (`N14`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_63.md → Pages/cains_jawbone_page_38.md
+- **Block O1 (`N27`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_9.md
+- **Block Q (`N34`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_25.md
+- **Block Q2 (bridge, confidence: `MAYBE`):** Pages/cains_jawbone_page_27.md
+- **Block L (`N26`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_56.md → Pages/cains_jawbone_page_54.md
+- **Block B (`N25` merged run, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_33.md → Pages/cains_jawbone_page_34.md → Pages/cains_jawbone_page_52.md → Pages/cains_jawbone_page_53.md
+- **Block F (`N19`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_4.md → Pages/cains_jawbone_page_58.md → Pages/cains_jawbone_page_5.md
+- **Block C0 (`N28`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_81.md
+- **Block C (`N12` poison-logistics + Trinder chain, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_6.md → Pages/cains_jawbone_page_21.md → Pages/cains_jawbone_page_36.md → Pages/cains_jawbone_page_29.md → Pages/cains_jawbone_page_35.md → Pages/cains_jawbone_page_77.md → Pages/cains_jawbone_page_80.md → Pages/cains_jawbone_page_59.md → Pages/cains_jawbone_page_60.md
+- **Block D (`N11`, confidence: `LIKELY` placement):** Pages/cains_jawbone_page_91.md
+- **Block D2 (`N18`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_78.md
+- **Block D3 (`N35`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_18.md
+- **Block D4 (`N34`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_20.md
+- **Block I2 (`N39`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_28.md
+- **Block J (`N08`, confidence: `MAYBE` internal):** Pages/cains_jawbone_page_15.md → Pages/cains_jawbone_page_82.md → Pages/cains_jawbone_page_94.md → Pages/cains_jawbone_page_16.md → Pages/cains_jawbone_page_85.md
+- **Block G (`N20` + `N21` bridge, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_49.md → Pages/cains_jawbone_page_13.md → Pages/cains_jawbone_page_31.md
+- **Block O (`N32`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_62.md → Pages/cains_jawbone_page_65.md → Pages/cains_jawbone_page_90.md → Pages/cains_jawbone_page_89.md
+- **Block S (`N02` dog POV (Aug run), confidence: `LIKELY` internal):** Pages/cains_jawbone_page_22.md → Pages/cains_jawbone_page_79.md → Pages/cains_jawbone_page_48.md → Pages/cains_jawbone_page_88.md → Pages/cains_jawbone_page_39.md → Pages/cains_jawbone_page_10.md → Pages/cains_jawbone_page_99.md → Pages/cains_jawbone_page_8.md → Pages/cains_jawbone_page_19.md → Pages/cains_jawbone_page_57.md → Pages/cains_jawbone_page_64.md → Pages/cains_jawbone_page_61.md → Pages/cains_jawbone_page_46.md
+- **Block V0 (bridge, confidence: `MAYBE`):** Pages/cains_jawbone_page_72.md → Pages/cains_jawbone_page_1.md
+- **Block V (`N10` + `N39`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_14.md → Pages/cains_jawbone_page_12.md → Pages/cains_jawbone_page_50.md
+- **Block X (bridge, confidence: `MAYBE`):** Pages/cains_jawbone_page_47.md → Pages/cains_jawbone_page_76.md → Pages/cains_jawbone_page_98.md
+- **Block L2 (`N26`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_71.md
+- **Block H (`N16`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_7.md → Pages/cains_jawbone_page_45.md → Pages/cains_jawbone_page_26.md → Pages/cains_jawbone_page_44.md → Pages/cains_jawbone_page_55.md
+- **Block R (`N09`, confidence: `MAYBE` internal):** Pages/cains_jawbone_page_68.md → Pages/cains_jawbone_page_69.md
+- **Block H2 (`N37`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_84.md
+- **Block H1 (`N29`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_37.md
+- **Block K (`N07`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_97.md → Pages/cains_jawbone_page_93.md
+- **Block I (`N17`, confidence: `CERTAIN` internal):** Pages/cains_jawbone_page_41.md → Pages/cains_jawbone_page_11.md
+- **Block R2 (`N09` Café Royal/confession, confidence: `MAYBE` internal):** Pages/cains_jawbone_page_95.md → Pages/cains_jawbone_page_70.md
+- **Block N (`N01`, confidence: `MAYBE` internal):** Pages/cains_jawbone_page_96.md → Pages/cains_jawbone_page_17.md → Pages/cains_jawbone_page_43.md → Pages/cains_jawbone_page_100.md
+- **Block W (`N06`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_66.md → Pages/cains_jawbone_page_67.md → Pages/cains_jawbone_page_73.md → Pages/cains_jawbone_page_74.md → Pages/cains_jawbone_page_75.md → Pages/cains_jawbone_page_83.md
+- **Block M (`N21`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_92.md → Pages/cains_jawbone_page_42.md
+- **Block M2 (bridge, confidence: `MAYBE`):** Pages/cains_jawbone_page_2.md → Pages/cains_jawbone_page_40.md → Pages/cains_jawbone_page_51.md
+
 ### Phase 6 macro re-stitch candidate (2026-01-06; v2.36 draft chain)
 
-- **Status:** candidate chain only (not integrated into a full `Proposed order`); keep as a replacement blueprint for two of the v2.32 trigram-only joins.
+- **Status:** superseded by the integrated `v2.36` full-order draft above; keep this as rationale + anchor inventory.
 - **Goal:** eliminate `Pages/cains_jawbone_page_85.md → Pages/cains_jawbone_page_49.md` and `Pages/cains_jawbone_page_51.md → Pages/cains_jawbone_page_22.md` by rehoming blocks so the transitions are anchored by df==2 tokens and strong low-df n‑grams.
 - **Candidate chain (block-level):**
   - `Pages/cains_jawbone_page_16.md → Pages/cains_jawbone_page_85.md → Pages/cains_jawbone_page_47.md → Pages/cains_jawbone_page_76.md → Pages/cains_jawbone_page_98.md → Pages/cains_jawbone_page_49.md → Pages/cains_jawbone_page_13.md → Pages/cains_jawbone_page_31.md → Pages/cains_jawbone_page_62.md → Pages/cains_jawbone_page_65.md → Pages/cains_jawbone_page_90.md → Pages/cains_jawbone_page_89.md → Pages/cains_jawbone_page_22.md` (then continue with the existing internal dog-run `Block S`).
