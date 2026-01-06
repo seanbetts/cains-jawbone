@@ -20,7 +20,8 @@ I always feel a bit dazed on these occasions, and was so then. But it was pleasa
   - Phase 3 micro-pass (2026-01-05): body-only df==2 token overlaps: `developing` (Pages/cains_jawbone_page_8.md), `bowed` (Pages/cains_jawbone_page_12.md), `dazed`/`keep` (Pages/cains_jawbone_page_21.md), `hairs` (Pages/cains_jawbone_page_33.md), `ordinary` (Pages/cains_jawbone_page_50.md), `chin` (Pages/cains_jawbone_page_53.md), `silent` (Pages/cains_jawbone_page_58.md), `soul` (Pages/cains_jawbone_page_67.md), `collect` (Pages/cains_jawbone_page_69.md), `pleasant` (Pages/cains_jawbone_page_72.md), `simple` (Pages/cains_jawbone_page_98.md). Treat as overlap-only unless reinforced by a second independent anchor.
 - **Voice/tells:**
   - “simple soul” register but highly allusive (poet quotation).
-  - MAYBE: overlaps `N21` (repeated “dazed” + Henry-infatuation register) more than `N20`’s grim-scene/class register; keep narrator assignment falsifiable because the Blake quote continues into Pages/cains_jawbone_page_13.md.
+  - LIKELY: `N21` voice (repeated “I always…” + dazedness + Henry-infatuation + “simple soul” self-casting).
+  - The Blake quote continuation into Pages/cains_jawbone_page_13.md is treated as a cross-narrator placement constraint (not narrator-merger evidence).
 - **Clustering hypotheses:**
   - CERTAIN: add to Henry-occurrence cluster.
   - MAYBE: overlaps with Pages/cains_jawbone_page_21.md via body-only df==2 bundle `dazed` + `keep` (+ bigram `to keep`); treat as a narrator/strand overlap lead only unless reinforced by a second independent anchor.
