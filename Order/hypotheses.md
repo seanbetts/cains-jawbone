@@ -1980,10 +1980,10 @@ Delta from v2.30 (Phase 5 stitching; keep falsifiable):
   - **Status:** p83→p92 = `UNCLEAR` (placeholder join; treat as high-priority to replace).
   - **Replacement leads (block-level re-stitch):** p83→p70 (`leaving` + `leaving me`); p92←p55 (`groped`; `had groped`) and p92 has additional low-df overlaps with other “Henry” pages (e.g., df==2 token `knee` with p70). (All require re-stitching because these pages are currently pinned in other blocks.)
 
-- **Phase 6 status (2026-01-05):** v2.32 boundary sweep completed.
+- **Phase 6 status (2026-01-05):** v2.32 worst-boundary micro-sweep completed.
   - **Upgraded to `PASS`:** p24→p86 (explicit “Next day …” + Caroline continuity); p27→p56 (shared morning/breakfast frame + `tiny`/`a tiny`).
-  - **Still `UNCLEAR` (single-anchor placeholders):** p25→p27 (`woke`), p71→p33 (`it seemed to`), p85→p49 (`i was still`), p51→p22 (`as i was`), p37→p97 (`thing i had`), p38→p9 (`fortnight`), p9→p25 (`earth`), p69→p84 (`bus`), p70→p96 (`poem`), p100→p66 (`smiling`), p83→p92 (`dew`).
-  - **Next move (recommended):** run one minimal trial re-stitch to eliminate one trigram-only join without introducing a new zero-anchor boundary; if that stalls, request a short Phase 3 micro-pass (narrator profiling) and/or Phase 2 micro-pass (targeted research) scoped to the weakest joins above.
+  - **High-priority `UNCLEAR` 1-anchor boundaries include:** p25→p27 (`woke`), p71→p33 (`it seemed to`), p85→p49 (`i was still`), p51→p22 (`as i was`), p37→p97 (`thing i had`), p38→p9 (`fortnight`), p9→p25 (`earth`), p69→p84 (`bus`), p70→p96 (`poem`), p100→p66 (`smiling`), p83→p92 (`dew`).
+  - **Next move (recommended):** run one minimal trial re-stitch to eliminate one trigram-only join without introducing a new zero-anchor boundary; if that stalls, request a short Phase 3 micro-pass (narrator profiling) and/or Phase 2 micro-pass (targeted research) scoped to the remaining v2.32 1‑anchor joins (see join ledger).
 
 - **Block A (`N03` + `N40`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_32.md → Pages/cains_jawbone_page_3.md → Pages/cains_jawbone_page_30.md → Pages/cains_jawbone_page_23.md → Pages/cains_jawbone_page_24.md
 - **Block E (`N13`, confidence: `CERTAIN` internal):** Pages/cains_jawbone_page_86.md → Pages/cains_jawbone_page_87.md
