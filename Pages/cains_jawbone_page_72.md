@@ -15,6 +15,7 @@ Of course I was sorry to say good-bye to old Medehamstede ; but it was pleasant 
   - Phase 6 update (2026-01-02): page-body overlap scan confirms the 5‑gram `but it was pleasant to` plus the token `pleasant` are unique to this page ↔ Pages/cains_jawbone_page_49.md, giving a multi-anchor lexical bridge; no shared prop/cast/place/quote continuity yet → treat as a provisional re-stitch lead (not a lock).
 - **Voice/tells:**
   - Meta-fictional, cynical about romance conventions; self-identifies life as “short stories”.
+  - Despite the strong lexical overlap with Pages/cains_jawbone_page_49.md (`but it was pleasant to`), this voice reads distinct; treat as cross-narrator overlap unless a second continuity anchor appears.
 - **Clustering hypotheses:**
   - MAYBE: links to other “papers/magazine/story” narrators; hold until more anchors.
 - **Disconfirming evidence:**
