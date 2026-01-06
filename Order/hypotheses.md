@@ -2169,6 +2169,23 @@ Delta from v2.32 (macro tail move; keep falsifiable):
 - **Block W (`N06`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_66.md → Pages/cains_jawbone_page_67.md → Pages/cains_jawbone_page_73.md → Pages/cains_jawbone_page_74.md → Pages/cains_jawbone_page_75.md → Pages/cains_jawbone_page_83.md
 - **Block M (`N21`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_92.md → Pages/cains_jawbone_page_42.md
 - **Block M2 (bridge, confidence: `MAYBE`):** Pages/cains_jawbone_page_2.md → Pages/cains_jawbone_page_40.md → Pages/cains_jawbone_page_51.md
+
+### Phase 6 macro re-stitch candidate (2026-01-06; v2.36 draft chain)
+
+- **Status:** candidate chain only (not integrated into a full `Proposed order`); keep as a replacement blueprint for two of the v2.32 trigram-only joins.
+- **Goal:** eliminate `Pages/cains_jawbone_page_85.md → Pages/cains_jawbone_page_49.md` and `Pages/cains_jawbone_page_51.md → Pages/cains_jawbone_page_22.md` by rehoming blocks so the transitions are anchored by df==2 tokens and strong low-df n‑grams.
+- **Candidate chain (block-level):**
+  - `Pages/cains_jawbone_page_16.md → Pages/cains_jawbone_page_85.md → Pages/cains_jawbone_page_47.md → Pages/cains_jawbone_page_76.md → Pages/cains_jawbone_page_98.md → Pages/cains_jawbone_page_49.md → Pages/cains_jawbone_page_13.md → Pages/cains_jawbone_page_31.md → Pages/cains_jawbone_page_62.md → Pages/cains_jawbone_page_65.md → Pages/cains_jawbone_page_90.md → Pages/cains_jawbone_page_89.md → Pages/cains_jawbone_page_22.md` (then continue with the existing internal dog-run `Block S`).
+  - (If also adopted) extend with `… → Pages/cains_jawbone_page_46.md → Pages/cains_jawbone_page_72.md → Pages/cains_jawbone_page_1.md → Pages/cains_jawbone_page_14.md → Pages/cains_jawbone_page_12.md → Pages/cains_jawbone_page_50.md → Pages/cains_jawbone_page_66.md …` to preserve the strongest internal tail locks while avoiding a `p98→<unknown>` zero-anchor boundary.
+- **Anchors introduced at the key replaced joins:**
+  - `Pages/cains_jawbone_page_85.md → Pages/cains_jawbone_page_47.md`: df==2 token `twin` (+ df==2 bigram `and left`).
+  - `Pages/cains_jawbone_page_98.md → Pages/cains_jawbone_page_49.md`: df==2 token `simple`.
+  - `Pages/cains_jawbone_page_31.md → Pages/cains_jawbone_page_62.md`: df==2 token `square`.
+  - `Pages/cains_jawbone_page_89.md → Pages/cains_jawbone_page_22.md`: df==2 token `loved`.
+  - Extension locks: `Pages/cains_jawbone_page_46.md → Pages/cains_jawbone_page_72.md` (df==2 4‑gram `of course i was`); `Pages/cains_jawbone_page_1.md → Pages/cains_jawbone_page_14.md` (df==2 4‑gram `none of my business`); `Pages/cains_jawbone_page_50.md → Pages/cains_jawbone_page_66.md` (df==2 token `neither`).
+- **Primary risks / falsifiers (what would break this):**
+  - Re-read shows hard narrator/scene breaks at `Pages/cains_jawbone_page_98.md → Pages/cains_jawbone_page_49.md` or `Pages/cains_jawbone_page_89.md → Pages/cains_jawbone_page_22.md` *and* no second independent continuity anchor (prop/place/time) can be found (lexical-only not sufficient for adoption).
+  - The N32 internal ordering (`Pages/cains_jawbone_page_62.md`, `Pages/cains_jawbone_page_65.md`, `Pages/cains_jawbone_page_90.md`, `Pages/cains_jawbone_page_89.md`) proves direction-locked in a way that makes the chain incompatible without introducing a new zero-anchor boundary elsewhere.
 ### Phase 6 boundary tests for v2.30 (block boundaries)
 
 - **Phase 6 scan (2026-01-04):** recomputed df==2 token/ngram overlaps for v2.30 *block-boundary* adjacencies (page-body only; Notes ignored). v2.30 retains the v2.29 zero-boundary elimination, but replaces the weakest permutation gate `Pages/cains_jawbone_page_70.md → Pages/cains_jawbone_page_84.md` by splitting `Block R` and relocating the Café Royal/confession pair `Pages/cains_jawbone_page_95.md → Pages/cains_jawbone_page_70.md` to sit after `Block I`. Key new boundary anchors include `Pages/cains_jawbone_page_69.md → Pages/cains_jawbone_page_84.md` (`bus`), `Pages/cains_jawbone_page_11.md → Pages/cains_jawbone_page_95.md` (df==2 phrase `what to do`), and `Pages/cains_jawbone_page_70.md → Pages/cains_jawbone_page_96.md` (df==2 token `poem`), while preserving the prior non-zero gates `Pages/cains_jawbone_page_100.md → Pages/cains_jawbone_page_66.md` (`smiling`), `Pages/cains_jawbone_page_83.md → Pages/cains_jawbone_page_92.md` (`dew`), and `Pages/cains_jawbone_page_42.md → Pages/cains_jawbone_page_2.md` (`figures`/`surmised`). The df==2 scan flags **no** v2.30 block-boundary adjacencies with zero shared df==2 token anchors and zero shared df==2 n‑gram anchors.
