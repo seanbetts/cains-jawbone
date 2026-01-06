@@ -24,6 +24,7 @@ Death’s clumsy fingered, that was the really frightful thing : I had seen them
 - **Clustering hypotheses:**
   - MAYBE: fits the “jasmine” motif thread (Pages/cains_jawbone_page_10.md, Pages/cains_jawbone_page_22.md, Pages/cains_jawbone_page_24.md).
   - MAYBE: overlaps Pages/cains_jawbone_page_27.md via the “Death… fingered” metaphor + Shrewsbury lock‑up/prison “this time” hearing contrast.
+  - MAYBE: if a draft places this adjacent to Pages/cains_jawbone_page_97.md due to the lexical overlap `thing i had`, treat it as a cross-narrator boundary (ornate art-world anxiety voice ↔ Bunny/Perry pills/internal-debate voice) unless a second, non-generic continuity anchor appears.
 - **Disconfirming evidence:**
   - If “bores/chambers” proves unrelated to a weapon/evidence mechanism.
 - **Research needed:**
