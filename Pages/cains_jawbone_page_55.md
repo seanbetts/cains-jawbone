@@ -7,6 +7,7 @@ The picture of the Old Mill at Bramley, with its medlar tree overhanging the wat
 - **Time markers:**
   - CERTAIN: “the day before”; “to-day”.
   - CERTAIN: “English holiday… like that other fifth… James… the Earl and his brother Alexander” → Gowrie Conspiracy (James VI; Earl of Gowrie + brother Alexander Ruthven) = Aug 5, 1600 (Nuttall Encyclopaedia, “Gowrie Conspiracy”).
+  - LIKELY: “that other fifth” = Guy Fawkes night (Nov 5), another conspiracy-derived English observance; supports reading “to-day” as a fifth-of-month calendar hook (cf. Pages/cains_jawbone_page_62.md).
 - **Entities:**
   - CERTAIN: James VI (Gowrie Conspiracy allusion; “got off”).
   - CERTAIN: the Earl of Gowrie + his brother Alexander Ruthven (Gowrie Conspiracy allusion; “emphatically not”).
