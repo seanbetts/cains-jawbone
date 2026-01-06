@@ -271,7 +271,7 @@ _None currently._
 
 Directionless mapping from each constraint pair to narrator IDs (useful for cross-narrator joins).
 
-- **Cross-narrator constraints (current):** Pages/cains_jawbone_page_12.md ↔ Pages/cains_jawbone_page_50.md (`N10` ↔ `N39`); Pages/cains_jawbone_page_12.md ↔ Pages/cains_jawbone_page_75.md (`N10` ↔ `N06`); Pages/cains_jawbone_page_23.md ↔ Pages/cains_jawbone_page_24.md (`N40` ↔ `N03`); Pages/cains_jawbone_page_4.md ↔ Pages/cains_jawbone_page_100.md (`N19` ↔ `N24`; merge candidate: `N24` → `N01`); Pages/cains_jawbone_page_4.md ↔ Pages/cains_jawbone_page_21.md (`N19` ↔ `N12`); Pages/cains_jawbone_page_10.md ↔ Pages/cains_jawbone_page_33.md (`N02` ↔ `N25`).
+- **Cross-narrator constraints (current):** Pages/cains_jawbone_page_12.md ↔ Pages/cains_jawbone_page_50.md (`N10` ↔ `N39`); Pages/cains_jawbone_page_12.md ↔ Pages/cains_jawbone_page_75.md (`N10` ↔ `N06`); Pages/cains_jawbone_page_23.md ↔ Pages/cains_jawbone_page_24.md (`N40` ↔ `N03`); Pages/cains_jawbone_page_4.md ↔ Pages/cains_jawbone_page_100.md (`N19` ↔ `N24`; merge candidate: `N24` → `N01`); Pages/cains_jawbone_page_4.md ↔ Pages/cains_jawbone_page_21.md (`N19` ↔ `N12`); Pages/cains_jawbone_page_10.md ↔ Pages/cains_jawbone_page_33.md (`N02` ↔ `N25`); Pages/cains_jawbone_page_49.md ↔ Pages/cains_jawbone_page_13.md (`N21` ↔ `N20`).
 - Pages/cains_jawbone_page_4.md ↔ Pages/cains_jawbone_page_100.md — Narrator(s): N19 ↔ N24 (merge candidate: `N24` → `N01`) (confidence: `MAYBE`)
 - Pages/cains_jawbone_page_4.md ↔ Pages/cains_jawbone_page_21.md — Narrator(s): N19 ↔ N12 (confidence: `MAYBE`)
 - Pages/cains_jawbone_page_5.md ↔ Pages/cains_jawbone_page_58.md — Narrator(s): N19 (confidence: `CERTAIN`)
@@ -290,7 +290,7 @@ Directionless mapping from each constraint pair to narrator IDs (useful for cros
 - Pages/cains_jawbone_page_12.md ↔ Pages/cains_jawbone_page_50.md — Narrator(s): N10 ↔ N39 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_12.md ↔ Pages/cains_jawbone_page_75.md — Narrator(s): N10 ↔ N06 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_13.md ↔ Pages/cains_jawbone_page_31.md — Narrator(s): N20 (confidence: `CERTAIN`)
-- Pages/cains_jawbone_page_13.md ↔ Pages/cains_jawbone_page_49.md — Narrator(s): N20 (confidence: `CERTAIN`)
+- Pages/cains_jawbone_page_13.md ↔ Pages/cains_jawbone_page_49.md — Narrator(s): N20 ↔ N21 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_17.md ↔ Pages/cains_jawbone_page_43.md — Narrator(s): N01 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_21.md ↔ Pages/cains_jawbone_page_36.md — Narrator(s): N12 (confidence: `CERTAIN`)
 - Pages/cains_jawbone_page_22.md ↔ Pages/cains_jawbone_page_79.md — Narrator(s): N02 (confidence: `CERTAIN`)
@@ -425,7 +425,7 @@ These are **cross-narrator** groupings intended to reduce the search space for P
   - **Rationale:** These pages share a crime/detection frame (explicitly or via detective canon allusions) and/or hands-on violence/corpse familiarity, often with London-police texture.
   - **Key anchors:** Sherlock/Mycroft and Sexton Blake; “Scotland Yard”; “Black Museum”; “Speckled Band” riff; window-throw vignette; “carnal, bloody and unnatural acts” frame.
   - **Sub-strands (working):**
-    - `N20` (Bloomsbury/nomenclature + grim-scene): Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_31.md, Pages/cains_jawbone_page_49.md
+    - `N20` (Bloomsbury/nomenclature + grim-scene): Pages/cains_jawbone_page_13.md, Pages/cains_jawbone_page_31.md
     - `N08` (King narrator; Holmes/Blake + clock/transform habits): Pages/cains_jawbone_page_82.md, Pages/cains_jawbone_page_85.md, Pages/cains_jawbone_page_94.md
     - `N11` (De’Ath / “Black Museum”): Pages/cains_jawbone_page_91.md
     - `N24` (Scotland Yard collapse / Kursaal): Pages/cains_jawbone_page_100.md
@@ -441,7 +441,7 @@ These are **cross-narrator** groupings intended to reduce the search space for P
   - **Rationale:** A shared social-register cluster: art-world and literary name-dropping, sensual description (hair/eyes/legs), and “soigné” interior scenes, with repeated jasmine and Wilde/Whistler anchoring.
   - **Key anchors:** post‑Vorticists private view; Ronald Firbank; Wilde/Whistler “You will, Oscar, you will”; “soigné” parquet venue; yellow-jasmine/Barbara description; dessert-order banter + attribution obsession.
   - **Sub-strands (working):**
-    - `N21` (dazed infatuation + bar/tea imagery): Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_92.md, Pages/cains_jawbone_page_47.md
+    - `N21` (dazed infatuation + bar/tea imagery): Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_49.md, Pages/cains_jawbone_page_92.md, Pages/cains_jawbone_page_47.md
     - `N32` (“Type” classifier / Wilde-allusion voice): Pages/cains_jawbone_page_62.md, Pages/cains_jawbone_page_65.md, Pages/cains_jawbone_page_89.md, Pages/cains_jawbone_page_90.md
     - `N01` (Aquarius pen / “Ecky” bar voice): Pages/cains_jawbone_page_1.md, Pages/cains_jawbone_page_17.md, Pages/cains_jawbone_page_43.md
     - `N06` (school/Head + art register): Pages/cains_jawbone_page_66.md, Pages/cains_jawbone_page_67.md
@@ -856,12 +856,12 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - Any additional phrase-level continuation or “now/then” marker ties Pages/cains_jawbone_page_31.md directly as a reaction to Pages/cains_jawbone_page_13.md’s two-body tableau (making Pages/cains_jawbone_page_13.md → Pages/cains_jawbone_page_31.md the more natural internal order).
   - **Placement note (Phase 4):** treat `Pages/cains_jawbone_page_49.md → Pages/cains_jawbone_page_13.md` as an adjacency-like quote-continuation lock; treat `Pages/cains_jawbone_page_13.md → Pages/cains_jawbone_page_31.md` as a strong within-incident order but not a forced adjacency (word n‑grams 3–8: only the generic 3‑gram `i would have`; none longer).
   - **Phase 4 check (2026-01-05):** page-body word n‑gram scan (n=3–8) for Pages/cains_jawbone_page_13.md ↔ Pages/cains_jawbone_page_31.md found only the generic 3‑gram `i would have` and **zero** overlaps 4–8.
-  - **Resolved check:** Pages/cains_jawbone_page_13.md’s “conduit dating from 1597… in the market place” is a high-signal Grantham anchor; treat Pages/cains_jawbone_page_31.md’s “in this very place” as referring to the same Grantham setting within the `N20` incident, supporting continuity with the Pages/cains_jawbone_page_49.md ↔ Pages/cains_jawbone_page_13.md Blake lock (direction resolved in Phase 4).
-  - **Falsification check (2025-12-25):** scanned all page bodies for the unique N20 anchors (“Bloomsbury”, “Newdigate”, “conduit dating from 1597”, “nomenclature”, “Caseus”, “hip pocket”) and found no third-page matches beyond Pages/cains_jawbone_page_13.md and Pages/cains_jawbone_page_31.md; Pages/cains_jawbone_page_49.md is retained only via the Blake quote-continuation lock into Pages/cains_jawbone_page_13.md.
-  - **Next falsification check:** only expand `N20` beyond Pages/cains_jawbone_page_49.md if a candidate page shares 2+ of the specific N20 anchors (not just generic Henry presence).
+  - **Resolved check:** Pages/cains_jawbone_page_13.md’s “conduit dating from 1597… in the market place” is a high-signal Grantham anchor; treat Pages/cains_jawbone_page_31.md’s “in this very place” as referring to the same Grantham setting within the `N20` incident, supporting continuity with the Pages/cains_jawbone_page_49.md → Pages/cains_jawbone_page_13.md Blake quote-continuation lock (cross-narrator bridge: `N21` → `N20`; direction resolved in Phase 4).
+  - **Falsification check (2025-12-25):** scanned all page bodies for the unique N20 anchors (“Bloomsbury”, “Newdigate”, “conduit dating from 1597”, “nomenclature”, “Caseus”, “hip pocket”) and found no third-page matches beyond Pages/cains_jawbone_page_13.md and Pages/cains_jawbone_page_31.md; Pages/cains_jawbone_page_49.md is treated as `N21` voice and placed before Pages/cains_jawbone_page_13.md only via the Blake quote-continuation lock (cross-narrator), not as `N20` membership.
+  - **Next falsification check:** only expand `N20` beyond Pages/cains_jawbone_page_13.md and Pages/cains_jawbone_page_31.md if a candidate page shares 2+ of the specific N20 anchors (not just generic Henry presence).
 
 - **Cluster:** `N21` Dazed infatuation + bar/tea imagery voice (confidence: `LIKELY`)
-  - **Pages:** Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_92.md, Pages/cains_jawbone_page_47.md
+  - **Pages:** Pages/cains_jawbone_page_42.md, Pages/cains_jawbone_page_92.md, Pages/cains_jawbone_page_47.md, Pages/cains_jawbone_page_49.md
   - **Rationale:** A recurring narrator signature combines self-described dazedness with sensual fixation on surfaces/hair and a social drink/tea register, with Henry repeatedly serving as the axis of fascination or correction.
   - **Key anchors:** “electrically aware” bar presence; cocktail after cocktail + cigarette; Kipling pre‑Rains verandah quote (“dead, hot, close air… black-blue clouds”); “I always feel a bit dazed”; Henry policing diction (“got me”); Browning “Saul” excerpt + “what Henry would think of next” anticipation.
   - **Disconfirming evidence:** these are shown to be separate narrators sharing only general “sensual description” tropes.
@@ -881,7 +881,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
       - **Disconfirming evidence:**
         - Pages/cains_jawbone_page_47.md’s “she” is shown to be a different woman than Pages/cains_jawbone_page_42.md’s “Julienne?” figure, or the tea/menu items (“Orange Pekoe” / “Special Orange Supreme”) are anchored to an incompatible venue/date that cannot follow the bar/cocktail scene.
   - **Placement note (Phase 4):** treat `Pages/cains_jawbone_page_92.md → Pages/cains_jawbone_page_42.md` as the only adjacency-like lock (continued Browning stanza). Pages/cains_jawbone_page_47.md remains weakly anchored by voice/register only; if ordering within `N21`, prefer `Pages/cains_jawbone_page_92.md → Pages/cains_jawbone_page_42.md → Pages/cains_jawbone_page_47.md` as a `MAYBE` within-voice **order-only** constraint (do not force adjacency for the Pages/cains_jawbone_page_42.md → Pages/cains_jawbone_page_47.md join).
-  - **Membership note:** Pages/cains_jawbone_page_49.md is treated under `N20` due to the Blake quote-continuation lock into Pages/cains_jawbone_page_13.md; keep it as a cross-cluster constraint rather than `N21` membership.
+  - **Membership note:** Pages/cains_jawbone_page_49.md is treated as `N21` voice; the Blake quote-continuation lock into Pages/cains_jawbone_page_13.md is treated as a cross-narrator placement constraint (`N21` → `N20`), not narrator-merger evidence.
   - **Resolved check:** searched for a phrase-level/attribute-level repeat tying Pages/cains_jawbone_page_47.md’s “she” to Pages/cains_jawbone_page_42.md’s tall “Julienne?” (e.g., “electrically aware”, “golden lashes”, “jaguar on a lean bough”, “mirabile dictu”, “butterfly of white lace”, “cocktail after cocktail”) and found no second anchor beyond Henry-in-scene + generic infatuation language; treat Pages/cains_jawbone_page_47.md as core `N21` voice evidence but not an adjacency lock.
   - **Resolved check:** searched corpus for non-generic Pages/cains_jawbone_page_47.md anchors (“Orange Pekoe”, “Special Orange Supreme”, “terrible conjunction of two little words”, Babs, “silver frogs”) and found them unique to Pages/cains_jawbone_page_47.md (no repeats on Pages/cains_jawbone_page_92.md / Pages/cains_jawbone_page_42.md or elsewhere), so no additional adjacency evidence emerged.
   - **Phase 4 check (2026-01-05):** page-body word n‑gram scan (n=3–8) found **zero** shared n‑grams between Pages/cains_jawbone_page_47.md and Pages/cains_jawbone_page_92.md/Pages/cains_jawbone_page_42.md → treat Pages/cains_jawbone_page_47.md placement as narrative-logic only (`MAYBE`), not an adjacency-like lock.
@@ -1802,7 +1802,7 @@ Purpose: provide a **single full 100-page ordering** that satisfies the current 
 - **Segment C (`N11`, confidence: `LIKELY` placement):** Pages/cains_jawbone_page_91.md
 - **Segment D (`N13`, confidence: `CERTAIN` internal):** Pages/cains_jawbone_page_86.md → Pages/cains_jawbone_page_87.md
 - **Segment E (`N19`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_4.md → Pages/cains_jawbone_page_58.md → Pages/cains_jawbone_page_5.md
-- **Segment F (`N20`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_49.md → Pages/cains_jawbone_page_13.md → Pages/cains_jawbone_page_31.md
+- **Segment F (`N20` + `N21` bridge, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_49.md → Pages/cains_jawbone_page_13.md → Pages/cains_jawbone_page_31.md
 - **Segment G (`N16`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_7.md → Pages/cains_jawbone_page_45.md → Pages/cains_jawbone_page_26.md → Pages/cains_jawbone_page_44.md → Pages/cains_jawbone_page_55.md
 - **Segment H (`N17`, confidence: `CERTAIN` internal):** Pages/cains_jawbone_page_41.md → Pages/cains_jawbone_page_11.md
 - **Segment I (`N08`, confidence: `MAYBE` internal):** Pages/cains_jawbone_page_15.md → Pages/cains_jawbone_page_82.md → Pages/cains_jawbone_page_94.md → Pages/cains_jawbone_page_16.md → Pages/cains_jawbone_page_85.md
@@ -1839,7 +1839,7 @@ Key changes vs v1:
 - **Block D (`N11`, confidence: `LIKELY` placement):** Pages/cains_jawbone_page_91.md
 - **Block E (`N13`, confidence: `CERTAIN` internal):** Pages/cains_jawbone_page_86.md → Pages/cains_jawbone_page_87.md
 - **Block F (`N19`, confidence: `MAYBE` internal):** Pages/cains_jawbone_page_58.md → Pages/cains_jawbone_page_5.md (Pages/cains_jawbone_page_4.md: co-clustered, unplaced)
-- **Block G (`N20`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_49.md → Pages/cains_jawbone_page_13.md (Pages/cains_jawbone_page_31.md: within-incident follow-on, unplaced adjacency)
+- **Block G (`N20` + `N21` bridge, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_49.md → Pages/cains_jawbone_page_13.md (Pages/cains_jawbone_page_31.md: within-incident follow-on, unplaced adjacency)
 - **Block H (`N16`, confidence: `MAYBE` internal):** Pages/cains_jawbone_page_7.md → Pages/cains_jawbone_page_45.md → Pages/cains_jawbone_page_26.md → Pages/cains_jawbone_page_44.md (Pages/cains_jawbone_page_55.md: edge-fit, unplaced)
 - **Block I (`N17`, confidence: `CERTAIN` internal):** Pages/cains_jawbone_page_41.md → Pages/cains_jawbone_page_11.md
 - **Block J (`N08`, confidence: `MAYBE` internal):** Pages/cains_jawbone_page_94.md → Pages/cains_jawbone_page_85.md (Pages/cains_jawbone_page_15.md, Pages/cains_jawbone_page_82.md: order-only; placement flexible)
@@ -1875,7 +1875,7 @@ Delta from v2 (Phase 5 consolidation; keep falsifiable):
 - **Block C (`N12` poison-logistics + Trinder chain, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_6.md → Pages/cains_jawbone_page_21.md → Pages/cains_jawbone_page_36.md → Pages/cains_jawbone_page_29.md → Pages/cains_jawbone_page_35.md → Pages/cains_jawbone_page_80.md → Pages/cains_jawbone_page_59.md → Pages/cains_jawbone_page_60.md
 - **Block D (`N11`, confidence: `LIKELY` placement):** Pages/cains_jawbone_page_91.md
 - **Block E (`N13`, confidence: `CERTAIN` internal):** Pages/cains_jawbone_page_86.md → Pages/cains_jawbone_page_87.md
-- **Block G (`N20`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_49.md → Pages/cains_jawbone_page_13.md (Pages/cains_jawbone_page_31.md: within-incident follow-on, unplaced adjacency)
+- **Block G (`N20` + `N21` bridge, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_49.md → Pages/cains_jawbone_page_13.md (Pages/cains_jawbone_page_31.md: within-incident follow-on, unplaced adjacency)
 - **Block H (`N16`, confidence: `MAYBE` internal):** Pages/cains_jawbone_page_7.md → Pages/cains_jawbone_page_45.md → Pages/cains_jawbone_page_26.md → Pages/cains_jawbone_page_44.md (Pages/cains_jawbone_page_55.md: edge-fit, unplaced)
 - **Block I (`N17`, confidence: `CERTAIN` internal):** Pages/cains_jawbone_page_41.md → Pages/cains_jawbone_page_11.md
 - **Block J (`N08`, confidence: `MAYBE` internal):** Pages/cains_jawbone_page_94.md → Pages/cains_jawbone_page_16.md → Pages/cains_jawbone_page_85.md (Pages/cains_jawbone_page_15.md, Pages/cains_jawbone_page_82.md: order-only; placement flexible)
@@ -1942,7 +1942,7 @@ Delta from v2.2 (Phase 6 tightening; keep falsifiable):
 - **Block D4 (`N34`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_20.md
 - **Block I2 (`N39`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_28.md
 - **Block J (`N08`, confidence: `MAYBE` internal):** Pages/cains_jawbone_page_15.md → Pages/cains_jawbone_page_82.md → Pages/cains_jawbone_page_94.md → Pages/cains_jawbone_page_16.md → Pages/cains_jawbone_page_85.md
-- **Block G (`N20` + bridge, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_49.md → Pages/cains_jawbone_page_13.md → Pages/cains_jawbone_page_31.md
+- **Block G (`N20` + `N21` bridge, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_49.md → Pages/cains_jawbone_page_13.md → Pages/cains_jawbone_page_31.md
 - **Block O (`N32`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_62.md → Pages/cains_jawbone_page_65.md → Pages/cains_jawbone_page_90.md → Pages/cains_jawbone_page_89.md
 - **Block H (`N16`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_7.md → Pages/cains_jawbone_page_45.md → Pages/cains_jawbone_page_26.md → Pages/cains_jawbone_page_44.md → Pages/cains_jawbone_page_55.md
 - **Block R (`N09`, confidence: `MAYBE` internal):** Pages/cains_jawbone_page_68.md → Pages/cains_jawbone_page_69.md
@@ -2048,8 +2048,9 @@ Delta from v2.30 (Phase 5 stitching; keep falsifiable):
 
 - **Phase 6 status (2026-01-05):** v2.32 worst-boundary micro-sweep completed.
   - **Upgraded to `PASS`:** p24→p86 (explicit “Next day …” + Caroline continuity); p27→p56 (shared morning/breakfast frame + `tiny`/`a tiny`).
-  - **High-priority `UNCLEAR` 1-anchor boundaries include:** p25→p27 (`woke`), p71→p33 (`it seemed to`), p85→p49 (`i was still`), p51→p22 (`as i was`), p37→p97 (`thing i had`), p38→p9 (`fortnight`), p9→p25 (`earth`), p69→p84 (`bus`), p70→p96 (`poem`), p100→p66 (`smiling`), p83→p92 (`dew`).
+  - **High-priority `UNCLEAR` 1-anchor boundaries include:** p25→p27 (`woke`), p71→p20 (`had of`), p20→p33 (`same day`), p85→p49 (`i was still`), p51→p22 (`as i was`), p37→p97 (`thing i had`), p38→p9 (`fortnight`), p9→p25 (`earth`), p69→p84 (`bus`), p70→p96 (`poem`), p100→p66 (`smiling`), p83→p92 (`dew`).
   - **Next move (recommended):** run one minimal trial re-stitch to eliminate one trigram-only join without introducing a new zero-anchor boundary; if that stalls, request a short Phase 3 micro-pass (narrator profiling) and/or Phase 2 micro-pass (targeted research) scoped to the remaining v2.32 1‑anchor joins (see join ledger).
+  - **Phase 6 update (2026-01-06; minimal trial re-stitch adopted as v2.33):** replace the trigram-only boundary `Pages/cains_jawbone_page_71.md → Pages/cains_jawbone_page_33.md` with `Pages/cains_jawbone_page_71.md → Pages/cains_jawbone_page_20.md → Pages/cains_jawbone_page_33.md` (df==2 bigram anchors `had of` and `same day`; plus low-df token hints `tea`/`pay`). Tradeoff: lose the stronger internal antiquarian `stone` bridge `Pages/cains_jawbone_page_20.md → Pages/cains_jawbone_page_28.md` and replace it with the weaker but still non-zero `Pages/cains_jawbone_page_18.md → Pages/cains_jawbone_page_28.md` (`single`/`person`).
 
 - **Block A (`N03` + `N40`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_32.md → Pages/cains_jawbone_page_3.md → Pages/cains_jawbone_page_30.md → Pages/cains_jawbone_page_23.md → Pages/cains_jawbone_page_24.md
 - **Block E (`N13`, confidence: `CERTAIN` internal):** Pages/cains_jawbone_page_86.md → Pages/cains_jawbone_page_87.md
@@ -2058,6 +2059,7 @@ Delta from v2.30 (Phase 5 stitching; keep falsifiable):
 - **Block Q (`N34`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_25.md
 - **Block Q2 (bridge, confidence: `MAYBE`):** Pages/cains_jawbone_page_27.md
 - **Block L (`N26`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_56.md → Pages/cains_jawbone_page_54.md → Pages/cains_jawbone_page_71.md
+- **Block D4 (`N34`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_20.md
 - **Block B (`N25` merged run, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_33.md → Pages/cains_jawbone_page_34.md → Pages/cains_jawbone_page_52.md → Pages/cains_jawbone_page_53.md
 - **Block F (`N19`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_4.md → Pages/cains_jawbone_page_58.md → Pages/cains_jawbone_page_5.md
 - **Block C0 (`N28`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_81.md
@@ -2065,10 +2067,9 @@ Delta from v2.30 (Phase 5 stitching; keep falsifiable):
 - **Block D (`N11`, confidence: `LIKELY` placement):** Pages/cains_jawbone_page_91.md
 - **Block D2 (`N18`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_78.md
 - **Block D3 (`N35`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_18.md
-- **Block D4 (`N34`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_20.md
 - **Block I2 (`N39`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_28.md
 - **Block J (`N08`, confidence: `MAYBE` internal):** Pages/cains_jawbone_page_15.md → Pages/cains_jawbone_page_82.md → Pages/cains_jawbone_page_94.md → Pages/cains_jawbone_page_16.md → Pages/cains_jawbone_page_85.md
-- **Block G (`N20` + bridge, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_49.md → Pages/cains_jawbone_page_13.md → Pages/cains_jawbone_page_31.md
+- **Block G (`N20` + `N21` bridge, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_49.md → Pages/cains_jawbone_page_13.md → Pages/cains_jawbone_page_31.md
 - **Block O (`N32`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_62.md → Pages/cains_jawbone_page_65.md → Pages/cains_jawbone_page_90.md → Pages/cains_jawbone_page_89.md
 - **Block H (`N16`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_7.md → Pages/cains_jawbone_page_45.md → Pages/cains_jawbone_page_26.md → Pages/cains_jawbone_page_44.md → Pages/cains_jawbone_page_55.md
 - **Block R (`N09`, confidence: `MAYBE` internal):** Pages/cains_jawbone_page_68.md → Pages/cains_jawbone_page_69.md
@@ -2107,7 +2108,7 @@ Delta from v2.30 (Phase 5 stitching; keep falsifiable):
   - **Replacement lead (block-level re-stitch):** insert Pages/cains_jawbone_page_27.md as a bridge: `Pages/cains_jawbone_page_25.md → Pages/cains_jawbone_page_27.md → Pages/cains_jawbone_page_56.md`.
     - **Why:** page-body df scan shows this eliminates the generic trigram-only join by replacing it with df==2 token anchors: `woke` (25↔27) and `tiny` (27↔56), plus additional low-df overlaps (27↔56: df==2 bigram `a tiny`; df==3 tokens `mixed`, `six`).
     - **Tradeoff:** Pages/cains_jawbone_page_27.md is currently placed inside Block A in v2.30; adopting this bridge requires unpinning it from that block and re-stitching Block A’s remaining pages without introducing new zero-anchor block boundaries near the start of the full-order draft.
-  - **Outcome:** `UNCLEAR` (treat as a pure placeholder join).
+  - **Outcome:** `UNCLEAR` (removed from v2.33 in favour of the `Pages/cains_jawbone_page_71.md → Pages/cains_jawbone_page_20.md → Pages/cains_jawbone_page_33.md` bridge).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_37.md → Pages/cains_jawbone_page_97.md
   - **Why:** v2.29/v2.30 block boundary feeding the `N07` internal-debate run (`Pages/cains_jawbone_page_97.md → Pages/cains_jawbone_page_93.md`) from the `N29` singleton; only df==2 anchor is the generic trigram `thing i had` (no df==2 token anchors).
@@ -2149,7 +2150,7 @@ Delta from v2.30 (Phase 5 stitching; keep falsifiable):
   - **Outcome:** `UNCLEAR` (treat as a pure placeholder join).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_85.md → Pages/cains_jawbone_page_49.md
-  - **Why:** v2.26/v2.30 block boundary feeding the `N20` Grantham/Henry confrontation run (`Pages/cains_jawbone_page_49.md → Pages/cains_jawbone_page_13.md → Pages/cains_jawbone_page_31.md`) from the `N08` King/Henry run; only df==2 anchor is the generic trigram `i was still` (no df==2 token anchors).
+  - **Why:** v2.26/v2.30 block boundary feeding the cross-narrator Blake bridge into the `N20` Grantham/Henry incident (`Pages/cains_jawbone_page_49.md → Pages/cains_jawbone_page_13.md → Pages/cains_jawbone_page_31.md`; Pages/cains_jawbone_page_49.md is `N21`) from the `N08` King/Henry run; only df==2 anchor is the generic trigram `i was still` (no df==2 token anchors).
   - **Falsifier:** Pages/cains_jawbone_page_85.md gains a stronger successor (2+ independent anchors) that excludes Pages/cains_jawbone_page_49.md, and/or Pages/cains_jawbone_page_49.md gains a stronger predecessor (2+ independent anchors) that excludes Pages/cains_jawbone_page_85.md.
   - **Next falsification check:** re-read the boundary for any non-lexical continuity marker (shared cast/prop/place/time), and enumerate df==2 successor/predecessor leads as replacement candidates.
   - **Phase 6 test (2026-01-04):** re-read p85 ending + p49 opening; no continuity marker found (hard scene/voice break: table sleep + salt-cellar concealment ↔ “yen for Henry” + Blake quotation framing).
