@@ -1171,6 +1171,8 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
       - **Pages (ordered):** Pages/cains_jawbone_page_95.md → Pages/cains_jawbone_page_70.md
       - **Why:**
         - Pages/cains_jawbone_page_95.md explicitly narrates the act of writing a full account (“told him all, hour by hour, day by day…”) with pen/ink ritual.
+        - Pages/cains_jawbone_page_70.md opens “Rather I intended to finish what I had begun,” reading like the continuation of the just-started write-up in Pages/cains_jawbone_page_95.md.
+        - The West End place-frame also carries across: Pages/cains_jawbone_page_95.md’s Café Royal time-budgeting aligns with Pages/cains_jawbone_page_70.md’s “between Eros and the Queen’s Hall” corridor detail.
         - Pages/cains_jawbone_page_70.md reads as the immediate aftermath: the narrator has “told all I knew”, leaves a franked item to be found “in the morning” by “the girl”, and fears retaliation (“do me in”).
         - Pages/cains_jawbone_page_95.md’s “neglecting my contact with his infancy” aligns with Pages/cains_jawbone_page_70.md’s “old association… babbled at me knee”, strengthening that the same “him/he” relationship thread continues across the pair.
       - **Disconfirming evidence:**
@@ -1273,6 +1275,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
         - Pages/cains_jawbone_page_83.md continues the flower-state progression from the `73 → 74 → 75` run: Pages/cains_jawbone_page_74.md says “The red rose and the white only remained,” Pages/cains_jawbone_page_75.md treats those “two other flowers” as key props, and Pages/cains_jawbone_page_83.md later has “the red rose, the sole survivor.”
         - Pages/cains_jawbone_page_83.md keeps an “old man” + “she asked what he meant” conversational frame compatible with Pages/cains_jawbone_page_74.md’s old-man + husky-voiced “her” exchange, and adds “daughterly swiftness” (making it plausible the woman is the old man’s companion/daughter if these are the same scene).
         - Pages/cains_jawbone_page_83.md’s explicit “late night final” newsboys cue supports treating it as a later beat within the same narrator run (still order-only; not an adjacency lock).
+        - Phase 4 check (2026-01-06): re-read p75 ending (marigolds/documents) and p83 opening (flower-seller interruption) and found no direct handoff beyond the rose-state motif → keep “later, not necessarily adjacent.”
         - MAYBE: Pages/cains_jawbone_page_74.md’s coin-drop image (“half-crowns dropped upon marble”) is literalised by Pages/cains_jawbone_page_83.md’s old man dropping a “metallic object” (prop-level continuity if it’s a coin/half-crown).
         - MAYBE: Pages/cains_jawbone_page_83.md’s “mal de mer” (sea-sickness) simile echoes Pages/cains_jawbone_page_73.md’s Marseille/old-Port initiation memory (travel/foreign-language register continuity).
       - **Disconfirming evidence:**
