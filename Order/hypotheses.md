@@ -1164,8 +1164,9 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
       - **Disconfirming evidence:**
         - The “last day” on Pages/cains_jawbone_page_64.md is later anchored to an event that must occur *after* Pages/cains_jawbone_page_61.md’s Broadmoor/Colney Hatch reflections (forcing reversal).
         - Another page-body instance of either df==2 phrase cue (`my people had` / `I had always been`) emerges, weakening the boundary-based direction support.
-  - **Placement note (Phase 4):** treat `Pages/cains_jawbone_page_64.md → Pages/cains_jawbone_page_61.md` as a within-voice order hypothesis but not a forced adjacency (word n‑grams 4–8: none; only shared 3‑gram is the signature anchor `the great lexicographer`).
+  - **Placement note (Phase 4):** treat `Pages/cains_jawbone_page_64.md → Pages/cains_jawbone_page_61.md` as the `LIKELY` within-voice direction (Sequence A), but not a forced adjacency (word n‑grams 4–8: none; only shared 3‑gram is the signature anchor `the great lexicographer`).
   - **Phase 4 check (2026-01-05):** page-body word n‑gram scan (n=3–8) for Pages/cains_jawbone_page_64.md ↔ Pages/cains_jawbone_page_61.md found only the 3‑gram `the great lexicographer` and **zero** overlaps 4–8.
+  - **Phase 4 micro-pass (2026-01-06):** corpus scan for additional `N04` membership anchors (Colney Hatch/Broadmoor; McLeod of that ilk; Dunvegan/Lotus; Rysbrach/Lord King; “Doctor Invincibilis”) found no other page-body hits → keep `N04` as a two-page micro-voice.
   - **Next falsification check:** identify what “the last day” refers to on Pages/cains_jawbone_page_64.md (death, separation, last visit, last day at a place) and re-test whether Pages/cains_jawbone_page_61.md’s “there” location/animals (hen + sheep) implies a different day/setting that would reverse the order.
 
 - **Cluster:** Menu-title sweets (Lover’s Delight/Banana Split/Rainbow) (confidence: `MAYBE`)
