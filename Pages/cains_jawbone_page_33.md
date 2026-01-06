@@ -16,6 +16,7 @@ He was picking round among all she had left behind and found a box with his name
 - **Motifs/continuity hooks:**
   - Debts/bills: “I always pay my debts” label.
   - Tobacco/cigarettes: Gourdoulis + “little bits of stuff like black pineapple” (LIKELY loose tobacco from opened/handled cigarettes; “pine-apple” can mean “fir-cone”).
+  - Phase 6 micro-pass (2026-01-06): body-only overlap scan shows a multi-anchor lexical bundle with Pages/cains_jawbone_page_10.md: df==2 bigrams `a box`, `box of`, `a hundred`, plus df==3 token `box` (also df==3 bigrams `all she`, `the third`). Treat as a stronger bridge candidate than `gourdoulis` alone, but still likely cross-narrator/prop-level unless reinforced by a shared participant/venue/time cue.
   - Letters + death-status ambiguity (writer “still alive” yet “departed spirits”).
   - Phase 3 micro-pass (2026-01-05): body-only df==2 token overlaps: `suppose` (Pages/cains_jawbone_page_1.md), `gourdoulis` (Pages/cains_jawbone_page_10.md), `buried` (Pages/cains_jawbone_page_36.md), `hairs` (Pages/cains_jawbone_page_49.md), `bits` (Pages/cains_jawbone_page_57.md), `sorrow` (Pages/cains_jawbone_page_66.md), `reading` (Pages/cains_jawbone_page_96.md). Treat as overlap-only unless reinforced by a second independent anchor.
 - **Voice/tells:**
