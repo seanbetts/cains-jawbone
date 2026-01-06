@@ -16,7 +16,7 @@ I always feel a bit dazed on these occasions, and was so then. But it was pleasa
   - Repeated dazedness (“on these occasions”).
   - Physical description of Henry (cleft chin; show hairs behind ears).
   - Henry framed as compelled to “destroy… for family reasons”.
-  - Phase 6 test (2025-12-31): page-body phrase-level echo `but it was pleasant to` appears only here and Pages/cains_jawbone_page_72.md, but there is no second anchor (no shared prop/cast/place/quote) → treat as an accidental overlap (Outcome: `FAIL`, not a stitch candidate).
+  - Phase 6 update (2026-01-02): page-body overlap scan confirms the 5‑gram `but it was pleasant to` plus the token `pleasant` are unique to this page ↔ Pages/cains_jawbone_page_72.md, giving a multi-anchor lexical bridge; no shared prop/cast/place/quote continuity yet → treat as a provisional re-stitch lead (not a lock).
   - Phase 3 micro-pass (2026-01-05): body-only df==2 token overlaps: `developing` (Pages/cains_jawbone_page_8.md), `bowed` (Pages/cains_jawbone_page_12.md), `dazed`/`keep` (Pages/cains_jawbone_page_21.md), `hairs` (Pages/cains_jawbone_page_33.md), `ordinary` (Pages/cains_jawbone_page_50.md), `chin` (Pages/cains_jawbone_page_53.md), `silent` (Pages/cains_jawbone_page_58.md), `soul` (Pages/cains_jawbone_page_67.md), `collect` (Pages/cains_jawbone_page_69.md), `pleasant` (Pages/cains_jawbone_page_72.md), `simple` (Pages/cains_jawbone_page_98.md). Treat as overlap-only unless reinforced by a second independent anchor.
 - **Voice/tells:**
   - “simple soul” register but highly allusive (poet quotation).

@@ -837,7 +837,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Rationale:** Pages 13 and 31 foreground classed self-consciousness and wordplay about naming, framed against grim bodily/violent contexts and “reckon with Henry” pressure; Page 49 is retained via a direct Blake quote-continuation lock into Page 13.
   - **Key anchors:** “Bloomsbury”; “Newdigate fringe”; “nomenclature business”; “Caseus, ah!”; hand dropping to hip pocket.
   - **Disconfirming evidence:** the naming/wordplay is shown to be incidental, or the scenes are later explicitly narrated by different named speakers.
-  - **Phase 6 test (2025-12-31):** Pages/cains_jawbone_page_49.md ↔ Pages/cains_jawbone_page_72.md share only the generic phrase `but it was pleasant to` (no second anchor: no shared prop/cast/place/quote) → treat as an accidental overlap (Outcome: `FAIL`, not a stitch).
+  - **Phase 6 update (2026-01-02):** Pages/cains_jawbone_page_49.md ↔ Pages/cains_jawbone_page_72.md share the corpus-unique 5‑gram `but it was pleasant to` plus the df==2 token `pleasant`; re-read still finds no shared prop/cast/place/quote continuity → treat as a strong lexical re-stitch lead only (not a lock).
   - **Phase 4 internal ordering hypotheses (N20):**
     - **Sequence A — two bodies in the market place → “reckon with Henry”** (confidence: `LIKELY`)
       - **Pages (ordered):** Pages/cains_jawbone_page_13.md → Pages/cains_jawbone_page_31.md
@@ -1058,7 +1058,7 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
   - **Rationale:** A distinctive, meta-fictional narrator voice frames a travel pause with claret-as-remedy and a Paris/Rue de la Harpe anecdote, then riffs on story structure (“embrace first, plot after”) via a “complete novel” magazine.
   - **Key anchors:** “old Medehamstede”; Pasquier’s claret; Rue de la Harpe; “last paragraphs of the short stories”; “The complete novel length… Savage Conqueror.”
   - **Disconfirming evidence:** the magazine/short-story register is later shown to be a quoted inset rather than narrator voice, or the anchor set recurs under an unmistakably different narrator elsewhere.
-  - **Phase 6 test (2025-12-31):** Pages/cains_jawbone_page_72.md ↔ Pages/cains_jawbone_page_49.md share only the generic phrase `but it was pleasant to` (no second anchor: no shared prop/cast/place/quote) → treat as an accidental overlap (Outcome: `FAIL`, not a stitch).
+  - **Phase 6 update (2026-01-02):** Pages/cains_jawbone_page_72.md ↔ Pages/cains_jawbone_page_49.md share the corpus-unique 5‑gram `but it was pleasant to` plus the df==2 token `pleasant`; re-read still finds no shared prop/cast/place/quote continuity → treat as a strong lexical re-stitch lead only (not a lock).
   - **Phase 4 check (2026-01-05):** singleton page; no internal ordering possible within `N33`.
 
 - **Cluster:** `N34` Time-factor / Didling wordplay + antiquarian brass voice (confidence: `LIKELY`)

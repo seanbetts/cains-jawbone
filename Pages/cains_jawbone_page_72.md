@@ -12,7 +12,7 @@ Of course I was sorry to say good-bye to old Medehamstede ; but it was pleasant 
   - Reading/writing: narrator skims endings of short stories; prefers embrace first, plot after.
   - Title anchor: “Savage Conqueror” (novel length; potentially a clue text).
   - Phase 3 micro-pass (2026-01-05): body-only df==2 token overlaps: `la` (Pages/cains_jawbone_page_54.md), `pleasant` (Pages/cains_jawbone_page_49.md), `stories` (Pages/cains_jawbone_page_92.md). Treat as overlap-only unless reinforced by a second independent anchor.
-  - Phase 6 test (2025-12-31): page-body phrase-level echo `but it was pleasant to` appears only here and Pages/cains_jawbone_page_49.md (“pleasant to sit down…” ↔ “pleasant to collect oneself…”), but there is no second anchor (no shared prop/cast/place/quote) → treat as an accidental overlap (Outcome: `FAIL`, not a stitch candidate).
+  - Phase 6 update (2026-01-02): page-body overlap scan confirms the 5‑gram `but it was pleasant to` plus the token `pleasant` are unique to this page ↔ Pages/cains_jawbone_page_49.md, giving a multi-anchor lexical bridge; no shared prop/cast/place/quote continuity yet → treat as a provisional re-stitch lead (not a lock).
 - **Voice/tells:**
   - Meta-fictional, cynical about romance conventions; self-identifies life as “short stories”.
 - **Clustering hypotheses:**
