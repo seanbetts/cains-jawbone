@@ -22,6 +22,7 @@ I was feeling better already, and was glad that a memory, true though dim, had l
   - Highly self-aware/classical; slips/plays with names; abrupt aggression.
 - **Clustering hypotheses:**
   - MAYBE: egg/omelette motif links Pages/cains_jawbone_page_36.md and Pages/cains_jawbone_page_38.md.
+  - MAYBE: if a draft places this adjacent to Pages/cains_jawbone_page_9.md (`N27`) via the token `fortnight`, treat it as a cross-narrator boundary (Southend memory ↔ deputised academic absence; no scene/voice continuity beyond the single word).
 - **Disconfirming evidence:**
   - If “stabbed” is later shown to be purely culinary (cutlery) rather than an attack.
 - **Research needed:**
