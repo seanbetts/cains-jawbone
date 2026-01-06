@@ -18,6 +18,7 @@ It was neither the sheerest hell nor uttermost heaven thus to affront the dead ;
 - **Clustering hypotheses:**
   - CERTAIN: phrase-level mid-sentence continuation across Pages/cains_jawbone_page_66.md and Pages/cains_jawbone_page_67.md (“hung round with … the darker works…”), implying an immediate-neighbour constraint `Pages/cains_jawbone_page_66.md → Pages/cains_jawbone_page_67.md` (see `Order/hypotheses.md`).
   - CERTAIN: links strongly with Pages/cains_jawbone_page_73.md via the page-body unique phrase “I remembered the place of my initiation”. Treat as a continuity constraint `Pages/cains_jawbone_page_66.md ↔ Pages/cains_jawbone_page_73.md` (current direction hypothesis: `Pages/cains_jawbone_page_66.md → Pages/cains_jawbone_page_73.md`, confidence: `MAYBE`; see `Order/hypotheses.md` (`N06` order-only sequence)).
+  - MAYBE: if a draft joins Pages/cains_jawbone_page_66.md ↔ Pages/cains_jawbone_page_100.md on the single df==2 token `smiling`, treat it as a likely cross-narrator boundary (`N06` ≠ `N01`) unless a second independent continuity anchor appears.
 - **Disconfirming evidence:**
   - Only if later evidence shows an editorial/transcription artifact (unlikely given clean sentence continuation).
   - **Research needed:**
