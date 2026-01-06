@@ -2536,12 +2536,13 @@ Delta from v2.32 (Phase 5 targeted re-stitch; keep falsifiable):
   - **Phase 6 test (2026-01-01):** page-body df==2 scan confirms `open` and `alexander had` are unique to this pair; no shared df==2 trigrams (or longer) were found.
   - **Outcome:** `PASS` (used as the v2.16–v2.27 successor for Page 55; removed in v2.28 when relocating Block R + Block N earlier; keep as a fallback candidate if `Pages/cains_jawbone_page_55.md → Pages/cains_jawbone_page_68.md` fails).
 
-- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_37.md → Pages/cains_jawbone_page_84.md
+- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_84.md → Pages/cains_jawbone_page_37.md
   - **Why:** multi-anchor lexical bridge: page-body token `yellow` appears only on Pages/cains_jawbone_page_37.md and Pages/cains_jawbone_page_84.md, and the tokenised bigrams `yellow jasmine` and `to know` are also corpus-unique to this pair.
   - **Falsifier:** a third page is found containing `yellow`, `yellow jasmine`, or `to know` in its page body (making the bridge non-unique), or re-reading shows the “yellow jasmine” referents are clearly incompatible (forcing these to be rhetorical coincidence only).
-  - **Next falsification check:** re-read the Pages/cains_jawbone_page_37.md ending and Pages/cains_jawbone_page_84.md opening for any second continuity marker (shared participant, place/route, or quote carryover) beyond the lexical bridge.
+  - **Next falsification check:** re-read the Pages/cains_jawbone_page_84.md ending and Pages/cains_jawbone_page_37.md opening for any second continuity marker (shared participant, place/route, or quote carryover) beyond the lexical bridge.
   - **Phase 6 test (2026-01-01):** page-body df==2 scan confirms `yellow`, `yellow jasmine`, and `to know` are unique to this pair; no shared df==2 trigrams (or longer) were found.
-  - **Outcome:** `PASS` (adopt as the v2.16 successor for Page 37; keep confidence `MAYBE`).
+  - **Phase 6 reconciliation (2026-01-06):** this overlap is direction-symmetric; v2.32 currently uses `p84 → p37` for structural reasons elsewhere, so treat this as an adjacency signal rather than a direction lock.
+  - **Outcome:** `PASS` (strong adjacency signal; direction still provisional).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_85.md → Pages/cains_jawbone_page_97.md
   - **Why:** current v2.10 block boundary; no scene/prop/cast continuity is currently known.
