@@ -27,6 +27,7 @@ But next day that religious fellow’s head drapery, if I might thus unscientifi
   - LIKELY: same “breakfast/meal + judgement” voice as `N26` (Pages/cains_jawbone_page_56.md, Pages/cains_jawbone_page_54.md): shared toast/meal framing + the reused “not appropriate” verdict (see `Order/hypotheses.md` join ledger for Pages/cains_jawbone_page_54.md → Pages/cains_jawbone_page_71.md).
 - **Clustering hypotheses:**
   - LIKELY: `N26` (breakfast-recapping / second-sight voice): meal-time framing + the Phase 6 multi-anchor phrase tie to Pages/cains_jawbone_page_54.md (unique bigrams `toast and` + `not appropriate`).
+  - MAYBE: if a draft places this adjacent to Pages/cains_jawbone_page_33.md (`N25`), treat it as a cross-narrator boundary; p33’s “debts/armchair observer” vignette does not match this breakfast/meal + classical self-casting register, and there is no shared interview/papers mechanic.
   - MAYBE: overlap with `N06` (flower/eyesight register) via “red May” scent + “hit… full in the eye” + the Hamlet “duty… in his eye” line; treat as overlap-only unless a second independent `N06` anchor emerges beyond May/eye language.
 - **Disconfirming evidence:**
   - If “May” is clearly only the calendar month and has no continuity with later “May” references.

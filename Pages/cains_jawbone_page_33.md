@@ -20,9 +20,11 @@ He was picking round among all she had left behind and found a box with his name
   - Phase 3 micro-pass (2026-01-05): body-only df==2 token overlaps: `suppose` (Pages/cains_jawbone_page_1.md), `gourdoulis` (Pages/cains_jawbone_page_10.md), `buried` (Pages/cains_jawbone_page_36.md), `hairs` (Pages/cains_jawbone_page_49.md), `bits` (Pages/cains_jawbone_page_57.md), `sorrow` (Pages/cains_jawbone_page_66.md), `reading` (Pages/cains_jawbone_page_96.md). Treat as overlap-only unless reinforced by a second independent anchor.
 - **Voice/tells:**
   - Voyeur/observer behind the armchair; melodramatic biblical phrasing.
+  - Rhetorical repetition for emphasis (“I had never seen him so moved” repeats); toggles between quoted letter and narrated observation.
 - **Clustering hypotheses:**
   - CERTAIN: links strongly with Pages/cains_jawbone_page_34.md (debts/bills hinge: “I always pay my debts” ↔ “Bills should always be met squarely” + shared coercive manipulation register). Treat as a continuity constraint `Pages/cains_jawbone_page_33.md ↔ Pages/cains_jawbone_page_34.md`; see `Order/hypotheses.md` constraints inventory.
   - LIKELY (Phase 5 bridge candidate): Pages/cains_jawbone_page_10.md ↔ Pages/cains_jawbone_page_33.md (Gourdoulis 100-box; debts/owing framing). Treat as cross-narrator prop echo unless a second independent continuity anchor emerges. See `Order/hypotheses.md`.
+  - MAYBE: overlap with Pages/cains_jawbone_page_71.md is lexical-only (e.g., `play`/`duty` tokens); do not treat this as narrator-merger evidence unless a second, non-quotation anchor appears.
 - **Disconfirming evidence:**
   - If “Gourdoulis” is later shown to be something other than cigarettes.
   - If the debt/bills framing proves generic and no additional phrase-level anchor links this scene to Pages/cains_jawbone_page_34.md.
