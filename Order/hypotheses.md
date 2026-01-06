@@ -1991,7 +1991,7 @@ Delta from v2.30 (Phase 5 stitching; keep falsifiable):
     - p85→p47 (df==2 token `twin` + df==2 bigram `and left`), but p47 is currently pinned by the stronger `p50 → p47` multi-anchor gate → only adopt if a replacement successor for p50 is found.
     - p85→p4 (df==2 bigram `old thing`), but adopting it would disrupt the currently anchored segment `p53 → p4 → p58 → p5 → p81 → p6` unless those boundaries can be re-satisfied elsewhere.
     - p85→p25 (df==2 phrase family `it occurred (to)`), but p25 is already serving as an early placement anchor; treat as a lead only unless a second continuity marker appears.
-    - p85↔p3 via the phrase family `stuff … for ever` (p3 “glorious stuff galore for ever” ↔ p85 “all the stuff I wanted for ever”); requires re-stitching because p3 is currently pinned in Block A.
+    - p85↔p3 via a 2‑anchor bundle: Whitman, “The Sleepers” (quoted on both pages) + the unique phrase family `stuff … for ever` (p3 “glorious stuff galore for ever” ↔ p85 “all the stuff I wanted for ever”). Requires re-stitching because p3 is currently pinned in Block A.
     - p85→p90 (`jibe` + `a dog`); p49←p72 (`pleasant` + the `was pleasant to` phrase family); p49←p21 (`dazed`/`keep` + `to keep`); p49←p12 (`bowed` + `words of the poet`). (All require re-stitching because these pages are currently pinned in other blocks.)
 
 - **Phase 6 test (2026-01-05; boundary falsification):** `Pages/cains_jawbone_page_51.md → Pages/cains_jawbone_page_22.md`
@@ -2056,6 +2056,8 @@ Delta from v2.30 (Phase 5 stitching; keep falsifiable):
   - **Phase 6 test (2026-01-06; v2.33 trial re-stitch):** tried replacing `Pages/cains_jawbone_page_71.md → Pages/cains_jawbone_page_33.md` with `Pages/cains_jawbone_page_71.md → Pages/cains_jawbone_page_20.md → Pages/cains_jawbone_page_33.md` (df==2 bigram anchors `had of` and `same day`). Re-read found no second independent continuity marker at either new boundary (and `had of` is punctuation-derived), while it also broke the more contentful `Pages/cains_jawbone_page_20.md → Pages/cains_jawbone_page_28.md` (`stone`) antiquarian anchor. Treat as `FAIL` and keep v2.32.
 
 ### Proposed order (all 100 pages; v2.34)
+
+- **Status (2026-01-06):** trial re-stitch only; do not adopt as baseline while all introduced joins remain `UNCLEAR` under the Phase 6 anchor rubric.
 
 Delta from v2.32 (Phase 5 targeted re-stitch; keep falsifiable):
 

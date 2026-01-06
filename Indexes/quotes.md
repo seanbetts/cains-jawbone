@@ -36,21 +36,21 @@ Template:
 
 - **Snippet:** “O my mother was loath to have her go away…”
   - **Likely source/author:** Walt Whitman, “The Sleepers” (*Leaves of Grass*, 1882): https://en.wikisource.org/wiki/Leaves_of_Grass_(1882)/The_Sleepers.
-  - **Why it matters:** Quote anchor on Page 3; confirms a Whitman allusion and may cluster narrators/pages drawing on Whitman.
+  - **Why it matters:** Quote anchor on Page 3; “The Sleepers” appears elsewhere only on Page 85, so treat this as a potential cross-page linkage signal (do not assume adjacency).
   - **Pages:** Pages/cains_jawbone_page_3.md
   - **Confidence:** `CERTAIN`
   - **Research needed:** no
 
 - **Snippet:** “the red squaw never came nor was heard of there again.”
   - **Likely source/author:** Walt Whitman, “The Sleepers” (*Leaves of Grass*, 1882): https://en.wikisource.org/wiki/Leaves_of_Grass_(1882)/The_Sleepers.
-  - **Why it matters:** Same-page quotation set on Page 3 (contiguous with the prior Whitman line); strengthens the Page 3 allusion anchor.
+  - **Why it matters:** Same-page quotation set on Page 3 (contiguous with the prior Whitman line); “The Sleepers” appears elsewhere only on Page 85, so treat this as a potential cross-page linkage signal (do not assume adjacency).
   - **Pages:** Pages/cains_jawbone_page_3.md
   - **Confidence:** `CERTAIN`
   - **Research needed:** no
 
 - **Snippet:** “The murderer that is to be hung next day, how does he sleep?”
   - **Likely source/author:** Walt Whitman, “The Sleepers” (*Leaves of Grass*, 1882): https://en.wikisource.org/wiki/Leaves_of_Grass_(1882)/The_Sleepers.
-  - **Why it matters:** Confirms Page 85 is quoting Whitman; supports treating this as an intentional borrowed line rather than generic reflection on execution.
+  - **Why it matters:** Confirms Page 85 is quoting Whitman; “The Sleepers” appears elsewhere only on Page 3, so treat this as a potential cross-page linkage signal (do not assume adjacency).
   - **Pages:** Pages/cains_jawbone_page_85.md
   - **Confidence:** `CERTAIN`
   - **Research needed:** no
