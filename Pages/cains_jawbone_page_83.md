@@ -27,6 +27,7 @@ A flower-seller, fed ruddily, it seemed, on hope, broke in and would have made a
 - **Clustering hypotheses:**
   - CERTAIN: `N06` flower/documents voice; shares Browning embedding (“Oh, to be in England”; “good news from Ghent”), an “old man” + companion scene frame, and a continuing flower-state motif (“red rose… sole survivor”).
   - LIKELY: ties to Pages/cains_jawbone_page_74.md and Pages/cains_jawbone_page_75.md via the red-rose persistence + “old man”/conversation framing + the coin/metal-drop imagery (half-crowns simile ↔ dropped metallic object); treat as continuity hooks (Phase 4 placement checks), not asserted order in Phase 3.
+  - MAYBE: if a draft joins Pages/cains_jawbone_page_83.md ↔ Pages/cains_jawbone_page_92.md on the single df==2 token `dew`, treat it as a likely cross-narrator boundary (`N06` ≠ `N21`) unless a second independent continuity anchor appears.
 - **Disconfirming evidence:**
   - If the red-rose phrasing is generic and no other shared props/voices recur.
 - **Research needed:**

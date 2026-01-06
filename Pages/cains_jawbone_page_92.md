@@ -26,6 +26,7 @@ My earlier days had been so different. There hadn’t been the comfort, the sens
   - CERTAIN (Phase 5 adjacency candidate): Pages/cains_jawbone_page_92.md → Pages/cains_jawbone_page_42.md (Browning “Saul” quotation continuation: “...living and blue” ↔ “Just broken to twine...”). See `Order/hypotheses.md`.
   - MAYBE: overlaps Henry-focused anticipation with Pages/cains_jawbone_page_49.md, but keep as overlap-only because that page is locked to `N20` by the Blake continuation into Pages/cains_jawbone_page_13.md.
   - MAYBE: overlaps timepiece-driven planning with other watch/clock pages (time-layer motif, not narrator identity).
+  - MAYBE: if a draft joins Pages/cains_jawbone_page_92.md ↔ Pages/cains_jawbone_page_83.md on the single df==2 token `dew`, treat it as a likely cross-narrator boundary (`N21` ≠ `N06`) unless a second independent continuity anchor appears.
 - **Disconfirming evidence:**
   - If Henry here is clearly a different “Henry” than adjacent segments (setting/role divergence).
 - **Research needed:**
