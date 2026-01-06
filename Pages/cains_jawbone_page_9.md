@@ -39,6 +39,7 @@ LIKELY WORDPLAY
 - **Clustering hypotheses:**
   - MAYBE: bell motif cluster with Pages/cains_jawbone_page_6.md (bell-wire + bell focus).
   - MAYBE: if a draft places this adjacent to Pages/cains_jawbone_page_38.md (`N30`) via the token `fortnight`, treat it as a cross-narrator boundary (professor/bell/class register ↔ Southend/omelette-stab voice; lexical overlap only).
+  - MAYBE: if a draft places this adjacent to Pages/cains_jawbone_page_25.md (`N34`) via the token `earth`, treat it as a cross-narrator boundary (Peebles lecturer/bell voice ↔ time-factor/Didling pun chain voice; lexical overlap only).
 - **Disconfirming evidence:**
   - If bell references resolve to unrelated settings/narrators with no continuity.
 - **Research needed:**

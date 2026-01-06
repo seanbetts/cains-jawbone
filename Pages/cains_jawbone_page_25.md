@@ -37,6 +37,7 @@ LIKELY WORDPLAY
 - **Clustering hypotheses:**
   - MAYBE: place anchor at Didling (if confirmed) could connect to other Sussex/Downs locations later.
   - MAYBE: links strongly with Pages/cains_jawbone_page_20.md (N34) via self-laceration + “same way home” motif echoing “arrived home again” (see Order/hypotheses.md).
+  - MAYBE: if a draft places this adjacent to Pages/cains_jawbone_page_9.md (`N27`) via the token `earth`, treat it as a cross-narrator boundary (time-factor/Didling pun chain voice ↔ Peebles lecturer/bell voice; lexical overlap only).
   - MAYBE: body-only df==2 phrase bundle with Pages/cains_jawbone_page_53.md: `if I mistook not` (token `mistook` appears only on these two pages). Treat as an overlap/voice-tell lead only unless reinforced by a second independent anchor.
   - MAYBE: body-only df==2 phrase bundle with Pages/cains_jawbone_page_85.md: `it occurred to me` (generic; treat as low-weight overlap only).
 - **Disconfirming evidence:**
