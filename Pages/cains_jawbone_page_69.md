@@ -20,6 +20,7 @@ I came out of my waking dream with temples moist and tongue most damnably dry. I
   - MAYBE: shares a generic “old man” motif with Pages/cains_jawbone_page_68.md, but no phrase-level overlap found; treat as non-binding unless a unique shared identifier (name/place/prop/quote) emerges.
   - MAYBE: links strongly with Pages/cains_jawbone_page_95.md / Pages/cains_jawbone_page_70.md as motivation for producing a full “hour by hour, day by day” written account (time-granularity echo: “seen every minute of it”).
   - Phase 6 micro-pass (2026-01-06): p69’s “ought I to do? … answer” decision-point framing may be a precursor beat to Pages/cains_jawbone_page_95.md’s “I had decided what to do” before the writing/confession follow-through; treat as a re-stitch lead only unless a second, non-generic continuity marker emerges.
+  - Phase 6 micro-pass (2026-01-06): focused overlap scan finds no shared df==2 token anchors with Pages/cains_jawbone_page_95.md and no shared low-df n‑gram anchors; the only shared low-df token surfaced is `utterly` (df=3) → keep this as a narrative/voice lead only (not an anchor-backed join).
   - MAYBE: if a draft joins Pages/cains_jawbone_page_69.md ↔ Pages/cains_jawbone_page_84.md on the single df==2 token `bus`, treat it as a likely cross-narrator boundary (`N09` ≠ `N37`) unless a second independent continuity anchor appears.
 - **Disconfirming evidence:**
   - If “done slowly to death” is later shown to be figurative (bored/exhausted) rather than literal.

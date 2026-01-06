@@ -47,6 +47,7 @@ LIKELY WORDPLAY
 - **Clustering hypotheses:**
   - CERTAIN: links strongly with Pages/cains_jawbone_page_70.md (writes the full account, then Page 70’s “I had told all I knew” + franked item found “in the morning” reads as aftermath); treat as a continuity constraint `Pages/cains_jawbone_page_70.md ↔ Pages/cains_jawbone_page_95.md` (see `Order/hypotheses.md` constraints inventory).
   - Phase 6 micro-pass (2026-01-06): consider whether this “decided what to do” beat can follow Pages/cains_jawbone_page_69.md’s parallel decision-point (“ought I to do? … answer”) as the bridge from witnessing/aftermath into writing; treat as a re-stitch lead only unless reinforced by a second continuity marker.
+  - Phase 6 micro-pass (2026-01-06): focused overlap scan finds no shared df==2 token anchors with Pages/cains_jawbone_page_69.md and no shared low-df n‑gram anchors; the only shared low-df token surfaced is `utterly` (df=3) → keep this as a narrative/voice lead only (not an anchor-backed join).
   - MAYBE: café/meeting motif overlap with Pages/cains_jawbone_page_96.md, but no phrase-level overlap found; treat as non-binding unless a shared person/prop/venue marker emerges.
   - MAYBE: body-only df==2 phrase bundle with Pages/cains_jawbone_page_11.md: `what to do` (and bigram `what to`). Treat as an overlap/bridge lead only unless reinforced by a second independent anchor.
 - **Disconfirming evidence:**
