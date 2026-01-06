@@ -2940,14 +2940,14 @@ These are the **highest-risk segment joins** inside the v2 full ordering draft. 
   - **Phase 6 test (2026-01-02):** df scan confirms `tongue` occurs only on Pages/cains_jawbone_page_83.md and Pages/cains_jawbone_page_69.md; the pair share no low-df n‑grams (n=2–6, df≤3).
   - **Outcome:** `UNCLEAR` (promising, but still lacks a second non-generic anchor; treat as a re-stitch candidate only).
 
-- **Join (confidence: `LIKELY`):** Pages/cains_jawbone_page_83.md → Pages/cains_jawbone_page_92.md
-  - **Why:** multi-anchor bridge: page-body word `dew` appears only on these two pages (p83 rose-dew; p92 Browning “dew”), and Page 83 explicitly references Robert Browning (“good news from Ghent”) while Page 92 quotes Browning (“Saul”), supporting a coherent “Henry quotes Browning” handoff between `N06` and `N21`.
+- **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_83.md → Pages/cains_jawbone_page_92.md
+  - **Why:** weak cross-voice bridge; the only low-df page-body anchor is `dew` (p83 rose-dew; p92 Browning “dew”). Both pages contain Browning material, but Browning is common across the book and (as author-only continuity) is not a reliable second independent anchor.
   - **Falsifier:** a stronger anchored successor for Pages/cains_jawbone_page_83.md is found (shared participant/prop/place/time), and/or Pages/cains_jawbone_page_92.md gains a stronger predecessor that excludes the `dew` echo.
   - **Next falsification check:** re-read the boundary to confirm the Browning quotations plausibly carry across the join (not just “both quote Browning”), and check whether another Browning-heavy page fits more cleanly as the immediate successor/predecessor.
   - **Phase 6 test (2026-01-02):** token df scan: the only shared df≤10 tokens are `dew` (df=2) plus generic `days` (df=7) and `meant` (df=8); no shared low-df n‑grams (n=2–6, df≤3).
-  - **Phase 6 test (2026-01-02):** cross-check against `Indexes/quotes.md`: Page 83’s “good news from Ghent” is Robert Browning, and Page 92’s indented stanza (“Yet now my heart leaps, O beloved! …”) is Browning (“Saul”), giving an explicit second anchor beyond `dew`.
   - **Phase 6 test (2026-01-04):** re-read p83 ending + p92 opening; no contradiction found. The scene/venue shifts (newsboys/“old man” companion beat ↔ oysters/earlier-days reflection), so Browning remains the only concrete continuity anchor (treat this as a gate, not a scene-continuity lock).
-  - **Outcome:** `PASS` (upgrade from `MAYBE` to `LIKELY`; adopt as the current v2.16 gate from Page 83 into Page 92).
+  - **Phase 6 test (2026-01-05):** re-read p83 ending + p92 opening; no shared cast/prop/venue/time cue surfaced beyond `dew`, and the “both Browning” layer is non-exclusive. Keep as a placeholder successor only.
+  - **Outcome:** `UNCLEAR` (downgrade; do not treat as a placement lock).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_83.md → Pages/cains_jawbone_page_2.md
   - **Why:** Pages/cains_jawbone_page_83.md ends with the disruptive “late night final” newsboys beat and explicit anxiety about whether there will be any news, while Pages/cains_jawbone_page_2.md opens with a “figures and letters” reading/decoding finish-line (“getting my money’s worth”), which reads like an immediate follow-through on buying/reading the paper. `Henry` is also present on both pages (summoned “cat-like” on Page 83; “Where was Henry?” on Page 2).
