@@ -20,6 +20,7 @@ He always talked to me about murder, when we were alone together. And that day h
 - **Clustering hypotheses:**
   - CERTAIN: `N02` Dog POV (tail-vibration cue; mating/banishment; dog-coded jealousy).
   - CERTAIN (Phase 5 order constraint): Pages/cains_jawbone_page_22.md → Pages/cains_jawbone_page_79.md via Flora (“made love to Flora” ↔ “made love to Flora again” (explicit “again” hinge)). Treat as order-only (not necessarily adjacent); see `Order/hypotheses.md`.
+  - MAYBE: if a draft places this adjacent to Pages/cains_jawbone_page_51.md (`N36`), treat it as a cross-narrator boundary (dog POV domestic jealousy ↔ Whitman travel/self-monitoring voice).
   - MAYBE: jasmine name overlaps Pages/cains_jawbone_page_24.md (wild jasmine); treat as motif coincidence unless reinforced by a second shared anchor.
 - **Disconfirming evidence:**
   - If later pages show human POV here (tail “vibration” is a metaphor) or Flora/Jasmine are people.

@@ -23,6 +23,7 @@ As I was not staying, but only passing through, I raised my hat to the eleven th
   - Whitman-heavy quotation density; bodily self-monitoring.
 - **Clustering hypotheses:**
   - MAYBE: clusters with other Whitman-quoting page(s) (Pages/cains_jawbone_page_32.md).
+  - MAYBE: if a draft places this adjacent to Pages/cains_jawbone_page_22.md (`N02`), treat it as a cross-narrator boundary (dog POV vs Whitman travel/self-monitoring voice); no shared scene mechanics beyond accidental n-gram overlap.
 - **Disconfirming evidence:**
   - If the Whitman snippets are shown to be coincidental and the surrounding narrative voice differs strongly from Page 32.
 - **Research needed:**
