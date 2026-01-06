@@ -1977,13 +1977,21 @@ Delta from v2.30 (Phase 5 stitching; keep falsifiable):
   - **Predictions:** if this boundary is real, expect at least one non-lexical hinge across the narrator switch (shared named participant, shared prop/letter/food/drink, shared venue, or a time-constraint cue that makes the cut meaningful), not just a generic phrase overlap.
   - **Re-read outcome:** hard scene/voice break with no shared cast/prop/venue marker surfaced; page-body df==2 scan finds only the df==2 trigram `it seemed to` (no df==2 token anchors; no other shared df≤3 n‑grams n=2–6).
   - **Status:** p71→p33 = `UNCLEAR` (placeholder join; treat as high-priority to replace).
-  - **Replacement leads (block-level re-stitch):** p71→p98 via df==2 phrase family `thought of may` / `i thought of may`; p10→p33 via df==2 token `gourdoulis` + df==2 phrases `box of` / `a hundred`; p57→p33 via df==2 token `bits` + df==2 phrases `bits of` / `he read`. (All require re-stitching because these pages are currently pinned in other blocks.)
+  - **Replacement leads (block-level re-stitch):**
+    - p71→p98 via df==2 phrase family `thought of may` / `i thought of may` (but p98 is currently pinned by the `p76 → p98` multi-phrase gate).
+    - p71→p34 via df==2 token `play` + df==2 bigram `not play` (requires revisiting the `N25` sub-strand start page; do not adopt without a clean new placement for p33).
+    - p71→p7 (`odour`), p71→p32 (`prove`), p71→p47 (`hot`) are single-token gates only; treat as re-stitch leads unless reinforced by a second independent anchor.
+    - p10→p33 via df==2 token `gourdoulis` + df==2 phrases `box of` / `a hundred`; p57→p33 via df==2 token `bits` + df==2 phrases `bits of` / `he read`. (All require re-stitching because these pages are currently pinned in other blocks.)
 
 - **Phase 6 test (2026-01-05; boundary falsification):** `Pages/cains_jawbone_page_85.md → Pages/cains_jawbone_page_49.md`
   - **Predictions:** if this boundary is real, expect more than the shared name `Henry` + a generic phrase echo: at least one non-lexical continuity cue across the narrator switch (shared venue, shared prop/letter/food/drink, or a time-constraint cue that makes the cut meaningful).
   - **Re-read outcome:** hard scene/voice break with no shared cast/prop/venue marker surfaced; page-body df==2 scan finds only the df==2 trigram `i was still` (no df==2 token anchors; no other shared df≤3 n‑grams n=2–6).
   - **Status:** p85→p49 = `UNCLEAR` (placeholder join; treat as high-priority to replace).
-  - **Replacement leads (block-level re-stitch):** p85→p47 (`twin` + `and left`); p85→p90 (`jibe` + `a dog`); p49←p72 (`pleasant` + the `was pleasant to` phrase family); p49←p21 (`dazed`/`keep` + `to keep`); p49←p12 (`bowed` + `words of the poet`). (All require re-stitching because these pages are currently pinned in other blocks.)
+  - **Replacement leads (block-level re-stitch):**
+    - p85→p47 (df==2 token `twin` + df==2 bigram `and left`), but p47 is currently pinned by the stronger `p50 → p47` multi-anchor gate → only adopt if a replacement successor for p50 is found.
+    - p85→p4 (df==2 bigram `old thing`), but adopting it would disrupt the currently anchored segment `p53 → p4 → p58 → p5 → p81 → p6` unless those boundaries can be re-satisfied elsewhere.
+    - p85→p25 (df==2 phrase family `it occurred (to)`), but p25 is already serving as an early placement anchor; treat as a lead only unless a second continuity marker appears.
+    - p85→p90 (`jibe` + `a dog`); p49←p72 (`pleasant` + the `was pleasant to` phrase family); p49←p21 (`dazed`/`keep` + `to keep`); p49←p12 (`bowed` + `words of the poet`). (All require re-stitching because these pages are currently pinned in other blocks.)
 
 - **Phase 6 test (2026-01-05; boundary falsification):** `Pages/cains_jawbone_page_51.md → Pages/cains_jawbone_page_22.md`
   - **Predictions:** if this boundary is real, expect at least one non-lexical hinge across the narrator switch (shared named participant, shared prop/venue, or a time-constraint cue that makes the cut meaningful), not just a generic “as I was” phrasing overlap.
