@@ -18,6 +18,7 @@ the darker works of Beardsley and Felicien Rops, and ringing with the gloat curs
 - **Motifs/continuity hooks:**
   - Birth/embodiment meditation (“received identity by my body…”).
   - Celebration vs mourning; possible intoxicant/ritual (“ration” of herb of grace).
+  - Phase 6 micro-pass (2026-01-06): page-body phrase echo `i took the` (df==2 trigram) and token `painted` (df==2) link this page to Pages/cains_jawbone_page_70.md; treat as overlap-only unless reinforced by a shared participant/venue/prop.
   - Phase 3 micro-pass (2026-01-05): body-only df==2 token overlaps: `ration` (Pages/cains_jawbone_page_3.md), `mist` (Pages/cains_jawbone_page_10.md), `cricket` (Pages/cains_jawbone_page_14.md), `land` (Pages/cains_jawbone_page_15.md), `grace` (Pages/cains_jawbone_page_17.md), `usual` (Pages/cains_jawbone_page_27.md), `blink` (Pages/cains_jawbone_page_30.md), `balance` (Pages/cains_jawbone_page_31.md), `hill` (Pages/cains_jawbone_page_40.md), `gasping` (Pages/cains_jawbone_page_47.md), `soul` (Pages/cains_jawbone_page_49.md), `held` (Pages/cains_jawbone_page_59.md), `painted` (Pages/cains_jawbone_page_70.md), `ringing` (Pages/cains_jawbone_page_74.md), `solution` (Pages/cains_jawbone_page_77.md), `result` (Pages/cains_jawbone_page_79.md). Treat as overlap-only unless reinforced by a second independent anchor.
 - **Voice/tells:**
   - Highly allusive, punning, self-aware about “celebration” as a specialty.

@@ -2033,8 +2033,9 @@ Delta from v2.30 (Phase 5 stitching; keep falsifiable):
 - **Phase 6 test (2026-01-05; boundary falsification):** `Pages/cains_jawbone_page_70.md → Pages/cains_jawbone_page_96.md`
   - **Predictions:** if this boundary is real, expect either narrator/scene continuity from the confession-writing context (p95→p70) into p96’s “Golden Tips” waiting scene, or at least a second independent anchor beyond the df==2 token `poem`.
   - **Re-read outcome:** no explicit cast/venue/prop continuity marker surfaced; page-body df scan finds only the df==2 token `poem` plus weaker df==3 overlaps (`written`; trigram `in the morning`) that are not sufficient on their own.
+  - **Phase 6 micro-pass (2026-01-06; overlap scan):** confirms the only low-df anchors are `poem` (df==2), `written` (df==3), bigram `the morning` (df==4), and trigram `in the morning` (df==3); no shared low-df 4–5-grams were found.
   - **Status:** p70→p96 = `UNCLEAR` (treat as a weak lexical gate until reinforced).
-  - **Replacement leads (block-level re-stitch):** p70 has stronger df==2 pulls toward p67 (`painted` + `i took the`) and p83 (`leaving` + `leaving me`); p96 has a large df==2 n‑gram overlap bundle with p29 (see `Indexes/narrators.md`). (All require re-stitching because these pages are currently pinned in other blocks.)
+  - **Replacement leads (block-level re-stitch):** p70 has stronger df==2 pulls toward p67 (`painted` + df==2 trigram `i took the`) and p83 (`leaving` + df==2 bigram `leaving me`); p96 has a large df==2 n‑gram overlap bundle with p29 (see `Indexes/narrators.md`). (All require re-stitching because these pages are currently pinned in other blocks.)
 
 - **Phase 6 test (2026-01-05; boundary falsification):** `Pages/cains_jawbone_page_100.md → Pages/cains_jawbone_page_66.md`
   - **Predictions:** if this boundary is real, expect more than the shared df==2 token `smiling`: at least one non-lexical continuity cue (shared cast/venue/prop/time constraint) tying p100’s “old dead” scene to p66’s “old school colours” scene.
