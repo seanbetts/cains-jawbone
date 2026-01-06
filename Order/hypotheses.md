@@ -571,13 +571,14 @@ Clusters prefixed with `Nxx` map to `Indexes/narrators.md`. Overlap is allowed; 
       - **Disconfirming evidence:**
         - “Somerset” on Pages/cains_jawbone_page_96.md is shown to be only the somersault idiom with no surname/person linkage, and Pages/cains_jawbone_page_17.md’s Kate Somerset is demonstrably unrelated.
         - The Page 96 meeting is later anchored to a different venue/cast than the Moon/Dawn scene, so the “possible her” cannot be the “Ah, here she is” arrival.
-    - **Sequence C — Aquarius pen seaside scene (unplaced)** (confidence: `MAYBE`)
+    - **Sequence C — Aquarius pen prologue (order-only)** (confidence: `MAYBE`)
       - **Pages:** Pages/cains_jawbone_page_1.md
       - **Why:**
-        - Shares the distinctive Aquarius/handwriting register (Aquarius pen ↔ Aquarius/Gemini pun), but lacks a phrase-level setting/cast anchor to place it relative to Pages/cains_jawbone_page_17.md → Pages/cains_jawbone_page_43.md.
+        - Shares the distinctive Aquarius/handwriting register (Aquarius pen ↔ Aquarius/Gemini pun), strongly supporting `N01` membership.
+        - Candidate ordering (order-only): Pages/cains_jawbone_page_1.md reads as an anticipatory “I will now write an account” beat (“what may happen” + “to-day is the day”) and is easiest to place **before** the in-venue waiting/arrival scenes (Pages/cains_jawbone_page_96.md → Pages/cains_jawbone_page_17.md → Pages/cains_jawbone_page_43.md), but there is no phrase-level continuity to force a tighter placement.
       - **Disconfirming evidence:**
         - Casy Ferris / St. Lazarus-in-the-Chine is shown to be a different narrator/setting altogether, forcing Pages/cains_jawbone_page_1.md out of `N01`.
-  - **Placement note (Phase 4):** treat `Pages/cains_jawbone_page_17.md → Pages/cains_jawbone_page_43.md` as the only adjacency-like lock (Moon/Dawn + hand logic + page-body-unique `I almost wish I`); treat `Pages/cains_jawbone_page_96.md → Pages/cains_jawbone_page_17.md` as a strong within-`N01` direction cue but not a forced adjacency (no shared word n‑grams 4–8); keep Pages/cains_jawbone_page_1.md unplaced relative to the café/table run.
+  - **Placement note (Phase 4):** treat `Pages/cains_jawbone_page_17.md → Pages/cains_jawbone_page_43.md` as the only adjacency-like lock (Moon/Dawn + hand logic + page-body-unique `I almost wish I`); treat `Pages/cains_jawbone_page_96.md → Pages/cains_jawbone_page_17.md` as a strong within-`N01` direction cue but not a forced adjacency (no shared word n‑grams 4–8). Pages/cains_jawbone_page_1.md is still **unplaced** relative to the café/table run, but if adopting an internal order, prefer it as an earlier prologue beat (order-only; not adjacent) pending a second scene/prop anchor.
   - **Phase 4 check (2026-01-05):** page-body word n‑gram scan (n=3–8) found the shared 4‑gram `I almost wish I` (Pages/cains_jawbone_page_17.md ↔ Pages/cains_jawbone_page_43.md) and **zero** shared n‑grams 3–8 for Pages/cains_jawbone_page_96.md ↔ Pages/cains_jawbone_page_17.md and Pages/cains_jawbone_page_1.md ↔ Pages/cains_jawbone_page_17.md/Pages/cains_jawbone_page_43.md.
   - **Next falsification check:** search page bodies for Casy Ferris / St. Lazarus-in-the-Chine / “whaups” / “dead old man” to see whether the Aquarius-pen strand extends beyond Pages/cains_jawbone_page_1.md (without imposing order).
 
