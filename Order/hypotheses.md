@@ -2048,9 +2048,9 @@ Delta from v2.30 (Phase 5 stitching; keep falsifiable):
 
 - **Phase 6 status (2026-01-05):** v2.32 worst-boundary micro-sweep completed.
   - **Upgraded to `PASS`:** p24→p86 (explicit “Next day …” + Caroline continuity); p27→p56 (shared morning/breakfast frame + `tiny`/`a tiny`).
-  - **High-priority `UNCLEAR` 1-anchor boundaries include:** p25→p27 (`woke`), p71→p20 (`had of`), p20→p33 (`same day`), p85→p49 (`i was still`), p51→p22 (`as i was`), p37→p97 (`thing i had`), p38→p9 (`fortnight`), p9→p25 (`earth`), p69→p84 (`bus`), p70→p96 (`poem`), p100→p66 (`smiling`), p83→p92 (`dew`).
+  - **High-priority `UNCLEAR` 1-anchor boundaries include:** p25→p27 (`woke`), p71→p33 (`it seemed to`), p85→p49 (`i was still`), p51→p22 (`as i was`), p37→p97 (`thing i had`), p38→p9 (`fortnight`), p9→p25 (`earth`), p69→p84 (`bus`), p70→p96 (`poem`), p100→p66 (`smiling`), p83→p92 (`dew`).
   - **Next move (recommended):** run one minimal trial re-stitch to eliminate one trigram-only join without introducing a new zero-anchor boundary; if that stalls, request a short Phase 3 micro-pass (narrator profiling) and/or Phase 2 micro-pass (targeted research) scoped to the remaining v2.32 1‑anchor joins (see join ledger).
-  - **Phase 6 update (2026-01-06; minimal trial re-stitch adopted as v2.33):** replace the trigram-only boundary `Pages/cains_jawbone_page_71.md → Pages/cains_jawbone_page_33.md` with `Pages/cains_jawbone_page_71.md → Pages/cains_jawbone_page_20.md → Pages/cains_jawbone_page_33.md` (df==2 bigram anchors `had of` and `same day`; plus low-df token hints `tea`/`pay`). Tradeoff: lose the stronger internal antiquarian `stone` bridge `Pages/cains_jawbone_page_20.md → Pages/cains_jawbone_page_28.md` and replace it with the weaker but still non-zero `Pages/cains_jawbone_page_18.md → Pages/cains_jawbone_page_28.md` (`single`/`person`).
+  - **Phase 6 test (2026-01-06; v2.33 trial re-stitch):** tried replacing `Pages/cains_jawbone_page_71.md → Pages/cains_jawbone_page_33.md` with `Pages/cains_jawbone_page_71.md → Pages/cains_jawbone_page_20.md → Pages/cains_jawbone_page_33.md` (df==2 bigram anchors `had of` and `same day`). Re-read found no second independent continuity marker at either new boundary (and `had of` is punctuation-derived), while it also broke the more contentful `Pages/cains_jawbone_page_20.md → Pages/cains_jawbone_page_28.md` (`stone`) antiquarian anchor. Treat as `FAIL` and keep v2.32.
 
 - **Block A (`N03` + `N40`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_32.md → Pages/cains_jawbone_page_3.md → Pages/cains_jawbone_page_30.md → Pages/cains_jawbone_page_23.md → Pages/cains_jawbone_page_24.md
 - **Block E (`N13`, confidence: `CERTAIN` internal):** Pages/cains_jawbone_page_86.md → Pages/cains_jawbone_page_87.md
@@ -2059,7 +2059,6 @@ Delta from v2.30 (Phase 5 stitching; keep falsifiable):
 - **Block Q (`N34`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_25.md
 - **Block Q2 (bridge, confidence: `MAYBE`):** Pages/cains_jawbone_page_27.md
 - **Block L (`N26`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_56.md → Pages/cains_jawbone_page_54.md → Pages/cains_jawbone_page_71.md
-- **Block D4 (`N34`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_20.md
 - **Block B (`N25` merged run, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_33.md → Pages/cains_jawbone_page_34.md → Pages/cains_jawbone_page_52.md → Pages/cains_jawbone_page_53.md
 - **Block F (`N19`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_4.md → Pages/cains_jawbone_page_58.md → Pages/cains_jawbone_page_5.md
 - **Block C0 (`N28`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_81.md
@@ -2067,6 +2066,7 @@ Delta from v2.30 (Phase 5 stitching; keep falsifiable):
 - **Block D (`N11`, confidence: `LIKELY` placement):** Pages/cains_jawbone_page_91.md
 - **Block D2 (`N18`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_78.md
 - **Block D3 (`N35`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_18.md
+- **Block D4 (`N34`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_20.md
 - **Block I2 (`N39`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_28.md
 - **Block J (`N08`, confidence: `MAYBE` internal):** Pages/cains_jawbone_page_15.md → Pages/cains_jawbone_page_82.md → Pages/cains_jawbone_page_94.md → Pages/cains_jawbone_page_16.md → Pages/cains_jawbone_page_85.md
 - **Block G (`N20` + `N21` bridge, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_49.md → Pages/cains_jawbone_page_13.md → Pages/cains_jawbone_page_31.md
@@ -2108,7 +2108,7 @@ Delta from v2.30 (Phase 5 stitching; keep falsifiable):
   - **Replacement lead (block-level re-stitch):** insert Pages/cains_jawbone_page_27.md as a bridge: `Pages/cains_jawbone_page_25.md → Pages/cains_jawbone_page_27.md → Pages/cains_jawbone_page_56.md`.
     - **Why:** page-body df scan shows this eliminates the generic trigram-only join by replacing it with df==2 token anchors: `woke` (25↔27) and `tiny` (27↔56), plus additional low-df overlaps (27↔56: df==2 bigram `a tiny`; df==3 tokens `mixed`, `six`).
     - **Tradeoff:** Pages/cains_jawbone_page_27.md is currently placed inside Block A in v2.30; adopting this bridge requires unpinning it from that block and re-stitching Block A’s remaining pages without introducing new zero-anchor block boundaries near the start of the full-order draft.
-  - **Outcome:** `UNCLEAR` (removed from v2.33 in favour of the `Pages/cains_jawbone_page_71.md → Pages/cains_jawbone_page_20.md → Pages/cains_jawbone_page_33.md` bridge).
+  - **Outcome:** `UNCLEAR` (treat as a pure placeholder join).
 
 - **Join (confidence: `MAYBE`):** Pages/cains_jawbone_page_37.md → Pages/cains_jawbone_page_97.md
   - **Why:** v2.29/v2.30 block boundary feeding the `N07` internal-debate run (`Pages/cains_jawbone_page_97.md → Pages/cains_jawbone_page_93.md`) from the `N29` singleton; only df==2 anchor is the generic trigram `thing i had` (no df==2 token anchors).
