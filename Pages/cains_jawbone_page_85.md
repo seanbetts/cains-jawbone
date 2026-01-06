@@ -37,6 +37,7 @@ LIKELY WORDPLAY
   - Time/automation (“true to time”; “automaton”).
   - Concealment: “put Henry’s keenness… below the… salt-cellar” (hiding an object/tool?).
   - Resolution/relief (“all the weary business was ended”).
+  - Phase 6 micro-pass (2026-01-06): page-body phrase echo `stuff … for ever` occurs only here and Pages/cains_jawbone_page_3.md (“glorious stuff galore for ever” ↔ “all the stuff I wanted for ever”). Treat as overlap-only unless reinforced by a shared substance/scene marker.
   - Phase 3 micro-pass (2026-01-05): body-only df==2 token overlaps: `childish` (Pages/cains_jawbone_page_10.md), `twin` (Pages/cains_jawbone_page_47.md), `pale` (Pages/cains_jawbone_page_87.md), `jibe` (Pages/cains_jawbone_page_90.md). Treat as overlap-only unless reinforced by a second independent anchor.
 - **Voice/tells:**
   - Self-referential about name-jibes; detective/allusion density; calm after stress.

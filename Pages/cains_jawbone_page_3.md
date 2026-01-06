@@ -33,6 +33,7 @@ LIKELY WORDPLAY
   - Numeric precision: “seventeen thousand six hundred yards” = 10 miles exactly (1760 yd/mile).
   - Pills / “assassin’s wonderful substance”: LIKELY hashish/hasheesh, per EB1911’s etymology of “assassin” as “Hashīshīn, from Hashish” (and note that fedais “were intoxicated with the hashīsh”): https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Assassin.
   - Publishing-world references; travel readiness (“rain-proof coat, good shoes”); “I have no chair.”
+  - Phase 6 micro-pass (2026-01-06): page-body phrase echo `stuff … for ever` occurs only here and Pages/cains_jawbone_page_85.md (“glorious stuff galore for ever” ↔ “all the stuff I wanted for ever”). Treat as overlap-only unless reinforced by a shared substance/scene marker.
   - Phase 3 micro-pass (2026-01-05): body-only df==2 token overlaps: `exact` (Pages/cains_jawbone_page_1.md), `mary` (Pages/cains_jawbone_page_16.md), `clement` (Pages/cains_jawbone_page_22.md), `ease` (Pages/cains_jawbone_page_35.md), `coat` (Pages/cains_jawbone_page_39.md), `wonderful` (Pages/cains_jawbone_page_50.md), `forgotten` (Pages/cains_jawbone_page_55.md), `major` (Pages/cains_jawbone_page_62.md), `ration` (Pages/cains_jawbone_page_67.md). Treat as overlap-only unless reinforced by a second independent anchor.
 - **Voice/tells:**
   - Transactional, self-satisfied tone; mixes commerce (publishers) with menace (assassin substance).

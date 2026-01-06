@@ -1985,12 +1985,13 @@ Delta from v2.30 (Phase 5 stitching; keep falsifiable):
 
 - **Phase 6 test (2026-01-05; boundary falsification):** `Pages/cains_jawbone_page_85.md → Pages/cains_jawbone_page_49.md`
   - **Predictions:** if this boundary is real, expect more than the shared name `Henry` + a generic phrase echo: at least one non-lexical continuity cue across the narrator switch (shared venue, shared prop/letter/food/drink, or a time-constraint cue that makes the cut meaningful).
-  - **Re-read outcome:** hard scene/voice break with no shared cast/prop/venue marker surfaced; page-body df==2 scan finds only the df==2 trigram `i was still` (no df==2 token anchors; no other shared df≤3 n‑grams n=2–6).
+  - **Re-read outcome:** hard scene/voice break with no shared cast/prop/venue marker surfaced; page-body df==2 scan finds only the df==2 trigram `i was still` (no df==2 token anchors; no other shared df≤3 n‑grams n=2–6). Additional disconfirming cue: Pages/cains_jawbone_page_49.md calls this the narrator’s “first introduction” to Henry, which is hard to reconcile with Pages/cains_jawbone_page_85.md’s “I drove Henry home” unless these are different Henrys.
   - **Status:** p85→p49 = `UNCLEAR` (placeholder join; treat as high-priority to replace).
   - **Replacement leads (block-level re-stitch):**
     - p85→p47 (df==2 token `twin` + df==2 bigram `and left`), but p47 is currently pinned by the stronger `p50 → p47` multi-anchor gate → only adopt if a replacement successor for p50 is found.
     - p85→p4 (df==2 bigram `old thing`), but adopting it would disrupt the currently anchored segment `p53 → p4 → p58 → p5 → p81 → p6` unless those boundaries can be re-satisfied elsewhere.
     - p85→p25 (df==2 phrase family `it occurred (to)`), but p25 is already serving as an early placement anchor; treat as a lead only unless a second continuity marker appears.
+    - p85↔p3 via the phrase family `stuff … for ever` (p3 “glorious stuff galore for ever” ↔ p85 “all the stuff I wanted for ever”); requires re-stitching because p3 is currently pinned in Block A.
     - p85→p90 (`jibe` + `a dog`); p49←p72 (`pleasant` + the `was pleasant to` phrase family); p49←p21 (`dazed`/`keep` + `to keep`); p49←p12 (`bowed` + `words of the poet`). (All require re-stitching because these pages are currently pinned in other blocks.)
 
 - **Phase 6 test (2026-01-05; boundary falsification):** `Pages/cains_jawbone_page_51.md → Pages/cains_jawbone_page_22.md`
