@@ -2063,6 +2063,27 @@ Delta from v2.32 (Phase 5 targeted re-stitch; keep falsifiable):
 - Rehome Page 71 to sit between `Pages/cains_jawbone_page_60.md` and `Pages/cains_jawbone_page_91.md` with df==2 anchors `success` (p60↔p71) and `the eye` (p71↔p91).
 - Eliminate the trigram-only boundary `Pages/cains_jawbone_page_85.md → Pages/cains_jawbone_page_49.md` by moving `Block X` (`Pages/cains_jawbone_page_47.md → Pages/cains_jawbone_page_76.md → Pages/cains_jawbone_page_98.md`) to sit immediately after Page 85: this yields `Pages/cains_jawbone_page_85.md → Pages/cains_jawbone_page_47.md` (df==2 `twin` + df==2 bigram `and left`) and `Pages/cains_jawbone_page_98.md → Pages/cains_jawbone_page_49.md` (df==2 token `simple`). Tradeoff: this drops the former `Pages/cains_jawbone_page_50.md → Pages/cains_jawbone_page_47.md` multi-anchor gate and leaves `Pages/cains_jawbone_page_50.md` as the current terminal page; treat as a trial until a stronger successor for Page 50 (or a stronger predecessor for Page 49) emerges.
 
+- **Phase 6 test (2026-01-06; v2.34 join falsification):** `Pages/cains_jawbone_page_54.md → Pages/cains_jawbone_page_33.md`
+  - **Predictions:** if this boundary is real, expect continuity of the specific letter/paper scene (shared sender/recipient, shared debt/poison frame, or a time hinge), not just the shared phrase `a letter from`.
+  - **Re-read outcome:** only shared anchor is the phrase family `a letter from` / `letter from` (plus generic `letter`), and the scenes appear unrelated (p54: Miss Doncaster breakfast letter + poisoning plan; p33: Gourdoulis debts box + letter from a dead woman); hard voice/scene break.
+  - **Status:** `UNCLEAR` (still lexical-only; needs a second independent anchor or a different predecessor for Page 33).
+- **Phase 6 test (2026-01-06; v2.34 join falsification):** `Pages/cains_jawbone_page_60.md → Pages/cains_jawbone_page_71.md`
+  - **Predictions:** if this boundary is real, expect continuity tying p60’s “success” outcome to p71’s “initial success… failing” (shared target/action/setting), or a second independent anchor beyond the df==2 token `success`.
+  - **Re-read outcome:** no shared cast/prop/venue marker surfaced; overlap scan finds only `success` (df==2) plus weaker `letting` (df==3). The “initial success” phrasing could be generic rather than a continuation beat.
+  - **Status:** `UNCLEAR` (weak; may be worse than the direct `p60 → p91` `steps` gate if Page 71 returns to the `N26` run).
+- **Phase 6 test (2026-01-06; v2.34 join falsification):** `Pages/cains_jawbone_page_71.md → Pages/cains_jawbone_page_91.md`
+  - **Predictions:** if this boundary is real, expect continuity of the “eye” incident (same object/scene consequence) or another independent anchor beyond the df==2 bigram `the eye`.
+  - **Re-read outcome:** hard voice/scene break (May/tea/coastguard anecdote ↔ De’Ath nameplay/Black Museum/Blue Rocket); overlap scan finds only df==2 bigram `the eye` (plus generic `eye`).
+  - **Status:** `UNCLEAR` (lexical-only; do not treat as a placement lock).
+- **Phase 6 test (2026-01-06; v2.34 join falsification):** `Pages/cains_jawbone_page_85.md → Pages/cains_jawbone_page_47.md`
+  - **Predictions:** if this boundary is real, expect a non-lexical hinge (shared scene/prop/time cue) for the Henry/table transition, not just the rare lexical overlaps.
+  - **Re-read outcome:** overlap scan finds df==2 token `twin` + df==2 bigram `and left`, but no shared venue/prop/time marker surfaced; hard voice/setting break (detective allusions + salt-cellar concealment ↔ verandah/rain/tea register).
+  - **Status:** `UNCLEAR` (multi-lexical but still lacks a second independent anchor type).
+- **Phase 6 test (2026-01-06; v2.34 join falsification):** `Pages/cains_jawbone_page_98.md → Pages/cains_jawbone_page_49.md`
+  - **Predictions:** if this boundary is real, expect continuity from the money/doctor decision scene into the “dazed… first introduction to Henry” scene (shared participant/venue/time constraint), not just the df==2 token `simple`.
+  - **Re-read outcome:** hard scene/voice break; overlap scan finds only df==2 token `simple` (p98 “simple faith” ↔ p49 “simple soul”) and no shared non-lexical continuity marker.
+  - **Status:** `UNCLEAR` (lexical-only; treat as placeholder).
+
 - **Block A (`N03` + `N40`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_32.md → Pages/cains_jawbone_page_3.md → Pages/cains_jawbone_page_30.md → Pages/cains_jawbone_page_23.md → Pages/cains_jawbone_page_24.md
 - **Block E (`N13`, confidence: `CERTAIN` internal):** Pages/cains_jawbone_page_86.md → Pages/cains_jawbone_page_87.md
 - **Block E2 (`N14`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_63.md → Pages/cains_jawbone_page_38.md
