@@ -2121,6 +2121,54 @@ Delta from v2.32 (Phase 5 targeted re-stitch; keep falsifiable):
 - **Block S (`N02` dog POV (Aug run), confidence: `LIKELY` internal):** Pages/cains_jawbone_page_22.md → Pages/cains_jawbone_page_79.md → Pages/cains_jawbone_page_48.md → Pages/cains_jawbone_page_88.md → Pages/cains_jawbone_page_39.md → Pages/cains_jawbone_page_10.md → Pages/cains_jawbone_page_99.md → Pages/cains_jawbone_page_8.md → Pages/cains_jawbone_page_19.md → Pages/cains_jawbone_page_57.md → Pages/cains_jawbone_page_64.md → Pages/cains_jawbone_page_61.md → Pages/cains_jawbone_page_46.md
 - **Block V0 (bridge, confidence: `MAYBE`):** Pages/cains_jawbone_page_72.md → Pages/cains_jawbone_page_1.md
 - **Block V (`N10` + `N39`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_14.md → Pages/cains_jawbone_page_12.md → Pages/cains_jawbone_page_50.md
+
+### Proposed order (all 100 pages; v2.35)
+
+- **Status (2026-01-06):** trial macro re-stitch; `FAIL` (introduces a new zero-anchor block boundary). Keep as a recorded experiment only.
+
+Delta from v2.32 (macro tail move; keep falsifiable):
+
+- Attempt to eliminate the trigram-only boundary `Pages/cains_jawbone_page_51.md → Pages/cains_jawbone_page_22.md` by relocating the full tail unit (`Block S → Block V0 → Block V → Block X`) to sit immediately after `Block O`, yielding `Pages/cains_jawbone_page_89.md → Pages/cains_jawbone_page_22.md` (df==2 token `loved`) while preserving the existing internal tail gates (`Pages/cains_jawbone_page_46.md → Pages/cains_jawbone_page_72.md`; `Pages/cains_jawbone_page_1.md → Pages/cains_jawbone_page_14.md`; `Pages/cains_jawbone_page_50.md → Pages/cains_jawbone_page_47.md`).
+
+- **Phase 6 test (2026-01-06; v2.35 boundary falsification):** `Pages/cains_jawbone_page_98.md → Pages/cains_jawbone_page_7.md`
+  - **Predictions:** if the macro move is viable, the new post-tail successor for Pages/cains_jawbone_page_98.md should have at least one df==2 token/ngram anchor and ideally a second independent continuity marker (voice/prop/place/time) to avoid creating a new worst-case boundary.
+  - **Overlap scan outcome:** page-body scan finds **no** shared df≤3 token anchors and no shared low-df n‑gram anchors (n=2–6, df≤3) between Pages/cains_jawbone_page_98.md and Pages/cains_jawbone_page_7.md.
+  - **Status:** `FAIL` (macro move creates a new zero-anchor block boundary worse than the one it removes; do not adopt).
+
+- **Block A (`N03` + `N40`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_32.md → Pages/cains_jawbone_page_3.md → Pages/cains_jawbone_page_30.md → Pages/cains_jawbone_page_23.md → Pages/cains_jawbone_page_24.md
+- **Block E (`N13`, confidence: `CERTAIN` internal):** Pages/cains_jawbone_page_86.md → Pages/cains_jawbone_page_87.md
+- **Block E2 (`N14`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_63.md → Pages/cains_jawbone_page_38.md
+- **Block O1 (`N27`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_9.md
+- **Block Q (`N34`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_25.md
+- **Block Q2 (bridge, confidence: `MAYBE`):** Pages/cains_jawbone_page_27.md
+- **Block L (`N26`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_56.md → Pages/cains_jawbone_page_54.md → Pages/cains_jawbone_page_71.md
+- **Block B (`N25` merged run, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_33.md → Pages/cains_jawbone_page_34.md → Pages/cains_jawbone_page_52.md → Pages/cains_jawbone_page_53.md
+- **Block F (`N19`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_4.md → Pages/cains_jawbone_page_58.md → Pages/cains_jawbone_page_5.md
+- **Block C0 (`N28`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_81.md
+- **Block C (`N12` poison-logistics + Trinder chain, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_6.md → Pages/cains_jawbone_page_21.md → Pages/cains_jawbone_page_36.md → Pages/cains_jawbone_page_29.md → Pages/cains_jawbone_page_35.md → Pages/cains_jawbone_page_77.md → Pages/cains_jawbone_page_80.md → Pages/cains_jawbone_page_59.md → Pages/cains_jawbone_page_60.md
+- **Block D (`N11`, confidence: `LIKELY` placement):** Pages/cains_jawbone_page_91.md
+- **Block D2 (`N18`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_78.md
+- **Block D3 (`N35`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_18.md
+- **Block D4 (`N34`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_20.md
+- **Block I2 (`N39`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_28.md
+- **Block J (`N08`, confidence: `MAYBE` internal):** Pages/cains_jawbone_page_15.md → Pages/cains_jawbone_page_82.md → Pages/cains_jawbone_page_94.md → Pages/cains_jawbone_page_16.md → Pages/cains_jawbone_page_85.md
+- **Block G (`N20` + `N21` bridge, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_49.md → Pages/cains_jawbone_page_13.md → Pages/cains_jawbone_page_31.md
+- **Block O (`N32`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_62.md → Pages/cains_jawbone_page_65.md → Pages/cains_jawbone_page_90.md → Pages/cains_jawbone_page_89.md
+- **Block S (`N02` dog POV (Aug run), confidence: `LIKELY` internal):** Pages/cains_jawbone_page_22.md → Pages/cains_jawbone_page_79.md → Pages/cains_jawbone_page_48.md → Pages/cains_jawbone_page_88.md → Pages/cains_jawbone_page_39.md → Pages/cains_jawbone_page_10.md → Pages/cains_jawbone_page_99.md → Pages/cains_jawbone_page_8.md → Pages/cains_jawbone_page_19.md → Pages/cains_jawbone_page_57.md → Pages/cains_jawbone_page_64.md → Pages/cains_jawbone_page_61.md → Pages/cains_jawbone_page_46.md
+- **Block V0 (bridge, confidence: `MAYBE`):** Pages/cains_jawbone_page_72.md → Pages/cains_jawbone_page_1.md
+- **Block V (`N10` + `N39`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_14.md → Pages/cains_jawbone_page_12.md → Pages/cains_jawbone_page_50.md
+- **Block X (bridge, confidence: `MAYBE`):** Pages/cains_jawbone_page_47.md → Pages/cains_jawbone_page_76.md → Pages/cains_jawbone_page_98.md
+- **Block H (`N16`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_7.md → Pages/cains_jawbone_page_45.md → Pages/cains_jawbone_page_26.md → Pages/cains_jawbone_page_44.md → Pages/cains_jawbone_page_55.md
+- **Block R (`N09`, confidence: `MAYBE` internal):** Pages/cains_jawbone_page_68.md → Pages/cains_jawbone_page_69.md
+- **Block H2 (`N37`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_84.md
+- **Block H1 (`N29`, confidence: `MAYBE` placement):** Pages/cains_jawbone_page_37.md
+- **Block K (`N07`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_97.md → Pages/cains_jawbone_page_93.md
+- **Block I (`N17`, confidence: `CERTAIN` internal):** Pages/cains_jawbone_page_41.md → Pages/cains_jawbone_page_11.md
+- **Block R2 (`N09` Café Royal/confession, confidence: `MAYBE` internal):** Pages/cains_jawbone_page_95.md → Pages/cains_jawbone_page_70.md
+- **Block N (`N01`, confidence: `MAYBE` internal):** Pages/cains_jawbone_page_96.md → Pages/cains_jawbone_page_17.md → Pages/cains_jawbone_page_43.md → Pages/cains_jawbone_page_100.md
+- **Block W (`N06`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_66.md → Pages/cains_jawbone_page_67.md → Pages/cains_jawbone_page_73.md → Pages/cains_jawbone_page_74.md → Pages/cains_jawbone_page_75.md → Pages/cains_jawbone_page_83.md
+- **Block M (`N21`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_92.md → Pages/cains_jawbone_page_42.md
+- **Block M2 (bridge, confidence: `MAYBE`):** Pages/cains_jawbone_page_2.md → Pages/cains_jawbone_page_40.md → Pages/cains_jawbone_page_51.md
 ### Phase 6 boundary tests for v2.30 (block boundaries)
 
 - **Phase 6 scan (2026-01-04):** recomputed df==2 token/ngram overlaps for v2.30 *block-boundary* adjacencies (page-body only; Notes ignored). v2.30 retains the v2.29 zero-boundary elimination, but replaces the weakest permutation gate `Pages/cains_jawbone_page_70.md → Pages/cains_jawbone_page_84.md` by splitting `Block R` and relocating the Café Royal/confession pair `Pages/cains_jawbone_page_95.md → Pages/cains_jawbone_page_70.md` to sit after `Block I`. Key new boundary anchors include `Pages/cains_jawbone_page_69.md → Pages/cains_jawbone_page_84.md` (`bus`), `Pages/cains_jawbone_page_11.md → Pages/cains_jawbone_page_95.md` (df==2 phrase `what to do`), and `Pages/cains_jawbone_page_70.md → Pages/cains_jawbone_page_96.md` (df==2 token `poem`), while preserving the prior non-zero gates `Pages/cains_jawbone_page_100.md → Pages/cains_jawbone_page_66.md` (`smiling`), `Pages/cains_jawbone_page_83.md → Pages/cains_jawbone_page_92.md` (`dew`), and `Pages/cains_jawbone_page_42.md → Pages/cains_jawbone_page_2.md` (`figures`/`surmised`). The df==2 scan flags **no** v2.30 block-boundary adjacencies with zero shared df==2 token anchors and zero shared df==2 n‑gram anchors.
