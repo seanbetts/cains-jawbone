@@ -2229,6 +2229,8 @@ Delta from v2.36:
 
 - **Phase 6 test (2026-01-06):** `python3 Scripts/scan_df2_boundaries.py --version v2.37 --mode block --list zero` → 0 zero-anchor boundaries.
 - **Phase 6 triage:** treat the new weak joins as provisional and re-read at their boundaries: `Pages/cains_jawbone_page_85.md → Pages/cains_jawbone_page_49.md` (ngram-only) and `Pages/cains_jawbone_page_71.md → Pages/cains_jawbone_page_7.md` (single df==2 token).
+- **Phase 6 re-read (2026-01-07):** `Pages/cains_jawbone_page_85.md → Pages/cains_jawbone_page_49.md` — hard voice/scene break; no boundary-local continuity marker beyond the df==2 trigram `i was still` (internal to both pages, not a handoff). Keep as a placeholder join until a second independent anchor (prop/place/time/cast) or a stronger successor for Page 85 emerges.
+- **Phase 6 re-read (2026-01-07):** `Pages/cains_jawbone_page_71.md → Pages/cains_jawbone_page_7.md` — hard voice/scene break; the only positive anchor remains the df==2 token `odour`. Keep as a placeholder join unless a second independent continuity marker appears (or a different bridge into `Block H` can be found that doesn’t reintroduce zero-anchor block boundaries).
 - **Falsifier(s):** any stronger predecessor/successor evidence (2+ independent anchors, or hard continuity) that excludes these joins should cause immediate rollback of v2.37.
 
 - **Block A (`N03` + `N40`, confidence: `LIKELY` internal):** Pages/cains_jawbone_page_32.md → Pages/cains_jawbone_page_3.md → Pages/cains_jawbone_page_30.md → Pages/cains_jawbone_page_23.md → Pages/cains_jawbone_page_24.md
