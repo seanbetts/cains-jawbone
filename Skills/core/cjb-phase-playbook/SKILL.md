@@ -1,6 +1,6 @@
 ---
 name: cjb-phase-playbook
-version: 1.0
+version: 1.1
 description: Phase-by-phase playbook for Cain’s Jawbone. Use at the start of a run and whenever the phase changes to decide allowed actions, required Skills, required outputs, and exit conditions.
 ---
 
@@ -249,12 +249,14 @@ Optional:
   - similar emotional tone
 - Propose clusters as narrative strands (not sequences).
 - Allow overlap: pages may belong to multiple clusters early.
+- Profile narrators using **VOICE vs QUOTE-LAYER** tells (quotes/allusions alone are not sufficient to merge voices).
+- Record 1–2 **exclusion tells** (anti-anchors) for each narrator/cluster to break ties later.
 
 ### Update files
 - `Order/hypotheses.md` (clusters only; reasons + falsifiers)
 - Optional: add “cluster candidates” notes on pages under `## Notes`
 - `Indexes/wordplay.md` (copy `LIKELY WORDPLAY` blocks for cross-page scanning)
-- `Indexes/narrators.md` (narrator signatures + page lists)
+- `Indexes/narrators.md` (narrator signatures + page lists; keep VOICE vs QUOTE-LAYER separate when useful; include exclusion tells)
 - Keep indices consistent as clusters reveal duplicates/aliases
 
 ### Forbidden actions
@@ -265,6 +267,7 @@ Optional:
 ### Exit condition
 - 4–8 rough clusters exist with defensible rationales and falsifiers.
 - You can describe what makes each cluster coherent (voice/motif/people/place).
+- Each cluster has a short “cluster card” (2–3 strongest non-quote anchors, candidate bridge endpoints, and a tie-break plan for any “pending disambiguation” pages).
 
 ---
 
@@ -325,12 +328,14 @@ Optional:
 - Use shared characters and consequences as constraints.
 - Use deaths as connectors, not endpoints.
 - Start stabilising murderer/victim candidate tracking as ordering firms up.
+- Maintain a **join ledger**: tag each cross-cluster boundary as `strong` (2+ independent anchors) vs `placeholder` (lexical-only / quote-only), and give every placeholder a next falsification check.
 
 ### Update files
 - `Order/hypotheses.md` (cross-cluster joins + alternatives + falsifiers)
 - `Order/cast.md` (candidate roles with confidence + falsifiers)
 - `Order/confidence.md` (event-level murder hypotheses as needed)
 - Indices as newly revealed links require deduplication
+- `Order/hypotheses.md` should include (or link to) the join ledger so Phase 6 falsification can systematically retire placeholders.
 
 ### Forbidden actions
 - Do not “finalise” if major ordering uncertainty remains.
@@ -339,6 +344,7 @@ Optional:
 ### Exit condition
 - A single proposed full ordering exists (even if confidence varies across segments).
 - Murderer/victim candidates have narrowed and are becoming consistent with the ordering.
+- Every placeholder join in the join ledger has an explicit next check (re-read target, alternative predecessor/successor lead, or a queued research item that would decide it).
 
 ---
 

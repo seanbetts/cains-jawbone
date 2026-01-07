@@ -1,6 +1,6 @@
 ---
 name: cjb-order-hypotheses
-version: 1.0
+version: 1.1
 description: Build and critique Cain’s Jawbone page clusters and candidate sequences using evidence, confidence, and explicit disconfirming tests (no brute force).
 ---
 
@@ -48,6 +48,15 @@ For each cluster, record:
 
 If a page fits multiple clusters, record it in each cluster as **pending disambiguation** (do not force a merge early).
 
+#### Cluster card (recommended format; Phase 3-safe)
+
+In addition to the bullets above, add a short “cluster card” to make later stitching cheaper:
+
+- **Strong anchors (non-quote):** 2–3 anchors that are not just detachable quotations (voice tells, shared cast/props, place/time constraints).
+- **Quote-layer anchors (optional):** record, but do not let these be the only glue.
+- **Bridge endpoints (candidates):** pages that *look like* good predecessor/successor attachment points (scene openings/closings, handoffs, explicit “next day”, arrivals/departures). This is not a sequencing claim.
+- **Pending disambiguation:** pages that fit multiple clusters and the tie-break test that would decide (a specific re-read, an index cross-check, or a research item).
+
 ### Pass 2: Intra-cluster ordering
 
 Order within a cluster using:
@@ -71,3 +80,14 @@ Only attempt when there are strong anchors (time/place/explicit references), and
 - **Promotion criteria:** prefer joins where continuity holds across 2+ independent dimensions (e.g., time + place, character + object, voice + quote anchor).
 - **Conflict handling:** if a page fits multiple clusters equally well, keep it in both and explicitly mark “pending disambiguation” until later evidence breaks the tie.
 - **Merge signals:** consider merging clusters only when they share multiple pages, share a narrator signature, or share multiple independent anchors; otherwise keep them separate with explicit alternative joins.
+
+#### Join ledger (recommended; Phase 5+)
+
+Maintain a join ledger in `Order/hypotheses.md` so weak boundaries are explicit and testable:
+
+- Tag each cross-cluster boundary as:
+  - `strong` — 2+ independent anchors across dimensions (time/place/cast/object/voice/quote continuation + something else).
+  - `placeholder` — lexical-only (single token/ngram) or quote-only; usable for a full draft, but must be targeted for replacement/falsification.
+- Every `placeholder` join must include:
+  - **Next falsification check** (what you will do next to upgrade/break it),
+  - 1–3 **replacement leads** (alternative predecessor/successor candidates) to prevent “circling”.

@@ -1,6 +1,6 @@
 ---
 name: cjb-narrator-profiling
-version: 1.0
+version: 1.1
 description: Systematically catalogue narrator “signatures” (voice tells) across pages to support clustering without imposing page order.
 ---
 
@@ -11,6 +11,7 @@ description: Systematically catalogue narrator “signatures” (voice tells) ac
 - Do not edit page body text (only write under `## Notes`).
 - Do not impose page order (this skill is for clustering by voice, not sequencing).
 - Keep claims reversible and falsifiable; allow overlap early.
+- Separate **VOICE** tells from **QUOTE-LAYER** tells (quotes/allusions are often detachable and should not be the only basis for merging narrators).
 
 ## Phase gating
 
@@ -25,26 +26,26 @@ description: Systematically catalogue narrator “signatures” (voice tells) ac
 
 ## Procedure
 
-1. Extract voice tells from the page (skip anything that’s just a quotation being inserted):
-   - diction (formal/informal; favourite words)
-   - punctuation/typography habits (dashes, semicolons, parentheses)
-   - professional knowledge (law, medicine, theatre, botany, naval terms)
-   - social register/class tells (servants, clubs, schools, habits)
-   - obsessive motifs (food/drink, plants, dogs/cats, citations)
+1. Extract tells from the page into two buckets:
+   - **VOICE tells** (preferred for clustering): diction, punctuation habits, profession knowledge, social register/class tells, recurring obsessions (food/drink, plants, pets, etc.).
+   - **QUOTE-LAYER tells** (record, but treat as detachable): quotations/allusions inserted for flavour, including long/identifiable source snippets that do not imply scene continuity.
 2. Compare against existing narrator entries in `Indexes/narrators.md`.
 3. If it matches an existing narrator:
    - append the page to that `Nxx` entry
-   - add any new signature tells
+   - add any new VOICE signature tells (and QUOTE-LAYER tells only as secondary support)
    - adjust confidence conservatively
 4. If it does not match:
    - create a new `Nxx` entry with a short label and the initial signature tells
 5. If uncertain:
    - record multiple candidate narrator IDs (e.g. `MAYBE N03 / N07`) and add a falsifier to break the tie later.
+6. Add 1–2 **exclusion tells** (anti-anchors) for the narrator hypothesis (what would rule this voice out if seen on another page).
 
 ## Template (recommended)
 
 - `Nxx` — Label:
-  - **Signature tells:**  
+  - **Signature tells (VOICE):**  
+  - **Recurring quote-layer tells (optional):**  
+  - **Exclusion tells (anti-anchors):**  
   - **Likely identity (if any):**  
   - **Pages:**  
   - **Confidence:** `MAYBE` / `LIKELY` / `CERTAIN`  
