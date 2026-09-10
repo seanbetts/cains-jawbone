@@ -1,128 +1,40 @@
-# Cain’s Jawbone — Notes & Ordering Workspace
+# Cain’s Jawbone research workspace
 
-This repository is a working notebook for solving **Cain’s Jawbone** by annotating each page, building global indices of clues, clustering pages by voice/motifs, and iteratively proposing (and falsifying) ordering hypotheses.
+A literary notebook for extracting clues, resolving historical references, and testing reversible ordering and identity claims. Read [AGENTS.md](AGENTS.md) before working.
 
-This is not a software project; the “code” here exists only to protect text integrity and support lightweight analysis.
+## Workflow
 
-## Folder layout
+Complete a factual pass through all 100 pages first. Then use focused research, provisional clustering, partial ordering, and discriminating tests in an iterative loop. Every relationship says exactly what it asserts; shared wording is a retrieval aid, and earlier-than does not mean immediately-before. Progress means reduced uncertainty supported by evidence, not more matches or a complete-looking draft.
 
-- `Pages/` — `cains_jawbone_page_1.md` … `cains_jawbone_page_100.md` (page text + `## Notes`)
-- `Archive/` — immutable source text + hash (`Cain's Jawbone Unformatted.txt`, `hash.txt`)
-- `Indexes/` — global indices (`people.md`, `places.md`, `quotes.md`, `objects_motifs.md`, `research_queue.md`)
-- `Order/` — ordering hypotheses and clusters (`hypotheses.md`), plus cast + murder-confidence ledgers (`cast.md`, `confidence.md`)
-- `Skills/` — modular workflows (authoritative procedures in each `SKILL.md`)
-- `verify_pages.py` — integrity verifier (archive hash + page-body immutability)
-- `Worklog/worklog.csv` — mandatory session log (see `Skills/cjb-time-logging/SKILL.md`)
-- `Worklog/current_run.txt` — active run metadata (empty means no active run)
+[The phase playbook](Skills/core/cjb-phase-playbook/SKILL.md) owns permissions, research admission and final gates. [The schema](Templates/SCHEMA.md) owns record fields and support standards. Skills under `Skills/` describe specific techniques, including targeted wordplay detection, narrator profiling and murder analysis.
 
-## Golden rules
+## Files
 
-- Never edit the page body text in `Pages/*.md` (only write under `## Notes`).
-- Never modify anything in `Archive/`.
-- Run `python3 verify_pages.py` after edits and before commits.
-- Log session start/end (UTC) and append to `Worklog/worklog.csv` per the time-logging skill.
-- Don’t brute-force ordering (100! is not a strategy).
+| Path | Purpose |
+|---|---|
+| `Archive/` | Immutable archived text and hash |
+| `Pages/` | 100 page bodies, with editable Notes below each body |
+| `State/` | Canonical evidence, claims, research, tests, coverage and partial order for new runs |
+| `Sources/catalog.json` | Admitted historical sources with publication metadata |
+| `Templates/` | Empty readable views and canonical v2 schema |
+| `Indexes/`, `Order/` | Readable views linking canonical IDs; existing populated files are legacy state |
+| `Worklog/` | Active run metadata and UTC session log |
+| `Skills/`, `Scripts/` | Procedures and small integrity/analysis tools |
+| `FINAL_SOLUTION.md` | Answers only after final checks |
 
-## Master plan
+The existing Markdown progress remains historical evidence. It has not been automatically converted into verified v2 claims. `--legacy` validation checks legacy structure only; it never promotes past conclusions.
 
-This project follows a phased approach. Phases should be completed in order.
+## Tools
 
-**Phase 1: Page extraction**  
-Read all 100 pages and extract signals without attempting to order them. Capture entities, quotations, objects, motifs, temporal hints, and uncertainties in `## Notes`, keeping global indices up to date. The goal is coverage, not understanding.
+Run each tool with `--help` for options.
 
-**Phase 2: External research resolution**  
-Resolve shared or anchoring references (quotations, dates, places) that recur across pages or appear to structure time or movement. Research is bounded and conservative, aimed at collapsing ambiguity rather than explaining everything.
+- `verify_pages.py`: archive hash, exact page inventory, Notes headings and page bodies.
+- `validate_state.py --root PATH`: structured records, exact evidence spans, dependencies and constraint consistency; `--final` adds final structural gates, including uniqueness from accepted constraints; `--legacy` checks old records and logging without conversion.
+- `calculate_research_progress.py --root PATH`: separate coverage and research dispositions, not a percent solved. `--legacy` reads historical Markdown.
+- `scan_df2_boundaries.py --pair A B` or `--query TEXT`: lexical concordance independent of a complete draft. It cannot establish adjacency, direction or narrator identity.
+- `log_session.py --start ISO --agent NAME --phase PHASE --task TEXT --notes TEXT`: CSV-safe session logging; see time-logging skill.
+- `prepare_fresh_run.py --destination PATH`: isolated allowlisted baseline with blank solving state, no old Git history and source/tooling provenance.
 
-**Phase 3: Pattern detection and clustering**  
-Identify recurring voices, characters, locations, tones, and motifs. Group pages into provisional narrative clusters without imposing internal order. Clusters are hypotheses and may overlap.
+Validation checks structure and internal consistency. Human/agent reasoning still has to establish what the passages mean. The body verifier does not authenticate the original transcription.
 
-**Phase 4: Internal ordering within clusters**  
-Propose page sequences within individual clusters using continuity cues (time, place, pronouns, quoted material). Test and refine these sequences, recording confidence and explicit falsifiers.
-
-**Phase 5: Cross-cluster stitching**  
-Connect ordered clusters into a single global sequence. Use shared characters, consequences, and deaths as linking constraints. At this stage, candidate murderers and victims begin to stabilise.
-
-**Phase 6: Convergence and falsification**  
-Stress-test the full ordering and murder list by actively seeking contradictions and alternative explanations. Resolve remaining inconsistencies until only local, non-structural uncertainty remains.
-
-Operational procedures for each phase (allowed actions, required Skills, outputs, and exit conditions) are defined in `Skills/cjb-phase-playbook/SKILL.md`.
-
-## Working loop
-
-1. Extract clues from a page into `## Notes`.
-2. Update the relevant `Indexes/*` entries.
-3. If proposing a linkage/sequence, record it (plus a falsifier) in `Order/hypotheses.md`.
-
-## Default sequencing (extraction-first)
-
-The default approach is:
-
-1. Do a complete extraction pass across **all 100 pages** (populate `## Notes` + keep indices current).
-2. Only then start resolving `Indexes/research_queue.md` items (quotes, calendar clues, locations), since later pages often answer earlier uncertainties.
-
-## Final output
-
-The canonical solution is recorded in `FINAL_SOLUTION.md`.
-
-This file contains:
-1) The list of murdered persons and their murderers
-2) The correct page order for all 100 pages
-
-It contains no working or explanation.
-
-## Skills (how we work)
-
-The authoritative procedures/templates live in these files:
-
-- `Skills/cjb-phase-playbook/SKILL.md`
-- `Skills/cjb-page-extraction/SKILL.md`
-- `Skills/cjb-index-maintenance/SKILL.md`
-- `Skills/cjb-order-hypotheses/SKILL.md`
-- `Skills/cjb-murder-analysis/SKILL.md`
-- `Skills/cjb-means-and-methods/SKILL.md`
-- `Skills/cjb-motive-and-relationships/SKILL.md`
-- `Skills/cjb-quote-research/SKILL.md`
-- `Skills/cjb-verification/SKILL.md`
-- `Skills/cjb-time-logging/SKILL.md`
-- `Skills/cjb-run-management/SKILL.md`
-- `Skills/cjb-date-research/SKILL.md`
-- `Skills/cjb-location-research/SKILL.md`
-
-## Integrity checking
-
-Run:
-
-- `python3 verify_pages.py`
-
-What “OK” means:
-
-- `Archive/Cain's Jawbone Unformatted.txt` matches `Archive/hash.txt`
-- Page body text (above `## Notes`) in `Pages/*.md` matches the archive
-
-It does **not** judge whether notes/hypotheses are correct.
-
-## Git workflow
-
-- Commit small, single-purpose changes (avoid mega-commits).
-- Use branches for competing ordering approaches or discrete runs.
-- Tag major milestones (e.g. `milestone-first-clustering-pass`).
-- If a hypothesis collapses, prefer `git revert` over rewriting history.
-
-## Agent runs & branching
-
-- A run branch represents an end-to-end workstream (e.g. full extraction pass, clustering pass) and may span multiple sessions/days: `run/YYYYMMDD-<agent>-<focus>`.
-- The active run metadata lives in `Worklog/current_run.txt`; leave it empty to signal no active run.
-- During a run:
-  - Stay on the recorded branch (no merging other branches in).
-  - Log start/end times via the time-logging skill.
-  - Commit frequently; final commit should be `Run summary: ...`.
-- After a run:
-  - Run `python3 verify_pages.py`, update `Worklog/worklog.csv`, merge to `main` only if the work is accepted, and clear `Worklog/current_run.txt`.
-
-## Spoilers policy
-
-- Do not import solved page orders, murderer/victim lists, or solution summaries.
-- Research is limited to historically appropriate sources (≤1934). In particular:
-  - Use Chambers' Book of Days to interpret date/saint/holiday references.
-  - Use the Highways & Byways series to ground geographic descriptions.
-  - Record findings in the indices/research queue.
+A fresh solving run needs the isolated baseline and a new context. Review the generated manifest and checks before solving; keep previous notes, hypotheses, reviews, worklogs and solution content inaccessible to that solver.
